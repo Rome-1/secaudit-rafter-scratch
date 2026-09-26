@@ -1,0 +1,59 @@
+---
+title: Kubernetes Access
+description: Teleport Kubernetes Access introduction, demo, and resources.
+---
+
+Teleport provides secure access to Kubernetes clusters.
+
+- Users can receive short-lived kubeconfig files (and certificates) using Single Sign-On (SSO) and switch between clusters without logging in twice.
+- Admins can use roles to implement policies, such as the best practice that developers must not access production.
+- Organizations can achieve compliance by capturing `kubectl` events and session recordings for `kubectl`.
+
+## SSO and Audit for Kubernetes Clusters
+
+Set up SSO, capture audit events, and sessions with Teleport running in a Kubernetes cluster.
+
+<video
+  muted
+  playsInline
+  controls
+>
+  <source
+    src="../../img/k8s/k8-access.mp4"
+    type="video/mp4"
+  />
+
+  <source
+    src="../../img/k8s/k8-access.webm"
+    type="video/webm"
+  />
+
+  Your browser does not support the video tag.
+</video>
+
+## Get started
+
+<TileSet>
+  <Tile icon="kubernetes" title="Teleport Kubernetes Access" href="./getting-started.mdx">
+
+    Get started with Teleport Kubernetes Access.
+
+  </Tile>
+</TileSet>
+
+## Guides
+
+<TileSet>
+  <Tile icon="kubernetes" title="Teleport Kubernetes Access for CI/CD" href="./guides/cicd.mdx">
+    Teleport Kubernetes Access for CI/CD.
+  </Tile>
+  <Tile icon="kubernetes" title="Teleport Kubernetes Access and Trusted Clusters" href="./guides/federation.mdx">
+    Federated Access using Teleport Trusted Clusters.
+  </Tile>
+  <Tile icon="kubernetes" title="Kubernetes Access Multiple Clusters" href="./guides/multiple-clusters.mdx">
+    Connecting Multiple Clusters with Teleport Kubernetes Access.
+  </Tile>
+  <Tile icon="kubernetes" title="Kubernetes Access from standalone Teleport" href="./guides/standalone-teleport.mdx">
+    Connecting standalone Teleport installations to Kubernetes clusters
+  </Tile>
+</TileSet>
