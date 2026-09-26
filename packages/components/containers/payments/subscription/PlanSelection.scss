@@ -1,0 +1,157 @@
+@import '~@proton/styles/scss/config';
+
+/*
+ * cycle selector
+*/
+@include media('<=#{em(1100, 16)}') {
+	.cycle-currency-selectors {
+		&.flex-nowrap {
+			flex-wrap: wrap;
+
+			> .flex-item-fluid {
+				min-inline-size: 100%;
+				margin-inline-start: 0;
+				margin-block-end: 0.25em;
+			}
+		}
+	}
+}
+
+.plan-selection {
+	display: grid;
+	grid-gap: 1.5em;
+	grid-template-columns: repeat(var(--plan-selection-number, 4), 1fr);
+
+	& &-plan {
+		border-radius: var(--border-radius-lg);
+	}
+
+	// dirty, but to avoid inserting content in tabs
+	&-currency-selector {
+		margin-block-end: -2.5em;
+	}
+
+	&-suffix {
+		min-block-size: rem(22); // just to keep elements aligned
+
+		&:empty {
+			@include media('<=small') {
+				min-block-size: 0;
+			}
+		}
+
+		@include media('<=#{em(1250, 16)}') {
+			// to check with l10n issues
+			min-inline-size: 100%;
+		}
+	}
+
+	.plan-selection {
+		&-plan-recommended {
+			border-width: 2px;
+
+			&-pill {
+				&-container {
+					position: absolute;
+					inset-block-end: calc(100% - 1em);
+					inset-inline: 0;
+				}
+
+				border-radius: 5em;
+			}
+		}
+
+		&-title {
+			.select {
+				border: 0;
+				padding: 0;
+				display: inline-block;
+				text-align: start;
+				block-size: auto;
+				background: transparent;
+
+				svg {
+					inline-size: rem(16);
+					block-size: rem(16);
+				}
+			}
+		}
+
+		&-info {
+			min-block-size: 6em;
+
+			@include media('<=#{em(1100, 16)}') {
+				min-block-size: 7em;
+			}
+
+			@include media('<=#{em(970, 16)}') {
+				min-block-size: 8.5em;
+			}
+
+			@include media('<=medium') {
+				min-block-size: 7em;
+			}
+
+			@include media('<=small') {
+				min-block-size: 0;
+			}
+		}
+	}
+
+	@include media('<=medium') {
+		grid-template-columns: repeat(2, 1fr);
+		grid-gap: 2.2em 1em;
+	}
+
+	@include media('<=small') {
+		grid-template-columns: repeat(1, 1fr);
+	}
+
+	// special case for b2b, put suffix on the line, not enough space
+	&--b2b {
+		.plan-selection-suffix {
+			min-inline-size: 100%;
+		}
+	}
+}
+
+.subscriptionCheckout {
+	&-column {
+		inline-size: rem(360); // as design request
+
+		@include media('<=medium') {
+			inline-size: rem(300); // to avoid left content shrinking too much
+		}
+
+		@include media('<=#{em(800, 16)}') {
+			inline-size: 100%; // a bit earlier than mobile breakpoint, same reason as above
+		}
+	}
+	@include media('<=#{em(800, 16)}') {
+		&-container {
+			position: static;
+		}
+
+		&-options {
+			&,
+			& .payment-container {
+				max-inline-size: 100%;
+			}
+		}
+	}
+
+	@include media('>#{em(800, 16)}') {
+		&-top-container {
+			display: flex;
+			flex-wrap: nowrap;
+		}
+	}
+}
+
+.plan-customiser {
+	& &-addon-label {
+		@include media('<=medium') {
+			min-inline-size: 8em;
+		}
+	}
+}

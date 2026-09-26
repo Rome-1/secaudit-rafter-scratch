@@ -1,0 +1,6011 @@
+{
+  "headers": {
+    "plural-forms": "nplurals=1; plural=0;",
+    "language": "id_ID"
+  },
+  "contexts": {
+    "Access level": {
+      "Full view (see all event details)": [
+        "Tampilan penuh (lihat seluruh rincian acara)"
+      ],
+      "Limited view (see only free/busy)": [
+        "Tampilan terbatas (hanya tampilkan yang lowong/sibuk)"
+      ]
+    },
+    "Action": {
+      "${ BRAND_NAME } introduction": [
+        "Pengenalan ${ BRAND_NAME }"
+      ],
+      "${ BRAND_NAME } shop": [
+        "Toko ${ BRAND_NAME }"
+      ],
+      "Activate recovery": [
+        "Aktifkan metode pemulihan"
+      ],
+      "Add": [
+        "Tambah"
+      ],
+      "Add address": [
+        "Tambah alamat"
+      ],
+      "Add contact": [
+        "Tambah kontak"
+      ],
+      "Add email": [
+        "Tambah email"
+      ],
+      "Add group": [
+        "Tambah grup"
+      ],
+      "Add new contact": [
+        "Tambah kontak baru"
+      ],
+      "Add new group": [
+        "Tambah grup baru"
+      ],
+      "Add notification": [
+        "Tambah notifikasi"
+      ],
+      "Add phone number": [
+        "Tambah nomor telepon"
+      ],
+      "Add to group": [
+        "Tambah ke grup"
+      ],
+      "Apply": [
+        "Terapkan"
+      ],
+      "Attach screenshot(s)": [
+        "Lampirkan tangkapan layar"
+      ],
+      "Attention required": [
+        "Diperlukan perhatian"
+      ],
+      "Authenticate": [
+        "Autentikasi"
+      ],
+      "Back": [
+        "Kembali"
+      ],
+      "Beta Access": [
+        "Akses Beta"
+      ],
+      "Cancel": [
+        "Batal"
+      ],
+      "Chat with us": [
+        "Mengobrol dengan kami"
+      ],
+      "Check import progress": [
+        "Cek proses impor"
+      ],
+      "Choose a file or drag it here": [
+        "Pilih berkas atau taruh di sini"
+      ],
+      "Clear data": [
+        "Bersihkan data"
+      ],
+      "Clear query": [
+        "Bersihkan kueri"
+      ],
+      "Click here.": [
+        "Klik di sini."
+      ],
+      "Close": [
+        "Tutup"
+      ],
+      "Close event popover": [
+        "Tutup kotak dialog acara"
+      ],
+      "Close navigation": [
+        "Tutup navigasi"
+      ],
+      "Close this banner": [
+        "Tutup spanduk ini"
+      ],
+      "Compose": [
+        "Tulis"
+      ],
+      "Confirm": [
+        "Konfirmasi"
+      ],
+      "Confirm opening of link ${ linkToShow }": [
+        "Konfirmasi untuk membuka tautan ${ linkToShow }"
+      ],
+      "Contact group": [
+        "Grup kontak"
+      ],
+      "Continue": [
+        "Lanjut"
+      ],
+      "Continue import": [
+        "Lanjutkan impor"
+      ],
+      "Continue to ${ calendarAppBareName }": [
+        "Lanjut ke ${ calendarAppBareName }"
+      ],
+      "Continue with Google": [
+        "Lanjutkan dengan Google"
+      ],
+      "Copy email to clipboard": [
+        "Salin email ke clipboard"
+      ],
+      "Copy link": [
+        "Salin tautan"
+      ],
+      "Create": [
+        "Buat"
+      ],
+      "Create a new contact group": [
+        "Buat grup kontak baru"
+      ],
+      "Create calendar": [
+        "Buat kalender"
+      ],
+      "Create event": [
+        "Buat acara"
+      ],
+      "Customize": [
+        "Atur"
+      ],
+      "Customize import": [
+        "Sesuaikan impor"
+      ],
+      "Decline invite": [
+        "Tolak undangan"
+      ],
+      "Delete": [
+        "Hapus"
+      ],
+      "Delete ${ selectedCount } contact groups": [
+        "Hapus ${ selectedCount } grup kontak"
+      ],
+      "Delete ${ selectedCount } contacts": [
+        "Hapus ${ selectedCount } kontak"
+      ],
+      "Delete contact": [
+        "Hapus kontak"
+      ],
+      "Delete contact group": [
+        "Hapus grup kontak"
+      ],
+      "Deselect all": [
+        "Batalkan semua pilihan"
+      ],
+      "Discard": [
+        "Buang"
+      ],
+      "Done": [
+        "Selesai"
+      ],
+      "Download": [
+        "Unduh"
+      ],
+      "Edit": [
+        "Sunting"
+      ],
+      "Edit email address": [
+        "Ubah alamat email"
+      ],
+      "Edit label": [
+        "Sunting label"
+      ],
+      "Edit phone number": [
+        "Ubah nomor telepon"
+      ],
+      "Edit sign-in details": [
+        "Sunting rincian masuk"
+      ],
+      "Email settings": [
+        "Pengaturan email"
+      ],
+      "enable desktop notifications": [
+        "mengaktifkan notifikasi desktop"
+      ],
+      "Export": [
+        "Ekspor"
+      ],
+      "Export contact group": [
+        "Ekspor grup kontak"
+      ],
+      "Export contacts": [
+        "Ekspor kontak"
+      ],
+      "Forward as attachment": [
+        "Teruskan sebagai lampiran"
+      ],
+      "Get started": [
+        "Selesai"
+      ],
+      "Get verification code": [
+        "Dapatkan kode verifikasi"
+      ],
+      "Go to label": [
+        "Tuju label"
+      ],
+      "Go to panel ${ index }": [
+        "Ke panel ${ index }"
+      ],
+      "Go to settings": [
+        "Ke pengaturan"
+      ],
+      "Got it": [
+        "Dimengerti"
+      ],
+      "Hide advanced PGP settings": [
+        "Sembunyikan pengaturan PGP lanjutan"
+      ],
+      "Hide affected calendars": [
+        "Sembunyikan kalender yang terpengaruh"
+      ],
+      "Hide folders": [
+        "Sembunyikan folder"
+      ],
+      "Hide labels": [
+        "Sembunyikan label"
+      ],
+      "Hide time zones": [
+        "Sembunyikan zona waktu"
+      ],
+      "I have a question": [
+        "Saya memiliki pertanyaan"
+      ],
+      "Import": [
+        "Impor"
+      ],
+      "import": [
+        "impor"
+      ],
+      "Import calendars": [
+        "Impor kalender"
+      ],
+      "Import contacts": [
+        "Impor kontak"
+      ],
+      "Import emails": [
+        "Impor email"
+      ],
+      "Import events": [
+        "Impor acara"
+      ],
+      "Import from .csv or vCard": [
+        "Impor dari .csv atau vCard"
+      ],
+      "Join calendar": [
+        "Gabung ke kalender"
+      ],
+      "Load image": [
+        "Muat gambar"
+      ],
+      "Log in": [
+        "Masuk"
+      ],
+      "Make this participant optional": [
+        "Jadikan peserta ini opsional"
+      ],
+      "Make this participant required": [
+        "Jadikan peserta ini wajib"
+      ],
+      "Manage addresses": [
+        "Kelola alamat"
+      ],
+      "Manage folders": [
+        "Kelola folder"
+      ],
+      "Manage labels": [
+        "Kelola label"
+      ],
+      "Mark for deletion": [
+        "Tandai untuk dihapus"
+      ],
+      "Maybe": [
+        "Mungkin"
+      ],
+      "Maybe I'll attend": [
+        "Mungkin saya akan hadir"
+      ],
+      "Merge": [
+        "Gabung"
+      ],
+      "Merge contacts": [
+        "Gabungkan kontak"
+      ],
+      "More info: ${ safeTitle }": [
+        "Info lebih lanjut: ${ safeTitle }"
+      ],
+      "More options": [
+        "Opsi lainnya"
+      ],
+      "New event": [
+        "Acara baru"
+      ],
+      "Next": [
+        "Selanjutnya"
+      ],
+      "Next day": [
+        "Hari berikutnya"
+      ],
+      "Next month": [
+        "Bulan selanjutnya"
+      ],
+      "Next week": [
+        "Minggu berikutnya"
+      ],
+      "Next year": [
+        "Tahun berikutnya"
+      ],
+      "No": [
+        "Tidak"
+      ],
+      "No, I won't attend": [
+        "Tidak, saya tidak akan hadir"
+      ],
+      "No, thanks": [
+        "Tidak, terima kasih"
+      ],
+      "OK": [
+        "OK"
+      ],
+      "Open navigation": [
+        "Buka navigasi"
+      ],
+      "Open settings": [
+        "Buka pengaturan"
+      ],
+      "Preview contact": [
+        "Pratinjau kontak"
+      ],
+      "Previous day": [
+        "Hari sebelumnya"
+      ],
+      "Previous month": [
+        "Bulan sebelumnya"
+      ],
+      "Previous week": [
+        "Minggu sebelumnya"
+      ],
+      "Previous year": [
+        "Tahun sebelumnya"
+      ],
+      "Quit": [
+        "Keluar"
+      ],
+      "Re-sign": [
+        "Tanda tangani ulang"
+      ],
+      "Reconnect": [
+        "Sambungkan kembali"
+      ],
+      "Recover data": [
+        "Pulihkan data"
+      ],
+      "Refer a friend": [
+        "Rujuk teman"
+      ],
+      "refresh the page": [
+        "muat ulang halaman"
+      ],
+      "Refresh the page": [
+        "Muat ulang halaman"
+      ],
+      "Remove": [
+        "Hapus"
+      ],
+      "Remove this notification": [
+        "Hapus notifikasi ini"
+      ],
+      "Remove this participant": [
+        "Hapus peserta ini"
+      ],
+      "Rename": [
+        "Ubah nama"
+      ],
+      "Report a problem": [
+        "Laporkan masalah"
+      ],
+      "Request a feature": [
+        "Minta fitur"
+      ],
+      "Request new code": [
+        "Minta kode baru"
+      ],
+      "Resend code": [
+        "Kirim ulang kode"
+      ],
+      "Reset to default": [
+        "Atur ulang ke awal"
+      ],
+      "Save": [
+        "Simpan"
+      ],
+      "Search countries": [
+        "Cari negara"
+      ],
+      "See plan features": [
+        "Lihat seluruh fitur paket"
+      ],
+      "Select all": [
+        "Pilih semua"
+      ],
+      "Select timezone": [
+        "Pilih zona waktu"
+      ],
+      "Send": [
+        "Kirim"
+      ],
+      "Send feedback": [
+        "Kirim tanggapan"
+      ],
+      "Set recovery phrase": [
+        "Tentukan frasa pemulihan"
+      ],
+      "Share": [
+        "Bagikan"
+      ],
+      "Show advanced PGP settings": [
+        "Tampilkan pengaturan PGP lanjutan"
+      ],
+      "Show affected calendars": [
+        "Tampilkan kalender yang terpengaruh"
+      ],
+      "Show folders": [
+        "Tampilkan folder"
+      ],
+      "Show labels": [
+        "Tampilkan label"
+      ],
+      "Show less": [
+        "Tampilkan lebih sedikit"
+      ],
+      "Show more": [
+        "Tampilkan lebih banyak"
+      ],
+      "Show time zones": [
+        "Tampilkan zona waktu"
+      ],
+      "Sign out": [
+        "Keluar"
+      ],
+      "Signing out": [
+        "Keluar"
+      ],
+      "Skip": [
+        "Lewati"
+      ],
+      "Skip verification": [
+        "Lewati verifikasi"
+      ],
+      "Start import": [
+        "Mulai impor"
+      ],
+      "Start setup": [
+        "Mulai penyetelan"
+      ],
+      "Stay": [
+        "Tinggal"
+      ],
+      "Submit": [
+        "Kirim"
+      ],
+      "Theme": [
+        "Tema"
+      ],
+      "Today": [
+        "Hari ini"
+      ],
+      "Trust": [
+        "Percayai"
+      ],
+      "Try another method": [
+        "Coba metode lain"
+      ],
+      "Unlock data": [
+        "Buka kunci data"
+      ],
+      "Unmark for deletion": [
+        "Batal tandai untuk menghapus"
+      ],
+      "Untrust": [
+        "Berhenti percayai"
+      ],
+      "Update": [
+        "Perbarui"
+      ],
+      "Update recovery file": [
+        "Perbarui berkas pemulihan"
+      ],
+      "Update recovery phrase": [
+        "Perbarui frasa pemulihan"
+      ],
+      "Upgrade": [
+        "Tingkatkan"
+      ],
+      "Upgrade now": [
+        "Tingkatkan sekarang"
+      ],
+      "Upload picture": [
+        "Unggah gambar"
+      ],
+      "Use ${ label } theme": [
+        "Gunakan tema ${ label }"
+      ],
+      "Use authentication code": [
+        "Gunakan kode autentikasi"
+      ],
+      "Use for sending": [
+        "Gunakan untuk pengiriman"
+      ],
+      "Use recovery code": [
+        "Gunakan kode pemulihan"
+      ],
+      "Verify": [
+        "Verifikasi"
+      ],
+      "Verify account": [
+        "Verifikasi akun"
+      ],
+      "View": [
+        "Lihat"
+      ],
+      "View invoice": [
+        "Lihat tagihan"
+      ],
+      "Yes": [
+        "Ya"
+      ],
+      "Yes, I'll attend": [
+        "Ya, saya akan hadir"
+      ]
+    },
+    "Action subline": {
+      "Anyone with the link can view your calendar": [
+        "Siapa pun yang memiliki tautan ini akan dapat melihat kalender Anda"
+      ],
+      "They can view or edit your calendar": [
+        "Mereka dapat melihat atau menyunting kalender Anda"
+      ]
+    },
+    "Action title": {
+      "Share with ${ BRAND_NAME } users": [
+        "Bagikan dengan pengguna ${ BRAND_NAME }"
+      ],
+      "Share with anyone": [
+        "Bagikan kepada siapa saja"
+      ]
+    },
+    "Actions message": {
+      "${ addContact } or ${ importContact }.": [
+        "${ addContact } atau ${ importContact }."
+      ],
+      "No results found.": [
+        "Tidak ada hasil yang ditemukan."
+      ],
+      "Please try another search term.": [
+        "Silakan coba kata kunci pencarian lainnya."
+      ],
+      "You don't have any contacts.": [
+        "Anda tidak memiliki kontak."
+      ],
+      "You don't have any groups.": [
+        "Anda tidak memiliki grup."
+      ]
+    },
+    "Alarm notification": {
+      "${ title } started at ${ formattedHour }": [
+        "${ title } dimulai pada pukul ${ formattedHour }"
+      ],
+      "${ title } started on ${ formattedDate }": [
+        "${ title } dimulai pada ${ formattedDate }"
+      ],
+      "${ title } started on ${ formattedDate } at ${ formattedHour }": [
+        "${ title } dimulai pada ${ formattedDate } pukul ${ formattedHour }"
+      ],
+      "${ title } started on ${ formattedDateWithoutTime }": [
+        "${ title } dimulai pada ${ formattedDateWithoutTime }"
+      ],
+      "${ title } started on ${ formattedDateWithTime }": [
+        "${ title } telah dimulai pada ${ formattedDateWithTime }"
+      ],
+      "${ title } started yesterday": [
+        "${ title } dimulai besok"
+      ],
+      "${ title } started yesterday at ${ formattedHour }": [
+        "${ title } dimulai besok pada pukul ${ formattedHour }"
+      ],
+      "${ title } starts at ${ formattedHour }": [
+        "${ title } akan dimulai pada pukul ${ formattedHour }"
+      ],
+      "${ title } starts now": [
+        "${ title } mulai sekarang"
+      ],
+      "${ title } starts on ${ formattedDate }": [
+        "${ title } akan dimulai pada ${ formattedDate }"
+      ],
+      "${ title } starts on ${ formattedDate } at ${ formattedHour }": [
+        "${ title } akan dimulai pada ${ formattedDate } pukul ${ formattedHour }"
+      ],
+      "${ title } starts on ${ formattedDateWithoutTime }": [
+        "${ title } akan dimulai pada ${ formattedDateWithoutTime }"
+      ],
+      "${ title } starts on ${ formattedDateWithTime }": [
+        "${ title } akan dimulai pada ${ formattedDateWithTime }"
+      ],
+      "${ title } starts today": [
+        "${ title } mulai hari ini"
+      ],
+      "${ title } starts tomorrow": [
+        "${ title } akan dimulai besok"
+      ],
+      "${ title } starts tomorrow at ${ formattedHour }": [
+        "${ title } akan dimulai besok pada pukul ${ formattedHour }"
+      ]
+    },
+    "Alert": {
+      "By leaving now, some contacts may not be imported": [
+        "Dengan keluar sekarang, beberapa kontak mungkin tidak diimpor"
+      ],
+      "By leaving now, some events may not be imported": [
+        "Abaila Anda keluar sekarang, sebagian acara kemungkinan tidak akan terimpor"
+      ],
+      "By leaving now, you will lose your event.": [
+        "Acara akan dihapus jika Anda keluar."
+      ]
+    },
+    "Apps dropdown": {
+      "${ BRAND_NAME } applications": [
+        "Aplikasi ${ BRAND_NAME }"
+      ]
+    },
+    "Attached ics file error": {
+      "Empty ICS file": [
+        "Berkas ICS kosong"
+      ],
+      "Invalid event": [
+        "Acara tidak valid"
+      ],
+      "Invalid ICS file": [
+        "Berkas ICS tidak valid"
+      ],
+      "Invalid method": [
+        "Metode tidak valid"
+      ],
+      "Unsupported calendar component": [
+        "Komponen kalender tidak didukung"
+      ],
+      "Unsupported event": [
+        "Acara tidak didukung"
+      ]
+    },
+    "Attendee role": {
+      "Optional": [
+        "Opsional"
+      ]
+    },
+    "Badge": {
+      "Coming soon": [
+        "Segera hadir"
+      ]
+    },
+    "Beta access description": {
+      "Beta Access lets you use the beta version of ${ MAIL_APP_NAME }, ${ CALENDAR_APP_NAME }, and ${ DRIVE_APP_NAME } before they are released to the public. This means you can be the first to try new products, get new updates, and use new features.": [
+        "Akses Beta memungkinkan Anda untuk menggunakan versi beta dari ${ MAIL_APP_NAME }, ${ CALENDAR_APP_NAME }, dan ${ DRIVE_APP_NAME } sebelum produk-produk ini dirilis secara publik. Dengan Akses Beta, Anda berkesempatan menjadi orang pertama yang mencoba berbagai produk, pembaruan, dan fitur terbaru kami."
+      ],
+      "If you encounter issues, you can always disable Beta Access.": [
+        "Apabila Anda menemui suatu masalah, Anda dapat menonaktifkan Akses Beta kapan saja."
+      ]
+    },
+    "Bug category": {
+      "Application problem": [
+        "Masalah aplikasi"
+      ],
+      "Bridge problem": [
+        "Masalah bridge"
+      ],
+      "Calendar problem": [
+        "Masalah kalender"
+      ],
+      "Connection problem": [
+        "Masalah koneksi"
+      ],
+      "Contacts problem": [
+        "Masalah kontak"
+      ],
+      "Custom domain problem": [
+        "Masalah domain khusus"
+      ],
+      "Drive problem": [
+        "Masalah Drive"
+      ],
+      "Feature request": [
+        "Permintaan fitur"
+      ],
+      "Import / export problem": [
+        "Masalah impor / ekspor"
+      ],
+      "Installation problem": [
+        "Masalah instalasi"
+      ],
+      "Mail problem": [
+        "Masalah Mail"
+      ],
+      "Manual setup problem": [
+        "Masalah pemasangan manual"
+      ],
+      "Other": [
+        "Lainnya"
+      ],
+      "Payments problem": [
+        "Masalah pembayaran"
+      ],
+      "Sign in problem": [
+        "Masalah masuk"
+      ],
+      "Sign up problem": [
+        "Masalah pendaftaran"
+      ],
+      "Signup problem": [
+        "Masalah pendaftaran"
+      ],
+      "Slow speed problem": [
+        "Masalah kecepatan"
+      ],
+      "Speed problem": [
+        "Masalah kecepatan"
+      ],
+      "Streaming problem": [
+        "Masalah pemutaran konten"
+      ],
+      "Update problem": [
+        "Masalah pembaruan aplikasi"
+      ],
+      "VPN problem": [
+        "Masalah VPN"
+      ],
+      "Website access problem": [
+        "Masalah akses situs"
+      ]
+    },
+    "Button": {
+      "Continue using ${ MAIL_APP_NAME }.": [
+        "Lanjut dengan ${ MAIL_APP_NAME }."
+      ]
+    },
+    "Calendar access select label": {
+      "Add people or groups": [
+        "Tambahkan anggota atau grup"
+      ]
+    },
+    "Calendar invite buttons label": {
+      "Attending?": [
+        "Hadiri?"
+      ]
+    },
+    "Calendar invite info": {
+      "${ name } accepted the invitation": [
+        "${ name } menerima undangan"
+      ],
+      "${ name } declined the invitation": [
+        "${ name } menolak undangan"
+      ],
+      "${ name } hasn't answered the invitation yet": [
+        "${ name } belum menjawab undangan"
+      ],
+      "${ name } tentatively accepted the invitation": [
+        "${ name } ragu-ragu menerima undangan"
+      ],
+      "This event has been canceled": [
+        "Acara ini telah dibatalkan"
+      ],
+      "You accepted the invitation": [
+        "Anda menerima undangan"
+      ],
+      "You declined the invitation": [
+        "Anda menolak undangan"
+      ],
+      "You haven't answered the invitation yet": [
+        "Anda belum menjawab undangan"
+      ],
+      "You tentatively accepted the invitation": [
+        "Anda sementara menerima undangan"
+      ]
+    },
+    "Calendar link sharing label input assistive text": {
+      "Only you can see the label": [
+        "Hanya Anda yang akan dapat melihat label"
+      ]
+    },
+    "Calendar permissions hint": {
+      "You can change or remove permissions at any time.": [
+        "Anda dapat mengubah atau mencabut izin yang ada kapan saja."
+      ]
+    },
+    "Calendar permissions label": {
+      "Permissions": [
+        "Izin"
+      ]
+    },
+    "Calendar self sharing error": {
+      "You already have access to this calendar": [
+        "Anda telah memiliki akses ke kalender ini"
+      ]
+    },
+    "Calendar share limit modal": {
+      "Manage links": [
+        "Kelola tautan"
+      ],
+      "Manage members": [
+        "Kelola anggota"
+      ],
+      "Unable to create more calendar links": [
+        "Tidak dapat membuat lebih banyak tautan"
+      ],
+      "Unable to share this calendar with more ${ BRAND_NAME } users": [
+        "Tidak dapat membagikan kalender ini dengan pengguna ${ BRAND_NAME } lainnya"
+      ],
+      "You have reached the maximum of ${ MAX_CALENDAR_MEMBERS } members for this calendar.\nTo share this calendar with more ${ BRAND_NAME } accounts, remove some members.": [
+        "Anda telah mencapai batas maksimum ${ MAX_CALENDAR_MEMBERS } pengguna untuk kalender ini.\nUntuk dapat membagikan kalender ini dengan pengguna ${ BRAND_NAME } lainnya, silakan hapus sebagian pengguna terlebih dahulu."
+      ],
+      "You have reached the maximum of ${ MAX_LINKS_PER_CALENDAR } links for this calendar.\nTo create a new link to this calendar, delete an existing one.": [
+        "Anda telah mencapai batas maksimum ${ MAX_LINKS_PER_CALENDAR } tautan untuk kalender ini.\nUntuk dapat membuat tautan baru bagi kalender ini, silakan hapus tautan yang telah ada terlebih dahulu."
+      ]
+    },
+    "Calendar sharing access option label": {
+      "Edit (view, create and edit event details)": [
+        "Sunting (lihat, buat, dan sunting rincian acara)"
+      ],
+      "View (see all event details)": [
+        "Tampilan penuh (lihat seluruh rincian acara)"
+      ]
+    },
+    "Calendar sidebar dropdown item": {
+      "Add calendar from URL": [
+        "Tambah kalender dari URL"
+      ],
+      "More options": [
+        "Opsi lainya"
+      ]
+    },
+    "Calendar sidebar; Calendar info": {
+      "Shared with me": [
+        "Dibagikan dengan saya"
+      ]
+    },
+    "Calendar status": {
+      "Not synced": [
+        "Tidak disinkronkan"
+      ],
+      "Syncing": [
+        "Menyinkronkan"
+      ]
+    },
+    "Calendar subscription not synced error": {
+      "Calendar could not be decrypted": [
+        "Kalender tidak dapat didekripsi"
+      ],
+      "Calendar is syncing": [
+        "Kalender sedang menyinkronkan data"
+      ],
+      "Calendar is syncing: it may take several minutes for all of its events to show up.": [
+        "Kalender sedang menyinkronkan data: proses ini dapat berlangsung hingga beberapa menit sebelum seluruh acara dapat dimunculkan."
+      ],
+      "Calendar is too big": [
+        "Ukuran kalender terlalu besar"
+      ],
+      "Calendar link is not accessible": [
+        "Tautan kalender tidak dapat diakses"
+      ],
+      "Calendar link is temporarily inaccessible": [
+        "Tautan kalender untuk sementara tidak dapat diakses"
+      ],
+      "Failed to sync calendar": [
+        "Gagal menyinkronkan kalender"
+      ],
+      "More than 12 hours passed since last update": [
+        "Lebih dari 12 jam telah berlalu sejak pembaruan terakhir"
+      ],
+      "Unsupported calendar format": [
+        "Format kalender tidak didukung"
+      ]
+    },
+    "Calendar subscription not synced error; long version": {
+      "Calendar link is not accessible from outside the calendar provider's ecosystem.": [
+        "Tautan kalender tidak dapat diakses dari luar ekosistem penyedia kalender."
+      ],
+      "Calendar link is temporarily inaccessible. Please verify that the link from the calendar provider is still valid.": [
+        "Tautan kalender untuk sementara tidak dapat diakses. Pastikan tautan dari penyedia kalender masih valid."
+      ],
+      "More than 12 hours passed since last update — ${ CALENDAR_APP_NAME } will try to update the calendar in a few hours.": [
+        "Lebih dari 12 jam telah berlalu sejak pembaruan terakhir — ${ CALENDAR_APP_NAME } akan mencoba untuk memperbarui kalender dalam beberapa jam."
+      ]
+    },
+    "Calendar view": {
+      "Day": [
+        "Hari"
+      ],
+      "Month": [
+        "Bulan"
+      ],
+      "Week": [
+        "Pekan"
+      ]
+    },
+    "Calendar view selector": {
+      "Change time range to": [
+        "Ubah rentang waktu menjadi"
+      ]
+    },
+    "Calendar view; more events collapsed": {
+      "${ more } more": [
+        "${ more } lainnya"
+      ]
+    },
+    "Collapsible tooltip": {
+      "Collapse": [
+        "Ciutkan"
+      ],
+      "Expand": [
+        "Lebarkan"
+      ]
+    },
+    "colon": {
+      ": ": [
+        ": "
+      ]
+    },
+    "color": {
+      "carrot": [
+        "wortel"
+      ],
+      "cerise": [
+        "ceri"
+      ],
+      "cobalt": [
+        "kobalt"
+      ],
+      "copper": [
+        "tembaga"
+      ],
+      "enzian": [
+        "enzian"
+      ],
+      "fern": [
+        "perdu"
+      ],
+      "forest": [
+        "hutan"
+      ],
+      "ocean": [
+        "samudera"
+      ],
+      "olive": [
+        "zaitun"
+      ],
+      "pacific": [
+        "pasifik"
+      ],
+      "pickle": [
+        "acar"
+      ],
+      "pine": [
+        "pinus"
+      ],
+      "pink": [
+        "merah jambu"
+      ],
+      "plum": [
+        "plum"
+      ],
+      "purple": [
+        "ungu"
+      ],
+      "reef": [
+        "karang"
+      ],
+      "sahara": [
+        "sahara"
+      ],
+      "slateblue": [
+        "biru tanah"
+      ],
+      "soil": [
+        "tanah"
+      ],
+      "strawberry": [
+        "stroberi"
+      ]
+    },
+    "Confirm modal title": {
+      "Quit import customization?": [
+        "Keluar dari menu pengaturan proses impor?"
+      ],
+      "Quit import?": [
+        "Keluar dari impor?"
+      ]
+    },
+    "Contact field label": {
+      "Address": [
+        "Alamat"
+      ],
+      "Anniversary": [
+        "Hari Pernikahan"
+      ],
+      "Birthday": [
+        "Tanggal lahir"
+      ],
+      "Email": [
+        "Email"
+      ],
+      "Gender": [
+        "Jenis kelamin"
+      ],
+      "Geo": [
+        "Koordinat"
+      ],
+      "Language": [
+        "Bahasa"
+      ],
+      "Logo": [
+        "Logo"
+      ],
+      "Member": [
+        "Anggota"
+      ],
+      "Name": [
+        "Nama"
+      ],
+      "Note": [
+        "Catatan"
+      ],
+      "Organization": [
+        "Organisasi"
+      ],
+      "Phone": [
+        "Telepon"
+      ],
+      "Photo": [
+        "Foto"
+      ],
+      "Role": [
+        "Peran"
+      ],
+      "Timezone": [
+        "Zona waktu"
+      ],
+      "Title": [
+        "Gelar"
+      ],
+      "URL": [
+        "URL"
+      ]
+    },
+    "Contact type label": {
+      "Fax": [
+        "Faks"
+      ],
+      "Main": [
+        "Utama"
+      ],
+      "Mobile": [
+        "Seluler"
+      ],
+      "Other": [
+        "Lainnya"
+      ],
+      "Pager": [
+        "Pager"
+      ],
+      "Personal": [
+        "Pribadi"
+      ],
+      "Work": [
+        "Kantor"
+      ],
+      "Yomi": [
+        "Yomi"
+      ]
+    },
+    "Country name": {
+      "Abkhazia": [
+        "Abkhazia"
+      ],
+      "Afghanistan": [
+        "Afghanistan"
+      ],
+      "Albania": [
+        "Albania"
+      ],
+      "Algeria": [
+        "Aljazair"
+      ],
+      "American Samoa": [
+        "Samoa Amerika"
+      ],
+      "Andorra": [
+        "Andorra"
+      ],
+      "Angola": [
+        "Angola"
+      ],
+      "Anguilla": [
+        "Anguilla"
+      ],
+      "Antarctica": [
+        "Antartika"
+      ],
+      "Antigua and Barbuda": [
+        "Antigua dan Barbuda"
+      ],
+      "Argentina": [
+        "Argentina"
+      ],
+      "Armenia": [
+        "Armenia"
+      ],
+      "Aruba": [
+        "Aruba"
+      ],
+      "Ascension Island": [
+        "Pulau Ascension"
+      ],
+      "Australia": [
+        "Australia"
+      ],
+      "Austria": [
+        "Austria"
+      ],
+      "Azerbaijan": [
+        "Azerbaijan"
+      ],
+      "Bahamas": [
+        "Bahama"
+      ],
+      "Bahrain": [
+        "Bahrain"
+      ],
+      "Bangladesh": [
+        "Bangladesh"
+      ],
+      "Barbados": [
+        "Barbados"
+      ],
+      "Belarus": [
+        "Belarus"
+      ],
+      "Belgium": [
+        "Belgia"
+      ],
+      "Belize": [
+        "Belize"
+      ],
+      "Benin": [
+        "Benin"
+      ],
+      "Bermuda": [
+        "Bermuda"
+      ],
+      "Bhutan": [
+        "Bhutan"
+      ],
+      "Bolivia": [
+        "Bolivia"
+      ],
+      "Bonaire, Sint Eustatius and Saba": [
+        "Bonaire, Sint Eustatius dan Saba"
+      ],
+      "Bosnia and Herzegovina": [
+        "Bosnia dan Herzegovina"
+      ],
+      "Botswana": [
+        "Botswana"
+      ],
+      "Bouvet Island": [
+        "Pulau Bouvet"
+      ],
+      "Brazil": [
+        "Brasil"
+      ],
+      "British Indian Ocean Territory": [
+        "Teritori Samudera Hindia Inggris"
+      ],
+      "Brunei Darussalam": [
+        "Brunei Darussalam"
+      ],
+      "Bulgaria": [
+        "Bulgaria"
+      ],
+      "Burkina Faso": [
+        "Burkina Faso"
+      ],
+      "Burundi": [
+        "Burundi"
+      ],
+      "Cambodia": [
+        "Kamboja"
+      ],
+      "Cameroon": [
+        "Kamerun"
+      ],
+      "Canada": [
+        "Kanada"
+      ],
+      "Cape Verde": [
+        "Tanjung Verde"
+      ],
+      "Cayman Islands": [
+        "Kepulauan Cayman"
+      ],
+      "Central African Republic": [
+        "Republik Afrika Tengah"
+      ],
+      "Chad": [
+        "Chad"
+      ],
+      "Chile": [
+        "Cili"
+      ],
+      "China": [
+        "Tiongkok"
+      ],
+      "Christmas Island": [
+        "Pulau Christmas"
+      ],
+      "Cocos (Keeling) Islands": [
+        "Kepulauan Cocos (Keeling)"
+      ],
+      "Colombia": [
+        "Kolombia"
+      ],
+      "Comoros": [
+        "Komoro"
+      ],
+      "Congo": [
+        "Kongo"
+      ],
+      "Congo, Democratic Republic of the": [
+        "Republik Demokratik Kongo"
+      ],
+      "Cook Islands": [
+        "Kepulauan Cook"
+      ],
+      "Costa Rica": [
+        "Kosta Rika"
+      ],
+      "Croatia": [
+        "Kroasia"
+      ],
+      "Cuba": [
+        "Kuba"
+      ],
+      "Curaçao": [
+        "Curaçao"
+      ],
+      "Cyprus": [
+        "Siprus"
+      ],
+      "Czech Republic": [
+        "Republik Ceko"
+      ],
+      "Côte d'Ivoire": [
+        "Pantai Gading"
+      ],
+      "Denmark": [
+        "Denmark"
+      ],
+      "Djibouti": [
+        "Djibouti"
+      ],
+      "Dominica": [
+        "Dominika"
+      ],
+      "Dominican Republic": [
+        "Republik Dominika"
+      ],
+      "Ecuador": [
+        "Ekuador"
+      ],
+      "Egypt": [
+        "Mesir"
+      ],
+      "El Salvador": [
+        "El Salvador"
+      ],
+      "Equatorial Guinea": [
+        "Guinea Ekuatorial"
+      ],
+      "Eritrea": [
+        "Eritrea"
+      ],
+      "Estonia": [
+        "Estonia"
+      ],
+      "Eswatini": [
+        "Eswatini"
+      ],
+      "Ethiopia": [
+        "Ethiopia"
+      ],
+      "Falkland Islands": [
+        "Kepulauan Falkland"
+      ],
+      "Faroe Islands": [
+        "Kepulauan Faroe"
+      ],
+      "Federated States of Micronesia": [
+        "Federasi Mikronesia"
+      ],
+      "Fiji": [
+        "Fiji"
+      ],
+      "Finland": [
+        "Finlandia"
+      ],
+      "France": [
+        "Perancis"
+      ],
+      "French Guiana": [
+        "Guyana Perancis"
+      ],
+      "French Polynesia": [
+        "Polinesia Perancis"
+      ],
+      "French Southern Territories": [
+        "Teritori Selatan Perancis"
+      ],
+      "Gabon": [
+        "Gabon"
+      ],
+      "Gambia": [
+        "Gambia"
+      ],
+      "Georgia": [
+        "Georgia"
+      ],
+      "Germany": [
+        "Jerman"
+      ],
+      "Ghana": [
+        "Ghana"
+      ],
+      "Gibraltar": [
+        "Gibraltar"
+      ],
+      "Greece": [
+        "Yunani"
+      ],
+      "Greenland": [
+        "Greenland"
+      ],
+      "Grenada": [
+        "Grenada"
+      ],
+      "Guadeloupe": [
+        "Guadeloupe"
+      ],
+      "Guam": [
+        "Guam"
+      ],
+      "Guatemala": [
+        "Guatemala"
+      ],
+      "Guernsey": [
+        "Guernsey"
+      ],
+      "Guinea": [
+        "Guinea"
+      ],
+      "Guinea-Bissau": [
+        "Guinea-Bissau"
+      ],
+      "Guyana": [
+        "Guyana"
+      ],
+      "Haiti": [
+        "Haiti"
+      ],
+      "Heard Island and McDonald Islands": [
+        "Pulau Heard dan Kepulauan McDonald"
+      ],
+      "Holy See (Vatican City State)": [
+        "Takhta Suci (Negara-Kota Vatikan)"
+      ],
+      "Honduras": [
+        "Honduras"
+      ],
+      "Hong Kong": [
+        "Hong Kong"
+      ],
+      "Hungary": [
+        "Hungaria"
+      ],
+      "Iceland": [
+        "Islandia"
+      ],
+      "India": [
+        "India"
+      ],
+      "Indonesia": [
+        "Indonesia"
+      ],
+      "International": [
+        "Internasional"
+      ],
+      "Iran": [
+        "Iran"
+      ],
+      "Iraq": [
+        "Irak"
+      ],
+      "Ireland": [
+        "Irlandia"
+      ],
+      "Isle of Man": [
+        "Pulau Mann"
+      ],
+      "Israel": [
+        "Israel"
+      ],
+      "Italy": [
+        "Italia"
+      ],
+      "Jamaica": [
+        "Jamaika"
+      ],
+      "Japan": [
+        "Jepang"
+      ],
+      "Jersey": [
+        "Jersey"
+      ],
+      "Jordan": [
+        "Yordania"
+      ],
+      "Kazakhstan": [
+        "Kazakhstan"
+      ],
+      "Kenya": [
+        "Kenya"
+      ],
+      "Kiribati": [
+        "Kiribati"
+      ],
+      "Kosovo": [
+        "Kosovo"
+      ],
+      "Kuwait": [
+        "Kuwait"
+      ],
+      "Kyrgyzstan": [
+        "Kirgizstan"
+      ],
+      "Laos": [
+        "Laos"
+      ],
+      "Latvia": [
+        "Latvia"
+      ],
+      "Lebanon": [
+        "Lebanon"
+      ],
+      "Lesotho": [
+        "Lesotho"
+      ],
+      "Liberia": [
+        "Liberia"
+      ],
+      "Libya": [
+        "Libya"
+      ],
+      "Liechtenstein": [
+        "Liechtenstein"
+      ],
+      "Lithuania": [
+        "Lithuania"
+      ],
+      "Luxembourg": [
+        "Luxembourg"
+      ],
+      "Macao": [
+        "Makau"
+      ],
+      "Madagascar": [
+        "Madagaskar"
+      ],
+      "Malawi": [
+        "Malawi"
+      ],
+      "Malaysia": [
+        "Malaysia"
+      ],
+      "Maldives": [
+        "Maladewa"
+      ],
+      "Mali": [
+        "Mali"
+      ],
+      "Malta": [
+        "Malta"
+      ],
+      "Marshall Islands": [
+        "Kepulauan Marshall"
+      ],
+      "Martinique": [
+        "Martinique"
+      ],
+      "Mauritania": [
+        "Mauritania"
+      ],
+      "Mauritius": [
+        "Mauritius"
+      ],
+      "Mayotte": [
+        "Mayotte"
+      ],
+      "Mexico": [
+        "Meksiko"
+      ],
+      "Moldova": [
+        "Moldova"
+      ],
+      "Monaco": [
+        "Monako"
+      ],
+      "Mongolia": [
+        "Mongolia"
+      ],
+      "Montenegro": [
+        "Montenegro"
+      ],
+      "Montserrat": [
+        "Montserrat"
+      ],
+      "Morocco": [
+        "Maroko"
+      ],
+      "Mozambique": [
+        "Mozambik"
+      ],
+      "Myanmar": [
+        "Myanmar"
+      ],
+      "Namibia": [
+        "Namibia"
+      ],
+      "Nauru": [
+        "Nauru"
+      ],
+      "Nepal": [
+        "Nepal"
+      ],
+      "Netherlands": [
+        "Belanda"
+      ],
+      "New Caledonia": [
+        "Kaledonia Baru"
+      ],
+      "New Zealand": [
+        "Selandia Baru"
+      ],
+      "Nicaragua": [
+        "Nikaragua"
+      ],
+      "Niger": [
+        "Niger"
+      ],
+      "Nigeria": [
+        "Nigeria"
+      ],
+      "Niue": [
+        "Niue"
+      ],
+      "Norfolk Island": [
+        "Pulau Norfolk"
+      ],
+      "North Korea": [
+        "Korea Utara"
+      ],
+      "North Macedonia": [
+        "Makedonia Utara"
+      ],
+      "Northern Mariana Islands": [
+        "Kepulauan Mariana Utara"
+      ],
+      "Norway": [
+        "Norwegia"
+      ],
+      "Oman": [
+        "Oman"
+      ],
+      "Pakistan": [
+        "Pakistan"
+      ],
+      "Palau": [
+        "Palau"
+      ],
+      "Palestine": [
+        "Palestina"
+      ],
+      "Panama": [
+        "Panama"
+      ],
+      "Papua New Guinea": [
+        "Papua Nugini"
+      ],
+      "Paraguay": [
+        "Paraguay"
+      ],
+      "Peru": [
+        "Peru"
+      ],
+      "Philippines": [
+        "Filipina"
+      ],
+      "Pitcairn": [
+        "Pitcairn"
+      ],
+      "Poland": [
+        "Polandia"
+      ],
+      "Portugal": [
+        "Portugal"
+      ],
+      "Puerto Rico": [
+        "Puerto Riko"
+      ],
+      "Qatar": [
+        "Qatar"
+      ],
+      "Reunion": [
+        "Reunion"
+      ],
+      "Romania": [
+        "Romania"
+      ],
+      "Russia": [
+        "Rusia"
+      ],
+      "Rwanda": [
+        "Rwanda"
+      ],
+      "Saint Barthélemy": [
+        "Saint Barthélemy"
+      ],
+      "Saint Helena": [
+        "Saint Helena"
+      ],
+      "Saint Kitts and Nevis": [
+        "Saint Kitts dan Nevis"
+      ],
+      "Saint Lucia": [
+        "Saint Lucia"
+      ],
+      "Saint Martin (French Part)": [
+        "Saint Martin (Wilayah Perancis)"
+      ],
+      "Saint Pierre and Miquelon": [
+        "Saint Pierre dan Miquelon"
+      ],
+      "Saint Vincent and the Grenadines": [
+        "Saint Vincent dan Grenadines"
+      ],
+      "Samoa": [
+        "Samoa"
+      ],
+      "San Marino": [
+        "San Marino"
+      ],
+      "Sao Tome and Principe": [
+        "Sao Tome dan Principe"
+      ],
+      "Saudi Arabia": [
+        "Arab Saudi"
+      ],
+      "Senegal": [
+        "Senegal"
+      ],
+      "Serbia": [
+        "Serbia"
+      ],
+      "Seychelles": [
+        "Seychelles"
+      ],
+      "Sierra Leone": [
+        "Sierra Leone"
+      ],
+      "Singapore": [
+        "Singapura"
+      ],
+      "Sint Maarten": [
+        "Sint Maarten"
+      ],
+      "Slovakia": [
+        "Slovakia"
+      ],
+      "Slovenia": [
+        "Slovenia"
+      ],
+      "Solomon Islands": [
+        "Kepulauan Solomon"
+      ],
+      "Somalia": [
+        "Somalia"
+      ],
+      "South Africa": [
+        "Afrika Selatan"
+      ],
+      "South Georgia and the South Sandwich Islands": [
+        "Georgia Selatan dan Kepulauan Sandwich Selatan"
+      ],
+      "South Korea": [
+        "Korea Selatan"
+      ],
+      "South Ossetia": [
+        "Ossetia Selatan"
+      ],
+      "South Sudan": [
+        "Sudan Selatan"
+      ],
+      "Spain": [
+        "Spanyol"
+      ],
+      "Sri Lanka": [
+        "Sri Lanka"
+      ],
+      "Sudan": [
+        "Sudan"
+      ],
+      "Suriname": [
+        "Suriname"
+      ],
+      "Svalbard and Jan Mayen": [
+        "Svalbard dan Jan Mayen"
+      ],
+      "Sweden": [
+        "Swedia"
+      ],
+      "Switzerland": [
+        "Swiss"
+      ],
+      "Syria": [
+        "Suriah"
+      ],
+      "Taiwan": [
+        "Taiwan"
+      ],
+      "Tajikistan": [
+        "Tajikistan"
+      ],
+      "Tanzania": [
+        "Tanzania"
+      ],
+      "Thailand": [
+        "Thailand"
+      ],
+      "Timor-Leste": [
+        "Timor-Leste"
+      ],
+      "Togo": [
+        "Togo"
+      ],
+      "Tokelau": [
+        "Tokelau"
+      ],
+      "Tonga": [
+        "Tonga"
+      ],
+      "Trinidad and Tobago": [
+        "Trinidad dan Tobago"
+      ],
+      "Tristan da Cunha": [
+        "Tristan da Cunha"
+      ],
+      "Tunisia": [
+        "Tunisia"
+      ],
+      "Turkey": [
+        "Turki"
+      ],
+      "Turkmenistan": [
+        "Turkmenistan"
+      ],
+      "Turks and Caicos Islands": [
+        "Kepulauan Turks dan Caicos"
+      ],
+      "Tuvalu": [
+        "Tuvalu"
+      ],
+      "Uganda": [
+        "Uganda"
+      ],
+      "Ukraine": [
+        "Ukraina"
+      ],
+      "United Arab Emirates": [
+        "Uni Emirat Arab"
+      ],
+      "United Kingdom": [
+        "Britania Raya"
+      ],
+      "United States": [
+        "Amerika Serikat"
+      ],
+      "United States Minor Outlying Islands": [
+        "Pulau-Pulau Terluar Amerika Serikat"
+      ],
+      "Uruguay": [
+        "Uruguay"
+      ],
+      "Uzbekistan": [
+        "Uzbekistan"
+      ],
+      "Vanuatu": [
+        "Vanuatu"
+      ],
+      "Venezuela": [
+        "Venezuela"
+      ],
+      "Vietnam": [
+        "Vietnam"
+      ],
+      "Virgin Islands, British": [
+        "Kepulauan Virgin, Britania"
+      ],
+      "Virgin Islands, U.S.": [
+        "Kepulauan Virgin, A.S."
+      ],
+      "Wallis and Futuna": [
+        "Wallis dan Futuna"
+      ],
+      "Western Sahara": [
+        "Sahara Barat"
+      ],
+      "Yemen": [
+        "Yaman"
+      ],
+      "Zambia": [
+        "Zambia"
+      ],
+      "Zimbabwe": [
+        "Zimbabwe"
+      ],
+      "Åland Islands": [
+        "Kepulauan Åland"
+      ]
+    },
+    "Custom frequency option": {
+      "After repeating…": [
+        "Setelah mengulang…"
+      ],
+      "Never": [
+        "Tidak pernah"
+      ],
+      "On date…": [
+        "Pada tanggal…"
+      ],
+      "times": [
+        "kali"
+      ]
+    },
+    "Daily recurring event, frequency": {
+      "${ count } times": [
+        "${ count } kali"
+      ],
+      "Daily": [
+        "Harian"
+      ],
+      "Daily, ${ timesString }": [
+        "Harian, ${ timesString }"
+      ],
+      "Daily, ${ untilString }": [
+        "Harian, ${ untilString }"
+      ],
+      "Every ${ interval } days": [
+        "Setiap ${ interval } hari"
+      ],
+      "Every ${ interval } days, ${ timesString }": [
+        "Setiap ${ interval } hari, ${ timesString }"
+      ],
+      "Every ${ interval } days, ${ untilString }": [
+        "Setiap ${ interval } hari, ${ untilString }"
+      ],
+      "until ${ dateString }": [
+        "sampai ${ dateString }"
+      ]
+    },
+    "Default display name vcard": {
+      "Unknown": [
+        "Tidak diketahui"
+      ]
+    },
+    "Default encryption scheme": {
+      "Use global default (${ defaultValueText })": [
+        "Gunakan nilai default global (${ defaultValueText })"
+      ]
+    },
+    "Default signing preference": {
+      "Use global default (${ globalDefaultText })": [
+        "Gunakan nilai default global (${ globalDefaultText })"
+      ]
+    },
+    "Delete event button tooltip": {
+      "Delete event": [
+        "Hapus acara"
+      ]
+    },
+    "Delinquent modal title": {
+      "Overdue invoice": [
+        "Tagihan jatuh tempo"
+      ]
+    },
+    "Description": {
+      "Decrypting contacts… This may take a few minutes. When the process is completed, you will be able to download the file with all your contacts exported.": [
+        "Mendekripsi kontak… Proses ini dapat memakan waktu hingga beberapa menit. Setelah selesai, Anda akan dapat mengunduh berkas yang berisi seluruh kontak yang Anda ekspor."
+      ],
+      "Deleting contacts... This may take a few minutes. When the process is completed, you can close this modal.": [
+        "Menghapus kontak... Ini perlu beberapa menit. Saat proses selesai, Anda dapat menutup jendela ini."
+      ],
+      "Encrypting and importing contacts... This may take a few minutes. When the process is completed, you can close this modal.": [
+        "Enkripsi dan impor kontak memakan beberapa menit. Anda dapat menutup jendela ini setelah proses selesai."
+      ],
+      "It looks like the contact list you are importing contains some groups. Please review how these groups should be imported.": [
+        "Sepertinya daftar kontak yang Anda impor mengandung beberapa grup. Mohon periksa bagaimana grup ini diimpor."
+      ],
+      "Merging contacts... This may take a few minutes. When the process is completed, you can close this modal.": [
+        "Penggabungan kontak memakan beberapa menit. Anda dapat menutup jendela ini setelah proses selesai."
+      ],
+      "The file should have a maximum size of ${ MAX_IMPORT_FILE_SIZE_STRING } and have up to ${ MAX_IMPORT_CONTACTS_STRING } contacts. If your file is bigger, please split it into smaller files.": [
+        "Berkas hanya dapat berukuran maksimal ${ MAX_IMPORT_FILE_SIZE_STRING } dan mengandung hingga ${ MAX_IMPORT_CONTACTS_STRING } kontak. Apabila berkas Anda lebih besar, silakan bagi dan pisahkan ke dalam beberapa berkas yang lebih kecil."
+      ],
+      "Use Drag and Drop to rank merging priority between contacts. Uncheck the contacts you do not want to merge.": [
+        "Seret-lepas untuk mengurutkan prioritas penggabungan kontak. Tandai kontak yang ingin digabung."
+      ],
+      "You can import events in iCal format (ICS file). The file should have a maximum size of ${ MAX_IMPORT_FILE_SIZE_STRING } and have up to ${ MAX_IMPORT_EVENTS_STRING } events. If your file is bigger, please split it into smaller files.": [
+        "Anda dapat mengimpor acara dalam format iCal (berkas ICS). Berkas Anda harus berukuran maksimal ${ MAX_IMPORT_FILE_SIZE_STRING } dan mengandung paling banyak ${ MAX_IMPORT_EVENTS_STRING } acara. Apabila berkas Anda melebihi persyaratan ini, mohon terlebih dahulu pisahkan menjadi berkas yang lebih kecil."
+      ],
+      "You can mark for deletion the contacts that you do not want neither to merge nor to keep. Deletion will only take place after the merge button is clicked": [
+        "Anda dapat menandai kontak-kontak yang tidak ingin digabung atau disimpan. Penghapusan akan dilakukan setelah Anda menekan tombol gabung"
+      ]
+    },
+    "Description of the purpose of the import CSV modal": {
+      "Also, we have automatically matched CSV fields with vCard fields. You can review and change this matching manually.": [
+        "Di samping itu, kami telah menyamakan isi kolom CSV dengan isi kolom vCard milik Anda secara otomatis. Anda dapat memeriksa dan mengubah isi kedua kolom tersebut secara manual."
+      ],
+      "We have detected the following fields in the CSV file you uploaded. Check the ones you want to import.": [
+        "Kami menemukan baris-baris berikut ini di berkas CSV Anda. Pilih baris yang ingin Anda impor."
+      ]
+    },
+    "Disabled calendar": {
+      "Disabled": [
+        "Dinonaktifkan"
+      ]
+    },
+    "Disabled calendar name suffix": {
+      "Disabled": [
+        "Dinonaktifkan"
+      ]
+    },
+    "Disabled calendar tooltip": {
+      "The event belongs to a disabled calendar.": [
+        "Acara ini berasal dari kalender yang telah dinonaktifkan."
+      ]
+    },
+    "Don't ask to update timezone checkbox label": {
+      "Do not ask again": [
+        "Jangan tanyakan lagi"
+      ]
+    },
+    "Dropdown action icon tooltip": {
+      "Add calendar": [
+        "Tambah kalender"
+      ]
+    },
+    "Duplicate event button tooltip": {
+      "Duplicate event": [
+        "Gandakan acara"
+      ]
+    },
+    "Duration": {
+      "120 minutes": [
+        "120 menit"
+      ],
+      "30 minutes": [
+        "30 menit"
+      ],
+      "60 minutes": [
+        "60 menit"
+      ],
+      "90 minutes": [
+        "90 menit"
+      ]
+    },
+    "Early Access Disabled": {
+      "Off": [
+        "Nonaktif"
+      ]
+    },
+    "Early Access Enabled": {
+      "On": [
+        "Aktif"
+      ]
+    },
+    "Edit event button tooltip": {
+      "Edit event": [
+        "Sunting acara"
+      ]
+    },
+    "Email body for description (description part)": {
+      "Description: ${ eventDescription }": [
+        "Deskripsi: ${ eventDescription }"
+      ]
+    },
+    "Email body for invitation": {
+      "${ eventTitle } has been canceled.": [
+        "${ eventTitle } telah dibatalkan."
+      ],
+      "${ eventTitle } has been updated.\n${ eventDetailsText }": [
+        "${ eventTitle } telah diperbarui.\n${ eventDetailsText }"
+      ],
+      "You are invited to ${ eventTitle }\n${ eventDetailsText }": [
+        "Anda diundang ke ${ eventTitle }\n${ eventDetailsText }"
+      ]
+    },
+    "Email body for invitation (date part)": {
+      "When: ${ formattedStart }": [
+        "Kapan: ${ formattedStart }"
+      ],
+      "When: ${ formattedStart } (all day)": [
+        "Kapan: ${ formattedStart } (sepanjang hari)"
+      ],
+      "When: ${ formattedStart } - ${ formattedEnd }": [
+        "Kapan: ${ formattedStart } - ${ formattedEnd }"
+      ]
+    },
+    "Email body for invitation (location part)": {
+      "Where: ${ eventLocation }": [
+        "Di mana: ${ eventLocation }"
+      ]
+    },
+    "Email body for response to invitation": {
+      "${ emailAddress } has accepted your invitation to ${ eventTitle }": [
+        "${ emailAddress } telah menerima undangan Anda ke ${ eventTitle }"
+      ],
+      "${ emailAddress } has declined your invitation to ${ eventTitle }": [
+        "${ emailAddress } telah menolak undangan Anda ke ${ eventTitle }"
+      ],
+      "${ emailAddress } has tentatively accepted your invitation to ${ eventTitle }": [
+        "${ emailAddress } telah secara tentatif menerima undangan Anda ke ${ eventTitle }"
+      ]
+    },
+    "Email subject": {
+      "Cancellation of an event on ${ formattedStart }": [
+        "Pembatalan acara pada ${ formattedStart }"
+      ],
+      "Cancellation of an event starting on ${ formattedStart }": [
+        "Pembatalan acara mulai pada ${ formattedStart }"
+      ],
+      "Invitation for an event on ${ formattedStart }": [
+        "Undangan acara pada ${ formattedStart }"
+      ],
+      "Invitation for an event starting on ${ formattedStart }": [
+        "Undangan acara mulai pada ${ formattedStart }"
+      ],
+      "Update for an event on ${ formattedStart }": [
+        "Pembaruan acara pada ${ formattedStart }"
+      ],
+      "Update for an event starting on ${ formattedStart }": [
+        "Pembaruan acara mulai pada ${ formattedStart }"
+      ]
+    },
+    "Error": {
+      "A group with this name already exists": [
+        "Grup dengan nama ini sudah ada"
+      ],
+      "Account does not exist": [
+        "Akun tidak ada"
+      ],
+      "Address primary private key not found": [
+        "Kunci pribadi utama alamat tidak ditemukan"
+      ],
+      "Already a member of this calendar": [
+        "Pengguna sudah merupakan anggota kalender"
+      ],
+      "Answer failed to be sent": [
+        "Jawaban gagal dikirim"
+      ],
+      "Authentication canceled.": [
+        "Autentikasi dibatalkan."
+      ],
+      "Authentication error.": [
+        "Kesalahan autentikasi."
+      ],
+      "Calendar limit reached": [
+        "Batas kalender tercapai"
+      ],
+      "Cancellation failed to be sent": [
+        "Pembatalan gagal dikirim"
+      ],
+      "Contact could not be saved": [
+        "Kontak tidak dapat disimpan"
+      ],
+      "Contact name is too long": [
+        "Nama kontak terlalu panjang"
+      ],
+      "Contact signature could not be verified": [
+        "Tanda tangan kontak tidak dapat diverifikasi"
+      ],
+      "Contact signature not verified": [
+        "Tanda tangan kontak tidak terverifikasi"
+      ],
+      "Decryption error: Decryption of this event's content failed.": [
+        "Kesalahan dekripsi: Dekripsi isi acara gagal."
+      ],
+      "Deselect at least ${ calendarToFixCount } calendars": [
+        "Hapus setidaknya ${ calendarToFixCount } kalender dari pilihan"
+      ],
+      "Deselect at least ${ calendarToFixCount } calendars or": [
+        "Hapus setidaknya ${ calendarToFixCount } kalender dari pilihan atau"
+      ],
+      "Domain not available, try again later": [
+        "Domain tidak tersedia, coba lagi nanti"
+      ],
+      "Email address disabled": [
+        "Alamat email dinonaktifkan"
+      ],
+      "Email address invalid": [
+        "Alamat email tidak valid"
+      ],
+      "Email address is required": [
+        "Alamat email diperlukan"
+      ],
+      "Email is not valid": [
+        "Email tidak valid"
+      ],
+      "Ends on date cannot be empty": [
+        "Tanggal akhir tidak boleh kosong"
+      ],
+      "Ends on date must be after start time": [
+        "Tanggal akhir harus setelah tanggal mulai"
+      ],
+      "Enter 6 digits": [
+        "Masukkan 6 digit"
+      ],
+      "Error": [
+        "Galat"
+      ],
+      "Error: ${ errorMessage }": [
+        "Kesalahan: ${ errorMessage }"
+      ],
+      "Failed to get original occurrence in series": [
+        "Gagal mendapatkan rangkaian kejadian asli"
+      ],
+      "Folder name cannot be empty.": [
+        "Nama folder tidak boleh kosong."
+      ],
+      "Image upload failed": [
+        "Pengunggahan gambar gagal"
+      ],
+      "IMAP server is required": [
+        "Server IMAP diperlukan"
+      ],
+      "Incorrect login credentials. Please try again.": [
+        "Kredensial masuk salah. Silakan coba lagi."
+      ],
+      "Incorrect mailbox password. Please try again.": [
+        "Kata sandi kotak pesan salah. Silakan coba lagi."
+      ],
+      "Interval cannot be empty": [
+        "Interval tidak boleh kosong"
+      ],
+      "Invalid email address": [
+        "Alamat surel tidak valid"
+      ],
+      "Invalid link to the event": [
+        "Tautan ke acara tidak vallid"
+      ],
+      "Invalid name": [
+        "Nama tidak valid"
+      ],
+      "Invalid public key file": [
+        "Berkas kunci publik tidak valid"
+      ],
+      "Invalid verification code": [
+        "Kode verifikasi tidak valid"
+      ],
+      "Invitation failed to be sent": [
+        "Undangan gagal dikirim"
+      ],
+      "It is only possible to create events between ${ minDateString } - ${ maxDateString }": [
+        "Acara hanya dapat dibuat di antara ${ minDateString } - ${ maxDateString }"
+      ],
+      "It is only possible to move events between ${ minDateString } - ${ maxDateString }": [
+        "Hanya dapat memindahkan acara antara ${ minDateString } - ${ maxDateString }"
+      ],
+      "Label name cannot be empty.": [
+        "Nama label tidak boleh kosong."
+      ],
+      "Merge at least ${ calendarToFixCount } calendars with existing ${ BRAND_NAME } calendars": [
+        "Gabungkan setidaknya ${ calendarToFixCount } kalender dengan kalender ${ BRAND_NAME } yang telah ada"
+      ],
+      "Missing key packet": [
+        "Paket kunci hilang"
+      ],
+      "Missing signature": [
+        "Tanda tangan hilang"
+      ],
+      "Name required": [
+        "Nama dibutuhkan"
+      ],
+      "No calendars found to import": [
+        "Tidak ada kalender yang dapat diimpor"
+      ],
+      "No contacts found to import": [
+        "Tidak ada kontak yang dapat diimpor"
+      ],
+      "No emails found to import - the account does not have an inbox": [
+        "Tidak ada email yang dapat diimpor - akun ini tidak memiliki kotak masuk"
+      ],
+      "No public key for ${ BRAND_NAME } address": [
+        "Tidak ada kunci publik untuk alamat ${ BRAND_NAME }"
+      ],
+      "No valid address found": [
+        "Tidak ada alamat valid yang ditemukan"
+      ],
+      "No WKD key retrieved for user is valid for sending": [
+        "Tidak ada kunci WKD yang diambil untuk pengguna internal yang valid untuk pengiriman"
+      ],
+      "Not a ${ BRAND_NAME } account": [
+        "Bukan akun ${ BRAND_NAME }"
+      ],
+      "Not a valid number": [
+        "Nomor telepon tidak valid"
+      ],
+      "Number of occurrences cannot be empty": [
+        "Nomor peristiwa tidak boleh kosong"
+      ],
+      "Password is required": [
+        "Kata sandi diperlukan"
+      ],
+      "Passwords do not match": [
+        "Kata sandi tidak cocok"
+      ],
+      "Please create an address first.": [
+        "Silakan buat alamat terlebih dahulu."
+      ],
+      "Please fix the highlighted conflicts to proceed.": [
+        "Harap selesaikan permasalahan yang ada terlebih dahulu sebelum melanjutkan."
+      ],
+      "Port is required": [
+        "Nomor port diperlukan"
+      ],
+      "Primary address key is not decrypted": [
+        "Kunci alamat utama tidak didekripsi"
+      ],
+      "Primary address key is not decrypted.": [
+        "Kunci alamat utama tidak didekripsi."
+      ],
+      "Primary key is not valid for sending": [
+        "Kunci utama tidak valid untuk pengiriman"
+      ],
+      "Primary key retrieved for ${ BRAND_NAME } user is not valid for sending": [
+        "Kunci utama yang diambil untuk pengguna ${ BRAND_NAME } tidak valid untuk pengiriman"
+      ],
+      "Removed duplicate recipients: ${ joinedRecipients }": [
+        "Penerima duplikat dihapus: ${ joinedRecipients }"
+      ],
+      "Request timed out": [
+        "Waktu permintaan habis"
+      ],
+      "Self invitation not allowed": [
+        "Dilarang mengundang diri sendiri"
+      ],
+      "Signature not verified": [
+        "Tanda tangan tidak terverifikasi"
+      ],
+      "Signature verification failed": [
+        "Verifikasi tanda tangan gagal"
+      ],
+      "Some contacts could not be deleted": [
+        "Sebagian kontak tidak dapat dihapus"
+      ],
+      "Some contacts don't have a valid email address: ${ list }": [
+        "${ list } tidak memiliki alamat email yang valid"
+      ],
+      "Some contacts have no email addresses: ${ list }": [
+        "${ list } tidak memiliki alamat email"
+      ],
+      "Some contacts have no email addresses: ${ noEmailsContactNamesList } ": [
+        "Kontak tidak memiliki alamat email: ${ noEmailsContactNamesList } "
+      ],
+      "Some groups could not be deleted": [
+        "Sebagian grup tidak dapat dihapus"
+      ],
+      "Some groups have invalid emails: ${ list }": [
+        "${ list } mempunyai alamat email yang tidak valid"
+      ],
+      "Some groups have no contacts: ${ list }": [
+        "${ list } tidak memiliki kontak"
+      ],
+      "Some groups have no contacts: ${ noContactGroupList } ": [
+        "Grup tidak memiliki kontak: ${ noContactGroupList } "
+      ],
+      "Some of your folder names are reserved. Please customize the import to edit these names.": [
+        "Sebagian nama folder Anda tidak dapat digunakan. Mohon ubah nama folder yang bersangkutan dengan menyesuaikan parameter impor Anda."
+      ],
+      "Some of your folder names are unavailable. Please customize the import to edit these names.": [
+        "Sebagian nama folder Anda tidak dapat digunakan. Mohon ubah nama-nama ini dengan menyesuaikan parameter impor Anda."
+      ],
+      "Some of your folder names exceed ${ MAIL_APP_NAME }'s maximum character limit. Please customize the import to edit these names.": [
+        "Sebagian nama folder Anda melebihi batas jumlah karakter yang diperbolehkan oleh ${ MAIL_APP_NAME }. Mohon ubah nama-nama ini dengan menyesuaikan parameter impor Anda."
+      ],
+      "Some of your label names are reserved. Please customize the import to edit these names.": [
+        "Sebagian nama label Anda tidak dapat digunakan. Mohon ubah nama label yang bersangkutan dengan menyesuaikan parameter impor Anda."
+      ],
+      "Some of your label names are unavailable. Please customize the import to edit these names.": [
+        "Sebagian nama label Anda tidak dapat digunakan. Mohon ubah nama-nama ini dengan menyesuaikan parameter impor Anda."
+      ],
+      "Some of your label names exceed ${ MAIL_APP_NAME }'s maximum character limit. Please customize the import to edit these names.": [
+        "Sebagian nama label Anda melebihi batas jumlah karakter yang diperbolehkan oleh ${ MAIL_APP_NAME }. Mohon ubah nama-nama ini dengan menyesuaikan parameter impor Anda."
+      ],
+      "Something went wrong, please ${ refresh } in order to proceed. If you still see this error message please contact our ${ supportTeam }.": [
+        "Terjadi suatu kesalahan, silakan ${ refresh } untuk dapat melanjutkan. Apabila Anda terus-menerus menjumpai pesan ini, harap hubungi ${ supportTeam } kami."
+      ],
+      "Start time must be before end time": [
+        "Waktu mulai harus sebelum waktu selesai"
+      ],
+      "The address might be misspelled": [
+        "Alamat mungkin salah ketik"
+      ],
+      "The folder name is invalid. Please choose a different name.": [
+        "Nama folder tidak valid. Silakan pilih nama lain."
+      ],
+      "The folder name is too long. Please choose a different name.": [
+        "Nama folder terlalu panjang. Mohon pilih nama lain."
+      ],
+      "The label name is invalid. Please choose a different name.": [
+        "Nama label tidak valid. Silakan pilih nama lain."
+      ],
+      "The label name is too long. Please choose a different name.": [
+        "Nama label terlalu panjang. Mohon pilih nama lain."
+      ],
+      "The sending key is not valid": [
+        "Kunci pengiriman tidak valid"
+      ],
+      "There are too many folders in your external account. Please customize the import to delete some folders.": [
+        "Ada terlalu banyak folder di dalam akun eksternal Anda. Mohon sesuaikan parameter impor Anda agar sebagian folder dapat terhapus."
+      ],
+      "There was an error when exporting the contacts vCards": [
+        "Terdapat kesalahan pada saat mengekspor kontak vCard"
+      ],
+      "This field exceeds the maximum of ${ maximumLength } characters.": [
+        "Kolom ini melebihi panjang maksimal ${ maximumLength } karakter."
+      ],
+      "This field is required": [
+        "Kolom ini wajib diisi"
+      ],
+      "This field requires a minimum of ${ minimumLength } characters.": [
+        "Kolom ini harus diisi dengan minimal ${ minimumLength } karakter."
+      ],
+      "This folder name is not available. Please choose a different name.": [
+        "Nama folder ini tidak dapat digunakan. Mohon pilih nama lain."
+      ],
+      "This label name is not available. Please choose a different name.": [
+        "Nama label ini tidak dapat digunakan. Mohon pilih nama lain."
+      ],
+      "This message may contain some links URL that cannot be properly opened by your current browser.": [
+        "Pesan ini terindikasi memiliki tautan/URL yang tidak dapat dibuka dengan benar oleh browser Anda."
+      ],
+      "Trusted keys are not valid for sending": [
+        "Kunci terpercaya tidak valid untuk mengirim"
+      ],
+      "Try using only letters, numerals, and _.-": [
+        "Cobalah untuk hanya menggunakan huruf, angka, dan tanda _.-"
+      ],
+      "Unknown error": [
+        "Kesalahan yang tidak diketahui"
+      ],
+      "Validation error": [
+        "Kesalahan validasi"
+      ],
+      "You can't send a mail to more than 100 recipients": [
+        "Anda tidak dapat mengirim email ke lebih dari 100 penerima"
+      ],
+      "You can't send vCard files of more than 10 contacts": [
+        "Anda tidak dapat mengirim berkas vCard ke lebih dari 10 kontak"
+      ],
+      "You have reached the maximum number of personal calendars. Some calendars couldn't be imported.": [
+        "Anda telah mencapai batas jumlah kalender personal milik Anda. Sebagian kalender tidak dapat diimpor."
+      ],
+      "You must set a name": [
+        "Anda harus mengatur nama"
+      ],
+      "Your import will not be processed.": [
+        "Impor Anda tidak akan diproses."
+      ]
+    },
+    "Error accepting calendar invitation": {
+      "Invited address does not exist": [
+        "Alamat yang diundang tidak ada"
+      ]
+    },
+    "Error importing calendar": {
+      "An error occurred reading your file ${ formattedFilename }. File does not have the right format.": [
+        "Terjadi kesalahan pada saat membaca berkas ${ formattedFilename }. Format berkas tidak sesuai."
+      ],
+      "An error occurred uploading your file ${ formattedFilename }. Maximum file size is ${ MAX_IMPORT_FILE_SIZE_STRING }.": [
+        "Terjadi kesalahan pada saat mengunggah berkas ${ formattedFilename }. Ukuran berkas tidak boleh melebihi ${ MAX_IMPORT_FILE_SIZE_STRING }."
+      ],
+      "An error occurred uploading your file ${ formattedFilename }. Only ICS file formats are allowed.": [
+        "Terjadi kesalahan pada saat mengunggah berkas ${ formattedFilename }. Hanya format berkas ICS yang diizinkan."
+      ],
+      "An error occurred uploading your file. No file has been selected.": [
+        "Terjadi kesalahan pada saat mengunggah berkas. Tidak ada berkas yang dipilih."
+      ],
+      "An unexpected error occurred. Import must be restarted.": [
+        "Terdapat kesalahan yang tidak terduga. Proses impor harus diulang."
+      ],
+      "Your file ${ formattedFilename } contains more than ${ MAX_IMPORT_EVENTS_STRING } events.": [
+        "Berkas ${ formattedFilename } milik Anda mengandung lebih dari ${ MAX_IMPORT_EVENTS_STRING } acara."
+      ],
+      "Your file ${ formattedFilename } has an invalid method and cannot be imported.": [
+        "Berkas ${ formattedFilename } tidak dapat diimpor karena mengandung metode yang tidak valid."
+      ],
+      "Your file ${ formattedFilename } has no events to be imported.": [
+        "Berkas ${ formattedFilename } tidak memiliki acara untuk diimpor."
+      ],
+      "Your file ${ formattedFilename } is empty.": [
+        "Berkas ${ formattedFilename } Anda kosong."
+      ],
+      "Your file ${ formattedFilename } is not a calendar.": [
+        "Berkas ${ formattedFilename } bukan merupakan kalender."
+      ]
+    },
+    "Error importing contact": {
+      "Encryption failed": [
+        "Enkripsi gagal"
+      ],
+      "vCard versions < 3.0 not supported": [
+        "vCard versi < 3.0 tidak didukung"
+      ]
+    },
+    "Error importing contacts": {
+      "An error occurred reading your file ${ formattedFilename }. File doesn't have the right format.": [
+        "Terdapat kesalahan dalam membaca berkas ${ formattedFilename } milik Anda. Format berkas tidak sesuai."
+      ],
+      "An error occurred uploading your file ${ formattedFilename }. Maximum file size is ${ MAX_IMPORT_FILE_SIZE_STRING }.": [
+        "Ada kesalahan saat mengunggah berkas ${ formattedFilename }. Ukuran maksimum berkas ${ MAX_IMPORT_FILE_SIZE_STRING }."
+      ],
+      "An error occurred uploading your file ${ formattedFilename }. No .csv or .vcf file selected": [
+        "Ada kesalahan saat mengunggah berkas ${ formattedFilename } Anda. Tidak ada berkas .csv atau .vcf yang dipilih"
+      ],
+      "An error occurred uploading your file. No file has been selected.": [
+        "Ada kesalahan saat mengunggah berkas. Tidak ada berkas yang dipilih."
+      ],
+      "Your file ${ formattedFilename } contains more than ${ MAX_IMPORT_CONTACTS_STRING } contacts.": [
+        "Berkas ${ formattedFilename } Anda berisi lebih dari ${ MAX_IMPORT_CONTACTS_STRING } kontak."
+      ],
+      "Your file ${ formattedFilename } has no contacts to be imported.": [
+        "Berkas ${ formattedFilename } Anda tidak memiliki kontak untuk diimpor."
+      ],
+      "Your file ${ formattedFilename } is empty.": [
+        "Berkas ${ formattedFilename } Anda kosong."
+      ]
+    },
+    "Error importing event": {
+      "Bad format. Component cannot be read.": [
+        "Format tidak valid. Komponen tidak dapat dibaca."
+      ],
+      "Calendar": [
+        "Kalender"
+      ],
+      "Calendar time zone not supported": [
+        "Zona waktu kalender tidak didukung"
+      ],
+      "Component with wrong format": [
+        "Komponen dengan format yang salah"
+      ],
+      "Custom timezone": [
+        "Zona waktu khusus"
+      ],
+      "Edited event not supported": [
+        "Acara yang telah diedit tidak didukung"
+      ],
+      "Element": [
+        "Elemen"
+      ],
+      "Encryption failed": [
+        "Enkripsi gagal"
+      ],
+      "End time out of bounds": [
+        "Waktu akhir di luar batas"
+      ],
+      "Event": [
+        "Acara"
+      ],
+      "Event validation failed": [
+        "Validasi acara gagal"
+      ],
+      "Floating times not supported": [
+        "Waktu desimal tidak didukung"
+      ],
+      "Free-busy time information": [
+        "Informasi waktu luang dan waktu sibuk"
+      ],
+      "Invalid event": [
+        "Acara tidak valid"
+      ],
+      "Journal entry": [
+        "Entri jurnal"
+      ],
+      "Malformed all-day event": [
+        "Acara sepanjang hari tidak diformat dengan benar"
+      ],
+      "Malformed end time": [
+        "Waktu akhir tidak diformat dengan benar"
+      ],
+      "Malformed recurring event": [
+        "Acara berulang tidak diformat dengan benar"
+      ],
+      "Malformed start time": [
+        "Waktu mulai tidak diformat dengan benar"
+      ],
+      "Missing start time": [
+        "Waktu mulai hilang"
+      ],
+      "No UID, title or start time": [
+        "Tidak ada UID, judul, atau waktu mulai"
+      ],
+      "Non-Gregorian": [
+        "Non-Gregorian"
+      ],
+      "Notification out of bounds": [
+        "Notifikasi di luar batas"
+      ],
+      "Original recurring event could not be found": [
+        "Acara berulang yang asli tidak ditemukan"
+      ],
+      "Recurring event has no occurrences": [
+        "Acara berulang tidak terlaksana"
+      ],
+      "Recurring rule not supported": [
+        "Aturan berulang tidak didukung"
+      ],
+      "Start time out of bounds": [
+        "Waktu mulai di luar batas"
+      ],
+      "Time zone not supported": [
+        "Zona waktu tidak didukung"
+      ],
+      "Timezone": [
+        "Zona waktu"
+      ],
+      "To-do entry": [
+        "Entri to-do"
+      ],
+      "Unknown": [
+        "Tidak diketahui"
+      ],
+      "Unsupported event": [
+        "Acara tidak didukung"
+      ]
+    },
+    "Error message": {
+      "Error: ${ errorMessage }": [
+        "Kesalahan: ${ errorMessage }"
+      ],
+      "Invalid URL": [
+        "URL tidak valid"
+      ],
+      "Oops, something went wrong": [
+        "Aduh, ada yang tidak beres"
+      ],
+      "Please ${ refresh } or check your connection.": [
+        "Mohon ${ refresh } atau cek koneksi Anda."
+      ],
+      "Something went wrong. Please refresh the page or try again later.": [
+        "Terjadi suatu kesalahan. Silakan muat ulang halaman ini atau coba lagi nanti."
+      ],
+      "There was a problem connecting to ${ BRAND_NAME }.": [
+        "Terdapat masalah dalam menghubungkan ke ${ BRAND_NAME }."
+      ],
+      "You may also ${ refresh } or try again later.": [
+        "Anda juga dapat ${ refresh } atau mencoba lagi nanti."
+      ],
+      "You need an active personal calendar to import events": [
+        "Anda harus memiliki kalender pribadi yang aktif untuk dapat mengimpor acara"
+      ]
+    },
+    "Error notification": {
+      "First name and last name cannot be unchecked at the same time": [
+        "Nama depan dan nama belakang tidak boleh dikosongkan sekaligus"
+      ]
+    },
+    "Error notification in the bug report modal when the user upload file": {
+      "No image selected": [
+        "Gambar belum dipilih"
+      ]
+    },
+    "Error notification when score is missing in user feedback form modal": {
+      "Score is required": [
+        "Nilai diperlukan"
+      ]
+    },
+    "Event canceled status badge": {
+      "canceled": [
+        "dibatalkan"
+      ]
+    },
+    "Event form": {
+      "${ numberOfParticipants } participants": [
+        "${ numberOfParticipants } peserta"
+      ]
+    },
+    "Event info. Organizer name": {
+      "You": [
+        "Anda"
+      ]
+    },
+    "Event invitation error": {
+      "Attached ICS file could not be decrypted": [
+        "Berkas ICS terlampir tidak dapat didekripsi"
+      ],
+      "Attached ICS file could not be read": [
+        "Berkas ICS terlampir tidak dapat dibaca"
+      ],
+      "Invalid invitation": [
+        "Undangan tidak valid"
+      ],
+      "Invalid response": [
+        "Respon tidak valid"
+      ],
+      "The event could not be added to your calendar. No answer was sent": [
+        "Acara ini tidak dapat ditambahkan ke kalender Anda. Tidak ada jawaban yang terkirim"
+      ],
+      "The event could not be updated in your calendar. No answer was sent": [
+        "Acara ini tidak dapat diperbarui ke kalender Anda. Tidak ada jawaban yang terkirim"
+      ],
+      "Unexpected error": [
+        "Kesalahan yang tidak terduga"
+      ],
+      "Unsupported invitation": [
+        "Undangan tidak didukung"
+      ],
+      "Unsupported response": [
+        "Respon tidak didukung"
+      ],
+      "We could not cancel the event in your calendar": [
+        "Kami tidak dapat membatalkan acara di kalender Anda"
+      ],
+      "We could not retrieve the event from your calendar": [
+        "Kami tidak dapat mengambil acara dari kalender Anda"
+      ],
+      "We could not update the event in your calendar": [
+        "Kami tidak dapat memperbarui acara di kalender Anda"
+      ],
+      "Your answer was sent, but the event could not be added to your calendar": [
+        "Jawaban Anda terkirim, tapi acara tidak dapat ditambahkan ke kalender Anda"
+      ],
+      "Your answer was sent, but the event could not be updated in your calendar": [
+        "Jawaban Anda terkirim, namun acara yang bersangkutan tidak dapat diperbarui pada kalender Anda"
+      ]
+    },
+    "Event popover close button": {
+      "Close popover": [
+        "Tutup jendela"
+      ]
+    },
+    "Event reply": {
+      "maybe": [
+        "mungkin"
+      ],
+      "no": [
+        "tidak"
+      ],
+      "pending": [
+        "menunggu jawaban"
+      ],
+      "yes": [
+        "ya"
+      ]
+    },
+    "Event title": {
+      "(no title)": [
+        "(tanpa judul)"
+      ]
+    },
+    "Feedback Modal Title": {
+      "Your feedback": [
+        "Tanggapan Anda"
+      ]
+    },
+    "fido2: Error": {
+      "Something went wrong authenticating with your security key. Please try again.": [
+        "Terdapat kesalahan dalam mengautentikasi kunci keamanan Anda. Silakan coba lagi."
+      ]
+    },
+    "fido2: Info": {
+      "Insert a security key linked to your ${ BRAND_NAME } Account.": [
+        "Masukkan kunci keamanan yang terhubung dengan Akun ${ BRAND_NAME } Anda."
+      ],
+      "Security key": [
+        "Kunci keamanan"
+      ]
+    },
+    "fido2: Label": {
+      "Security key": [
+        "Kunci keamanan"
+      ]
+    },
+    "file size format": {
+      "bytes": [
+        "byte"
+      ],
+      "GB": [
+        "GB"
+      ],
+      "KB": [
+        "KB"
+      ],
+      "MB": [
+        "MB"
+      ]
+    },
+    "file size format, long": {
+      "Bytes": [
+        "Byte"
+      ],
+      "Gigabytes": [
+        "Gigabyte"
+      ],
+      "Kilobytes": [
+        "Kilobyte"
+      ],
+      "Megabytes": [
+        "Megabyte"
+      ]
+    },
+    "Filter notification": {
+      "${ Label.Name } updated": [
+        "${ Label.Name } berhasil diperbarui"
+      ]
+    },
+    "Group": {
+      "Account": [
+        "Akun"
+      ],
+      "Apps": [
+        "Aplikasi"
+      ],
+      "Network": [
+        "Jaringan"
+      ],
+      "Other category": [
+        "Kategori lainnya"
+      ],
+      "Services": [
+        "Layanan"
+      ]
+    },
+    "Header": {
+      "Contacts": [
+        "Kontak"
+      ],
+      "Contacts, groups and settings": [
+        "Kontak, grup dan pengaturan"
+      ],
+      "Get help": [
+        "Dapatkan bantuan"
+      ],
+      "Name": [
+        "Nama"
+      ]
+    },
+    "Hint": {
+      "Found ${ items.length } suggestions, use keyboard to navigate.": [
+        "Menemukan ${ items.length } saran, gunakan papan ketik untuk navigasi."
+      ],
+      "Use Up and Down keys to access and browse suggestions after input. Press Enter to confirm your choice, or Escape to close the suggestions box.": [
+        "Pakai kunci Up dan Down untuk mengakses dan menjelajah saran setelah input. Pencet Enter untuk mengonfirmasi pilihan, atau Escape untuk menutup kotak saran."
+      ]
+    },
+    "Human verification method": {
+      "CAPTCHA": [
+        "CAPTCHA"
+      ],
+      "Email": [
+        "Email"
+      ],
+      "Manual": [
+        "Manual"
+      ],
+      "No verification method available": [
+        "Metode verifikasi tidak tersedia"
+      ],
+      "SMS": [
+        "SMS"
+      ]
+    },
+    "Import calendar": {
+      "${ totalImported }/${ totalToImport } events encrypted and added to your calendar": [
+        "${ totalImported }/${ totalToImport } acara telah dienkripsi dan ditambahkan ke kalender Anda"
+      ],
+      "An error occurred while encrypting and adding your events. ${ totalImported } out of ${ totalToImport } events successfully imported.": [
+        "Terjadi kesalahan pada saat mengimpor dan menambahkan acara Anda. ${ totalImported } acara dari total ${ totalToImport } acara berhasil diimpor."
+      ],
+      "An error occurred while encrypting and adding your events. No event could be imported.": [
+        "Terjadi kesalahan saat mengimpor dan menambahkan acara Anda. Tidak ada acara yang berhasil diimpor."
+      ],
+      "Encrypting and adding contacts: ${ totalImported }/${ totalToImport }": [
+        "Mengenkripsi dan menambah kontak: ${ totalImported }/${ totalToImport }"
+      ],
+      "Encrypting and adding events to your calendar: ${ totalImported }/${ totalToImport }": [
+        "Mengenkripsi dan menambahkan acara ke kalender: ${ totalImported }/${ totalToImport }"
+      ],
+      "Event successfully imported. The imported event will now appear in your calendar.": [
+        "Acara berhasil diimpor. Acara tersebut akan muncul pada kalender Anda."
+      ],
+      "Events successfully imported. The imported events will now appear in your calendar.": [
+        "Acara berhasil diimpor. Acara tersebut akan muncul pada kalender Anda."
+      ],
+      "Please don't close the tab before the importing process is finished.": [
+        "Mohon untuk tidak menutup tab ini sebelum proses impor selesai."
+      ]
+    },
+    "Import calendar warning": {
+      "${ CALENDAR_APP_NAME } currently does not support certain event types, details and formats.": [
+        "${ CALENDAR_APP_NAME } saat ini tidak mendukung tipe, rincian, dan format acara tertentu."
+      ],
+      "vCard versions < 3.0": [
+        "versi vCard < 3.0"
+      ]
+    },
+    "Import calendar; import invitation": {
+      "Imported invitations appear in ${ CALENDAR_APP_NAME } as simple events without organizer and participant details. To get event updates and see participants, ask organizers to invite you using your ${ BRAND_NAME } email address.": [
+        "Undangan yang diimpor akan muncul pada ${ CALENDAR_APP_NAME } dalam bentuk simple event tanpa rincian seputar penyelenggara dan peserta. Untuk dapat memperoleh pembaruan terkini dan melihat daftar peserta, mintalah penyelenggara untuk mengundang Anda melalui alamat email ${ BRAND_NAME } Anda."
+      ],
+      "This file contains event invitations:": [
+        "Berkas ini mengandung undangan acara:"
+      ],
+      "This file contains invitation responses:": [
+        "Berkas ini mengandung balasan atas undangan yang dikirim:"
+      ],
+      "This file contains some data that we cannot import:": [
+        "Sebagian data yang terkandung dalam berkas ini tidak dapat kami impor:"
+      ]
+    },
+    "Import contact": {
+      "${ totalImported }/${ totalToImport } contacts encrypted and added to your contact list": [
+        "${ totalImported }/${ totalToImport } kontak dienkripsi dan ditambahkan ke daftar kontak"
+      ],
+      "An error occurred while encrypting and adding your contact. No contact could be imported.": [
+        "Terjadi kesalahan saat mengenkripsi dan menambahkan kontak Anda. Tidak ada kontak yang dapat diimpor."
+      ],
+      "An error occurred while encrypting and adding your contacts. ${ totalImported } out of ${ totalToImport } contacts successfully imported.": [
+        "Terjadi kesalahan saat mengenkripsi dan menambahkan kontak Anda. ${ totalImported } dari ${ totalToImport } berhasil diimpor."
+      ],
+      "An error occurred while encrypting and adding your contacts. No contact could be imported.": [
+        "Terjadi kesalahan saat mengenkripsi dan menambahkan kontak Anda. Tidak ada kontak yang dapat diimpor."
+      ],
+      "Contact successfully imported. The imported contact will now appear in your contact list.": [
+        "Kontak berhasil diimpor. Kontak yang diimpor akan muncul pada daftar kontak Anda."
+      ],
+      "Contacts successfully imported. The imported contacts will now appear in your contact list.": [
+        "Kontak berhasil diimpor. Kontak yang diimpor akan muncul pada daftar kontak Anda."
+      ]
+    },
+    "Import contact error": {
+      "Contact ${ contactId }: ": [
+        "Kontak ${ contactId }: "
+      ]
+    },
+    "Import contact groups info": {
+      "${ totalContacts } contacts": [
+        "${ totalContacts } kontak"
+      ]
+    },
+    "Import contact. Contact identifier": {
+      "unknown": [
+        "tidak dikenal"
+      ]
+    },
+    "Import contacts warning": {
+      "${ CONTACTS_APP_NAME } does not support ${ forNow }:": [
+        "${ CONTACTS_APP_NAME } tidak mendukung ${ forNow }:"
+      ],
+      "for now": [
+        "untuk sekarang"
+      ]
+    },
+    "Import error": {
+      "${ BRAND_NAME } can't connect to your account. Please make sure that:": [
+        "${ BRAND_NAME } tidak dapat terhubung ke akun Anda. Mohon pastikan bahwa:"
+      ],
+      "${ BRAND_NAME } can't connect to your external account. Please make sure that the mail server address and port number are correct.": [
+        "${ BRAND_NAME } tidak dapat terhubung ke akun eksternal Anda. Mohon pastikan alamat server mail dan nomor port telah sesuai."
+      ],
+      "${ BRAND_NAME } can't connect to your external account. Please make sure that:": [
+        "${ BRAND_NAME } tidak dapat terhubung ke akun eksternal Anda. Mohon pastikan bahwa:"
+      ],
+      "${ BRAND_NAME } can't connect to your Yahoo account. Please make sure that the mail server address and port number are correct.": [
+        "${ BRAND_NAME } tidak dapat terhubung ke akun Yahoo Anda. Mohon pastikan alamat server mail dan nomor port telah sesuai."
+      ],
+      "${ BRAND_NAME } can't connect to your Yahoo account. Please make sure that:": [
+        "${ BRAND_NAME } tidak dapat terhubung ke akun Yahoo Anda. Mohon pastikan bahwa:"
+      ],
+      "2-step verification is enabled in your external account.": [
+        "Verifikasi 2 langkah telah diaktifkan pada akun eksternal Anda."
+      ],
+      "2-step verification is enabled in your external email account.": [
+        "Verifikasi 2 langkah telah diaktifkan pada akun email eksternal Anda."
+      ],
+      "IMAP access is enabled in your external account.": [
+        "Akses IMAP telah diaktifkan pada akun eksternal Anda."
+      ],
+      "IMAP access is enabled in your Yahoo account.": [
+        "Akses IMAP telah diaktifkan pada akun Yahoo Anda."
+      ],
+      "Too many recent requests. Please try again in a few moments.": [
+        "Permintaan baru terlalu banyak. Coba ulangi beberapa saat lagi."
+      ],
+      "Use your app password if:": [
+        "Gunakan kata sandi aplikasi Anda jika:"
+      ],
+      "Use your app password instead of your regular password if:": [
+        "Gunakan kata sandi aplikasi Anda alih-alih kata sandi Anda biasanya jika:"
+      ],
+      "Your app password is correct. Do ${ boldNot } use your regular password.": [
+        "Kata sandi aplikasi Anda benar. ${ boldNot } gunakan kata sandi biasa Anda."
+      ],
+      "Your email account requires an app password to export your data.": [
+        "Akun email Anda memerlukan kata sandi aplikasi untuk dapat mengekspor data Anda."
+      ],
+      "Your email account requires one to export your data.": [
+        "Akun email Anda memerlukan kata sandi aplikasi untuk dapat mengekspor data Anda."
+      ],
+      "Your email address and app password are correct. Do ${ boldNot } use your regular password.": [
+        "Alamat email dan kata sandi aplikasi Anda benar. ${ boldNot } gunakan kata sandi biasa Anda."
+      ],
+      "Your email address and password are correct.": [
+        "Alamat email dan kata sandi Anda benar."
+      ],
+      "Your password is correct.": [
+        "Kata sandi Anda benar."
+      ]
+    },
+    "Import error emphasis": {
+      "not": [
+        "jangan"
+      ]
+    },
+    "Import instructions": {
+      "Depending on your email service provider, you may need to generate an ${ knowledgeBaseLink } first before you can import to ${ BRAND_NAME }.": [
+        "Tergantung dari layanan email Anda sebelumnya, Anda mungkin akan perlu untuk membuat ${ knowledgeBaseLink } terlebih dahulu sebelum Anda dapat mengimpor ke ${ BRAND_NAME }."
+      ],
+      "Expand the dropdown menu by clicking on the 3 dots (...).": [
+        "Tampilkan lebih banyak pilihan pada menu dropdown dengan mengklik tombol 3 titik (...)."
+      ],
+      "Generate the ${ boldAppPassword } and use it in place of your regular password when prompted by ${ BRAND_NAME }.": [
+        "Buat ${ boldAppPassword } dan gunakan kata sandi tersebut ketika diminta oleh ${ BRAND_NAME }."
+      ],
+      "Go to ${ boldAccountInfo } under your profile in ${ yahooMailLink }.": [
+        "Tuju ${ boldAccountInfo } yang ada di bawah profil ${ yahooMailLink } Anda."
+      ],
+      "Go to ${ boldAccountSecurity }.": [
+        "Tuju ${ boldAccountSecurity }."
+      ],
+      "Open your ${ yahooMailLink } contacts.": [
+        "Buka kontak ${ yahooMailLink } Anda."
+      ],
+      "Select ${ boldExportCSV }.": [
+        "Pilih ${ boldExportCSV }."
+      ],
+      "To import a calendar to ${ BRAND_NAME }, you need the ${ knowledgeBaseLink }. Download it from Yahoo in 3 easy steps:": [
+        "Untuk mengimpor kalender ke ${ BRAND_NAME }, Anda akan memerlukan ${ knowledgeBaseLink }. Unduh berkas ini dari Yahoo dengan mengikuti 3 langkah mudah berikut:"
+      ],
+      "To import a calendar to ${ BRAND_NAME }, you need the ${ knowledgeBaseLink }. Download this before you start the import process.": [
+        "Untuk mengimpor kalender ke ${ BRAND_NAME }, Anda akan memerlukan ${ knowledgeBaseLink }. Harap unduh berkas ini sebelum memulai proses impor."
+      ],
+      "To import contacts to ${ BRAND_NAME }, you need a ${ knowledgeBaseLink }. Download it from Yahoo in 3 easy steps:": [
+        "Untuk mengimpor kontak ke ${ BRAND_NAME }, Anda akan memerlukan ${ knowledgeBaseLink }. Unduh berkas ini dari Yahoo dengan mengikuti 3 langkah mudah berikut:"
+      ],
+      "To import contacts to ${ BRAND_NAME }, you need a ${ knowledgeBaseLink }. Download this before you start the import process.": [
+        "Untuk mengimpor kontak ke ${ BRAND_NAME }, Anda akan memerlukan ${ knowledgeBaseLink }. Harap unduh berkas ini sebelum memulai proses impor."
+      ],
+      "To import emails to ${ BRAND_NAME }, you need an ${ appPasswordLink } from Yahoo. Get it by following these steps:": [
+        "Untuk mengimpor email ke ${ BRAND_NAME }, Anda akan memerlukan ${ appPasswordLink } dari Yahoo. Anda dapat memperolehnya dengan mengikuti langkah-langkah berikut:"
+      ]
+    },
+    "Import instructions emphasis": {
+      "Account info": [
+        "Info akun"
+      ],
+      "Account security": [
+        "Keamanan akun"
+      ],
+      "app password": [
+        "kata sandi aplikasi"
+      ],
+      "Export": [
+        "Ekspor"
+      ],
+      "Export to CSV file": [
+        "Ekspor ke berkas CSV"
+      ]
+    },
+    "Import instructions link": {
+      "app password": [
+        "kata sandi aplikasi"
+      ],
+      "app password or enable IMAP": [
+        "kata sandi aplikasi atau mengaktifkan IMAP"
+      ],
+      "CSV or a VCF (vCard) file": [
+        "Berkas CSV atau VCF (vCard)"
+      ],
+      "full calendar view": [
+        "tampilan kalender seutuhnya"
+      ],
+      "ICS file": [
+        "Berkas ICS"
+      ],
+      "Yahoo": [
+        "Yahoo"
+      ]
+    },
+    "Import instructions step": {
+      "Go to ${ calendarViewLink } in Yahoo.": [
+        "Tuju ${ calendarViewLink } di Yahoo."
+      ],
+      "Mouse over the calendar you want to import and open the dropdown menu.": [
+        "Arahkan kursor Anda ke kalender yang hendak Anda impor dan buka menu dropdown."
+      ],
+      "Select ${ boldExport } to export the calendar as an ICS file.": [
+        "Pilih ${ boldExport } untuk mengekspor kalender yang bersangkutan dalam bentuk berkas ICS."
+      ]
+    },
+    "Import provider": {
+      "Other": [
+        "Lainnya"
+      ]
+    },
+    "Import warning": {
+      "${ totalContactsDiscarded } out of ${ totalContacts } contacts will not be imported. Click for details": [
+        "${ totalContactsDiscarded } dari ${ totalContacts } kontak tidak akan diimpor. Klik untuk melihat rincian"
+      ],
+      "${ totalEventsDiscarded } out of ${ totalEvents } events will not be imported. Expand for details.": [
+        "${ totalEventsDiscarded } acara dari total ${ totalEvents } acara tidak akan diimpor. Klik untuk keterangan lebih lanjut."
+      ],
+      "No contact can be imported. Click for details": [
+        "Tidak ada kontak yang dapat diimpor. Klik untuk melihat rincian"
+      ],
+      "No event can be imported. Expand for details.": [
+        "Tidak ada acara yang dapat diimpor. Klik untuk melihat rincian lebih lanjut."
+      ],
+      "Part of your calendar content is not supported and will not be imported.": [
+        "Sebagian isi kalender Anda tidak didukung dan tidak akan diimpor."
+      ]
+    },
+    "Info": {
+      "${ addressCount } email addresses": [
+        "${ addressCount } alamat email"
+      ],
+      "${ appName } needs your permission to ${ enableDesktopNotifications }.": [
+        "${ appName } memerlukan izin Anda untuk ${ enableDesktopNotifications }."
+      ],
+      "${ calendarsToBeCreatedCount } new calendars": [
+        "${ calendarsToBeCreatedCount } kalender baru"
+      ],
+      "${ calendarsToBeMerged } merged calendars": [
+        "${ calendarsToBeMerged } kalender yang tergabung"
+      ],
+      "${ calendarsToBeMergedCount } merged calendars": [
+        "${ calendarsToBeMergedCount } kalender yang tergabung"
+      ],
+      "${ contactCount } contacts contain multiple email addresses.": [
+        "${ contactCount } kontak mengandung lebih dari satu alamat email."
+      ],
+      "${ contactEmailsLength } Members": [
+        "${ contactEmailsLength } Anggota"
+      ],
+      "${ contactName } contains multiple email addresses.": [
+        "${ contactName } mengandung lebih dari satu alamat email."
+      ],
+      "${ contactsCount } contacts found": [
+        "${ contactsCount } kontak ditemukan"
+      ],
+      "${ groupCounts } groups found": [
+        "ditemukan ${ groupCounts } grup"
+      ],
+      "${ numContactGroups } contact groups": [
+        "${ numContactGroups } grup kontak"
+      ],
+      "${ numContacts } contacts": [
+        "${ numContacts } kontak"
+      ],
+      "${ providerFoldersNumLocalized } folders found": [
+        "${ providerFoldersNumLocalized } folder ditemukan"
+      ],
+      "${ providerFoldersNumLocalized } labels found in Gmail": [
+        "${ providerFoldersNumLocalized } label ditemukan di Gmail"
+      ],
+      "${ selectedCalendarsTotal } of ${ providerCalendars.length } calendars": [
+        "${ selectedCalendarsTotal } dari ${ providerCalendars.length } calendar"
+      ],
+      "${ selectedFoldersCount } folders selected": [
+        "${ selectedFoldersCount } folder terpilih"
+      ],
+      "${ selectedFoldersCount } labels selected": [
+        "${ selectedFoldersCount } label terpilih"
+      ],
+      "${ selectedFoldersCountLocalized } folders selected": [
+        "${ selectedFoldersCountLocalized } folder dipilih"
+      ],
+      "${ selectedFoldersCountLocalized } labels selected": [
+        "${ selectedFoldersCountLocalized } label dipilih"
+      ],
+      "${ updated } contacts updated successfully.": [
+        "${ updated } kontak berhasil diperbarui."
+      ],
+      "(${ memberCount } members)": [
+        "(${ memberCount } anggota)"
+      ],
+      "A cancellation email will be sent to removed participants.": [
+        "Surel pembatalan akan dikirim ke peserta yang dihapus."
+      ],
+      "A cancellation email will be sent to the event participants. Would you like to delete all events in this series?": [
+        "Surel pembatalan akan dikirim ke peserta acara. Anda ingin menghapus semua rangkaian acara ini?"
+      ],
+      "A cancellation email will be sent to the event participants. Would you like to delete this event?": [
+        "Surel pembatalan akan dikirim ke peserta acara. Anda ingin menghapus acara ini?"
+      ],
+      "Account access restricted due to unpaid invoices. Please contact your administrator.": [
+        "Akses akun dibatasi karena tagihan tidak dibayar. Silakan hubungi administrator Anda."
+      ],
+      "Added and removed participants will be notified about all the events in this series.": [
+        "Peserta yang ditambahkan dan dihapus akan diberi tahu tentang semua rangkaian acara ini."
+      ],
+      "Added and removed participants will be notified.": [
+        "Peserta yang ditambahkan dan dihapus akan diberi tahu."
+      ],
+      "Address Verification with Trusted Keys is enabled for this address. To be able to send to this address, first trust public keys that can be used for sending.": [
+        "Verifikasi Alamat dengan Kunci Terpercaya sudah diaktifkan untuk alamat ini. Agar dapat mengirim ke alamat ini, percayai terlebih dahulu kunci publik yang akan dipakai untuk mengirim pesan."
+      ],
+      "All (${ totalFoldersCount } folders)": [
+        "Semua (${ totalFoldersCount } folder)"
+      ],
+      "All (${ totalFoldersCount } labels)": [
+        "Semua (${ totalFoldersCount } label)"
+      ],
+      "An invitation will be sent to added participants.": [
+        "Undangan akan dikirim ke peserta yang ditambahkan."
+      ],
+      "An invitation will be sent to the event participants.": [
+        "Undangan akan dikirim ke peserta acara."
+      ],
+      "and": [
+        "dan"
+      ],
+      "Anyone with this link can see all the event details of this calendar such as title, location or participants.": [
+        "Semua orang yang memiliki tautan ini akan dapat melihat seluruh rincian acara yang terdapat pada kalender ini seperti judul acara, lokasi acara, atau daftar peserta."
+      ],
+      "Anyone with this link can see whether you’re free or busy on your calendar. They can’t see event details, such as title, location, or participants.": [
+        "Semua orang yang memiliki tautan ini akan dapat melihat apakah Anda sedang sibuk atau tidak pada kalender Anda. Meskipun demikian, mereka tidak akan dapat melihat berbagai rincian yang ada seperti judul acara, lokasi acara, atau daftar peserta."
+      ],
+      "At most ${ MAX_ATTENDEES } participants are allowed per invitation": [
+        "Hanya ${ MAX_ATTENDEES } peserta yang dapat diundang per undangannya"
+      ],
+      "Attention required": [
+        "Diperlukan perhatian"
+      ],
+      "Before requesting a new verification code, check your spam folder and check that ${ strong } is the correct address.": [
+        "Sebelum meminta kode verifikasi baru, periksa folder spam Anda dan pastikan ${ strong } merupakan alamat email yang benar."
+      ],
+      "By sharing the full event details of this calendar, you accept to grant ${ BRAND_NAME } access to this calendar's encrypted information.": [
+        "Dengan membagikan detail acara milik kalender ini secara menyeluruh, Anda mengizinkan ${ BRAND_NAME } untuk mengakses informasi terenkripsi yang terdapat pada kalender ini."
+      ],
+      "Calendar side panel": [
+        "Panel samping kalender"
+      ],
+      "Cannot remember your password? We can help you clear the encrypted data of all contacts encrypted with this key and in the process dismiss the alert.": [
+        "Tidak mengingat kata sandi Anda? Kami dapat membantu Anda untuk membersihkan data terenkripsi semua kontak yang dienkripsi dengan kunci ini dan dalam prosesnya mengabaikan peringatan."
+      ],
+      "Checking contact ${ progress } of ${ max }...": [
+        "Memeriksa kontak ${ progress } dari ${ max }..."
+      ],
+      "Click \"Request new code\" to have a new verification code sent to ${ strong }. If this phone number is incorrect, click \"Edit\" to correct it.": [
+        "Klik \"Minta kode baru\" untuk mendapatkan kode verifikasi baru yang akan dikirim ke ${ strong }. Apabila nomor telepon ini tidak sesuai, klik \"Sunting\" untuk mengubahnya."
+      ],
+      "Close this screen to exit.": [
+        "Tutup layar ini untuk keluar."
+      ],
+      "Country code": [
+        "Kode negara"
+      ],
+      "Create ${ calendarsToBeCreated } new calendars": [
+        "Buat ${ calendarsToBeCreated } kalender baru"
+      ],
+      "Create a label for the imported messages, a time range for this import, and the folders you would like to import.": [
+        "Buat label khusus untuk menandai pesan-pesan yang diimpor, rentang waktu impor yang bersangkutan, serta folder-folder yang hendak Anda impor."
+      ],
+      "Create a label for the imported messages, a time range for this import, and the labels you would like to import.": [
+        "Buat label khusus untuk menandai pesan-pesan yang diimpor, rentang waktu impor yang bersangkutan, serta label-label yang hendak Anda impor."
+      ],
+      "Create a new contact group": [
+        "Buat grup kontak baru"
+      ],
+      "Create in": [
+        "Buat di"
+      ],
+      "CSV files from Outlook, Outlook Express, Yahoo! Mail, Hotmail, Eudora and some other apps as well as vCard 3.1 and 4.0 formats (UTF-8 encoding) are supported.": [
+        "Anda dapat mengimpor berkas CSV dari Outlook, Outlook Express, Yahoo! Mail, Hotmail, Eudora, dan beberapa aplikasi lainnya serta berkas vCard versi 3.1 dan 4.0 (dengan encoding UTF-8)."
+      ],
+      "Custom": [
+        "Sesuaikan"
+      ],
+      "Custom daily": [
+        "Sesuaikan harian"
+      ],
+      "Custom monthly": [
+        "Sesuaikan bulanan"
+      ],
+      "Custom weekly": [
+        "Sesuaikan mingguan"
+      ],
+      "Custom yearly": [
+        "Sesuaikan tahunan"
+      ],
+      "Daily": [
+        "Harian"
+      ],
+      "Discard changes?": [
+        "Buang perubahan?"
+      ],
+      "Drop the file here to upload": [
+        "Letakkan berkas yang hendak Anda unggah di sini"
+      ],
+      "Duplicate key updated": [
+        "Kunci ganda diperbarui"
+      ],
+      "Each code can only be used once": [
+        "Masing-masing kode hanya dapat digunakan sekali"
+      ],
+      "Emails are automatically signed": [
+        "Email ditandatangani secara otomatis"
+      ],
+      "Enter the code from your authenticator app": [
+        "Masukkan kode yang tertera pada aplikasi otentikator Anda"
+      ],
+      "Enter the credentials of the email account you want to import from.": [
+        "Masukkan kredensial akun email yang berkas-berkasnya ingin Anda impor."
+      ],
+      "Enter the verification code that was sent to ${ destinationText }.": [
+        "Masukkan kode verifikasi yang dikirim ke ${ destinationText }."
+      ],
+      "Enter verification code. Digit ${ digit }.": [
+        "Masukkan kode verifikasi. Digit ${ digit }."
+      ],
+      "Enter your own password (as organization admin).": [
+        "Masukkan kata sandi Anda (selaku admin organisasi)."
+      ],
+      "Existent and added participants will be notified.": [
+        "Peserta yang sudah ada atau yang ditambahkan akan diberi tahu."
+      ],
+      "Existent and removed participants will be notified.": [
+        "Peserta yang sudah ada dan yang dihapus akan diberi tahu."
+      ],
+      "Existent, added and removed participants will be notified.": [
+        "Peserta yang sudah ada, yang ditambahkan, dan dihapus akan diberi tahu."
+      ],
+      "Free up some space or add more storage space.": [
+        "Kosongkan beberapa ruang atau tambah ruang penyimpanan."
+      ],
+      "Free up some space or contact your administrator.": [
+        "Kosongkan beberapa ruang atau hubungi administrator Anda."
+      ],
+      "Frequency modifications will be lost.": [
+        "Perubahan frekuensi akan hilang."
+      ],
+      "Group assignment applied": [
+        "Penugasan grup diterapkan"
+      ],
+      "here": [
+        "di sini"
+      ],
+      "If you are having trouble creating your account, please request an invitation and we will respond within one business day.": [
+        "Jika Anda menemui masalah saat membuat akun, silakan minta undangan dan kami akan meresponnya satu hari kerja."
+      ],
+      "If you believe this is in error, please contact us ${ contactLink }.": [
+        "Apabila Anda merasa ini adalah sebuah kesalahan, silakan hubungi kami ${ contactLink }."
+      ],
+      "If you don't find the email in your inbox, please check your spam folder.": [
+        "Apabila Anda tidak menemukan email yang bersangkutan di dalam kotak masuk, mohon periksa folder spam Anda."
+      ],
+      "Import ${ contactsFragment } and ${ contactsGroupsFragment }": [
+        "Impor ${ contactsFragment } dan ${ contactsGroupsFragment }"
+      ],
+      "Import ${ selectedCalendarsCount } of ${ totalCalendarsCount } calendars": [
+        "Impor ${ selectedCalendarsCount } dari ${ totalCalendarsCount } kalender yang tersedia"
+      ],
+      "Import from": [
+        "Impor dari"
+      ],
+      "Import in progress": [
+        "Proses impor sedang berlangsung"
+      ],
+      "Import mailbox": [
+        "Impor kotak surat"
+      ],
+      "Import your emails, calendars, and contacts from another service to ${ BRAND_NAME }. We'll guide you each step of the way and encrypt your data as it gets moved. Welcome to the world of privacy.": [
+        "Impor email, kalender, dan kontak yang Anda miliki dari layanan email Anda terdahulu ke ${ BRAND_NAME }. Kami akan memandu Anda untuk memindahkan dan mengenkripsi data selangkah demi selangkah. Selamat datang di dunia privasi."
+      ],
+      "Importing your data from ${ importedEmailAddress } to ${ toEmail }.": [
+        "Mengimpor data Anda dari ${ importedEmailAddress } menuju ${ toEmail }."
+      ],
+      "Inherited from parent folder": [
+        "Diwariskan dari folder induk"
+      ],
+      "Internet connection lost": [
+        "Koneksi internet terputus"
+      ],
+      "Internet connection lost. Please check your device's connectivity.": [
+        "Koneksi internet terputus. Silakan periksa konektivitas perangkat Anda."
+      ],
+      "Internet connection restored.": [
+        "Koneksi internet telah kembali pulih."
+      ],
+      "Just confirm your selection and we'll do the rest.": [
+        "Anda hanya perlu menentukan pilihan Anda -- biarkan kami yang mengurus sisanya."
+      ],
+      "Key fingerprint": [
+        "Sidik jari kunci"
+      ],
+      "Label all imported messages as": [
+        "Labeli semua pesan terimpor sebagai"
+      ],
+      "Labels:": [
+        "Label:"
+      ],
+      "Large imports can take several days.": [
+        "Proses impor yang melibatkan data-data dalam jumlah yang besar dapat memakan waktu hingga beberapa hari."
+      ],
+      "Learn more": [
+        "Pelajari lebih lanjut"
+      ],
+      "Link copied to clipboard": [
+        "Tautan disalin ke clipboard"
+      ],
+      "Link created": [
+        "Tautan dibuat"
+      ],
+      "Loading": [
+        "Memuat"
+      ],
+      "Loading ${ appName }": [
+        "Memuat ${ appName }"
+      ],
+      "Loading event": [
+        "Memuat acara"
+      ],
+      "Loading events": [
+        "Memuat acara"
+      ],
+      "Manage your calendars": [
+        "Kelola kalender Anda"
+      ],
+      "Merged": [
+        "Tergabung"
+      ],
+      "Monthly ${ onDayString }": [
+        "Bulanan ${ onDayString }"
+      ],
+      "Name your new folder and select the parent folder you want to put it in. If you do not select a parent folder, this new folder will be created as a top level folder.": [
+        "Beri nama folder baru Anda dan pilih folder induk yang Anda ingin masukkan ke dalamnya. Jika Anda tidak memilih folder induk, folder baru ini akan dibuat sebagai folder level paling atas."
+      ],
+      "New": [
+        "Baru"
+      ],
+      "No contacts added yet": [
+        "Belum ada kontak yang ditambahkan"
+      ],
+      "No email address": [
+        "Tidak ada alamat email"
+      ],
+      "No group found": [
+        "Tidak ada grup yang ditemukan"
+      ],
+      "No results found": [
+        "Tidak ada hasil yang ditemukan"
+      ],
+      "None of the participants can be notified about your changes:": [
+        "Tidak ada peserta yang dapat diberi tahu tentang perubahan Anda:"
+      ],
+      "None of the uploaded keys are valid for encryption. To be able to send messages to this address, please upload a valid key or disable \"Encrypt emails\".": [
+        "Tidak ada kunci yang valid untuk enkripsi dari daftar kunci yang diunggah. Untuk dapat mengirim pesan ke alamat ini, silakan unggah kunci yang valid atau nonaktifkan pengaturan \"Enkripsi email\"."
+      ],
+      "Not a valid URL": [
+        "URL tidak valid"
+      ],
+      "Occurrences previously updated by the organizer will be kept, but some of your answers will be lost.": [
+        "Kejadian yang sebelumnya diperbarui oleh penyelenggara akan disimpan, tetapi beberapa jawaban Anda akan hilang."
+      ],
+      "Occurrences previously updated by the organizer will be kept.": [
+        "Kejadian yang sebelumnya diperbarui oleh penyelenggara akan disimpan."
+      ],
+      "One or more of your trusted keys were marked \"compromised\" by their owner. We recommend that you \"untrust\" these keys.": [
+        "Satu atau lebih kunci terpercaya Anda telah ditandai sebagai \"bocor\" oleh pemiliknya. Kami menyarankan Anda untuk tidak lagi \"memercayai\" kunci tersebut."
+      ],
+      "PGP/Inline is only compatible with Plain Text format.": [
+        "Enkripsi PGP/Inline hanya kompatibel dengan format Plain Text."
+      ],
+      "PGP/MIME automatically sends the message using the current composer mode.": [
+        "Enkripsi PGP/MIME akan secara otomatis mengirim pesan dengan mode komposer yang saat ini digunakan."
+      ],
+      "Please note that addresses assigned to this group will NOT be deleted.": [
+        "Harap diperhatikan, alamat yang ditugaskan di grup ini TIDAK akan dihapus."
+      ],
+      "Please note that this process may take some time depending on the size of your address book.": [
+        "Mohon dicatat proses ini memerlukan waktu, tergantung pada ukuran buku alamat Anda."
+      ],
+      "Please remove the duplicates and try again.": [
+        "Silakan hapus yang ganda dan coba lagi."
+      ],
+      "Please select the folders you would like to import:": [
+        "Harap pilih folder-folder yang hendak Anda impor:"
+      ],
+      "Please select which email address or addresses to add to ${ groupCount } groups.": [
+        "Silakan pilih alamat email mana saja yang akan ditambahkan ke ${ groupCount } grup."
+      ],
+      "Please select which email address or addresses to add to ${ groupName }.": [
+        "Silakan pilih alamat email mana saja yang akan ditambahkan ke ${ groupName }."
+      ],
+      "Please wait while we look for contacts that can be re-signed with the primary encryption key.": [
+        "Mohon tunggu selagi kami memeriksa kontak yang dapat ditandatangani ulang dengan kunci enkripsi utama."
+      ],
+      "Please wait while we look for contacts that contain data encrypted with the inactive key.": [
+        "Mohon tunggu selagi kami memeriksa kontak yang mengandung data yang terenkripsi dengan kunci yang sudah tidak lagi aktif."
+      ],
+      "Previous modifications on this series will be lost.": [
+        "Perubahan sebelumnya pada seri ini akan hilang."
+      ],
+      "Primary": [
+        "Utama"
+      ],
+      "Recovery information will remain on this device unless you select to delete it.": [
+        "Informasi pemulihan akan tetap terdapat pada perangkat ini kecuali Anda memilih untuk menghapusnya."
+      ],
+      "Refreshing the page or ${ link } will automatically resolve most issues.": [
+        "Memuat ulang halaman atau ${ link } akan secara otomatis mengatasi sebagian besar masalah."
+      ],
+      "Removed participants will be notified.": [
+        "Peserta yang dihapus akan diberi tahu."
+      ],
+      "Select the email format you want to be used by default when sending an email to this email address.": [
+        "Pilih format email yang akan digunakan setiap kali Anda mengirim email ke alamat ini."
+      ],
+      "Select what you want to import.": [
+        "Pilih hal apa saja yang hendak Anda impor."
+      ],
+      "Select which calendars to import. A new calendar will be created for each imported calendar up to the 20 calendars limit.": [
+        "Pilih kalender-kalender mana saja yang akan diimpor. Untuk setiap kalender yang Anda impor, sistem kami akan membuat kalender baru hingga batas maksimum 20 kalender."
+      ],
+      "Servers are unreachable. Please try again in a few minutes": [
+        "Server kami sedang tidak dapat dijangkau. Silakan coba lagi dalam beberapa menit"
+      ],
+      "Session timed out": [
+        "Masa berlaku sesi telah berakhir"
+      ],
+      "Setting up PGP allows you to send end-to-end encrypted emails with a non-${ BRAND_NAME } user that uses a PGP compatible service.": [
+        "Memasang PGP memungkinkan Anda untuk saling bertukar email yang terenkripsi secara ujung ke ujung dengan para pengguna non-${ BRAND_NAME } yang juga mendukung PGP."
+      ],
+      "Some of your answers to occurrences previously updated by the organizer will be lost.": [
+        "Beberapa jawaban Anda untuk kejadian sebelumnya yang diperbarui oleh penyelenggara akan hilang."
+      ],
+      "support team": [
+        "tim dukungan"
+      ],
+      "Temporarily unavailable. Please check back later.": [
+        "Hal yang Anda tuju saat ini sedang tidak tersedia. Mohon periksa lagi nanti."
+      ],
+      "The application needs to locally decrypt your contacts before they can be exported. At the end of the process, a VCF file will be generated and you will be able to download it.": [
+        "Aplikasi perlu mendekripsi kontak Anda secara lokal sebelum dapat diekspor. Di akhir proses, berkas VCF akan dibuat dan Anda dapat mengunduhnya."
+      ],
+      "The following participants cannot be notified about your changes:": [
+        "Peserta berikut tidak dapat diberi tahu tentang perubahan Anda:"
+      ],
+      "The organizer cannot be notified that you decline the invitation:": [
+        "Penyelenggara tidak dapat diberitahu saat Anda menolak undangan:"
+      ],
+      "The organizer cannot be notified that you want to change your answer:": [
+        "Pengelola acara berikut tidak dapat diberi tahu bahwa Anda ingin mengubah jawaban Anda:"
+      ],
+      "The organizer could not be notified that you changed your answer:": [
+        "Pengelola acara berikut tidak dapat diberi tahu bahwa Anda telah mengubah jawaban Anda:"
+      ],
+      "The organizer has updated some of the events in this series. Changing the calendar is not supported yet for this type of recurring events.": [
+        "Penyelenggara telah memperbarui beberapa rangkaian acara ini. Pengubahan kalender belum didukung untuk jenis acara berulang ini."
+      ],
+      "The organizer of this event will be notified that you decline the invitation. Would you like to delete this event?": [
+        "Penyelenggara acara ini akan diberi tahu jika Anda menolak undangan. Anda ingin menghapus acara ini?"
+      ],
+      "The organizer of this event will not be notified that you decline the invitation as you can't send emails from the invited address. Would you like to delete this event anyway?": [
+        "Penyelenggara acara ini tidak akan diberi tahu bahwa Anda menolak undangan karena Anda tidak dapat mengirim email dari alamat yang diundang. Ingin tetap menghapus acara ini?"
+      ],
+      "The organizer of this series of events will be notified that you decline the invitation. Would you like to delete all the events in this series?": [
+        "Penyelenggara rangkaian acara ini akan diberi tahu bahwa Anda menolak undangan. Anda ingin menghapus semua rangkaian acara ini?"
+      ],
+      "The organizer of this series of events will not be notified that you decline the invitation as you can't send emails from the invited address. Would you like to delete all the events in this series anyway?": [
+        "Penyelenggara rangkaian acara ini tidak akan diberi tahu bahwa Anda menolak undangan karena Anda tidak dapat mengirim email dari alamat yang diundang. Ingin tetap menghapus semua acara dalam rangkaian ini?"
+      ],
+      "This account has been suspended due to a potential policy violation.": [
+        "Akun ini telah ditangguhkan karena ditenggarai telah melanggar ketentuan penggunaan yang berlaku."
+      ],
+      "This address is disabled. To be able to send to this address, the owner must first enable the address.": [
+        "Alamat ini nonaktif. Agar dapat mengirim ke alamat ini, pemiliknya harus mengaktifkan dulu alamat tersebut."
+      ],
+      "This event has been updated by the organizer. Would you like to change your answer only for this occurrence in this series?": [
+        "Acara ini telah diperbarui penyelenggara. Anda ingin mengubah jawaban untuk rangkaian kegiatan ini saja?"
+      ],
+      "This event has been updated by the organizer. Would you like to delete this event?": [
+        "Acara ini telah diperbarui penyelenggara. Ingin menghapus acara ini?"
+      ],
+      "This event has been updated. The organizer will be notified that you decline the invitation. Would you like to delete this event?": [
+        "Acara telah diperbarui. Penyelenggara akan diberi tahu jika Anda menolak undangan. Anda ingin menghapus kegiatan ini?"
+      ],
+      "This event has been updated. The organizer will not be notified that you decline the invitation as you can't send emails from the invited address. Would you like to delete this event anyway?": [
+        "Acara ini telah diperbarui. Penyelenggara tidak akan diberi tahu bahwa Anda menolak undangan karena Anda tidak dapat mengirim email dari alamat yang diundang. Ingin tetap menghapus acara ini?"
+      ],
+      "This link leads to a website that might be trying to steal your information, such as passwords and credit card details.": [
+        "Tautan ini tertuju pada situs web yang dapat mencuri informasi pribadi Anda, seperti kata sandi dan rincian kartu kredit yang Anda miliki."
+      ],
+      "This link may be a homograph attack and cannot be opened by the Edge browser. If you are certain the link is legitimate, please use a different browser to open it.": [
+        "Tautan ini mungkin merupakan serangan homograf dan tidak dapat dibuka oleh browser Edge. Apabila Anda yakin tautan tersebut absah, silakan gunakan browser lain untuk membukanya."
+      ],
+      "This link may be a homograph attack. Please verify this is the link you wish to visit, or don't open it.": [
+        "Tautan ini mungkin serangan homograf. Mohon verifikasi tautan yang ingin Anda kunjungi, atau jangan kunjungi sama sekali."
+      ],
+      "To fight spam and abuse, please verify you are human.": [
+        "Untuk melawan spam dan penyalahgunaan, mohon verifikasi Anda memang manusia."
+      ],
+      "To import events, first create a calendar in ${ CALENDAR_APP_NAME }. This is where the events will appear after the import.": [
+        "Untuk mengimpor acara, buatlah kalender di ${ CALENDAR_APP_NAME } terlebih dahulu. Acara yang diimpor akan muncul pada kalender ini."
+      ],
+      "To re-sign your contacts, we need to check every contact against the list of encryption keys available in your account. If no match is found, your contact will be re-signed with the primary encryption key.": [
+        "Untuk menandatangani ulang kontak Anda, kami perlu memeriksa setiap kontak dengan daftar kunci enkripsi yang tersedia di akun Anda. Jika tidak ada yang cocok, kontak Anda akan ditandatangani ulang dengan kunci enkripsi utama."
+      ],
+      "To recover your data, you need to re-activate the contact encryption key used at the time when the data was created. This will require you to remember the password used when the key was generated.": [
+        "Untuk memulihkan data Anda, Anda perlu mengaktivasi ulang kunci enkripsi kontak yang dipakai saat data dibuat. Ini mewajibkan Anda untuk mengingat kata sandi yang dipakai saat kunci dibuat dulu."
+      ],
+      "To use Address Verification, you must trust one or more available public keys, including the one you want to use for sending. This prevents the encryption keys from being faked.": [
+        "Untuk menggunakan Verifikasi Alamat, anda harus mempercayai satu atau beberapa kunci publik yang tersedia, termasuk yang ingin anda gunakan untuk mengirim. Ini mencegah kunci enkripsi dipalsukan."
+      ],
+      "Update recurring event": [
+        "Perbarui acara berulang"
+      ],
+      "Upgrade now to get premium features, products and storage at a special price": [
+        "Tingkatkan sekarang untuk memperoleh berbagai fitur, produk, dan ruang penyimpanan berkapasitas premium dengan harga khusus"
+      ],
+      "We'll notify you when the import is done.": [
+        "Kami akan memberitahukan Anda apabila proses impor telah selesai."
+      ],
+      "We'll send a new verification code to ${ strong }": [
+        "Kami akan mengirimkan kode verifikasi baru ke ${ strong }"
+      ],
+      "Week": [
+        "Pekan"
+      ],
+      "When you set up two-factor authentication, we provide recovery codes which you can use to sign in if you lose access to your authenticator app.": [
+        "Pada saat Anda menyiapkan otentikasi dua faktor, kami akan menyediakan beberapa kode pemulihan yang dapat Anda gunakan untuk masuk apabila Anda kehilangan akses ke aplikasi otentikator Anda."
+      ],
+      "Which event would you like to delete?": [
+        "Acara mana yang ingin dihapus?"
+      ],
+      "Which event would you like to update?": [
+        "Acara mana yang ingin diperbarui?"
+      ],
+      "Would you like to change your answer for all the events in this series?": [
+        "Ingin mengubah jawaban Anda untuk semua rangkaian acara ini?"
+      ],
+      "Would you like to continue anyway?": [
+        "Anda ingin tetap melanjutkan?"
+      ],
+      "Would you like to delete all the events in this series?": [
+        "Anda ingin menghapus semua rangkaian acara ini?"
+      ],
+      "Would you like to delete the event anyway?": [
+        "Yakin ingin tetap menghapus acara ini?"
+      ],
+      "Would you like to delete this event?": [
+        "Anda ingin menghapus acara ini?"
+      ],
+      "Would you like to receive a new verification code or use an alternative verification method?": [
+        "Apakah Anda mau menerima kode verifikasi baru atau menggunakan metode verifikasi alternatif?"
+      ],
+      "Would you like to receive a new verification code?": [
+        "Apakah Anda ingin menerima kode verifikasi baru?"
+      ],
+      "Would you like to update all events in this series?": [
+        "Anda ingin memperbarui semua acara dalam rangkaian ini?"
+      ],
+      "Would you like to update this event?": [
+        "Apakah Anda ingin memperbarui acara ini?"
+      ],
+      "Yearly": [
+        "Tahunan"
+      ],
+      "You already joined this calendar": [
+        "Anda telah bergabung ke kalender ini"
+      ],
+      "You are about to open another browser tab and visit:": [
+        "Anda akan membuka tab browser baru dan mengunjungi:"
+      ],
+      "You are currently signed in as ${ user.Name } (${ user.Email }).": [
+        "Anda saat ini sedang masuk sebagai ${ user.Name } (${ user.Email })."
+      ],
+      "You can also merge imported calendars with existing ${ BRAND_NAME } calendars.": [
+        "Anda juga dapat menggabungkan kalender yang diimpor dengan kalender ${ BRAND_NAME } yang telah ada."
+      ],
+      "You can check the progress ${ importProgressLink }.": [
+        "Anda dapat mengecek status proses impor Anda ${ importProgressLink }."
+      ],
+      "You can import one data type at a time.": [
+        "Anda hanya dapat mengimpor satu tipe data dalam satu waktu."
+      ],
+      "You can turn on notifications to get alerts when new email messages arrive in this folder.": [
+        "Anda dapat mengaktifkan notifikasi untuk menerima pemberitahuan setiap kali terdapat email baru yang masuk ke folder ini."
+      ],
+      "You have reactivated your keys and events linked to the following calendars can now be decrypted.": [
+        "Kunci Anda telah diaktivasi ulang. Acara yang tersambung ke kalender-kalender ini dapat didekripsi."
+      ],
+      "You previously rejected this invitation. Ask the owner for a re-invite": [
+        "Anda sebelumnya telah menolak undangan ini. Silakan minta pemilik kalender untuk kembali mengundang Anda"
+      ],
+      "You reached ${ spaceDisplayed }% of your storage capacity. ${ freeUpMessage } ${ upgradeLink }": [
+        "Kapasitas penyimpanan Anda mencapai ${ spaceDisplayed }%. ${ freeUpMessage } ${ upgradeLink }"
+      ],
+      "You reached 100% of your storage capacity. You cannot send or receive new emails. ${ freeUpMessage } ${ upgradeLink }": [
+        "Kapasitas penyimpanan Anda mencapai 100%. Anda tidak dapat mengirim atau menerima pesan baru. ${ freeUpMessage } ${ upgradeLink }"
+      ],
+      "You will lose all unsaved changes.": [
+        "Anda akan kehilangan semua perubahan yang belum disimpan."
+      ],
+      "You will update all the events in this series. Added and removed participants will be notified.": [
+        "Anda akan memperbarui semua rangkaian acara. Peserta yang ditambahkan dan dihapus akan diberi tahu."
+      ],
+      "You will update all the events in this series. An invitation will be sent to the event participants.": [
+        "Anda akan memperbarui semua acara dalam rangkaian ini. Undangan akan dikirim ke peserta acara."
+      ],
+      "You will update all the events in this series. Existent and added participants will be notified.": [
+        "Anda akan memperbarui semua rangkaian acara ini. Peserta yang sudah ada dan yang ditambahkan akan diberi tahu."
+      ],
+      "You will update all the events in this series. Existent and removed participants will be notified.": [
+        "Anda akan memperbarui semua rangkaian acara ini. Peserta yang sudah ada dan yang dihapus akan diberi tahu."
+      ],
+      "You will update all the events in this series. Existent, added and removed participants will be notified.": [
+        "Anda akan memperbarui semua rangkaian acara. Peserta yang sudah ada, yang ditambahkan, dan dihapus akan diberi tahu."
+      ],
+      "You will update all the events in this series. Removed participants will be notified.": [
+        "Anda akan memperbarui semua rangkaian acara ini. Peserta yang dihapus akan diberi tahu."
+      ],
+      "Your ${ BRAND_NAME } account is currently suspended. After 28 days, emails will no longer be delivered to your inbox, your Drive sharing links will be blocked, and you will not be able to upload new files. To resume normal service, please pay any overdue invoices.": [
+        "Akun ${ BRAND_NAME } Anda sedang ditangguhkan. Setelah 28 hari, email tidak akan lagi diantarkan ke kotak masuk Anda, tautan berbagi Drive Anda akan diblokir, dan Anda tidak akan dapat mengunggah berkas baru. Untuk dapat kembali menggunakan layanan seperti biasa, silakan lunasi seluruh tagihan yang tertunggak."
+      ],
+      "Your ${ BRAND_NAME } account is currently suspended. Emails are no longer being delivered to your inbox. Your Drive sharing links are no longer active, and you cannot upload new files. To continue using your account, please pay any overdue invoices.": [
+        "Akun ${ BRAND_NAME } Anda sedang ditangguhkan. Email tidak akan lagi diantarkan ke kotak masuk Anda. Tautan berbagi Drive Anda telah dinonaktifkan, dan Anda tidak akan dapat mengunggah berkas baru. Untuk dapat kembali menggunakan layanan seperti biasa, silakan lunasi seluruh tagihan yang tertunggak."
+      ],
+      "Your account has at least one overdue invoice. Your access will soon get restricted. ${ payInvoiceLink }": [
+        "Akun Anda memiliki setidaknya satu tagihan yang belum dibayar. Akses akun Anda akan dibatasi. ${ payInvoiceLink }"
+      ],
+      "Your account has at least one overdue invoice. Your account is restricted, and all services are now blocked until payment. ${ payInvoiceLink }": [
+        "Akun Anda memiliki setidaknya satu tagihan yang tertunggak. Akun Anda telah ditangguhkan dan seluruh layanan telah diblokir hingga Anda melakukan pembayaran. ${ payInvoiceLink }"
+      ],
+      "Your account has at least one overdue invoice. Your account is restricted. Continued non-payment will block your emails and sharing links. ${ payInvoiceLink }": [
+        "Akun Anda memiliki setidaknya satu tagihan yang tertunggak dan telah ditangguhkan. Kelalaian membayar yang berkelanjutan akan memblokir email dan tautan berbagi Anda. ${ payInvoiceLink }"
+      ],
+      "Your address is disabled. A cancellation email cannot be sent to the event participants. Would you like to delete all events in this series anyway?": [
+        "Alamat Anda nonaktif. Surel pembatalan tidak dapat dikirim ke peserta acara. Anda ingin tetap menghapus semua rangkaian acara ini?"
+      ],
+      "Your address is disabled. A cancellation email cannot be sent to the event participants. Would you like to delete this event anyway?": [
+        "Alamat Anda nonaktif. Surel pembatalan tidak dapat dikirim ke peserta acara. Anda ingin tetap menghapus acara ini?"
+      ],
+      "Your data is ready to import from ${ importedEmailAddressStrong } to your ${ BRAND_NAME } account.": [
+        "Data Anda siap untuk diimpor dari ${ importedEmailAddressStrong } menuju akun ${ BRAND_NAME } Anda."
+      ],
+      "Your email will only be used for this one-time verification.": [
+        "Email Anda hanya akan dipakai satu kali ini untuk keperluan verifikasi."
+      ],
+      "Your events will be encrypted and then saved.": [
+        "Acara Anda akan dienkripsi dan disimpan."
+      ],
+      "Your import will not be processed.": [
+        "Impor Anda tidak akan diproses."
+      ],
+      "Your login information will not be saved after the import is completed.": [
+        "Informasi seputar akun Anda tidak akan disimpan setelah impor selesai."
+      ],
+      "Your phone number will only be used for this one-time verification.": [
+        "Nomor telepon Anda hanya akan dipakai satu kali ini untuk keperluan verifikasi."
+      ],
+      "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
+        "Zona waktu sistem Anda sepertinya berubah menjadi ${ timezone }. Anda ingin memperbarui preferensi zona waktu?"
+      ]
+    },
+    "Info on errors": {
+      "Click for details": [
+        "Klik untuk rincian"
+      ]
+    },
+    "Info; reset calendar keys modal; part 1": {
+      "Some of your calendars will not show details of previously created events.": [
+        "Sebagian kalender Anda tidak akan menampilkan rincian acara yang telah dibuat sebelumnya."
+      ],
+      "Your calendars will not show details of previously created events.": [
+        "Kalender Anda tidak akan menampilkan rincian acara yang telah dibuat sebelumnya."
+      ]
+    },
+    "Info; reset calendar keys modal; part 2": {
+      "This is because your password was recently reset without using a recovery method.": [
+        "Hal ini dikarenakan kata sandi Anda baru-baru ini diubah tanpa menggunakan metode pemulihan."
+      ]
+    },
+    "Info; reset calendar keys modal; part 3": {
+      "You can recover your encrypted data with a recovery file, recovery phrase, or your old password.": [
+        "Anda dapat memulihkan data terenkripsi Anda dengan menggunakan berkas pemulihan, frasa pemulihan, atau kata sandi lama Anda."
+      ]
+    },
+    "Info; reshare calendar modal; part 1": {
+      "Calendar sharing was disabled following your recent password reset.": [
+        "Pembagian kalender dinonaktifkan seiring dengan pengaturan ulang kata sandi Anda."
+      ]
+    },
+    "Info; reshare calendar modal; part 2": {
+      "You can reshare your calendars in settings.": [
+        "Anda dapat membagikan ulang kalender Anda melalui menu pengaturan."
+      ]
+    },
+    "Input label": {
+      "Access": [
+        "Akses"
+      ],
+      "Label (optional)": [
+        "Label (opsional)"
+      ]
+    },
+    "Input placeholder": {
+      "Add label": [
+        "Tambah label"
+      ]
+    },
+    "Key badge": {
+      "Compromised": [
+        "Bocor"
+      ],
+      "Expired": [
+        "Kedaluwarsa"
+      ],
+      "Obsolete": [
+        "Usang"
+      ],
+      "Primary": [
+        "Utama"
+      ],
+      "Revoked": [
+        "Dicabut"
+      ],
+      "Trusted": [
+        "Tepercaya"
+      ],
+      "WKD": [
+        "WKD"
+      ]
+    },
+    "Label": {
+      "${ BRAND_NAME } username": [
+        "Pengguna ${ BRAND_NAME }"
+      ],
+      "(Temporarily unavailable. Please check back later.)": [
+        "(Sedang tidak tersedia. Mohon periksa lagi nanti.)"
+      ],
+      "Add email address": [
+        "Tambah alamat email"
+      ],
+      "Add image URL": [
+        "Tambah URL gambar"
+      ],
+      "Add to group": [
+        "Tambah ke grup"
+      ],
+      "All day": [
+        "Seharian"
+      ],
+      "All-day event notifications": [
+        "Notifikasi acara sepanjang hari"
+      ],
+      "App password": [
+        "Kata sandi aplikasi"
+      ],
+      "Attach screenshot(s)": [
+        "Lampirkan tangkapan layar"
+      ],
+      "Authenticator app": [
+        "Aplikasi otentikator"
+      ],
+      "Automatically save contacts": [
+        "Simpan kontak secara otomatis"
+      ],
+      "Awful": [
+        "Mengecewakan"
+      ],
+      "Bad": [
+        "Buruk"
+      ],
+      "Browser": [
+        "Peramban"
+      ],
+      "Browser version": [
+        "Versi peramban"
+      ],
+      "Calendar": [
+        "Kalender"
+      ],
+      "Calendars": [
+        "Kalender"
+      ],
+      "Category": [
+        "Kategori"
+      ],
+      "City": [
+        "Kota"
+      ],
+      "Code is 6 digits without spaces": [
+        "Kode tersusun atas 6 digit angka tanpa spasi"
+      ],
+      "Color": [
+        "Warna"
+      ],
+      "Colors": [
+        "Warna"
+      ],
+      "Coming soon": [
+        "Segera hadir"
+      ],
+      "Contacts": [
+        "Kontak"
+      ],
+      "Copy": [
+        "Salin"
+      ],
+      "Country": [
+        "Negara"
+      ],
+      "Date and time": [
+        "Tanggal dan waktu"
+      ],
+      "Delete": [
+        "Hapus"
+      ],
+      "Delete recovery-related information.": [
+        "Hapus informasi terkait pemulihan."
+      ],
+      "Description": [
+        "Deskripsi"
+      ],
+      "Do not ask again": [
+        "Jangan tanyakan lagi"
+      ],
+      "Email": [
+        "Email"
+      ],
+      "Email address": [
+        "Alamat email"
+      ],
+      "Email format": [
+        "Format email"
+      ],
+      "Emails": [
+        "Email"
+      ],
+      "Emails (all messages)": [
+        "Email (seluruh pesan)"
+      ],
+      "Emails (last 12 months)": [
+        "Email (12 bulan terakhir)"
+      ],
+      "Emails (last 3 months)": [
+        "Email (3 bulan terakhir)"
+      ],
+      "Emails (last month)": [
+        "Email (sebulan terakhir)"
+      ],
+      "Enable Beta Access": [
+        "Aktifkan Akses Beta"
+      ],
+      "Encrypt emails": [
+        "Enkripsi email"
+      ],
+      "Ends": [
+        "Akhir"
+      ],
+      "Event duration": [
+        "Durasi acara"
+      ],
+      "Event notifications": [
+        "Notifikasi acara"
+      ],
+      "Event title": [
+        "Judul acara"
+      ],
+      "Export contacts": [
+        "Ekspor kontak"
+      ],
+      "Extended address": [
+        "Alamat lengkap"
+      ],
+      "Folder location": [
+        "Lokasi folder"
+      ],
+      "Frequency": [
+        "Frekuensi"
+      ],
+      "From: ${ from }": [
+        "Dari: ${ from }"
+      ],
+      "From: ${ fromEmail }": [
+        "Dari: ${ fromEmail }"
+      ],
+      "From: ${ importedEmail }": [
+        "Dari: ${ importedEmail }"
+      ],
+      "Good": [
+        "Baik"
+      ],
+      "Hide password": [
+        "Sembunyikan kata sandi"
+      ],
+      "How would you describe your experience with the new ${ BRAND_NAME }?": [
+        "Bagaimana Anda menggambarkan pengalaman Anda dengan ${ BRAND_NAME } yang baru?"
+      ],
+      "I understand the risk": [
+        "Saya paham akan resikonya"
+      ],
+      "Import all messages": [
+        "Impor seluruh pesan"
+      ],
+      "Import contacts": [
+        "Impor kontak"
+      ],
+      "Import interval": [
+        "Interval impor"
+      ],
+      "Import to email address": [
+        "Impor ke alamat email"
+      ],
+      "Import to:": [
+        "Impor ke:"
+      ],
+      "Label messages as": [
+        "Labeli pesan-pesan ini dengan"
+      ],
+      "Last 12 months only": [
+        "Hanya 12 bulan terakhir"
+      ],
+      "Last 3 months only": [
+        "Hanya 3 bulan terakhir"
+      ],
+      "Last month only": [
+        "Hanya sebulan terakhir"
+      ],
+      "Location": [
+        "Lokasi"
+      ],
+      "Mail Server (IMAP)": [
+        "Server Mail (IMAP)"
+      ],
+      "Mailbox password": [
+        "Kata sandi kotak pesan"
+      ],
+      "Main": [
+        "Utama"
+      ],
+      "Manage categories": [
+        "Kelola kategori"
+      ],
+      "Manage folders": [
+        "Kelola folder"
+      ],
+      "Manage labels": [
+        "Kelola label"
+      ],
+      "Move to Archive": [
+        "Pindahkan ke Arsip"
+      ],
+      "Move to Inbox": [
+        "Pindahkan ke Kotak masuk"
+      ],
+      "Name": [
+        "Nama"
+      ],
+      "Navigation": [
+        "Navigasi"
+      ],
+      "Notification": [
+        "Pemberitahuan"
+      ],
+      "Notifications": [
+        "Notifikasi"
+      ],
+      "OK": [
+        "OK"
+      ],
+      "Operating system": [
+        "Sistem operasi"
+      ],
+      "Operating system version": [
+        "Versi sistem operasi"
+      ],
+      "Optional": [
+        "Opsional"
+      ],
+      "Organizer": [
+        "Penyelenggara"
+      ],
+      "Participants": [
+        "Peserta"
+      ],
+      "participants": [
+        "peserta"
+      ],
+      "Password": [
+        "Kata Sandi"
+      ],
+      "PGP scheme": [
+        "Skema PGP"
+      ],
+      "Phone number": [
+        "Nomor telepon"
+      ],
+      "Port": [
+        "Port"
+      ],
+      "Post office box": [
+        "Kotak pos"
+      ],
+      "Postal code": [
+        "Kode pos"
+      ],
+      "Public keys": [
+        "Kunci publik"
+      ],
+      "Region": [
+        "Provinsi"
+      ],
+      "Repeat every": [
+        "Ulangi setiap"
+      ],
+      "Repeat on": [
+        "Ulangi"
+      ],
+      "Reveal password": [
+        "Perlihatkan kata sandi"
+      ],
+      "Sign emails": [
+        "Tanda tangani email"
+      ],
+      "Street address": [
+        "Alamat jalan"
+      ],
+      "System information": [
+        "Informasi sistem"
+      ],
+      "To: ${ emailAddress }": [
+        "Ke: ${ emailAddress }"
+      ],
+      "To: ${ to }": [
+        "Kepada: ${ to }"
+      ],
+      "To: ${ toEmail }": [
+        "Kepada: ${ toEmail }"
+      ],
+      "Toolbar": [
+        "Toolbar"
+      ],
+      "Two-factor authentication code": [
+        "Kode autentikasi dua faktor"
+      ],
+      "Upload file": [
+        "Unggah berkas"
+      ],
+      "Upload picture": [
+        "Unggah gambar"
+      ],
+      "URL": [
+        "URL"
+      ],
+      "Username or ${ MAIL_APP_NAME } address": [
+        "Nama pengguna atau alamat ${ MAIL_APP_NAME }"
+      ],
+      "Verification code": [
+        "Kode verifikasi"
+      ],
+      "What happened?": [
+        "Apa yang terjadi?"
+      ],
+      "Wonderful": [
+        "Luar Biasa"
+      ],
+      "Your calendar URL": [
+        "URL kalender Anda"
+      ],
+      "Your password (admin)": [
+        "Kata sandi Anda (admin)"
+      ]
+    },
+    "Label for contact group color": {
+      "Color": [
+        "Warna"
+      ]
+    },
+    "Label for contact group name": {
+      "Name": [
+        "Nama"
+      ]
+    },
+    "Label/folder modal": {
+      "Create folder": [
+        "Buat folder"
+      ],
+      "Create label": [
+        "Buat label"
+      ],
+      "Edit folder": [
+        "Sunting folder"
+      ],
+      "Edit label": [
+        "Sunting label"
+      ]
+    },
+    "label/folder notification": {
+      "${ Label.Name } created": [
+        "${ Label.Name } dibuat"
+      ]
+    },
+    "Landmarks": {
+      "Side panel": [
+        "Panel samping"
+      ]
+    },
+    "Link": {
+      "Calendars": [
+        "Kalender"
+      ],
+      "clearing your browser cache": [
+        "membersihkan cache browser Anda"
+      ],
+      "Learn more": [
+        "Lebih lanjut"
+      ],
+      "My calendars": [
+        "Kalender saya"
+      ],
+      "Pay invoice": [
+        "Bayar tagihan"
+      ],
+      "Request an invite": [
+        "Minta undangan"
+      ],
+      "Subscribed calendars": [
+        "Kalender yang dilanggan"
+      ],
+      "Upgrade account": [
+        "Tingkatkan akun"
+      ],
+      "What’s this?": [
+        "Apa ini?"
+      ]
+    },
+    "Link to calendar app": {
+      "Open in ${ CALENDAR_APP_NAME }": [
+        "Buka di ${ CALENDAR_APP_NAME }"
+      ]
+    },
+    "Link; reset calendar keys modal": {
+      "What's a recovery method?": [
+        "Apa itu metode pemulihan?"
+      ]
+    },
+    "Loading info": {
+      "Almost there": [
+        "Hampir selesai"
+      ],
+      "Amount of calendars created: ${ createdCalendars } out of ${ calendarsToBeCreated }": [
+        "Jumlah kalender yang terbuat: ${ createdCalendars } dari ${ calendarsToBeCreated }"
+      ],
+      "Connecting to your email provider": [
+        "Menghubungkan ke penyedia email Anda"
+      ],
+      "Creating new calendars": [
+        "Membuat kalender-kalender baru"
+      ],
+      "Gathering your data": [
+        "Mengumpulkan data Anda"
+      ],
+      "We're gathering your data from your provider": [
+        "Kami tengah mengumpulkan data dari penyedia layanan email Anda"
+      ],
+      "Your import is starting": [
+        "Proses impor Anda akan segera dimulai"
+      ]
+    },
+    "Mail import summary": {
+      "Import all messages from ${ itemsToImportCount } folders and label them as ${ LABEL_MARKUP_PLACEHOLDER }": [
+        "Impor seluruh pesan dari folder ${ itemsToImportCount } dan labeli mereka sebagai ${ LABEL_MARKUP_PLACEHOLDER }"
+      ],
+      "Import all messages from ${ itemsToImportCount } labels and label them as ${ LABEL_MARKUP_PLACEHOLDER }": [
+        "Impor seluruh pesan dari ${ itemsToImportCount } label dan labeli mereka sebagai ${ LABEL_MARKUP_PLACEHOLDER }"
+      ],
+      "Import all messages from ${ selectedItemsToImportCount } out of ${ itemsToImportCount } folders and label them as ${ LABEL_MARKUP_PLACEHOLDER }": [
+        "Impor seluruh pesan dari ${ selectedItemsToImportCount } dari ${ itemsToImportCount } folder dan labeli mereka sebagai ${ LABEL_MARKUP_PLACEHOLDER }"
+      ],
+      "Import all messages from ${ selectedItemsToImportCount } out of ${ itemsToImportCount } labels and label them as ${ LABEL_MARKUP_PLACEHOLDER }": [
+        "Impor seluruh pesan dari ${ selectedItemsToImportCount } dari ${ itemsToImportCount } label dan labeli mereka sebagai ${ LABEL_MARKUP_PLACEHOLDER }"
+      ]
+    },
+    "Message": {
+      "Fw:": [
+        "Trs:"
+      ],
+      "Re:": [
+        "Ttg:"
+      ],
+      "Your free trial has ended. Access to your account will soon be disabled. ${ action }": [
+        "Masa uji coba gratis Anda telah berakhir. Akses menuju akun Anda akan segera dinonaktifkan. ${ action }"
+      ]
+    },
+    "Message display when a new app version is available": {
+      "A new version of ${ appName } is available. ${ reloadButton }.": [
+        "Versi baru ${ appName } telah tersedia. ${ reloadButton }."
+      ]
+    },
+    "MIME type": {
+      "Automatic": [
+        "Otomatis"
+      ],
+      "Plain text": [
+        "Teks biasa"
+      ]
+    },
+    "Modal action": {
+      "Close": [
+        "Tutup"
+      ],
+      "Manage calendars": [
+        "Kelola kalender"
+      ]
+    },
+    "Modal for limit of calendars reached": {
+      "Unable to add more calendars. You have reached the maximum of personal calendars within your plan.": [
+        "Tidak dapat menambahkan kalender baru. Anda telah mencapat batas jumlah kalender personal yang diizinkan untuk paket Anda."
+      ],
+      "Unable to add more calendars. You have reached the maximum of subscribed calendars within your plan.": [
+        "Tidak dapat menambahkan kalender baru. Anda telah mencapat batas jumlah langganan kalender yang diizinkan untuk paket Anda."
+      ],
+      "Unable to create more calendars. You have reached the maximum of personal calendars within your plan.": [
+        "Tidak dapat membuat kalender baru. Anda telah mencapat batas jumlah kalender personal yang diizinkan untuk paket Anda."
+      ]
+    },
+    "Modal for received invitation to share calendar; text": {
+      "${ calendarOwnerDisplayName } shared their calendar ${ boldCalendarName } with you.": [
+        "${ calendarOwnerDisplayName } telah membagikan kalender ${ boldCalendarName } yang mereka miliki kepada Anda."
+      ]
+    },
+    "Modal for received invitation to share calendar; Title": {
+      "Join calendar": [
+        "Gabung ke kalender"
+      ],
+      "Unable to join more calendars": [
+        "Tidak dapat bergabung ke kalender baru"
+      ]
+    },
+    "Modal title": {
+      "How to import calendars from another service": [
+        "Cara untuk mengimpor kalender-kalender dari layanan email lainnya"
+      ],
+      "How to import calendars from Yahoo": [
+        "Cara untuk mengimpor kalender-kalender dari Yahoo"
+      ],
+      "How to import contacts from another service": [
+        "Cara untuk mengimpor kontak dari layanan email lainnya"
+      ],
+      "How to import contacts from Yahoo": [
+        "Cara untuk mengimpor kontak dari Yahoo"
+      ],
+      "How to import emails from another service": [
+        "Cara untuk mengimpor email-email dari layanan email lainnya"
+      ],
+      "How to import emails from Yahoo": [
+        "Cara untuk mengimpor email-email dari Yahoo"
+      ],
+      "Share calendar": [
+        "Bagikan kalender"
+      ],
+      "Time zone changed": [
+        "Zona waktu diubah"
+      ],
+      "Unable to add more calendars": [
+        "Tidak dapat menambahkan lebih banyak kalender"
+      ]
+    },
+    "Modal title and action": {
+      "Add calendar": [
+        "Tambah kalender"
+      ]
+    },
+    "Monthly recurring event, frequency": {
+      "Every ${ interval } months ${ onDayString }": [
+        "Setiap ${ interval } bulan ${ onDayString }"
+      ],
+      "Every ${ interval } months ${ onDayString }, ${ timesString }": [
+        "Setiap ${ interval } bulan ${ onDayString }, ${ timesString }"
+      ],
+      "Every ${ interval } months ${ onDayString }, ${ untilString }": [
+        "Setiap ${ interval } bulan ${ onDayString }, ${ untilString }"
+      ],
+      "Monthly ${ onDayString }": [
+        "Bulanan ${ onDayString }"
+      ],
+      "Monthly ${ onDayString }, ${ timesString }": [
+        "Bulanan ${ onDayString }, ${ timesString }"
+      ],
+      "Monthly ${ onDayString }, ${ untilString }": [
+        "Bulanan ${ onDayString }, ${ untilString }"
+      ]
+    },
+    "Monthly recurring event, repeats on": {
+      "on day ${ dayOfMonth }": [
+        "pada hari ${ dayOfMonth }"
+      ],
+      "on the first Friday": [
+        "pada hari Jumat pertama"
+      ],
+      "on the first Monday": [
+        "pada hari Senin pertama"
+      ],
+      "on the first Saturday": [
+        "pada hari Sabtu pertama"
+      ],
+      "on the first Sunday": [
+        "pada hari Minggu pertama"
+      ],
+      "on the first Thursday": [
+        "pada hari Kamis pertama"
+      ],
+      "on the first Tuesday": [
+        "pada hari Selasa pertama"
+      ],
+      "on the first Wednesday": [
+        "pada hari Rabu pertama"
+      ],
+      "on the fourth Friday": [
+        "pada hari Jumat keempat"
+      ],
+      "on the fourth Monday": [
+        "pada hari Senin keempat"
+      ],
+      "on the fourth Saturday": [
+        "pada hari Sabtu keempat"
+      ],
+      "on the fourth Sunday": [
+        "pada hari Minggu keempat"
+      ],
+      "on the fourth Thursday": [
+        "pada hari Kamis keempat"
+      ],
+      "on the fourth Tuesday": [
+        "pada hari Selasa keempat"
+      ],
+      "on the fourth Wednesday": [
+        "pada hari Rabu keempat"
+      ],
+      "on the last Friday": [
+        "pada hari Jumat terakhir"
+      ],
+      "on the last Monday": [
+        "pada hari Senin terakhir"
+      ],
+      "on the last Saturday": [
+        "pada hari Sabtu terakhir"
+      ],
+      "on the last Sunday": [
+        "pada hari Minggu terakhir"
+      ],
+      "on the last Thursday": [
+        "pada hari Kamis terakhir"
+      ],
+      "on the last Tuesday": [
+        "pada hari Selasa terakhir"
+      ],
+      "on the last Wednesday": [
+        "pada hari Rabu terakhir"
+      ],
+      "on the second Friday": [
+        "pada hari Jumat kedua"
+      ],
+      "on the second Monday": [
+        "pada hari Senin kedua"
+      ],
+      "on the second Saturday": [
+        "pada hari Sabtu kedua"
+      ],
+      "on the second Sunday": [
+        "pada hari Minggu kedua"
+      ],
+      "on the second Thursday": [
+        "pada hari Kamis kedua"
+      ],
+      "on the second Tuesday": [
+        "pada hari Selasa kedua"
+      ],
+      "on the second Wednesday": [
+        "pada hari Rabu kedua"
+      ],
+      "on the third Friday": [
+        "pada hari Jumat ketiga"
+      ],
+      "on the third Monday": [
+        "pada hari Senin ketiga"
+      ],
+      "on the third Saturday": [
+        "pada hari Sabtu ketiga"
+      ],
+      "on the third Sunday": [
+        "pada hari Minggu ketiga"
+      ],
+      "on the third Thursday": [
+        "pada hari Kamis ketiga"
+      ],
+      "on the third Tuesday": [
+        "pada hari Selasa ketiga"
+      ],
+      "on the third Wednesday": [
+        "pada hari Rabu ketiga"
+      ]
+    },
+    "New Label form": {
+      "Color": [
+        "Warna"
+      ],
+      "Folder name": [
+        "Nama folder"
+      ],
+      "Label name": [
+        "Nama label"
+      ]
+    },
+    "new_plans: action": {
+      "Switch or add account": [
+        "Pindah atau tambahkan akun"
+      ]
+    },
+    "new_plans: label": {
+      "Tell us about your experience. (Optional)": [
+        "Mohon ceritakan pengalaman Anda kepada kami. (Opsional)"
+      ]
+    },
+    "new_plans: placeholder": {
+      "Feedback": [
+        "Masukan"
+      ]
+    },
+    "Notification": {
+      "Contact group created": [
+        "Grup kontak telah dibuat"
+      ],
+      "Contact group updated": [
+        "Grup kontak telah diperbarui"
+      ]
+    },
+    "Notification in share calendar modal": {
+      "Members added": [
+        "Anggota ditambahkan"
+      ]
+    },
+    "Notification in shared calendar modal": {
+      "Calendar invitation declined": [
+        "Undangan kalender ditolak"
+      ],
+      "Joined ${ calendarName } (${ senderEmail })": [
+        "Bergabung ke ${ calendarName } (${ senderEmail })"
+      ]
+    },
+    "Notification suffix": {
+      "by email": [
+        "melalui email"
+      ]
+    },
+    "Notification time input": {
+      "at": [
+        "pada"
+      ]
+    },
+    "Notification type": {
+      "email": [
+        "email"
+      ],
+      "notification": [
+        "notifikasi"
+      ]
+    },
+    "Notification when": {
+      "at time of event": [
+        "pada saat acara"
+      ],
+      "days before": [
+        "hari sebelumnya"
+      ],
+      "hours before": [
+        "jam sebelumnya"
+      ],
+      "minutes before": [
+        "menit sebelumnya"
+      ],
+      "on the same day": [
+        "hari yang sama"
+      ],
+      "weeks before": [
+        "pekan sebelumnya"
+      ]
+    },
+    "Notifications": {
+      "${ value } days after": [
+        "setelah ${ value } hari"
+      ],
+      "${ value } days after at ${ time }": [
+        "${ value } hari setelah pukul ${ time }"
+      ],
+      "${ value } days before": [
+        "${ value } hari sebelumnya"
+      ],
+      "${ value } days before at ${ time }": [
+        "${ value } hari sebelum pukul ${ time }"
+      ],
+      "${ value } hours after": [
+        "setelah ${ value } jam"
+      ],
+      "${ value } hours after at ${ time }": [
+        "${ value } jam setelah pukul ${ time }"
+      ],
+      "${ value } hours before": [
+        "${ value } jam sebelumnya"
+      ],
+      "${ value } hours before at ${ time }": [
+        "${ value } jam sebelum pukul ${ time }"
+      ],
+      "${ value } minutes after": [
+        "${ value } menit setelahnya"
+      ],
+      "${ value } minutes after at ${ time }": [
+        "${ value } menit setelah pukul ${ time }"
+      ],
+      "${ value } minutes before": [
+        "${ value } menit sebelumnya"
+      ],
+      "${ value } minutes before at ${ time }": [
+        "${ value } menit sebelum pukul ${ time }"
+      ],
+      "${ value } weeks after": [
+        "setiap ${ value } pekan"
+      ],
+      "${ value } weeks after at ${ time }": [
+        "${ value } minggu setelah pukul ${ time }"
+      ],
+      "${ value } weeks before": [
+        "${ value } minggu sebelumnya"
+      ],
+      "${ value } weeks before at ${ time }": [
+        "${ value } minggu sebelum pukul ${ time }"
+      ],
+      "At time of event": [
+        "Pada saat acara"
+      ],
+      "On the same day at ${ time }": [
+        "Hari yang sama pukul ${ time }"
+      ],
+      "Unknown": [
+        "Tidak dikenal"
+      ]
+    },
+    "Oauth instructions": {
+      "Next you'll need to sign in to your Google account and grant ${ BRAND_NAME } access to your data.": [
+        "Selanjutnya, Anda perlu masuk ke akun Google Anda dan memberikan ${ BRAND_NAME } izin untuk mengakses data Anda."
+      ]
+    },
+    "Oauth instructions video": {
+      "For the import to work, you must select all requested items as shown in the GIF.": [
+        "Agar proses impor dapat berlangsung, Anda harus memilih seluruh item yang diminta sebagaimana yang ditampilkan dalam GIF."
+      ]
+    },
+    "Onboarding": {
+      "Welcome to ${ appName }": [
+        "Selamat datang di ${ appName }"
+      ],
+      "Where you can take control of your time and your data.": [
+        "Di mana Anda dapat memegang kendali atas waktu dan data Anda."
+      ]
+    },
+    "Onboarding Action": {
+      "Next": [
+        "Selanjutnya"
+      ],
+      "Start using ${ appName }": [
+        "Mulai gunakan ${ appName }"
+      ]
+    },
+    "Onboarding Proton": {
+      "Configure your organization, link your domain name, and create accounts to ensure all members of your organization are protected.": [
+        "Konfigurasi organisasi Anda, tautkan nama domain, dan membuat akun untuk memastikan seluruh anggota organisasi Anda terlindungi."
+      ],
+      "Discover all ${ BRAND_NAME } services": [
+        "Telusuri seluruh layanan ${ BRAND_NAME }"
+      ],
+      "Select a theme": [
+        "Pilih tema"
+      ],
+      "Set up your organization": [
+        "Siapkan organisasi Anda"
+      ],
+      "Use the app selector in the top left to access all ${ BRAND_NAME } services: ${ MAIL_SHORT_APP_NAME }, ${ VPN_SHORT_APP_NAME }, ${ CALENDAR_SHORT_APP_NAME } and ${ DRIVE_SHORT_APP_NAME }.": [
+        "Gunakan pemindah aplikasi yang terdapat pada pojok kiri atas layar untuk mengakses seluruh layanan ${ BRAND_NAME } : ${ MAIL_SHORT_APP_NAME }, ${ VPN_SHORT_APP_NAME }, ${ CALENDAR_SHORT_APP_NAME }, dan ${ DRIVE_SHORT_APP_NAME }."
+      ],
+      "You can change this anytime in your settings.": [
+        "Anda dapat mengubah tema yang aktif kapan pun melalui beranda pengaturan Anda."
+      ]
+    },
+    "Option": {
+      "Add to existing group": [
+        "Tambah ke grup yang sudah ada"
+      ],
+      "All events": [
+        "Seluruh acara"
+      ],
+      "Create new group": [
+        "Buat grup baru"
+      ],
+      "Custom": [
+        "Sesuaikan"
+      ],
+      "Days": [
+        "Hari"
+      ],
+      "Does not repeat": [
+        "Tidak berulang"
+      ],
+      "Every day": [
+        "Setiap hari"
+      ],
+      "Every month": [
+        "Setiap bulan"
+      ],
+      "Every week": [
+        "Setiap pekan"
+      ],
+      "Every year": [
+        "Setiap tahun"
+      ],
+      "Ignore group": [
+        "Abaikan grup"
+      ],
+      "Months": [
+        "Bulan"
+      ],
+      "No parent folder": [
+        "Tidak ada folder induk"
+      ],
+      "This and future events": [
+        "Acara ini dan yang akan berlangsung ke depannya"
+      ],
+      "This event": [
+        "Acara ini"
+      ],
+      "Weeks": [
+        "Pekan"
+      ],
+      "Years": [
+        "Tahun"
+      ]
+    },
+    "Option group label": {
+      "Create new calendar": [
+        "Buat kalender baru"
+      ],
+      "Merge with calendar": [
+        "Gabungkan dengan kalender"
+      ]
+    },
+    "Participant name": {
+      "You": [
+        "Anda"
+      ]
+    },
+    "Participants collapse button label": {
+      "Collapse participants list": [
+        "Ciutkan daftar peserta"
+      ]
+    },
+    "Participants expand button label": {
+      "Expand participants list": [
+        "Lebarkan daftar peserta"
+      ]
+    },
+    "PGP key encryption warning": {
+      "Key cannot be used for encryption": [
+        "Kunci tidak dapat digunakan untuk enkripsi"
+      ]
+    },
+    "PGP Key info": {
+      "${ emailAddress } has marked this key as compromised. This key cannot be used neither for encryption nor for signature verification.": [
+        "${ emailAddress } telah menandai kunci ini sebagai kunci yang bocor. Kunci ini tidak akan lagi dapat digunakan baik untuk mengenkipsi pesan maupun untuk memverifikasi tanda tangan."
+      ],
+      "${ emailAddress } has marked this key as obsolete. This key can only be used for signature verification.": [
+        "${ emailAddress } telah menandai kunci ini sebagai kunci yang usang. Kunci ini hanya akan dapat digunakan untuk memverifikasi tanda tangan."
+      ],
+      "We recommend that you \"untrust\" this key.": [
+        "Kami menyarankan Anda untuk tidak lagi \"memercayai\" kunci ini."
+      ]
+    },
+    "PGP key warning": {
+      "Email address not found among user ids defined in sending key (${ keyUserIds })": [
+        "Alamat email tidak ditemukan di antara id pengguna yang terhubung dengan kunci pengiriman (${ keyUserIds })"
+      ]
+    },
+    "Placeholder": {
+      "A way to contact you": [
+        "Cara menghubungi Anda"
+      ],
+      "Add a calendar description": [
+        "Masukkan keterangan kalender"
+      ],
+      "Add a calendar name": [
+        "Masukkan nama kalender"
+      ],
+      "Add description": [
+        "Tambah deskripsi"
+      ],
+      "Add location": [
+        "Tambah lokasi"
+      ],
+      "Add participants": [
+        "Tambah peserta"
+      ],
+      "Add title": [
+        "Tambah judul"
+      ],
+      "E.g., ": [
+        "Misalnya "
+      ],
+      "Filter groups": [
+        "Filter grup"
+      ],
+      "Group name": [
+        "Nama grup"
+      ],
+      "Image URL": [
+        "URL gambar"
+      ],
+      "Mailbox password": [
+        "Sandi kotak pesan"
+      ],
+      "Name": [
+        "Nama"
+      ],
+      "Name or email address": [
+        "Nama atau alamat email"
+      ],
+      "Password": [
+        "Kata sandi"
+      ],
+      "Please describe the problem and include any error messages": [
+        "Mohon uraikan masalah dan sertakan pesan kesalahan apa pun"
+      ],
+      "Search for group name": [
+        "Cari nama grup"
+      ],
+      "Search for name or email": [
+        "Cari nama atau email"
+      ],
+      "Select": [
+        "Pilih"
+      ],
+      "Start typing an email address": [
+        "Mulai ketik alamat email"
+      ]
+    },
+    "Placeholder for contact group name": {
+      "Name": [
+        "Nama"
+      ]
+    },
+    "Placeholder for contact with no name": {
+      "(No name)": [
+        "(Tanpa nama)"
+      ]
+    },
+    "Progress bar description": {
+      "${ contactsExported.length } out of ${ countContacts } contacts successfully exported.": [
+        "${ contactsExported.length } dari ${ countContacts } kontak berhasil diekspor."
+      ],
+      "${ model.deleted.length } out of ${ totalBeDeleted } contacts successfully deleted.": [
+        "${ model.deleted.length } dari ${ totalBeDeleted } kontak berhasil dihapus."
+      ],
+      "${ model.submitted.length } out of ${ totalBeMerged } contacts successfully merged.": [
+        "${ model.submitted.length } dari ${ totalBeMerged } kontak berhasil digabung."
+      ],
+      "No contacts exported.": [
+        "Tidak ada kontak yang diekspor."
+      ],
+      "No contacts merged.": [
+        "Tidak ada kontak yang digabung."
+      ],
+      "Progress: ${ combinedProgress }%": [
+        "Proses: ${ combinedProgress }%"
+      ]
+    },
+    "Property type": {
+      "Address": [
+        "Alamat"
+      ],
+      "Email": [
+        "Email"
+      ],
+      "Fax": [
+        "Faks"
+      ],
+      "Home": [
+        "Rumah"
+      ],
+      "Main": [
+        "Utama"
+      ],
+      "Mobile": [
+        "Seluler"
+      ],
+      "Other": [
+        "Lainnya"
+      ],
+      "Pager": [
+        "Pager"
+      ],
+      "Phone": [
+        "Telepon"
+      ],
+      "Work": [
+        "Kantor"
+      ]
+    },
+    "Refresh on apply warning": {
+      "Note: the service will reload after you click the Apply button.": [
+        "Catatan: layanan akan dimuat setelah Anda menekan tombol Terapkan."
+      ]
+    },
+    "Reload event button tooltip": {
+      "Reload event": [
+        "Muat ulang acara"
+      ]
+    },
+    "Select files": {
+      "Upload": [
+        "Unggah"
+      ]
+    },
+    "Select search results": {
+      "No results found": [
+        "Hasil tidak ditemukan"
+      ]
+    },
+    "Settings update growler warning": {
+      "Failed to update settings": [
+        "Gagal memperbarui pengaturan"
+      ]
+    },
+    "Share calendar assistive text": {
+      "To invite non-${ BRAND_NAME } users, share your calendar with a link": [
+        "Untuk mengundang pengguna non-${ BRAND_NAME }, bagikan kalender Anda melalui tautan"
+      ]
+    },
+    "Share calendar max shares reached error": {
+      "You have exceeded the maximum of ${ MAX_CALENDAR_MEMBERS } members per calendar": [
+        "Anda telah mencapai batas maksimal ${ MAX_CALENDAR_MEMBERS } anggota per kalender"
+      ]
+    },
+    "Share calendar modal description": {
+      "Add the ${ BRAND_NAME } accounts with whom you want to share ${ calendarName }. We’ll send them an invite.": [
+        "Tentukan kepada akun ${ BRAND_NAME } mana saja kalender ${ calendarName } akan dibagikan. Kami akan mengirimkan undangan kepada mereka."
+      ]
+    },
+    "Share calendar modal input placeholder": {
+      "Enter an email address or group name": [
+        "Masukkan alamat email atau nama grup"
+      ]
+    },
+    "Share calendar modal title": {
+      "Share with ${ BRAND_NAME } users": [
+        "Bagikan dengan pengguna ${ BRAND_NAME }"
+      ]
+    },
+    "Shared calendar; Info about calendar owner": {
+      "Created by ${ ownerName }": [
+        "Dibuat oleh ${ ownerName }"
+      ]
+    },
+    "Side panel spotlight": {
+      "Manage your contacts and view your calendar without leaving your app.": [
+        "Kelola kontak dan lihat kalender Anda tanpa meninggalkan aplikasi."
+      ],
+      "Try the new side panel": [
+        "Coba panel samping kami yang baru"
+      ]
+    },
+    "Sidebar calendar edit tooltip": {
+      "Manage calendar": [
+        "Kelola kalender"
+      ]
+    },
+    "Signing preference for emails": {
+      "Don't sign": [
+        "Jangan tandatangani"
+      ],
+      "Sign": [
+        "Tandatangani"
+      ]
+    },
+    "Spotlight": {
+      "Easily accept invites": [
+        "Terima undangan dengan mudah"
+      ],
+      "Get up to ${ credits } in credits.": [
+        "Dapatkan saldo hingga ${ credits }."
+      ],
+      "Invite friends to ${ BRAND_NAME }": [
+        "Undang teman ke ${ BRAND_NAME }"
+      ],
+      "Now invitations appear in your calendar as pending events. Just open an event to respond. ${ goToSettingsLink }": [
+        "Sekarang, undangan akan muncul pada kalender Anda sebagai acara yang menunggu balasan. Anda hanya perlu membuka acara untuk membalas. ${ goToSettingsLink }"
+      ],
+      "Subscribe to other calendars": [
+        "Langgan kalender lain"
+      ],
+      "You can subscribe to external calendars and read their events.": [
+        "Anda dapat berlangganan ke kalender eksternal dan melihat acara yang tertera di dalamnya."
+      ]
+    },
+    "Spotlight settings link": {
+      "Go to settings": [
+        "Ke pengaturan"
+      ]
+    },
+    "Storage": {
+      "Release notes": [
+        "Catatan rilis"
+      ],
+      "Upgrade storage": [
+        "Perbesar kuota penyimpanan"
+      ],
+      "Your current storage:": [
+        "Penyimpanan Anda saat ini:"
+      ]
+    },
+    "Subscribe to calendar modal": {
+      "Calendar URL": [
+        "URL kalender"
+      ],
+      "To subscribe to an external or public calendar and its updates, enter the URL. A read-only version of the calendar will be added to your Subscribed calendars.\n${ kbLink }": [
+        "Untuk dapat berlangganan ke kalender eksternal atau publik beserta pembaruannya, masukkan URL kalender yang bersangkutan. Kalender tersebut akan ditambahkan ke dalam daftar kalender yang Anda langgan dengan status read-only.\n${ kbLink }"
+      ]
+    },
+    "Subscribe to calendar modal description": {
+      "Learn how to get a private calendar link.": [
+        "Pelajari cara untuk mendapatkan tautan kalender pribadi."
+      ]
+    },
+    "Subscribed calendar extension warning": {
+      "By using this link, Google will make the calendar you are subscribing to public": [
+        "Dengan menggunakan tautan ini, Google akan membuat daftar kalender yang Anda langgan menjadi publik"
+      ],
+      "This link might be wrong": [
+        "Tautan ini mungkin salah"
+      ]
+    },
+    "Subscribed calendar feature unavailable error": {
+      "Subscribing to a calendar is unavailable at the moment": [
+        "Fitur berlangganan ke kalender saat ini belum tersedia"
+      ]
+    },
+    "Subscribed calendar URL length warning": {
+      "URL is too long": [
+        "URL terlalu panjang"
+      ]
+    },
+    "Success": {
+      "${ countMergeableContacts } contacts look identical.": [
+        "${ countMergeableContacts } kontak terlihat identik."
+      ],
+      "A cancellation email will be sent to removed participants for all the events in this series.": [
+        "Surel pembatalan akan dikirim ke peserta yang dihapus untuk semua rangkaian acara ini."
+      ],
+      "Address copied to clipboard": [
+        "Alamat disalin ke clipboard"
+      ],
+      "All events deleted": [
+        "Semua acara berhasil dihapus"
+      ],
+      "All events updated": [
+        "Semua acara berhasil diperbarui"
+      ],
+      "An invitation will be sent to added participants for all the events in this series.": [
+        "Undangan akan dikirim ke peserta yang ditambahkan untuk semua rangkaian acara ini."
+      ],
+      "Answer sent and all events deleted": [
+        "Jawaban terkirim dan semua acara dihapus"
+      ],
+      "Answer sent and event deleted": [
+        "Jawaban terkirim dan acara dihapus"
+      ],
+      "Bug reported": [
+        "Bug berhasil dilaporkan"
+      ],
+      "Calendar added. It might take a few minutes to sync.": [
+        "Kalender ditambahkan. Proses sinkronisasi dapat memakan waktu hingga beberapa menit."
+      ],
+      "Calendar created": [
+        "Kalender berhasil dibuat"
+      ],
+      "Calendar information updated": [
+        "Informasi kalender diperbarui"
+      ],
+      "Calendar updated": [
+        "Kalender berhasil diperbarui"
+      ],
+      "Canceling import": [
+        "Membatalkan proses impor"
+      ],
+      "Cancellation sent and all events deleted": [
+        "Pembatalan terkirim dan semua acara berhasil dihapus"
+      ],
+      "Cancellation sent and event deleted": [
+        "Pembatalan dikirim dan acara berhasil dihapus"
+      ],
+      "Cancellation sent and participants removed": [
+        "Pembatalan dikirim dan peserta berhasil dihapus"
+      ],
+      "Cancellation sent and participants removed from all events": [
+        "Pembatalan terkirim dan peserta berhasil dihapus dari semua acara"
+      ],
+      "Code sent to ${ methodTo }": [
+        "Kode dikirim ke ${ methodTo }"
+      ],
+      "Contact groups deleted": [
+        "Grup kontak dihapus"
+      ],
+      "Contact saved": [
+        "Kontak telah tersimpan"
+      ],
+      "Contacts deleted": [
+        "Kontak dihapus"
+      ],
+      "Email address copied to clipboard": [
+        "Alamat email disalin ke clipboard"
+      ],
+      "Event created": [
+        "Acara telah dibuat"
+      ],
+      "Event deleted": [
+        "Acara dihapus"
+      ],
+      "Event updated": [
+        "Acara diperbarui"
+      ],
+      "Events created": [
+        "Acara berhasil dibuat"
+      ],
+      "Fingerprint copied to clipboard": [
+        "Sidik jari disalin ke clipboard"
+      ],
+      "Future events deleted": [
+        "Acara mendatang berhasil dihapus"
+      ],
+      "Future events updated": [
+        "Acara mendatang berhasil diperbarui"
+      ],
+      "Import record deleted": [
+        "Rekaman impor dihapus"
+      ],
+      "Invitation sent and all events updated": [
+        "Undangan terkirim dan semua acara berhasil diperbarui"
+      ],
+      "Invitation sent and event created": [
+        "Undangan dikirim dan acara berhasil dibuat"
+      ],
+      "Invitation sent and events created": [
+        "Undangan dikirim dan acara berhasil dibuat"
+      ],
+      "Invitation sent and participants added": [
+        "Undangan dikirim dan peserta berhasil ditambahkan"
+      ],
+      "Invitation sent and participants added to all events": [
+        "Undangan terkirim dan peserta berhasil ditambahkan ke semua acara"
+      ],
+      "Participants notified and all events updated": [
+        "Peserta diberi tahu dan semua acara berhasil diperbarui"
+      ],
+      "Participants notified and changes saved": [
+        "Peserta berhasil diberi tahu dan perubahan disimpan"
+      ],
+      "Participants notified and event updated": [
+        "Peserta diberi tahu dan acara berhasil diperbarui"
+      ],
+      "Participation status updated": [
+        "Status keikutsertaan diperbarui"
+      ],
+      "Participation status updated for all events": [
+        "Status keikutsertaan diperbarui untuk seluruh acara"
+      ],
+      "Phone number copied to clipboard": [
+        "Nomor telepon disalin ke clipboard"
+      ],
+      "Preference saved": [
+        "Preferensi disimpan"
+      ],
+      "Preferences saved": [
+        "Preferensi telah disimpan"
+      ],
+      "Undo in progress": [
+        "Pengurungan sedang berlangsung"
+      ],
+      "Verification successful": [
+        "Verifikasi berhasil"
+      ]
+    },
+    "Success notification when user send feedback": {
+      "Feedback sent": [
+        "Tanggapan telah dikirim"
+      ]
+    },
+    "Table header": {
+      "Action": [
+        "Tindakan"
+      ],
+      "Actions": [
+        "Tindakan"
+      ],
+      "Address": [
+        "Alamat"
+      ],
+      "Created": [
+        "Dibuat"
+      ],
+      "Expires": [
+        "Kedaluwarsa"
+      ],
+      "Fingerprint": [
+        "Sidik jari"
+      ],
+      "Name": [
+        "Nama"
+      ],
+      "Status": [
+        "Status"
+      ],
+      "Type": [
+        "Tipe"
+      ]
+    },
+    "TableHeader": {
+      "Actions": [
+        "Tindakan"
+      ],
+      "Address": [
+        "Alamat"
+      ],
+      "CSV field": [
+        "Kolom CSV"
+      ],
+      "Import": [
+        "Impor"
+      ],
+      "Name": [
+        "Nama"
+      ],
+      "Values": [
+        "Nilai"
+      ],
+      "vCard field": [
+        "Kolom vCard"
+      ]
+    },
+    "Text": {
+      "Settings": [
+        "Pengaturan"
+      ]
+    },
+    "Time unit for duration; displayed in the time picker": {
+      "${ hours } h": [
+        "${ hours } j"
+      ],
+      "${ hoursInt }.5 h": [
+        "${ hoursInt }.5 j"
+      ],
+      "${ minutes } min": [
+        "${ minutes } mnt"
+      ]
+    },
+    "Time unit for duration; vocalized in the time picker": {
+      "${ hours } hours": [
+        "${ hours } jam"
+      ],
+      "${ hoursInt }.5 hours": [
+        "${ hoursInt }.5 jam"
+      ],
+      "${ minutes } minutes": [
+        "${ minutes } menit"
+      ]
+    },
+    "Timezone search placeholder": {
+      "Search timezones": [
+        "Cari zona waktu"
+      ]
+    },
+    "Title": {
+      "${ emailsCount } members": [
+        "${ emailsCount } anggota"
+      ],
+      "Account suspended": [
+        "Akun ditangguhkan"
+      ],
+      "Add another notification to remind you of this event": [
+        "Tambah pemberitahuan lain untuk mengingatkan Anda pada acara ini"
+      ],
+      "Add contact group name": [
+        "Tambah nama grup kontak"
+      ],
+      "Add event location": [
+        "Masukkan lokasi acara"
+      ],
+      "Add event title": [
+        "Masukkan judul acara"
+      ],
+      "Add more information related to this event": [
+        "Masukkan informasi lain yang terkait dengan acara ini"
+      ],
+      "Add participants": [
+        "Tambah peserta"
+      ],
+      "Add to ${ groupCount } groups": [
+        "Tambahkan ke ${ groupCount } grup"
+      ],
+      "Add to ${ groupName }": [
+        "Tambahkan ke ${ groupName }"
+      ],
+      "Addresses": [
+        "Alamat"
+      ],
+      "Back": [
+        "Kembali"
+      ],
+      "Beta Access": [
+        "Akses Beta"
+      ],
+      "Calendar": [
+        "Kalender"
+      ],
+      "Calendar alarm": [
+        "Pengingat kalender"
+      ],
+      "Change my answer": [
+        "Ubah jawaban saya"
+      ],
+      "Choose how many times this event will repeat": [
+        "Pilih berapa kali acara ini berulang"
+      ],
+      "Choose how often this event repeats": [
+        "Pilih seberapa sering acara ini berulang"
+      ],
+      "Clearing data": [
+        "Membersihkan data"
+      ],
+      "Contact details": [
+        "Rincian kontak"
+      ],
+      "Contact Details": [
+        "Rincian Kontak"
+      ],
+      "Contact group": [
+        "Grup kontak"
+      ],
+      "Contacts": [
+        "Kontak"
+      ],
+      "Continue with partial import?": [
+        "Lanjut impor walau hanya sebagian?"
+      ],
+      "Create contact": [
+        "Buat kontak"
+      ],
+      "Create new group": [
+        "Buat grup baru"
+      ],
+      "Create public link": [
+        "Buat tautan publik"
+      ],
+      "Currency": [
+        "Mata uang"
+      ],
+      "Customize and confirm": [
+        "Konfirmasi penyesuaian"
+      ],
+      "Customize calendar import": [
+        "Sesuaikan proses impor kalender"
+      ],
+      "Customize your mail import": [
+        "Sesuaikan proses impor email"
+      ],
+      "Delete ${ count } contact groups": [
+        "Hapus ${ count } grup kontak"
+      ],
+      "Delete ${ count } contacts": [
+        "Hapus ${ count } kontak"
+      ],
+      "Delete ${ Name }": [
+        "Hapus ${ Name }"
+      ],
+      "Delete event": [
+        "Hapus acara"
+      ],
+      "Delete recurring event": [
+        "Hapus acara berulang"
+      ],
+      "Deleting contacts": [
+        "Menghapus kontak"
+      ],
+      "Drop to upload": [
+        "Letakkan untuk mengunggah"
+      ],
+      "Edit contact": [
+        "Sunting kontak"
+      ],
+      "Edit contact group": [
+        "Sunting grup kontak"
+      ],
+      "Edit email settings": [
+        "Sunting pengaturan email"
+      ],
+      "Edit image": [
+        "Sunting gambar"
+      ],
+      "Email addresses": [
+        "Alamat email"
+      ],
+      "Email settings": [
+        "Pengaturan email"
+      ],
+      "Encrypted event": [
+        "Acara terenkripsi"
+      ],
+      "Enter your password": [
+        "Masukkan kata sandi Anda"
+      ],
+      "Enter your username or ${ MAIL_APP_NAME } email address": [
+        "Masukkan nama pengguna atau alamat email ${ MAIL_APP_NAME } Anda"
+      ],
+      "Error": [
+        "Kesalahan"
+      ],
+      "Event is happening all day": [
+        "Acara berlangsung sepanjang hari"
+      ],
+      "Event is happening on defined time slot": [
+        "Acara berlangsung pada jatah waktu yang telah ditentukan"
+      ],
+      "Exporting contacts": [
+        "Mengekspor kontak"
+      ],
+      "Feedback": [
+        "Kritik dan Saran"
+      ],
+      "Groups": [
+        "Grup"
+      ],
+      "Hide time zones for event start and end times": [
+        "Sembunyikan zona waktu awal dan akhir acara"
+      ],
+      "Human verification": [
+        "Verifikasi manusia"
+      ],
+      "Import as simple events?": [
+        "Impor sebagai acara sederhana?"
+      ],
+      "Import contacts": [
+        "Impor kontak"
+      ],
+      "Import events": [
+        "Impor acara"
+      ],
+      "Import failed": [
+        "Proses impor gagal"
+      ],
+      "Invalid verification code": [
+        "Kode verifikasi tidak valid"
+      ],
+      "Link confirmation": [
+        "Konfirmasi tautan"
+      ],
+      "Merge contacts": [
+        "Gabungkan kontak"
+      ],
+      "Merging contacts": [
+        "Menggabungkan kontak"
+      ],
+      "Minicalendar": [
+        "Kalender mini"
+      ],
+      "Open actions dropdown": [
+        "Buka menu tindakan"
+      ],
+      "Open help menu": [
+        "Buka menu bantuan"
+      ],
+      "Open settings menu": [
+        "Buka menu pengaturan"
+      ],
+      "Organizer cannot be notified": [
+        "Panitia tidak bisa dihubungi"
+      ],
+      "Other information": [
+        "Informasi lainnya"
+      ],
+      "Other names": [
+        "Nama lain"
+      ],
+      "Participants cannot be notified": [
+        "Peserta tidak bisa dihubungi"
+      ],
+      "Phone numbers": [
+        "Nomor telepon"
+      ],
+      "Re-sign all contacts": [
+        "Menandatangani ulang semua kontak"
+      ],
+      "Re-signing contacts": [
+        "Menandatangani ulang kontak"
+      ],
+      "Reactivate calendar keys": [
+        "Aktifkan ulang kunci kalender"
+      ],
+      "Reconnect your account": [
+        "Hubungkan kembali akun Anda"
+      ],
+      "Recover data": [
+        "Pulihkan data"
+      ],
+      "Remove participants": [
+        "Hapus peserta"
+      ],
+      "Report a problem": [
+        "Laporkan masalah"
+      ],
+      "Request new code": [
+        "Minta kode baru"
+      ],
+      "Reshare your calendars": [
+        "Bagikan ulang kalender Anda"
+      ],
+      "Save changes": [
+        "Simpan perubahan"
+      ],
+      "Select a day in the month": [
+        "Pilih hari dalam bulan"
+      ],
+      "Select a theme": [
+        "Pilih tema"
+      ],
+      "Select action to take on contact group": [
+        "Pilih tindakan yang diambil di grup kontak"
+      ],
+      "Select contact group": [
+        "Pilih grup kontak"
+      ],
+      "Select event end date": [
+        "Pilih tanggal akhir acara"
+      ],
+      "Select event end time": [
+        "Pilih waktu akhir acara"
+      ],
+      "Select event frequency": [
+        "Pilih frekuensi acara"
+      ],
+      "Select event frequency interval": [
+        "Pilih interval frekuensi acara"
+      ],
+      "Select event start date": [
+        "Pilih tanggal mulai acara"
+      ],
+      "Select event start time": [
+        "Pilih waktu mulai acara"
+      ],
+      "Select event's last date": [
+        "Pilih tanggal akhir acara"
+      ],
+      "Select the time to send this notification": [
+        "Pilih waktu pengiriman notifikasi"
+      ],
+      "Select the time zone for the event end time": [
+        "Pilih zona waktu akhir acara"
+      ],
+      "Select the time zone for the event start time": [
+        "Pilih zona waktu mulai acara"
+      ],
+      "Select the way to send this notification": [
+        "Pilih cara untuk mengirim notifikasi ini"
+      ],
+      "Select when this event will stop happening": [
+        "Pilih waktu saat acara ini berakhir"
+      ],
+      "Select when you want this notification to be sent": [
+        "Pilih saat Anda ingin notifikasi ini dikirim"
+      ],
+      "Select which calendar to add this event to": [
+        "Pilih ke kalender mana acara ini akan ditambahkan"
+      ],
+      "Send feedback": [
+        "Kirim tanggapan"
+      ],
+      "Send invitation": [
+        "Kirim undangan"
+      ],
+      "Settings": [
+        "Pengaturan"
+      ],
+      "Show time zones for event start and end times": [
+        "Tampilkan zona waktu awal dan akhir acara"
+      ],
+      "Sign in and grant access": [
+        "Masuk dan berikan izin akses"
+      ],
+      "Sign out": [
+        "Keluar"
+      ],
+      "Start a new import": [
+        "Mulai impor baru"
+      ],
+      "Start import process": [
+        "Mulai proses impor"
+      ],
+      "Two-factor authentication": [
+        "Autentikasi dua faktor"
+      ],
+      "Update event": [
+        "Perbarui acara"
+      ],
+      "Update recurring event": [
+        "Perbarui acara berulang"
+      ],
+      "Upgrade required": [
+        "Butuh peningkatan akun"
+      ],
+      "View contacts": [
+        "Lihat kontak"
+      ],
+      "Warning": [
+        "Peringatan"
+      ],
+      "Warning: suspected fake website": [
+        "Peringatan: situs web ini terindikasi palsu"
+      ],
+      "We've locked some calendars to protect your data": [
+        "Kami telah mengunci sebagian kalender yang ada untuk melindungi data Anda"
+      ],
+      "We've locked your calendars to protect your data": [
+        "Kami telah mengunci kalender Anda untuk melindungi data Anda"
+      ],
+      "What would you like to import?": [
+        "Hal-hal apa saja yang hendak Anda impor?"
+      ],
+      "What's new": [
+        "Apa-apa saja yang baru"
+      ],
+      "You have invited participants with equivalent emails": [
+        "Anda telah mengundang peserta dengan surel yang sama"
+      ],
+      "Your calendar link": [
+        "Tautan kalender Anda"
+      ],
+      "Your Mail Plus free trial ends on ${ textDate }": [
+        "Uji coba Mail Plus Anda akan berakhir pada ${ textDate }"
+      ]
+    },
+    "Title (number of minutes/hours/days/weeks)": {
+      "Choose a number": [
+        "Pilih angka"
+      ]
+    },
+    "Title; create calendar modal": {
+      "Create calendar": [
+        "Buat kalender"
+      ]
+    },
+    "Title; edit calendar modal": {
+      "Edit calendar": [
+        "Sunting kalender"
+      ]
+    },
+    "Today icon tooltip in mini calendar": {
+      "Today": [
+        "Hari ini"
+      ]
+    },
+    "Tooltip": {
+      "Automatic indicates that the format in the composer is used to send to this user. Plain text indicates that the message will always be converted to plain text on send.": [
+        "Opsi Otomatis berarti pesan akan dikirim apa adanya sesuai format tulis yang dipakai. Opsi Teks Polos berarti pesan akan selalu dikirim dalam bentuk teks polos."
+      ],
+      "Customize import to reduce the number of folders": [
+        "Sesuaikan impor untuk mengurangi jumlah folder"
+      ],
+      "Customize import to reduce the number of labels": [
+        "Sesuaikan impor untuk mengurangi jumlah label"
+      ],
+      "Digitally signing emails helps authenticating that messages are sent by you": [
+        "Menandatangani email secara digital akan membantu sistem kami dalam mengautentikasi pesan yang Anda kirim"
+      ],
+      "Each imported email will have this label": [
+        "Masing-masing email yang diimpor akan memiliki label ini"
+      ],
+      "Edit folder names": [
+        "Edit nama folder"
+      ],
+      "Edit label names": [
+        "Edit nama label"
+      ],
+      "Email encryption forces email signature to help authenticate your sent messages": [
+        "Enkripsi surel mewajibkan tanda tangan surel untuk mengautentikasi pesan yang Anda kirim"
+      ],
+      "Encrypted data": [
+        "Data terenkripsi"
+      ],
+      "Encrypted data with verified digital signature": [
+        "Data terenkripsi dengan tanda tangan digital terverifikasi"
+      ],
+      "Gmail automatically categorizes some emails like Social or Promotions. You can select where to import these emails to.": [
+        "Gmail secara otomatis mengelompokkan email tertentu ke dalam kategori seperti Sosial dan Promosi. Anda dapat menentukan ke kategori mana email berikut akan diimpor."
+      ],
+      "Hide side panel": [
+        "Sembunyikan panel samping"
+      ],
+      "Select the PGP scheme to be used when signing or encrypting to a user. Note that PGP/Inline forces plain text messages": [
+        "Pilih skema PGP untuk menandatangani atau mengenkripsi pesan. PGP/Inline mewajibkan penggunaan pesan teks polos"
+      ],
+      "Show side panel": [
+        "Tampilkan panel samping"
+      ],
+      "System subfolders will show up as separate folders in ${ MAIL_APP_NAME }": [
+        "Sub-folder milik sistem akan muncul sebagai folder terpisah di ${ MAIL_APP_NAME }"
+      ],
+      "The import will start with the most recent messages.": [
+        "Proses impor akan dimulai dari pesan Anda yang paling baru."
+      ],
+      "Upload a public key to enable sending end-to-end encrypted emails to this email": [
+        "Unggah kunci publik untuk mengaktifkan pengiriman pesan terenkripsi ujung ke ujung ke alamat ini"
+      ],
+      "You do not have any contacts to export": [
+        "Anda tidak memiliki kontak untuk diekspor"
+      ]
+    },
+    "Validation": {
+      "Password must contain at least ${ length } characters": [
+        "Kata sandi harus mengandung minimal ${ length } karakter"
+      ],
+      "Try a shorter username (${ n } characters max)": [
+        "Cobalah nama pengguna yang lebih pendek (maksimal ${ n } karakter)"
+      ]
+    },
+    "Video control": {
+      "Click to replay the video": [
+        "Klik untuk memutar ulang video"
+      ],
+      "Replay video": [
+        "Putar ulang video"
+      ]
+    },
+    "View event button tooltip": {
+      "Open in a new tab": [
+        "Buka di tab baru"
+      ]
+    },
+    "Warning": {
+      "${ BRAND_NAME } will merge all folders with the same name. To avoid this, change the names before import.": [
+        "${ BRAND_NAME } akan menggabungkan seluruh folder yang memiliki nama yang sama. Untuk menghindari hal ini, silakan ubah nama folder sebelum Anda mengimpor."
+      ],
+      "${ BRAND_NAME } will transfer as much data as possible, starting with your most recent messages.": [
+        "${ BRAND_NAME } akan berupaya untuk mentransfer data sebanyak-banyaknya, yang dimulai dengan pesan Anda yang terbaru."
+      ],
+      "Are you sure you want to discard your import?": [
+        "Yakin ingin membuang impor Anda?"
+      ],
+      "Are you sure you want to permanently delete ${ count } contact groups?": [
+        "Apakah Anda yakin ingin menghapus ${ count } kontak secara permanen?"
+      ],
+      "Are you sure you want to permanently delete ${ count } contacts?": [
+        "Yakin ingin mengapus ${ count } kontak secara permanen?"
+      ],
+      "Are you sure you want to permanently delete this contact group?": [
+        "Apakah Anda yakin ingin menghapus grup kontak ini secara permanen?"
+      ],
+      "Are you sure you want to permanently delete this contact?": [
+        "Yakin ingin menghapus kontak ini secara permanen?"
+      ],
+      "Contacts could not be merged": [
+        "Kontak tidak dapat digabung"
+      ],
+      "If you don’t remember your password, it is impossible to re-activate your key. We can help you dismiss the alert banner but in the process you will permanently lose access to all the data encrypted with that key.": [
+        "Jika Anda tidak ingat kata sandi Anda, maka Anda tidak mungkin mengaktivasi ulang kunci. Kami dapat membantu Anda untuk mengabaikan spanduk peringatan tapi dalam prosesnya Anda akan kehilangan akses secara permanen ke data terenkripsi dengan kunci tersebut."
+      ],
+      "Live chat is a premium feature available only to those with paid ${ VPN_APP_NAME } plans. Please open a ticket instead.": [
+        "Live chat merupakan fitur premium yang hanya tersedia bagi pengguna ${ VPN_APP_NAME } versi berbayar. Apabila Anda merasa ada sesuatu yang salah, harap buka tiket layanan dukungan."
+      ],
+      "Reports are not end-to-end encrypted, please do not send any sensitive information.": [
+        "Laporan tidak dienkripsi secara ujung ke ujung, mohon tidak mengirim informasi sensitif apa pun."
+      ],
+      "Skip verification?": [
+        "Lewati verifikasi?"
+      ],
+      "Some of the contacts to be merged display errors. Please review them individually": [
+        "Sebagian kontak yang akan digabung rusak. Mohon periksa satu per satu"
+      ],
+      "The contact data is corrupted and cannot be displayed.": [
+        "Data kontak telah rusak dan tidak dapat dimunculkan."
+      ],
+      "The contact failed to load.": [
+        "Kontak gagal dimuat."
+      ],
+      "The date and time settings on your device are out of sync. ${ learnMore }": [
+        "Tanggal dan waktu yang terpasang pada piranti Anda tidak sesuai dengan server kami. ${ learnMore }"
+      ],
+      "The decryption of the encrypted content failed.": [
+        "Proses dekripsi konten terenkripsi gagal."
+      ],
+      "The verification of the contact details' signature failed.": [
+        "Verifikasi tanda tangan rincian kontak gagal."
+      ],
+      "This action is irreversible. Please enter the word ${ boldDanger } in the field to proceed.": [
+        "Tindakan ini permanen. Silakan masukkan kata ${ boldDanger } di kolom tersebut untuk melanjutkan."
+      ],
+      "This feature requires a paid ${ BRAND_NAME } account": [
+        "Fitur ini memerlukan akun ${ BRAND_NAME } berbayar"
+      ],
+      "This import may exceed the storage capacity currently available in your ${ BRAND_NAME } account. Please consider customizing your import.": [
+        "Impor ini dapat melebihi kapasitas penyimpanan akun ${ BRAND_NAME } Anda yang tersedia. Mohon pertimbangkan untuk menyesuaikan parameter impor Anda."
+      ],
+      "Unfortunately, we’re not online at the moment. Please complete the form below to describe your issue, and we will look into it and be in touch when we’re back online.": [
+        "Sayangnya, saat ini kami sedang tidak online. Harap jelaskan masalah Anda pada formulir di bawah ini dan kami akan memeriksanya pada saat kami telah kembali online."
+      ],
+      "We couldn't verify the mail server. If you trust it, you can skip this verification.": [
+        "Kami tidak dapat memverifikasi server email yang dimaksud. Apabila Anda mempercayainya, Anda dapat melewati proses verifikasi ini."
+      ],
+      "You will lose any customization you made so far.": [
+        "Segala penyesuaian yang telah Anda buat sejauh ini tidak akan tersimpan."
+      ],
+      "Your free trial ends on ${ textDate }. ${ action }": [
+        "Masa uji coba gratis Anda akan berakhir pada ${ textDate }. ${ action }"
+      ]
+    },
+    "Warning in modal to accept calendar invitation; Description": {
+      "To access this shared calendar, enable this address, or ask ${ boldCalendarOwnerEmail } to send an invite to an active address.": [
+        "Untuk dapat mengakses kalender ini, aktifkan kembali alamat ini atau minta ${ boldCalendarOwnerEmail } untuk mengirimkan undangan baru ke alamat email yang aktif."
+      ],
+      "You cannot join this calendar because your invited email address (${ boldInvitedAddress }) is disabled.": [
+        "Anda tidak dapat bergabung ke kalender ini karena alamat email milik Anda yang diundang (${ boldInvitedAddress }) telah dinonaktifkan."
+      ]
+    },
+    "Weekly recurring event, frequency": {
+      "Every ${ interval } weeks on ${ multipleDaysString }": [
+        "Setiap ${ interval } minggu pada hari ${ multipleDaysString }"
+      ],
+      "Every ${ interval } weeks on ${ multipleDaysString }, ${ timesString }": [
+        "Setiap ${ interval } minggu pada ${ multipleDaysString }, ${ timesString }"
+      ],
+      "Every ${ interval } weeks on ${ multipleDaysString }, ${ untilString }": [
+        "Setiap ${ interval } minggu pada ${ multipleDaysString }, ${ untilString }"
+      ],
+      "Every ${ interval } weeks on all days": [
+        "Setiap ${ interval } minggu pada semua hari"
+      ],
+      "Every ${ interval } weeks on all days, ${ timesString }": [
+        "Setiap ${ interval } minggu pada semua hari, ${ timesString }"
+      ],
+      "Every ${ interval } weeks on all days, ${ untilString }": [
+        "Setiap ${ interval } minggu pada semua hari, ${ untilString }"
+      ],
+      "Every ${ interval } weeks on Friday": [
+        "Setiap ${ interval } minggu pada hari Jumat"
+      ],
+      "Every ${ interval } weeks on Friday, ${ timesString }": [
+        "Setiap ${ interval } minggu pada hari Jumat, ${ timesString }"
+      ],
+      "Every ${ interval } weeks on Friday, ${ untilString }": [
+        "Setiap ${ interval } minggu pada hari Jumat, ${ untilString }"
+      ],
+      "Every ${ interval } weeks on Monday": [
+        "Setiap ${ interval } minggu pada hari Senin"
+      ],
+      "Every ${ interval } weeks on Monday, ${ timesString }": [
+        "Setiap ${ interval } minggu pada hari Senin, ${ timesString }"
+      ],
+      "Every ${ interval } weeks on Monday, ${ untilString }": [
+        "Setiap ${ interval } minggu pada hari Senin, ${ untilString }"
+      ],
+      "Every ${ interval } weeks on Saturday": [
+        "Setiap ${ interval } minggu pada hari Sabtu"
+      ],
+      "Every ${ interval } weeks on Saturday, ${ timesString }": [
+        "Setiap ${ interval } minggu pada hari Sabtu, ${ timesString }"
+      ],
+      "Every ${ interval } weeks on Saturday, ${ untilString }": [
+        "Setiap ${ interval } minggu pada hari Sabtu, ${ untilString }"
+      ],
+      "Every ${ interval } weeks on Sunday": [
+        "Setiap ${ interval } minggu pada hari Minggu"
+      ],
+      "Every ${ interval } weeks on Sunday, ${ timesString }": [
+        "Setiap ${ interval } minggu pada hari Minggu, ${ timesString }"
+      ],
+      "Every ${ interval } weeks on Sunday, ${ untilString }": [
+        "Setiap ${ interval } minggu pada hari Minggu, ${ untilString }"
+      ],
+      "Every ${ interval } weeks on Thursday": [
+        "Setiap ${ interval } minggu pada hari Kamis"
+      ],
+      "Every ${ interval } weeks on Thursday, ${ timesString }": [
+        "Setiap ${ interval } minggu pada hari Kamis, ${ timesString }"
+      ],
+      "Every ${ interval } weeks on Thursday, ${ untilString }": [
+        "Setiap ${ interval } minggu pada hari Kamis, ${ untilString }"
+      ],
+      "Every ${ interval } weeks on Tuesday": [
+        "Setiap ${ interval } minggu pada hari Selasa"
+      ],
+      "Every ${ interval } weeks on Tuesday, ${ timesString }": [
+        "Setiap ${ interval } minggu pada hari Selasa, ${ timesString }"
+      ],
+      "Every ${ interval } weeks on Tuesday, ${ untilString }": [
+        "Setiap ${ interval } minggu pada hari Selasa, ${ untilString }"
+      ],
+      "Every ${ interval } weeks on Wednesday": [
+        "Setiap ${ interval } minggu pada hari Rabu"
+      ],
+      "Every ${ interval } weeks on Wednesday, ${ timesString }": [
+        "Setiap ${ interval } minggu pada hari Rabu, ${ timesString }"
+      ],
+      "Every ${ interval } weeks on Wednesday, ${ untilString }": [
+        "Setiap ${ interval } minggu pada hari Rabu, ${ untilString }"
+      ],
+      "Weekly on ${ multipleDaysString }": [
+        "Mingguan pada ${ multipleDaysString }"
+      ],
+      "Weekly on ${ multipleDaysString }, ${ timesString }": [
+        "Mingguan pada ${ multipleDaysString }, ${ timesString }"
+      ],
+      "Weekly on ${ multipleDaysString }, ${ untilString }": [
+        "Mingguan pada ${ multipleDaysString }, ${ untilString }"
+      ],
+      "Weekly on all days": [
+        "Mingguan pada semua hari"
+      ],
+      "Weekly on all days, ${ timesString }": [
+        "Mingguan pada semua hari, ${ timesString }"
+      ],
+      "Weekly on all days, ${ untilString }": [
+        "Mingguan pada semua hari, ${ untilString }"
+      ],
+      "Weekly on Friday": [
+        "Mingguan pada hari Jumat"
+      ],
+      "Weekly on Friday, ${ timesString }": [
+        "Mingguan pada hari Jumat, ${ timesString }"
+      ],
+      "Weekly on Friday, ${ untilString }": [
+        "Mingguan pada hari Jumat, ${ untilString }"
+      ],
+      "Weekly on Monday": [
+        "Mingguan pada hari Senin"
+      ],
+      "Weekly on Monday, ${ timesString }": [
+        "Mingguan pada hari Senin, ${ timesString }"
+      ],
+      "Weekly on Monday, ${ untilString }": [
+        "Mingguan pada hari Senin, ${ untilString }"
+      ],
+      "Weekly on Saturday": [
+        "Mingguan pada hari Sabtu"
+      ],
+      "Weekly on Saturday, ${ timesString }": [
+        "Mingguan pada hari Sabtu, ${ timesString }"
+      ],
+      "Weekly on Saturday, ${ untilString }": [
+        "Mingguan pada hari Sabtu, ${ untilString }"
+      ],
+      "Weekly on Sunday": [
+        "Mingguan pada hari Minggu"
+      ],
+      "Weekly on Sunday, ${ timesString }": [
+        "Mingguan pada hari Minggu, ${ timesString }"
+      ],
+      "Weekly on Sunday, ${ untilString }": [
+        "Mingguan pada hari Minggu, ${ untilString }"
+      ],
+      "Weekly on Thursday": [
+        "Mingguan pada hari Kamis"
+      ],
+      "Weekly on Thursday, ${ timesString }": [
+        "Mingguan pada hari Kamis, ${ timesString }"
+      ],
+      "Weekly on Thursday, ${ untilString }": [
+        "Mingguan pada hari Kamis, ${ untilString }"
+      ],
+      "Weekly on Tuesday": [
+        "Mingguan pada hari Selasa"
+      ],
+      "Weekly on Tuesday, ${ timesString }": [
+        "Mingguan pada hari Selasa, ${ timesString }"
+      ],
+      "Weekly on Tuesday, ${ untilString }": [
+        "Mingguan pada hari Selasa, ${ untilString }"
+      ],
+      "Weekly on Wednesday": [
+        "Mingguan pada hari Rabu"
+      ],
+      "Weekly on Wednesday, ${ timesString }": [
+        "Mingguan pada hari Rabu, ${ timesString }"
+      ],
+      "Weekly on Wednesday, ${ untilString }": [
+        "Mingguan pada hari Rabu, ${ untilString }"
+      ]
+    },
+    "Weekly recurring event, repeats on (multiple days), frequency": {
+      "Friday": [
+        "Jumat"
+      ],
+      "Monday": [
+        "Senin"
+      ],
+      "Saturday": [
+        "Sabtu"
+      ],
+      "Sunday": [
+        "Minggu"
+      ],
+      "Thursday": [
+        "Kamis"
+      ],
+      "Tuesday": [
+        "Selasa"
+      ],
+      "Wednesday": [
+        "Rabu"
+      ]
+    },
+    "Yearly recurring event, frequency": {
+      "Every ${ interval } years": [
+        "Setiap ${ interval } tahun"
+      ],
+      "Every ${ interval } years, ${ timesString }": [
+        "Setiap ${ interval } tahun, ${ timesString }"
+      ],
+      "Every ${ interval } years, ${ untilString }": [
+        "Setiap ${ interval } tahun, ${ untilString }"
+      ],
+      "Yearly": [
+        "Tahunan"
+      ],
+      "Yearly, ${ timesString }": [
+        "Tahunan, ${ timesString }"
+      ],
+      "Yearly, ${ untilString }": [
+        "Tahunan, ${ untilString }"
+      ]
+    }
+  }
+}

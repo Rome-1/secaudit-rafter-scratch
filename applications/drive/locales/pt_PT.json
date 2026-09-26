@@ -1,0 +1,4040 @@
+{
+  "headers": {
+    "plural-forms": "nplurals=2; plural=(n != 1);",
+    "language": "pt_PT"
+  },
+  "contexts": {
+    "Action": {
+      "${ BRAND_NAME } introduction": [
+        "Introdução do ${ BRAND_NAME }"
+      ],
+      "${ BRAND_NAME } shop": [
+        "Loja ${ BRAND_NAME }"
+      ],
+      "Activate recovery": [
+        "Ativar recuperação"
+      ],
+      "Add": [
+        "Adicionar"
+      ],
+      "Add address": [
+        "Adicionar endereço"
+      ],
+      "Add contact": [
+        "Adicionar contacto"
+      ],
+      "Add email": [
+        "Adicionar e-mail"
+      ],
+      "Add group": [
+        "Adicionar grupo"
+      ],
+      "Add new contact": [
+        "Adicionar novo contacto"
+      ],
+      "Add new group": [
+        "Adicionar novo grupo"
+      ],
+      "Add phone number": [
+        "Adicionar número de telefone"
+      ],
+      "Add to group": [
+        "Adicionar ao grupo"
+      ],
+      "Apply": [
+        "Aplicar"
+      ],
+      "Attach screenshot(s)": [
+        "Anexar captura(s) de ecrã"
+      ],
+      "Authenticate": [
+        "Autenticar"
+      ],
+      "Back": [
+        "Recuar"
+      ],
+      "Beta Access": [
+        "Acesso Beta"
+      ],
+      "Cancel": [
+        "Cancelar"
+      ],
+      "Cancel all uploads": [
+        "Cancelar todos os envios"
+      ],
+      "Cancel download": [
+        "Cancelar transferência"
+      ],
+      "Cancel upload": [
+        "Cancelar envio"
+      ],
+      "Chat with us": [
+        "Converse connosco"
+      ],
+      "Check import progress": [
+        "Verifique o progresso da importação"
+      ],
+      "Choose a file or drag it here": [
+        "Escolha um ficheiro ou arraste-o para aqui"
+      ],
+      "Clear": [
+        "Limpar"
+      ],
+      "Clear browser data": [
+        "Limpar dados do navegador"
+      ],
+      "Clear data": [
+        "Limpar dados"
+      ],
+      "Clear query": [
+        "Limpar consulta"
+      ],
+      "Click here.": [
+        "Clique aqui."
+      ],
+      "Close": [
+        "Fechar"
+      ],
+      "Close navigation": [
+        "Fechar navegação"
+      ],
+      "Close this banner": [
+        "Fechar esta faixa"
+      ],
+      "Close transfers": [
+        "Fechar transferências"
+      ],
+      "Compose": [
+        "Compor"
+      ],
+      "Confirm": [
+        "Confirmar"
+      ],
+      "Confirm opening of link ${ linkToShow }": [
+        "Confirmar a abertura da ligação ${ linkToShow }"
+      ],
+      "Contact group": [
+        "Grupo de contactos"
+      ],
+      "Continue": [
+        "Continuar"
+      ],
+      "Continue import": [
+        "Continuar a importação"
+      ],
+      "Continue with Google": [
+        "Continuar com o Google"
+      ],
+      "Copy email to clipboard": [
+        "Copiar mensagem para a área de transferência"
+      ],
+      "Copy link": [
+        "Copiar ligação"
+      ],
+      "Create": [
+        "Criar"
+      ],
+      "Create a new contact group": [
+        "Criar novo grupo de contactos"
+      ],
+      "Create link": [
+        "Criar ligação"
+      ],
+      "Create new folder": [
+        "Criar nova pasta"
+      ],
+      "Customize": [
+        "Personalizar"
+      ],
+      "Customize import": [
+        "Personalizar importação"
+      ],
+      "Delete": [
+        "Eliminar"
+      ],
+      "Delete ${ selectedCount } contact": [
+        "Eliminar ${ selectedCount } contacto",
+        "Eliminar ${ selectedCount } contacto"
+      ],
+      "Delete ${ selectedCount } contact group": [
+        "Eliminar ${ selectedCount } grupo de contactos",
+        "Eliminar ${ selectedCount } grupos de contactos"
+      ],
+      "Delete contact": [
+        "Eliminar contacto"
+      ],
+      "Delete contact group": [
+        "Eliminar grupo de contactos"
+      ],
+      "Delete permanently": [
+        "Eliminar permanentemente"
+      ],
+      "Deselect all": [
+        "De-seleccionar tudo"
+      ],
+      "Details": [
+        "Detalhes"
+      ],
+      "Discard": [
+        "Descartar"
+      ],
+      "Done": [
+        "Concluído"
+      ],
+      "Download": [
+        "Transferir"
+      ],
+      "Download all": [
+        "Transferir tudo"
+      ],
+      "Edit": [
+        "Editar"
+      ],
+      "Edit email address": [
+        "Editar o endereço de email"
+      ],
+      "Edit label": [
+        "Editar etiqueta"
+      ],
+      "Edit phone number": [
+        "Editar o número de telefone"
+      ],
+      "Edit sign-in details": [
+        "Editar detalhes do início de sessão"
+      ],
+      "Email settings": [
+        "Definições de email"
+      ],
+      "Empty trash": [
+        "Esvaziar lixo"
+      ],
+      "enable desktop notifications": [
+        "activar as notificações"
+      ],
+      "Export": [
+        "Exportar"
+      ],
+      "Export contact group": [
+        "Exportar grupo de contactos"
+      ],
+      "Export contacts": [
+        "Exportar contactos"
+      ],
+      "Fit to window": [
+        "Ajustar na janela"
+      ],
+      "Forward as attachment": [
+        "Encaminhar como anexo"
+      ],
+      "Get started": [
+        "Começar"
+      ],
+      "Get verification code": [
+        "Obter código de verificação"
+      ],
+      "Go to label": [
+        "Ir para a etiqueta"
+      ],
+      "Go to panel ${ index }": [
+        "Ir para o painel ${ index }"
+      ],
+      "Go to settings": [
+        "Ir para as definições"
+      ],
+      "Got it": [
+        "Percebi"
+      ],
+      "Hide advanced PGP settings": [
+        "Ocultar definições de PGP avançadas"
+      ],
+      "Hide folders": [
+        "Ocultar pastas"
+      ],
+      "Hide labels": [
+        "Ocultar etiquetas"
+      ],
+      "I have a question": [
+        "Tenho uma dúvida"
+      ],
+      "Import": [
+        "Importar"
+      ],
+      "import": [
+        "importar"
+      ],
+      "Import calendars": [
+        "Importar agendas"
+      ],
+      "Import contacts": [
+        "Importar contactos"
+      ],
+      "Import emails": [
+        "Importar e-mails"
+      ],
+      "Import from .csv or vCard": [
+        "Importar de .csv ou vCard"
+      ],
+      "Learn more": [
+        "Saber mais"
+      ],
+      "Load image": [
+        "Carregar imagem"
+      ],
+      "Log in": [
+        "Iniciar sessão"
+      ],
+      "Mark for deletion": [
+        "Marcar para eliminação"
+      ],
+      "Maximize transfers": [
+        "Maximizar transferências"
+      ],
+      "Merge": [
+        "Unir"
+      ],
+      "Merge contacts": [
+        "Unir contactos"
+      ],
+      "Minimize transfers": [
+        "Minimizar transferências"
+      ],
+      "More info: ${ safeTitle }": [
+        "Mais informações: ${ safeTitle }"
+      ],
+      "More options": [
+        "Mais opções"
+      ],
+      "Move": [
+        "Mover"
+      ],
+      "Move to folder": [
+        "Mover para a pasta"
+      ],
+      "Move to trash": [
+        "Mover para o lixo"
+      ],
+      "New upload": [
+        "Novo envio"
+      ],
+      "Next": [
+        "Seguinte"
+      ],
+      "Next month": [
+        "Mês seguinte"
+      ],
+      "OK": [
+        "Aceitar"
+      ],
+      "Open navigation": [
+        "Abrir navegação"
+      ],
+      "Pause download": [
+        "Pausar a transferência"
+      ],
+      "Pause upload": [
+        "Pausar o envio"
+      ],
+      "Preview": [
+        "Antever"
+      ],
+      "Preview contact": [
+        "Antever contacto"
+      ],
+      "Previous": [
+        "Anterior"
+      ],
+      "Previous month": [
+        "Mês anterior"
+      ],
+      "Quit": [
+        "Sair"
+      ],
+      "Re-sign": [
+        "Re-assinar"
+      ],
+      "Reconnect": [
+        "Religar"
+      ],
+      "Recover data": [
+        "Recuperar dados"
+      ],
+      "Refer a friend": [
+        "Referencie um amigo"
+      ],
+      "Refresh the page": [
+        "Actualizar a página"
+      ],
+      "refresh the page": [
+        "actualizar a página"
+      ],
+      "Remove": [
+        "Remover"
+      ],
+      "Remove from this list": [
+        "Remover desta lista"
+      ],
+      "Rename": [
+        "Renomear"
+      ],
+      "Replace file": [
+        "Substituir ficheiro"
+      ],
+      "Report a problem": [
+        "Relatar um problema"
+      ],
+      "Request a feature": [
+        "Pedir uma funcionalidade"
+      ],
+      "Request new code": [
+        "Pedir novo código"
+      ],
+      "Resend code": [
+        "Reenviar código"
+      ],
+      "Reset to default": [
+        "Repor predefinição"
+      ],
+      "Restart download": [
+        "Reiniciar transferência"
+      ],
+      "Restart upload": [
+        "Reiniciar envio"
+      ],
+      "Restore from trash": [
+        "Restaurar do lixo"
+      ],
+      "Resume download": [
+        "Retomar transferência"
+      ],
+      "Resume upload": [
+        "Retomar envio"
+      ],
+      "Retry": [
+        "Repetir"
+      ],
+      "Save": [
+        "Gravar"
+      ],
+      "Search": [
+        "Procurar"
+      ],
+      "Search countries": [
+        "Procurar países"
+      ],
+      "See plan features": [
+        "Veja as funcionalidades do plano"
+      ],
+      "Select all": [
+        "Seleccionar tudo"
+      ],
+      "Send feedback": [
+        "Enviar comentários"
+      ],
+      "Set recovery phrase": [
+        "Definir frase de recuperação"
+      ],
+      "Share file": [
+        "Partilhar ficheiro"
+      ],
+      "Share via link": [
+        "Partilhar por ligação"
+      ],
+      "Sharing options": [
+        "Opções de partilha"
+      ],
+      "Show advanced PGP settings": [
+        "Mostrar definições de PGP avançadas"
+      ],
+      "Show folders": [
+        "Mostrar pastas"
+      ],
+      "Show labels": [
+        "Mostrar etiquetas"
+      ],
+      "Show preview": [
+        "Mostrar pré-visualização"
+      ],
+      "Sign out": [
+        "Terminar sessão"
+      ],
+      "Signing out": [
+        "A terminar sessão"
+      ],
+      "Skip": [
+        "Ignorar"
+      ],
+      "Skip verification": [
+        "Saltar verificação"
+      ],
+      "Start import": [
+        "Iniciar a importação"
+      ],
+      "Start recovering": [
+        "Iniciar recuperação"
+      ],
+      "Start setup": [
+        "Iniciar a configuração"
+      ],
+      "Stay": [
+        "Ficar"
+      ],
+      "Stop sharing": [
+        "Parar a partilha"
+      ],
+      "Submit": [
+        "Submeter"
+      ],
+      "Theme": [
+        " Tema"
+      ],
+      "Trust": [
+        "Confiar"
+      ],
+      "Try another method": [
+        "Tentar outro método"
+      ],
+      "Undo": [
+        "Desfazer"
+      ],
+      "Unlock data": [
+        "Desbloquear dados"
+      ],
+      "Unmark for deletion": [
+        "Desmarcar para eliminação"
+      ],
+      "Untrust": [
+        "Não confiar"
+      ],
+      "Update recovery file": [
+        "Atualizar ficheiro de recuperação"
+      ],
+      "Update recovery phrase": [
+        "Atualizar frase de recuperação"
+      ],
+      "Upgrade": [
+        "Actualizar"
+      ],
+      "Upgrade now": [
+        "Atualizar agora"
+      ],
+      "Upload file": [
+        "Enviar ficheiro"
+      ],
+      "Upload folder": [
+        "Enviar pasta"
+      ],
+      "Upload picture": [
+        "Enviar imagem"
+      ],
+      "Use ${ label } theme": [
+        "Usar o tema ${ label }"
+      ],
+      "Use authentication code": [
+        "Usar código de autenticação"
+      ],
+      "Use for sending": [
+        "Usar para envio"
+      ],
+      "Use recovery code": [
+        "Usar código de recuperação"
+      ],
+      "Verify": [
+        "Verificar"
+      ],
+      "Verify account": [
+        "Verificar conta"
+      ],
+      "View": [
+        "Ver"
+      ],
+      "View invoice": [
+        "Ver factura"
+      ],
+      "Zoom in": [
+        "Ampliar"
+      ],
+      "Zoom out": [
+        "Reduzir"
+      ]
+    },
+    "Actions message": {
+      "${ addContact } or ${ importContact }.": [
+        "${ addContact } ou ${ importContact }."
+      ],
+      "No results found.": [
+        "Nenhum resultado."
+      ],
+      "Please try another search term.": [
+        "Por favor, tente outro termo de procura."
+      ],
+      "You don't have any contacts.": [
+        "Ainda não tem contactos."
+      ],
+      "You don't have any groups.": [
+        "Não tem nenhum grupo."
+      ]
+    },
+    "Alert": {
+      "By leaving now, some contacts may not be imported": [
+        "Ao sair agora, alguns contactos podem não ser importados"
+      ],
+      "By leaving now, some events may not be imported": [
+        "Ao sair agora, alguns eventos podem não ser importados."
+      ]
+    },
+    "Attached ics file error": {
+      "Invalid event": [
+        "Evento inválido"
+      ],
+      "Invalid ICS file": [
+        "Ficheiro ICS inválido"
+      ],
+      "Invalid method": [
+        "Método inválido"
+      ],
+      "Unsupported event": [
+        "Evento não suportado"
+      ]
+    },
+    "Beta access description": {
+      "If you encounter issues, you can always disable Beta Access.": [
+        "Se encontrar problemas, pode sempre desactivar o acesso Beta."
+      ]
+    },
+    "Bug category": {
+      "Application problem": [
+        "Problema de aplicação"
+      ],
+      "Bridge problem": [
+        "Problema na Bridge"
+      ],
+      "Calendar problem": [
+        "Problema na agenda"
+      ],
+      "Connection problem": [
+        "Problema com a ligação"
+      ],
+      "Contacts problem": [
+        "Problema nos contactos"
+      ],
+      "Custom domain problem": [
+        "Problema nos domínios personalizados"
+      ],
+      "Drive problem": [
+        "Problema na Drive"
+      ],
+      "Feature request": [
+        "Pedido de funcionalidade"
+      ],
+      "Import / export problem": [
+        "Problema ao importar/exportar"
+      ],
+      "Installation problem": [
+        "Problema na instalação"
+      ],
+      "Mail problem": [
+        "Problema no correio"
+      ],
+      "Manual setup problem": [
+        "Problema de configuração manual"
+      ],
+      "Other": [
+        "Outro"
+      ],
+      "Payments problem": [
+        "Problema com os pagamentos"
+      ],
+      "Sign in problem": [
+        "Problema ao registar"
+      ],
+      "Sign up problem": [
+        "Problema ao registar"
+      ],
+      "Signup problem": [
+        "Problema ao registar"
+      ],
+      "Slow speed problem": [
+        "Problema de velocidade lenta"
+      ],
+      "Speed problem": [
+        "Problema de velocidade"
+      ],
+      "Streaming problem": [
+        "Problema de transmissão"
+      ],
+      "Update problem": [
+        "Problema de actualização"
+      ],
+      "VPN problem": [
+        "Problema de VPN"
+      ],
+      "Website access problem": [
+        "Problema de acesso à página web"
+      ]
+    },
+    "Calendar subscription not synced error": {
+      "Calendar is syncing: it may take several minutes for all of its events to show up.": [
+        "A sincronizar agenda: a exibição de todos os eventos, poderá demorar vários minutos."
+      ]
+    },
+    "Collapsible tooltip": {
+      "Collapse": [
+        "Fechar"
+      ],
+      "Expand": [
+        "Expandir"
+      ]
+    },
+    "Confirm modal title": {
+      "Quit import?": [
+        "Sair da importação?"
+      ]
+    },
+    "Contact field label": {
+      "Address": [
+        "Endereço"
+      ],
+      "Anniversary": [
+        "Aniversário"
+      ],
+      "Birthday": [
+        "Data de nascimento"
+      ],
+      "Email": [
+        "Email"
+      ],
+      "Gender": [
+        "Sexo"
+      ],
+      "Geo": [
+        "Geo-localização"
+      ],
+      "Language": [
+        "Idioma"
+      ],
+      "Logo": [
+        "Logótipo"
+      ],
+      "Member": [
+        "Membro"
+      ],
+      "Name": [
+        "Nome"
+      ],
+      "Note": [
+        "Nota"
+      ],
+      "Organization": [
+        "Organização"
+      ],
+      "Phone": [
+        "Telefone"
+      ],
+      "Photo": [
+        "Fotografia"
+      ],
+      "Role": [
+        "Papel"
+      ],
+      "Timezone": [
+        "Fuso horário"
+      ],
+      "Title": [
+        "Título"
+      ],
+      "URL": [
+        "URL"
+      ]
+    },
+    "Contact type label": {
+      "Fax": [
+        "Fax"
+      ],
+      "Main": [
+        "Principal"
+      ],
+      "Mobile": [
+        "Telemóvel"
+      ],
+      "Other": [
+        "Outro"
+      ],
+      "Pager": [
+        "Pager"
+      ],
+      "Personal": [
+        "Pessoal"
+      ],
+      "Work": [
+        "Trabalho"
+      ],
+      "Yomi": [
+        "Yomi"
+      ]
+    },
+    "Country name": {
+      "Abkhazia": [
+        "Abecásia"
+      ],
+      "Afghanistan": [
+        "Afeganistão"
+      ],
+      "Albania": [
+        "Albânia"
+      ],
+      "Algeria": [
+        "Algéria"
+      ],
+      "American Samoa": [
+        "Samoa Americana"
+      ],
+      "Andorra": [
+        "Andorra"
+      ],
+      "Angola": [
+        "Angola"
+      ],
+      "Anguilla": [
+        "Anguilla"
+      ],
+      "Antarctica": [
+        "Antárctica"
+      ],
+      "Antigua and Barbuda": [
+        "Antígua e Barbuda"
+      ],
+      "Argentina": [
+        "Argentina"
+      ],
+      "Armenia": [
+        "Arménia"
+      ],
+      "Aruba": [
+        "Aruba"
+      ],
+      "Ascension Island": [
+        "Ilha de Ascensão"
+      ],
+      "Australia": [
+        "Austrália"
+      ],
+      "Austria": [
+        "Áustria"
+      ],
+      "Azerbaijan": [
+        "Azerbaijão"
+      ],
+      "Bahamas": [
+        "Bahamas"
+      ],
+      "Bahrain": [
+        "Bahrain"
+      ],
+      "Bangladesh": [
+        "Bangladesh"
+      ],
+      "Barbados": [
+        "Barbados"
+      ],
+      "Belarus": [
+        "Bielorrússia"
+      ],
+      "Belgium": [
+        "Bélgica"
+      ],
+      "Belize": [
+        "Belize"
+      ],
+      "Benin": [
+        "Benin"
+      ],
+      "Bermuda": [
+        "Bermuda"
+      ],
+      "Bhutan": [
+        "Butão"
+      ],
+      "Bolivia": [
+        "Bolívia"
+      ],
+      "Bonaire, Sint Eustatius and Saba": [
+        "Bonaire, Santo Eustáquio e Saba"
+      ],
+      "Bosnia and Herzegovina": [
+        "Bósnia e Herzegovina"
+      ],
+      "Botswana": [
+        "Botswana"
+      ],
+      "Bouvet Island": [
+        "Ilha Bouvet"
+      ],
+      "Brazil": [
+        "Brasil"
+      ],
+      "British Indian Ocean Territory": [
+        "Território Britânico no Oceano Índico"
+      ],
+      "Brunei Darussalam": [
+        "Brunei Darussalam"
+      ],
+      "Bulgaria": [
+        "Bulgária"
+      ],
+      "Burkina Faso": [
+        "Burkina Faso"
+      ],
+      "Burundi": [
+        "Burundi"
+      ],
+      "Cambodia": [
+        "Cambodja"
+      ],
+      "Cameroon": [
+        "Camarões"
+      ],
+      "Canada": [
+        "Canadá"
+      ],
+      "Cape Verde": [
+        "Cabo Verde"
+      ],
+      "Cayman Islands": [
+        "Ilhas Cayman"
+      ],
+      "Central African Republic": [
+        "República Central Africana"
+      ],
+      "Chad": [
+        "Chade"
+      ],
+      "Chile": [
+        "Chile"
+      ],
+      "China": [
+        "China"
+      ],
+      "Christmas Island": [
+        "Ilha Natal"
+      ],
+      "Cocos (Keeling) Islands": [
+        "Ilhas Cocos (Keeling)"
+      ],
+      "Colombia": [
+        "Colômbia"
+      ],
+      "Comoros": [
+        "Comoros"
+      ],
+      "Congo": [
+        "Congo"
+      ],
+      "Congo, Democratic Republic of the": [
+        "Congo (República Democrática)"
+      ],
+      "Cook Islands": [
+        "Ilhas Cook"
+      ],
+      "Costa Rica": [
+        "Costa Rica"
+      ],
+      "Croatia": [
+        "Croácia"
+      ],
+      "Cuba": [
+        "Cuba"
+      ],
+      "Curaçao": [
+        "Curaçao"
+      ],
+      "Cyprus": [
+        "Chipre"
+      ],
+      "Czech Republic": [
+        "República Checa"
+      ],
+      "Côte d'Ivoire": [
+        "Costa do Marfim"
+      ],
+      "Denmark": [
+        "Dinamarca"
+      ],
+      "Djibouti": [
+        "Djibouti"
+      ],
+      "Dominica": [
+        "Dominica"
+      ],
+      "Dominican Republic": [
+        "República Dominicana"
+      ],
+      "Ecuador": [
+        "Equador"
+      ],
+      "Egypt": [
+        "Egipto"
+      ],
+      "El Salvador": [
+        "El Salvador"
+      ],
+      "Equatorial Guinea": [
+        "Guiné Equatorial"
+      ],
+      "Eritrea": [
+        "Eritreia"
+      ],
+      "Estonia": [
+        "Estónia"
+      ],
+      "Eswatini": [
+        "Suazilândia"
+      ],
+      "Ethiopia": [
+        "Etiópia"
+      ],
+      "Falkland Islands": [
+        "Ilhas Falkland"
+      ],
+      "Faroe Islands": [
+        "Ilhas Faroé"
+      ],
+      "Federated States of Micronesia": [
+        "Estados Federados da Micronésia"
+      ],
+      "Fiji": [
+        "Ilhas Fiji"
+      ],
+      "Finland": [
+        "Finlândia"
+      ],
+      "France": [
+        "França"
+      ],
+      "French Guiana": [
+        "Guiana Francesa"
+      ],
+      "French Polynesia": [
+        "Polinésia Francesa"
+      ],
+      "French Southern Territories": [
+        "Territórios franceses do Sul"
+      ],
+      "Gabon": [
+        "Gabão"
+      ],
+      "Gambia": [
+        "Gâmbia"
+      ],
+      "Georgia": [
+        "Geórgia"
+      ],
+      "Germany": [
+        "Alemanha"
+      ],
+      "Ghana": [
+        "Gana"
+      ],
+      "Gibraltar": [
+        "Gibraltar"
+      ],
+      "Greece": [
+        "Grécia"
+      ],
+      "Greenland": [
+        "Gronelândia"
+      ],
+      "Grenada": [
+        "Grenada"
+      ],
+      "Guadeloupe": [
+        "Guadalupe"
+      ],
+      "Guam": [
+        "Guam"
+      ],
+      "Guatemala": [
+        "Guatemala"
+      ],
+      "Guernsey": [
+        "Guernsey"
+      ],
+      "Guinea": [
+        "Guiné"
+      ],
+      "Guinea-Bissau": [
+        "Guiné-Bissau"
+      ],
+      "Guyana": [
+        "Guiana"
+      ],
+      "Haiti": [
+        "Haiti"
+      ],
+      "Heard Island and McDonald Islands": [
+        "Ilha Heard e Ilhas McDonald"
+      ],
+      "Holy See (Vatican City State)": [
+        "Santa Sé (Estado da Cidade do Vaticano)"
+      ],
+      "Honduras": [
+        "Honduras"
+      ],
+      "Hong Kong": [
+        "Hong Kong"
+      ],
+      "Hungary": [
+        "Hungria"
+      ],
+      "Iceland": [
+        "Islândia"
+      ],
+      "India": [
+        "Índia"
+      ],
+      "Indonesia": [
+        "Indonésia"
+      ],
+      "International": [
+        "Internacional"
+      ],
+      "Iran": [
+        "Irão"
+      ],
+      "Iraq": [
+        "Iraque"
+      ],
+      "Ireland": [
+        "Irlanda"
+      ],
+      "Isle of Man": [
+        "Ilha de Man"
+      ],
+      "Israel": [
+        "Israel"
+      ],
+      "Italy": [
+        "Itália"
+      ],
+      "Jamaica": [
+        "Jamaica"
+      ],
+      "Japan": [
+        "Japão"
+      ],
+      "Jersey": [
+        "Jersey"
+      ],
+      "Jordan": [
+        "Jordânia"
+      ],
+      "Kazakhstan": [
+        "Cazaquistão"
+      ],
+      "Kenya": [
+        "Quénia"
+      ],
+      "Kiribati": [
+        "Kiribati"
+      ],
+      "Kosovo": [
+        "Kosovo"
+      ],
+      "Kuwait": [
+        "Kuwait"
+      ],
+      "Kyrgyzstan": [
+        "Quirguistão"
+      ],
+      "Laos": [
+        "Laos"
+      ],
+      "Latvia": [
+        "Látvia"
+      ],
+      "Lebanon": [
+        "Líbano"
+      ],
+      "Lesotho": [
+        "Lesotho"
+      ],
+      "Liberia": [
+        "Libéria"
+      ],
+      "Libya": [
+        "Líbia"
+      ],
+      "Liechtenstein": [
+        "Liechtenstein"
+      ],
+      "Lithuania": [
+        "Lituânia"
+      ],
+      "Luxembourg": [
+        "Luxemburgo"
+      ],
+      "Macao": [
+        "Macau"
+      ],
+      "Madagascar": [
+        "Madagáscar"
+      ],
+      "Malawi": [
+        "Malawi"
+      ],
+      "Malaysia": [
+        "Malásia"
+      ],
+      "Maldives": [
+        "Maldivas"
+      ],
+      "Mali": [
+        "Mali"
+      ],
+      "Malta": [
+        "Malta"
+      ],
+      "Marshall Islands": [
+        "Ilhas Marshall"
+      ],
+      "Martinique": [
+        "Martinica"
+      ],
+      "Mauritania": [
+        "Mauritânia"
+      ],
+      "Mauritius": [
+        "Maurícia"
+      ],
+      "Mayotte": [
+        "Maiote"
+      ],
+      "Mexico": [
+        "México"
+      ],
+      "Moldova": [
+        "Moldávia"
+      ],
+      "Monaco": [
+        "Mónaco"
+      ],
+      "Mongolia": [
+        "Mongólia"
+      ],
+      "Montenegro": [
+        "Montenegro"
+      ],
+      "Montserrat": [
+        "Monserrate"
+      ],
+      "Morocco": [
+        "Marrocos"
+      ],
+      "Mozambique": [
+        "Moçambique"
+      ],
+      "Myanmar": [
+        "Myanmar"
+      ],
+      "Namibia": [
+        "Namíbia"
+      ],
+      "Nauru": [
+        "Nauru"
+      ],
+      "Nepal": [
+        "Nepal"
+      ],
+      "Netherlands": [
+        "Países Baixos"
+      ],
+      "New Caledonia": [
+        "Nova Caledónia"
+      ],
+      "New Zealand": [
+        "Nova Zelândia"
+      ],
+      "Nicaragua": [
+        "Nicarágua"
+      ],
+      "Niger": [
+        "Níger"
+      ],
+      "Nigeria": [
+        "Nigéria"
+      ],
+      "Niue": [
+        "Niue"
+      ],
+      "Norfolk Island": [
+        "Ilha Norfolk"
+      ],
+      "North Korea": [
+        "Coreia do Norte"
+      ],
+      "North Macedonia": [
+        "Macedónia do Norte"
+      ],
+      "Northern Mariana Islands": [
+        "Ilhas Marianas do Norte"
+      ],
+      "Norway": [
+        "Noruega"
+      ],
+      "Oman": [
+        "Omã"
+      ],
+      "Pakistan": [
+        "Paquistão"
+      ],
+      "Palau": [
+        "Palau"
+      ],
+      "Palestine": [
+        "Palestina"
+      ],
+      "Panama": [
+        "Panamá"
+      ],
+      "Papua New Guinea": [
+        "Papua Nova Guiné"
+      ],
+      "Paraguay": [
+        "Paraguai"
+      ],
+      "Peru": [
+        "Peru"
+      ],
+      "Philippines": [
+        "Filipinas"
+      ],
+      "Pitcairn": [
+        "Pitcairn"
+      ],
+      "Poland": [
+        "Polónia"
+      ],
+      "Portugal": [
+        "Portugal"
+      ],
+      "Puerto Rico": [
+        "Porto Rico"
+      ],
+      "Qatar": [
+        "Qatar"
+      ],
+      "Reunion": [
+        "Reunião"
+      ],
+      "Romania": [
+        "Roménia"
+      ],
+      "Russia": [
+        "Rússia"
+      ],
+      "Rwanda": [
+        "Ruanda"
+      ],
+      "Saint Barthélemy": [
+        "São Bartolomeu"
+      ],
+      "Saint Helena": [
+        "Santa Helena"
+      ],
+      "Saint Kitts and Nevis": [
+        "Saint Kitts e Nevis"
+      ],
+      "Saint Lucia": [
+        "Santa Lúcia"
+      ],
+      "Saint Martin (French Part)": [
+        "Saint Martin (parte francesa)"
+      ],
+      "Saint Pierre and Miquelon": [
+        "São Pedro e Miquelão"
+      ],
+      "Saint Vincent and the Grenadines": [
+        "Saint Vincent e Grenadines"
+      ],
+      "Samoa": [
+        "Samoa"
+      ],
+      "San Marino": [
+        "São Marino"
+      ],
+      "Sao Tome and Principe": [
+        "São Tomé e Príncipe"
+      ],
+      "Saudi Arabia": [
+        "Arábia Saudita"
+      ],
+      "Senegal": [
+        "Senegal"
+      ],
+      "Serbia": [
+        "Sérvia"
+      ],
+      "Seychelles": [
+        "Seicheles"
+      ],
+      "Sierra Leone": [
+        "Serra Leoa"
+      ],
+      "Singapore": [
+        "Singapura"
+      ],
+      "Sint Maarten": [
+        "São Martinho (Países Baixos)"
+      ],
+      "Slovakia": [
+        "Eslováquia"
+      ],
+      "Slovenia": [
+        "Eslovénia"
+      ],
+      "Solomon Islands": [
+        "Ilhas Salomão"
+      ],
+      "Somalia": [
+        "Somália"
+      ],
+      "South Africa": [
+        "África do Sul"
+      ],
+      "South Georgia and the South Sandwich Islands": [
+        "Geórgia do Sul e Ilhas Sandwich do Sul"
+      ],
+      "South Korea": [
+        "Coreia do Sul"
+      ],
+      "South Ossetia": [
+        "Ossétia do Sul"
+      ],
+      "South Sudan": [
+        "Sudão Sul"
+      ],
+      "Spain": [
+        "Espanha"
+      ],
+      "Sri Lanka": [
+        "Sri Lanka"
+      ],
+      "Sudan": [
+        "Sudão"
+      ],
+      "Suriname": [
+        "Suriname"
+      ],
+      "Svalbard and Jan Mayen": [
+        "Svalbard e Jan Mayen"
+      ],
+      "Sweden": [
+        "Suécia"
+      ],
+      "Switzerland": [
+        "Suíça"
+      ],
+      "Syria": [
+        "Síria"
+      ],
+      "Taiwan": [
+        "Taiwan"
+      ],
+      "Tajikistan": [
+        "Tajiquistão"
+      ],
+      "Tanzania": [
+        "Tanzânia"
+      ],
+      "Thailand": [
+        "Tailândia"
+      ],
+      "Timor-Leste": [
+        "Timor-Leste"
+      ],
+      "Togo": [
+        "Togo"
+      ],
+      "Tokelau": [
+        "Tokelau"
+      ],
+      "Tonga": [
+        "Tonga"
+      ],
+      "Trinidad and Tobago": [
+        "Trinidad e Tobago"
+      ],
+      "Tristan da Cunha": [
+        "Tristão da Cunha"
+      ],
+      "Tunisia": [
+        "Tunísia"
+      ],
+      "Turkey": [
+        "Turquia"
+      ],
+      "Turkmenistan": [
+        "Turquemenistão"
+      ],
+      "Turks and Caicos Islands": [
+        "Ilhas Turcas e Caicos"
+      ],
+      "Tuvalu": [
+        "Tuvalu"
+      ],
+      "Uganda": [
+        "Uganda"
+      ],
+      "Ukraine": [
+        "Ucrânia"
+      ],
+      "United Arab Emirates": [
+        "Emirados Árabes Unidos"
+      ],
+      "United Kingdom": [
+        "Reino Unido"
+      ],
+      "United States": [
+        "Estados Unidos"
+      ],
+      "United States Minor Outlying Islands": [
+        "Ilhas Menores Distantes dos Estados Unidos"
+      ],
+      "Uruguay": [
+        "Uruguai"
+      ],
+      "Uzbekistan": [
+        "Uzbequistão"
+      ],
+      "Vanuatu": [
+        "Vanuatu"
+      ],
+      "Venezuela": [
+        "Venezuela"
+      ],
+      "Vietnam": [
+        "Vietname"
+      ],
+      "Virgin Islands, British": [
+        "Ilhas Virgens, Inglesas"
+      ],
+      "Virgin Islands, U.S.": [
+        "Ilhas Virgens, Americanas"
+      ],
+      "Wallis and Futuna": [
+        "Wallis e Futuna"
+      ],
+      "Western Sahara": [
+        "Saará Ocidental"
+      ],
+      "Yemen": [
+        "Yemen"
+      ],
+      "Zambia": [
+        "Zâmbia"
+      ],
+      "Zimbabwe": [
+        "Zimbabué"
+      ],
+      "Åland Islands": [
+        "Ilhas Åland"
+      ]
+    },
+    "Default display name vcard": {
+      "Unknown": [
+        "Desconhecido"
+      ]
+    },
+    "Default encryption scheme": {
+      "Use global default (${ defaultValueText })": [
+        "Utilizar a predefinição global (${ defaultValueText })"
+      ]
+    },
+    "Delinquent modal title": {
+      "Overdue invoice": [
+        "Factura em dívida"
+      ]
+    },
+    "Description": {
+      "Deleting contacts... This may take a few minutes. When the process is completed, you can close this modal.": [
+        "A eliminar contactos... Isto pode levar alguns minutos. Quando o processo for concluído, pode fechar esta janela."
+      ],
+      "Encrypting and importing contacts... This may take a few minutes. When the process is completed, you can close this modal.": [
+        "A encriptar e importar contactos... Pode levar alguns minutos. Quando o processo terminar, poderá fechar este diálogo."
+      ],
+      "It looks like the contact list you are importing contains some groups. Please review how these groups should be imported.": [
+        "Parece que a lista de contactos que está a importar já contém grupos. Por favor, reveja como esses grupos devem ser importados."
+      ],
+      "Merging contacts... This may take a few minutes. When the process is completed, you can close this modal.": [
+        "A unir contactos... Pode levar alguns minutos. Quando o processo terminar, poderá fechar este diálogo."
+      ],
+      "Use Drag and Drop to rank merging priority between contacts. Uncheck the contacts you do not want to merge.": [
+        "Arraste e largue para alterar a prioridade de união entre contactos. Desmarque os contactos que não deseja unir."
+      ],
+      "You can mark for deletion the contacts that you do not want neither to merge nor to keep. Deletion will only take place after the merge button is clicked": [
+        "Pode marcar para eliminação os contactos que não deseja unir nem manter. A eliminação só ocorrerá depois de clicar no botão de união"
+      ]
+    },
+    "Description of the purpose of the import CSV modal": {
+      "Also, we have automatically matched CSV fields with vCard fields. You can review and change this matching manually.": [
+        "Também fizemos corresponder campos CSV com campos vCard. Pode rever e alterar as correspondências manualmente."
+      ],
+      "We have detected the following fields in the CSV file you uploaded. Check the ones you want to import.": [
+        "Encontrámos os seguintes campos no ficheiro CSV que enviou. Por favor, marque aqueles que deseja importar."
+      ]
+    },
+    "Early Access Disabled": {
+      "Off": [
+        "Off"
+      ]
+    },
+    "Early Access Enabled": {
+      "On": [
+        "On"
+      ]
+    },
+    "Email body for description (description part)": {
+      "Description: ${ eventDescription }": [
+        "Descrição: ${ eventDescription }"
+      ]
+    },
+    "Email body for invitation": {
+      "${ eventTitle } has been canceled.": [
+        "${ eventTitle } foi cancelado."
+      ],
+      "${ eventTitle } has been updated.\n${ eventDetailsText }": [
+        "${ eventTitle } foi actualizado.\n${ eventDetailsText }"
+      ],
+      "You are invited to ${ eventTitle }\n${ eventDetailsText }": [
+        "Tem um convite para ${ eventTitle }\n${ eventDetailsText }"
+      ]
+    },
+    "Email body for invitation (date part)": {
+      "When: ${ formattedStart }": [
+        "Quando: ${ formattedStart }"
+      ],
+      "When: ${ formattedStart } (all day)": [
+        "Quando: ${ formattedStart } (o dia todo)"
+      ],
+      "When: ${ formattedStart } - ${ formattedEnd }": [
+        "Quando: ${ formattedStart } - ${ formattedEnd }"
+      ]
+    },
+    "Email body for invitation (location part)": {
+      "Where: ${ eventLocation }": [
+        "Onde: ${ eventLocation }"
+      ]
+    },
+    "Email body for response to invitation": {
+      "${ emailAddress } has accepted your invitation to ${ eventTitle }": [
+        "${ emailAddress } aceitou o seu convite para ${ eventTitle }"
+      ],
+      "${ emailAddress } has declined your invitation to ${ eventTitle }": [
+        "${ emailAddress } recusou o seu convite para ${ eventTitle }"
+      ],
+      "${ emailAddress } has tentatively accepted your invitation to ${ eventTitle }": [
+        "${ emailAddress } aceitou provisoriamente o seu convite para ${ eventTitle }"
+      ]
+    },
+    "Email subject": {
+      "Cancellation of an event on ${ formattedStart }": [
+        "Cancelamento de um evento em ${ formattedStart }"
+      ],
+      "Cancellation of an event starting on ${ formattedStart }": [
+        "Cancelamento de um evento começando em ${ formattedStart }"
+      ],
+      "Invitation for an event on ${ formattedStart }": [
+        "Convite para um evento em ${ formattedStart }"
+      ],
+      "Invitation for an event starting on ${ formattedStart }": [
+        "Convite para um evento começando em ${ formattedStart }"
+      ],
+      "Update for an event on ${ formattedStart }": [
+        "Actualização para um evento em ${ formattedStart }"
+      ],
+      "Update for an event starting on ${ formattedStart }": [
+        "Actualização para um evento começando em ${ formattedStart }"
+      ]
+    },
+    "Error": {
+      "A group with this name already exists": [
+        "Já existe um grupo com este nome"
+      ],
+      "Address primary private key not found": [
+        "Chave privada primária do endereço não encontrada"
+      ],
+      "Authentication canceled.": [
+        "Autenticação cancelada."
+      ],
+      "Authentication error.": [
+        "Erro de autenticação."
+      ],
+      "Contact could not be saved": [
+        "Impossível gravar o contacto"
+      ],
+      "Contact signature not verified": [
+        "Assinatura do contacto não verificada"
+      ],
+      "Domain not available, try again later": [
+        "Domínio indisponível, tente novamente mais tarde"
+      ],
+      "Email address invalid": [
+        "Endereço de email inválido"
+      ],
+      "Email is not valid": [
+        "Email inválido"
+      ],
+      "Enter 6 digits": [
+        "Insira 6 algarismos"
+      ],
+      "Image upload failed": [
+        "Falha ao enviar a imagem"
+      ],
+      "Incorrect password. Please try again.": [
+        "Senha incorrecta, tente novamente."
+      ],
+      "Invalid name": [
+        "Nome inválido"
+      ],
+      "Invalid public key file": [
+        "Ficheiro de chave pública inválido"
+      ],
+      "Invalid verification code": [
+        "Código de verificação inválido"
+      ],
+      "Missing signature": [
+        "Assinatura em falta"
+      ],
+      "Not a valid number": [
+        "Número inválido"
+      ],
+      "One of the contacts has no email address: ${ noEmailsContactNamesList }": [
+        "Um dos contactos não tem endereço de email: ${ noEmailsContactNamesList }",
+        "Alguns contactos não têm endereço de email: ${ noEmailsContactNamesList } "
+      ],
+      "One of the groups has no contacts: ${ noContactGroupList }": [
+        "Um dos grupos não tem contactos: ${ noContactGroupList }",
+        "Alguns grupos não têm contactos: ${ noContactGroupList } "
+      ],
+      "Passwords do not match": [
+        "As senhas não coincidem"
+      ],
+      "Signature not verified": [
+        "Assinatura não verificada"
+      ],
+      "Signature verification failed": [
+        "Falha ao verificar a assinatura"
+      ],
+      "Some contacts could not be deleted": [
+        "Impossível eliminar alguns contactos"
+      ],
+      "Some groups could not be deleted": [
+        "Alguns grupos não puderam ser eliminados"
+      ],
+      "Some of your folder names are unavailable. Please customize the import to edit these names.": [
+        "Alguns dos seus nomes de pasta estão indisponíveis. Por favor, personalize esses nomes antes de importar."
+      ],
+      "Something went wrong, please ${ refresh } in order to proceed. If you still see this error message please contact our ${ supportTeam }.": [
+        "Algo correu mal, por favor ${ refresh } para continuar. Se ainda vir esta mensagem de erro, por favor, contacte a nossa ${ supportTeam }."
+      ],
+      "The folder name is invalid. Please choose a different name.": [
+        "O nome da pasta é inválido. Por favor, escolha um nome diferente."
+      ],
+      "The label name is invalid. Please choose a different name.": [
+        "O nome da etiqueta é inválido. Por favor, escolha um nome diferente."
+      ],
+      "There was an error when exporting the contacts vCards": [
+        "Ocorreu um erro ao exportar os vCards dos contactos"
+      ],
+      "This field is required": [
+        "Este campo é requerido"
+      ],
+      "This field requires a minimum of ${ minimumLength } characters.": [
+        "Este campo requer um mínimo de ${ minimumLength } caracteres."
+      ],
+      "Unknown error": [
+        "Erro desconhecido"
+      ],
+      "You can't send a mail to more than 100 recipients": [
+        "Não pode enviar um email para mais de 100 destinatários"
+      ],
+      "You must set a name": [
+        "Tem de definir um nome"
+      ],
+      "Your import will not be processed.": [
+        "A sua importação não será processada."
+      ]
+    },
+    "Error importing calendar": {
+      "An error occurred reading your file ${ formattedFilename }. File does not have the right format.": [
+        "Ocorreu um erro ao ler o ficheiro ${ formattedFilename }. O formato está errado."
+      ],
+      "An error occurred uploading your file ${ formattedFilename }. Maximum file size is ${ MAX_IMPORT_FILE_SIZE_STRING }.": [
+        "Ocorreu um erro ao carregar o ficheiro ${ formattedFilename }. O tamanho máximo de ficheiro é ${ MAX_IMPORT_FILE_SIZE_STRING }."
+      ],
+      "An error occurred uploading your file ${ formattedFilename }. Only ICS file formats are allowed.": [
+        "Ocorreu um erro ao enviar o seu ficheiro ${ formattedFilename }. Só são permitidos formatos ICS."
+      ],
+      "An error occurred uploading your file. No file has been selected.": [
+        "Ocorreu um erro ao carregar o ficheiro. Nenhum ficheiro seleccionado."
+      ],
+      "An unexpected error occurred. Import must be restarted.": [
+        "Ocorreu um erro inesperado. A importação tem de ser reiniciada."
+      ],
+      "Your file ${ formattedFilename } contains more than ${ MAX_IMPORT_EVENTS_STRING } event.": [
+        "O ficheiro ${ formattedFilename } contém mais de ${ MAX_IMPORT_EVENTS_STRING } evento.",
+        "O ficheiro ${ formattedFilename } contém mais de ${ MAX_IMPORT_EVENTS_STRING } eventos."
+      ],
+      "Your file ${ formattedFilename } has no events to be imported.": [
+        "O ficheiro ${ formattedFilename } não tem eventos para importar."
+      ],
+      "Your file ${ formattedFilename } is empty.": [
+        "O ficheiro ${ formattedFilename } está vazio."
+      ],
+      "Your file ${ formattedFilename } is not a calendar.": [
+        "O ficheiro ${ formattedFilename } não é uma agenda."
+      ]
+    },
+    "Error importing contact": {
+      "Encryption failed": [
+        "Falha ao encriptar"
+      ],
+      "vCard versions < 3.0 not supported": [
+        "Versões vCard < 3.0 não suportadas"
+      ]
+    },
+    "Error importing contacts": {
+      "An error occurred reading your file ${ formattedFilename }. File doesn't have the right format.": [
+        "Ocorreu um erro ao ler o ficheiro ${ formattedFilename }. O formato está errado."
+      ],
+      "An error occurred uploading your file ${ formattedFilename }. Maximum file size is ${ MAX_IMPORT_FILE_SIZE_STRING }.": [
+        "Ocorreu um erro ao carregar o ficheiro ${ formattedFilename }. O tamanho máximo de ficheiro é ${ MAX_IMPORT_FILE_SIZE_STRING }."
+      ],
+      "An error occurred uploading your file ${ formattedFilename }. No .csv or .vcf file selected": [
+        "Ocorreu um erro ao enviar o ficheiro ${ formattedFilename }. Nenhum ficheiro .csv ou .vcf seleccionado"
+      ],
+      "An error occurred uploading your file. No file has been selected.": [
+        "Ocorreu um erro ao carregar o ficheiro. Nenhum ficheiro seleccionado."
+      ],
+      "Your file ${ formattedFilename } contains more than ${ MAX_IMPORT_CONTACTS_STRING } contacts.": [
+        "O ficheiro ${ formattedFilename } contém mais de ${ MAX_IMPORT_CONTACTS_STRING } contactos."
+      ],
+      "Your file ${ formattedFilename } has no contacts to be imported.": [
+        "O ficheiro ${ formattedFilename } não tem contactos para importar."
+      ],
+      "Your file ${ formattedFilename } is empty.": [
+        "O ficheiro ${ formattedFilename } está vazio."
+      ]
+    },
+    "Error importing event": {
+      "Bad format. Component cannot be read.": [
+        "Formato errado. O componente não pode ser lido."
+      ],
+      "Calendar": [
+        "Agenda"
+      ],
+      "Component with wrong format": [
+        "Componente com formato errado"
+      ],
+      "Custom timezone": [
+        "Fuso horário personalizado"
+      ],
+      "Edited event not supported": [
+        "Evento editado não suportado"
+      ],
+      "Element": [
+        "Elemento"
+      ],
+      "Encryption failed": [
+        "Falha ao encriptar"
+      ],
+      "End time out of bounds": [
+        "Hora final fora dos limites"
+      ],
+      "Event": [
+        "Evento"
+      ],
+      "Event validation failed": [
+        "Falha ao validar o evento"
+      ],
+      "Floating times not supported": [
+        "Não são suportadas horas flutuantes"
+      ],
+      "Free-busy time information": [
+        "Informação de tempo livre/ocupado"
+      ],
+      "Invalid event": [
+        "Evento inválido"
+      ],
+      "Journal entry": [
+        "Entrada de diário"
+      ],
+      "Malformed all-day event": [
+        "Evento de dia inteiro mal formado"
+      ],
+      "Malformed end time": [
+        "Hora final mal formada"
+      ],
+      "Malformed recurring event": [
+        "Evento recorrente mal formado"
+      ],
+      "Malformed start time": [
+        "Hora inicial mal formada"
+      ],
+      "Missing start time": [
+        "Hora inicial em falta"
+      ],
+      "Non-Gregorian": [
+        "Não-gregoriano"
+      ],
+      "Notification out of bounds": [
+        "Notificação fora dos limites"
+      ],
+      "Original recurring event could not be found": [
+        "O evento recorrente original não pôde ser encontrado"
+      ],
+      "Recurring rule not supported": [
+        "Regra recorrente não suportada"
+      ],
+      "Start time out of bounds": [
+        "Hora inicial fora dos limites"
+      ],
+      "Timezone": [
+        "Fuso horário"
+      ],
+      "To-do entry": [
+        "Entrada de tarefas"
+      ],
+      "Unknown": [
+        "Desconhecido"
+      ],
+      "Unsupported event": [
+        "Evento não suportado"
+      ]
+    },
+    "Error message": {
+      "Access denied": [
+        "Acesso negado"
+      ],
+      "Brace yourself till we get the error fixed.": [
+        "Aguente-se até que o erro seja corrigido."
+      ],
+      "Error: ${ errorMessage }": [
+        "Erro: ${ errorMessage }"
+      ],
+      "Internal server error": [
+        "Erro interno do servidor"
+      ],
+      "Not found": [
+        "Não encontrado"
+      ],
+      "Oops, something went wrong": [
+        "Ups. Algo correu mal"
+      ],
+      "Please ${ refresh } or check your connection.": [
+        "Por favor ${ refresh } ou verifique a sua ligação."
+      ],
+      "You may also ${ refresh } or try again later.": [
+        "Também pode ${ refresh } ou tentar mais tarde."
+      ],
+      "You may also refresh the page or try again later.": [
+        "Também pode actualizar a página ou tentar de novo mais tarde."
+      ]
+    },
+    "Error notification": {
+      "First name and last name cannot be unchecked at the same time": [
+        "Não pode desmarcar o primeiro nome e o apelido ao mesmo tempo"
+      ]
+    },
+    "Error notification in the bug report modal when the user upload file": {
+      "No image selected": [
+        "Nenhuma imagem seleccionada"
+      ]
+    },
+    "Event invitation error": {
+      "Attached ICS file could not be decrypted": [
+        "O ficheiro ICS anexado não pôde ser desencriptado"
+      ],
+      "Invalid invitation": [
+        "Convite inválido"
+      ],
+      "Invalid response": [
+        "Resposta inválida"
+      ],
+      "Unsupported invitation": [
+        "Convite não suportado"
+      ],
+      "Unsupported response": [
+        "Resposta não suportada"
+      ],
+      "We could not cancel the event in your calendar": [
+        "Impossível cancelar o evento na sua agenda"
+      ],
+      "We could not retrieve the event from your calendar": [
+        "Impossível obter o evento da sua agenda"
+      ],
+      "We could not update the event in your calendar": [
+        "Impossível actualizar o evento na sua agenda"
+      ],
+      "Your answer was sent, but the event could not be added to your calendar": [
+        "A sua resposta foi enviada, mas o evento não pôde ser adicionado à sua agenda"
+      ]
+    },
+    "Event title": {
+      "(no title)": [
+        "(sem título)"
+      ]
+    },
+    "file size format": {
+      "byte": [
+        "byte",
+        "bytes"
+      ],
+      "GB": [
+        "GB"
+      ],
+      "KB": [
+        "KB"
+      ],
+      "MB": [
+        "MB"
+      ]
+    },
+    "file size format, long": {
+      "Byte": [
+        "Byte",
+        "Bytes"
+      ],
+      "Gigabyte": [
+        "Gigabyte",
+        "Gigabytes"
+      ],
+      "Kilobyte": [
+        "Kilobyte",
+        "Kilobytes"
+      ],
+      "Megabyte": [
+        "Megabyte",
+        "Megabytes"
+      ]
+    },
+    "Filter notification": {
+      "${ Label.Name } updated": [
+        "${ Label.Name } actualizada"
+      ]
+    },
+    "Group": {
+      "Account": [
+        "Conta"
+      ],
+      "Apps": [
+        "Aplicações"
+      ],
+      "Network": [
+        "Rede"
+      ],
+      "Other category": [
+        "Outra categoria"
+      ],
+      "Services": [
+        "Serviços"
+      ]
+    },
+    "Header": {
+      "Contacts": [
+        "Contactos"
+      ],
+      "Contacts, groups and settings": [
+        "Contactos, grupos e definições"
+      ],
+      "Get help": [
+        "Obter ajuda"
+      ]
+    },
+    "Hint": {
+      "Found ${ items.length } suggestion, use keyboard to navigate.": [
+        "Encontrada ${ items.length } sugestão, use o teclado para navegar.",
+        "Encontradas ${ items.length } sugestões, use o teclado para navegar."
+      ],
+      "Use Up and Down keys to access and browse suggestions after input. Press Enter to confirm your choice, or Escape to close the suggestions box.": [
+        "Use as setas Acima e Abaixo para aceder e procurar sugestões após a entrada. Prima Enter para confirmar a sua escolha ou Esc para fechar a caixa de sugestões."
+      ]
+    },
+    "Human verification method": {
+      "CAPTCHA": [
+        "CAPTCHA"
+      ],
+      "Email": [
+        "Email"
+      ],
+      "Manual": [
+        "Manual"
+      ],
+      "No verification method available": [
+        "Nenhum método de verificação disponível"
+      ],
+      "SMS": [
+        "SMS"
+      ]
+    },
+    "Import calendar": {
+      "${ totalImported }/${ totalToImport } event encrypted and added to your calendar": [
+        "${ totalImported }/${ totalToImport } evento encriptado e adicionado à agenda",
+        "${ totalImported }/${ totalToImport } eventos encriptados e adicionados à agenda"
+      ],
+      "An error occurred while encrypting and adding your event. ${ totalImported } out of ${ totalToImport } event successfully imported.": [
+        "Ocorreu um erro ao encriptar e adicionar o seu evento. ${ totalImported } de ${ totalToImport } evento importado.",
+        "Ocorreu um erro ao encriptar e adicionar os seus eventos. ${ totalImported } de ${ totalToImport } eventos importados com sucesso."
+      ],
+      "Encrypting and adding contacts: ${ totalImported }/${ totalToImport }": [
+        "A encriptar e adicionar contactos: ${ totalImported }/${ totalToImport }"
+      ],
+      "Encrypting and adding events to your calendar: ${ totalImported }/${ totalToImport }": [
+        "Encriptar e adicionar eventos à agenda: ${ totalImported }/${ totalToImport }"
+      ],
+      "Please don't close the tab before the importing process is finished.": [
+        "Por favor, não feche o separador antes de o processo de importação terminar."
+      ]
+    },
+    "Import calendar warning": {
+      "${ CALENDAR_APP_NAME } currently does not support certain event types, details and formats.": [
+        "${ CALENDAR_APP_NAME } atualmente não oferece suporte para alguns tipos de eventos, detalhes e formatos."
+      ],
+      "vCard versions < 3.0": [
+        "Versões vCard < 3.0"
+      ]
+    },
+    "Import calendar; import invitation": {
+      "This file contains an event invitation:": [
+        "Este ficheiro contém um convite para um evento:",
+        "Este ficheiro contém convites para um evento:"
+      ],
+      "This file contains an invitation response:": [
+        "Este ficheiro contém uma resposta de convite:",
+        "Este arquivo contém respostas a convites:"
+      ]
+    },
+    "Import contact": {
+      "${ totalImported }/${ totalToImport } contact encrypted and added to your contact list": [
+        "${ totalImported }/${ totalToImport } contacto encriptado e adicionado à lista de contactos",
+        "${ totalImported }/${ totalToImport } contactos encriptados e adicionados à lista de contactos"
+      ]
+    },
+    "Import contact error": {
+      "Contact ${ contactId }: ": [
+        "Contacto ${ contactId }: "
+      ]
+    },
+    "Import contact groups info": {
+      "${ totalContacts } contact": [
+        "${ totalContacts } contacto",
+        "${ totalContacts } contactos"
+      ]
+    },
+    "Import contact. Contact identifier": {
+      "unknown": [
+        "desconhecido"
+      ]
+    },
+    "Import contacts warning": {
+      "for now": [
+        "por agora"
+      ]
+    },
+    "Import error": {
+      "2-step verification is enabled in your external account.": [
+        "A verificação em 2 passos está ativada na sua conta externa."
+      ],
+      "Too many recent requests. Please try again in a few moments.": [
+        "Demasiados pedidos recentes. Por favor, tente mais tarde."
+      ],
+      "Use your app password if:": [
+        "Use a senha da aplicação se:"
+      ],
+      "Use your app password instead of your regular password if:": [
+        "Use a senha da aplicação em vez da sua senha normal se:"
+      ],
+      "Your email account requires one to export your data.": [
+        "A sua conta de e-mail requer uma para exportar os seus dados."
+      ],
+      "Your password is correct.": [
+        "A sua senha está correta."
+      ]
+    },
+    "Import error emphasis": {
+      "not": [
+        "não"
+      ]
+    },
+    "Import instructions emphasis": {
+      "Account info": [
+        "Informação da conta"
+      ],
+      "Account security": [
+        "Segurança da conta"
+      ],
+      "Export": [
+        "Exportar"
+      ]
+    },
+    "Import instructions link": {
+      "app password": [
+        "senha da aplicação"
+      ],
+      "ICS file": [
+        "Ficheiro ICS"
+      ],
+      "Yahoo": [
+        "Yahoo"
+      ]
+    },
+    "Import provider": {
+      "Other": [
+        "Outro"
+      ]
+    },
+    "Import warning": {
+      "${ totalContactsDiscarded } out of ${ totalContacts } contacts will not be imported. Click for details": [
+        "${ totalContactsDiscarded } de ${ totalContacts } contactos não serão importados. Clique para detalhes"
+      ],
+      "${ totalEventsDiscarded } out of ${ totalEvents } event will not be imported. Expand for details.": [
+        "${ totalEventsDiscarded } de ${ totalEvents } evento não será importado. Expanda para detalhes.",
+        "${ totalEventsDiscarded } de ${ totalEvents } eventos não serão importados. Expanda para detalhes."
+      ],
+      "No contact can be imported. Click for details": [
+        "Nenhum contacto pode ser importado. Clique para detalhes"
+      ],
+      "No event can be imported. Expand for details.": [
+        "Nenhum evento pode ser importado. Expande para detalhes."
+      ],
+      "Part of your calendar content is not supported and will not be imported.": [
+        "Parte do conteúdo da sua agenda não é suportado e não será importado."
+      ]
+    },
+    "Info": {
+      "${ addressCount } email address": [
+        "${ addressCount } endereço de email",
+        "${ addressCount } endereços de email"
+      ],
+      "${ appName } needs your permission to ${ enableDesktopNotifications }.": [
+        "O ${ appName } precisa da sua permissão para ${ enableDesktopNotifications }."
+      ],
+      "${ calendarsToBeCreatedCount } new calendar": [
+        "${ calendarsToBeCreatedCount } nova agenda",
+        "${ calendarsToBeCreatedCount } novas agendas"
+      ],
+      "${ calendarsToBeMerged } merged calendar": [
+        "${ calendarsToBeMerged } agenda unida",
+        "${ calendarsToBeMerged } agendas unidas"
+      ],
+      "${ calendarsToBeMergedCount } merged calendar": [
+        "${ calendarsToBeCreatedCount } agenda unida",
+        "${ calendarsToBeCreatedCount } agendas unidas"
+      ],
+      "${ canceledCount } canceled": [
+        "${ canceledCount } cancelado",
+        "${ canceledCount } cancelados"
+      ],
+      "${ contactCount } contact contains multiple email addresses.": [
+        "${ contactCount } contacto contém vários endereços de e-mail.",
+        "${ contactCount } contactos contêm vários endereços de e-mail."
+      ],
+      "${ contactEmailsLength } Member": [
+        "${ contactEmailsLength } membro",
+        "${ contactEmailsLength } membros"
+      ],
+      "${ contactName } contains multiple email addresses.": [
+        "${ contactName } contém vários endereços de correio eletrónico."
+      ],
+      "${ contactsCount } contact found": [
+        "${ contactsCount } contacto encontrado",
+        "${ contactsCount } contactos encontrados"
+      ],
+      "${ doneCount } finished": [
+        "${ doneCount } terminado",
+        "${ doneCount } terminados"
+      ],
+      "${ doneDownloadsCount } downloaded": [
+        "${ doneDownloadsCount } transferido",
+        "${ doneDownloadsCount } transferidos"
+      ],
+      "${ doneUploadsCount } uploaded": [
+        "${ doneUploadsCount } enviado",
+        "${ doneUploadsCount } enviados"
+      ],
+      "${ errorCount } failed": [
+        "${ errorCount } falhado",
+        "${ errorCount } falhados"
+      ],
+      "${ groupCounts } group found": [
+        "${ groupCounts } grupo encontrado",
+        "${ groupCounts } grupos encontrados"
+      ],
+      "${ numContactGroups } contact group": [
+        "${ numContactGroups } grupo de contatos",
+        "${ numContactGroups } grupos de contatos"
+      ],
+      "${ numContacts } contact": [
+        "${ numContacts } contacto",
+        "${ numContacts } contactos"
+      ],
+      "${ pausedCount } paused": [
+        "${ pausedCount } pausado",
+        "${ pausedCount } pausados"
+      ],
+      "${ providerFoldersNumLocalized } folder found": [
+        "${ providerFoldersNumLocalized } pasta encontrada",
+        "${ providerFoldersNumLocalized } pastas encontradas"
+      ],
+      "${ providerFoldersNumLocalized } label found in Gmail": [
+        "${ providerFoldersNumLocalized } etiqueta encontrada no Gmail",
+        "${ providerFoldersNumLocalized } etiquetas encontradas no Gmail"
+      ],
+      "${ selectedCalendarsTotal } of ${ providerCalendars.length } calendar": [
+        "${ selectedCalendarsTotal } de ${ providerCalendars.length } agenda",
+        "${ selectedCalendarsTotal } de ${ providerCalendars.length } agendas"
+      ],
+      "${ selectedFoldersCount } folder selected": [
+        "${ selectedFoldersCount } pasta selecionada",
+        "${ selectedFoldersCount } pastas selecionadas"
+      ],
+      "${ selectedFoldersCount } label selected": [
+        "${ selectedFoldersCount } etiqueta selecionada",
+        "${ selectedFoldersCount } etiquetas selecionadas"
+      ],
+      "${ selectedFoldersCountLocalized } folder selected": [
+        "${ selectedFoldersCountLocalized } pasta seleccionada",
+        "${ selectedFoldersCountLocalized } pastas seleccionadas"
+      ],
+      "${ selectedFoldersCountLocalized } label selected": [
+        "${ selectedFoldersCountLocalized } etiqueta seleccionada",
+        "${ selectedFoldersCountLocalized } etiquetas seleccionadas"
+      ],
+      "${ speed }/s": [
+        "${ speed }/s"
+      ],
+      "${ updated } contact updated successfully.": [
+        "${ updated } contacto actualizado com sucesso.",
+        "${ updated } contactos actualizados com sucesso."
+      ],
+      "${ uploadName } already exists in this location.": [
+        "${ uploadName } já existe neste local."
+      ],
+      "(${ memberCount } member)": [
+        "(${ memberCount } membro)",
+        "(${ memberCount } membros)"
+      ],
+      "A number will be added to the filename": [
+        "Será adicionado um número ao nome do ficheiro"
+      ],
+      "A number will be added to the folder name": [
+        "Será adicionado um número ao nome da pasta"
+      ],
+      "Account access restricted due to unpaid invoices. Please contact your administrator.": [
+        "Acesso à conta restringido devido a facturas por pagar. Por favor, contacte o administrador."
+      ],
+      "Address Verification with Trusted Keys is enabled for this address. To be able to send to this address, first trust public keys that can be used for sending.": [
+        "Está activada a verificação de endereço com chaves confiadas para este endereço. Para poder enviar para este endereço, primeiro confie nas chaves públicas que podem ser usadas para enviar."
+      ],
+      "All (${ totalFoldersCount } folder)": [
+        "Tudo (${ totalFoldersCount } pasta)",
+        "Tudo (${ totalFoldersCount } pastas)"
+      ],
+      "All (${ totalFoldersCount } label)": [
+        "Tudo (${ totalFoldersCount } etiqueta)",
+        "Tudo (${ totalFoldersCount } etiquetas)"
+      ],
+      "All your changes will be lost.": [
+        "Todas as suas alterações serão perdidas."
+      ],
+      "and": [
+        "e"
+      ],
+      "Anyone with this link can access your file.": [
+        "Qualquer pessoa com esta ligação terá acesso ao ficheiro."
+      ],
+      "Are you sure you want to discard your changes?": [
+        "Tem a certeza de que deseja descartar as alterações?"
+      ],
+      "Are you sure you want to empty trash and permanently delete all the items?": [
+        "Tem a certeza de que deseja esvaziar o lixo e eliminar permanentemente todos os itens?"
+      ],
+      "Before requesting a new verification code, check your spam folder and check that ${ strong } is the correct address.": [
+        "Antes de pedir um novo código de verificação, verifique a sua pasta de spam’ e verifique que ${ strong } é o endereço correto."
+      ],
+      "Canceled": [
+        "Cancelado"
+      ],
+      "Cannot remember your password? We can help you clear the encrypted data of all contacts encrypted with this key and in the process dismiss the alert.": [
+        "Não se lembra da senha? Podemos ajudá-lo a limpar os dados encriptados de todos os contactos encriptados com esta chave e no processo descartar o alerta."
+      ],
+      "Checking contact ${ progress } of ${ max }...": [
+        "A verificar contacto ${ progress } de ${ max }..."
+      ],
+      "Clear data": [
+        "Limpar dados"
+      ],
+      "Click \"Request new code\" to have a new verification code sent to ${ strong }. If this phone number is incorrect, click \"Edit\" to correct it.": [
+        "Clique em \"Pedir novo código\" para receber um novo código de verificação em ${ strong }. Se o telefone estiver incorrecto, clique em \"Editar\" para o corrigir."
+      ],
+      "Conflict": [
+        "Conflito"
+      ],
+      "Create ${ calendarsToBeCreated } new calendar": [
+        "Criar ${ calendarsToBeCreated } nova agenda",
+        "Criar ${ calendarsToBeCreated } novas agendas"
+      ],
+      "Create a label for the imported messages, a time range for this import, and the folders you would like to import.": [
+        "Escolha uma etiqueta para as mensagens importadas, um intervalo de tempo para a importação e as pastas que deseja importar."
+      ],
+      "Create a label for the imported messages, a time range for this import, and the labels you would like to import.": [
+        "Crie uma etiqueta para as mensagens importadas, um intervalo de tempo para esta importação e as etiquetas que deseja importar."
+      ],
+      "Create a new contact group": [
+        "Criar novo grupo de contactos"
+      ],
+      "Create links and share your files with others.": [
+        "Crie ligações e partilhe ficheiros com outros."
+      ],
+      "Create your first folder and start moving your files.": [
+        "Crie a sua primeira pasta e comece a mover os seus ficheiros."
+      ],
+      "Creating link to file": [
+        "A criar ligação ao ficheiro"
+      ],
+      "Downloaded": [
+        "Transferido"
+      ],
+      "Downloading": [
+        "A transferir"
+      ],
+      "Drop the file here to upload": [
+        "Largue o ficheiro aqui para enviar"
+      ],
+      "Duplicate key updated": [
+        "Chave duplicada actualizada"
+      ],
+      "Enter the credentials of the email account you want to import from.": [
+        "Insira as credenciais da conta de email da qual deseja importar."
+      ],
+      "Enter the verification code that was sent to ${ destinationText }.": [
+        "Insira o código de verificação que foi enviado para ${ destinationText }."
+      ],
+      "Enter verification code. Digit ${ digit }.": [
+        "Introduzir o código de verificação. Digite ${ digit }."
+      ],
+      "Enter your own password (as organization admin).": [
+        "Insira a sua senha (como administrador da organização)."
+      ],
+      "Estimated time remaining: ${ estimatedMinutes } minute": [
+        "Tempo restante estimado: ${ estimatedMinutes } minuto",
+        "Tempo restante estimado: ${ estimatedMinutes } minutos"
+      ],
+      "Estimated time remaining: Less than a minute": [
+        "Tempo restante estimado: menos de um minuto"
+      ],
+      "Estimating time remaining...": [
+        "A estimar o tempo restante..."
+      ],
+      "Failed": [
+        "Falhado"
+      ],
+      "Failed to generate a secure link. Try again later.": [
+        "Falha ao gerar uma ligação segura. Tente novamente mais tarde."
+      ],
+      "File will not be uploaded": [
+        "O ficheiro não será enviado"
+      ],
+      "Finalizing": [
+        "A finalizar"
+      ],
+      "Folder contents will merge into a single folder": [
+        "O conteúdo da pasta será unido numa única pasta"
+      ],
+      "Folder will not be uploaded": [
+        "A pasta não será enviada"
+      ],
+      "Folders you sync from your computer will appear here.": [
+        "As pastas do seu computador que você sincronizar aparecerão aqui."
+      ],
+      "Free up some space or add more storage space.": [
+        "Liberte algum espaço ou adicione mais espaço de armazenamento."
+      ],
+      "Free up some space or contact your administrator.": [
+        "Liberte algum espaço ou contacte um administrador."
+      ],
+      "Go to \"My files\" and upload some files first.": [
+        "Vá a \"Os meus ficheiros\" e envie alguns primeiro."
+      ],
+      "Group assignment applied": [
+        "Atribuição de grupo aplicada"
+      ],
+      "here": [
+        "aqui"
+      ],
+      "If you are having trouble creating your account, please request an invitation and we will respond within one business day.": [
+        "Se tiver problemas ao criar a conta, por favor solicite um convite e responderemos dentro de um dia útil."
+      ],
+      "If you believe this is in error, please contact us ${ contactLink }.": [
+        "Se acredita que houve um erro, por favor, contacte-nos em ${ contactLink }."
+      ],
+      "If you don't find the email in your inbox, please check your spam folder.": [
+        "Se não encontrar o e-mail na sua caixa de entrada, verifique a pasta de spam."
+      ],
+      "Import ${ selectedCalendarsCount } of ${ totalCalendarsCount } calendar": [
+        "Importar ${ selectedCalendarsCount } de ${ totalCalendarsCount } agenda",
+        "Importar ${ selectedCalendarsCount } de ${ totalCalendarsCount } agendas"
+      ],
+      "Import from": [
+        "Importar de"
+      ],
+      "Import in progress": [
+        "Importação em curso"
+      ],
+      "Import mailbox": [
+        "Importar caixa de correio"
+      ],
+      "Importing your data from ${ importedEmailAddress } to ${ toEmail }.": [
+        "Importando os seus dados de ${ importedEmailAddress } para ${ toEmail }."
+      ],
+      "Inherited from parent folder": [
+        "Herança da pasta-mãe"
+      ],
+      "Initializing": [
+        "A inicializar"
+      ],
+      "Internet connection lost": [
+        "Ligação à Internet perdida"
+      ],
+      "Internet connection lost. Please check your device's connectivity.": [
+        "Ligação à Internet perdida. Verifique a ligação do seu dispositivo."
+      ],
+      "Internet connection restored.": [
+        "Ligação à Internet reposta."
+      ],
+      "Key fingerprint": [
+        "Impressão digital da chave"
+      ],
+      "Label all imported messages as": [
+        "Etiquetar todas as mensagens importadas como"
+      ],
+      "Labels:": [
+        "Etiquetas:"
+      ],
+      "Large imports can take several days.": [
+        "As importações grandes podem demorar vários dias."
+      ],
+      "Learn more": [
+        "Saiba mais"
+      ],
+      "Link copied to clipboard": [
+        "Ligação copiada para a área de transferência"
+      ],
+      "Loading": [
+        "A carregar"
+      ],
+      "Loading ${ appName }": [
+        "A carregar ${ appName }"
+      ],
+      "Loading preview": [
+        "A carregar antevisão"
+      ],
+      "Loading...": [
+        "A carregar..."
+      ],
+      "Merged": [
+        "Unido"
+      ],
+      "More": [
+        "Mais"
+      ],
+      "Moving files": [
+        "A mover ficheiros"
+      ],
+      "My Links": [
+        "As minhas ligações"
+      ],
+      "Name your new folder and select the parent folder you want to put it in. If you do not select a parent folder, this new folder will be created as a top level folder.": [
+        "Nomeie a sua nova pasta e seleccione a pasta-mãe onde deseja colocá-la. Se não seleccionar uma pasta-mãe, esta nova pasta será criada como uma pasta de nível superior."
+      ],
+      "Network issue": [
+        "Problema de rede"
+      ],
+      "No": [
+        "Não"
+      ],
+      "No contacts added yet": [
+        "Ainda não adicionou contactos"
+      ],
+      "No email address": [
+        "Sem endereço de email"
+      ],
+      "No files or folders in trash": [
+        "Não há ficheiros/pastas no lixo"
+      ],
+      "No group found": [
+        "Nenhum grupo encontrado"
+      ],
+      "No preview available": [
+        "Antevisão indisponível"
+      ],
+      "No results found": [
+        "Nenhum resultado"
+      ],
+      "No synced folders": [
+        "Nenhuma pasta sincronizada"
+      ],
+      "Not a valid URL": [
+        "Não é um URL válido"
+      ],
+      "of": [
+        "de"
+      ],
+      "Only the people with the link and the password can access this file.": [
+        "Só as pessoas com a ligação e a senha podem aceder ao ficheiro."
+      ],
+      "Paused": [
+        "Em pausa"
+      ],
+      "Please note that addresses assigned to this group will NOT be deleted.": [
+        "Por favor, note que os endereços atribuídos a este grupo NÃO serão eliminados."
+      ],
+      "Please note that this process may take some time depending on the size of your address book.": [
+        "Por favor, note que este processo pode levar algum tempo dependendo do tamanho do seu livro de endereços."
+      ],
+      "Please select the folders you would like to import:": [
+        "Por favor, selecione as pastas que deseja importar:"
+      ],
+      "Please select which email address or addresses to add to ${ groupCount } group.": [
+        "Por favor, selecione os endereços eletrónicos a adicionar ao grupo ${ groupCount }.",
+        "Por favor, selecione os endereços eletrónicos a adicionar aos grupos ${ groupCount }."
+      ],
+      "Please select which email address or addresses to add to ${ groupName }.": [
+        "Por favor, selecione os endereços eletrónicos a adicionar a ${ groupName }."
+      ],
+      "Please wait while we look for contacts that can be re-signed with the primary encryption key.": [
+        "Por favor, aguarde enquanto procuramos contactos que possam ser re-assinados com a chave de encriptação principal."
+      ],
+      "Please wait while we look for contacts that contain data encrypted with the inactive key.": [
+        "Por favor, aguarde enquanto procuramos contactos que contenham dados encriptados com a chave inactiva."
+      ],
+      "Preparing link to file": [
+        "A preparar ligação ao ficheiro"
+      ],
+      "Preview": [
+        "Antever"
+      ],
+      "Primary": [
+        "Principal"
+      ],
+      "Queued": [
+        "Em espera"
+      ],
+      "Recovery process might take some time.": [
+        "O processo de recuperação pode levar algum tempo."
+      ],
+      "Refreshing the page or ${ link } will automatically resolve most issues.": [
+        "Actualizar a página ou ${ link } resolve automaticamente a maioria dos problemas."
+      ],
+      "Select the email format you want to be used by default when sending an email to this email address.": [
+        "Seleccione o formato de email predefinido a utilizar para este endereço de email."
+      ],
+      "Session timed out": [
+        "A sessão expirou."
+      ],
+      "Setting up PGP allows you to send end-to-end encrypted emails with a non-${ BRAND_NAME } user that uses a PGP compatible service.": [
+        "A configuração do PGP permite o envio de correios eletrónicos encriptados de ponta-a-ponta com um utilizador não${ BRAND_NAME } que utilize um serviço compatível com PGP."
+      ],
+      "Share files with links": [
+        "Partilhe ficheiros com ligações"
+      ],
+      "Signature issue": [
+        "Problema de assinatura"
+      ],
+      "Something went wrong, please try again later.": [
+        "Algo correu mal. Por favor, tente mais tarde."
+      ],
+      "support team": [
+        "equipa de assistência"
+      ],
+      "The application needs to locally decrypt your contacts before they can be exported. At the end of the process, a VCF file will be generated and you will be able to download it.": [
+        "Temos de desencriptar localmente os seus contactos antes que os possa exportar. No final do processo, será gerado um ficheiro VCF e poderá transferi-lo."
+      ],
+      "There are no files yet": [
+        "Ainda não há ficheiros"
+      ],
+      "This account has been suspended due to a potential policy violation.": [
+        "Esta conta foi suspensa devido a uma potencial violação da política."
+      ],
+      "This address is disabled. To be able to send to this address, the owner must first enable the address.": [
+        "Este endereço está desactivado. Para poder enviar para este endereço, o proprietário tem de activar primeiro o endereço."
+      ],
+      "This browser does not support previewing PDF documents. Please download the file.": [
+        "Este navegador não suporta a antevisão de documentos PDF. Por favor, transfira o ficheiro."
+      ],
+      "This link may be a homograph attack. Please verify this is the link you wish to visit, or don't open it.": [
+        "Esta ligação pode ser um ataque homográfico. Por favor, verifique se esta é a ligação que deseja visitar, ou não a abra."
+      ],
+      "This link will be permanently disabled. No one with this link will be able to access your file. To reshare the file, you will need a new link.": [
+        "A ligação será permanentemente desactivada. Ninguém poderá aceder ao ficheiro com ela. Para voltar a partilhá-lo, precisará de uma nova ligação."
+      ],
+      "This will overwrite the existing file": [
+        "Isto vai sobrescrever o ficheiro existente"
+      ],
+      "This will overwrite the existing folder": [
+        "Isto vai sobrescrever a pasta existente"
+      ],
+      "To fight spam and abuse, please verify you are human.": [
+        "Para combater o spam e abusos, confirme que é um ser humano."
+      ],
+      "To re-sign your contacts, we need to check every contact against the list of encryption keys available in your account. If no match is found, your contact will be re-signed with the primary encryption key.": [
+        "Para assinar novamente os contactos, temos de os verificar todos contra a lista de chaves de encriptação disponíveis na conta. Se não houver correspondências, o contacto será assinado de novo com a chave principal."
+      ],
+      "To recover your data, you need to re-activate the contact encryption key used at the time when the data was created. This will require you to remember the password used when the key was generated.": [
+        "Para recuperar os seus dados, é necessário reactivar a chave de encriptação do contacto, usada quando os dados foram criados. Isto requer que se lembre da senha usada quando a chave foi gerada."
+      ],
+      "To use Address Verification, you must trust one or more available public keys, including the one you want to use for sending. This prevents the encryption keys from being faked.": [
+        "Para usar a verificação de endereço, tem de confiar numa ou mais chaves públicas disponíveis, incluindo a que pretende utilizar para envio. Isto impede que as chaves de encriptação sejam falsificadas."
+      ],
+      "Trash": [
+        "Lixo"
+      ],
+      "Unsupported file": [
+        "Ficheiro não suportado"
+      ],
+      "Uploaded": [
+        "Enviado"
+      ],
+      "Uploading": [
+        "A enviar"
+      ],
+      "Uploading hundreds of files at once may have a performance impact.": [
+        "Enviar centenas de ficheiros de uma só vez pode ter impacto no desempenho."
+      ],
+      "Use Drive for Desktop to sync folders on your computer with ${ DRIVE_APP_NAME }. They’ll show up here and be accessible from anywhere. ${ LearnMore }": [
+        "Utilize o Drive para Desktop para sincronizar pastas no seu computador com ${ DRIVE_APP_NAME }. Elas aparecerão aqui e serão acessíveis a partir de qualquer ponto. ${ LearnMore }"
+      ],
+      "We'll send a new verification code to ${ strong }": [
+        "Enviaremos um novo código de verificação para ${ strong }"
+      ],
+      "Week": [
+        "Semana"
+      ],
+      "What do you want to do?": [
+        "O que deseja fazer?"
+      ],
+      "What would you like to do?": [
+        "O que gostaria de fazer?"
+      ],
+      "Would you like to receive a new verification code or use an alternative verification method?": [
+        "Deseja receber um novo código de verificação ou usar um método de verificação alternativo?"
+      ],
+      "Would you like to restore your files?": [
+        "Deseja restaurar os seus ficheiros?"
+      ],
+      "Yes": [
+        "Sim"
+      ],
+      "You are about to open another browser tab and visit:": [
+        "Está prestes a abrir outro separador no navegador e visitar:"
+      ],
+      "You are currently signed in as ${ user.Name } (${ user.Email }).": [
+        "Tem atualmente sessão iniciada como ${ user.Name } (${ user.Email })."
+      ],
+      "You can turn on notifications to get alerts when new email messages arrive in this folder.": [
+        "Pode activar as notificações para receber alertas quando novas mensagens chegarem a esta pasta."
+      ],
+      "You cannot undo this action.": [
+        "Esta acção não pode ser desfeita."
+      ],
+      "You reached ${ spaceDisplayed }% of your storage capacity. ${ freeUpMessage } ${ upgradeLink }": [
+        "Atingiu ${ spaceDisplayed }% da sua capacidade de armazenamento. ${ freeUpMessage } ${ upgradeLink }"
+      ],
+      "You reached 100% of your storage capacity. You cannot send or receive new emails. ${ freeUpMessage } ${ upgradeLink }": [
+        "Atingiu os 100% da sua capacidade de armazenamento. Não pode enviar ou receber novos emails. ${ freeUpMessage } ${ upgradeLink }"
+      ],
+      "You will lose all unsaved changes.": [
+        "Perderá todas as alterações por gravar."
+      ],
+      "Your ${ BRAND_NAME } account is currently suspended. After 28 days, emails will no longer be delivered to your inbox, your Drive sharing links will be blocked, and you will not be able to upload new files. To resume normal service, please pay any overdue invoices.": [
+        "A sua conta ${ BRAND_NAME } de momento está suspensa. Após 28 dias, os emails deixarão de ser entregues na sua caixa de entrada, as suas ligações de partilha de disco serão bloqueadas, e não poderá carregar novos ficheiros. Para retomar o serviço normal, por favor pague quaisquer faturas em atraso."
+      ],
+      "Your account has at least one overdue invoice. Your access will soon get restricted. ${ payInvoiceLink }": [
+        "A sua conta tem pelo menos uma factura em atraso. O acesso em breve será restrito. ${ payInvoiceLink }"
+      ],
+      "Your email will only be used for this one-time verification.": [
+        "O seu email só será usado para esta verificação única."
+      ],
+      "Your files will be encrypted and then saved.": [
+        "Os seus ficheiros serão encriptados e gravados."
+      ],
+      "Your import will not be processed.": [
+        "A sua importação não será processada."
+      ],
+      "Your login information will not be saved after the import is completed.": [
+        "A informação de início de sessão não será gravada após concluir a importação."
+      ],
+      "Your phone number will only be used for this one-time verification.": [
+        "O seu telefone só será usado para esta verificação única."
+      ]
+    },
+    "Info on errors": {
+      "Click for details": [
+        "Clique para detalhes"
+      ]
+    },
+    "Key badge": {
+      "Compromised": [
+        "Comprometida"
+      ],
+      "Expired": [
+        "Expirada"
+      ],
+      "Obsolete": [
+        "Obsoleta"
+      ],
+      "Primary": [
+        "Primária"
+      ],
+      "Revoked": [
+        "Revogada"
+      ],
+      "Trusted": [
+        "Confiada"
+      ],
+      "WKD": [
+        "WKD"
+      ]
+    },
+    "Label": {
+      "(Expired)": [
+        "(expirou)"
+      ],
+      "Add email address": [
+        "Adicionar endereço de email"
+      ],
+      "Add image URL": [
+        "Adicionar URL da imagem"
+      ],
+      "Add to group": [
+        "Adicionar ao grupo"
+      ],
+      "App password": [
+        "Senha da aplicação"
+      ],
+      "Apply to all duplicated files": [
+        "Aplicar a todos os ficheiros duplicados"
+      ],
+      "Apply to all duplicated folders": [
+        "Aplicar a todas as pastas duplicadas"
+      ],
+      "Attach screenshot(s)": [
+        "Anexar capturas de ecrã"
+      ],
+      "Audio file": [
+        "Ficheiro de som"
+      ],
+      "Automatically save contacts": [
+        "Gravar contactos automaticamente"
+      ],
+      "Awful": [
+        "Horrível"
+      ],
+      "Bad": [
+        "Mau"
+      ],
+      "Browser": [
+        "Navegador"
+      ],
+      "Browser version": [
+        "Versão do navegador"
+      ],
+      "Cancel download": [
+        "Cancelar transferência"
+      ],
+      "Category": [
+        "Categoria"
+      ],
+      "City": [
+        "Cidade"
+      ],
+      "Contacts": [
+        "Contactos"
+      ],
+      "Copy": [
+        "Copiar"
+      ],
+      "Country": [
+        "País"
+      ],
+      "Created": [
+        "Criada"
+      ],
+      "Delete": [
+        "Eliminar"
+      ],
+      "Delete drive?": [
+        "Eliminar unidade?",
+        "Eliminar unidades?"
+      ],
+      "Deleted": [
+        "Eliminado"
+      ],
+      "Do not ask again": [
+        "Não perguntar novamente"
+      ],
+      "Email": [
+        "Email"
+      ],
+      "Email address": [
+        "Endereço de email"
+      ],
+      "Email format": [
+        "Formato do email"
+      ],
+      "Enable Beta Access": [
+        "Activar acesso Beta"
+      ],
+      "Encrypt emails": [
+        "Encriptar emails"
+      ],
+      "Expired": [
+        "Expirado"
+      ],
+      "Expires": [
+        "Expira"
+      ],
+      "Export contacts": [
+        "Exportar contactos"
+      ],
+      "Extended address": [
+        "Endereço completo"
+      ],
+      "File": [
+        "Ficheiro"
+      ],
+      "File name": [
+        "Nome do ficheiro"
+      ],
+      "Folder": [
+        "Pasta"
+      ],
+      "Folder location": [
+        "Localização da pasta"
+      ],
+      "Folder name": [
+        "Nome da pasta"
+      ],
+      "From: ${ importedEmail }": [
+        "De: ${ importedEmail }"
+      ],
+      "Good": [
+        "Bom"
+      ],
+      "Hide password": [
+        "Ocultar senha"
+      ],
+      "Image": [
+        "Imagem"
+      ],
+      "Import contacts": [
+        "Importar contactos"
+      ],
+      "Import to email address": [
+        "Importar para endereço de email"
+      ],
+      "Import to:": [
+        "Importar para:"
+      ],
+      "Label messages as": [
+        "Etiquetar mensagens como"
+      ],
+      "Location": [
+        "Localização"
+      ],
+      "Mail Server (IMAP)": [
+        "Servidor de email (IMAP)"
+      ],
+      "Mailbox password": [
+        "Senha da caixa de correio"
+      ],
+      "Manage categories": [
+        "Gerir categorias"
+      ],
+      "Merge a folder": [
+        "Unir uma pasta"
+      ],
+      "Modified": [
+        "Modificado"
+      ],
+      "Move to Archive": [
+        "Mover para Arquivo"
+      ],
+      "Move to Inbox": [
+        "Mover para Caixa de entrada"
+      ],
+      "Name": [
+        "Nome"
+      ],
+      "Never": [
+        "Nunca"
+      ],
+      "Notification": [
+        "Notificação"
+      ],
+      "OK": [
+        "Aceitar"
+      ],
+      "Operating system": [
+        "Sistema operativo"
+      ],
+      "Operating system version": [
+        "Versão do sistema operativo"
+      ],
+      "Other": [
+        "Outro"
+      ],
+      "Password": [
+        "Senha"
+      ],
+      "Phone number": [
+        "Número de telefone"
+      ],
+      "Port": [
+        "Porta"
+      ],
+      "Post office box": [
+        "Apartado"
+      ],
+      "Postal code": [
+        "Código postal"
+      ],
+      "Protect with password": [
+        "Proteger com senha"
+      ],
+      "Public keys": [
+        "Chaves públicas"
+      ],
+      "Region": [
+        "Região"
+      ],
+      "Replace file": [
+        "Substituir ficheiro"
+      ],
+      "Replace folder": [
+        "Substituir pasta"
+      ],
+      "Reveal password": [
+        "Mostrar senha"
+      ],
+      "Set expiration date": [
+        "Definir data de validade"
+      ],
+      "Sign emails": [
+        "Assinar emails"
+      ],
+      "Size": [
+        "Tamanho"
+      ],
+      "Skip file": [
+        "Saltar ficheiro"
+      ],
+      "Skip folder": [
+        "Saltar pasta"
+      ],
+      "Spam": [
+        "Spam"
+      ],
+      "Street address": [
+        "Endereço postal"
+      ],
+      "System information": [
+        "Informação do sistema"
+      ],
+      "Text": [
+        "Texto"
+      ],
+      "To: ${ emailAddress }": [
+        "Para: ${ emailAddress }"
+      ],
+      "Two-factor authentication code": [
+        "Código de autenticação em dois passos"
+      ],
+      "Type": [
+        "Tipo"
+      ],
+      "Unknown file": [
+        "Ficheiro desconhecido"
+      ],
+      "Upload anyway": [
+        "Enviar mesmo assim"
+      ],
+      "Upload file": [
+        "Enviar ficheiro"
+      ],
+      "Upload picture": [
+        "Enviar imagem"
+      ],
+      "Verification code": [
+        "Código de verificação"
+      ],
+      "Video file": [
+        "Ficheiro de vídeo"
+      ],
+      "What happened?": [
+        "O que é que aconteceu?"
+      ],
+      "Your password (admin)": [
+        "A sua senha (admin)"
+      ]
+    },
+    "Label for contact group color": {
+      "Color": [
+        "Cor"
+      ]
+    },
+    "Label for contact group name": {
+      "Name": [
+        "Nome"
+      ]
+    },
+    "Label/folder modal": {
+      "Create folder": [
+        "Criar pasta"
+      ],
+      "Create label": [
+        "Criar etiqueta"
+      ],
+      "Edit folder": [
+        "Editar pasta"
+      ],
+      "Edit label": [
+        "Editar etiqueta"
+      ]
+    },
+    "label/folder notification": {
+      "${ Label.Name } created": [
+        "${ Label.Name } criada"
+      ]
+    },
+    "Landmarks": {
+      "Side panel": [
+        "Painel lateral"
+      ]
+    },
+    "Link": {
+      "clearing your browser cache": [
+        "limpar a memória do navegador"
+      ],
+      "Learn more": [
+        "Saiba mais"
+      ],
+      "Pay invoice": [
+        "Pagar factura"
+      ],
+      "Request an invite": [
+        "Pedir um convite"
+      ],
+      "Shared": [
+        "Partilhado"
+      ],
+      "Trash": [
+        "Lixo"
+      ],
+      "Upgrade account": [
+        "Actualizar conta"
+      ],
+      "What’s this?": [
+        "O que é isto?"
+      ]
+    },
+    "Loading info": {
+      "Connecting to your email provider": [
+        "A ligar ao seu fornecedor de correio electrónico"
+      ],
+      "Creating new calendars": [
+        "A criar as novas agendas"
+      ]
+    },
+    "Message display when a new app version is available": {
+      "A new version of ${ appName } is available. ${ reloadButton }.": [
+        "Está disponível uma nova versão de ${ appName }. ${ reloadButton }."
+      ]
+    },
+    "MIME type": {
+      "Automatic": [
+        "Automático"
+      ],
+      "Plain text": [
+        "Texto simples"
+      ]
+    },
+    "Modal title": {
+      "How to import calendars from another service": [
+        "Como importar agendas de outro serviço"
+      ],
+      "How to import calendars from Yahoo": [
+        "Como importar agendas do Yahoo"
+      ],
+      "How to import contacts from another service": [
+        "Como importar contatos de outro serviço"
+      ],
+      "How to import contacts from Yahoo": [
+        "Como importar contatos do Yahoo"
+      ],
+      "How to import emails from another service": [
+        "Como importar e-mails de outro serviço"
+      ],
+      "How to import emails from Yahoo": [
+        "Como importar e-mails do Yahoo"
+      ]
+    },
+    "New Label form": {
+      "Color": [
+        "Cor"
+      ],
+      "Folder name": [
+        "Nome da pasta"
+      ],
+      "Label name": [
+        "Nome da etiqueta"
+      ]
+    },
+    "new_plans: action": {
+      "Switch or add account": [
+        "Trocar ou adicionar conta"
+      ]
+    },
+    "Notification": {
+      "\"${ name }\" created successfully": [
+        "\"${ name }\" criado com sucesso"
+      ],
+      "\"${ name }\" deleted permanently from trash": [
+        "\"${ name }\" permanentemente eliminado do lixo"
+      ],
+      "\"${ name }\" failed to be created": [
+        "Falha ao criar \"${ name }\""
+      ],
+      "\"${ name }\" failed to be moved": [
+        "Falha ao mover \"${ name }\""
+      ],
+      "\"${ name }\" moved to trash": [
+        "\"${ name }\" movido para o lixo"
+      ],
+      "\"${ name }\" restored from trash": [
+        "\"${ name }\" restaurado do lixo"
+      ],
+      "\"${ name }\" successfully moved": [
+        "\"${ name }\" movido com sucesso"
+      ],
+      "\"${ newName }\" failed to be renamed": [
+        "Falha ao renomear \"${ newName }\""
+      ],
+      "\"${ newName }\" renamed successfully": [
+        "\"${ newName }\" renomeado com sucesso"
+      ],
+      "All items will soon be permanently deleted from trash": [
+        "Todos os itens serão permanentemente eliminados do lixo"
+      ],
+      "Contact group created": [
+        "Grupo de contactos criado"
+      ],
+      "Contact group updated": [
+        "Grupo de contactos actualizado"
+      ],
+      "Failed to move, please try again": [
+        "Falha ao mover, por favor tente novamente"
+      ],
+      "Move ${ itemsToMoveCount } file": [
+        "Mover ${ itemsToMoveCount } ficheiro",
+        "Mover ${ itemsToMoveCount } ficheiros"
+      ],
+      "Move ${ itemsToMoveCount } folder": [
+        "Mover ${ itemsToMoveCount } pasta",
+        "Mover ${ itemsToMoveCount } pastas"
+      ],
+      "Move ${ itemsToMoveCount } item": [
+        "Mover ${ itemsToMoveCount } item",
+        "Mover ${ itemsToMoveCount } itens"
+      ],
+      "Move ${ movingCount } file": [
+        "Mover ${ movingCount } ficheiro",
+        "Mover ${ movingCount } ficheiros"
+      ],
+      "Move ${ movingCount } folder": [
+        "Mover ${ movingCount } pasta",
+        "Mover ${ movingCount } pastas"
+      ],
+      "Move ${ movingCount } item": [
+        "Mover ${ movingCount } item",
+        "Mover ${ movingCount } itens"
+      ]
+    },
+    "Onboarding Action": {
+      "Next": [
+        "Seguinte"
+      ]
+    },
+    "Onboarding Proton": {
+      "Configure your organization, link your domain name, and create accounts to ensure all members of your organization are protected.": [
+        "Configure a sua organização, vincule o seu nome de domínio e crie contas para garantir que todos os membros da sua organização estão protegidos."
+      ],
+      "Select a theme": [
+        "Seleccionar um tema"
+      ],
+      "Set up your organization": [
+        "Configure a sua organização"
+      ],
+      "Use the app selector in the top left to access all ${ BRAND_NAME } services: ${ MAIL_SHORT_APP_NAME }, ${ VPN_SHORT_APP_NAME }, ${ CALENDAR_SHORT_APP_NAME } and ${ DRIVE_SHORT_APP_NAME }.": [
+        "Utilize o seletor de aplicações no canto superior esquerdo para aceder a todos os serviços ${ BRAND_NAME }: ${ MAIL_SHORT_APP_NAME }, ${ VPN_SHORT_APP_NAME }, ${ CALENDAR_SHORT_APP_NAME } e ${ DRIVE_SHORT_APP_NAME }."
+      ],
+      "You can change this anytime in your settings.": [
+        "Pode alterar isto a qualquer momento nas definições."
+      ]
+    },
+    "Option": {
+      "Add to existing group": [
+        "Adicionar a um grupo existente"
+      ],
+      "Create new group": [
+        "Criar novo grupo"
+      ],
+      "Ignore group": [
+        "Ignorar grupo"
+      ],
+      "No parent folder": [
+        "Nenhuma pasta-mãe"
+      ]
+    },
+    "Option group label": {
+      "Create new calendar": [
+        "Criar nova agenda"
+      ],
+      "Merge with calendar": [
+        "Unir com agenda"
+      ]
+    },
+    "Participant name": {
+      "You": [
+        "Você"
+      ]
+    },
+    "PGP key encryption warning": {
+      "Key cannot be used for encryption": [
+        "A chave não pode ser usada para encriptar"
+      ]
+    },
+    "PGP key warning": {
+      "Email address not found among user ids defined in sending key (${ keyUserIds })": [
+        "Endereço de email não encontrado entre as IDs de utilizador definidas na chave de envio (${ keyUserIds })"
+      ]
+    },
+    "Placeholder": {
+      "A way to contact you": [
+        "Uma forma de o contactar"
+      ],
+      "E.g., ": [
+        "E.g., "
+      ],
+      "Enter a new folder name": [
+        "Insira um nome para a pasta"
+      ],
+      "Filter groups": [
+        "Filtrar grupos"
+      ],
+      "Group name": [
+        "Nome do grupo"
+      ],
+      "Image URL": [
+        "URL da imagem"
+      ],
+      "Mailbox password": [
+        "Senha da caixa de correio"
+      ],
+      "Name": [
+        "Nome"
+      ],
+      "Name or email address": [
+        "Nome ou endereço de email"
+      ],
+      "New name": [
+        "Novo nome"
+      ],
+      "Password": [
+        "Senha"
+      ],
+      "Please describe the problem and include any error messages": [
+        "Por favor, descreva o problema e inclua quaisquer mensagens de erro"
+      ],
+      "Search for group name": [
+        "Procurar grupo pelo nome"
+      ],
+      "Search for name or email": [
+        "Procurar por nome ou email"
+      ],
+      "Select": [
+        "Selecionar"
+      ],
+      "Start typing an email address": [
+        "Comece a escrever um endereço de email"
+      ]
+    },
+    "Placeholder for contact group name": {
+      "Name": [
+        "Nome"
+      ]
+    },
+    "Progress bar description": {
+      "${ contactsExported.length } out of ${ countContacts } contact successfully exported.": [
+        "${ contactsExported.length } de ${ countContacts } contacto exportado.",
+        "${ contactsExported.length } de ${ countContacts } contactos exportados."
+      ],
+      "${ model.deleted.length } out of ${ totalBeDeleted } contact successfully deleted.": [
+        "${ model.deleted.length } de ${ totalBeDeleted } contacto eliminado com sucesso.",
+        "${ model.deleted.length } de ${ totalBeDeleted } contactos eliminados com sucesso."
+      ],
+      "${ model.submitted.length } out of ${ totalBeMerged } contact successfully merged.": [
+        "${ model.submitted.length } de ${ totalBeMerged } contacto unido com sucesso.",
+        "${ model.submitted.length } de ${ totalBeMerged } contactos unidos com sucesso."
+      ],
+      "No contacts exported.": [
+        "Nenhum contacto exportado."
+      ],
+      "No contacts merged.": [
+        "Nenhum contacto unido."
+      ],
+      "Progress: ${ combinedProgress }%": [
+        "Progresso: ${ combinedProgress }%"
+      ]
+    },
+    "Property type": {
+      "Address": [
+        "Endereço"
+      ],
+      "Email": [
+        "Email"
+      ],
+      "Fax": [
+        "Fax"
+      ],
+      "Home": [
+        "Casa"
+      ],
+      "Main": [
+        "Principal"
+      ],
+      "Mobile": [
+        "Telemóvel"
+      ],
+      "Other": [
+        "Outro"
+      ],
+      "Pager": [
+        "Pager"
+      ],
+      "Phone": [
+        "Telefone"
+      ],
+      "Work": [
+        "Trabalho"
+      ]
+    },
+    "Refresh on apply warning": {
+      "Note: the service will reload after you click the Apply button.": [
+        "Nota: o serviço será recarregado após clicar em \"Aplicar\"."
+      ]
+    },
+    "Select files": {
+      "Upload": [
+        "Enviar"
+      ]
+    },
+    "Side panel spotlight": {
+      "Manage your contacts and view your calendar without leaving your app.": [
+        "Administre os seus contactos e veja o seu calendário sem sair da sua aplicação."
+      ],
+      "Try the new side panel": [
+        "Experimente o novo painel lateral"
+      ]
+    },
+    "Storage": {
+      "Release notes": [
+        "Notas de lançamento"
+      ],
+      "Upgrade storage": [
+        "Actualizar armazenamento"
+      ],
+      "Your current storage:": [
+        "O seu armazenamento actual:"
+      ]
+    },
+    "Success": {
+      "${ countMergeableContacts } contact look identical.": [
+        "${ countMergeableContacts } contacto parece idêntico.",
+        "${ countMergeableContacts } contactos parecem idênticos."
+      ],
+      "Address copied to clipboard": [
+        "Endereço copiado para a área de transferência"
+      ],
+      "Bug reported": [
+        "Erro reportado"
+      ],
+      "Code sent to ${ methodTo }": [
+        "Código enviado para ${ methodTo }"
+      ],
+      "Contact deleted": [
+        "Contacto eliminado",
+        "Contactos eliminados"
+      ],
+      "Contact group deleted": [
+        "Grupo de contactos eliminado",
+        "Grupos de contactos eliminados"
+      ],
+      "Contact saved": [
+        "Contacto gravado"
+      ],
+      "Contacts deleted": [
+        "Contactos eliminados"
+      ],
+      "Email address copied to clipboard": [
+        "Endereço copiado para a área de transferência"
+      ],
+      "Fingerprint copied to clipboard": [
+        "Impressão digital copiada para a área de transferência"
+      ],
+      "Import record deleted": [
+        "Registo de importação eliminado"
+      ],
+      "Phone number copied to clipboard": [
+        "Número de telefone copiado para a área de transferência"
+      ],
+      "Preference saved": [
+        "Preferência gravada"
+      ],
+      "Preferences saved": [
+        "Preferências gravadas"
+      ],
+      "Verification successful": [
+        "Verificação com sucesso"
+      ]
+    },
+    "Table header": {
+      "Action": [
+        "Acção"
+      ],
+      "Actions": [
+        "Acções"
+      ],
+      "Address": [
+        "Endereço"
+      ],
+      "Created": [
+        "Criada"
+      ],
+      "Expires": [
+        "Expira"
+      ],
+      "Fingerprint": [
+        "Impressão digital"
+      ],
+      "Name": [
+        "Nome"
+      ],
+      "Status": [
+        "Estado"
+      ],
+      "Type": [
+        "Tipo"
+      ]
+    },
+    "TableHeader": {
+      "Actions": [
+        "Acções"
+      ],
+      "Address": [
+        "Endereço"
+      ],
+      "CSV field": [
+        "Campo CSV"
+      ],
+      "Import": [
+        "Importar"
+      ],
+      "Name": [
+        "Nome"
+      ],
+      "Values": [
+        "Valores"
+      ],
+      "vCard field": [
+        "Campo vCard"
+      ]
+    },
+    "Text": {
+      "Settings": [
+        "Definições"
+      ]
+    },
+    "Title": {
+      "${ emailsCount } member": [
+        "${ emailsCount } membro",
+        "${ emailsCount } membros"
+      ],
+      "Account suspended": [
+        "Conta suspensa"
+      ],
+      "Add contact group name": [
+        "Adicionar nome do grupo de contactos"
+      ],
+      "Add to ${ groupCount } group": [
+        "Adicionar a ${ groupCount } grupo",
+        "Adicionar a ${ groupCount } grupos"
+      ],
+      "Add to ${ groupName }": [
+        "Adicionar a ${ groupName }"
+      ],
+      "Addresses": [
+        "Endereços"
+      ],
+      "All": [
+        "Todos"
+      ],
+      "Back": [
+        "Recuar"
+      ],
+      "Beta Access": [
+        "Acesso Beta"
+      ],
+      "Change layout": [
+        "Alterar disposição"
+      ],
+      "Clearing data": [
+        "A limpar os dados"
+      ],
+      "Contact details": [
+        "Detalhes do contacto"
+      ],
+      "Contact Details": [
+        "Detalhes do contacto"
+      ],
+      "Contact group": [
+        "Grupo de contactos"
+      ],
+      "Contacts": [
+        "Contactos"
+      ],
+      "Continue with partial import?": [
+        "Continue com uma importação parcial?"
+      ],
+      "Create a new folder": [
+        "Criar uma nova pasta"
+      ],
+      "Create contact": [
+        "Criar contacto"
+      ],
+      "Create new group": [
+        "Criar novo grupo"
+      ],
+      "Currency": [
+        "Moeda"
+      ],
+      "Date": [
+        "Data"
+      ],
+      "Delete ${ count } contact": [
+        "Eliminar ${ count } contacto",
+        "Eliminar ${ count } contactos"
+      ],
+      "Delete ${ count } contact group": [
+        "Eliminar ${ count } grupo de contactos",
+        "Eliminar ${ count } grupos de contactos"
+      ],
+      "Delete ${ Name }": [
+        "Eliminar ${ Name }"
+      ],
+      "Delete permanently": [
+        "Eliminar permanentemente"
+      ],
+      "Deleting contacts": [
+        "A eliminar contactos"
+      ],
+      "Discard": [
+        "Descartar"
+      ],
+      "Discard changes?": [
+        "Descartar alterações?"
+      ],
+      "Drive": [
+        "Unidade"
+      ],
+      "Drop to upload": [
+        "Solte para enviar"
+      ],
+      "Duplicate file found": [
+        "Encontrado ficheiro duplicado"
+      ],
+      "Duplicate folder found": [
+        "Encontrada pasta duplicada"
+      ],
+      "Edit contact": [
+        "Editar contacto"
+      ],
+      "Edit contact group": [
+        "Editar grupo de contactos"
+      ],
+      "Edit email settings": [
+        "Editar definições de correio"
+      ],
+      "Edit image": [
+        "Editar imagem"
+      ],
+      "Email addresses": [
+        "Endereços de email"
+      ],
+      "Email settings": [
+        "Definições de email"
+      ],
+      "Empty trash": [
+        "Esvaziar lixo"
+      ],
+      "Enter your password": [
+        "Insira a sua senha"
+      ],
+      "Enter your username or ${ MAIL_APP_NAME } email address": [
+        "Insira o seu nome de utilizador ou endereço ${ MAIL_APP_NAME }"
+      ],
+      "Exporting contacts": [
+        "A exportar contactos"
+      ],
+      "Failed": [
+        "Falhado"
+      ],
+      "Feedback": [
+        "Comentários"
+      ],
+      "File details": [
+        "Detalhes do ficheiro"
+      ],
+      "File recovery process": [
+        "Processo de recuperação de ficheiro"
+      ],
+      "Files details": [
+        "Detalhes dos ficheiros"
+      ],
+      "Folder details": [
+        "Detalhes da pasta"
+      ],
+      "Groups": [
+        "Grupos"
+      ],
+      "Human verification": [
+        "Verificação humana"
+      ],
+      "Import as simple event?": [
+        "Importar com um evento simples?",
+        "Importar com eventos simples?"
+      ],
+      "Import contacts": [
+        "Importar contactos"
+      ],
+      "Import events": [
+        "Importar eventos"
+      ],
+      "Import failed": [
+        "Falha na importação"
+      ],
+      "Invalid verification code": [
+        "Código de verificação inválido"
+      ],
+      "Link confirmation": [
+        "Confirmação de hiperligação"
+      ],
+      "Location": [
+        "Localização"
+      ],
+      "Manage secure link": [
+        "Gerir ligação segura"
+      ],
+      "Merge contacts": [
+        "Unir contactos"
+      ],
+      "Merging contacts": [
+        "A unir contactos"
+      ],
+      "MIME type": [
+        "Tipo MIME"
+      ],
+      "Modified": [
+        "Modificado"
+      ],
+      "My files": [
+        "Os meus ficheiros"
+      ],
+      "Name": [
+        "Nome"
+      ],
+      "Number of files": [
+        "Número de ficheiros"
+      ],
+      "Open actions dropdown": [
+        "Abrir lista de acções"
+      ],
+      "Open help menu": [
+        "Abrir menu de ajuda"
+      ],
+      "Open settings menu": [
+        "Abrir menu de definições"
+      ],
+      "Other information": [
+        "Outra informação"
+      ],
+      "Other names": [
+        "Outros nomes"
+      ],
+      "Phone numbers": [
+        "Números de telefone"
+      ],
+      "Re-sign all contacts": [
+        "A re-assinar todos os contactos"
+      ],
+      "Re-signing contacts": [
+        "A re-assinar contactos"
+      ],
+      "Reconnect your account": [
+        "Religue a sua conta"
+      ],
+      "Recover data": [
+        "Recuperar dados"
+      ],
+      "Rename a file": [
+        "Renomear um ficheiro"
+      ],
+      "Rename a folder": [
+        "Renomear uma pasta"
+      ],
+      "Report a problem": [
+        "Relatar um problema"
+      ],
+      "Request new code": [
+        "Pedir novo código"
+      ],
+      "Restore your files": [
+        "Restaurar os seus ficheiros"
+      ],
+      "Select a theme": [
+        "Seleccionar um tema"
+      ],
+      "Select action to take on contact group": [
+        "Seleccionar acção a executar no grupo de contactos"
+      ],
+      "Select contact group": [
+        "Seleccionar grupo de contactos"
+      ],
+      "Select link expiration date": [
+        "Seleccionar data de validade da ligação"
+      ],
+      "Select link expiration time": [
+        "Seleccionar data de validade da ligação"
+      ],
+      "Send feedback": [
+        "Enviar comentários"
+      ],
+      "Settings": [
+        "Definições"
+      ],
+      "Share via link": [
+        "Partilhar por ligação"
+      ],
+      "Shared": [
+        "Partilhado"
+      ],
+      "Show actions": [
+        "Mostrar acções"
+      ],
+      "Sign out": [
+        "Terminar sessão"
+      ],
+      "Size": [
+        "Tamanho"
+      ],
+      "Sort files/folders": [
+        "Ordenar ficheiros/pastas"
+      ],
+      "Start a new import": [
+        "Iniciar nova importação"
+      ],
+      "Start import process": [
+        "Iniciar o processo de importação"
+      ],
+      "Stop sharing": [
+        "Parar a partilha"
+      ],
+      "Stop sharing with everyone?": [
+        "Parar de partilhar com todos?"
+      ],
+      "The link either does not exist or has expired": [
+        "A ligação não existe ou expirou"
+      ],
+      "Total size": [
+        "Tamanho total"
+      ],
+      "Trash": [
+        "Lixo"
+      ],
+      "Two-factor authentication": [
+        "Autenticação em dois passos"
+      ],
+      "Type": [
+        "Tipo"
+      ],
+      "Upgrade required": [
+        "Actualização requerida"
+      ],
+      "Uploaded": [
+        "Enviado"
+      ],
+      "Uploaded by": [
+        "Enviado por"
+      ],
+      "View contacts": [
+        "Ver contactos"
+      ],
+      "Warning": [
+        "Aviso"
+      ],
+      "Warning: suspected fake website": [
+        "Aviso: suspeita de sítio web falso"
+      ],
+      "What's new": [
+        "O que há de novo"
+      ],
+      "You have inaccessible files": [
+        "Tem ficheiros inacessíveis"
+      ],
+      "You have no files to share": [
+        "Não tem ficheiros para partilhar"
+      ],
+      "You have no folders yet": [
+        "Ainda não tem pastas"
+      ]
+    },
+    "Today icon tooltip in mini calendar": {
+      "Today": [
+        "Hoje"
+      ]
+    },
+    "Tooltip": {
+      "Automatic indicates that the format in the composer is used to send to this user. Plain text indicates that the message will always be converted to plain text on send.": [
+        "Automático indica que o formato no compositor é usado para enviar para este utilizador. Texto simples indica que a mensagem será sempre convertida para texto simples ao enviar."
+      ],
+      "Customize import to reduce the number of folders": [
+        "Personalize a importação para reduzir o número de pastas"
+      ],
+      "Customize import to reduce the number of labels": [
+        "Personalize a importação para reduzir o número de etiquetas"
+      ],
+      "Digitally signing emails helps authenticating that messages are sent by you": [
+        "Assinar digitalmente emails ajuda a confirmar que as mensagens são enviadas por si"
+      ],
+      "Edit folder names": [
+        "Editar nomes de pastas"
+      ],
+      "Edit label names": [
+        "Editar nomes de etiqueta"
+      ],
+      "Email encryption forces email signature to help authenticate your sent messages": [
+        "A encriptação do email força a assinatura para ajudar a autenticar as suas mensagens enviadas"
+      ],
+      "Encrypted data with verified digital signature": [
+        "Dados encriptados com assinatura digital verificada"
+      ],
+      "Hide side panel": [
+        "Ocultar o painel lateral"
+      ],
+      "Select the PGP scheme to be used when signing or encrypting to a user. Note that PGP/Inline forces plain text messages": [
+        "Seleccione o esquema PGP a usar ao assinar ou encriptar para um utilizador. Note que o PGP/incorporado força o envio de mensagens em texto simples"
+      ],
+      "Show side panel": [
+        "Mostrar o painel lateral"
+      ],
+      "The import will start with the most recent messages.": [
+        "A importação começará com as mensagens mais recentes."
+      ],
+      "Upload a public key to enable sending end-to-end encrypted emails to this email": [
+        "Envie uma chave pública para permitir o envio de emails encriptados ponta-a-ponta para este email"
+      ],
+      "You do not have any contacts to export": [
+        "Não tem contactos para exportar"
+      ]
+    },
+    "Validation": {
+      "Password must contain at least ${ length } character": [
+        "A senha deve conter pelo menos ${ length } carácter",
+        "A senha deve conter pelo menos ${ length } caracteres"
+      ]
+    },
+    "Validation Error": {
+      "\"${ str }\" is not a valid name": [
+        "\"${ str }\" não é um nome válido"
+      ],
+      "Name cannot include invisible characters, / or \\.": [
+        "O nome não pode incluir caracteres invisíveis, / ou \\."
+      ],
+      "Name must be ${ MAX_NAME_LENGTH } character long at most": [
+        "O nome deve ter no máximo ${ MAX_NAME_LENGTH } caracteres",
+        "O nome deve ter no máximo ${ MAX_NAME_LENGTH } caracteres"
+      ],
+      "Name must not be empty": [
+        "O nome não pode estar vazio"
+      ],
+      "Name must not begin with a space": [
+        "Nome não pode começar com um espaço"
+      ],
+      "Name must not end with a space": [
+        "O nome não pode terminar com um espaço"
+      ]
+    },
+    "Warning": {
+      "Are you sure you want to discard your import?": [
+        "Tem certeza de que deseja descartar a importação?"
+      ],
+      "Are you sure you want to permanently delete ${ count } contact group?": [
+        "Tem a certeza de que deseja eliminar permanentemente ${ count } grupo de contactos?",
+        "Tem a certeza de que deseja eliminar permanentemente ${ count } grupos de contactos?"
+      ],
+      "Are you sure you want to permanently delete ${ count } contact?": [
+        "Tem certeza de que deseja eliminar permanentemente ${ count } contacto?",
+        "Tem certeza de que deseja eliminar permanentemente ${ count } contactos?"
+      ],
+      "Are you sure you want to permanently delete this contact group?": [
+        "Tem a certeza de que deseja eliminar permanentemente este grupo de contactos?"
+      ],
+      "Are you sure you want to permanently delete this contact?": [
+        "Tem certeza de que deseja eliminar permanentemente este contacto?"
+      ],
+      "Contacts could not be merged": [
+        "Não foi possível unir os contactos"
+      ],
+      "If you don’t remember your password, it is impossible to re-activate your key. We can help you dismiss the alert banner but in the process you will permanently lose access to all the data encrypted with that key.": [
+        "Se não se lembra da senha, é impossível reactivar a chave. Podemos ajudar a descartar o alerta, mas no processo perderá permanentemente o acesso a todos os dados encriptados com esta chave."
+      ],
+      "Reports are not end-to-end encrypted, please do not send any sensitive information.": [
+        "Os relatórios não são encriptados de ponta-a-ponta. Por favor, não envie nenhuma informação sensível."
+      ],
+      "Some of the contacts to be merged display errors. Please review them individually": [
+        "Alguns dos contactos a unir mostram erros. Por favor, reveja-os individualmente"
+      ],
+      "The contact failed to load.": [
+        "Falha ao carregar o contacto."
+      ],
+      "The decryption of the encrypted content failed.": [
+        "Falha ao desencriptar o conteúdo encriptado."
+      ],
+      "The verification of the contact details' signature failed.": [
+        "Falha ao verificar a assinatura dos detalhes do contacto."
+      ],
+      "This action is irreversible. Please enter the word ${ boldDanger } in the field to proceed.": [
+        "Esta acção é irreversível. Por favor, insira a palavra ${ boldDanger } no campo para continuar."
+      ]
+    }
+  }
+}
