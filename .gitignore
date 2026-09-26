@@ -1,0 +1,16 @@
+build
+dist
+node_modules
+.idea
+.gradle
+test-ca
+**/.DS_STORE
+**/*.xcbkptlist
+**/*.xcuserstate
+**/xcuserdata
+fastlane
+android-app/app/release
+app-ios/releases
+native-cache
+test/native-cache
+test/testdatabase.sqlite
