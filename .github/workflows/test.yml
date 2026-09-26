@@ -1,0 +1,103 @@
+name: Unit Tests
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+  workflow_dispatch:
+
+env:
+  GO_VERSION: "1.24"
+  DAGGER_VERSION: "0.17.1"
+
+concurrency:
+  group: "${{ github.workflow }}-${{ github.head_ref || github.ref }}"
+  cancel-in-progress: true
+
+jobs:
+  test:
+    name: "Tests (Go)"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Run Unit Tests
+        uses: dagger/dagger-for-github@v7
+        with:
+          verb: call
+          version: ${{ env.DAGGER_VERSION }}
+          args: test --source . unit export --path coverage.txt
+
+      - name: Upload Coverage
+        uses: codecov/codecov-action@v5.4.2
+        with:
+          file: coverage.txt
+          flags: unittests
+          fail_ci_if_error: true
+          token: ${{ secrets.CODECOV_TOKEN }}
+
+  test-darwin:
+    name: "Tests (Go - Darwin)"
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-go@v5
+        with:
+          go-version: ${{ env.GO_VERSION }}
+          check-latest: true
+          cache: true
+
+      - name: Unit Test SQLite
+        env:
+          FLIPT_TEST_SHORT: "true"
+        run: go test -v -count=1 -timeout=60s -short ./...
+
+  ui:
+    name: "Tests (UI)"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "18"
+          cache: "npm"
+          cache-dependency-path: ui/package-lock.json
+
+      - name: Unit Test
+        run: |
+          npm ci
+          npm run test
+        working-directory: ui
+
+  install:
+    name: "Test Install Script"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Shellcheck
+        uses: reviewdog/action-shellcheck@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          reporter: github-pr-review
+          path: install.sh
+
+      - name: Install
+        run: |
+          chmod +x ./install.sh
+          ./install.sh
+
+  migration:
+    name: "Tests (Migration)"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Run Migration Tests
+        uses: dagger/dagger-for-github@v7
+        with:
+          verb: call
+          version: ${{ env.DAGGER_VERSION }}
+          args: test --source . migration
