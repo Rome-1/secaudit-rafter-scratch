@@ -1,0 +1,23 @@
+@import '~@proton/styles/scss/lib';
+@import '~@proton/pass/styles/lobby';
+
+.pass-lobby {
+	-webkit-app-region: drag;
+
+	&--content::before {
+		content: '';
+		display: block;
+		block-size: rem(100);
+		flex-shrink: 0;
+	}
+
+	&--content {
+		-webkit-app-region: no-drag;
+	}
+
+	&--logo {
+		&-hidden {
+			display: none;
+		}
+	}
+}

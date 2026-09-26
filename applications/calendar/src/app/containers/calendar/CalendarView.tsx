@@ -1,0 +1,151 @@
+import type { MutableRefObject, Ref, RefObject } from 'react';
+
+import { VIEWS } from '@proton/shared/lib/calendar/constants';
+import type { VisualCalendar } from '@proton/shared/lib/interfaces/calendar';
+
+import DayGrid from '../../components/calendar/DayGrid';
+import TimeGrid from '../../components/calendar/TimeGrid';
+import type { OnMouseDown } from '../../components/calendar/interactions/interface';
+import type { OpenedMailEvent } from '../../hooks/useGetOpenedMailEvents';
+import type { CalendarsEventsCache } from './eventStore/interface';
+import type { InteractiveState, SharedViewProps, TargetEventData, TargetMoreData, TimeGridRef } from './interface';
+import CalendarSearchView from './search/CalendarSearchView';
+
+const { DAY, WEEK, MONTH, MAIL, DRIVE, SEARCH } = VIEWS;
+
+interface Props extends SharedViewProps {
+    calendars: VisualCalendar[];
+    calendarsEventsCacheRef: MutableRefObject<CalendarsEventsCache>;
+    isInteractionEnabled?: boolean;
+    onMouseDown: OnMouseDown;
+    targetEventData?: TargetEventData;
+    setTargetEventRef: (targetEvent: HTMLElement | null) => void;
+    setInteractiveData: (state: InteractiveState) => void;
+    getOpenedMailEvents: () => OpenedMailEvent[];
+    targetMoreData?: TargetMoreData;
+    targetMoreRef: Ref<HTMLDivElement>;
+    isScrollDisabled: boolean;
+    timeGridViewRef: RefObject<TimeGridRef>;
+    weekdays: string[];
+    weekdaysSingle: string[];
+    formatTime: (date: Date) => string;
+    formatDate: (date: Date) => string;
+    isDrawerApp?: boolean;
+}
+const CalendarView = ({
+    calendars,
+    calendarsEventsCacheRef,
+    view,
+    isSmallViewport,
+
+    isInteractionEnabled,
+    onMouseDown,
+
+    tzid,
+    primaryTimezone,
+    secondaryTimezone,
+    secondaryTimezoneOffset,
+
+    targetEventData,
+    targetMoreData,
+    targetMoreRef,
+
+    setTargetEventRef,
+    setInteractiveData,
+    getOpenedMailEvents,
+
+    displayWeekNumbers,
+    displaySecondaryTimezone,
+
+    now,
+    date,
+    dateRange,
+    events,
+
+    onClickDate,
+    onChangeDate,
+    onClickToday,
+    timeGridViewRef,
+    isScrollDisabled,
+
+    weekdays,
+    weekdaysSingle,
+    formatTime,
+    formatDate,
+
+    isDrawerApp,
+    ...rest
+}: Props) => {
+    if ([DAY, WEEK, MAIL, DRIVE].includes(view)) {
+        return (
+            <TimeGrid
+                isSmallViewport={isSmallViewport}
+                tzid={tzid}
+                primaryTimezone={primaryTimezone}
+                secondaryTimezone={secondaryTimezone}
+                secondaryTimezoneOffset={secondaryTimezoneOffset}
+                isInteractionEnabled={isInteractionEnabled}
+                isScrollDisabled={isScrollDisabled}
+                onMouseDown={onMouseDown}
+                targetEventData={targetEventData}
+                targetEventRef={setTargetEventRef}
+                targetMoreRef={targetMoreRef}
+                targetMoreData={targetMoreData}
+                displaySecondaryTimezone={displaySecondaryTimezone}
+                now={now}
+                date={date}
+                dateRange={dateRange}
+                events={events}
+                formatTime={formatTime}
+                onClickDate={onClickDate}
+                onChangeDate={onChangeDate}
+                onClickToday={onClickToday}
+                actionRef={timeGridViewRef}
+                weekdays={weekdays}
+                weekdaysSingle={weekdaysSingle}
+                isDrawerApp={isDrawerApp}
+                {...rest}
+            />
+        );
+    }
+    if (view === MONTH) {
+        return (
+            <DayGrid
+                tzid={tzid}
+                isInteractionEnabled={isInteractionEnabled}
+                onMouseDown={onMouseDown}
+                targetEventData={targetEventData}
+                targetEventRef={setTargetEventRef}
+                targetMoreData={targetMoreData}
+                targetMoreRef={targetMoreRef}
+                displayWeekNumbers={displayWeekNumbers}
+                date={date}
+                dateRange={dateRange}
+                now={now}
+                events={events}
+                formatTime={formatTime}
+                formatDate={formatDate}
+                onClickDate={onClickDate}
+                weekdaysLong={weekdays}
+                {...rest}
+            />
+        );
+    }
+    if (view === SEARCH) {
+        return (
+            <CalendarSearchView
+                calendars={calendars}
+                calendarsEventsCacheRef={calendarsEventsCacheRef}
+                tzid={tzid}
+                date={date}
+                now={now}
+                setTargetEventRef={setTargetEventRef}
+                setInteractiveData={setInteractiveData}
+                getOpenedMailEvents={getOpenedMailEvents}
+            />
+        );
+    }
+    return null;
+};
+
+export default CalendarView;

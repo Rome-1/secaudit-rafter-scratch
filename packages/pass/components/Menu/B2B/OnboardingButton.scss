@@ -1,0 +1,52 @@
+.pass-onboarding-button {
+	--gradient-start: 100% 800%;
+	--gradient-end: 20% 280%;
+
+	& &--gradient {
+		color: var(--text-norm) !important;
+		border-radius: var(--border-radius-md);
+		padding: 1px;
+		background: radial-gradient(
+				var(--gradient-start) at var(--gradient-end),
+				#ffd580 0%,
+				#f6c592 9.37%,
+				#ebb6a2 20.5%,
+				#dfa5af 32.45%,
+				#d397be 42.87%,
+				#c486cb 53.37%,
+				#b578d9 64.87%,
+				#a166e5 77.12%,
+				#8b57f2 89.12%,
+				#704cff 100%
+			),
+			linear-gradient(267.92deg, rgb(246 197 146 / 0.7) 9.8%, rgb(167 121 255 / 0.7) 91.9%), #30284a;
+
+		&:hover {
+			--gradient-start: 100% 600%;
+			--gradient-end: 20% 350%;
+		}
+
+		> button {
+			border-radius: var(--border-radius-md);
+			color: var(--text-norm) !important;
+			background: rgb(0 0 0 / 0.5);
+		}
+
+		svg {
+			color: var(--text-norm) !important;
+		}
+	}
+
+	& &--active {
+		color: var(--interaction-norm-contrast) !important;
+
+		> button {
+			color: var(--interaction-norm-contrast) !important;
+			background: rgb(0 0 0 / 0);
+		}
+
+		svg {
+			color: var(--interaction-norm-contrast) !important;
+		}
+	}
+}

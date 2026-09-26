@@ -1,0 +1,2740 @@
+{
+  "headers": {
+    "plural-forms": "nplurals=1; plural=0;",
+    "language": "ja_JP"
+  },
+  "contexts": {
+    "Account Settings - Info": {
+      "${ name } and ${ remainingCount } other potential leaks detected. Turn on ${ DARK_WEB_MONITORING_NAME } to view details and take action. ${ link }": [
+        "${ name } および他 ${ remainingCount } 件の漏洩の可能性が検出されました。${ DARK_WEB_MONITORING_NAME } を有効にして詳細を表示し、アクションを実行してください。${ link }"
+      ],
+      "${ name } and 1 other potential leak detected. Turn on ${ DARK_WEB_MONITORING_NAME } to view details and take action. ${ link }": [
+        "${ name } および他 1 件の漏洩の可能性が検出されました。${ DARK_WEB_MONITORING_NAME } を有効にして詳細を表示し、アクションを実行してください。${ link }"
+      ],
+      "A potential ${ name } leak was detected. Turn on ${ DARK_WEB_MONITORING_NAME } to view details and take action. ${ link }": [
+        "${ name } の漏洩の可能性が検出されました。${ DARK_WEB_MONITORING_NAME } を有効にして詳細を表示し、アクションを実行してください。${ link }"
+      ],
+      "A potential leak from ${ name } was detected. Turn on ${ DARK_WEB_MONITORING_NAME } to view details and take action. ${ link }": [
+        "${ name } からの漏洩の可能性が検出されました。${ DARK_WEB_MONITORING_NAME } を有効にして詳細を表示し、アクションを実行してください。${ link }"
+      ],
+      "A potential leak from ${ name } was detected. Turn on ${ DARK_WEB_MONITORING_NAME } to view details. ${ link }": [
+        "${ name } からの漏洩の可能性が検出されました。${ DARK_WEB_MONITORING_NAME } を有効にして詳細を表示してください。${ link }"
+      ]
+    },
+    "Action": {
+      "Add": [
+        "追加"
+      ],
+      "Add current URL": [
+        "現在の URL を追加"
+      ],
+      "Add more": [
+        "さらに追加する"
+      ],
+      "Add new item": [
+        "新しいアイテムを追加"
+      ],
+      "Add username field": [
+        "ユーザー名フィールドを追加"
+      ],
+      "Admin panel": [
+        "管理者パネル"
+      ],
+      "Advanced": [
+        "詳細設定"
+      ],
+      "Advanced options": [
+        "詳細設定"
+      ],
+      "Authenticate": [
+        "認証"
+      ],
+      "Back": [
+        "戻る"
+      ],
+      "Bulk delete items from trash": [
+        "ごみ箱からアイテムを一括削除"
+      ],
+      "Bulk move items to another vault": [
+        "アイテムを別の 保管庫 に一括移動する"
+      ],
+      "Bulk move items to trash": [
+        "アイテムをごみ箱に一括移動"
+      ],
+      "Bulk restore items from trash": [
+        "ごみ箱からアイテムを一括復元"
+      ],
+      "Bulk select items": [
+        "項目を一括選択"
+      ],
+      "Cancel": [
+        "キャンセル"
+      ],
+      "Change": [
+        "変更"
+      ],
+      "Choose a file or drag it here": [
+        "ファイルを選択するかここにドラッグしてください"
+      ],
+      "Clear": [
+        "消去"
+      ],
+      "Clear search": [
+        "検索をクリア"
+      ],
+      "Close": [
+        "閉じる"
+      ],
+      "Close advanced options": [
+        "詳細設定を閉じる"
+      ],
+      "Close navigation": [
+        "ナビゲーションを閉じる"
+      ],
+      "Confirm": [
+        "確認"
+      ],
+      "Confirm access": [
+        "アクセスを確認する"
+      ],
+      "Continue": [
+        "続行"
+      ],
+      "Continue offline": [
+        "オフラインで続行"
+      ],
+      "Copy and close": [
+        "コピーして閉じる"
+      ],
+      "Copy link": [
+        "リンクをコピー"
+      ],
+      "Copy to clipboard": [
+        "クリップボードにコピー"
+      ],
+      "Create": [
+        "作成"
+      ],
+      "Create a ${ BRAND_NAME } account": [
+        "${ BRAND_NAME } アカウントを作成"
+      ],
+      "Create a new vault": [
+        "新しい保管庫を作成する"
+      ],
+      "Create a new vault to share": [
+        "共有する新しい保管庫を作成する"
+      ],
+      "Create alias": [
+        "エイリアスを作成"
+      ],
+      "Create card": [
+        "カードの作成"
+      ],
+      "Create login": [
+        "ログインを作成"
+      ],
+      "Create new items": [
+        "新規アイテムの作成"
+      ],
+      "Create note": [
+        "メモを作成"
+      ],
+      "Create vault": [
+        "保管庫を作成"
+      ],
+      "Creating vault": [
+        "保管庫を作成中"
+      ],
+      "Customize": [
+        "カスタマイズ"
+      ],
+      "Delete": [
+        "削除"
+      ],
+      "Delete alias": [
+        "エイリアスを削除"
+      ],
+      "Delete all": [
+        "すべて削除"
+      ],
+      "Delete password": [
+        "パスワードを削除"
+      ],
+      "Delete permanently": [
+        "完全に削除"
+      ],
+      "Delete vault": [
+        "保管庫を削除"
+      ],
+      "Deselect": [
+        "選択を解除"
+      ],
+      "Discard": [
+        "破棄"
+      ],
+      "Dismiss": [
+        "却下"
+      ],
+      "Download this CSV template": [
+        "この CSV テンプレートをダウンロード"
+      ],
+      "Edit": [
+        "編集"
+      ],
+      "Edit vault": [
+        "保管庫を編集"
+      ],
+      "Enable Dark Web Monitoring": [
+        "Dark Web Monitoring を有効にする"
+      ],
+      "Exclude from monitoring": [
+        "監視対象から除外する"
+      ],
+      "Export": [
+        "エクスポート"
+      ],
+      "Feedback": [
+        "フィードバック"
+      ],
+      "Fill password": [
+        "パスワードを入力"
+      ],
+      "Filter vault items": [
+        "保管庫のアイテムを絞り込む"
+      ],
+      "Generate alias": [
+        "エイリアスを生成"
+      ],
+      "Generate password": [
+        "パスワードを生成"
+      ],
+      "Generated passwords": [
+        "生成されたパスワード"
+      ],
+      "Get ${ PASS_APP_NAME }": [
+        "${ PASS_APP_NAME } を取得"
+      ],
+      "Get mobile apps": [
+        "モバイルアプリを入手する"
+      ],
+      "Get Pass Business": [
+        "Business Passを入手する"
+      ],
+      "Get Pass Plus": [
+        "Pass Plusを入手"
+      ],
+      "Get Started": [
+        "始めましょう"
+      ],
+      "Help us improve": [
+        "改善にご協力ください"
+      ],
+      "Hide": [
+        "非表示"
+      ],
+      "How do I export my data from ${ PROVIDER_INFO_MAP[form.values.provider].title }?": [
+        "${ PROVIDER_INFO_MAP[form.values.provider].title } からデータをエクスポートするにはどうすればよいですか?"
+      ],
+      "Import": [
+        "インポート"
+      ],
+      "Importing": [
+        "インポート"
+      ],
+      "Include in monitoring": [
+        "モニタリングに含める"
+      ],
+      "Install extension": [
+        "拡張機能をインストールする"
+      ],
+      "Invite others": [
+        "他の人に招待"
+      ],
+      "Join shared vault": [
+        "共有フォルダーに参加"
+      ],
+      "Learn more": [
+        "詳細"
+      ],
+      "Leave": [
+        "退出"
+      ],
+      "Leave vault": [
+        "フォルダーを出る"
+      ],
+      "Link copied to clipboard": [
+        "クリップボードにリンクがコピーされました"
+      ],
+      "Lock ${ PASS_APP_NAME }": [
+        "${ PASS_APP_NAME }をロックする"
+      ],
+      "Make admin": [
+        "管理者として設定"
+      ],
+      "Make editor": [
+        "編集者として設定"
+      ],
+      "Make viewer": [
+        "閲覧者として設定"
+      ],
+      "Manage access": [
+        "アクセス管理"
+      ],
+      "Manually sync your data": [
+        "手動でデータを同期する"
+      ],
+      "Mark as resolved": [
+        "解決済みにする"
+      ],
+      "More info: ${ safeTitle }": [
+        "詳細: ${ safeTitle }"
+      ],
+      "More options": [
+        "詳細設定を表示"
+      ],
+      "Move": [
+        "移動"
+      ],
+      "Move all items": [
+        "すべてのアイテムを移動する"
+      ],
+      "Move to a shared vault": [
+        "共有保管庫に移動する"
+      ],
+      "Move to another vault": [
+        "別の保管庫に移動"
+      ],
+      "Move to trash": [
+        "ごみ箱に移動"
+      ],
+      "Move to Trash": [
+        "ごみ箱に移動"
+      ],
+      "Multiple select": [
+        "複数選択"
+      ],
+      "OK": [
+        "OK"
+      ],
+      "Open navigation": [
+        "ナビゲーションを開く"
+      ],
+      "Pass for Android": [
+        "Android 版 Pass"
+      ],
+      "Pass for iOS": [
+        "iOS 版 Pass"
+      ],
+      "Pass Monitor": [
+        "Pass Monitor"
+      ],
+      "Pause monitoring": [
+        "監視を一時停止する"
+      ],
+      "Pin item": [
+        "アイテムの固定"
+      ],
+      "Refresh the page": [
+        "ページを更新"
+      ],
+      "Regenerate": [
+        "再生成"
+      ],
+      "Reject": [
+        "拒否"
+      ],
+      "Reject invitation": [
+        "招待を拒否する"
+      ],
+      "Reload": [
+        "再読み込み"
+      ],
+      "Remove": [
+        "削除"
+      ],
+      "Remove access": [
+        "アクセス権の削除"
+      ],
+      "Remove link": [
+        "リンクを削除"
+      ],
+      "Remove member": [
+        "メンバーを削除する"
+      ],
+      "Request a feature": [
+        "機能を提案"
+      ],
+      "Resend code": [
+        "コードを再送信"
+      ],
+      "Resend code (in ${ remaining }s)": [
+        "コードを再送信します (${ remaining } 秒以内)"
+      ],
+      "Resend invitation": [
+        "招待の再送"
+      ],
+      "Restore": [
+        "復元"
+      ],
+      "Restore item": [
+        "アイテムを復元"
+      ],
+      "Resume monitoring": [
+        "監視を再開する"
+      ],
+      "Retry": [
+        "再試行"
+      ],
+      "Save": [
+        "保存"
+      ],
+      "Saving": [
+        "保存中"
+      ],
+      "See all": [
+        "すべてを見る"
+      ],
+      "See members": [
+        "メンバーの表示"
+      ],
+      "Send invite": [
+        "招待を送信"
+      ],
+      "Send us a message": [
+        "メッセージを送る"
+      ],
+      "Set access level": [
+        "アクセスレベルの設定"
+      ],
+      "Set extra password": [
+        "追加のパスワードを設定する"
+      ],
+      "Setup 2FA": [
+        "2要素認証を設定"
+      ],
+      "Share": [
+        "共有"
+      ],
+      "Share this vault": [
+        "この保管庫を共有する"
+      ],
+      "Share vault": [
+        "フォルダーの共有"
+      ],
+      "Show": [
+        "表示"
+      ],
+      "Sign back in": [
+        "再度サインインする"
+      ],
+      "Sign in with ${ BRAND_NAME }": [
+        "${ BRAND_NAME } でログインします"
+      ],
+      "Sign out": [
+        "サインアウト"
+      ],
+      "Sort vault items": [
+        "保管庫のアイテムを並び替え"
+      ],
+      "Submit": [
+        "送信"
+      ],
+      "Submitting report...": [
+        "レポートを送信中..."
+      ],
+      "Transfer ownership": [
+        "所有権の移行"
+      ],
+      "Trash": [
+        "ごみ箱"
+      ],
+      "Try again.": [
+        "もう一度やり直してください。"
+      ],
+      "Try for free": [
+        "無料で試す"
+      ],
+      "Unlock": [
+        "ロック解除"
+      ],
+      "Unpin item": [
+        "アイテムの固定解除"
+      ],
+      "Update vault": [
+        "保管庫を 更新"
+      ],
+      "Upgrade": [
+        "アップグレード"
+      ],
+      "Upgrade now": [
+        "今すぐアップグレード"
+      ],
+      "Upgrade now to share with more people": [
+        "今すぐアップグレードしてより多くの人と共有しましょう"
+      ],
+      "Verify": [
+        "検証"
+      ],
+      "View details": [
+        "詳細を見る"
+      ],
+      "View history": [
+        "履歴を見る"
+      ],
+      "View item history": [
+        "アイテム履歴の表示"
+      ],
+      "View older history": [
+        "古い履歴を表示する"
+      ],
+      "Write us on Reddit": [
+        "Redditに書き込む"
+      ],
+      "Write us on Twitter": [
+        "Twitterに書き込む"
+      ],
+      "Your password manager not here? Request it.": [
+        "パスワード マネージャーがここにいませんか? リクエストしてください。"
+      ]
+    },
+    "bf2023: Info": {
+      "Save Smart. Get a year of Pass Plus for only ${ relativePrice } per month.": [
+        "スマートに節約。1ヶ月あたり たった ${ relativePrice } で Pass Plus をゲットしましょう。"
+      ]
+    },
+    "bf2023: Label": {
+      "Get the deal": [
+        "割引をゲット"
+      ]
+    },
+    "bf2023: Title": {
+      "Black Friday offer": [
+        "ブラック フライデー オファー"
+      ]
+    },
+    "Browser": {
+      "${ MAIL_APP_NAME } Desktop application": [
+        "${ MAIL_APP_NAME } デスクトップアプリ"
+      ]
+    },
+    "Button": {
+      "More info": [
+        "詳細はこちら"
+      ]
+    },
+    "Collapsible tooltip": {
+      "Collapse": [
+        "閉じる"
+      ],
+      "Expand": [
+        "開く"
+      ]
+    },
+    "Description": {
+      "${ total } other login uses the same password": [
+        "${ total } 他のログインは同じパスワードを使用します"
+      ],
+      "2FA adds another layer of security to your logins. ${ PASS_APP_NAME } makes 2FA easier by storing and automatically autofilling your 2FA codes.": [
+        "2FA はログインに別のセキュリティ層を追加します。 ${ PASS_APP_NAME } は、2FA コードを保存して自動的に自動入力することで、2FA を簡単にします。"
+      ],
+      "An email alias works like an email address, but reduces spam and keeps your actual email address and identity hidden.": [
+        "メールエイリアスはメールアドレスと同じように機能しますが、スパムを減らし、実際のメールアドレスと身元を隠します。"
+      ],
+      "Change your passwords": [
+        "パスワードを変更してください"
+      ],
+      "Create unique passwords": [
+        "一意のパスワードを作成してください"
+      ],
+      "Dark Web Monitoring is available with a paid plan. Upgrade for immediate access.": [
+        "ダークウェブモニタリングは有料プランで利用できます。アップグレードしてすぐにアクセスできます。"
+      ],
+      "Get notified if your email, password or other personal data was leaked.": [
+        "メールアドレス、パスワード、その他の個人データが漏洩した場合に通知を受け取ります。"
+      ],
+      "Keep your info more secure and private with these guides and tips.": [
+        "これらのガイドとヒントを活用して、情報をより安全かつプライベートに保ちましょう。"
+      ],
+      "Our cutting-edge AI-driven security solution designed for users seeking heightened protection for their accounts. ${ learnMoreLink }": [
+        "私たちの、最先端のAI駆動セキュリティソリューションは、アカウントの高度な保護を求めるユーザー向けに設計されています。${ learnMoreLink }"
+      ],
+      "Set up 2FA for more security": [
+        "2要素認証を設定するとより安全になります"
+      ],
+      "Start monitoring for data breaches related to accounts created with your email address and your hide-my-email aliases.": [
+        "電子メール アドレスとhide-my-emailエイリアスを使用して作成されたアカウントに関連するデータ侵害の監視を開始します。"
+      ],
+      "The dark web is a hidden part of the internet where stolen personal information, like identities, can be bought and sold.": [
+        "ダークウェブは、アイデンティティなどの盗まれた個人情報が売買されるインターネットの隠れた部分です。"
+      ],
+      "These items remain at risk": [
+        "これらのアイテムは危険なままです"
+      ],
+      "This account is vulnerable, visit the service and change your password.": [
+        "このアカウントは脆弱です。サービスにアクセスしてパスワードを変更してください。"
+      ],
+      "This service offers 2FA. Enable it for added account security.": [
+        "このサービスは 2FA を提供します。アカウントのセキュリティを強化するには、これを有効にします。"
+      ],
+      "Unlock advanced security features and detailed logs to safeguard your online presence.": [
+        "高度なセキュリティ機能と詳細なログのロックを解除して、オンライン プレゼンスを保護します。"
+      ],
+      "With ${ PASS_SHORT_APP_NAME } Monitor, stay ahead of threats by getting instant alerts if your credentials are compromised. Unlock advanced security features and detailed logs to safeguard your online presence.": [
+        "${ PASS_SHORT_APP_NAME } Monitor を使用すると、認証情報が侵害された場合に即座にアラートを受け取ることで、脅威に先回りできます。高度なセキュリティ機能と詳細なログのロックを解除して、オンライン プレゼンスを保護します。"
+      ],
+      "Your email addresses were leaked in at least 1 data breach.": [
+        "少なくとも 1 件のデータ侵害により、あなたのメール アドレスが漏洩しました。"
+      ],
+      "Your personal info was leaked in a data breach of a third-party service.": [
+        "サードパーティサービスのデータ侵害により、あなたの個人情報が漏洩しました。"
+      ]
+    },
+    "Error": {
+      "${ provider } file could not be parsed. ${ errorDetail }": [
+        "${ provider } ファイルを解析できませんでした。 ${ errorDetail }"
+      ],
+      "Alias options could not be resolved": [
+        "エイリアス オプションを解決できませんでした"
+      ],
+      "Authentication error": [
+        "認証エラー"
+      ],
+      "Authentication failed. Confirm your ${ BRAND_NAME } password in order to proceed with the export": [
+        "認証に失敗しました。エクスポートを続行するには、あなたの${ BRAND_NAME }パスワードを確認してください。"
+      ],
+      "Cannot send invitation at the moment": [
+        "現在招待を送ることができません"
+      ],
+      "Cannot send invitations at the moment": [
+        "現在招待を送ることができません"
+      ],
+      "Could not confirm this invite at the moment": [
+        "現時点ではこの招待を確認できませんでした"
+      ],
+      "Could not leave vault.": [
+        "フォルダーから退出できません"
+      ],
+      "Could not load recommendations at the moment.": [
+        "現時点では推奨事項を読み込めませんでした。"
+      ],
+      "Could not open created vault": [
+        "作成された保管庫を開けませんでした"
+      ],
+      "Could not open invited vault": [
+        "招待されたフォルダーを開けませんでした。"
+      ],
+      "Could not open updated vault": [
+        "更新された保管庫を開けませんでした"
+      ],
+      "Could not resolve share members": [
+        "共有メンバーを解決できませんでした"
+      ],
+      "Could not validate addresses at the moment.": [
+        "現時点ではアドレスを検証できませんでした。"
+      ],
+      "CSV file is missing expected headers: ${ missingHeaders }": [
+        "CSV ファイルに予期されるヘッダーがありません: ${ missingHeaders }"
+      ],
+      "Decrypting your ${ PASS_APP_NAME } export file failed. ${ errorDetail }": [
+        "${ PASS_APP_NAME } エクスポート ファイルの復号化に失敗しました。 ${ errorDetail }"
+      ],
+      "Deleting item failed": [
+        "アイテムの削除に失敗しました"
+      ],
+      "Deleting vault \"${ payload.content.name }\" failed": [
+        "保管庫 “${ payload.content.name }” の削除に失敗しました"
+      ],
+      "Detected ${ errors.length } corrupted csv row": [
+        "このCSVは${ errors.length } 行の破損を検知しました"
+      ],
+      "Editing item failed": [
+        "アイテムの編集に失敗しました"
+      ],
+      "Empty CSV file": [
+        "CSV ファイルが空です"
+      ],
+      "Emptying trash failed": [
+        "ごみ箱を空にすることが出来ませんでした"
+      ],
+      "Encrypted JSON not supported": [
+        "暗号化 JSON には未対応です"
+      ],
+      "Error reporting problem": [
+        "エラー報告の問題"
+      ],
+      "Failed removing the invite.": [
+        "招待の削除に失敗しました。"
+      ],
+      "Failed resending invite.": [
+        "招待の再送信に失敗しました。"
+      ],
+      "Failed to add email address": [
+        "メールアドレスの追加に失敗しました"
+      ],
+      "Failed to delete email address from monitoring": [
+        "監視対象からメールアドレスを削除できませんでした"
+      ],
+      "Failed to delete selected items": [
+        "選択したアイテムを削除できませんでした"
+      ],
+      "Failed to edit user's access.": [
+        "ユーザーのアクセスを削除できませんでした。"
+      ],
+      "Failed to load breaches for this address": [
+        "このアドレスの違反をロードできませんでした"
+      ],
+      "Failed to load breaches for this email alias": [
+        "この電子メール エイリアスの侵害を読み込めませんでした"
+      ],
+      "Failed to load item history": [
+        "アイテム履歴のロードに失敗しました"
+      ],
+      "Failed to move all items from \"${ payload.content.name }\"": [
+        "「${ payload.content.name }」からすべてのアイテムを移動できませんでした"
+      ],
+      "Failed to move items": [
+        "アイテムの移動に失敗しました"
+      ],
+      "Failed to move items to trash": [
+        "アイテムをごみ箱に移動できませんでした"
+      ],
+      "Failed to pin item": [
+        "アイテムを固定できませんでした"
+      ],
+      "Failed to remove user's access.": [
+        "ユーザーのアクセスを削除できませんでした。"
+      ],
+      "Failed to resend verification for custom email": [
+        "カスタムメールの確認の再送信に失敗しました"
+      ],
+      "Failed to resolve breaches for this address": [
+        "このアドレスの侵害を解決できませんでした"
+      ],
+      "Failed to restore items from trash": [
+        "アイテムをごみ箱から復元できませんでした"
+      ],
+      "Failed to transfer this vault's ownership.": [
+        "このフォルダーの所有権の移行に失敗しました。"
+      ],
+      "Failed to unpin item": [
+        "アイテムの固定を解除できませんでした"
+      ],
+      "Failed to update monitoring settings": [
+        "監視設定の更新に失敗しました"
+      ],
+      "Failed to verify email address": [
+        "メールアドレスの認証に失敗しました"
+      ],
+      "Failed updating ${ PROTON_SENTINEL_NAME } setting": [
+        "${ PROTON_SENTINEL_NAME } 設定の更新に失敗しました"
+      ],
+      "Failed updating monitor flag of the item": [
+        "アイテムの監視フラグの更新に失敗しました"
+      ],
+      "Failed updating monitoring status for this email address": [
+        "このメールアドレスの監視ステータスの更新に失敗しました"
+      ],
+      "File could not be parsed": [
+        "ファイルを解析できませんでした。"
+      ],
+      "File does not match expected format": [
+        "予期しないファイル形式です"
+      ],
+      "Import failed for vault \"${ vaultData.name }\" : ${ description }": [
+        "保管庫「${ vaultData.name }」のインポートに失敗しました: ${ description }"
+      ],
+      "Importing items failed": [
+        "アイテムのインポートに失敗しました"
+      ],
+      "Invalid password manager": [
+        "無効なパスワードマネージャーです"
+      ],
+      "Invitation could not be accepted": [
+        "招待は承認できません"
+      ],
+      "Invitation could not be rejected": [
+        "招待は拒否できませんでした。"
+      ],
+      "Item content cannot exceed 40KB": [
+        "アイテムの内容が40KBを超えることはできません"
+      ],
+      "Item creation failed": [
+        "アイテムの作成に失敗しました"
+      ],
+      "LastPass will export a corrupted CSV file if any of your item fields contain unexpected commas, quotes or multiple lines": [
+        "項目フィールドに予期しないカンマ、引用符、または複数行が含まれている場合、LastPass は破損した CSV ファイルをエクスポートします。"
+      ],
+      "Moving item failed": [
+        "アイテムの移動に失敗しました"
+      ],
+      "Network error": [
+        "ネットワークエラーが発生しました"
+      ],
+      "Offline mode is currently not available for two password mode.": [
+        "現在、オフライン モードは 2 パスワード モードでは利用できません。"
+      ],
+      "Offline mode isn't currently available for your plan and not compatible with two password mode.": [
+        "現在、オフライン モードはご利用のプランでは利用できず、2 パスワード モードと互換性がありません。"
+      ],
+      "Passphrase is incorrect": [
+        "パスフレーズが間違っています"
+      ],
+      "PIN codes do not match": [
+        "PINコードが一致しません"
+      ],
+      "Request timed out": [
+        "リクエストがタイムアウトしました"
+      ],
+      "Requesting alias options failed": [
+        "リクエストされたエイリアスオプションが失敗しました"
+      ],
+      "Restoring item failed": [
+        "アイテムの復元に失敗しました"
+      ],
+      "Restoring trashed items failed": [
+        "ごみ箱の項目の復元に失敗しました"
+      ],
+      "Settings update failed": [
+        "設定の更新に失敗しました"
+      ],
+      "Signature verification failed": [
+        "署名の検証に失敗しました"
+      ],
+      "Some vaults are no longer accessible due to a password reset. Reactivate your account keys in order to regain access. ${ reactivateLink }": [
+        "パスワードのリセットにより、一部の保管庫にアクセスできなくなります。 アクセスを取り戻すには、アカウント キーを再アクティブ化してください。 ${ reactivateLink }"
+      ],
+      "Something went wrong": [
+        "何か問題が発生しました"
+      ],
+      "The file you are trying to import is empty": [
+        "インポートしようとしているファイルは空です。"
+      ],
+      "The session has expired. Please sign in again.": [
+        "セッションがタイムアウトしました。再度サインインしてください。"
+      ],
+      "Too many failed attempts. Please sign in again.": [
+        "失敗が多すぎます。もう一度サインインしてください。"
+      ],
+      "Trashing item failed": [
+        "アイテムの削除に失敗しました"
+      ],
+      "Unable to generate an OTP code for this item": [
+        "このアイテムのOTPコードを生成できない"
+      ],
+      "Unable to sync": [
+        "同期できません"
+      ],
+      "Unknown error": [
+        "原因不明なエラーが発生しました"
+      ],
+      "Unknown invite": [
+        "不明な招待"
+      ],
+      "Unknown item": [
+        "不明なアイテム"
+      ],
+      "Unlock failure": [
+        "ロック解除に失敗しました"
+      ],
+      "Unsupported ${ PASS_APP_NAME } file format": [
+        "サポートされていない ${ PASS_APP_NAME } ファイル形式"
+      ],
+      "Unsupported 1Password file format": [
+        "サポートされていない 1Password ファイル形式"
+      ],
+      "Updating vault \"${ payload.content.name }\" failed": [
+        "保管庫 “${ payload.content.name }” の更新に失敗しました"
+      ],
+      "Vault \"${ payload.content.name }\" creation failed": [
+        "保管庫 “${ payload.content.name }” の作成に失敗しました"
+      ],
+      "Vault \"${ vaultData.name }\" could not be created": [
+        "保管庫「${ vaultData.name }」を作成できませんでした"
+      ],
+      "Vault name does not match": [
+        "保管庫名が一致しません"
+      ],
+      "Wrong password": [
+        "パスワードが正しくありません"
+      ],
+      "Wrong PIN code. Try again.": [
+        "PINコードが違います。もう一度やり直してください。"
+      ],
+      "Your PIN code was removed by another ${ PASS_APP_NAME } client": [
+        "あなたのPIN コードは他のクライアント${ PASS_APP_NAME }にって削除されました"
+      ]
+    },
+    "Error message": {
+      "Oops, something went wrong": [
+        "エラーが発生しました。"
+      ],
+      "Please refresh the page or try again later.": [
+        "ページを再読み込みするか、後でもう一度お試しください。"
+      ],
+      "Something went wrong": [
+        "不具合が発生しました"
+      ]
+    },
+    "Feature": {
+      "Dark Web Monitoring": [
+        "ダークウェブモニタリング"
+      ],
+      "Integrated 2FA authenticator": [
+        "統合された 2FA 認証システム"
+      ],
+      "Unlimited hide-my-email aliases": [
+        "無制限の Hide-my-email エイリアス"
+      ],
+      "Vault sharing (up to ${ MAX_VAULT_MEMBERS } people)": [
+        "保管庫の共有 (最大 ${ MAX_VAULT_MEMBERS } 人)"
+      ]
+    },
+    "file size format": {
+      "byte": [
+        "バイト"
+      ],
+      "GB": [
+        "GB"
+      ],
+      "KB": [
+        "KB"
+      ],
+      "MB": [
+        "MB"
+      ],
+      "TB": [
+        "TB"
+      ]
+    },
+    "file size format, long": {
+      "Byte": [
+        "バイト"
+      ],
+      "Gigabyte": [
+        "ギガバイト"
+      ],
+      "Kilobyte": [
+        "キロバイト"
+      ],
+      "Megabyte": [
+        "メガバイト"
+      ],
+      "Terabyte": [
+        "テラバイト"
+      ]
+    },
+    "Info": {
+      " Upgrade to a paid plan to create multiple vaults.": [
+        " 複数のコンテナーを作成するには、有料プランにアップグレードします。"
+      ],
+      "\"${ payload.item.data.metadata.name }\" item was dismissed": [
+        "「${ payload.item.data.metadata.name }」アイテムは無視されました"
+      ],
+      "\"${ payload.item.data.metadata.name }\" update was dismissed": [
+        "「${ payload.item.data.metadata.name }」更新が却下されました"
+      ],
+      "${ count } invites successfully sent": [
+        "${ count } へ正常に招待状が送られました"
+      ],
+      "${ count } time": [
+        "${ count } 回"
+      ],
+      "${ memberCount } member": [
+        "${ memberCount }人のメンバー"
+      ],
+      "${ n } item": [
+        "${ n } アイテム"
+      ],
+      "${ PASS_APP_NAME } will display the item favicon via ${ BRAND_NAME } anonymized image proxy.": [
+        "${ PASS_APP_NAME } は、${ BRAND_NAME } の匿名化された画像プロキシを介してアイテムのファビコンを表示します。"
+      ],
+      "${ PASS_APP_NAME } will require your ${ BRAND_NAME } password in order to access data offline.": [
+        "${ PASS_APP_NAME } でデータにオフラインでアクセスするには、${ BRAND_NAME } のパスワードが必要です。"
+      ],
+      "${ PROTON_SENTINEL_NAME } successfully disabled": [
+        "${ PROTON_SENTINEL_NAME } は正常に無効になりました"
+      ],
+      "${ PROTON_SENTINEL_NAME } successfully enabled": [
+        "${ PROTON_SENTINEL_NAME } が正常に有効になりました"
+      ],
+      "${ row.breachCount } breach detected": [
+        "${ row.breachCount } 違反が検出されました"
+      ],
+      "7 days to try premium features for free. Only during your first week of ${ BRAND_NAME }.": [
+        "プレミアム機能を 7 日間無料でお試しいただけます。 ${ BRAND_NAME } の最初の 1 週間のみ。"
+      ],
+      "A new version of ${ PASS_APP_NAME } is available. Update it to enjoy the latest features and bug fixes.": [
+        "${ PASS_APP_NAME } の新しいバージョンが利用可能です。 最新の機能やバグ修正をお楽しみいただくには、更新してください。"
+      ],
+      "Access successfully confirmed": [
+        "アクセスが正常に確認されました"
+      ],
+      "Add a username field": [
+        "ユーザー名フィールドを追加"
+      ],
+      "Add your custom email address to monitor :": [
+        "監視するカスタム電子メール アドレスを追加します。"
+      ],
+      "Admin": [
+        "管理者"
+      ],
+      "After successfully importing your data, you may delete the CSV file containing your passwords for security.": [
+        "データが正常にインポートされた後、セキュリティのためにパスワードを含む CSV ファイルを削除できます。"
+      ],
+      "Alias \"${ item.aliasEmail }\" moved to trash - it will stop forwarding emails to your mailbox": [
+        "エイリアス「${ item.aliasEmail }」はごみ箱に移動されました - メールボックスへのメールの転送は停止されます"
+      ],
+      "Aliases with custom domains are not monitored, please add them as a custom email for monitoring.": [
+        "カスタム ドメインを持つエイリアスは監視されません。監視用のカスタム電子メールとして追加してください。"
+      ],
+      "All breaches for this address were resolved": [
+        "このアドレスの侵害はすべて解決されました"
+      ],
+      "All current breaches will be marked as resolved. In case of future data breaches, you'll be notified.": [
+        "現在の侵害はすべて解決済みとしてマークされます。今後データ侵害が発生した場合には、通知が届きます。"
+      ],
+      "All items from \"${ payload.content.name }\" successfully moved": [
+        "「${ payload.content.name }」のすべてのアイテムが正常に移動されました"
+      ],
+      "All items successfully moved": [
+        "すべてのアイテムが正常に移動されました"
+      ],
+      "All trashed items permanently deleted": [
+        "ごみ箱に入れられたすべてのアイテムが完全に削除されました"
+      ],
+      "All trashed items successfully restored": [
+        "ごみ箱の項目がすべて正常に復元されました"
+      ],
+      "An item previously shared with you was removed": [
+        "以前にあなたと共有したアイテムが削除されました"
+      ],
+      "Auto-lock successfully disabled.": [
+        "自動ロックを無効にしました."
+      ],
+      "Breaches detected": [
+        "侵害が検出されました"
+      ],
+      "Bring your existing passwords into ${ BRAND_NAME }.": [
+        "既存のパスワードを${ BRAND_NAME }に移動する"
+      ],
+      "Built in 2FA authenticator": [
+        "2要素認証の認証器を内蔵"
+      ],
+      "Can create, edit, delete, and export items in this vault.": [
+        "このフォルダー内のアイテムを作成、編集、削除、エクスポートすることができます。"
+      ],
+      "Can grant and revoke access to this vault, and delete it.": [
+        "このフォルダーへのアクセス権を付与したり、取り消したりすることができます。また、このフォルダーを削除することもできます。"
+      ],
+      "Can grant and revoke access to this vault.": [
+        "このフォルダーへのアクセス権を付与したり、取り消したりすることができます。"
+      ],
+      "Can view items in this vault.": [
+        "このフォルダー内のアイテムを閲覧できます。"
+      ],
+      "Change your password": [
+        "パスワードを変更"
+      ],
+      "Congratulations, your access has been confirmed": [
+        "おめでとうございます。アクセスが確認されました"
+      ],
+      "Copied to clipboard": [
+        "クリップボードにコピーされました"
+      ],
+      "CSV offers a convenient format to view your data. However due to its simplicity, some data will not be included (custom fields, passkeys...). For a complete export, we recommend using a different format.": [
+        "CSV は、データを表示するための便利な形式を提供します。ただし、その単純さのため、一部のデータは含まれません (カスタム フィールド、パスキーなど)。完全にエクスポートするには、別の形式を使用することをお勧めします。"
+      ],
+      "Current version": [
+        "現在のバージョン"
+      ],
+      "Decrypting your data": [
+        "データの暗号化解除"
+      ],
+      "Deleted items will be moved here first": [
+        "削除された項目は、まずここに移動されます"
+      ],
+      "Deleting \"${ payload.content.name }\"": [
+        "「${ payload.content.name }」を削除しています"
+      ],
+      "Didn't receive the code?": [
+        "コードを受け取っていませんか?"
+      ],
+      "Disabling auto-lock": [
+        "自動ロックを無効にしています"
+      ],
+      "Disabling auto-lock failed": [
+        "自動ロックを無効にできませんでした"
+      ],
+      "Disabling offline mode...": [
+        "オフラインモードを無効にしています..."
+      ],
+      "Drop file here to upload": [
+        "アップロードするファイルをここにドロップ"
+      ],
+      "Drop to import": [
+        "ドロップしてインポート"
+      ],
+      "Editor": [
+        "エディター"
+      ],
+      "email": [
+        "メール"
+      ],
+      "Email address successfully deleted from monitoring": [
+        "電子メールアドレスが監視から正常に削除されました"
+      ],
+      "Email address successfully excluded from monitoring": [
+        "電子メールアドレスが監視から除外されました"
+      ],
+      "Email address successfully included in monitoring": [
+        "電子メールアドレスが監視に正常に含まれました"
+      ],
+      "Emptying trash...": [
+        "ごみ箱を空にしています..."
+      ],
+      "Enable ${ PASS_SHORT_APP_NAME } beta": [
+        "${ PASS_SHORT_APP_NAME } ベータ版を有効にする"
+      ],
+      "Enable auto-locking to secure your data": [
+        "自動ロックを有効にしてデータを保護します"
+      ],
+      "Enabling offline mode...": [
+        "オフラインモードを有効にしています..."
+      ],
+      "Enabling password auto-lock": [
+        "パスワードの自動ロックを有効にしています"
+      ],
+      "Enabling PIN auto-lock": [
+        "PIN の自動ロックを有効にしています"
+      ],
+      "Enter verification code. Digit ${ digit }.": [
+        "検証コードを入力してください。桁数は ${ digit } 桁です。"
+      ],
+      "Enter your PIN code": [
+        "PINコードの入力"
+      ],
+      "Fill in the CSV with your data": [
+        "CSV にデータを入力します"
+      ],
+      "finance": [
+        "ファイナンス"
+      ],
+      "Follow those steps to import your data with a generic CSV :": [
+        "以下の手順に従って、汎用 CSV を使用してデータをインポートします。"
+      ],
+      "For security reasons, your access needs to be confirmed": [
+        "セキュリティ上の理由から、アクセスを確認する必要があります"
+      ],
+      "Generated passwords will be stored for a period of ${ MAX_PASSWORD_HISTORY_RETENTION_WEEKS } week.": [
+        "生成されたパスワードは ${ MAX_PASSWORD_HISTORY_RETENTION_WEEKS } 週間保存されます。"
+      ],
+      "Get the most out of Pass by creating a vault for each team or project.": [
+        "チームやプロジェクトごとに保管庫を作成し、Passを最大限に活用しましょう。"
+      ],
+      "Get unlimited aliases, enjoy exclusive features, and support us by subscribing to Pass Plus.": [
+        "Pass Plus に登録して、無制限のエイリアスを取得し、限定機能を利用し、サポートしてください。"
+      ],
+      "High Priority": [
+        "優先度：高"
+      ],
+      "How does monitoring work?": [
+        "モニタリングの仕組みは？"
+      ],
+      "Import in progress:": [
+        "インポートが進行中:"
+      ],
+      "Import the CSV file below.": [
+        "以下のCSVファイルをインポートします。"
+      ],
+      "Imported ${ payload.total } item": [
+        "${ payload.total } 件のアイテムをインポートしました"
+      ],
+      "Imported on ${ date }": [
+        "${ date } にインポートされました"
+      ],
+      "In order to get the best experience out of ${ PASS_APP_NAME }, please grant the necessary extension permissions": [
+        "${ PASS_APP_NAME } を最大限に活用するには、必要な拡張機能の権限を付与してください"
+      ],
+      "Install ${ PASS_APP_NAME } for ${ browser.title } to quickly autofill your logins.": [
+        "${ browser.title } に ${ PASS_APP_NAME } をインストールすると、ログインがすぐに自動入力されます。"
+      ],
+      "Install ${ PASS_APP_NAME } for ${ browser.title } to quickly autofill your logins. ": [
+        "${ browser.title } に ${ PASS_APP_NAME } をインストールすると、ログインがすぐに自動入力されます。 "
+      ],
+      "Internet connection lost": [
+        "インターネット接続が切断されました"
+      ],
+      "Internet connection lost. Please check your device's connectivity.": [
+        "インターネット接続が失われました。デバイスの接続を確認してください。"
+      ],
+      "Invitation sent": [
+        "招待状の送信"
+      ],
+      "Invite specific people and set the right permissions.": [
+        "特定の人を招待し適切な権限を与える"
+      ],
+      "Invite successfully removed": [
+        "招待が正常に削除されました。"
+      ],
+      "Invite successfully resent": [
+        "招待を正常に再送しました。"
+      ],
+      "Invite successfully sent": [
+        "招待が正常に送信されました。"
+      ],
+      "invites you to access items in": [
+        "あなたにアイテムへのアクセスを招待しています。"
+      ],
+      "It seems you are already logged in to ${ PASS_APP_NAME }. If you're trying to login with a different account, please logout from the extension first.": [
+        "すでに ${ PASS_APP_NAME } にログインしているようです。 別のアカウントでログインしようとしている場合は、まず拡張機能からログアウトしてください。"
+      ],
+      "item": [
+        "アイテム"
+      ],
+      "Item \"${ payload.item.data.metadata.name }\" created": [
+        "アイテム「${ payload.item.data.metadata.name }」が作成されました"
+      ],
+      "Item \"${ payload.item.data.metadata.name }\" updated": [
+        "アイテム「${ payload.item.data.metadata.name }」が更新されました"
+      ],
+      "Item moved to trash": [
+        "ごみ箱へ移動"
+      ],
+      "Item permanently deleted": [
+        "アイテムが完全に削除されました"
+      ],
+      "Item restored": [
+        "アイテムが復元されました"
+      ],
+      "Item successfully excluded from monitoring": [
+        "アイテムが監視から正常に除外されました"
+      ],
+      "Item successfully included in monitoring": [
+        "アイテムがモニタリングに正常に含まれました"
+      ],
+      "Item successfully moved": [
+        "アイテムの移動に成功"
+      ],
+      "Item successfully pinned": [
+        "アイテムの固定に成功しました"
+      ],
+      "Item successfully unpinned": [
+        "アイテムの固定解除に成功しました"
+      ],
+      "Latest breach on ${ formattedDate }": [
+        "${ formattedDate } の最新の侵害"
+      ],
+      "Leaving vault...": [
+        "保管庫を退出しています..."
+      ],
+      "Let's get you started by creating your first item": [
+        "最初のアイテムを作るところから始めましょう。"
+      ],
+      "Loading": [
+        "読み込み中"
+      ],
+      "Loading ${ PASS_APP_NAME }": [
+        "${ PASS_APP_NAME } を読み込み中"
+      ],
+      "Logging you out...": [
+        "ユーザーをログアウト中…"
+      ],
+      "Low Priority": [
+        "優先度：低"
+      ],
+      "me": [
+        "私"
+      ],
+      "Medium Priority": [
+        "優先度：中"
+      ],
+      "Monitor accounts": [
+        "アカウントモニター"
+      ],
+      "Monitoring settings successfully updated": [
+        "監視設定が正常に更新されました"
+      ],
+      "More than a password manager, ${ PASS_APP_NAME } protects your password and your personal email address via email aliases. Powered by the same technology behind ${ MAIL_APP_NAME }, your data is end to end encrypted and is only accessible by you.": [
+        "${ PASS_APP_NAME } は単なるパスワード マネージャーではなく、メール エイリアスを介してパスワードと個人メール アドレスを保護します。 ${ MAIL_APP_NAME } の背後にある同じテクノロジーを利用して、あなたのデータはエンドツーエンドで暗号化され、あなただけがアクセスできます。"
+      ],
+      "Moving all items from \"${ payload.content.name }\"": [
+        "「${ payload.content.name }」からすべての項目を移動します"
+      ],
+      "Moving an item to another vault will erase its history.": [
+        "アイテムを別の保管庫に移動すると、その履歴が消去されます."
+      ],
+      "Moving items": [
+        "アイテムの移動"
+      ],
+      "Moving items to another vault will erase their history.": [
+        "アイテムを別の保管庫に移動すると、その履歴が消去されます."
+      ],
+      "Moving items to trash": [
+        "アイテムをごみ箱に移動中"
+      ],
+      "Never": [
+        "なし"
+      ],
+      "No breaches detected": [
+        "侵害は検出されませんでした"
+      ],
+      "No network connection": [
+        "ネットワーク接続がありません"
+      ],
+      "None": [
+        "なし"
+      ],
+      "Offline mode": [
+        "オフラインモード"
+      ],
+      "Offline mode could not be enabled at the moment": [
+        "現時点ではオフライン モードを有効にできませんでした"
+      ],
+      "Offline support successfully disabled": [
+        "オフライン サポートが正常に無効になりました"
+      ],
+      "Owner": [
+        "所有者"
+      ],
+      "Ownership successfully transfered. You are no long the owner of this vault.": [
+        "所有権は正常に移行されました。あなたはもうこのフォルダーの所有者ではありません。"
+      ],
+      "Pass Plus trial": [
+        "Pass Plusトライアル"
+      ],
+      "password": [
+        "パスワード"
+      ],
+      "Passwords older than ${ MAX_PASSWORD_HISTORY_RETENTION_WEEKS } week are automatically deleted from history.": [
+        "${ MAX_PASSWORD_HISTORY_RETENTION_WEEKS } 週間より古いパスワードは履歴から自動的に削除されます。"
+      ],
+      "Paused": [
+        "一時停止"
+      ],
+      "Permanently deleting selected items": [
+        "選択したアイテムを完全に削除する"
+      ],
+      "PIN code successfully registered. Use it to unlock ${ PASS_APP_NAME }": [
+        "PINコードの登録が完了しました。 それを使用して ${ PASS_APP_NAME } のロックを解除します"
+      ],
+      "Pinning item...": [
+        "アイテムを固定中..."
+      ],
+      "Please check your spam folder or try resending the code.": [
+        "スパムフォルダを確認するか、コードを再送信してください。"
+      ],
+      "Please confirm your ${ BRAND_NAME } password in order to enable offline mode": [
+        "オフライン モードを有効にするには、${ BRAND_NAME } のパスワードを確認してください"
+      ],
+      "Please confirm your ${ BRAND_NAME } password in order to export your ${ PASS_APP_NAME } data": [
+        "${ PASS_APP_NAME } データをエクスポートするには、${ BRAND_NAME } のパスワードを確認してください"
+      ],
+      "Please confirm your PIN code to edit this setting.": [
+        "この設定を編集するには、PINコードを確認してください。"
+      ],
+      "Please consider leaving a review.": [
+        "レビューを残すことを検討してください。"
+      ],
+      "Please enter your current PIN code to continue": [
+        "続行するには、現在の PIN コードを入力してください"
+      ],
+      "Please upgrade to have early access ${ PASS_APP_NAME } web app": [
+        "${ PASS_APP_NAME } ウェブ アプリに早期アクセスできるようにアップグレードしてください"
+      ],
+      "Press Enter to copy": [
+        "Enterキーを押してコピーする"
+      ],
+      "Privacy is a big concern for us. Learn why ${ PASS_APP_NAME } is different.": [
+        "プライバシーは私たちにとって大きな懸念事項です。 ${ PASS_APP_NAME } が異なる理由をご覧ください。"
+      ],
+      "Protected by ${ PROTON_SENTINEL_LINK }, our advanced account protection program": [
+        "高度なアカウント保護プログラムである ${ PROTON_SENTINEL_LINK } によって保護されています"
+      ],
+      "Reconnect": [
+        "再接続"
+      ],
+      "Reconnecting": [
+        "再接続中"
+      ],
+      "Restoring items from trash": [
+        "ゴミ箱からアイテムを復元する"
+      ],
+      "Restoring trashed items...": [
+        "ごみ箱の項目を復元しています..."
+      ],
+      "Select destination vault": [
+        "移動先の保管庫を選択"
+      ],
+      "Select vault to share": [
+        "共有する保管庫を選択"
+      ],
+      "Select where you want your imported vault(s) to be saved.": [
+        "インポートした保管庫を保存する場所を選択してください。"
+      ],
+      "Selected items permanently deleted": [
+        "選択したアイテムが完全に削除されました"
+      ],
+      "Selected items successfully moved to trash": [
+        "選択したアイテムがゴミ箱に正常に移動されました"
+      ],
+      "Selected items successfully restored from trash": [
+        "選択したアイテムがゴミ箱から正常に復元されました"
+      ],
+      "Servers are unreachable. Please try again in a few minutes": [
+        "サーバーに接続できません。数分後にもう一度お試しください"
+      ],
+      "Session timed out": [
+        "セッションがタイムアウトしました"
+      ],
+      "Settings successfully updated": [
+        "設定が正常に更新されました"
+      ],
+      "Share your logins, secure notes, with up to 10 people": [
+        "ログイン情報や安全なメモを最大 10 人と共有"
+      ],
+      "Sign in to your account": [
+        "アカウントにサインインする"
+      ],
+      "Signing you in": [
+        "サインインする"
+      ],
+      "Successfully exported all your items": [
+        "すべてのアイテムのエクスポートに成功"
+      ],
+      "Successfully left the vault": [
+        "フォルダーを正常に退出しました。"
+      ],
+      "Successfully synced all vaults": [
+        "すべての保管庫が正常に同期されました"
+      ],
+      "Switch to another vault or create an item in this vault": [
+        "別の保管庫に切り替えるか、この保管庫にアイテムを作成"
+      ],
+      "Syncing your vaults…": [
+        "保管庫を同期中…"
+      ],
+      "Thank you, the problem has been reported": [
+        "ありがとう、問題は報告されました"
+      ],
+      "The export will only contain vaults that you own.": [
+        "エクスポートには、自分が所有するボールトのみが含まれます。"
+      ],
+      "The exported file will be encrypted using PGP and requires a strong passphrase.": [
+        "エクスポートされるファイルを PGP を使用して暗号化するため、強力なパスフレーズが必要です。"
+      ],
+      "The exposed information was leaked from a third-party service. Your ${ BRAND_NAME } Account information remains secure and encrypted. ${ learnMoreLink }": [
+        "公開された情報は第三者サービスから漏洩しました。あなたの ${ BRAND_NAME } アカウント情報は安全で暗号化されたままです。${ learnMoreLink }"
+      ],
+      "The following ${ result.ignored.length } item could not be imported:": [
+        "次の ${ result.ignored.length } つのアイテムをインポート出来ませんでした:"
+      ],
+      "The text you're trying to paste is longer than the maximum allowed length of ${ maxLength } characters.": [
+        "貼り付けようとしているテキストは、許容される最大長の ${ maxLength } 文字を超えています。"
+      ],
+      "The user did not accept the invitation yet.": [
+        "ユーザーはまだ招待を受け入れていません。"
+      ],
+      "This export will be unencrypted and anyone with access to your exported file will be able to see your passwords. For security, please delete it after you are done using it.": [
+        "このエクスポートは暗号化されていないため、エクスポートしたファイルにアクセスできる人は誰でもパスワードを見ることができます。セキュリティのため、使い終わったら削除してください。"
+      ],
+      "This option is currently not available on your device.": [
+        "このオプションは現在お使いのデバイスでは利用できません。"
+      ],
+      "This setting is disabled on the organization level": [
+        "この設定は組織レベルでは無効になっています"
+      ],
+      "This vault is not currently shared with anyone. Invite people to share it with others.": [
+        "このフォルダーは現在誰とも共有されていません。他の人と共有するために人々を招待してください。"
+      ],
+      "This version will be added to the history as the newest version.": [
+        "このバージョンは最新バージョンとして履歴に追加されます。"
+      ],
+      "To migrate data from another password manager, go to the password manager, export your data, then upload it to ${ PASS_APP_NAME }. Once your data has been imported, delete the exported file.": [
+        "別のパスワード マネージャーからデータを移行するには、パスワード マネージャーに移動し、データをエクスポートして、${ PASS_APP_NAME } にアップロードします。 データがインポートされたら、エクスポートされたファイルを削除します。"
+      ],
+      "To review your imported data, click on the Pass icon in your browser toolbar.": [
+        "インポートしたデータを確認するには、ブラウザのツールバーにある Pass アイコンをクリックします。"
+      ],
+      "Try new ${ BRAND_NAME } features, updates and products before they are released to the public. This will reload the application": [
+        "${ BRAND_NAME } の新しい機能、アップデート、製品を一般公開される前にお試しください。 これによりアプリケーションがリロードされます"
+      ],
+      "Unable to copy to clipboard": [
+        "クリップボードにコピーできない"
+      ],
+      "Unlimited hide-my-email aliases": [
+        "無制限の Hide-my-email エイリアス"
+      ],
+      "Unpinning item...": [
+        "アイテムの固定解除中..."
+      ],
+      "Unverified": [
+        "未検証"
+      ],
+      "Upgrade Now to Unlock Premium Features": [
+        "今すぐアップグレードしてプレミアム機能をロック解除してください"
+      ],
+      "Use vaults to share this item with others.": [
+        "このアイテムを他の人と共有するには、保管庫を使用してください。"
+      ],
+      "User's access removed": [
+        "ユーザーのアクセス権を削除しました。"
+      ],
+      "User's access sucessfuly updated": [
+        "ユーザーのアクセス権を正常に更新しました。"
+      ],
+      "username": [
+        "ユーザー名"
+      ],
+      "Vault \"${ payload.content.name }\" successfully deleted": [
+        "保管庫「${ payload.content.name }」が正常に削除されました"
+      ],
+      "Vault \"${ payload.share.content.name }\" successfully created": [
+        "保管庫「${ payload.share.content.name }」が正常に作成されました"
+      ],
+      "Vault \"${ payload.share.content.name }\" successfully updated": [
+        "保管庫「${ payload.share.content.name }」が正常に更新されました"
+      ],
+      "Vault \"${ share.content.name }\" was removed": [
+        "保管庫「${ share.content.name }」が削除されました"
+      ],
+      "Verification code sent.": [
+        "確認コードが送信されました。"
+      ],
+      "Viewer": [
+        "ビューアー"
+      ],
+      "We are having trouble syncing data to your local storage. Please make sure you have sufficient disk space for ${ PASS_SHORT_APP_NAME } to work smoothly.": [
+        "ローカルストレージとのデータ同期で問題が生じています。${ PASS_SHORT_APP_NAME } の動作に必要なディスクの空き容量があることを確認してください。"
+      ],
+      "We’ve sent a verification code to ${ email }. Please enter it below:": [
+        "確認コードを ${ email } に送信しました。以下に入力してください。"
+      ],
+      "You are about to create:": [
+        "作成されるメールアドレス:"
+      ],
+      "You can now use your ${ BRAND_NAME } password to access ${ PASS_SHORT_APP_NAME } offline": [
+        "${ BRAND_NAME } のパスワードを使用して ${ PASS_SHORT_APP_NAME } にオフラインでアクセスできるようになりました"
+      ],
+      "You cannot change the mailboxes for this alias.": [
+        "このエイリアスのメールボックスを変更することはできません。"
+      ],
+      "You have ${ daysRemaining } day left to try these and other premium features.": [
+        "これらおよびその他のプレミアム機能をお試しいただける期間は、残り ${ daysRemaining } 日間です。"
+      ],
+      "You have exceeded the number of vaults included in your subscription. Items can only be moved to your first two vaults. To move items between all vaults upgrade your subscription.": [
+        "あなたのサブスクリプションに含まれるフォルダーの最大数を超えています。アイテムは最初の2つのフォルダーにのみ移動できます。すべてのフォルダー間でアイテムを移動するには、サブスクリプションをアップグレードしてください。"
+      ],
+      "You have exceeded the number of vaults included in your subscription. New items can only be created in your first two vaults. To create new items in all vaults upgrade your subscription.": [
+        "「あなたのサブスクリプションに含まれるフォルダーの最大数を超えています。新しいアイテムは最初の2つのフォルダーでのみ作成できます。すべてのフォルダーで新しいアイテムを作成するには、サブスクリプションをアップグレードしてください。"
+      ],
+      "You have reached the limit of aliases you can create. Create an unlimited number of aliases when you upgrade your subscription.": [
+        "作成できるエイリアスの制限に達しました。 サブスクリプションをアップグレードするときに、エイリアスを無制限に作成できます。"
+      ],
+      "You have reached the limit of credit cards you can create. Create an unlimited number of credit cards when you upgrade your subscription.": [
+        "作成できるクレジット カードの上限に達しました。サブスクリプションをアップグレードすると、無制限の数のクレジット カードを作成できます。"
+      ],
+      "You have reached the limit of vaults you can create.": [
+        "作成できる保管庫の数が上限に達しました。"
+      ],
+      "You have reached the maximum allowed length of ${ maxLength } characters.": [
+        "${ maxLength } 文字の最大許容長に達しました。"
+      ],
+      "You will be notified of data breaches for these email addresses.": [
+        "これらの電子メール アドレスのデータ侵害について通知されます。"
+      ],
+      "You will be notified of data breaches for this email address.": [
+        "この電子メール アドレスのデータ侵害について通知されます。"
+      ],
+      "You will no longer be notified of data breaches for these email addresses.": [
+        "これらの電子メール アドレスのデータ侵害については通知されなくなります。"
+      ],
+      "You will no longer be notified of data breaches for this email address.": [
+        "この電子メール アドレスのデータ侵害については今後通知されません。"
+      ],
+      "You will use this PIN to unlock ${ PASS_APP_NAME } once it auto-locks after a period of inactivity.": [
+        "このPINを使用して、${ PASS_APP_NAME }が一定期間使用されずに自動ロックされた後、ロックを解除します。"
+      ],
+      "You're invited to a vault.": [
+        "フォルダーへの招待があります。"
+      ],
+      "Your files will be encrypted and then saved": [
+        "ファイルは暗号化して保存されます"
+      ]
+    },
+    "Label": {
+      "${ config.options.length } character": [
+        "${ config.options.length } 文字"
+      ],
+      "${ config.options.wordCount } word": [
+        "${ config.options.wordCount } 単語"
+      ],
+      "${ days } day": [
+        "${ days } 日"
+      ],
+      "${ hours } hour": [
+        "${ hours } 時間"
+      ],
+      "${ minutes } minute": [
+        "${ minutes } 分"
+      ],
+      "${ PASS_SHORT_APP_NAME } version": [
+        "${ PASS_SHORT_APP_NAME } バージョン"
+      ],
+      "${ usageCount } login": [
+        "${ usageCount } ログイン数"
+      ],
+      "1 hour": [
+        "1 時間"
+      ],
+      "1 minute": [
+        "1 分"
+      ],
+      "10 minutes": [
+        "10 分"
+      ],
+      "14 days": [
+        "14日間"
+      ],
+      "15 minutes": [
+        "15 分"
+      ],
+      "24 hours": [
+        "24 時間"
+      ],
+      "2FA secret key (TOTP)": [
+        "2FA 秘密鍵 (TOTP)"
+      ],
+      "2FA token (TOTP)": [
+        "2FA トークン (TOTP)"
+      ],
+      "30 days": [
+        "30日間"
+      ],
+      "30 minutes": [
+        "30 分"
+      ],
+      "30 seconds": [
+        "30 秒"
+      ],
+      "5 minutes": [
+        "5分"
+      ],
+      "7 days": [
+        "7日間"
+      ],
+      "A-Z": [
+        "A-Z"
+      ],
+      "Account": [
+        "アカウント"
+      ],
+      "Alias": [
+        "エイリアス"
+      ],
+      "Alias address": [
+        "エイリアスのアドレス"
+      ],
+      "Aliases": [
+        "エイリアス"
+      ],
+      "All": [
+        "すべて"
+      ],
+      "All vaults": [
+        "すべての保管庫"
+      ],
+      "Alphabetical": [
+        "アルファベット順"
+      ],
+      "Application logs": [
+        "アプリケーションのログ"
+      ],
+      "Auto-lock after": [
+        "自動ロックまで"
+      ],
+      "Beta Access": [
+        "ベータ版アクセス"
+      ],
+      "Capital letters (A-Z)": [
+        "大文字のアルファベット (A ～ Z)"
+      ],
+      "Capitalise": [
+        "先頭を大文字にする"
+      ],
+      "Card": [
+        "カード"
+      ],
+      "Card number": [
+        "カード番号"
+      ],
+      "Cards": [
+        "カード"
+      ],
+      "City": [
+        "市区町村"
+      ],
+      "Code": [
+        "コード"
+      ],
+      "Company": [
+        "会社"
+      ],
+      "Confirm vault name": [
+        "保管庫名を確認する"
+      ],
+      "Contact details": [
+        "連絡先の詳細"
+      ],
+      "Copy": [
+        "コピー"
+      ],
+      "Country or Region": [
+        "国または地域"
+      ],
+      "Create a credit card": [
+        "クレジットカード情報を作成"
+      ],
+      "Create a hide-my-email alias": [
+        "Hide-my-emailエイリアスを作成"
+      ],
+      "Create a login": [
+        "ログイン情報を作成"
+      ],
+      "Create an encrypted note": [
+        "暗号化されたノートを作成"
+      ],
+      "Create new vault": [
+        "新しい保管庫を作る"
+      ],
+      "Created": [
+        "作成日時"
+      ],
+      "Date": [
+        "日付"
+      ],
+      "Device": [
+        "デバイス"
+      ],
+      "Display": [
+        "表示"
+      ],
+      "Domain": [
+        "ドメイン"
+      ],
+      "Download logs": [
+        "過去ログのダウンロード"
+      ],
+      "Email": [
+        "メールアドレス"
+      ],
+      "Email (alias)": [
+        "メール (エイリアス)"
+      ],
+      "Email (new alias)": [
+        "メール (新しいエイリアス)"
+      ],
+      "Email address": [
+        "メールアドレス"
+      ],
+      "Empty trash": [
+        "ごみ箱を空にする"
+      ],
+      "Enable offline access": [
+        "オフラインアクセスを有効にする"
+      ],
+      "Expiration date": [
+        "有効期限"
+      ],
+      "Expired": [
+        "有効期限切れ"
+      ],
+      "Export": [
+        "エクスポート"
+      ],
+      "Extra password": [
+        "追加パスワード"
+      ],
+      "Field name": [
+        "フィールド名"
+      ],
+      "File format": [
+        "ファイル形式"
+      ],
+      "First name": [
+        "名"
+      ],
+      "Forwards to": [
+        "転送先"
+      ],
+      "Free forever": [
+        "永久無料"
+      ],
+      "Full Name": [
+        "氏名"
+      ],
+      "Gender": [
+        "性別"
+      ],
+      "General": [
+        "一般"
+      ],
+      "Generic CSV": [
+        "汎用CSV"
+      ],
+      "Grant": [
+        "付与"
+      ],
+      "Hidden": [
+        "隠す"
+      ],
+      "Hide password": [
+        "パスワードを隠す"
+      ],
+      "Identities": [
+        "ユーザー情報"
+      ],
+      "Identity": [
+        "ユーザー情報"
+      ],
+      "Import": [
+        "インポート"
+      ],
+      "Import passwords": [
+        "パスワードをインポート"
+      ],
+      "Imported from : ": [
+        "インポート元: "
+      ],
+      "Imported on : ": [
+        "インポート場所: "
+      ],
+      "Include numbers": [
+        "数字を含める"
+      ],
+      "Include numbers (0-9)": [
+        "数字を含める (0 〜 9)"
+      ],
+      "Invitations": [
+        "招待"
+      ],
+      "Item ID": [
+        "アイテム ID"
+      ],
+      "Key": [
+        "鍵"
+      ],
+      "Keyboard shortcut: ${ shortcut }": [
+        "キーボードショートカット: ${ shortcut }"
+      ],
+      "Language": [
+        "言語"
+      ],
+      "Last 2 weeks": [
+        "過去 2 週間"
+      ],
+      "Last month": [
+        "先月"
+      ],
+      "Last name": [
+        "姓"
+      ],
+      "Last updated": [
+        "最終更新"
+      ],
+      "Last week": [
+        "先週"
+      ],
+      "Latest import": [
+        "最新のインポート"
+      ],
+      "Learn more": [
+        "より詳しく"
+      ],
+      "Login": [
+        "ログイン"
+      ],
+      "Logins": [
+        "ログイン"
+      ],
+      "Make all admins": [
+        "全ての管理者を対象に"
+      ],
+      "Make all editors": [
+        "全ての編集者を対象に"
+      ],
+      "Make all viewers": [
+        "全ての閲覧者を対象に"
+      ],
+      "Members": [
+        "メンバー"
+      ],
+      "Modified": [
+        "更新日時"
+      ],
+      "More than a month": [
+        "1ヶ月以上"
+      ],
+      "Most recent": [
+        "直近"
+      ],
+      "Name": [
+        "名前"
+      ],
+      "Name on card": [
+        "カード名義人"
+      ],
+      "Need help ?": [
+        "お困りですか ?"
+      ],
+      "New vault": [
+        "新しい保管庫"
+      ],
+      "New-Old": [
+        "新旧"
+      ],
+      "Newest to oldest": [
+        "新しい順"
+      ],
+      "No history": [
+        "履歴なし"
+      ],
+      "None": [
+        "なし"
+      ],
+      "Note": [
+        "メモ"
+      ],
+      "Notes": [
+        "メモ"
+      ],
+      "Offline mode": [
+        "オフラインモード"
+      ],
+      "Old-New": [
+        "新旧"
+      ],
+      "Oldest to newest": [
+        "古い順"
+      ],
+      "Organization": [
+        "組織"
+      ],
+      "Passkey": [
+        "パスキー"
+      ],
+      "Passphrase": [
+        "パスフレーズ"
+      ],
+      "Passport number": [
+        "パスポート番号"
+      ],
+      "Password": [
+        "パスワード"
+      ],
+      "Password history": [
+        "パスワードの履歴"
+      ],
+      "PGP-encrypted JSON (recommended)": [
+        "PGP 暗号化 JSON (推奨)"
+      ],
+      "Phone number": [
+        "電話番号"
+      ],
+      "PIN": [
+        "PIN"
+      ],
+      "PIN code": [
+        "PIN コード"
+      ],
+      "Prefix": [
+        "プレフィックス"
+      ],
+      "Rate us": [
+        "評価"
+      ],
+      "Recent": [
+        "最近"
+      ],
+      "Remove link": [
+        "リンクを削除"
+      ],
+      "Report a problem": [
+        "問題を報告"
+      ],
+      "Restore all items": [
+        "すべての項目を復元"
+      ],
+      "Reveal password": [
+        "パスワードを表示する"
+      ],
+      "Security": [
+        "セキュリティ"
+      ],
+      "Security code": [
+        "セキュリティコード"
+      ],
+      "Select an email address": [
+        "メールアドレスを選択"
+      ],
+      "Select preferred language": [
+        "お好みの言語を選択"
+      ],
+      "Select your password manager": [
+        "パスワードマネージャーを選択"
+      ],
+      "Selected": [
+        "選択"
+      ],
+      "Share": [
+        "共有"
+      ],
+      "Show website favicons": [
+        "ウェブサイトのファビコンを表示する"
+      ],
+      "Social security number": [
+        "社会保障番号"
+      ],
+      "Special characters (!&*)": [
+        "特殊文字 (!&*)"
+      ],
+      "State or province": [
+        "都道府県"
+      ],
+      "Status": [
+        "ステータス"
+      ],
+      "Street address": [
+        "番地"
+      ],
+      "Strong": [
+        "強い"
+      ],
+      "Suffix": [
+        "Suffix"
+      ],
+      "Support": [
+        "サポート"
+      ],
+      "Text": [
+        "テキスト"
+      ],
+      "Title": [
+        "タイトル"
+      ],
+      "Today": [
+        "今日"
+      ],
+      "Total imported items : ": [
+        "インポート合計: "
+      ],
+      "Total items : ": [
+        "全アイテム: "
+      ],
+      "TOTP": [
+        "TOTP"
+      ],
+      "Trash": [
+        "ごみ箱"
+      ],
+      "Type": [
+        "種類"
+      ],
+      "Unnamed Credit Card": [
+        "無名のクレジットカード"
+      ],
+      "Unnamed item": [
+        "名前のないアイテム"
+      ],
+      "Unnamed note": [
+        "名前のないメモ"
+      ],
+      "Untitled": [
+        "タイトルなし"
+      ],
+      "Update": [
+        "更新"
+      ],
+      "Used in": [
+        "で使われる"
+      ],
+      "Username": [
+        "ユーザー名"
+      ],
+      "Vault ID": [
+        "保管庫 ID"
+      ],
+      "Vaults": [
+        "保管庫"
+      ],
+      "View details": [
+        "詳細の表示"
+      ],
+      "View logs": [
+        "ログを表示"
+      ],
+      "Vulnerable": [
+        "脆弱"
+      ],
+      "Weak": [
+        "弱い"
+      ],
+      "Website": [
+        "ウェブサイト"
+      ],
+      "Websites": [
+        "ウェブサイト"
+      ],
+      "You are about to create": [
+        "作成されるメールアドレス"
+      ]
+    },
+    "Link": {
+      "Learn more": [
+        "詳細"
+      ],
+      "stay safer online": [
+        "オンラインでの安全性を高める"
+      ]
+    },
+    "Log preference": {
+      "Enable ${ reason }": [
+        "${ reason } を有効にする"
+      ]
+    },
+    "Message": {
+      "${ count } item": [
+        "${ count } 件のアイテム"
+      ],
+      "You selected ${ semiboldText } in this vault": [
+        "この保管庫で ${ semiboldText } を選択しました"
+      ]
+    },
+    "new_plans: feature": {
+      "Require 2FA for organization": [
+        "組織には 2FA が必要です"
+      ],
+      "SSO integration (coming soon)": [
+        "SSO 統合 (近日公開予定)"
+      ]
+    },
+    "Notification": {
+      "${ reason } has been disabled": [
+        "${ reason } が無効になりました"
+      ],
+      "${ reason } has been enabled": [
+        "${ reason } が有効になりました"
+      ]
+    },
+    "Option": {
+      "Commas": [
+        "コンマ"
+      ],
+      "Hyphens": [
+        "ハイフン"
+      ],
+      "Memorable Password": [
+        "覚えやすいパスワード"
+      ],
+      "Numbers": [
+        "数字"
+      ],
+      "Numbers and Symbols": [
+        "数字と記号"
+      ],
+      "Periods": [
+        "ピリオド"
+      ],
+      "Random Password": [
+        "ランダムなパスワード"
+      ],
+      "Spaces": [
+        "スペース"
+      ],
+      "Underscores": [
+        "アンダースコア"
+      ]
+    },
+    "Placeholder": {
+      "Add 2FA secret key": [
+        "2FA 秘密キーを追加する"
+      ],
+      "Add hidden text": [
+        "非表示テキストを追加"
+      ],
+      "Add note": [
+        "メモを追加"
+      ],
+      "Add text": [
+        "テキストを追加"
+      ],
+      "Email address": [
+        "メールアドレス"
+      ],
+      "Enter a note...": [
+        "メモを入力..."
+      ],
+      "Enter a prefix": [
+        "プレフィックスを入力"
+      ],
+      "Enter email": [
+        "メールアドレスを入力"
+      ],
+      "Enter email or username": [
+        "メールアドレスまたはユーザー名を入力"
+      ],
+      "Enter password": [
+        "パスワードを入力"
+      ],
+      "Enter username": [
+        "ユーザー名を入力"
+      ],
+      "Full Name": [
+        "氏名"
+      ],
+      "me@example.com": [
+        "me@example.com"
+      ],
+      "MM/YY": [
+        "MM/YY (月/年)"
+      ],
+      "Other": [
+        "その他"
+      ],
+      "Password": [
+        "パスワード"
+      ],
+      "Pick a vault": [
+        "保管庫を選択"
+      ],
+      "Please describe the problem and include any error messages": [
+        "問題について、エラーメッセージ等も含めてご記入ください。（英語）"
+      ],
+      "Retype \"${ vaultName }\" to confirm deletion": [
+        "削除を確認するには、「${ vaultName }」を再入力します。"
+      ],
+      "Search ${ pluralItemType } in ${ vaultName }": [
+        "${ vaultName } の ${ pluralItemType } を検索"
+      ],
+      "Search ${ pluralItemType } in all vaults": [
+        "すべての保管庫の ${ pluralItemType } を検索"
+      ],
+      "Search in ${ vaultName }": [
+        "${ vaultName } 内を検索"
+      ],
+      "Search in all vaults": [
+        "すべての保管庫を検索"
+      ],
+      "Search in Trash": [
+        "ごみ箱を検索"
+      ],
+      "Select a suffix": [
+        "サフィックスを選択"
+      ],
+      "Shared vault": [
+        "保管庫を共有"
+      ],
+      "Unknown origin": [
+        "不明な起源"
+      ],
+      "Untitled": [
+        "無題"
+      ],
+      "Used on ${ url }": [
+        "${ url } で使用されます"
+      ],
+      "Write your note": [
+        "メモを書く"
+      ]
+    },
+    "Security Center - Info": {
+      "${ name } and ${ remainingCount } other potential leaks detected. Turn on ${ DARK_WEB_MONITORING_NAME } to view details. ${ link }": [
+        "${ name } および他 ${ remainingCount } 件の漏洩の可能性が検出されました。${ DARK_WEB_MONITORING_NAME } を有効にして詳細を表示してください。${ link }"
+      ],
+      "${ name } and 1 other potential leak detected. Turn on ${ DARK_WEB_MONITORING_NAME } to view details. ${ link }": [
+        "${ name } および他 1 件の漏洩の可能性が検出されました。${ DARK_WEB_MONITORING_NAME } を有効にして詳細を表示してください。${ link }"
+      ],
+      "A potential ${ name } leak was detected. Turn on ${ DARK_WEB_MONITORING_NAME } to view details. ${ link }": [
+        "${ name } の漏洩の可能性が検出されました。${ DARK_WEB_MONITORING_NAME } を有効にして詳細を表示してください。${ link }"
+      ],
+      "Your information was found in at least one data leak. Turn on ${ DARK_WEB_MONITORING_NAME } to view details. ${ link }": [
+        "あなたの情報の漏洩が見つかりました。${ DARK_WEB_MONITORING_NAME } を有効にして詳細を表示してください。${ link }"
+      ]
+    },
+    "Success": {
+      "Vaults can’t contain more than ${ vault.targetMaxMembers } user.": [
+        "Vault には ${ vault.targetMaxMembers } を超えるユーザーを含めることはできません。"
+      ]
+    },
+    "Title": {
+      "${ BRAND_NAME } addresses": [
+        "${ BRAND_NAME } アドレス"
+      ],
+      "${ PASS_SHORT_APP_NAME } Monitor": [
+        "${ PASS_SHORT_APP_NAME } Monitor"
+      ],
+      "Account protection": [
+        "アカウントの保護"
+      ],
+      "Auto-lock update": [
+        "自動ロックアップデート"
+      ],
+      "Breach detected": [
+        "違反が検出されました"
+      ],
+      "Breaches": [
+        "侵害"
+      ],
+      "Breaches detected for": [
+        "検出された侵害"
+      ],
+      "Confirm PIN code": [
+        "PINコードの確認"
+      ],
+      "Confirm your email": [
+        "メールを確認してください"
+      ],
+      "Create a vault": [
+        "保管庫の作成"
+      ],
+      "Create PIN code": [
+        "PINコードの作成"
+      ],
+      "Created": [
+        "作成した"
+      ],
+      "Current version": [
+        "現在のバージョン"
+      ],
+      "Custom addresses": [
+        "カスタムアドレス"
+      ],
+      "Custom email monitoring": [
+        "カスタムメール監視"
+      ],
+      "Custom emails": [
+        "カスタムメール"
+      ],
+      "Dark Web Monitoring": [
+        "ダークウェブモニタリング"
+      ],
+      "Delete vault \"${ vaultName }\" ?": [
+        "保管庫「${ vaultName }」を削除しますか？"
+      ],
+      "Details": [
+        "詳細"
+      ],
+      "Discard changes?": [
+        "変更を破棄しますか?"
+      ],
+      "Enjoying ${ PASS_APP_NAME }?": [
+        "${ PASS_APP_NAME } をお楽しみですか?"
+      ],
+      "Enter your password": [
+        "パスワードを入力"
+      ],
+      "Enter your PIN": [
+        "PIN を入力してください"
+      ],
+      "Excluded items": [
+        "除外されたアイテム"
+      ],
+      "Get Started": [
+        "利用開始"
+      ],
+      "Grant permissions": [
+        "権限を付与する"
+      ],
+      "Hide-my-email aliases": [
+        "Hide-my-email エイリアス"
+      ],
+      "History": [
+        "履歴"
+      ],
+      "Import - ${ date }": [
+        "インポート - ${ date }"
+      ],
+      "Import to vault(s)": [
+        "一つ(複数)のフォルダーへのインポート"
+      ],
+      "Import your data": [
+        "データのインポート"
+      ],
+      "Inactive 2FA": [
+        "非アクティブな 2FA"
+      ],
+      "Install extension": [
+        "拡張機能のインストール"
+      ],
+      "Last autofill": [
+        "最後の自動入力"
+      ],
+      "Last modified": [
+        "最終更新日時"
+      ],
+      "Leave vault ?": [
+        "フォルダーをでますか？"
+      ],
+      "Loading breaches...": [
+        "違反を読み込み中..."
+      ],
+      "Low disk space": [
+        "ディスクの空き容量が低下"
+      ],
+      "Mark as resolved?": [
+        "解決済みとしてマークしますか?"
+      ],
+      "Member limit": [
+        "メンバー上限"
+      ],
+      "Members": [
+        "メンバー"
+      ],
+      "Modified": [
+        "更新日時"
+      ],
+      "No excluded items": [
+        "除外項目なし"
+      ],
+      "No inactive 2FAs": [
+        "非アクティブな 2FA はありません"
+      ],
+      "No insecure passwords": [
+        "安全でないパスワードはありません"
+      ],
+      "No items selected": [
+        "項目が選択されていません"
+      ],
+      "No reused passwords": [
+        "パスワードの再利用は禁止"
+      ],
+      "Our welcome gift to you": [
+        "あなたへのウェルカムギフト"
+      ],
+      "Passkey": [
+        "パスキー"
+      ],
+      "Password Health": [
+        "パスワードの健全性"
+      ],
+      "Pause monitoring?": [
+        "監視を一時停止しますか?"
+      ],
+      "Pending access to the shared data": [
+        "共有データへのアクセスが保留中です"
+      ],
+      "Permanently remove all items ?": [
+        "すべてのアイテムを永久に削除しますか？"
+      ],
+      "Pinned (${ items.length })": [
+        "ピン留め (${ items.length })"
+      ],
+      "Recommended actions": [
+        "推奨されるアクション"
+      ],
+      "Remove email address?": [
+        "メールアドレスを削除しますか?"
+      ],
+      "Resolved breaches": [
+        "解決された違反"
+      ],
+      "Restore this version?": [
+        "このバージョンを復元?"
+      ],
+      "Resume monitoring?": [
+        "監視を再開しますか?"
+      ],
+      "Reused ${ count } time": [
+        "${ count } 回再利用しました"
+      ],
+      "Reused passwords": [
+        "再利用パスワード"
+      ],
+      "Review and share": [
+        "レビューして共有"
+      ],
+      "Secure your data": [
+        "データの保護"
+      ],
+      "Set access level": [
+        "アクセスレベルの設定"
+      ],
+      "Set extra password": [
+        "追加のパスワードを設定する"
+      ],
+      "Set up 2FA for better security": [
+        "2要素認証を設定するとより安全になります"
+      ],
+      "Set up 2FA for more security": [
+        "2要素認証を設定するとより安全になります"
+      ],
+      "Settings": [
+        "設定"
+      ],
+      "Share vaults with your team": [
+        "チームに保管庫を共有"
+      ],
+      "Share with": [
+        "と共有する"
+      ],
+      "Stay safer online": [
+        "オンラインでの安全性を高める"
+      ],
+      "Suggestions": [
+        "候補"
+      ],
+      "Transfer ownership": [
+        "所有権の移行"
+      ],
+      "Trash empty": [
+        "ごみ箱は空です"
+      ],
+      "Unlock ${ brandNameJSX }": [
+        "${ brandNameJSX } のロックを解除します"
+      ],
+      "Update available": [
+        "更新あり"
+      ],
+      "Upgrade to Unlock Premium Features": [
+        "アップグレードしてプレミアム機能をロック解除する"
+      ],
+      "Vault": [
+        "保管庫"
+      ],
+      "Vault shared with you": [
+        "あなたと共有しているフォルダー"
+      ],
+      "Want to learn more?": [
+        "もっと詳しく知りたいですか?"
+      ],
+      "Weak password": [
+        "弱いパスワード"
+      ],
+      "Weak passwords": [
+        "弱いパスワード"
+      ],
+      "Welcome to ${ brandNameJSX }": [
+        "${ brandNameJSX } へようこそ"
+      ],
+      "What is an alias?": [
+        "エイリアスとは？"
+      ],
+      "What is the dark web?": [
+        "ダークウェブとは？"
+      ],
+      "Why ${ PASS_APP_NAME }?": [
+        "${ PASS_APP_NAME } を使用する理由"
+      ],
+      "Your exposed information": [
+        "あなたの暴露された情報"
+      ],
+      "Your vault is empty": [
+        "保管庫は空です"
+      ],
+      "Your welcome gift": [
+        "無料トライアルをお楽しみください"
+      ]
+    },
+    "Validation": {
+      "Duplicated URL": [
+        "重複した URL"
+      ],
+      "Email address is invalid": [
+        "メールアドレスが無効です"
+      ],
+      "Field name is required": [
+        "フィールド名は必須です"
+      ],
+      "OTP secret or URI is invalid": [
+        "OTP シークレットまたは URI が無効です"
+      ],
+      "OTP secret or URI required": [
+        "OTP シークレットまたは URI が必要です"
+      ],
+      "Url already exists": [
+        "Url は既に存在します"
+      ],
+      "URL cannot be empty": [
+        "URL を空にすることはできません"
+      ],
+      "Url is invalid": [
+        "URL が無効です"
+      ],
+      "URL is invalid": [
+        "URL が無効です"
+      ]
+    },
+    "Warning": {
+      "A description of the problem is required": [
+        "問題の説明が必要"
+      ],
+      "Alias \"${ name }\" is currently used in login item \"${ relatedLoginName }\". You will also stop receiving emails sent to \"${ aliasEmail }\"": [
+        "エイリアス「${ name }」は現在、ログイン項目「${ relatedLoginName }」で使用されています。 また、「${ aliasEmail }」に送信されたメールの受信も停止されます。"
+      ],
+      "All your trashed items will be permanently deleted. You cannot undo this action.": [
+        "ごみ箱に入れられたすべてのアイテムは完全に削除されます。 この操作を元に戻すことはできません。"
+      ],
+      "An error occured while exporting your data": [
+        "データのエクスポート中にエラーが発生しました"
+      ],
+      "At least one email address is required": [
+        "少なくとも1つのメールアドレスが必要です"
+      ],
+      "Cannot retrieve mailboxes for this alias right now": [
+        "現在、このエイリアスのメールボックスを取得できません。"
+      ],
+      "Could not create vault \"${ vaultName }\"": [
+        "保管庫「${ vaultName }」を作成できませんでした"
+      ],
+      "Could not send invitations to the following addresses :": [
+        ":のアドレスに招待を送信できませんでした"
+      ],
+      "Duplicate email addresses.": [
+        "メールアドレスが重複しています"
+      ],
+      "Email is required": [
+        "メールアドレスは必須です"
+      ],
+      "Empty note": [
+        "空のメモ"
+      ],
+      "Expiration Date is not in the format MM/YY": [
+        "有効期限が MM/YY の形式ではありません"
+      ],
+      "Failed to load breaches.": [
+        "違反をロードできませんでした。"
+      ],
+      "Invalid alias prefix": [
+        "無効なエイリアスプレフィックスです"
+      ],
+      "Invalid code": [
+        "無効なコード"
+      ],
+      "Invalid email": [
+        "無効な電子メール"
+      ],
+      "Invalid email addresses.": [
+        "無効なメールアドレスです"
+      ],
+      "Inviting email addresses outside organization is not allowed.": [
+        "組織外の電子メール アドレスを招待することはできません。"
+      ],
+      "item was imported without custom fields": [
+        "アイテムはカスタムフィールドなしでインポートされました"
+      ],
+      "Maximum length is ${ maxLength } character": [
+        "最大長は ${ maxLength } 文字です"
+      ],
+      "Missing alias prefix": [
+        "エイリアスのプレフィックスがありません"
+      ],
+      "Missing alias suffix": [
+        "エイリアスのサフィックスがありません"
+      ],
+      "No items": [
+        "アイテムがありません"
+      ],
+      "No items in trash matching": [
+        "ごみ箱に一致するものがない"
+      ],
+      "No items matching": [
+        "一致する項目はありません"
+      ],
+      "No password manager selected": [
+        "パスワードマネージャーが選択されていない"
+      ],
+      "No results": [
+        "結果なし"
+      ],
+      "Offline": [
+        "オフライン"
+      ],
+      "Only alphanumeric characters, dots, hyphens and underscores are allowed": [
+        "英数字、ドット、ハイフン、アンダースコアのみが使用できます"
+      ],
+      "Passphrase is required": [
+        "パスフレーズが必要です"
+      ],
+      "Passwords do not match": [
+        "パスワードが一致しません"
+      ],
+      "PGP encrypted export file requires passphrase": [
+        "PGP暗号化エクスポートファイルにはパスフレーズが必要です。"
+      ],
+      "Please contact us for investigating the issue": [
+        "問題を調査するにはお問い合わせください"
+      ],
+      "Please verify your email address in order to use email aliases": [
+        "メールアドレスを使用するためにメールアドレスの認証を行ってください"
+      ],
+      "Please verify your email address in order to use vault sharing": [
+        "フォルダーの共有を行うためにメールアドレスの認証を行ってください"
+      ],
+      "Reports are not end-to-end encrypted, please do not send any sensitive information.": [
+        "報告はエンドツーエンド暗号化されません。機密情報を送信しないでください。"
+      ],
+      "The alias prefix cannot be longer than 40 characters": [
+        "エイリアスのプレフィックスは40文字より長くすることはできません。"
+      ],
+      "This email address will no longer be monitored for data breaches.": [
+        "この電子メール アドレスは、データ侵害について監視されなくなります。"
+      ],
+      "Title is required": [
+        "タイトルは必須です"
+      ],
+      "Transfer ownership of this vault to ${ email }?": [
+        "このフォルダーの所有権を${ email }に移転しますか？"
+      ],
+      "Trash alias ?": [
+        "ごみ箱の別名?"
+      ],
+      "Unable to sign in to ${ PASS_APP_NAME }. ${ additionalMessage }": [
+        "${ PASS_APP_NAME } にサインインできません。 ${ additionalMessage }"
+      ],
+      "Vault \"${ vaultName }\" and all its items will be permanently deleted. You cannot undo this action.": [
+        "保管庫「${ vaultName }」とそのすべてのアイテムは完全に削除されます。 この操作を元に戻すことはできません。"
+      ],
+      "Vault name is required": [
+        "保管庫名は必須です"
+      ],
+      "Verification code is required": [
+        "確認コードが必要です"
+      ],
+      "You cannot create more vaults than your subscription allows.": [
+        "サブスクリプションで許可されている以上の保管庫を作成することはできません。"
+      ],
+      "You have reached the limit of members who can access this vault.": [
+        "この保管庫にアクセスできるメンバーの制限に達しました。"
+      ],
+      "You have reached the limit of users in this vault. ${ upgradeLink }": [
+        "この保管庫内のユーザーの制限に達しました。 ${ upgradeLink }"
+      ],
+      "You have reached the limit of vaults you can have in your plan.": [
+        "プラン内で使用できる保管庫の制限に達しました。"
+      ],
+      "You have unsaved changes.": [
+        "未保存の変更があります。"
+      ],
+      "You must select at least one mailbox": [
+        "少なくとも1つのメールボックスを選択する必要があります。"
+      ],
+      "You will no longer have access to this vault. To join it again, you will need a new invitation.": [
+        "あなたはこのフォルダーへのアクセスを持たなくなります。再度参加するには、新しい招待が必要です。"
+      ],
+      "Your session could not be authorized.": [
+        "セッションを認証できませんでした。"
+      ],
+      "Your session could not be resumed.": [
+        "セッションを再開できませんでした。"
+      ],
+      "Your session is inactive.": [
+        "非アクティブなセッションです"
+      ],
+      "Your session was locked.": [
+        "セッションがロックされました。"
+      ],
+      "Your subscription does not allow you to create multiple vaults. All items will be imported to your first vault. To import into multiple vaults upgrade your subscription.": [
+        "あなたのサブスクリプションでは、複数のフォルダーを作成することはできません。すべてのアイテムは最初のフォルダーにインポートされます。複数のフォルダーにインポートするには、サブスクリプションをアップグレードしてください。"
+      ]
+    }
+  }
+}
