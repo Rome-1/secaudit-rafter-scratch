@@ -1,0 +1,136 @@
+import { createExportIcs } from '@proton/shared/lib/calendar/export/createExportIcs';
+import { getProdIdFromNameAndVersion } from '@proton/shared/lib/calendar/vcalConfig';
+import { getUniqueVtimezones } from '@proton/shared/lib/calendar/vtimezoneHelper';
+import {
+    Calendar,
+    EXPORT_ERRORS,
+    EXPORT_STEPS,
+    ExportCalendarModel,
+    ExportError,
+    VcalVeventComponent,
+} from '@proton/shared/lib/interfaces/calendar';
+import { getWeekStartsOn } from '@proton/shared/lib/settings/helper';
+import { useState } from 'react';
+import { c } from 'ttag';
+
+import downloadFile from '@proton/shared/lib/helpers/downloadFile';
+import { format } from 'date-fns';
+import { Button, BasicModal } from '../../../components';
+import { useGetVtimezonesMap } from '../../../hooks/useGetVtimezonesMap';
+import ExportingModalContent from './ExportingModalContent';
+import ExportSummaryModalContent from './ExportSummaryModalContent';
+import { useConfig, useGetCalendarUserSettings, useUserSettings } from '../../../hooks';
+import { getAppVersion } from '../../..';
+
+interface Props {
+    calendar: Calendar;
+    onClose?: () => void;
+    onExit?: () => void;
+    isOpen?: boolean;
+}
+
+export const ExportModal = ({ calendar, onClose, onExit, isOpen = false }: Props) => {
+    const getVTimezonesMap = useGetVtimezonesMap();
+    const getCalendarUserSettings = useGetCalendarUserSettings();
+    const [userSettings] = useUserSettings();
+    const weekStartsOn = getWeekStartsOn(userSettings);
+    const { APP_VERSION } = useConfig();
+    const appVersion = getAppVersion(APP_VERSION);
+
+    const [model, setModel] = useState<ExportCalendarModel>({
+        step: EXPORT_STEPS.EXPORTING,
+        totalFetched: 0,
+        totalProcessed: 0,
+        exportErrors: [],
+        totalToProcess: 0,
+        weekStartsOn,
+        calendar,
+    });
+    const updateModel = (changes: Partial<ExportCalendarModel>) =>
+        setModel((currentModel: ExportCalendarModel) => ({ ...currentModel, ...changes }));
+
+    const [calendarBlob, setCalendarBlob] = useState<Blob>();
+
+    const { content, onSubmit } = (() => {
+        if (model.step === EXPORT_STEPS.EXPORTING) {
+            const handleFinish = async (
+                exportedEvents: VcalVeventComponent[],
+                exportErrors: ExportError[],
+                keepError?: boolean
+            ) => {
+                // we don't catch errors here as they're caught into a NETWORK error on ExportingModalContent
+                const { PrimaryTimezone: defaultTzid } = await getCalendarUserSettings();
+                const uniqueTimezones = await getUniqueVtimezones({
+                    vevents: exportedEvents,
+                    tzids: [defaultTzid],
+                    getVTimezonesMap,
+                }).catch(() => {
+                    return [];
+                });
+
+                const ics = createExportIcs({
+                    calendar,
+                    // We use the ProtonAccount version here,
+                    // but we do not want to display 'Web Account' in this public PRODID
+                    // As a compromise between a "marketing display" and traceability,
+                    // we add a '.a' suffix to indicate that the version refers to Proton Account
+                    prodId: getProdIdFromNameAndVersion('WebCalendar', `${appVersion}.a`),
+                    eventsWithSummary: exportedEvents,
+                    defaultTzid,
+                    vtimezones: uniqueTimezones,
+                });
+                updateModel({
+                    step: EXPORT_STEPS.FINISHED,
+                    exportErrors,
+                    ...(!keepError && { error: undefined }),
+                });
+                setCalendarBlob(new Blob([ics], { type: 'text/plain;charset=utf-8' }));
+            };
+
+            return {
+                content: <ExportingModalContent model={model} setModel={setModel} onFinish={handleFinish} />,
+                onSubmit: null,
+            };
+        }
+
+        return {
+            content: <ExportSummaryModalContent model={model} />,
+            onSubmit: () => {
+                if (model.error === EXPORT_ERRORS.NETWORK_ERROR) {
+                    updateModel({ step: EXPORT_STEPS.EXPORTING });
+                    return;
+                }
+
+                downloadFile(calendarBlob, `${calendar.Name}-${format(Date.now(), 'yyyy-MM-dd')}.ics`);
+                onClose?.();
+            },
+        };
+    })();
+
+    return (
+        <BasicModal
+            title={c('Title').t`Export calendar`}
+            footer={
+                <>
+                    <Button onClick={onClose}>{c('Action').t`Cancel`}</Button>
+                    {!!onSubmit && (
+                        <Button color="norm" onClick={onSubmit} type="submit">
+                            {model.error === EXPORT_ERRORS.NETWORK_ERROR
+                                ? c('Action').t`Try again`
+                                : c('Action').t`Save ICS file`}
+                        </Button>
+                    )}
+                </>
+            }
+            isOpen={isOpen}
+            size="large"
+            fullscreenOnMobile
+            onClose={onClose}
+            onExit={onExit}
+        >
+            {content}
+        </BasicModal>
+    );
+};
+
+export default ExportModal;

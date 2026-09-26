@@ -1,0 +1,5611 @@
+{
+  "headers": {
+    "plural-forms": "nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));",
+    "language": "ru_RU"
+  },
+  "contexts": {
+    "Action": {
+      "${ BRAND_NAME } introduction": [
+        "Введение в ${ BRAND_NAME }"
+      ],
+      "${ BRAND_NAME } shop": [
+        "магазин ${ BRAND_NAME }"
+      ],
+      "Activate recovery": [
+        "Активировать восстановление"
+      ],
+      "Add": [
+        "Добавить"
+      ],
+      "Add address": [
+        "Добавить адрес"
+      ],
+      "Add contact": [
+        "Добавить контакт"
+      ],
+      "Add email": [
+        "Добавить адресата"
+      ],
+      "Add group": [
+        "Добавить группу"
+      ],
+      "Add new contact": [
+        "Добавить новый контакт"
+      ],
+      "Add new group": [
+        "Добавить новую группу"
+      ],
+      "Add notification": [
+        "Добавить уведомление"
+      ],
+      "Add phone number": [
+        "Добавить номер телефона"
+      ],
+      "Add to group": [
+        "Добавить в группу"
+      ],
+      "Apply": [
+        "Применить"
+      ],
+      "Attach screenshot(s)": [
+        "Вложить снимок(ки) экрана"
+      ],
+      "Back": [
+        "Назад"
+      ],
+      "Beta Access": [
+        "Доступ к Beta"
+      ],
+      "Cancel": [
+        "Отменить"
+      ],
+      "Chat with us": [
+        "Пообщайтесь с нами"
+      ],
+      "Check import progress": [
+        "Проверить ход импорта"
+      ],
+      "Choose a file or drag it here": [
+        "Выберите файл или перетащите его сюда"
+      ],
+      "Clear data": [
+        "Очистить данные"
+      ],
+      "Clear query": [
+        "Очистить запрос"
+      ],
+      "Click here.": [
+        "Нажмите здесь."
+      ],
+      "Close": [
+        "Закрыть"
+      ],
+      "Close event popover": [
+        "Закрыть окно события"
+      ],
+      "Close modal": [
+        "Закрыть окно"
+      ],
+      "Close navigation": [
+        "Скрыть панель навигации"
+      ],
+      "Close this banner": [
+        "Закрыть этот баннер"
+      ],
+      "Compose": [
+        "Новое письмо"
+      ],
+      "Confirm": [
+        "Подтвердить"
+      ],
+      "Confirm opening of link ${ linkToShow }": [
+        "Подтвердите открытие ссылки ${ linkToShow }"
+      ],
+      "Contact group": [
+        "Группа контактов"
+      ],
+      "Continue": [
+        "Продолжить"
+      ],
+      "Continue import": [
+        "Продолжить импорт"
+      ],
+      "Continue with Google": [
+        "Продолжить с Google"
+      ],
+      "Copy email to clipboard": [
+        "Скопировать адрес эл. почты в буфер обмена"
+      ],
+      "Create a new contact group": [
+        "Создать новую группу контактов"
+      ],
+      "Create calendar": [
+        "Создать календарь"
+      ],
+      "Create event": [
+        "Создать событие"
+      ],
+      "Customize": [
+        "Настроить"
+      ],
+      "Delete": [
+        "Удалить"
+      ],
+      "Delete ${ selectedCount } contact": [
+        "Удалить ${ selectedCount } контакт",
+        "Удалить ${ selectedCount } контакта",
+        "Удалить ${ selectedCount } контактов",
+        "Удалить ${ selectedCount } контактов"
+      ],
+      "Delete ${ selectedCount } contact group": [
+        "Удалить ${ selectedCount } группу контактов",
+        "Удалить ${ selectedCount } группы контактов",
+        "Удалить ${ selectedCount } групп контактов",
+        "Удалить ${ selectedCount } групп контактов"
+      ],
+      "Delete contact": [
+        "Удалить контакт"
+      ],
+      "Delete contact group": [
+        "Удалить группу контактов"
+      ],
+      "Deselect all": [
+        "Снять выделение"
+      ],
+      "Didn't receive the code?": [
+        "Не получили код?"
+      ],
+      "Discard": [
+        "Сбросить"
+      ],
+      "Done": [
+        "Готово"
+      ],
+      "Download": [
+        "Скачать"
+      ],
+      "Edit": [
+        "Изменить"
+      ],
+      "Edit email address": [
+        "Изменить адрес эл. почты"
+      ],
+      "Edit label": [
+        "Изменить ярлык"
+      ],
+      "Edit phone number": [
+        "Изменить номер телефона"
+      ],
+      "Edit sign-in details": [
+        "Изменить информацию о входе в систему"
+      ],
+      "Email settings": [
+        "Настройки эл. почты"
+      ],
+      "enable desktop notifications": [
+        "включить уведомления на рабочем столе"
+      ],
+      "Export": [
+        "Экспортировать"
+      ],
+      "Export contact group": [
+        "Экспортировать группу контактов"
+      ],
+      "Export contacts": [
+        "Экспортировать контакты"
+      ],
+      "Forward as attachment": [
+        "Переслать как вложение"
+      ],
+      "Get started": [
+        "Приступить к работе"
+      ],
+      "Get verification code": [
+        "Получить проверочный код"
+      ],
+      "Go to label": [
+        "Перейти к ярлыку"
+      ],
+      "Go to panel ${ index }": [
+        "Перейти к панели ${ index }"
+      ],
+      "Go to settings": [
+        "Перейти в настройки"
+      ],
+      "Got it": [
+        "Понятно"
+      ],
+      "Hide advanced PGP settings": [
+        "Скрыть расширенные настройки PGP"
+      ],
+      "Hide folders": [
+        "Скрыть папки"
+      ],
+      "Hide labels": [
+        "Скрыть ярлыки"
+      ],
+      "Hide time zones": [
+        "Скрыть часовые пояса"
+      ],
+      "I have a question": [
+        "У меня есть вопрос"
+      ],
+      "import": [
+        "импорт"
+      ],
+      "Import": [
+        "Импорт"
+      ],
+      "Import events": [
+        "Импортировать события"
+      ],
+      "Import from .csv or vCard": [
+        "Импорт из .csv или vCard"
+      ],
+      "Load image": [
+        "Загрузить изображение"
+      ],
+      "Log in": [
+        "Войти"
+      ],
+      "Make this participant optional": [
+        "Сделать участие этого пользователя необязательным"
+      ],
+      "Make this participant required": [
+        "Сделать участие этого пользователя обязательным"
+      ],
+      "Mark for deletion": [
+        "Пометить для удаления"
+      ],
+      "Maybe": [
+        "Может быть"
+      ],
+      "Maybe I'll attend": [
+        "Возможно я участвую"
+      ],
+      "Merge": [
+        "Объединить"
+      ],
+      "Merge contacts": [
+        "Объединить контакты"
+      ],
+      "More info: ${ safeTitle }": [
+        "Дополнительная информация: ${ safeTitle }"
+      ],
+      "More options": [
+        "Дополнительные параметры"
+      ],
+      "New event": [
+        "Новое событие"
+      ],
+      "Next": [
+        "Далее"
+      ],
+      "Next day": [
+        "Следующий день"
+      ],
+      "Next month": [
+        "Следующий месяц"
+      ],
+      "Next week": [
+        "Следующая неделя"
+      ],
+      "Next year": [
+        "Следующий год"
+      ],
+      "No": [
+        "Нет"
+      ],
+      "No, I won't attend": [
+        "Нет, я не участвую"
+      ],
+      "OK": [
+        "ОК"
+      ],
+      "Open navigation": [
+        "Показать панель навигации"
+      ],
+      "Preview contact": [
+        "Предпросмотр контакта"
+      ],
+      "Previous day": [
+        "Предыдущий день"
+      ],
+      "Previous month": [
+        "Предыдущий месяц"
+      ],
+      "Previous week": [
+        "Предыдущая неделя"
+      ],
+      "Previous year": [
+        "Предыдущий год"
+      ],
+      "Quit": [
+        "Выйти"
+      ],
+      "Re-sign": [
+        "Подписать повторно"
+      ],
+      "Recover data": [
+        "Восстановить данные"
+      ],
+      "Refer a friend": [
+        "Порекомендуйте друга"
+      ],
+      "refresh the page": [
+        "обновить страницу"
+      ],
+      "Refresh the page": [
+        "Обновить страницу"
+      ],
+      "Remove": [
+        "Удалить"
+      ],
+      "Remove this notification": [
+        "Удалить это уведомление"
+      ],
+      "Remove this participant": [
+        "Удалить этого участника"
+      ],
+      "Rename": [
+        "Переименовать"
+      ],
+      "Report a problem": [
+        "Сообщить о проблеме"
+      ],
+      "Request a feature": [
+        "Предложить идею"
+      ],
+      "Request new code": [
+        "Запросить новый код"
+      ],
+      "Save": [
+        "Сохранить"
+      ],
+      "Select all": [
+        "Выбрать всё"
+      ],
+      "Select timezone": [
+        "Выберите часовой пояс"
+      ],
+      "Send": [
+        "Отправить"
+      ],
+      "Set recovery phrase": [
+        "Установить фразу для восстановления"
+      ],
+      "Share": [
+        "Поделиться"
+      ],
+      "Show advanced PGP settings": [
+        "Показать расширенные настройки PGP"
+      ],
+      "Show folders": [
+        "Показать папки"
+      ],
+      "Show labels": [
+        "Показать ярлыки"
+      ],
+      "Show less": [
+        "Показать меньше"
+      ],
+      "Show more": [
+        "Показать больше"
+      ],
+      "Show time zones": [
+        "Показать часовые пояса"
+      ],
+      "Sign out": [
+        "Выйти из учетной записи"
+      ],
+      "Signing out": [
+        "Производится выход"
+      ],
+      "Skip": [
+        "Пропустить"
+      ],
+      "Start import": [
+        ""
+      ],
+      "Start setup": [
+        "Приступить к настройкам"
+      ],
+      "Stay": [
+        "Остаться"
+      ],
+      "Submit": [
+        "Отправить"
+      ],
+      "Theme": [
+        "Тема"
+      ],
+      "Today": [
+        "Сегодня"
+      ],
+      "Trust": [
+        "Доверять"
+      ],
+      "Try another method": [
+        "Попробуйте другой способ"
+      ],
+      "Unlock data": [
+        "Разблокировать данные"
+      ],
+      "Unmark for deletion": [
+        "Снять метку для удаления"
+      ],
+      "Untrust": [
+        "Отозвать доверие"
+      ],
+      "Update": [
+        "Обновить"
+      ],
+      "Update recovery file": [
+        "Обновить файл восстановления"
+      ],
+      "Update recovery phrase": [
+        "Обновить фразу для восстановления"
+      ],
+      "Upgrade": [
+        "Обновить"
+      ],
+      "Upload picture": [
+        "Загрузить картинку"
+      ],
+      "Use ${ label } theme": [
+        "Использовать тему: ${ label }"
+      ],
+      "Use for sending": [
+        "Использовать для отправки"
+      ],
+      "Verify": [
+        "Подтвердить"
+      ],
+      "Verify account": [
+        "Подтвердить аккаунт"
+      ],
+      "Verify email": [
+        "Подтвердить эл. почту"
+      ],
+      "View": [
+        "Просмотреть"
+      ],
+      "View invoice": [
+        "Посмотреть счёт"
+      ],
+      "Yes": [
+        "Да"
+      ],
+      "Yes, I'll attend": [
+        "Да, я участвую"
+      ]
+    },
+    "Actions message": {
+      "${ addContact } or ${ importContact }.": [
+        "${ addContact } или ${ importContact }."
+      ],
+      "No results found.": [
+        "Результаты не найдены."
+      ],
+      "Please try another search term.": [
+        "Измените параметры поиска."
+      ],
+      "You don't have any contacts.": [
+        "У вас нет контактов."
+      ],
+      "You don't have any groups.": [
+        "У вас нет групп."
+      ]
+    },
+    "Alarm notification": {
+      "${ title } started at ${ formattedHour }": [
+        "Событие ${ title } началось в ${ formattedHour }"
+      ],
+      "${ title } started on ${ _formattedDate }": [
+        "Событие ${ title } началось ${ _formattedDate }"
+      ],
+      "${ title } started on ${ _formattedDate } at ${ formattedHour }": [
+        "Событие ${ title } началось ${ _formattedDate } в ${ formattedHour }"
+      ],
+      "${ title } started on ${ _formattedDateWithTime }": [
+        "Событие ${ title } началось ${ _formattedDateWithTime }"
+      ],
+      "${ title } started on ${ formattedDate }": [
+        "Событие ${ title } началось ${ formattedDate }"
+      ],
+      "${ title } started on ${ formattedDate } at ${ formattedHour }": [
+        "Событие ${ title } началось ${ formattedDate } в ${ formattedHour }"
+      ],
+      "${ title } started on ${ formattedDateWithoutTime }": [
+        "Событие ${ title } началось ${ formattedDateWithoutTime }"
+      ],
+      "${ title } started yesterday": [
+        "Событие ${ title } началось вчера"
+      ],
+      "${ title } started yesterday at ${ formattedHour }": [
+        "Событие ${ title } началось вчера в ${ formattedHour }"
+      ],
+      "${ title } starts at ${ formattedHour }": [
+        "Событие ${ title } начинается в ${ formattedHour }"
+      ],
+      "${ title } starts now": [
+        "Событие ${ title } начинается"
+      ],
+      "${ title } starts on ${ _formattedDate2 }": [
+        "Событие ${ title } начинается ${ _formattedDate2 }"
+      ],
+      "${ title } starts on ${ _formattedDate2 } at ${ formattedHour }": [
+        "Событие ${ title } начинается ${ _formattedDate2 } в ${ formattedHour }"
+      ],
+      "${ title } starts on ${ _formattedDate3 }": [
+        "Событие ${ title } начинается ${ _formattedDate3 }"
+      ],
+      "${ title } starts on ${ _formattedDate3 } at ${ formattedHour }": [
+        "Событие ${ title } начинается ${ _formattedDate3 } в ${ formattedHour }"
+      ],
+      "${ title } starts on ${ _formattedDateWithoutTime }": [
+        "Событие ${ title } начинается ${ _formattedDateWithoutTime }"
+      ],
+      "${ title } starts on ${ formattedDateWithTime }": [
+        "Событие ${ title } начинается ${ formattedDateWithTime }"
+      ],
+      "${ title } starts today": [
+        "Событие ${ title } начинается сегодня"
+      ],
+      "${ title } starts tomorrow": [
+        "Событие ${ title } начинается завтра"
+      ],
+      "${ title } starts tomorrow at ${ formattedHour }": [
+        "Событие ${ title } начинается завтра в ${ formattedHour }"
+      ]
+    },
+    "Alert": {
+      "By leaving now, some contacts may not be imported": [
+        "Если выйти сейчас, импорт некоторых контактов не завершится"
+      ],
+      "By leaving now, some events may not be imported": [
+        "Если выйти сейчас, импорт некоторых событий не завершится"
+      ],
+      "By leaving now, you will lose your event.": [
+        "Если выйти сейчас, вы потеряете событие."
+      ]
+    },
+    "Apps dropdown": {
+      "Proton applications": [
+        "Приложения Proton"
+      ]
+    },
+    "Attached ics file error": {
+      "Empty ICS file": [
+        "Пустой файл ICS"
+      ],
+      "Invalid event": [
+        "Недопустимое событие"
+      ],
+      "Invalid ICS file": [
+        "Недопустимый файл ICS"
+      ],
+      "Invalid method": [
+        "Недопустимый метод"
+      ],
+      "Unsupported calendar component": [
+        "Неподдерживаемый компонент календаря"
+      ],
+      "Unsupported event": [
+        "Неподдерживаемое событие"
+      ]
+    },
+    "Attendee role": {
+      "Optional": [
+        "Необязательно"
+      ]
+    },
+    "Beta access description": {
+      "Beta Access lets you use the beta version of ${ MAIL_APP_NAME }, ${ CALENDAR_APP_NAME }, and ${ DRIVE_APP_NAME } before they are released to the public. This means you can be the first to try new products, get new updates, and use new features.": [
+        "Доступ к бета-версии позволит вам использовать бета-версии ${ MAIL_APP_NAME }, ${ CALENDAR_APP_NAME } и ${ DRIVE_APP_NAME } до их публичного выпуска. Это означает, что вы сможете первыми опробовать новые продукты, получать обновления и использовать новые функции."
+      ],
+      "If you encounter issues, you can always disable Beta Access.": [
+        "Если вы столкнетесь с проблемами, вы всегда можете отключить доступ к Beta."
+      ]
+    },
+    "blackfriday Action": {
+      "Get the offer": [
+        "Воспользоваться"
+      ]
+    },
+    "blackfriday Info": {
+      "beta": [
+        "бета"
+      ],
+      "Includes": [
+        "Включает"
+      ],
+      "Standard price: ${ regularPrice }": [
+        "Обычная цена: ${ regularPrice }"
+      ],
+      "This subscription will automatically renew after 2 years at the same rate until it is cancelled.": [
+        "Через 2 года подписка будет автоматически продлена по той же цене, если вы не отмените ее до этого срока."
+      ]
+    },
+    "blackfriday Title": {
+      "Best deal": [
+        "Лучшее предложение"
+      ],
+      "Most popular": [
+        "Самое популярное"
+      ],
+      "Save more when combining Mail and VPN": [
+        "Сэкономьте больше, оплачивая Mail и VPN вместе"
+      ]
+    },
+    "blackfriday: VPNspecialoffer Action": {
+      "Get the deal": [
+        "Получить скидку"
+      ],
+      "Get the deal now": [
+        "Получить скидку"
+      ]
+    },
+    "blackfriday: VPNspecialoffer Info": {
+      "Discounts are based on standard monthly pricing of ${ standardMonthlyPricing }": [
+        "Скидки рассчитываются исходя из стандартной платы за 1 месяц в размере ${ standardMonthlyPricing }"
+      ],
+      "Save ${ percentage }%": [
+        "– ${ percentage } %"
+      ],
+      "Special offer Terms and Conditions": [
+        "Условия специального предложения"
+      ]
+    },
+    "blackfriday: VPNspecialoffer info": {
+      "per month": [
+        "в месяц"
+      ]
+    },
+    "blackfriday: VPNspecialoffer Promo title, need to be short": {
+      "Special offer": [
+        "Спецпредложение"
+      ]
+    },
+    "blackfriday: VPNspecialoffer Title": {
+      "(${ notice }) Renews after 1 month at a standard monthly price of ${ amount }": [
+        "(${ notice }) Автопродление через 1 месяц по стандартной цене ${ amount } на 1 месяц"
+      ],
+      "(${ notice }) Renews after 1 year at a standard discounted annual price of ${ amount } (20% discount)": [
+        "(${ notice }) Автопродление через 1 год по сниженной цене ${ amount } на 1 год (скидка 20%)"
+      ],
+      "(${ notice }) Renews after 2 years at a standard discounted 2-year price of ${ amount } (33% discount)": [
+        "(${ notice }) Автопродление через 2 года по сниженной цене ${ amount } на 2 года (скидка 33%)"
+      ],
+      "1 month": [
+        "1 месяц"
+      ],
+      "12 months": [
+        "12 месяцев"
+      ],
+      "24 months": [
+        "24 месяца"
+      ],
+      "Billed at ${ amount } for the first 2 years.${ supNotice }": [
+        "Оплата в размере ${ amount } за первые 2 года.${ supNotice }"
+      ],
+      "Billed at ${ amount } for the first month.${ supNotice }": [
+        "Оплата в размере ${ amount } за первый месяц.${ supNotice }"
+      ],
+      "Billed at ${ amount } for the first year.${ supNotice }": [
+        "Оплата в размере ${ amount } за первый год.${ supNotice }"
+      ],
+      "Get the special year-end offer on our Premium VPN PLUS plan": [
+        "Воспользуйтесь специальным предложением в конце года для премиум-тарифа VPN PLUS"
+      ]
+    },
+    "Bug category": {
+      "Application problem": [
+        "Проблема в приложении"
+      ],
+      "Bridge problem": [
+        "Проблема с Bridge"
+      ],
+      "Calendar problem": [
+        "Проблема календаря"
+      ],
+      "Connection problem": [
+        "Проблема с соединением"
+      ],
+      "Contacts problem": [
+        "Проблемы с контактами"
+      ],
+      "Custom domain problem": [
+        "Проблема своих доменов"
+      ],
+      "Drive problem": [
+        "Проблема с Drive"
+      ],
+      "Feature request": [
+        "Запрос новой функции"
+      ],
+      "Import / export problem": [
+        "Проблема импорта / экспорта"
+      ],
+      "Installation problem": [
+        "Проблема с установкой"
+      ],
+      "Mail problem": [
+        "Проблема с почтой"
+      ],
+      "Manual setup problem": [
+        "Проблема при ручной установке"
+      ],
+      "Other": [
+        "Другое"
+      ],
+      "Payments problem": [
+        "Проблема с платежами"
+      ],
+      "Sign in problem": [
+        "Проблема со входом"
+      ],
+      "Sign up problem": [
+        "Проблема при регистрации"
+      ],
+      "Signup problem": [
+        "Проблема при регистрации"
+      ],
+      "Slow speed problem": [
+        "Проблема с низкой скоростью"
+      ],
+      "Speed problem": [
+        "Проблема со скоростью"
+      ],
+      "Streaming problem": [
+        "Проблема стриминга"
+      ],
+      "Update problem": [
+        "Проблема с обновлением"
+      ],
+      "VPN problem": [
+        "Проблема с VPN"
+      ],
+      "Website access problem": [
+        "Проблема с доступом к сайту"
+      ]
+    },
+    "Button": {
+      "Continue using ${ MAIL_APP_NAME }.": [
+        "Продолжить, используя ${ MAIL_APP_NAME }."
+      ]
+    },
+    "Calendar invite buttons label": {
+      "Attending?": [
+        "Участвуете?"
+      ]
+    },
+    "Calendar invite info": {
+      "${ name } accepted the invitation": [
+        "${ name } принял приглашение"
+      ],
+      "${ name } declined the invitation": [
+        "${ name } отклонил приглашение"
+      ],
+      "${ name } hasn't answered the invitation yet": [
+        "${ name } ещё не ответил на приглашение"
+      ],
+      "${ name } tentatively accepted the invitation": [
+        "${ name } предварительно принял приглашение"
+      ],
+      "This event has been canceled": [
+        "Это событие было отменено"
+      ],
+      "You accepted the invitation": [
+        "Вы приняли приглашение"
+      ],
+      "You declined the invitation": [
+        "Вы отклонили приглашение"
+      ],
+      "You haven't answered the invitation yet": [
+        "Вы еще не ответили на приглашение"
+      ],
+      "You tentatively accepted the invitation": [
+        "Вы предварительно приняли приглашение"
+      ]
+    },
+    "Calendar sidebar dropdown item": {
+      "Add calendar from URL": [
+        "Добавить календарь из URL"
+      ],
+      "More options": [
+        "Дополнительные параметры"
+      ]
+    },
+    "Calendar status": {
+      "Not synced": [
+        "Не синхронизирован"
+      ],
+      "Syncing": [
+        "Синхронизация"
+      ]
+    },
+    "Calendar subscription not synced error": {
+      "Calendar could not be decrypted": [
+        "Невозможно было расшифровать Календарь"
+      ],
+      "Calendar is syncing": [
+        "Календарь синхронизируется"
+      ],
+      "Calendar is too big": [
+        "Календарь слишком большой"
+      ],
+      "Calendar link is not accessible": [
+        "Ссылка на календарь недоступна"
+      ],
+      "Calendar link is temporarily inaccessible": [
+        "Ссылка на календарь временно недоступна"
+      ],
+      "Failed to sync calendar": [
+        "Не удалось синхронизировать календарь"
+      ],
+      "More than 12 hours passed since last update": [
+        "Более 12 часов прошло с момента последнего обновления"
+      ],
+      "Unsupported calendar format": [
+        "Неподдерживаемый формат календаря"
+      ]
+    },
+    "Calendar view": {
+      "Day": [
+        "День"
+      ],
+      "Month": [
+        "Месяц"
+      ],
+      "Week": [
+        "Неделя"
+      ]
+    },
+    "Calendar view selector": {
+      "Change time range to": [
+        "Изменить временной диапазон на"
+      ]
+    },
+    "Collapsible tooltip": {
+      "Close": [
+        "Закрыть"
+      ],
+      "Open": [
+        "Открыть"
+      ]
+    },
+    "colon": {
+      ": ": [
+        ": "
+      ]
+    },
+    "Confirm modal title": {
+      "Quit import customization?": [
+        "Прекратить настройку импорта?"
+      ]
+    },
+    "Contact field label": {
+      "Address": [
+        "Адрес"
+      ],
+      "Anniversary": [
+        "Годовщина"
+      ],
+      "Birthday": [
+        "Дата рождения"
+      ],
+      "Email": [
+        "Электронная почта"
+      ],
+      "Gender": [
+        "Пол"
+      ],
+      "Geo": [
+        "Геолокация"
+      ],
+      "Language": [
+        "Язык"
+      ],
+      "Logo": [
+        "Лого"
+      ],
+      "Member": [
+        "Участник"
+      ],
+      "Name": [
+        "Имя"
+      ],
+      "Note": [
+        "Примечание"
+      ],
+      "Organization": [
+        "Организация"
+      ],
+      "Phone": [
+        "Телефон"
+      ],
+      "Photo": [
+        "Фотография"
+      ],
+      "Role": [
+        "Роль"
+      ],
+      "Timezone": [
+        "Часовой пояс"
+      ],
+      "Title": [
+        "Должность"
+      ],
+      "URL": [
+        "URL"
+      ]
+    },
+    "Contact type label": {
+      "Fax": [
+        "Факс"
+      ],
+      "Main": [
+        "Основной"
+      ],
+      "Mobile": [
+        "Мобильный"
+      ],
+      "Other": [
+        "Другое"
+      ],
+      "Pager": [
+        "Пейджер"
+      ],
+      "Personal": [
+        "Личный"
+      ],
+      "Work": [
+        "Рабочий"
+      ],
+      "Yomi": [
+        "Фонетическое имя"
+      ]
+    },
+    "Country name": {
+      "Abkhazia": [
+        "Абхазия"
+      ],
+      "Afghanistan": [
+        "Афганистан"
+      ],
+      "Albania": [
+        "Албания"
+      ],
+      "Algeria": [
+        "Алжир"
+      ],
+      "American Samoa": [
+        "Американское Самоа"
+      ],
+      "Andorra": [
+        "Андорра"
+      ],
+      "Angola": [
+        "Ангола"
+      ],
+      "Anguilla": [
+        "Ангилья"
+      ],
+      "Antarctica": [
+        "Антарктида"
+      ],
+      "Antigua and Barbuda": [
+        "Антигуа и Барбуда"
+      ],
+      "Argentina": [
+        "Аргентина"
+      ],
+      "Armenia": [
+        "Армения"
+      ],
+      "Aruba": [
+        "Аруба"
+      ],
+      "Ascension Island": [
+        "Остров Вознесения"
+      ],
+      "Australia": [
+        "Австралия"
+      ],
+      "Austria": [
+        "Австрия"
+      ],
+      "Azerbaijan": [
+        "Азербайджан"
+      ],
+      "Bahamas": [
+        "Багамские острова"
+      ],
+      "Bahrain": [
+        "Бахрейн"
+      ],
+      "Bangladesh": [
+        "Бангладеш"
+      ],
+      "Barbados": [
+        "Барбадос"
+      ],
+      "Belarus": [
+        "Белоруссия"
+      ],
+      "Belgium": [
+        "Бельгия"
+      ],
+      "Belize": [
+        "Белиз"
+      ],
+      "Benin": [
+        "Бенин"
+      ],
+      "Bermuda": [
+        "Бермуды"
+      ],
+      "Bhutan": [
+        "Бутан"
+      ],
+      "Bolivia": [
+        "Боливия"
+      ],
+      "Bonaire, Sint Eustatius and Saba": [
+        "Бонайре, Синт-Эстатиус и Саба"
+      ],
+      "Bosnia and Herzegovina": [
+        "Босния и Герцеговина"
+      ],
+      "Botswana": [
+        "Ботсвана"
+      ],
+      "Bouvet Island": [
+        "Остров Буве"
+      ],
+      "Brazil": [
+        "Бразилия"
+      ],
+      "British Indian Ocean Territory": [
+        "Британская территория в Индийском океане"
+      ],
+      "Brunei Darussalam": [
+        "Бруней-Даруссалам"
+      ],
+      "Bulgaria": [
+        "Болгария"
+      ],
+      "Burkina Faso": [
+        "Буркина-Фасо"
+      ],
+      "Burma": [
+        "Бирма"
+      ],
+      "Burundi": [
+        "Бурунди"
+      ],
+      "Cambodia": [
+        "Камбоджа"
+      ],
+      "Cameroon": [
+        "Камерун"
+      ],
+      "Canada": [
+        "Канада"
+      ],
+      "Cape Verde": [
+        "Острова Зеленого Мыса"
+      ],
+      "Cayman Islands": [
+        "Каймановы острова"
+      ],
+      "Central African Republic": [
+        "Центральноафриканская Республика"
+      ],
+      "Chad": [
+        "Чад"
+      ],
+      "Chile": [
+        "Чили"
+      ],
+      "China": [
+        "Китай"
+      ],
+      "Christmas Island": [
+        "Остров Рождества"
+      ],
+      "Cocos (Keeling) Islands": [
+        "Кокосовые (Килинговые) острова"
+      ],
+      "Colombia": [
+        "Колумбия"
+      ],
+      "Comoros": [
+        "Коморские острова"
+      ],
+      "Congo": [
+        "Конго"
+      ],
+      "Congo, Democratic Republic of the": [
+        "Демократическая Республика Конго"
+      ],
+      "Cook Islands": [
+        "Острова Кука"
+      ],
+      "Costa Rica": [
+        "Коста-Рика"
+      ],
+      "Cote d'Ivoire\"": [
+        "Берег Слоновой Кости"
+      ],
+      "Croatia": [
+        "Хорватия"
+      ],
+      "Cuba": [
+        "Куба"
+      ],
+      "Curaçao": [
+        "Кюрасао"
+      ],
+      "Cyprus": [
+        "Кипр"
+      ],
+      "Czech Republic": [
+        "Чешская Республика"
+      ],
+      "Denmark": [
+        "Дания"
+      ],
+      "Djibouti": [
+        "Джибути"
+      ],
+      "Dominica": [
+        "Доминика"
+      ],
+      "Dominican Republic": [
+        "Доминиканская Республика"
+      ],
+      "Ecuador": [
+        "Эквадор"
+      ],
+      "Egypt": [
+        "Египет"
+      ],
+      "El Salvador": [
+        "Сальвадор"
+      ],
+      "Equatorial Guinea": [
+        "Экваториальная Гвинея"
+      ],
+      "Eritrea": [
+        "Эритрея"
+      ],
+      "Estonia": [
+        "Эстония"
+      ],
+      "Ethiopia": [
+        "Эфиопия"
+      ],
+      "Falkland Islands": [
+        "Фолклендские острова"
+      ],
+      "Faroe Islands": [
+        "Фарерские острова"
+      ],
+      "Federated States of Micronesia": [
+        "Федеративные Штаты Микронезии"
+      ],
+      "Fiji": [
+        "Фиджи"
+      ],
+      "Finland": [
+        "Финляндия"
+      ],
+      "France": [
+        "Франция"
+      ],
+      "French Guiana": [
+        "Французская Гвиана"
+      ],
+      "French Polynesia": [
+        "Французская Полинезия"
+      ],
+      "French Southern Territories": [
+        "Французские Южные территории"
+      ],
+      "Gabon": [
+        "Габон"
+      ],
+      "Gambia": [
+        "Гамбия"
+      ],
+      "Georgia": [
+        "Грузия"
+      ],
+      "Germany": [
+        "Германия"
+      ],
+      "Ghana": [
+        "Гана"
+      ],
+      "Gibraltar": [
+        "Гибралтар"
+      ],
+      "Greece": [
+        "Греция"
+      ],
+      "Greenland": [
+        "Гренландия"
+      ],
+      "Grenada": [
+        "Гренада"
+      ],
+      "Guadeloupe": [
+        "Гваделупа"
+      ],
+      "Guam": [
+        "Гуам"
+      ],
+      "Guatemala": [
+        "Гватемала"
+      ],
+      "Guernsey": [
+        "Гернси"
+      ],
+      "Guinea": [
+        "Гвинея"
+      ],
+      "Guinea-Bissau": [
+        "Гвинея-Бисау"
+      ],
+      "Guyana": [
+        "Гайана"
+      ],
+      "Haiti": [
+        "Гаити"
+      ],
+      "Heard Island and McDonald Islands": [
+        "Остров Херд и острова Макдональд"
+      ],
+      "Holy See (Vatican City State)": [
+        "Святой Престол (Государство-Город Ватикан)"
+      ],
+      "Honduras": [
+        "Гондурас"
+      ],
+      "Hong Kong": [
+        "Гонконг"
+      ],
+      "Hungary": [
+        "Венгрия"
+      ],
+      "Iceland": [
+        "Исландия"
+      ],
+      "India": [
+        "Индия"
+      ],
+      "Indonesia": [
+        "Индонезия"
+      ],
+      "International": [
+        "Международный"
+      ],
+      "Iran": [
+        "Иран"
+      ],
+      "Iraq": [
+        "Ирак"
+      ],
+      "Ireland": [
+        "Ирландия"
+      ],
+      "Isle of Man": [
+        "Остров Мэн"
+      ],
+      "Israel": [
+        "Израиль"
+      ],
+      "Italy": [
+        "Италия"
+      ],
+      "Jamaica": [
+        "Ямайка"
+      ],
+      "Japan": [
+        "Япония"
+      ],
+      "Jersey": [
+        "Джерси"
+      ],
+      "Jordan": [
+        "Иордания"
+      ],
+      "Kazakhstan": [
+        "Казахстан"
+      ],
+      "Kenya": [
+        "Кения"
+      ],
+      "Kiribati": [
+        "Кирибати"
+      ],
+      "Kosovo": [
+        "Косово"
+      ],
+      "Kuwait": [
+        "Кувейт"
+      ],
+      "Kyrgyzstan": [
+        "Киргизия"
+      ],
+      "Laos": [
+        "Лаос"
+      ],
+      "Latvia": [
+        "Латвия"
+      ],
+      "Lebanon": [
+        "Ливан"
+      ],
+      "Lesotho": [
+        "Лесото"
+      ],
+      "Liberia": [
+        "Либерия"
+      ],
+      "Libya": [
+        "Ливия"
+      ],
+      "Liechtenstein": [
+        "Лихтенштейн"
+      ],
+      "Lithuania": [
+        "Литва"
+      ],
+      "Luxembourg": [
+        "Люксембург"
+      ],
+      "Macao": [
+        "Макао"
+      ],
+      "Madagascar": [
+        "Мадагаскар"
+      ],
+      "Malawi": [
+        "Малави"
+      ],
+      "Malaysia": [
+        "Малайзия"
+      ],
+      "Maldives": [
+        "Мальдивы"
+      ],
+      "Mali": [
+        "Мали"
+      ],
+      "Malta": [
+        "Мальта"
+      ],
+      "Marshall Islands": [
+        "Маршалловы Острова"
+      ],
+      "Martinique": [
+        "Мартиника"
+      ],
+      "Mauritania": [
+        "Мавритания"
+      ],
+      "Mauritius": [
+        "Маврикий"
+      ],
+      "Mayotte": [
+        "Майотта"
+      ],
+      "Mexico": [
+        "Мексика"
+      ],
+      "Moldova": [
+        "Молдова"
+      ],
+      "Monaco": [
+        "Монако"
+      ],
+      "Mongolia": [
+        "Монголия"
+      ],
+      "Montenegro": [
+        "Черногория"
+      ],
+      "Montserrat": [
+        "Монтсеррат"
+      ],
+      "Morocco": [
+        "Марокко"
+      ],
+      "Mozambique": [
+        "Мозамбик"
+      ],
+      "Namibia": [
+        "Намибия"
+      ],
+      "Nauru": [
+        "Науру"
+      ],
+      "Nepal": [
+        "Непал"
+      ],
+      "Netherlands": [
+        "Нидерланды"
+      ],
+      "New Caledonia": [
+        "Новая Каледония"
+      ],
+      "New Zealand": [
+        "Новая Зеландия"
+      ],
+      "Nicaragua": [
+        "Никарагуа"
+      ],
+      "Niger": [
+        "Нигер"
+      ],
+      "Nigeria": [
+        "Нигерия"
+      ],
+      "Niue": [
+        "Ниуэ"
+      ],
+      "Norfolk Island": [
+        "Остров Норфолк"
+      ],
+      "North Korea": [
+        "КНДР"
+      ],
+      "North Macedonia": [
+        "Северная Македония"
+      ],
+      "Northern Mariana Islands": [
+        "Северные Марианские Острова"
+      ],
+      "Norway": [
+        "Норвегия"
+      ],
+      "Oman": [
+        "Оман"
+      ],
+      "Pakistan": [
+        "Пакистан"
+      ],
+      "Palau": [
+        "Палау"
+      ],
+      "Palestine": [
+        "Палестина"
+      ],
+      "Panama": [
+        "Панама"
+      ],
+      "Papua New Guinea": [
+        "Папуа-Новая Гвинея"
+      ],
+      "Paraguay": [
+        "Парагвай"
+      ],
+      "Peru": [
+        "Перу"
+      ],
+      "Philippines": [
+        "Филиппины"
+      ],
+      "Pitcairn": [
+        "Питкэрн"
+      ],
+      "Poland": [
+        "Польша"
+      ],
+      "Portugal": [
+        "Португалия"
+      ],
+      "Puerto Rico": [
+        "Пуэрто-Рико"
+      ],
+      "Qatar": [
+        "Катар"
+      ],
+      "Reunion": [
+        "Реюньон"
+      ],
+      "Romania": [
+        "Румыния"
+      ],
+      "Russia": [
+        "Россия"
+      ],
+      "Rwanda": [
+        "Руанда"
+      ],
+      "Saint Barthélemy": [
+        "Сен-Бартелеми"
+      ],
+      "Saint Helena": [
+        "Остров Святой Елены"
+      ],
+      "Saint Kitts and Nevis": [
+        "Сент-Китс и Невис"
+      ],
+      "Saint Lucia": [
+        "Сент-Люсия"
+      ],
+      "Saint Martin (French Part)": [
+        "Сен-Мартен (французская часть)"
+      ],
+      "Saint Pierre and Miquelon": [
+        "Сен-Пьер и Микелон"
+      ],
+      "Saint Vincent and the Grenadines": [
+        "Сент-Винсент и Гренадины"
+      ],
+      "Samoa": [
+        "Самоа"
+      ],
+      "San Marino": [
+        "Сан-Марино"
+      ],
+      "Sao Tome and Principe": [
+        "Сан-Томе и Принсипи"
+      ],
+      "Saudi Arabia": [
+        "Саудовская Аравия"
+      ],
+      "Senegal": [
+        "Сенегал"
+      ],
+      "Serbia": [
+        "Сербия"
+      ],
+      "Seychelles": [
+        "Сейшелы"
+      ],
+      "Sierra Leone": [
+        "Сьерра-Леоне"
+      ],
+      "Singapore": [
+        "Сингапур"
+      ],
+      "Sint Maarten": [
+        "Сен-Мартен"
+      ],
+      "Slovakia": [
+        "Словакия"
+      ],
+      "Slovenia": [
+        "Словения"
+      ],
+      "Solomon Islands": [
+        "Соломоновы Острова"
+      ],
+      "Somalia": [
+        "Сомали"
+      ],
+      "South Africa": [
+        "Южная Африка"
+      ],
+      "South Georgia and the South Sandwich Islands": [
+        "Южная Георгия и Южные Сандвичевы острова"
+      ],
+      "South Korea": [
+        "Республика Корея"
+      ],
+      "South Ossetia": [
+        "Южная Осетия"
+      ],
+      "South Sudan": [
+        "Южный Судан"
+      ],
+      "Spain": [
+        "Испания"
+      ],
+      "Sri Lanka": [
+        "Шри-Ланка"
+      ],
+      "Sudan": [
+        "Судан"
+      ],
+      "Suriname": [
+        "Суринам"
+      ],
+      "Svalbard and Jan Mayen": [
+        "Шпицберген и Ян-Майен"
+      ],
+      "Swaziland": [
+        "Свазиленд"
+      ],
+      "Sweden": [
+        "Швеция"
+      ],
+      "Switzerland": [
+        "Швейцария"
+      ],
+      "Syria": [
+        "Сирия"
+      ],
+      "Taiwan": [
+        "Тайвань"
+      ],
+      "Tajikistan": [
+        "Таджикистан"
+      ],
+      "Tanzania": [
+        "Танзания"
+      ],
+      "Thailand": [
+        "Таиланд"
+      ],
+      "Timor-Leste": [
+        "Восточный Тимор"
+      ],
+      "Togo": [
+        "Того"
+      ],
+      "Tokelau": [
+        "Токелау"
+      ],
+      "Tonga": [
+        "Тонга"
+      ],
+      "Trinidad and Tobago": [
+        "Тринидад и Тобаго"
+      ],
+      "Tristan da Cunha": [
+        "Тристан да Кунья"
+      ],
+      "Tunisia": [
+        "Тунис"
+      ],
+      "Turkey": [
+        "Турция"
+      ],
+      "Turkmenistan": [
+        "Туркменистан"
+      ],
+      "Turks and Caicos Islands": [
+        "Острова Теркс и Кайкос"
+      ],
+      "Tuvalu": [
+        "Тувалу"
+      ],
+      "Uganda": [
+        "Уганда"
+      ],
+      "Ukraine": [
+        "Украина"
+      ],
+      "United Arab Emirates": [
+        "Объединенные Арабские Эмираты"
+      ],
+      "United Kingdom": [
+        "Великобритания"
+      ],
+      "United States": [
+        "США"
+      ],
+      "United States Minor Outlying Islands": [
+        "Внешние малые острова США"
+      ],
+      "Uruguay": [
+        "Уругвай"
+      ],
+      "Uzbekistan": [
+        "Узбекистан"
+      ],
+      "Vanuatu": [
+        "Вануату"
+      ],
+      "Venezuela": [
+        "Венесуэла"
+      ],
+      "Vietnam": [
+        "Вьетнам"
+      ],
+      "Virgin Islands, British": [
+        "Британские Виргинские острова"
+      ],
+      "Virgin Islands, U.S.": [
+        "Американские Виргинские острова"
+      ],
+      "Wallis and Futuna": [
+        "Уоллис и Футуна"
+      ],
+      "Western Sahara": [
+        "Западная Сахара"
+      ],
+      "Yemen": [
+        "Йемен"
+      ],
+      "Zambia": [
+        "Замбия"
+      ],
+      "Zimbabwe": [
+        "Зимбабве"
+      ],
+      "Åland Islands": [
+        "Аландские острова"
+      ]
+    },
+    "Custom frequency option": {
+      "After repeating…": [
+        "После повтора…"
+      ],
+      "Never": [
+        "Никогда"
+      ],
+      "On date…": [
+        "По датам…"
+      ],
+      "time": [
+        "раз",
+        "раза",
+        "раз",
+        "раз"
+      ]
+    },
+    "Daily recurring event, frequency": {
+      "${ count } time": [
+        "${ count } раз",
+        "${ count } раза",
+        "${ count } раз",
+        "${ count } раз"
+      ],
+      "Daily": [
+        "Ежедневно"
+      ],
+      "Daily, ${ timesString }": [
+        "Ежедневно, ${ timesString }"
+      ],
+      "Daily, ${ untilString }": [
+        "Ежедневно, ${ untilString }"
+      ],
+      "Every ${ interval } day": [
+        "Каждый ${ interval } день",
+        "Каждые ${ interval } дня",
+        "Каждые ${ interval } дней",
+        "Каждые ${ interval } дней"
+      ],
+      "Every ${ interval } day, ${ timesString }": [
+        "Каждый ${ interval } день, ${ timesString }",
+        "Каждые ${ interval } дня, ${ timesString }",
+        "Каждые ${ interval } дней, ${ timesString }",
+        "Каждые ${ interval } дней, ${ timesString }"
+      ],
+      "Every ${ interval } day, ${ untilString }": [
+        "Каждый ${ interval } день, ${ untilString }",
+        "Каждые ${ interval } дня, ${ untilString }",
+        "Каждые ${ interval } дней, ${ untilString }",
+        "Каждые ${ interval } дней, ${ untilString }"
+      ],
+      "until ${ dateString }": [
+        "до ${ dateString }"
+      ]
+    },
+    "Default display name vcard": {
+      "Unknown": [
+        "Неизвестно"
+      ]
+    },
+    "Default encryption scheme": {
+      "Use global default (${ defaultValueText })": [
+        "Исп. глоб. знач. по умолчанию (${ defaultValueText })"
+      ]
+    },
+    "Delinquent modal title": {
+      "Overdue invoice": [
+        "Просроченный счёт"
+      ]
+    },
+    "Description": {
+      "Decrypting contacts... This may take a few minutes. When the process is completed, you will be able to download the file with all your contacts exported.": [
+        "Идет расшифровка контактов. Это может занять несколько минут. Когда процесс завершится, вы сможете скачать файл со всеми своими контактами."
+      ],
+      "Deleting contacts... This may take a few minutes. When the process is completed, you can close this modal.": [
+        "Удаляем контакты... Это может занять несколько минут. Когда процесс завершится, вы можете закрыть это окно."
+      ],
+      "Encrypting and importing contacts... This may take a few minutes. When the process is completed, you can close this modal.": [
+        "Идет шифрование и импортирование контактов. Это может занять несколько минут. Когда процесс завершится, вы сможете закрыть это сообщение."
+      ],
+      "It looks like the contact list you are importing contains some groups. Please review how these groups should be imported.": [
+        "Похоже, что список контактов, который вы импортируете, содержит группы. Проверьте, как их нужно импортировать."
+      ],
+      "Merging contacts... This may take a few minutes. When the process is completed, you can close this modal.": [
+        "Выполняется объединение контактов. Это может занять несколько минут. Когда процесс завершится, вы сможете закрыть это сообщение."
+      ],
+      "The file should have a maximum size of ${ MAX_IMPORT_FILE_SIZE_STRING } and have up to ${ MAX_IMPORT_CONTACTS_STRING } contact. If your file is bigger, please split it into smaller files.": [
+        "Максимальный размер файла должен быть не более ${ MAX_IMPORT_FILE_SIZE_STRING } и иметь не более ${ MAX_IMPORT_CONTACTS_STRING } контакта. Если ваш файл больше, то разбейте его на меньшие файлы.",
+        "Максимальный размер файла должен быть не более ${ MAX_IMPORT_FILE_SIZE_STRING } и иметь не более ${ MAX_IMPORT_CONTACTS_STRING } контактов. Если ваш файл больше, то разбейте его на меньшие файлы.",
+        "Максимальный размер файла должен быть не более ${ MAX_IMPORT_FILE_SIZE_STRING } и иметь не более ${ MAX_IMPORT_CONTACTS_STRING } контактов. Если ваш файл больше, то разбейте его на меньшие файлы.",
+        "Максимальный размер файла должен быть не более ${ MAX_IMPORT_FILE_SIZE_STRING } и иметь не более ${ MAX_IMPORT_CONTACTS_STRING } контактов. Если ваш файл больше, то разбейте его на меньшие файлы."
+      ],
+      "Use Drag and Drop to rank merging priority between contacts. Uncheck the contacts you do not want to merge.": [
+        "Перетаскивайте контакты, чтобы задавать им приоритет при объединении. Снимайте галочки с контактов, которые вы не хотите объединять."
+      ],
+      "You can import events in iCal format (ICS file). The file should have a maximum size of ${ MAX_IMPORT_FILE_SIZE_STRING } and have up to ${ MAX_IMPORT_EVENTS_STRING } events. If your file is bigger, please split it into smaller files.": [
+        "Вы можете импортировать события в формате iCal (ICS файл). Размер файла не должен быть более ${ MAX_IMPORT_FILE_SIZE_STRING } и иметь не более ${ MAX_IMPORT_EVENTS_STRING } событий. Если ваш файл больше, разделите его на меньшие файлы."
+      ],
+      "You can mark for deletion the contacts that you do not want neither to merge nor to keep. Deletion will only take place after the merge button is clicked": [
+        "Вы можете отметить для удаления те контакты, которые не хотите ни объединять, ни оставлять. Удаление произойдет только после нажатия кнопки «Объединить»."
+      ]
+    },
+    "Description of the purpose of the import CSV modal": {
+      "Also, we have automatically matched CSV fields with vCard fields. You can review and change this matching manually.": [
+        "Также мы автоматически сопоставили поля CSV с полями vCard. Вы можете проверить и изменить это соответствие вручную."
+      ],
+      "We have detected the following fields in the CSV file you uploaded. Check the ones you want to import.": [
+        "В загруженном вами CSV-файле мы обнаружили следующие поля. Отметьте те, которые вы хотите импортировать."
+      ]
+    },
+    "Disabled calendar": {
+      "Disabled": [
+        "Отключен"
+      ]
+    },
+    "Disabled calendar name suffix": {
+      "Disabled": [
+        "Отключен"
+      ]
+    },
+    "Disabled calendar tooltip": {
+      "The event belongs to a disabled calendar.": [
+        "Событие принадлежит отключенному календарю."
+      ]
+    },
+    "Dropdown action icon tooltip": {
+      "Add calendar": [
+        "Добавить календарь"
+      ]
+    },
+    "Duration": {
+      "120 minutes": [
+        "120 минут"
+      ],
+      "30 minutes": [
+        "30 минут"
+      ],
+      "60 minutes": [
+        "60 минут"
+      ],
+      "90 minutes": [
+        "90 минут"
+      ]
+    },
+    "Early Access Disabled": {
+      "Off": [
+        "Выкл"
+      ]
+    },
+    "Early Access Enabled": {
+      "On": [
+        "Вкл"
+      ]
+    },
+    "Email body for description (description part)": {
+      "Description: ${ eventDescription }": [
+        "Описание: ${ eventDescription }"
+      ]
+    },
+    "Email body for invitation": {
+      "${ eventTitle } has been canceled.": [
+        "Событие «${ eventTitle }» было отменено."
+      ],
+      "${ eventTitle } has been updated.\n${ eventDetailsText }": [
+        "Событие «${ eventTitle }» было обновлено.\n${ eventDetailsText }"
+      ],
+      "You are invited to ${ eventTitle }\n${ eventDetailsText }": [
+        "Вы приглашены на событие ${ eventTitle }\n${ eventDetailsText }"
+      ]
+    },
+    "Email body for invitation (date part)": {
+      "When: ${ formattedStart }": [
+        "Когда: ${ formattedStart }"
+      ],
+      "When: ${ formattedStart } (all day)": [
+        "Когда: ${ formattedStart } (весь день)"
+      ],
+      "When: ${ formattedStart } - ${ formattedEnd }": [
+        "Когда: ${ formattedStart } - ${ formattedEnd }"
+      ]
+    },
+    "Email body for invitation (location part)": {
+      "Where: ${ eventLocation }": [
+        "Где: ${ eventLocation }"
+      ]
+    },
+    "Email body for response to invitation": {
+      "${ emailAddress } has accepted your invitation to ${ eventTitle }": [
+        "${ emailAddress } принял ваше приглашение на ${ eventTitle }"
+      ],
+      "${ emailAddress } has declined your invitation to ${ eventTitle }": [
+        "${ emailAddress } отклонил ваше приглашение на ${ eventTitle }"
+      ],
+      "${ emailAddress } has tentatively accepted your invitation to ${ eventTitle }": [
+        "${ emailAddress } предварительно принял ваше приглашение на ${ eventTitle }"
+      ]
+    },
+    "Email subject": {
+      "Cancellation of an event on ${ formattedStart }": [
+        "Отмена события, ${ formattedStart }"
+      ],
+      "Cancellation of an event starting on ${ formattedStart }": [
+        "Отмена события, начинающегося ${ formattedStart }"
+      ],
+      "Invitation for an event on ${ formattedStart }": [
+        "Приглашение на событие на ${ formattedStart }"
+      ],
+      "Invitation for an event starting on ${ formattedStart }": [
+        "Приглашение на событие, начинающееся ${ formattedStart }"
+      ],
+      "Update for an event on ${ formattedStart }": [
+        "Обновление события, ${ formattedStart }"
+      ],
+      "Update for an event starting on ${ formattedStart }": [
+        "Обновление события, начинающегося ${ formattedStart }"
+      ]
+    },
+    "Error": {
+      "${ _list } doesn't have an email address": [
+        "У ${ _list } нет адреса электронной почты",
+        "У ${ _list } нет адресов электронной почты",
+        "У ${ _list } нет адресов электронной почты",
+        "У ${ _list } нет адресов электронной почты"
+      ],
+      "${ _list2 } has no contacts": [
+        "В ${ _list2 } нет контактов",
+        "В ${ _list2 } нет контактов",
+        "В ${ _list2 } нет контактов",
+        "В ${ _list2 } нет контактов"
+      ],
+      "${ list } doesn't have a valid email address": [
+        "У ${ list } нет действительного адреса электронной почты",
+        "У ${ list } нет действительных адресов электронной почты",
+        "У ${ list } нет действительных адресов электронной почты",
+        "У ${ list } нет действительных адресов электронной почты"
+      ],
+      "${ list } has invalid emails": [
+        "У ${ list } есть недопустимый email",
+        "У ${ list } есть недопустимые email",
+        "У ${ list } есть недопустимые email",
+        "У ${ list } есть недопустимые email"
+      ],
+      "A group with this name already exists": [
+        "Группа с таким именем уже существует"
+      ],
+      "A maximum of 10 notifications is allowed": [
+        "Разрешено не более 10 уведомлений"
+      ],
+      "Address primary private key not found": [
+        "Основной секретный ключ для адреса не найден"
+      ],
+      "Answer failed to be sent": [
+        "Не удалось отправить ответ"
+      ],
+      "Authentication canceled.": [
+        "Аутентификация отменена."
+      ],
+      "Authentication error.": [
+        "Ошибка аутентификации."
+      ],
+      "Calendar limit reached": [
+        "Достигнут лимит календаря"
+      ],
+      "Can't create new calendars for all imported calendars due to the personal calendar limit.": [
+        "Невозможно создать новые календари для всех импортированных календарей из-за персонального лимита календарей."
+      ],
+      "Cancellation failed to be sent": [
+        "Не удалось отправить сообщение об отмене события"
+      ],
+      "Contact could not be saved": [
+        "Контакт не может быть сохранён"
+      ],
+      "Contact signature could not be verified": [
+        "Подпись контакта не может быть проверена"
+      ],
+      "Contact signature not verified": [
+        "Подпись контакта не проверена"
+      ],
+      "Decryption error: Decryption of this event's content failed.": [
+        "Ошибка расшифровки: не удалось расшифровать содержимое этого события."
+      ],
+      "Deselect at least ${ calendarToFixCount } calendar": [
+        "Отмените выбор по крайней мере ${ calendarToFixCount } календаря",
+        "Отмените выбор по крайней мере ${ calendarToFixCount } календарей",
+        "Отмените выбор по крайней мере ${ calendarToFixCount } календарей",
+        "Отмените выбор по крайней мере ${ calendarToFixCount } календарей"
+      ],
+      "Deselect at least ${ calendarToFixCount } calendar or": [
+        "Отмените выбор по крайней мере ${ calendarToFixCount } календаря или",
+        "Отмените выбор по крайней мере ${ calendarToFixCount } календарей или",
+        "Отмените выбор по крайней мере ${ calendarToFixCount } календарь или",
+        "Отмените выбор по крайней мере ${ calendarToFixCount } календарей или"
+      ],
+      "Email address disabled": [
+        "Эл. адрес отключен"
+      ],
+      "Email address invalid": [
+        "Недействительный адрес электронной почты"
+      ],
+      "Email is not valid": [
+        "Эл. почта недействительна"
+      ],
+      "Ends on date cannot be empty": [
+        "Дата окончания не может быть пустой"
+      ],
+      "Ends on date must be after start time": [
+        "Дата окончания должна быть позже времени начала"
+      ],
+      "Enter 6 digits": [
+        "Введите 6 цифр"
+      ],
+      "Error": [
+        "Ошибка"
+      ],
+      "Error: ${ errorMessage }": [
+        "Ошибка: ${ errorMessage }"
+      ],
+      "Failed to get original occurrence in series": [
+        "Не удалось загрузить начальное вхождение серии событий"
+      ],
+      "Folder name cannot be empty.": [
+        "Название папки не может быть пустым."
+      ],
+      "Image upload failed": [
+        "Не удалось загрузить изображение"
+      ],
+      "Incorrect login credentials. Please try again.": [
+        "Неверные учетные данные для входа. Пожалуйста, попробуйте снова."
+      ],
+      "Incorrect mailbox password. Please try again.": [
+        "Неверный пароль почтового ящика. Пожалуйста, попробуйте снова."
+      ],
+      "Interval cannot be empty": [
+        "Интервал не может быть пустым"
+      ],
+      "Invalid email address": [
+        "Недействительный адрес электронной почты"
+      ],
+      "Invalid link to the event": [
+        "Неверная ссылка на событие"
+      ],
+      "Invalid name": [
+        "Недопустимое имя"
+      ],
+      "Invalid public key file": [
+        "Неверный файл открытого ключа"
+      ],
+      "Invalid verification code": [
+        "Неверный код подтверждения"
+      ],
+      "Invitation failed to be sent": [
+        "Не удалось отправить приглашение"
+      ],
+      "It is only possible to create events between ${ minDateString } - ${ maxDateString }": [
+        "Создавать события можно только в интервале ${ minDateString } - ${ maxDateString }"
+      ],
+      "It is only possible to move events between ${ minDateString } - ${ maxDateString }": [
+        "Перемещать события можно только в интервале ${ minDateString } - ${ maxDateString }"
+      ],
+      "Label name cannot be empty.": [
+        "Название ярлыка не может быть пустым."
+      ],
+      "Merge at least ${ calendarToFixCount } calendar with an existing Proton calendar": [
+        "Объедините по крайней мере ${ calendarToFixCount } календарь с существующим календарем Proton",
+        "Объедините по крайней мере ${ calendarToFixCount } календаря с существующими календарями Proton",
+        "Объедините по крайней мере ${ calendarToFixCount } календарей с существующими календарями Proton",
+        "Объедините по крайней мере ${ calendarToFixCount } календарей с существующими календарями Proton"
+      ],
+      "Missing key packet": [
+        "Отсутствует пакет ключей"
+      ],
+      "Missing signature": [
+        "Подпись отсутствует"
+      ],
+      "Name required": [
+        "Требуется имя"
+      ],
+      "No data to import": [
+        "Нет данных для импорта"
+      ],
+      "No keys retrieved for internal user": [
+        "Ключи для внутреннего пользователя не получены"
+      ],
+      "No valid address found": [
+        "Не найдено действительных адресов"
+      ],
+      "No WKD key retrieved for user is valid for sending": [
+        "Ни один из полученных для пользователя WKD ключей не годен для отправки"
+      ],
+      "Not a valid number": [
+        "Номер недействителен"
+      ],
+      "Number of occurrences cannot be empty": [
+        "Количество повторов не может быть пустым"
+      ],
+      "One of the contacts has no email address: ${ noEmailsContactNamesList }": [
+        "У одного из контактов нет адреса электронной почты: ${ noEmailsContactNamesList }",
+        "У нескольких контактов нет адресов электронной почты: ${ noEmailsContactNamesList } ",
+        "У нескольких контактов нет адресов электронной почты: ${ noEmailsContactNamesList } ",
+        "У нескольких контактов нет адресов электронной почты: ${ noEmailsContactNamesList } "
+      ],
+      "One of the groups has no contacts: ${ noContactGroupList }": [
+        "В одной из групп нет контактов: ${ noContactGroupList }",
+        "В нескольких группах нет контактов: ${ noContactGroupList } ",
+        "В нескольких группах нет контактов: ${ noContactGroupList } ",
+        "В нескольких группах нет контактов: ${ noContactGroupList } "
+      ],
+      "Passwords do not match": [
+        "Пароли не совпадают"
+      ],
+      "Please create an address first.": [
+        "Пожалуйста, сначала создайте адрес."
+      ],
+      "Please fix the highlighted conflict to proceed.": [
+        "Пожалуйста, исправьте выделенный конфликт, чтобы продолжить.",
+        "Пожалуйста, исправьте выделенные конфликты, чтобы продолжить.",
+        "Пожалуйста, исправьте выделенные конфликты, чтобы продолжить.",
+        "Пожалуйста, исправьте выделенные конфликты, чтобы продолжить."
+      ],
+      "Preferences could not be saved": [
+        "Настройки не могут быть сохранены"
+      ],
+      "Primary address key is not decrypted": [
+        "Не расшифрован основной ключ адреса"
+      ],
+      "Primary address key is not decrypted.": [
+        "Не расшифрован основной ключ адреса."
+      ],
+      "Primary key is not valid for sending": [
+        "Доверенные ключи не действительны для отправки"
+      ],
+      "Primary key retrieved for internal user is valid for sending": [
+        "Основной ключ, полученный для внутреннего пользователя, действителен для отправки"
+      ],
+      "Request timed out": [
+        "Время запроса истекло"
+      ],
+      "Self invitation not allowed": [
+        "Себя пригласить нельзя"
+      ],
+      "Signature not verified": [
+        "Подпись не проверена"
+      ],
+      "Signature verification failed": [
+        "Проверка подписи не удалась"
+      ],
+      "Some contacts could not be deleted": [
+        "Некоторые контакты не могут быть удалены"
+      ],
+      "Some groups could not be deleted": [
+        "Некоторые группы не могут быть удалены"
+      ],
+      "Some of your label names are unavailable. Please customize the import to edit these names.": [
+        "Некоторые из имен ярлыков недоступны. Пожалуйста, настройте импорт, чтобы изменить эти имена."
+      ],
+      "Some of your label names exceed ${ MAIL_APP_NAME }'s maximum character limit. Please customize the import to edit these names.": [
+        "Некоторые из ваших имен ярлыков превышают максимальный лимит символов ${ MAIL_APP_NAME }. Пожалуйста, настройте импорт для изменения этих имен."
+      ],
+      "Something went wrong, please ${ refresh } in order to proceed. If you still see this error message please contact our ${ supportTeam }.": [
+        "Что-то пошло не так, пожалуйста, ${ refresh }, чтобы продолжить. Если вы всё же видите это сообщение об ошибке, пожалуйста, свяжитесь с ${ supportTeam }."
+      ],
+      "Start time must be before end time": [
+        "Время начала должно быть раньше времени окончания"
+      ],
+      "The folder name is invalid. Please choose a different name.": [
+        "Недопустимое название папки. Пожалуйста, выберите другое название."
+      ],
+      "The folder name is too long. Please choose a different name.": [
+        "Название папки слишком длинное. Пожалуйста, выберите другое название."
+      ],
+      "The label name is invalid. Please choose a different name.": [
+        "Недопустимое название ярлыка. Пожалуйста, выберите другое название."
+      ],
+      "The label name is too long. Please choose a different name.": [
+        "Название ярлыка слишком длинное. Пожалуйста, выберите другое название."
+      ],
+      "The sending key is not valid": [
+        "Ключ отправки недействителен"
+      ],
+      "There are too many folders in your external account. Please customize the import to delete some folders.": [
+        "В вашей внешней учетной записи слишком много папок. Пожалуйста, настройте импорт, чтобы удалить некоторые папки."
+      ],
+      "There was an error when exporting the contacts vCards": [
+        "Произошла ошибка при экспорте vCards контактов"
+      ],
+      "This field is required": [
+        "Это обязательное поле"
+      ],
+      "This field requires a minimum of ${ minimumLength } characters.": [
+        "Минимальная длина для этого поля: ${ minimumLength }."
+      ],
+      "This folder name is not available. Please choose a different name.": [
+        "Это имя папки недоступно. Пожалуйста, выберите другое название."
+      ],
+      "This label name is not available. Please choose a different name.": [
+        "Это название ярлыка недоступно. Пожалуйста, выберите другое название."
+      ],
+      "This message may contain some link's URL that cannot be properly opened by your current browser": [
+        "Это сообщение может содержать ссылки, которые не могут быть правильно открыты в вашем текущем браузере"
+      ],
+      "Trusted keys are not valid for sending": [
+        "Доверенные ключи не действительны для отправки"
+      ],
+      "Unknown error": [
+        "Неизвестная ошибка"
+      ],
+      "You can't send a mail to more than 100 recipients": [
+        "Нельзя отправить письмо более чем 100 получателям"
+      ],
+      "You can't send vCards of more than 10 contacts": [
+        "Нельзя отправить vCards более чем 10 контактов"
+      ],
+      "You must set a name": [
+        "Вы должны задать имя"
+      ],
+      "Your import will not be processed.": [
+        "Ваш импорт не будет обработан."
+      ]
+    },
+    "Error importing calendar": {
+      "An error occurred reading your file ${ formattedFilename }. File does not have the right format.": [
+        "Произошла ошибка при чтении вашего файла ${ formattedFilename }. Файл имеет неправильный формат."
+      ],
+      "An error occurred uploading your file ${ formattedFilename }. Maximum file size is ${ MAX_IMPORT_FILE_SIZE_STRING }.": [
+        "Произошла ошибка при загрузке файла ${ formattedFilename }. Максимальный размер: ${ MAX_IMPORT_FILE_SIZE_STRING }."
+      ],
+      "An error occurred uploading your file ${ formattedFilename }. Only ICS file formats are allowed.": [
+        "Произошла ошибка при загрузке файла ${ formattedFilename }. Разрешены только файлы формата ICS."
+      ],
+      "An error occurred uploading your file. No file has been selected.": [
+        "Произошла ошибка при загрузке вашего файла. Файл не был выбран."
+      ],
+      "An unexpected error occurred. Import must be restarted.": [
+        "Произошла непредвиденная ошибка. Необходимо начать импорт заново."
+      ],
+      "Your file ${ formattedFilename } contains more than ${ MAX_IMPORT_EVENTS_STRING } events.": [
+        "Ваш файл ${ formattedFilename } содержит более ${ MAX_IMPORT_EVENTS_STRING } событий."
+      ],
+      "Your file ${ formattedFilename } has an invalid method and cannot be imported.": [
+        "Ваш файл ${ formattedFilename } имеет недопустимый метод и не может быть импортирован."
+      ],
+      "Your file ${ formattedFilename } has no events to be imported.": [
+        "Ваш файл ${ formattedFilename } не содержит событий для импорта."
+      ],
+      "Your file ${ formattedFilename } is empty.": [
+        "Файл ${ formattedFilename } пуст."
+      ],
+      "Your file ${ formattedFilename } is not a calendar.": [
+        "Ваш файл ${ formattedFilename } не является файлом календаря."
+      ]
+    },
+    "Error importing contact": {
+      "Encryption failed": [
+        "Ошибка шифрования"
+      ],
+      "vCard versions < 3.0 not supported": [
+        "vCard версии ниже 3.0 не поддерживаются"
+      ]
+    },
+    "Error importing contacts": {
+      "An error occurred reading your file ${ formattedFilename }. File doesn't have the right format.": [
+        "Произошла ошибка при чтении файла ${ formattedFilename }. Формат файла не поддерживается."
+      ],
+      "An error occurred uploading your file ${ formattedFilename }. Maximum file size is ${ MAX_IMPORT_FILE_SIZE_STRING }.": [
+        "Произошла ошибка при загрузке файла ${ formattedFilename }. Максимальный размер: ${ MAX_IMPORT_FILE_SIZE_STRING }."
+      ],
+      "An error occurred uploading your file ${ formattedFilename }. No .csv or .vcf file selected": [
+        "Произошла ошибка при загрузке файла ${ formattedFilename }. Не выбран файл .csv или .vcf"
+      ],
+      "An error occurred uploading your file. No file has been selected.": [
+        "Произошла ошибка при загрузке вашего файла. Файл не был выбран."
+      ],
+      "Your file ${ formattedFilename } contains more than ${ MAX_IMPORT_CONTACTS_STRING } contacts.": [
+        "Ваш файл ${ formattedFilename } содержит более ${ MAX_IMPORT_CONTACTS_STRING } контактов."
+      ],
+      "Your file ${ formattedFilename } has no contacts to be imported.": [
+        "В вашем файле ${ formattedFilename } нет контактов для импорта."
+      ],
+      "Your file ${ formattedFilename } is empty.": [
+        "Файл ${ formattedFilename } пуст."
+      ]
+    },
+    "Error importing event": {
+      "Bad format. Component cannot be read.": [
+        "Неверный формат. Компонент не может быть прочитан."
+      ],
+      "Calendar": [
+        "Календарь"
+      ],
+      "Calendar timezone not supported": [
+        "Часовой пояс календаря не поддерживается"
+      ],
+      "Component with wrong format": [
+        "Компонент с неправильным форматом"
+      ],
+      "Custom timezone": [
+        "Настроить часовой пояс"
+      ],
+      "Edited event not supported": [
+        "Отредактированное событие не поддерживается"
+      ],
+      "Element": [
+        "Элемент"
+      ],
+      "Encryption failed": [
+        "Ошибка шифрования"
+      ],
+      "End time out of bounds": [
+        "Время окончания находится вне границ"
+      ],
+      "Event": [
+        "Событие"
+      ],
+      "Event validation failed": [
+        "Проверка события не удалась"
+      ],
+      "Floating times not supported": [
+        "Плавающее время не поддерживается"
+      ],
+      "Free-busy time information": [
+        "Информация о свободном и занятом времени"
+      ],
+      "Invalid event": [
+        "Недопустимое событие"
+      ],
+      "Journal entry": [
+        "Запись журнала"
+      ],
+      "Malformed all-day event": [
+        "Неправильно сформированное событие на весь день"
+      ],
+      "Malformed end time": [
+        "Неправильное время окончания"
+      ],
+      "Malformed recurring event": [
+        "Неправильное повторяющееся событие"
+      ],
+      "Malformed start time": [
+        "Неправильный формат времени начала"
+      ],
+      "Missing start time": [
+        "Не установлено время начала"
+      ],
+      "No UID, title or start time": [
+        "Нет UID, названия или времени начала"
+      ],
+      "Non-Gregorian": [
+        "Не григорианский"
+      ],
+      "Notification out of bounds": [
+        "Уведомление вне границ"
+      ],
+      "Original recurring event could not be found": [
+        "Исходное повторяющееся событие не найдено"
+      ],
+      "Recurring event has no occurrences": [
+        "У повторяющегося события нет повторов"
+      ],
+      "Recurring rule not supported": [
+        "Правило для повторения не поддерживается"
+      ],
+      "Start time out of bounds": [
+        "Время начала находится вне границ"
+      ],
+      "Timezone": [
+        "Часовой пояс"
+      ],
+      "Timezone not supported": [
+        "Часовой пояс не поддерживается"
+      ],
+      "To-do entry": [
+        "Запись списка задач"
+      ],
+      "Unknown": [
+        "Неизвестно"
+      ],
+      "Unsupported event": [
+        "Неподдерживаемое событие"
+      ]
+    },
+    "Error message": {
+      "Brace yourself till we get the error fixed.": [
+        "Держитесь, пока мы исправляем ошибку."
+      ],
+      "Error: ${ errorMessage }": [
+        "Ошибка: ${ errorMessage }"
+      ],
+      "Invalid URL": [
+        "Неверный URL"
+      ],
+      "Oops, something went wrong": [
+        "Хм. Что-то пошло не так"
+      ],
+      "Please ${ refresh } or check your connection.": [
+        "Пожалуйста, ${ refresh } или проверьте подключение."
+      ],
+      "There was a problem connecting to Proton.": [
+        "Возникла проблема при подключении к Proton."
+      ],
+      "You may also ${ refresh } or try again later.": [
+        "Вы также можете ${ refresh } или повторить попытку позже."
+      ],
+      "You need an active personal calendar to import events": [
+        "Вам нужен активный личный календарь для импорта событий"
+      ]
+    },
+    "Error notification": {
+      "First name and last name cannot be unchecked at the same time": [
+        "Пометка не может быть снята одновременно с имени и фамилии"
+      ]
+    },
+    "Error notification in the bug report modal when the user upload file": {
+      "No image selected": [
+        "Изображение не выбрано"
+      ]
+    },
+    "Error notification when score is missing in user feedback form modal": {
+      "Score is required": [
+        "Оценка обязательна"
+      ]
+    },
+    "Event canceled status badge": {
+      "canceled": [
+        "отменено"
+      ]
+    },
+    "Event delete button tooltip": {
+      "Delete event": [
+        "Удалить событие"
+      ]
+    },
+    "Event duplicate button tooltip": {
+      "Duplicate event": [
+        "Дублировать событие"
+      ]
+    },
+    "Event edit button tooltip": {
+      "Edit event": [
+        "Редактировать событие"
+      ]
+    },
+    "Event form": {
+      "${ numberOfParticipants } participant": [
+        "${ numberOfParticipants } участник",
+        "${ numberOfParticipants } участника",
+        "${ numberOfParticipants } участников",
+        "${ numberOfParticipants } участников"
+      ]
+    },
+    "Event info. Organizer name": {
+      "You": [
+        "Вы"
+      ]
+    },
+    "Event invitation error": {
+      "Attached ICS file could not be decrypted": [
+        "Вложенный файл ICS невозможно расшифровать"
+      ],
+      "Attached ICS file could not be read": [
+        "Невозможно прочитать вложенный файл ICS"
+      ],
+      "Invalid invitation": [
+        "Недопустимое приглашение"
+      ],
+      "Invalid response": [
+        "Недопустимый ответ"
+      ],
+      "The event could not be added to your calendar. No answer was sent": [
+        "Событие невозможно добавить в ваш календарь. Ответ не отправлен"
+      ],
+      "The event could not be updated in your calendar. No answer was sent": [
+        "Не удалось обновить событие в вашем календаре. Ответ не был отправлен"
+      ],
+      "Unexpected error": [
+        "Неожиданная ошибка"
+      ],
+      "Unsupported invitation": [
+        "Неподдерживаемое приглашение"
+      ],
+      "Unsupported response": [
+        "Неподдерживаемый ответ"
+      ],
+      "We could not cancel the event in your calendar": [
+        "Мы не смогли отменить событие в вашем календаре"
+      ],
+      "We could not retrieve the event from your calendar": [
+        "Мы не смогли найти событие из вашего календаря"
+      ],
+      "We could not update the event in your calendar": [
+        "Мы не смогли обновить событие в вашем календаре"
+      ],
+      "Your answer was sent, but the event could not be added to your calendar": [
+        "Ваш ответ был отправлен, но событие не может быть добавлено в ваш календарь"
+      ],
+      "Your answer was sent, but the event could not be updated in your calendar": [
+        "Ваш ответ был отправлен, но событие в вашем календаре не удалось обновить"
+      ]
+    },
+    "Event popover close button": {
+      "Close popover": [
+        "Закрыть всплывающее окно"
+      ]
+    },
+    "Event reply": {
+      "maybe": [
+        "возможно"
+      ],
+      "no": [
+        "нет"
+      ],
+      "pending": [
+        "в ожидании"
+      ],
+      "yes": [
+        "да"
+      ]
+    },
+    "Event title": {
+      "(no title)": [
+        "(без названия)"
+      ]
+    },
+    "file size format": {
+      "bytes": [
+        "байт"
+      ],
+      "GB": [
+        "Гбайт"
+      ],
+      "KB": [
+        "Кбайт"
+      ],
+      "MB": [
+        "Мбайт"
+      ]
+    },
+    "file size format, long": {
+      "Bytes": [
+        "Байт"
+      ],
+      "Gigabytes": [
+        "Гигабайт"
+      ],
+      "Kilobytes": [
+        "Килобайт"
+      ],
+      "Megabytes": [
+        "Мегабайт"
+      ]
+    },
+    "Filter notification": {
+      "${ Label.Name } updated": [
+        "${ Label.Name } обновлён"
+      ]
+    },
+    "Group": {
+      "Account": [
+        "Аккаунт"
+      ],
+      "Apps": [
+        "Приложения"
+      ],
+      "Network": [
+        "Сеть"
+      ],
+      "Other category": [
+        "Другая категория"
+      ],
+      "Services": [
+        "Службы"
+      ]
+    },
+    "Header": {
+      "Contacts": [
+        "Контакты"
+      ],
+      "Contacts, groups and settings": [
+        "Контакты, группы и настройки"
+      ],
+      "Get help": [
+        "Получить помощь"
+      ],
+      "Name": [
+        "Название"
+      ]
+    },
+    "Hint": {
+      "Found ${ items.length } suggestion, use keyboard to navigate.": [
+        "Найдено ${ items.length } предложение, используйте клавиатуру для навигации.",
+        "Найдено ${ items.length } предложения, используйте клавиатуру для навигации.",
+        "Найдено ${ items.length } предложений, используйте клавиатуру для навигации.",
+        "Найдено ${ items.length } предложений, используйте клавиатуру для навигации."
+      ],
+      "Use Up and Down keys to access and browse suggestions after input. Press Enter to confirm your choice, or Escape to close the suggestions box.": [
+        "Используйте клавиши Вверх и Вниз, чтобы получить доступ и просмотреть предложения после ввода. Нажмите Enter для подтверждения выбора, или Escape для закрытия окна предложений."
+      ]
+    },
+    "Human verification method": {
+      "CAPTCHA": [
+        "CAPTCHA"
+      ],
+      "Email": [
+        "Эл. почта"
+      ],
+      "Manual": [
+        "Вручную"
+      ],
+      "No verification method available": [
+        "Нет доступных способов проверки"
+      ],
+      "SMS": [
+        "СМС"
+      ]
+    },
+    "Import calendar": {
+      "${ totalImported }/${ totalToImport } event encrypted and added to your calendar": [
+        "${ totalImported }/${ totalToImport } событие зашифровано и импортировано в ваш календарь",
+        "${ totalImported }/${ totalToImport } события зашифрованы и импортированы в ваш календарь",
+        "${ totalImported }/${ totalToImport } событий зашифровано и импортировано в ваш календарь",
+        "${ totalImported }/${ totalToImport } событий зашифрованы и импортированы в ваш календарь"
+      ],
+      "An error occurred while encrypting and adding your event. ${ totalImported } out of ${ totalToImport } event successfully imported.": [
+        "При шифровании и добавлении события произошла ошибка. ${ totalImported } из ${ totalToImport } события было успешно импортировано.",
+        "При шифровании и добавлении событий произошла ошибка. ${ totalImported } из ${ totalToImport } событий были успешно импортированы.",
+        "При шифровании и добавлении событий произошла ошибка. ${ totalImported } из ${ totalToImport } событий были успешно импортированы.",
+        "При шифровании и добавлении событий произошла ошибка. ${ totalImported } из ${ totalToImport } событий были успешно импортированы."
+      ],
+      "An error occurred while encrypting and adding your event. No event could be imported.": [
+        "Произошла ошибка при шифровании и добавлении вашего события. Событие не может быть импортировано.",
+        "Произошла ошибка при шифровании и добавлении ваших событий. События не могут быть импортированы.",
+        "Произошла ошибка при шифровании и добавлении ваших событий. События не могут быть импортированы.",
+        "Произошла ошибка при шифровании и добавлении ваших событий. События не могут быть импортированы."
+      ],
+      "Encrypting and adding contacts: ${ totalImported }/${ totalToImport }": [
+        "Шифрование и добавление контактов: ${ totalImported }/${ totalToImport }"
+      ],
+      "Encrypting and adding events to your calendar: ${ totalImported }/${ totalToImport }": [
+        "Шифруем и добавляем события в ваш календарь: ${ totalImported }/${ totalToImport }"
+      ],
+      "Event successfully imported. The imported event will now appear in your calendar.": [
+        "Событие успешно импортировано. Импортированное событие теперь появится в вашем календаре.",
+        "События успешно импортированы. Импортированные события теперь появятся в вашем календаре.",
+        "События успешно импортированы. Импортированные события теперь появятся в вашем календаре.",
+        "События успешно импортированы. Импортированные события теперь появятся в вашем календаре."
+      ],
+      "Please don't close the tab before the importing process is finished.": [
+        "Пожалуйста, не закрывайте вкладку до завершения импорта."
+      ]
+    },
+    "Import calendar warning": {
+      "${ CALENDAR_APP_NAME } currently does not support certain event types, details and formats.": [
+        "${ CALENDAR_APP_NAME } в настоящее время не поддерживает определенные типы, детали и форматы событий."
+      ],
+      "vCard versions < 3.0": [
+        "Версии vCard < 3.0"
+      ]
+    },
+    "Import calendar; import invitation": {
+      "Imported invitations appear in ${ CALENDAR_APP_NAME } as simple events without organizer and participant details. To get event updates and see participants, ask organizers to invite you using your Proton email address.": [
+        "Импортированные приглашения появляются в ${ CALENDAR_APP_NAME } как простые события без сведений об организаторах и участниках. Чтобы получать обновления событий и видеть участников, попросите организаторов пригласить вас, используя ваш адрес электронной почты Proton."
+      ],
+      "This file contains an event invitation:": [
+        "Этот файл содержит приглашение на мероприятие:",
+        "Этот файл содержит приглашения на мероприятие:",
+        "Этот файл содержит приглашения на мероприятие:",
+        "Этот файл содержит приглашения на мероприятие:"
+      ],
+      "This file contains an invitation response:": [
+        "Этот файл содержит ответ на приглашение:",
+        "Этот файл содержит ответы на приглашение:",
+        "Этот файл содержит ответы на приглашение:",
+        "Этот файл содержит ответы на приглашение:"
+      ],
+      "This file contains some data that we cannot import:": [
+        "Этот файл содержит некоторые данные, которые мы не можем импортировать:"
+      ]
+    },
+    "Import contact": {
+      "${ totalImported }/${ totalToImport } contact encrypted and added to your contact list": [
+        "${ totalImported } контакт из ${ totalToImport } зашифрован и добавлен в ваш список контактов",
+        "${ totalImported } контакта из ${ totalToImport } зашифрованы и добавлены в ваш список контактов",
+        "${ totalImported } контактов из ${ totalToImport } зашифрованы и добавлены в ваш список контактов",
+        "${ totalImported } контактов из ${ totalToImport } зашифрованы и добавлены в ваш список контактов"
+      ],
+      "An error occurred while encrypting and adding your contact. No contact could be imported.": [
+        "При шифровании и добавлении контакта произошла ошибка. Контакт не может быть импортирован.",
+        "При шифровании и добавлении контактов произошла ошибка. Контакты не могут быть импортированы.",
+        "При шифровании и добавлении контактов произошла ошибка. Контакты не могут быть импортированы.",
+        "При шифровании и добавлении контактов произошла ошибка. Контакты не могут быть импортированы."
+      ]
+    },
+    "Import contact error": {
+      "Contact ${ contactId }: ": [
+        "Контакт ${ contactId }: "
+      ]
+    },
+    "Import contact groups info": {
+      "${ totalContacts } contact": [
+        "${ totalContacts } контакт",
+        "${ totalContacts } контакта",
+        "${ totalContacts } контактов",
+        "${ totalContacts } контактов"
+      ]
+    },
+    "Import contact. Contact identifier": {
+      "unknown": [
+        "неизвестно"
+      ]
+    },
+    "Import contacts": {
+      "An error occurred while encrypting and adding your contacts. ${ totalImported } out of ${ totalToImport } contacts successfully imported.": [
+        "При шифровании и добавлении ваших контактов произошла ошибка. ${ totalImported } из ${ totalToImport } контактов успешно импортированы."
+      ],
+      "Contact successfully imported. The imported contact will now appear in your contact list.": [
+        "Контакт успешно импортирован. Теперь он находится в вашем списке контактов.",
+        "Контакты успешно импортированы. Теперь они находятся в вашем списке контактов.",
+        "Контакты успешно импортированы. Теперь они находятся в вашем списке контактов.",
+        "Контакты успешно импортированы. Теперь они находятся в вашем списке контактов."
+      ]
+    },
+    "Import contacts warning": {
+      "for now": [
+        "пока"
+      ],
+      "ProtonContacts does not support ${ forNow }:": [
+        "ProtonContacts не поддерживает ${ forNow }:"
+      ]
+    },
+    "Import warning": {
+      "${ totalContactsDiscarded } out of ${ totalContacts } contacts will not be imported. Click for details": [
+        "${ totalContactsDiscarded } из ${ totalContacts } контактов не будут импортированы. Нажмите, чтобы узнать подробности."
+      ],
+      "${ totalEventsDiscarded } out of ${ totalEvents } event will not be imported. Expand for details.": [
+        "${ totalEventsDiscarded } из ${ totalEvents } событие не будет импортировано. Разверните для получения подробной информации.",
+        "${ totalEventsDiscarded } из ${ totalEvents } событий не будет импортировано. Разверните для получения подробной информации.",
+        "${ totalEventsDiscarded } из ${ totalEvents } событий не будет импортировано. Разверните для получения подробной информации.",
+        "${ totalEventsDiscarded } из ${ totalEvents } событий не будет импортировано. Разверните для получения подробной информации."
+      ],
+      "No contact can be imported. Click for details": [
+        "Не удалось импортировать контакты. Нажмите, чтобы узнать подробности."
+      ],
+      "No event can be imported. Expand for details.": [
+        "Ни одно событие не может быть импортировано. Разверните для получения подробной информации."
+      ],
+      "Part of your calendar content is not supported and will not be imported.": [
+        "Часть содержимого вашего календаря не поддерживается и не будет импортирована."
+      ]
+    },
+    "Info": {
+      "${ addressCount } email address": [
+        "${ addressCount } адрес электронной почты",
+        "${ addressCount } адреса электронной почты",
+        "${ addressCount } адресов электронной почты",
+        "${ addressCount } адресов электронной почты"
+      ],
+      "${ appName } needs your permission to ${ enableDesktopNotifications }.": [
+        "${ appName } нужно ваше разрешение, чтобы ${ enableDesktopNotifications }."
+      ],
+      "${ calendarAppName } has been added to the Proton suite. We would love to hear what you think about it!": [
+        "${ calendarAppName } был добавлен в набор Proton. Мы будем рады услышать, что вы думаете об этом!"
+      ],
+      "${ calendarsToBeCreatedCount } new calendar": [
+        "${ calendarsToBeCreatedCount } новый календарь",
+        "${ calendarsToBeCreatedCount } новых календаря",
+        "${ calendarsToBeCreatedCount } новых календарей",
+        "${ calendarsToBeCreatedCount } новых календарей"
+      ],
+      "${ calendarsToBeMerged } merged calendar": [
+        "${ calendarsToBeMerged } объединенный календарь",
+        "${ calendarsToBeMerged } объединенных календаря",
+        "${ calendarsToBeMerged } объединенных календарей",
+        "${ calendarsToBeMerged } объединенных календарей"
+      ],
+      "${ calendarsToBeMergedCount } merged calendar": [
+        "${ calendarsToBeMergedCount } объединенный календарь",
+        "${ calendarsToBeMergedCount } объединенных календаря",
+        "${ calendarsToBeMergedCount } объединенных календарей",
+        "${ calendarsToBeMergedCount } объединенных календарей"
+      ],
+      "${ contactCount } contact contains multiple email addresses.": [
+        "${ contactCount } контакт содержит несколько адресов электронной почты.",
+        "${ contactCount } контакта содержат несколько адресов электронной почты.",
+        "${ contactCount } контактов содержат несколько адресов электронной почты.",
+        "${ contactCount } контакта содержит несколько адресов электронной почты."
+      ],
+      "${ contactEmailsLength } Member": [
+        "${ contactEmailsLength } участник",
+        "${ contactEmailsLength } участника",
+        "${ contactEmailsLength } участников",
+        "${ contactEmailsLength } участников"
+      ],
+      "${ contactName } contains multiple email addresses.": [
+        "${ contactName } содержит несколько адресов электронной почты."
+      ],
+      "${ contactsCount } contact found": [
+        "Найден ${ contactsCount } контакт",
+        "Найдено ${ contactsCount } контакта",
+        "Найдено ${ contactsCount } контактов",
+        "Найдено ${ contactsCount } контактов"
+      ],
+      "${ groupCounts } group found": [
+        "Найдена ${ groupCounts } группа",
+        "Найдено ${ groupCounts } группы",
+        "Найдено ${ groupCounts } групп",
+        "Найдено ${ groupCounts } групп"
+      ],
+      "${ numContactGroups } contact group": [
+        "${ numContactGroups } группа контактов",
+        "${ numContactGroups } группы контактов",
+        "${ numContactGroups } групп контактов",
+        "${ numContactGroups } групп контактов"
+      ],
+      "${ numContacts } contact": [
+        "${ numContacts } контакт",
+        "${ numContacts } контакта",
+        "${ numContacts } контактов",
+        "${ numContacts } контактов"
+      ],
+      "${ selectedCalendarsTotal } of ${ providerCalendars.length } calendar": [
+        "${ selectedCalendarsTotal } из ${ providerCalendars.length } календаря",
+        "${ selectedCalendarsTotal } из ${ providerCalendars.length } календарей",
+        "${ selectedCalendarsTotal } из ${ providerCalendars.length } календарей",
+        "${ selectedCalendarsTotal } из ${ providerCalendars.length } календарей"
+      ],
+      "${ selectedFoldersCount } folder selected": [
+        "${ selectedFoldersCount } папка выбрана",
+        "${ selectedFoldersCount } папки выбраны",
+        "${ selectedFoldersCount } папок выбрано",
+        "${ selectedFoldersCount } папок выбрано"
+      ],
+      "${ selectedFoldersCount } label selected": [
+        "${ selectedFoldersCount } ярлык выбран",
+        "${ selectedFoldersCount } ярлыка выбрано",
+        "${ selectedFoldersCount } ярлыков выбрано",
+        "${ selectedFoldersCount } ярлыков выбрано"
+      ],
+      "${ storageSize } storage": [
+        "${ storageSize } хранилища"
+      ],
+      "${ updated } contact updated successfully.": [
+        "${ updated } контакт успешно обновлен.",
+        "${ updated } контакта успешно обновлены.",
+        "${ updated } контактов успешно обновлены.",
+        "${ updated } контактов успешно обновлены."
+      ],
+      "(${ memberCount } member)": [
+        "(${ memberCount } участник)",
+        "(${ memberCount } участника)",
+        "(${ memberCount } участников)",
+        "(${ memberCount } участников)"
+      ],
+      "10 email addresses": [
+        "10 адресов электронной почты"
+      ],
+      "A cancellation email will be sent to removed participants.": [
+        "Сообщение об отмене будет отправлено удаленным участникам."
+      ],
+      "A cancellation email will be sent to the event participants. Would you like to delete all events in this series?": [
+        "Уведомление об отмене будет отправлено участникам мероприятия. Вы хотите удалить все события в этой серии?"
+      ],
+      "A cancellation email will be sent to the event participants. Would you like to delete this event?": [
+        "Уведомление об отмене будет отправлено участникам. Вы хотите удалить это событие?"
+      ],
+      "Account access restricted due to unpaid invoices. Please contact your administrator.": [
+        "Доступ к учётной записи ограничен из-за неоплаченных счетов. Пожалуйста, обратитесь к вашему администратору."
+      ],
+      "Added and removed participants will be notified about all the events in this series.": [
+        "Добавленные и удаленные участники будут уведомлены обо всех событиях в этой серии."
+      ],
+      "Added and removed participants will be notified.": [
+        "Добавленные и удаленные участники будут уведомлены."
+      ],
+      "Address Verification with Trusted Keys is enabled for this address. To be able to send to this address, first trust public keys that can be used for sending.": [
+        "Для этого адреса включена проверка доверенными ключами. Чтобы получить возможность отправки на этот адрес, сначала включите режим доверия публичным ключам, которые можно применять для отправки."
+      ],
+      "All (${ totalFoldersCount } folder)": [
+        "Все (${ totalFoldersCount } папка)",
+        "Все (${ totalFoldersCount } папки)",
+        "Все (${ totalFoldersCount } папок)",
+        "Все (${ totalFoldersCount } папок)"
+      ],
+      "All (${ totalFoldersCount } label)": [
+        "Все (${ totalFoldersCount } ярлык)",
+        "Все (${ totalFoldersCount } ярлыка)",
+        "Все (${ totalFoldersCount } ярлыков)",
+        "Все (${ totalFoldersCount } ярлыков)"
+      ],
+      "An invitation will be sent to added participants.": [
+        "Добавленным участникам будет отправлено приглашение."
+      ],
+      "An invitation will be sent to the event participants.": [
+        "Участникам мероприятия будет отправлено приглашение."
+      ],
+      "and": [
+        "и"
+      ],
+      "At most 100 participants are allowed per invitation": [
+        "Для одного приглашения разрешено не более 100 участников"
+      ],
+      "Before requesting a new verification code, check your spam folder and check that ${ strong } is the correct address.": [
+        "Прежде чем запросить новый код подтверждения, проверьте свою папку спама и убедитесь, что ${ strong } - это корректный адрес."
+      ],
+      "Cannot remember your password? We can help you clear the encrypted data of all contacts encrypted with this key and in the process dismiss the alert.": [
+        "Не помните ваш пароль? Мы можем помочь вам удалить данные зашифрованные этим ключом для всех контактов и таким образом убрать это оповещение."
+      ],
+      "Checking contact ${ progress } of ${ max }...": [
+        "Проверка контакта ${ progress } из ${ max }..."
+      ],
+      "Click \"Request new code\" to have a new verification code sent to ${ strong }. If this phone number is incorrect, click \"Edit\" to correct it.": [
+        "Нажмите \"Запросить новый код\", и мы отправим новый проверочный код на ${ strong }. Если этот номер телефона недействителен, выберите \"Изменить\" для обновления."
+      ],
+      "Close this screen to exit.": [
+        "Закройте этот экран, чтобы выйти."
+      ],
+      "Continue with ${ planName }": [
+        "Продолжить с ${ planName }"
+      ],
+      "Create ${ calendarsToBeCreated } new calendar": [
+        "Создать ${ calendarsToBeCreated } новый календарь",
+        "Создать ${ calendarsToBeCreated } новых календаря",
+        "Создать ${ calendarsToBeCreated } новых календарей",
+        "Создать ${ calendarsToBeCreated } новых календарей"
+      ],
+      "Create a label for the imported messages, a time range for this import, and the folders you would like to import.": [
+        "Создайте ярлык для импортированных сообщений, укажите диапазон времени для этого импорта и папки, которые вы хотите импортировать."
+      ],
+      "Create a label for the imported messages, a time range for this import, and the labels you would like to import.": [
+        "Создайте ярлык для импортированных сообщений, укажите диапазон времени для этого импорта и ярлыки, которые вы хотите импортировать."
+      ],
+      "Create a new contact group": [
+        "Создать новую группу контактов"
+      ],
+      "Create in": [
+        "Создать в"
+      ],
+      "CSV files from Outlook, Outlook Express, Yahoo! Mail, Hotmail, Eudora and some other apps as well as vCard 3.1 and 4.0 formats (UTF-8 encoding) are supported.": [
+        "Поддерживаются файлы CSV из Outlook, Outlook Express, Yahoo! Mail, Hotmail, Eudora и некоторых других приложений, а также форматы vCard 3.1 и 4.0 (кодировка UTF-8)."
+      ],
+      "Custom": [
+        "Пользовательский"
+      ],
+      "Custom daily": [
+        "Настраиваемое ежедневное"
+      ],
+      "Custom monthly": [
+        "Настраиваемое ежемесячное"
+      ],
+      "Custom weekly": [
+        "Настраиваемое еженедельное"
+      ],
+      "Custom yearly": [
+        "Настраиваемое ежегодное"
+      ],
+      "Daily": [
+        "Ежедневно"
+      ],
+      "Discard changes?": [
+        "Отменить изменения?"
+      ],
+      "Drop the file here to upload": [
+        "Для загрузки файла перетащите его сюда"
+      ],
+      "Duplicate key updated": [
+        "Дубликат ключа обновлён"
+      ],
+      "Enter the verification code that was sent to ${ destinationText }.": [
+        "Введите код подтверждения, отправленный на ${ destinationText }."
+      ],
+      "Existent and added participants will be notified.": [
+        "Существующие и добавленные участники будут уведомлены."
+      ],
+      "Existent and removed participants will be notified.": [
+        "Существующие и удаленные участники будут уведомлены."
+      ],
+      "Existent, added and removed participants will be notified.": [
+        "Существующие, добавленные и удаленные участники будут уведомлены."
+      ],
+      "Free up some space or add more storage space.": [
+        "Освободите место или добавьте больше места."
+      ],
+      "Free up some space or contact your administrator.": [
+        "Освободите место или свяжитесь с вашим администратором."
+      ],
+      "Frequency modifications will be lost.": [
+        "Изменения повторов событий будут утеряны."
+      ],
+      "Group assignment applied": [
+        "Назначение группы применено"
+      ],
+      "here": [
+        "здесь"
+      ],
+      "If you are having trouble creating your account, please request an invitation and we will respond within one business day.": [
+        "Если у вас возникли проблемы с созданием учетной записи, пожалуйста, запросите приглашение и мы ответим в течение одного рабочего дня."
+      ],
+      "If you believe this is in error, please contact us ${ contactLink }.": [
+        "Если вы считаете, что это ошибка, пожалуйста, свяжитесь с нами ${ contactLink }."
+      ],
+      "If you don't find the email in your inbox, please check your spam folder.": [
+        "Если сообщения нет в папке Входящие — проверьте, не попало ли оно в папку Спам."
+      ],
+      "Import ${ contactsFragment } and ${ contactsGroupsFragment }": [
+        "Импортировать ${ contactsFragment } и ${ contactsGroupsFragment }"
+      ],
+      "Import ${ selectedCalendarsCount } of ${ totalCalendarsCount } calendar": [
+        "Импортировать ${ selectedCalendarsCount } из ${ totalCalendarsCount } календаря",
+        "Импортировать ${ selectedCalendarsCount } из ${ totalCalendarsCount } календарей",
+        "Импортировать ${ selectedCalendarsCount } из ${ totalCalendarsCount } календарей",
+        "Импортировать ${ selectedCalendarsCount } из ${ totalCalendarsCount } календарей"
+      ],
+      "Import from": [
+        "Импортировать из"
+      ],
+      "Import in progress": [
+        "Выполняется импорт"
+      ],
+      "Importing your data from ${ importedEmailAddress } to ${ toEmail }.": [
+        "Импорт ваших данных из ${ importedEmailAddress } в ${ toEmail }."
+      ],
+      "Inherited from parent folder": [
+        "Унаследовано от родительской папки"
+      ],
+      "Internet connection lost": [
+        "Потеряно подключение к интернету"
+      ],
+      "Internet connection lost. Please check your device's connectivity.": [
+        "Интернет-соединение потеряно. Пожалуйста, проверьте возможность подключения устройства."
+      ],
+      "Internet connection restored.": [
+        "Соединение с интернет восстановлено."
+      ],
+      "Just confirm your selection and we'll do the rest.": [
+        "Просто подтвердите свой выбор, а остальное мы сделаем сами."
+      ],
+      "Key fingerprint": [
+        "Отпечаток ключа"
+      ],
+      "Large imports can take several days.": [
+        "Большой импорт может занять несколько дней."
+      ],
+      "Learn more": [
+        "Подробнее"
+      ],
+      "Loading": [
+        "Загрузка"
+      ],
+      "Loading ${ appName }": [
+        "Загрузка ${ appName }"
+      ],
+      "Loading event": [
+        "Загрузка события"
+      ],
+      "Loading events": [
+        "Загружаем события"
+      ],
+      "Manage your calendars": [
+        "Управление календарями"
+      ],
+      "Merged": [
+        "Объединённый"
+      ],
+      "Monthly ${ onDayString }": [
+        "Ежемесячно ${ onDayString }"
+      ],
+      "Name your new folder and select the parent folder you want to put it in. If you do not select a parent folder, this new folder will be created as a top level folder.": [
+        "Назовите новую папку и выберите родительскую папку, в которую вы хотите ее поместить. Если вы не выберете родительскую папку, то эта новая папка будет создана как папка верхнего уровня."
+      ],
+      "New": [
+        "Новый"
+      ],
+      "No contacts added yet": [
+        "Контакты ещё не добавлены"
+      ],
+      "No email address": [
+        "Нет адресов эл. почты"
+      ],
+      "No group found": [
+        "Группа не найдена"
+      ],
+      "No results found": [
+        "Результаты не найдены"
+      ],
+      "None of the participants can be notified about your changes:": [
+        "Никто из участников не может быть уведомлен о внесенных вами изменениях:"
+      ],
+      "None of the uploaded keys are valid for encryption. Encryption is automatically disabled.": [
+        "Ни один из загруженных ключей не подходит для шифрования. Шифрование автоматически отключено."
+      ],
+      "Not a valid URL": [
+        "Недопустимый URL"
+      ],
+      "Occurrences previously updated by the organizer will be kept, but some of your answers will be lost.": [
+        "События, ранее обновленные организатором, будут сохранены, но некоторые ваши ответы будут потеряны."
+      ],
+      "Occurrences previously updated by the organizer will be kept.": [
+        "События, ранее обновленные организатором, будут сохранены."
+      ],
+      "One or more of your trusted keys were marked \"compromised\" by their owner. We recommend that you \"untrust\" these keys.": [
+        "Один или несколько ваших доверенных ключей были отмечены их владельцем как «раскрытые». Мы рекомендуем вам «отозвать доверие» у этих ключей."
+      ],
+      "Only change these settings if you are using PGP with non-${ BRAND_NAME } recipients.": [
+        "Изменяйте эти настройки только в том случае, если используете PGP для переписки с получателями вне ${ BRAND_NAME }."
+      ],
+      "Other options": [
+        "Другие возможности"
+      ],
+      "PGP/Inline is only compatible with Plain Text format. Please note that ${ MAIL_APP_NAME } always signs encrypted messages.": [
+        "PGP/Inline совместим только с форматом Обычного текста. Обратите внимание, что ${ MAIL_APP_NAME } всегда подписывает зашифрованные сообщения."
+      ],
+      "PGP/MIME automatically sends the message using the current composer mode. Please note that ${ MAIL_APP_NAME } always signs encrypted messages": [
+        "PGP/MIME автоматически отправляет сообщение, используя текущий режим редактора писем. Обратите внимание, что ${ MAIL_APP_NAME } всегда подписывает зашифрованные сообщения"
+      ],
+      "Please note that addresses assigned to this group will NOT be deleted.": [
+        "Пожалуйста, обратите внимание, что адреса, назначенные этой группе, НЕ будут удалены."
+      ],
+      "Please note that this process may take some time depending on the size of your address book.": [
+        "Пожалуйста, обратите внимание, что этот процесс может занять некоторое время в зависимости от размера вашей адресной книги."
+      ],
+      "Please remove the duplicates and try again.": [
+        "Пожалуйста, удалите дубликаты и повторите попытку."
+      ],
+      "Please select the folders you would like to import:": [
+        "Пожалуйста, выберите папки для импорта:"
+      ],
+      "Please select which email address or addresses to add to ${ groupCount } group.": [
+        "Пожалуйста, выберите, какой или какие адреса электронной почты нужно добавить в ${ groupCount } группу.",
+        "Пожалуйста, выберите, какой или какие адреса электронной почты нужно добавить в ${ groupCount } группы.",
+        "Пожалуйста, выберите, какой или какие адреса электронной почты нужно добавить в ${ groupCount } групп.",
+        "Пожалуйста, выберите, какой или какие адреса электронной почты нужно добавить в ${ groupCount } группы."
+      ],
+      "Please select which email address or addresses to add to ${ groupName }.": [
+        "Пожалуйста, выберите, какой или какие адреса электронной почты нужно добавить в ${ groupName }."
+      ],
+      "Please wait while we look for contacts that can be re-signed with the primary encryption key.": [
+        "Пожалуйста, подождите, пока мы ищем контакты, которые можно повторно подписать с помощью основного ключа шифрования."
+      ],
+      "Please wait while we look for contacts that contain data encrypted with the inactive key.": [
+        "Пожалуйста, подождите, пока мы ищем контакты с зашифрованными неактивным ключом данными."
+      ],
+      "Previous modifications on this series will be lost.": [
+        "Предыдущие изменения в этой серии будут потеряны."
+      ],
+      "Primary": [
+        "Основной"
+      ],
+      "Priority support": [
+        "Приоритетная поддержка"
+      ],
+      "Refreshing the page or ${ link } will automatically resolve most issues.": [
+        "Обновление страницы или ${ link } автоматически решит большую часть проблем."
+      ],
+      "Removed participants will be notified.": [
+        "Удаленные участники будут уведомлены."
+      ],
+      "Select the email format you want to be used by default when sending an email to this email address.": [
+        "Выберите формат письма, который вы хотите использовать по умолчанию при отправке почты на этот адрес."
+      ],
+      "Select what you want to move from Google.": [
+        "Select what you want to import from Google."
+      ],
+      "Select which calendars to import. A new calendar will be created for each imported calendar up to the 20 calendars limit.": [
+        "Выберите, какие календари необходимо импортировать. Для каждого импортированного календаря будет создан новый календарь, до достижения лимита в 20 календарей."
+      ],
+      "Servers are unreachable. Please try again in a few minutes": [
+        "Серверы недоступны. Попробуйте снова через несколько минут"
+      ],
+      "Session timed out": [
+        "Время сеанса истекло"
+      ],
+      "Setting up PGP allows you to send end-to-end encrypted emails with a non-${ BRAND_NAME } user that uses a PGP compatible service.": [
+        "Настройка PGP позволяет отправлять электронную почту, зашифрованную сквозным методом, не использующему ${ BRAND_NAME } адресату, который использует службу, совместимую с PGP."
+      ],
+      "Some of your answers to occurrences previously updated by the organizer will be lost.": [
+        "Некоторые ваши ответы на события, ранее обновленные организатором, будут потеряны."
+      ],
+      "Storage space is shared across ${ MAIL_APP_NAME }, ${ CALENDAR_APP_NAME }, and ${ DRIVE_APP_NAME }.": [
+        "Место для хранения совместно используется ${ MAIL_APP_NAME }, ${ CALENDAR_APP_NAME } и ${ DRIVE_APP_NAME }."
+      ],
+      "Support for 1 custom email domain": [
+        "Поддержка 1 пользовательского домена электронной почты"
+      ],
+      "support team": [
+        "команда поддержки"
+      ],
+      "The application needs to locally decrypt your contacts before they can be exported. At the end of the process, a VCF file will be generated and you will be able to download it.": [
+        "Приложению необходимо локально расшифровать ваши контакты, прежде чем экспортировать их. В итоге будет сгенерирован файл VCF, и вы сможете его скачать."
+      ],
+      "The following participants cannot be notified about your changes:": [
+        "Следующие участники не могут быть уведомлены о внесенных вами изменениях:"
+      ],
+      "The organizer cannot be notified that you decline the invitation:": [
+        "Организатор не может быть уведомлен, что вы отклонили приглашение:"
+      ],
+      "The organizer cannot be notified that you want to change your answer:": [
+        "Организатор не может быть уведомлен о том, что вы хотите изменить свой ответ:"
+      ],
+      "The organizer could not be notified that you changed your answer:": [
+        "Организатор не может быть уведомлен о том, что вы изменили свой ответ:"
+      ],
+      "The organizer has updated some of the events in this series. Changing the calendar is not supported yet for this type of recurring events.": [
+        "Организатор обновил некоторые события в этой серии. Изменение календаря пока не поддерживается для этого типа повторяющихся событий."
+      ],
+      "The organizer of this event will be notified that you decline the invitation. Would you like to delete this event?": [
+        "Организатор этого события будет уведомлен о том, что вы отклонили приглашение. Вы хотите удалить это событие?"
+      ],
+      "The organizer of this event will not be notified that you decline the invitation as you can't send emails from the invited address. Would you like to delete this event anyway?": [
+        "Организатор этого мероприятия не будет уведомлен о том, что вы отклонили приглашение, поскольку вы не можете отправлять письма с приглашенного адреса. Вы хотите удалить это событие?"
+      ],
+      "The organizer of this series of events will be notified that you decline the invitation. Would you like to delete all the events in this series?": [
+        "Организатор этой серии событий будет уведомлен о том, что вы отклонили приглашение. Вы хотите удалить все события в этой серии?"
+      ],
+      "The organizer of this series of events will not be notified that you decline the invitation as you can't send emails from the invited address. Would you like to delete all the events in this series anyway?": [
+        "Организатор этой серии событий не будет уведомлен о том, что вы отклонили приглашение, поскольку вы не можете отправлять письма с приглашенного адреса. Вы хотите удалить все события этой серии?"
+      ],
+      "This account has been suspended due to a potential policy violation.": [
+        "Этот аккаунт был приостановлен из-за потенциального нарушения политики."
+      ],
+      "This address is disabled. To be able to send to this address, the owner must first enable the address.": [
+        "Этот адрес отключён. Чтобы была возможность отправки на этот адрес, владелец должен его включить."
+      ],
+      "This event has been updated by the organizer. Would you like to change your answer only for this occurrence in this series?": [
+        "Это событие было обновлено организатором. Вы хотели бы изменить свой ответ только для этого события в серии?"
+      ],
+      "This event has been updated by the organizer. Would you like to delete this event?": [
+        "Это событие было обновлено организатором. Вы хотите удалить это событие?"
+      ],
+      "This event has been updated. The organizer will be notified that you decline the invitation. Would you like to delete this event?": [
+        "Событие было обновлено. Организатор будет уведомлен о том, что вы отклонили приглашение. Вы хотите удалить это событие?"
+      ],
+      "This event has been updated. The organizer will not be notified that you decline the invitation as you can't send emails from the invited address. Would you like to delete this event anyway?": [
+        "Событие было обновлено. Организатор не будет уведомлен о том, что вы отклонили приглашение, поскольку вы не можете отправлять письма с приглашенного адреса. Вы хотите удалить это событие?"
+      ],
+      "This link leads to a website that might be trying to steal your information, such as passwords and credit card details.": [
+        "Эта ссылка ведет на сайт, который может пытаться украсть вашу информацию, например, пароли и данные кредитной карты."
+      ],
+      "This link may be a homograph attack and cannot be opened by Internet Explorer and Edge browsers. If you are certain the link is legitimate, please use a different browser to open it.": [
+        "Эта ссылка может быть омографической атакой и не может быть открыта браузерами Internet Explorer и Edge. Если вы уверены, что ссылка безопасна, то, пожалуйста, воспользуйтесь другим браузером для её открытия."
+      ],
+      "This link may be a homograph attack. Please verify this is the link you wish to visit, or don't open it.": [
+        "Эта ссылка может быть омографической атакой, при которой символы одного алфавита подменяются похожими символами из другого. Пожалуйста, проверьте, что это именно та ссылка, которую вы хотите посетить, или не переходите по ней."
+      ],
+      "To fight spam and abuse, please verify you are human.": [
+        "Для предотвращения распространения спама и иных злоупотреблений нашим сервисом, нам нужно убедиться, что вы человек."
+      ],
+      "To re-sign your contacts, we need to check every contact against the list of encryption keys available in your account. If no match is found, your contact will be re-signed with the primary encryption key.": [
+        "Для повторной подписи контактов нам необходимо проверить каждый контакт с помощью списка ключей шифрования, доступных в вашей учетной записи. Если совпадение не будет найдено, ваш контакт будет повторно подписан основным ключом шифрования."
+      ],
+      "To recover your data, you need to re-activate the contact encryption key used at the time when the data was created. This will require you to remember the password used when the key was generated.": [
+        "Для восстановления данных необходимо повторно активировать ключ шифрования контактов, использованный в момент создания данных. Для этого понадобится, чтобы вы вспомнили пароль, использованный при создании ключа."
+      ],
+      "To use Address Verification, you must trust one or more available public keys, including the one you want to use for sending. This prevents the encryption keys from being faked.": [
+        "Чтобы использовать проверку адреса, вы должны доверять одному или более из доступных публичных ключей, включая тот, который вы хотите применить для отправки. Это предотвращает подделку ключей шифрования."
+      ],
+      "Unlimited folders, labels, and filters": [
+        "Неограниченное количество папок, меток и фильтров"
+      ],
+      "Unlimited messages": [
+        "Неограниченное количество сообщений"
+      ],
+      "Update recurring event": [
+        "Обновить повторяющееся событие"
+      ],
+      "Upgrade today to avoid losing the following ${ planName } benefits.": [
+        "Обновитесь сегодня, чтобы не потерять следующие преимущества ${ planName }."
+      ],
+      "We'll notify you when the import is done.": [
+        "Мы уведомим вас, когда импорт будет завершен."
+      ],
+      "We'll send a new verification code to ${ strong }": [
+        "Мы отправим новый код подтверждения на ${ strong }"
+      ],
+      "We're moving! Join us at our new site: ${ link }.": [
+        "Мы переезжаем! Переходи на наш новый сайт: ${ link }."
+      ],
+      "Week": [
+        "Неделя"
+      ],
+      "Which event would you like to delete?": [
+        "Какое событие вы хотите удалить?"
+      ],
+      "Which event would you like to update?": [
+        "Какое событие вы хотите изменить?"
+      ],
+      "Would you like to change your answer for all the events in this series?": [
+        "Вы хотите изменить свой ответ для всех событий в серии?"
+      ],
+      "Would you like to continue anyway?": [
+        "Вы все равно хотите продолжить?"
+      ],
+      "Would you like to delete all the events in this series?": [
+        "Вы хотите удалить все события в этой серии?"
+      ],
+      "Would you like to delete the event anyway?": [
+        "Вы все равно хотите удалить это событие?"
+      ],
+      "Would you like to delete this event?": [
+        "Вы хотите удалить это событие?"
+      ],
+      "Would you like to receive a new verification code or use an alternative verification method?": [
+        "Вы хотите получить новый код подтверждения или использовать другой метод?"
+      ],
+      "Would you like to receive a new verification code?": [
+        "Хотите ли вы получить новый код подтверждения?"
+      ],
+      "Would you like to update all events in this series?": [
+        "Вы хотите изменить все события в этой серии?"
+      ],
+      "Would you like to update this event?": [
+        "Вы хотите изменить это событие?"
+      ],
+      "Yearly": [
+        "Ежегодно"
+      ],
+      "You are about to open another browser tab and visit:": [
+        "Вы собираетесь открыть другую вкладку браузера и посетить:"
+      ],
+      "You are currently signed in as ${ user.Name } (${ user.Email }).": [
+        "В настоящее время вы вошли как ${ user.Name } (${ user.Email })."
+      ],
+      "You can also merge imported calendars with existing Proton calendars.": [
+        "Вы также можете объединить импортированные календари с существующими календарями Proton."
+      ],
+      "You can check the progress ${ importProgressLink }.": [
+        "Вы можете проверить прогресс ${ importProgressLink }."
+      ],
+      "You can only modify personal event properties as you can't send emails from the organizer address.": [
+        "Вы можете изменять только свою копию события, так как вы не можете отправлять письма с адреса организатора."
+      ],
+      "You can turn on notifications to get alerts when new email messages arrive in this folder.": [
+        "Вы можете включить уведомления, чтобы получать оповещения при появлении новых сообщений в этой папке."
+      ],
+      "You have reactivated your keys and events linked to the following calendars can now be decrypted.": [
+        "Вы повторно активировали свои ключи, и события, связанные со следующими календарями, теперь могут быть расшифрованы."
+      ],
+      "You have reset your password and events linked to the following calendars couldn't be decrypted.\nAny shared calendar links you created previously will no longer work.\nAny active subscribed calendars will synchronize again after a few minutes.": [
+        "Вы сбросили пароль, и события, связанные со следующими календарями, не могут быть расшифрованы.\nВсе созданные ранее ссылки на общие календари больше не будут работать.\nВсе активные подписанные календари снова синхронизируются через несколько минут."
+      ],
+      "You reached ${ spaceDisplayed }% of your storage capacity. ${ freeUpMessage } ${ upgradeLink }": [
+        "Вы достигли ${ spaceDisplayed }% емкости Вашего хранилища. ${ freeUpMessage } ${ upgradeLink }"
+      ],
+      "You reached 100% of your storage capacity. You cannot send or receive new emails. ${ freeUpMessage } ${ upgradeLink }": [
+        "Вы использовали 100% доступного места. Вы не можете отправлять или получать новые сообщения. ${ freeUpMessage } ${ upgradeLink }"
+      ],
+      "You will lose all unsaved changes.": [
+        "Вы потеряете все несохраненные изменения."
+      ],
+      "You will update all the events in this series. Added and removed participants will be notified.": [
+        "Вы обновите все события в этой серии. Добавленные и удаленные участники будут уведомлены."
+      ],
+      "You will update all the events in this series. An invitation will be sent to the event participants.": [
+        "Вы обновите все события в этой серии. Участникам события будет отправлено приглашение."
+      ],
+      "You will update all the events in this series. Existent and added participants will be notified.": [
+        "Вы обновите все события в этой серии. Существующие и добавленные участники будут уведомлены."
+      ],
+      "You will update all the events in this series. Existent and removed participants will be notified.": [
+        "Вы обновите все события в этой серии. Существующие и удаленные участники будут уведомлены."
+      ],
+      "You will update all the events in this series. Existent, added and removed participants will be notified.": [
+        "Вы обновите все события в этой серии. Существующие, добавленные и удаленные участники будут уведомлены."
+      ],
+      "You will update all the events in this series. Removed participants will be notified.": [
+        "Вы обновите все события в этой серии. Удаленные участники будут уведомлены."
+      ],
+      "Your account has at least one overdue invoice. Your access has been restricted. ${ payInvoiceLink }": [
+        "Для вашей учетной записи есть по крайней мере один просроченный счет. Ваш доступ был ограничен. ${ payInvoiceLink }"
+      ],
+      "Your account has at least one overdue invoice. Your access will soon get restricted. ${ payInvoiceLink }": [
+        "Ваша учетная запись имеет по крайней мере один просроченный счет. Ваш доступ скоро будет ограничен. ${ payInvoiceLink }"
+      ],
+      "Your address is disabled. A cancellation email cannot be sent to the event participants. Would you like to delete all events in this series anyway?": [
+        "Ваш адрес отключен. Участникам мероприятия нельзя отправить письмо об отмене. Всё равно хотите удалить все события в этой серии?"
+      ],
+      "Your address is disabled. A cancellation email cannot be sent to the event participants. Would you like to delete this event anyway?": [
+        "Ваш адрес отключен. Сообщение об отмене не может быть отправлено участникам мероприятия. Вы всё равно хотите удалить это мероприятие?"
+      ],
+      "Your data is ready to import from ${ importedEmailAddressStrong } to your Proton account.": [
+        "Ваши данные готовы к импорту из ${ importedEmailAddressStrong } в ваш аккаунт Proton."
+      ],
+      "Your email will only be used for this one-time verification.": [
+        "Ваш адрес электронной почты будет использован только для этой разовой проверки."
+      ],
+      "Your events will be encrypted and then saved.": [
+        "Ваши события будут зашифрованы, а затем сохранены."
+      ],
+      "Your phone number will only be used for this one-time verification.": [
+        "Ваш номер телефона будет использован только для этой разовой проверки."
+      ],
+      "Your Proton account is currently on hold. To continue using your account, please pay any overdue invoices.": [
+        "Сейчас ваш аккаунт Proton приостановлен. Чтобы продолжить использование вашего аккаунта, пожалуйста, оплатите просроченные счета."
+      ],
+      "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
+        "Похоже, что ваш часовой пояс изменился на ${ timezone }. Вы хотите обновить настройки часового пояса?"
+      ]
+    },
+    "Info on errors": {
+      "Click for details": [
+        "Нажмите, чтобы узнать подробности"
+      ]
+    },
+    "Info, no need for singular": {
+      "Multiple contacts look identical. ${ mergeAction }": [
+        "Несколько контактов выглядят идентичными. ${ mergeAction }"
+      ]
+    },
+    "Key badge": {
+      "Compromised": [
+        "Раскрытый"
+      ],
+      "Expired": [
+        "Устаревший"
+      ],
+      "Obsolete": [
+        "Устаревший"
+      ],
+      "Primary": [
+        "Основной"
+      ],
+      "Revoked": [
+        "Отозванный"
+      ],
+      "Trusted": [
+        "Надежный"
+      ],
+      "WKD": [
+        "WKD"
+      ]
+    },
+    "Label": {
+      "(Temporarily unavailable. Please check back later.)": [
+        "(Временно недоступно. Пожалуйста, проверьте позже.)"
+      ],
+      "0 - Not likely": [
+        "0 - Маловероятно"
+      ],
+      "10 - Extremely likely": [
+        "10 - Крайне вероятно"
+      ],
+      "Add email address": [
+        "Добавить адрес эл. почты"
+      ],
+      "Add image URL": [
+        "Добавить ссылку на изображение"
+      ],
+      "Add to group": [
+        "Добавить в группу"
+      ],
+      "All day": [
+        "Весь день"
+      ],
+      "Attach screenshot(s)": [
+        "Приложить снимки экрана"
+      ],
+      "Automatically save contacts": [
+        "Автоматически сохранять контакты"
+      ],
+      "Browser": [
+        "Браузер"
+      ],
+      "Browser version": [
+        "Версия браузера"
+      ],
+      "Calendar": [
+        "Календарь"
+      ],
+      "Calendars": [
+        "Календари"
+      ],
+      "Category": [
+        "Категория"
+      ],
+      "City": [
+        "Город"
+      ],
+      "Code is 6 digits without spaces": [
+        "Код состоит из 6 цифр без пробелов"
+      ],
+      "Color": [
+        "Цвет"
+      ],
+      "Contacts": [
+        "Контакты"
+      ],
+      "Copy": [
+        "Копировать"
+      ],
+      "Country": [
+        "Страна"
+      ],
+      "Date and time": [
+        "Дата и время"
+      ],
+      "Default email address": [
+        "Адрес электронной почты по умолчанию"
+      ],
+      "Default event duration": [
+        "Длительность события по умолчанию"
+      ],
+      "Default full day notifications": [
+        "Уведомления для событий на весь день по умолчанию"
+      ],
+      "Default notifications": [
+        "Уведомления по умолчанию"
+      ],
+      "Delete": [
+        "Удалить"
+      ],
+      "Description": [
+        "Описание"
+      ],
+      "Display": [
+        "Показывать"
+      ],
+      "Do not ask again": [
+        "Больше не спрашивать"
+      ],
+      "Email address": [
+        "Адрес электронной почты"
+      ],
+      "Email format": [
+        "Формат письма"
+      ],
+      "Emails": [
+        "Электронные письма"
+      ],
+      "Enable Beta Access": [
+        "Включить доступ к Beta"
+      ],
+      "Encrypt emails": [
+        "Зашифровать письма"
+      ],
+      "Ends": [
+        "Заканчивается"
+      ],
+      "Event title": [
+        "Название события"
+      ],
+      "Export contacts": [
+        "Экспортировать контакты"
+      ],
+      "Extended address": [
+        "Расширенный адрес"
+      ],
+      "Folder location": [
+        "Размещение папки"
+      ],
+      "Frequency": [
+        "Частота"
+      ],
+      "From: ${ importedEmail }": [
+        "От: ${ importedEmail }"
+      ],
+      "Hide password": [
+        "Скрыть пароль"
+      ],
+      "How likely are you to recommend ${ calendarAppName } to a friend or colleague?": [
+        "Насколько вероятно, что вы порекомендуете ${ calendarAppName } другу или коллеге?"
+      ],
+      "I understand the risk": [
+        "Я понимаю риск"
+      ],
+      "Import all messages": [
+        "Импортировать все сообщения"
+      ],
+      "Import contacts": [
+        "Импортировать контакты"
+      ],
+      "Import interval": [
+        "Интервал импорта"
+      ],
+      "Import to email address": [
+        "Импортировать в электронную почту"
+      ],
+      "Import to:": [
+        "Импортировать в:"
+      ],
+      "Label messages as": [
+        "Отметить сообщения как"
+      ],
+      "Last 12 months only": [
+        "Только последние 12 месяцев"
+      ],
+      "Last 3 months only": [
+        "Только последние 3 месяца"
+      ],
+      "Last month only": [
+        "Только за последний месяц"
+      ],
+      "Location": [
+        "Местоположение"
+      ],
+      "Mailbox password": [
+        "Пароль почтового ящика"
+      ],
+      "Manage folders": [
+        "Управлять папками"
+      ],
+      "Manage labels": [
+        "Управление ярлыками"
+      ],
+      "Name": [
+        "Название"
+      ],
+      "Notification": [
+        "Уведомление"
+      ],
+      "Notifications": [
+        "Уведомления"
+      ],
+      "Operating system": [
+        "Операционная система"
+      ],
+      "Operating system version": [
+        "Версия операционной системы"
+      ],
+      "Optional": [
+        "Необязательно"
+      ],
+      "Organizer": [
+        "Организатор"
+      ],
+      "participant": [
+        "участник",
+        "участники",
+        "участники",
+        "участники"
+      ],
+      "Participants": [
+        "Участники"
+      ],
+      "Password": [
+        "Пароль"
+      ],
+      "PGP scheme": [
+        "Схема PGP"
+      ],
+      "Phone number": [
+        "Номер телефона"
+      ],
+      "Post office box": [
+        "Абенентский ящик"
+      ],
+      "Postal code": [
+        "Почтовый индекс"
+      ],
+      "Proton username": [
+        "Имя пользователя в Proton"
+      ],
+      "Public keys": [
+        "Публичные ключи"
+      ],
+      "Region": [
+        "Регион/область"
+      ],
+      "Repeat every": [
+        "Повторяется каждый"
+      ],
+      "Repeat on": [
+        "Повторяется по"
+      ],
+      "Reveal password": [
+        "Показать пароль"
+      ],
+      "Sign emails": [
+        "Подписать письма"
+      ],
+      "Street address": [
+        "Адрес"
+      ],
+      "System information": [
+        "Сведения о системе"
+      ],
+      "To: ${ emailAddress }": [
+        "Кому: ${ emailAddress }"
+      ],
+      "Two-factor authentication code": [
+        "Код двухфакторной аутентификации"
+      ],
+      "Upload picture": [
+        "Загрузить изображение"
+      ],
+      "URL": [
+        "URL"
+      ],
+      "Username or ${ MAIL_APP_NAME } address": [
+        "Имя пользователя или адерс ${ MAIL_APP_NAME }"
+      ],
+      "Verification code": [
+        "Код подтверждения"
+      ],
+      "What happened?": [
+        "Что случилось?"
+      ]
+    },
+    "Label for contact group color": {
+      "Color": [
+        "Цвет"
+      ]
+    },
+    "Label for contact group name": {
+      "Name": [
+        "Название"
+      ]
+    },
+    "Label/folder modal": {
+      "Create folder": [
+        "Создать папку"
+      ],
+      "Create label": [
+        "Создать ярлык"
+      ],
+      "Edit folder": [
+        "Изменить папку"
+      ],
+      "Edit label": [
+        "Изменить ярлык"
+      ]
+    },
+    "label/folder notification": {
+      "${ Label.Name } created": [
+        "${ Label.Name } создан"
+      ]
+    },
+    "Link": {
+      "Calendars": [
+        "Календари"
+      ],
+      "clearing your browser cache": [
+        "очистка кэша браузера"
+      ],
+      "Go to subscription plans": [
+        "Перейти на страницу подписки"
+      ],
+      "Learn more": [
+        "Подробнее"
+      ],
+      "My calendars": [
+        "Мои календари"
+      ],
+      "Pay invoice": [
+        "Оплатить счёт"
+      ],
+      "Request an invite": [
+        "Запросить приглашение"
+      ],
+      "Subscribed calendars": [
+        "Подписанные календари"
+      ],
+      "Upgrade": [
+        "Улучшить"
+      ],
+      "Upgrade account": [
+        "Улучшить тариф"
+      ]
+    },
+    "Loading info": {
+      "Almost there": [
+        "Почти там"
+      ],
+      "Amount of calendars created: ${ createdCalendars } out of ${ calendarsToBeCreated }": [
+        "Количество созданных календарей: ${ createdCalendars } из ${ calendarsToBeCreated }"
+      ],
+      "Creating new calendars": [
+        "Создание новых календарей"
+      ],
+      "Gathering your data": [
+        "Собираются ваши данные"
+      ],
+      "We're gathering your data from your provider": [
+        "Мы собираем ваши данные у вашего поставщика услуг"
+      ],
+      "Your import is starting": [
+        "Ваш импорт начался"
+      ]
+    },
+    "Mail import summary": {
+      "Import all messages from ${ selectedLabelsCount } out of ${ totalLabelsCount } label since ${ periodFragment } and label them as ${ LABEL_MARKUP_PLACEHOLDER }": [
+        "Импортировать все сообщения из ${ selectedLabelsCount } из ${ totalLabelsCount } ярлыка с ${ periodFragment } и пометить их как ${ LABEL_MARKUP_PLACEHOLDER }",
+        "Импортировать все сообщения из ${ selectedLabelsCount } из ${ totalLabelsCount } ярлыков с ${ periodFragment } и пометить их как ${ LABEL_MARKUP_PLACEHOLDER }",
+        "Импортировать все сообщения из ${ selectedLabelsCount } из ${ totalLabelsCount } ярлыков с ${ periodFragment } и пометить их как ${ LABEL_MARKUP_PLACEHOLDER }",
+        "Импортировать все сообщения из ${ selectedLabelsCount } из ${ totalLabelsCount } ярлыков с ${ periodFragment } и пометить их как ${ LABEL_MARKUP_PLACEHOLDER }"
+      ],
+      "Import all messages from ${ totalLabelsCount } label since ${ periodFragment } and label them as ${ LABEL_MARKUP_PLACEHOLDER }": [
+        "Импортируйте все сообщения из ярлыка ${ totalLabelsCount } с ${ periodFragment } и пометьте их как ${ LABEL_MARKUP_PLACEHOLDER }",
+        "Импортируйте все сообщения из ярлыков ${ totalLabelsCount } с ${ periodFragment } и пометьте их как ${ LABEL_MARKUP_PLACEHOLDER }",
+        "Импортируйте все сообщения из ярлыков ${ totalLabelsCount } с ${ periodFragment } и пометьте их как ${ LABEL_MARKUP_PLACEHOLDER }",
+        "Импортируйте все сообщения из ярлыков ${ totalLabelsCount } с ${ periodFragment } и пометьте их как ${ LABEL_MARKUP_PLACEHOLDER }"
+      ]
+    },
+    "Message": {
+      "Fw:": [
+        "Fw:"
+      ],
+      "Re:": [
+        "Re:"
+      ],
+      "Your free trial has ended. Access to your account will soon be disabled. ${ action }": [
+        "Ваша бесплатный пробный период закончился. Доступ к вашему аккаунту скоро будет отключен. ${ action }"
+      ]
+    },
+    "Message display when a new app version is available": {
+      "A new version of ${ appName } is available. ${ reloadButton }.": [
+        "Доступна новая версия ${ appName } . ${ reloadButton }."
+      ]
+    },
+    "MIME type": {
+      "Automatic": [
+        "Автоматический"
+      ],
+      "Plain text": [
+        "Простой текст"
+      ]
+    },
+    "Modal action": {
+      "Close": [
+        "Закрыть"
+      ],
+      "Manage calendars": [
+        "Управление календарями"
+      ]
+    },
+    "Modal title": {
+      "Time zone changed": [
+        "Часовой пояс изменен"
+      ],
+      "Unable to add more calendars": [
+        "Невозможно добавить больше календарей"
+      ]
+    },
+    "Modal title and action": {
+      "Add calendar": [
+        "Добавить календарь"
+      ]
+    },
+    "Monthly recurring event, frequency": {
+      "Every ${ interval } month ${ onDayString }": [
+        "Каждый ${ interval } месяц (${ onDayString })",
+        "Каждые ${ interval } месяца (${ onDayString })",
+        "Каждые ${ interval } месяцев (${ onDayString })",
+        "Каждые ${ interval } месяцев (${ onDayString })"
+      ],
+      "Every ${ interval } month ${ onDayString }, ${ timesString }": [
+        "Каждый ${ interval } месяц (${ onDayString }, ${ timesString })",
+        "Каждые ${ interval } месяца (${ onDayString }, ${ timesString })",
+        "Каждые ${ interval } месяцев (${ onDayString }, ${ timesString })",
+        "Каждые ${ interval } месяцев (${ onDayString }, ${ timesString })"
+      ],
+      "Every ${ interval } month ${ onDayString }, ${ untilString }": [
+        "Каждый ${ interval } месяц ${ onDayString } ${ untilString }",
+        "Каждые ${ interval } месяца ${ onDayString } ${ untilString }",
+        "Каждые ${ interval } месяцев ${ onDayString } ${ untilString }",
+        "Каждые ${ interval } месяцев ${ onDayString } ${ untilString }"
+      ],
+      "Monthly ${ onDayString }": [
+        "Ежемесячно ${ onDayString }"
+      ],
+      "Monthly ${ onDayString }, ${ timesString }": [
+        "Ежемесячно ${ onDayString }, ${ timesString }"
+      ],
+      "Monthly ${ onDayString }, ${ untilString }": [
+        "Ежемесячно ${ onDayString } ${ untilString }"
+      ]
+    },
+    "Monthly recurring event, repeats on": {
+      "on day ${ dayOfMonth }": [
+        "в день ${ dayOfMonth }"
+      ],
+      "on the first Friday": [
+        "в первую пятницу"
+      ],
+      "on the first Monday": [
+        "в первый понедельник"
+      ],
+      "on the first Saturday": [
+        "в первую субботу"
+      ],
+      "on the first Sunday": [
+        "в первое воскресенье"
+      ],
+      "on the first Thursday": [
+        "в первый четверг"
+      ],
+      "on the first Tuesday": [
+        "в первый вторник"
+      ],
+      "on the first Wednesday": [
+        "в первую среду"
+      ],
+      "on the fourth Friday": [
+        "в четвертую пятницу"
+      ],
+      "on the fourth Monday": [
+        "в четвертый понедельник"
+      ],
+      "on the fourth Saturday": [
+        "в четвертую субботу"
+      ],
+      "on the fourth Sunday": [
+        "в четвертое воскресенье"
+      ],
+      "on the fourth Thursday": [
+        "в четвертый четверг"
+      ],
+      "on the fourth Tuesday": [
+        "в четвертый вторник"
+      ],
+      "on the fourth Wednesday": [
+        "в четвертую среду"
+      ],
+      "on the last Friday": [
+        "в последнюю пятницу"
+      ],
+      "on the last Monday": [
+        "в последний понедельник"
+      ],
+      "on the last Saturday": [
+        "в последнюю субботу"
+      ],
+      "on the last Sunday": [
+        "в последнее воскресенье"
+      ],
+      "on the last Thursday": [
+        "в последний четверг"
+      ],
+      "on the last Tuesday": [
+        "в последний вторник"
+      ],
+      "on the last Wednesday": [
+        "в последнюю среду"
+      ],
+      "on the second Friday": [
+        "во вторую пятницу"
+      ],
+      "on the second Monday": [
+        "во второй понедельник"
+      ],
+      "on the second Saturday": [
+        "во вторую субботу"
+      ],
+      "on the second Sunday": [
+        "во второе воскресенье"
+      ],
+      "on the second Thursday": [
+        "во второй четверг"
+      ],
+      "on the second Tuesday": [
+        "во второй вторник"
+      ],
+      "on the second Wednesday": [
+        "во вторую среду"
+      ],
+      "on the third Friday": [
+        "в третью пятницу"
+      ],
+      "on the third Monday": [
+        "в третий понедельник"
+      ],
+      "on the third Saturday": [
+        "в третью субботу"
+      ],
+      "on the third Sunday": [
+        "в третье воскресенье"
+      ],
+      "on the third Thursday": [
+        "в третий четверг"
+      ],
+      "on the third Tuesday": [
+        "в третий вторник"
+      ],
+      "on the third Wednesday": [
+        "в третью среду"
+      ]
+    },
+    "New Label form": {
+      "Color": [
+        "Цвет"
+      ],
+      "Folder name": [
+        "Название папки"
+      ],
+      "Label name": [
+        "Название ярлыка"
+      ]
+    },
+    "new_plans: action": {
+      "Switch or add account": [
+        "Переключить или добавить аккаунт"
+      ]
+    },
+    "new_plans: info": {
+      "Introducing Proton’s refreshed look.${ br } Many services, one mission. Welcome to an internet where privacy is the default.": [
+        "Представляем обновленный вид Proton.${ br } Много служб, одна миссия. Добро пожаловать в Интернет, конфиденциальный по умолчанию."
+      ]
+    },
+    "new_plans: label": {
+      "Tell us about your experience (Optional)": [
+        "Поделитесь своими впечатлениями (необязательно)"
+      ]
+    },
+    "new_plans: placeholder": {
+      "Feedback": [
+        "Обратная связь"
+      ]
+    },
+    "new_plans: title": {
+      "Give feedback": [
+        "Оставить отзыв"
+      ],
+      "Updated Proton, unified protection": [
+        "Обновленный Proton, унифицированная защита"
+      ]
+    },
+    "Notification": {
+      "Contact group created": [
+        "Группа контактов создана"
+      ],
+      "Contact group updated": [
+        "Группа контактов обновлена"
+      ]
+    },
+    "Notification suffix": {
+      "by email": [
+        "по электронной почте"
+      ]
+    },
+    "Notification time input": {
+      "at": [
+        "в"
+      ]
+    },
+    "Notification type": {
+      "email": [
+        "эл. почта"
+      ],
+      "notification": [
+        "уведомление"
+      ]
+    },
+    "Notification when": {
+      "at time of event": [
+        "во время события"
+      ],
+      "day before": [
+        "день до",
+        "дня до",
+        "дней до",
+        "дней до"
+      ],
+      "hour before": [
+        "час до",
+        "часа до",
+        "часов до",
+        "часов до"
+      ],
+      "minute before": [
+        "минуту до",
+        "минуты до",
+        "минут до",
+        "минут до"
+      ],
+      "on the same day": [
+        "тот же день"
+      ],
+      "week before": [
+        "неделю до",
+        "недели до",
+        "недель до",
+        "недель до"
+      ]
+    },
+    "Notifications": {
+      "${ value } day after": [
+        "через ${ value } день после",
+        "через ${ value } дня после",
+        "через ${ value } дней после",
+        "через ${ value } дней после"
+      ],
+      "${ value } day after at ${ time }": [
+        "через ${ value } день после в ${ time }",
+        "через ${ value } дня после в ${ time }",
+        "через ${ value } дней после в ${ time }",
+        "через ${ value } дней после в ${ time }"
+      ],
+      "${ value } day before": [
+        "за ${ value } день до",
+        "за ${ value } дня до",
+        "за ${ value } дней до",
+        "за ${ value } дней до"
+      ],
+      "${ value } day before at ${ time }": [
+        "за ${ value } день до в ${ time }",
+        "за ${ value } дня до в ${ time }",
+        "за ${ value } дней до в ${ time }",
+        "за ${ value } дней до в ${ time }"
+      ],
+      "${ value } hour after": [
+        "через ${ value } час после",
+        "через ${ value } часа после",
+        "через ${ value } часов после",
+        "через ${ value } часов после"
+      ],
+      "${ value } hour after at ${ time }": [
+        "через ${ value } час после в ${ time }",
+        "через ${ value } часа после в ${ time }",
+        "через ${ value } часов после в ${ time }",
+        "через ${ value } часов после в ${ time }"
+      ],
+      "${ value } hour before": [
+        "за ${ value } час до",
+        "за ${ value } часа до",
+        "за ${ value } часов до",
+        "за ${ value } часов до"
+      ],
+      "${ value } hour before at ${ time }": [
+        "за ${ value } час до в ${ time }",
+        "за ${ value } часа до в ${ time }",
+        "за ${ value } часов до в ${ time }",
+        "за ${ value } часов до в ${ time }"
+      ],
+      "${ value } minute after": [
+        "через ${ value } минуту после",
+        "через ${ value } минуты после",
+        "через ${ value } минут после",
+        "через ${ value } минут после"
+      ],
+      "${ value } minute after at ${ time }": [
+        "через ${ value } минуту после в ${ time }",
+        "через ${ value } минуты после в ${ time }",
+        "через ${ value } минут после в ${ time }",
+        "через ${ value } минут после в ${ time }"
+      ],
+      "${ value } minute before": [
+        "за ${ value } минуту до",
+        "за ${ value } минуты до",
+        "за ${ value } минут до",
+        "за ${ value } минут до"
+      ],
+      "${ value } minute before at ${ time }": [
+        "за ${ value } минуту до в ${ time }",
+        "за ${ value } минуты до в ${ time }",
+        "за ${ value } минут до в ${ time }",
+        "за ${ value } минут до в ${ time }"
+      ],
+      "${ value } week after": [
+        "через ${ value } неделю после",
+        "через ${ value } недели после",
+        "через ${ value } недель после",
+        "через ${ value } недель после"
+      ],
+      "${ value } week after at ${ time }": [
+        "через ${ value } неделю после в ${ time }",
+        "через ${ value } недели после в ${ time }",
+        "через ${ value } недель после в ${ time }",
+        "через ${ value } недель после в ${ time }"
+      ],
+      "${ value } week before": [
+        "за ${ value } неделю до",
+        "за ${ value } недели до",
+        "за ${ value } недель до",
+        "за ${ value } недель до"
+      ],
+      "${ value } week before at ${ time }": [
+        "за ${ value } неделю до в ${ time }",
+        "за ${ value } недели до в ${ time }",
+        "за ${ value } недель до в ${ time }",
+        "за ${ value } недель до в ${ time }"
+      ],
+      "At time of event": [
+        "Во время события"
+      ],
+      "On the same day at ${ time }": [
+        "В тот же день в ${ time }"
+      ],
+      "Unknown": [
+        "Неизвестно"
+      ]
+    },
+    "Oauth instructions": {
+      "Next you'll need to sign in to your Google account and grant Proton access to your data.": [
+        "Затем вам нужно будет войти в свой аккаунт Google и предоставить Proton доступ к вашим данным."
+      ]
+    },
+    "Oauth instructions video": {
+      "For the import to work, you must select all requested items as shown in the GIF.": [
+        "Чтобы импорт сработал, необходимо выбрать все требуемые элементы, как показано в GIF."
+      ]
+    },
+    "Onboarding": {
+      "Welcome to ${ appName }": [
+        "Добро пожаловать в ${ appName }"
+      ],
+      "Where you can take control of your time and your data.": [
+        "Где вы можете взять под контроль свое время и свои данные."
+      ]
+    },
+    "Onboarding Action": {
+      "Next": [
+        "Далее"
+      ],
+      "Start using ${ appName }": [
+        "Начать использовать ${ appName }"
+      ]
+    },
+    "Onboarding Proton": {
+      "Configure your organization, link your domain name, and create accounts to ensure all members of your organization are protected.": [
+        "Настройте свою организацию, привяжите свое доменное имя и создайте учётные записи, чтобы обеспечить защиту всех членов организации."
+      ],
+      "Discover all Proton services": [
+        "Откройте для себя все сервисы Proton"
+      ],
+      "Select a theme": [
+        "Выберите тему"
+      ],
+      "Set up your organization": [
+        "Настройте свою организацию"
+      ],
+      "Use the app selector in the top left to access other Proton services, including VPN, Calendar and Drive.": [
+        "Для доступа к другим службам Proton, включая VPN, календарь и диск, используйте меню приложений в левом верхнем углу экрана."
+      ],
+      "You can change this anytime in your settings.": [
+        "Вы можете изменить это в любой момент в настройках."
+      ]
+    },
+    "Option": {
+      "Add to existing group": [
+        "Добавить в существующую группу"
+      ],
+      "All events": [
+        "Все события"
+      ],
+      "Create new group": [
+        "Создать новую группу"
+      ],
+      "Custom": [
+        "Пользовательский"
+      ],
+      "Day": [
+        "День",
+        "Дня",
+        "Дней",
+        "Дней"
+      ],
+      "Does not repeat": [
+        "Не повторяется"
+      ],
+      "Every day": [
+        "Каждый день"
+      ],
+      "Every month": [
+        "Каждый месяц"
+      ],
+      "Every week": [
+        "Каждую неделю"
+      ],
+      "Every year": [
+        "Каждый год"
+      ],
+      "Ignore group": [
+        "Игнорировать группу"
+      ],
+      "Month": [
+        "Месяц",
+        "Месяца",
+        "Месяцев",
+        "Месяцев"
+      ],
+      "No parent folder": [
+        "Без родительской папки"
+      ],
+      "This and future events": [
+        "Это и будущие события"
+      ],
+      "This event": [
+        "Это событие"
+      ],
+      "Week": [
+        "Неделя",
+        "Недели",
+        "Недель",
+        "Недель"
+      ],
+      "Year": [
+        "Год",
+        "Года",
+        "Лет",
+        "Лет"
+      ]
+    },
+    "Option group label": {
+      "Create new calendar": [
+        "Создать новый календарь"
+      ],
+      "Merge with calendar": [
+        "Объединить с календарем"
+      ]
+    },
+    "Participant name": {
+      "You": [
+        "Вы"
+      ]
+    },
+    "Participants expand button label": {
+      "Collapse participants list": [
+        "Свернуть список участников"
+      ],
+      "Expand participants list": [
+        "Развернуть список участников"
+      ]
+    },
+    "Personal calendar limit reached modal body": {
+      "Unable to create more calendars. You have reached the maximum of personal calendars within your plan.": [
+        "Невозможно создать дополнительные календари. Вы достигли максимального количества личных календарей в рамках вашего тарифа."
+      ]
+    },
+    "PGP key encryption warning": {
+      "Key cannot be used for encryption": [
+        "Ключ не может быть использован для шифрования"
+      ]
+    },
+    "PGP Key info": {
+      "${ emailAddress } has marked this key as compromised. This key cannot be used neither for encryption nor for signature verification.": [
+        "${ emailAddress } пометил этот ключ как раскрытый. Этот ключ нельзя использовать ни для шифрования, ни для проверки подписи."
+      ],
+      "${ emailAddress } has marked this key as obsolete. This key can only be used for signature verification.": [
+        "${ emailAddress } пометил этот ключ как раскрытый. Этот ключ может быть использован для проверки подписи."
+      ],
+      "We recommend that you \"untrust\" this key.": [
+        "Мы рекомендуем вам \"отозвать доверие\" у этого ключа."
+      ]
+    },
+    "PGP key warning": {
+      "Email address not found among user ids defined in sending key (${ keyUserIds })": [
+        "Адрес электронной почты не найден среди идентификаторов пользоватеей, определенных в ключе отправки (${ keyUserIds })"
+      ]
+    },
+    "Placeholder": {
+      "A way to contact you": [
+        "Способ связаться с вами"
+      ],
+      "Add a calendar description": [
+        "Добавьте описание календаря"
+      ],
+      "Add a calendar name": [
+        "Добавьте название календаря"
+      ],
+      "Add description": [
+        "Добавьте описание"
+      ],
+      "Add location": [
+        "Добавьте место"
+      ],
+      "Add participants": [
+        "Добавьте участников"
+      ],
+      "Add title": [
+        "Добавьте название"
+      ],
+      "E.g., ": [
+        "Например, "
+      ],
+      "Filter groups": [
+        "Фильтровать группы"
+      ],
+      "Image URL": [
+        "URL изображения"
+      ],
+      "Mailbox password": [
+        "Пароль почтового ящика"
+      ],
+      "Name": [
+        "Имя"
+      ],
+      "Password": [
+        "Пароль"
+      ],
+      "Please describe the problem and include any error messages": [
+        "Пожалуйста, опишите проблему и добавьте все сообщения об ошибках"
+      ],
+      "Search for group name": [
+        "Поиск названия группы"
+      ],
+      "Search for name or email": [
+        "Поиск имени или эл. почты"
+      ],
+      "Select": [
+        "Выберите"
+      ],
+      "Start typing an email address": [
+        "Начните вводить адрес эл. почты"
+      ]
+    },
+    "Placeholder for contact group name": {
+      "Name": [
+        "Название"
+      ]
+    },
+    "Placeholder for contact with no name": {
+      "(No name)": [
+        "(Нет имени)"
+      ]
+    },
+    "Progress bar description": {
+      "${ contactsExported.length } out of ${ countContacts } contacts successfully exported.": [
+        "${ contactsExported.length } из ${ countContacts } контактов успешно экспортировано."
+      ],
+      "${ model.deleted.length } out of ${ totalBeDeleted } contact successfully deleted.": [
+        "${ model.deleted.length } из ${ totalBeDeleted } контакта успешно удален.",
+        "${ model.deleted.length } из ${ totalBeDeleted } контактов успешно удалены.",
+        "${ model.deleted.length } из ${ totalBeDeleted } контактов успешно удалены.",
+        "${ model.deleted.length } из ${ totalBeDeleted } контактов успешно удален."
+      ],
+      "${ model.submitted.length } out of ${ totalBeMerged } contact successfully merged.": [
+        "${ model.submitted.length } из ${ totalBeMerged } контакта успешно объединен.",
+        "${ model.submitted.length } из ${ totalBeMerged } контактов успешно объединены.",
+        "${ model.submitted.length } из ${ totalBeMerged } контактов успешно объединены.",
+        "${ model.submitted.length } из ${ totalBeMerged } контактов успешно объединены."
+      ],
+      "No contacts exported.": [
+        "Никакие контакты не были экспортированы."
+      ],
+      "No contacts merged.": [
+        "Никакие контакты не были объединены."
+      ],
+      "Progress: ${ combinedProgress }%": [
+        "Прогресс: ${ combinedProgress } %"
+      ]
+    },
+    "Property type": {
+      "Address": [
+        "Адрес"
+      ],
+      "Email": [
+        "Электронная почта"
+      ],
+      "Fax": [
+        "Факс"
+      ],
+      "Home": [
+        "Домашний"
+      ],
+      "Main": [
+        "Основной"
+      ],
+      "Mobile": [
+        "Мобильный"
+      ],
+      "Other": [
+        "Другой"
+      ],
+      "Pager": [
+        "Пейджер"
+      ],
+      "Phone": [
+        "Телефон"
+      ],
+      "Work": [
+        "Рабочий"
+      ]
+    },
+    "Refresh on apply warning": {
+      "Note: the service will reload after you click the Apply button.": [
+        "Примечание: сервис будет перезагружен, когда вы нажмете кнопку Применить."
+      ]
+    },
+    "Select files": {
+      "Upload": [
+        "Загрузить"
+      ]
+    },
+    "Select search results": {
+      "No results found": [
+        "Результаты не найдены"
+      ]
+    },
+    "Settings update growler warning": {
+      "Failed to update settings": [
+        "Не удалось обновить настройки"
+      ]
+    },
+    "Sidebar calendar edit tooltip": {
+      "Manage calendar": [
+        "Управлять календарем"
+      ]
+    },
+    "Spotlight": {
+      "Get up to 18 months of ${ planName } for free": [
+        "Получите до 18 месяцев ${ planName } бесплатно"
+      ],
+      "Invite friends and earn rewards!": [
+        "Приглашайте друзей и получайте вознаграждения!"
+      ],
+      "No more missed appointments": [
+        "Больше никаких пропущенных встреч"
+      ],
+      "With email notifications, you decide which events to be notified about and when.": [
+        "При использовании уведомлений по электронной почте вы сами решаете, о каких событиях и когда получать уведомления."
+      ]
+    },
+    "Storage": {
+      "Release notes": [
+        "Список изменений"
+      ],
+      "Upgrade storage": [
+        "Увеличить объём хранилища"
+      ],
+      "Your current storage:": [
+        "Текущее хранилище:"
+      ]
+    },
+    "Subscribe to calendar modal": {
+      "Calendar URL": [
+        "Ссылка на календарь"
+      ],
+      "To subscribe to an external or public calendar and its updates, enter the URL. A read-only version of the calendar will be added to your Subscribed calendars.\n${ kbLink }": [
+        "Чтобы подписаться на внешний или публичный календарь и его обновления, введите URL-адрес. Версия календаря, доступная только для чтения, будет добавлена в список подписанных календарей.\n${ kbLink }"
+      ]
+    },
+    "Subscribe to calendar modal description": {
+      "Learn how to get a private calendar link.": [
+        "Узнайте как создать приватную ссылку на календарь."
+      ]
+    },
+    "Subscribed calendar extension warning": {
+      "By using this link, Google will make the calendar you are subscribing to public": [
+        "Используя эту ссылку, Google сделает публичным календарь, на который вы подписываетесь"
+      ],
+      "This link might be wrong": [
+        "Ссылка может быть нерабочей"
+      ]
+    },
+    "Subscribed calendar feature unavailable error": {
+      "Subscribing to a calendar is unavailable at the moment": [
+        "Подписка на календарь в настоящее время недоступна"
+      ]
+    },
+    "Subscribed calendar limit reached modal body": {
+      "Unable to add more calendars. You have reached the maximum of subscribed calendars within your plan.": [
+        "Невозможно добавить дополнительные календари. Вы достигли максимального количества подписанных календарей в рамках вашего тарифа."
+      ]
+    },
+    "Subscribed calendar URL length warning": {
+      "URL is too long": [
+        "URL слишком длинный"
+      ]
+    },
+    "Success": {
+      "A cancellation email will be sent to removed participants for all the events in this series.": [
+        "Сообщение об отмене будет отправлено удаленным участникам всех событий этой серии."
+      ],
+      "Address copied to clipboard": [
+        "Адрес скопирован в буфер обмена"
+      ],
+      "All events deleted": [
+        "Все события удалены"
+      ],
+      "All events updated": [
+        "Все события обновлены"
+      ],
+      "An invitation will be sent to added participants for all the events in this series.": [
+        "Приглашение будет отправлено добавленным участникам для всех событий этой серии."
+      ],
+      "Answer sent and all events deleted": [
+        "Ответ отправлен и все события удалены"
+      ],
+      "Answer sent and event deleted": [
+        "Ответ отправлен и событие удалено"
+      ],
+      "Bug reported": [
+        "Отчёт об ошибке отправлен"
+      ],
+      "Calendar added. It might take a few minutes to sync.": [
+        "Календарь добавлен. Синхронизация может занять несколько минут."
+      ],
+      "Calendar created": [
+        "Календарь создан"
+      ],
+      "Calendar updated": [
+        "Календарь обновлен"
+      ],
+      "Cancellation sent and all events deleted": [
+        "Сообщение об отмене отправлено и все события удалены"
+      ],
+      "Cancellation sent and event deleted": [
+        "Сообщение об отмене отправлено и событие удалено"
+      ],
+      "Cancellation sent and participants removed": [
+        "Сообщение об отмене отправлено и участники удалены"
+      ],
+      "Cancellation sent and participants removed from all events": [
+        "Сообщение об отмене отправлено и участники удалены из всех событий"
+      ],
+      "Code sent to ${ methodTo }": [
+        "Код отправлен на ${ methodTo }"
+      ],
+      "Contact deleted": [
+        "Контакт удален",
+        "Контакты удалены",
+        "Контакты удалены",
+        "Контакты удалены"
+      ],
+      "Contact group deleted": [
+        "Группа контактов удалена",
+        "Группы контактов удалены",
+        "Группы контактов удалены",
+        "Группы контактов удалены"
+      ],
+      "Contact saved": [
+        "Контакт сохранен"
+      ],
+      "Contacts deleted": [
+        "Контакты удалены"
+      ],
+      "Email address copied to clipboard": [
+        "Адрес эл. почты скопирован в буфер обмена"
+      ],
+      "Event created": [
+        "Событие создано"
+      ],
+      "Event deleted": [
+        "Событие удалено"
+      ],
+      "Event updated": [
+        "Событие обновлено"
+      ],
+      "Events created": [
+        "События созданы"
+      ],
+      "Fingerprint copied to clipboard": [
+        "Отпечаток скопирован в буфер обмена"
+      ],
+      "Future events deleted": [
+        "Будущие события удалены"
+      ],
+      "Future events updated": [
+        "Будущие события обновлены"
+      ],
+      "Invitation sent and all events updated": [
+        "Приглашение отправлено и все события обновлены"
+      ],
+      "Invitation sent and event created": [
+        "Приглашение отправлено и событие создано"
+      ],
+      "Invitation sent and events created": [
+        "Приглашение отправлено и события созданы"
+      ],
+      "Invitation sent and participants added": [
+        "Приглашение отправлено и участники добавлены"
+      ],
+      "Invitation sent and participants added to all events": [
+        "Приглашение отправлено и участники добавлены во все события"
+      ],
+      "Participants notified and all events updated": [
+        "Участники уведомлены и все события обновлены"
+      ],
+      "Participants notified and changes saved": [
+        "Участники уведомлены и изменения сохранены"
+      ],
+      "Participants notified and event updated": [
+        "Участники уведомлены и событие обновлено"
+      ],
+      "Participation status updated": [
+        "Статус участия обновлен"
+      ],
+      "Participation status updated for all events": [
+        "Статус участия обновлен для всех событий"
+      ],
+      "Phone number copied to clipboard": [
+        "Телефонный номер скопирован в буфер обмена"
+      ],
+      "Preference saved": [
+        "Настройки сохранены"
+      ],
+      "Preferences saved": [
+        "Настройки сохранены"
+      ],
+      "Verification successful": [
+        "Проверка прошла успешно"
+      ]
+    },
+    "Success notification when user send feedback": {
+      "Feedback sent": [
+        "Отзыв отправлен"
+      ]
+    },
+    "Suffix for price": {
+      "/month": [
+        "/месяц"
+      ]
+    },
+    "Table header": {
+      "Action": [
+        "Действие"
+      ],
+      "Actions": [
+        "Действия"
+      ],
+      "Address": [
+        "Адрес"
+      ],
+      "Created": [
+        "Создан"
+      ],
+      "Expires": [
+        "Срок действия"
+      ],
+      "Fingerprint": [
+        "Отпечаток пальца"
+      ],
+      "Name": [
+        "Название"
+      ],
+      "Status": [
+        "Статус"
+      ],
+      "Type": [
+        "Тип"
+      ]
+    },
+    "TableHeader": {
+      "Actions": [
+        "Действия"
+      ],
+      "Address": [
+        "Адрес"
+      ],
+      "CSV field": [
+        "Поле CSV-файла"
+      ],
+      "Import": [
+        "Импорт"
+      ],
+      "Name": [
+        "Название"
+      ],
+      "Values": [
+        "Значения"
+      ],
+      "vCard field": [
+        "Поле vCard-файла"
+      ]
+    },
+    "Text": {
+      "Introducing the updated Proton.": [
+        "Представляем обновленный Proton."
+      ],
+      "More services, one privacy mission.": [
+        "Больше сервисов, одна миссия по обеспечению конфиденциальности."
+      ],
+      "Settings": [
+        "Настройки"
+      ]
+    },
+    "Time period": {
+      "account creation date": [
+        "дата создания аккаунта"
+      ],
+      "the last 12 months": [
+        "последние 12 месяцев"
+      ],
+      "the last 3 months": [
+        "последние 3 месяца"
+      ],
+      "the last month": [
+        "последний месяц"
+      ]
+    },
+    "Time unit": {
+      "${ hours } hour": [
+        "${ hours } час",
+        "${ hours } часа",
+        "${ hours } часов",
+        "${ hours } часов"
+      ],
+      "${ minutes } minute": [
+        "${ minutes } минута",
+        "${ minutes } минуты",
+        "${ minutes } минут",
+        "${ minutes } минут"
+      ]
+    },
+    "Timezone search placeholder": {
+      "Search timezones": [
+        "Поиск часовых поясов"
+      ]
+    },
+    "Title": {
+      "${ emailsCount } member": [
+        "${ emailsCount } участник",
+        "${ emailsCount } участника",
+        "${ emailsCount } участников",
+        "${ emailsCount } участников"
+      ],
+      "Account suspended": [
+        "Учетная запись приостановлена"
+      ],
+      "Add another notification to remind you of this event": [
+        "Добавить другое уведомление, чтобы напомнить вам об этом событии"
+      ],
+      "Add contact group name": [
+        "Добавьте название группы контактов"
+      ],
+      "Add event location": [
+        "Добавить место события"
+      ],
+      "Add event title": [
+        "Добавить название события"
+      ],
+      "Add more information related to this event": [
+        "Добавить дополнительную информацию, связанную с этим событием"
+      ],
+      "Add participants": [
+        "Добавить участников"
+      ],
+      "Add to ${ groupCount } group": [
+        "Добавить в ${ groupCount } группу",
+        "Добавить в ${ groupCount } группы",
+        "Добавить в ${ groupCount } групп",
+        "Добавить в ${ groupCount } группы"
+      ],
+      "Add to ${ groupName }": [
+        "Добавить в ${ groupName }"
+      ],
+      "Addresses": [
+        "Адреса"
+      ],
+      "Back": [
+        "Назад"
+      ],
+      "Beta Access": [
+        "Бета-доступ"
+      ],
+      "Calendar": [
+        "Календарь"
+      ],
+      "Calendar alarm": [
+        "Оповещение календаря"
+      ],
+      "Change my answer": [
+        "Изменить мой ответ"
+      ],
+      "Choose how many times this event will repeat": [
+        "Выберите, сколько раз это событие будет повторяться"
+      ],
+      "Choose how often this event repeats": [
+        "Выберите, как часто повторяется это событие"
+      ],
+      "Clearing data": [
+        "Очистка данных"
+      ],
+      "Contact details": [
+        "Контактные данные"
+      ],
+      "Contact Details": [
+        "Контактные данные"
+      ],
+      "Contact group": [
+        "Группа контактов"
+      ],
+      "Contacts": [
+        "Контакты"
+      ],
+      "Continue with partial import?": [
+        "Продолжить частичный импорт?"
+      ],
+      "Create calendar": [
+        "Создать календарь"
+      ],
+      "Create contact": [
+        "Создать контакт"
+      ],
+      "Create new group": [
+        "Создать новую группу"
+      ],
+      "Currency": [
+        "Валюта"
+      ],
+      "Customize and confirm": [
+        "Настройте и подтвердите"
+      ],
+      "Customize calendar import": [
+        "Настройка импорта календаря"
+      ],
+      "Customize your mail import": [
+        "Настройка импорта вашей почты"
+      ],
+      "Delete ${ count } contact": [
+        "Удалить ${ count } контакт",
+        "Удалить ${ count } контакта",
+        "Удалить ${ count } контактов",
+        "Удалить ${ count } контактов"
+      ],
+      "Delete ${ count } contact group": [
+        "Удалить ${ count } группу контактов",
+        "Удалить ${ count } группы контактов",
+        "Удалить ${ count } групп контактов",
+        "Удалить ${ count } групп контактов"
+      ],
+      "Delete ${ Name }": [
+        "Удалить ${ Name }"
+      ],
+      "Delete event": [
+        "Удалить событие"
+      ],
+      "Delete recurring event": [
+        "Удалить повторяющееся событие"
+      ],
+      "Deleting contacts": [
+        "Удаление контактов"
+      ],
+      "Drop to upload": [
+        "Перетащите для выгрузки"
+      ],
+      "Edit calendar": [
+        "Редактировать календарь"
+      ],
+      "Edit contact": [
+        "Изменить контакт"
+      ],
+      "Edit contact group": [
+        "Изменить группу контактов"
+      ],
+      "Edit image": [
+        "Изменение изображения"
+      ],
+      "Email addresses": [
+        "Адреса электронной почты"
+      ],
+      "Email settings": [
+        "Настройки эл. почты"
+      ],
+      "Email settings (${ emailAddress })": [
+        "Настройки эл. почты (${ emailAddress })"
+      ],
+      "Enter your password": [
+        "Введите свой пароль"
+      ],
+      "Enter your username or ${ MAIL_APP_NAME } email address": [
+        "Введите свое имя пользователя или адрес электронной почты ${ MAIL_APP_NAME }"
+      ],
+      "Error": [
+        "Ошибка"
+      ],
+      "Event is happening all day": [
+        "Событие происходит весь день"
+      ],
+      "Event is happening on defined time slot": [
+        "Событие происходит в определенное время"
+      ],
+      "Exporting contacts": [
+        "Экспортирование контактов"
+      ],
+      "Feedback": [
+        "Отзыв"
+      ],
+      "Groups": [
+        "Группы"
+      ],
+      "Hide time zones for event start and end times": [
+        "Не показывать часовые пояса начала и окончания события"
+      ],
+      "Human verification": [
+        "Проверка \"Я не робот\""
+      ],
+      "Import as simple event?": [
+        "Импортировать как простое событие?",
+        "Импортировать как простые события?",
+        "Импортировать как простые события?",
+        "Импортировать как простые события?"
+      ],
+      "Import contacts": [
+        "Импортировать контакты"
+      ],
+      "Import events": [
+        "Импортировать события"
+      ],
+      "Import failed": [
+        "Импорт не удался"
+      ],
+      "Import groups": [
+        "Импортировать группы"
+      ],
+      "Invalid verification code": [
+        "Неверный проверочный код"
+      ],
+      "Link confirmation": [
+        "Подтверждение ссылки"
+      ],
+      "Merge contacts": [
+        "Объединить контакты"
+      ],
+      "Merging contacts": [
+        "Объединение контактов"
+      ],
+      "Open actions dropdown": [
+        "Показать выпадающий список доступных действий"
+      ],
+      "Open help menu": [
+        "Открыть меню справки"
+      ],
+      "Open settings menu": [
+        "Открыть меню настроек"
+      ],
+      "Organizer cannot be notified": [
+        "Невозможно уведомить организатора"
+      ],
+      "Other information": [
+        "Другая информация"
+      ],
+      "Other names": [
+        "Другие имена"
+      ],
+      "Participants cannot be notified": [
+        "Участники не могут быть уведомлены"
+      ],
+      "Phone numbers": [
+        "Телефонные номера"
+      ],
+      "Re-sign all contacts": [
+        "Переподписать все контакты"
+      ],
+      "Re-signing contacts": [
+        "Переподписание контактов"
+      ],
+      "Reactivate calendar keys": [
+        "Повторно активировать ключи календаря"
+      ],
+      "Recover data": [
+        "Восстановить данные"
+      ],
+      "Remove participants": [
+        "Удалить участников"
+      ],
+      "Report a problem": [
+        "Сообщить о проблеме"
+      ],
+      "Request new code": [
+        "Запросить новый код"
+      ],
+      "Reset calendar keys": [
+        "Сбросить ключи календаря"
+      ],
+      "Save changes": [
+        "Сохранить изменения"
+      ],
+      "Select a day in the month": [
+        "Выберите день месяца"
+      ],
+      "Select a theme": [
+        "Выберите тему"
+      ],
+      "Select action to take on contact group": [
+        "Выберите действие для группы контактов"
+      ],
+      "Select contact group": [
+        "Выберите группу контактов"
+      ],
+      "Select event end date": [
+        "Выберите дату окончания события"
+      ],
+      "Select event end time": [
+        "Выберите время окончания события"
+      ],
+      "Select event frequency": [
+        "Выберите частоту события"
+      ],
+      "Select event frequency interval": [
+        "Выберите интервал частоты события"
+      ],
+      "Select event start date": [
+        "Выберите дату начала события"
+      ],
+      "Select event start time": [
+        "Выберите время начала события"
+      ],
+      "Select event's last date": [
+        "Выберите последнюю дату события"
+      ],
+      "Select the time to send this notification": [
+        "Выберите время отправки этого уведомления"
+      ],
+      "Select the time zone for the event end time": [
+        "Выберите часовой пояс для времени окончания события"
+      ],
+      "Select the time zone for the event start time": [
+        "Выберите часовой пояс для времени начала события"
+      ],
+      "Select the way to send this notification": [
+        "Выберите способ отправки этого уведомления"
+      ],
+      "Select when this event will stop happening": [
+        "Выберите, когда это событие прекратится"
+      ],
+      "Select when you want this notification to be sent": [
+        "Выберите, когда вы хотите отправить это уведомление"
+      ],
+      "Select which calendar to add this event to": [
+        "Выберите календарь для добавления этого события"
+      ],
+      "Send feedback": [
+        "Отправить отзыв"
+      ],
+      "Send invitation": [
+        "Отправить приглашение"
+      ],
+      "Settings": [
+        "Настройки"
+      ],
+      "Show time zones for event start and end times": [
+        "Показывать часовые пояса времени начала и окончания события"
+      ],
+      "Sign in again to continue": [
+        "Войдите снова, чтобы продолжить"
+      ],
+      "Sign in and grant access": [
+        "Войдите и предоставьте доступ"
+      ],
+      "Update event": [
+        "Обновить событие"
+      ],
+      "Update recurring event": [
+        "Обновить повторяющееся событие"
+      ],
+      "Upgrade required": [
+        "Требуется обновление"
+      ],
+      "View contacts": [
+        "Просмотр контактов"
+      ],
+      "Warning": [
+        "Предупреждение"
+      ],
+      "Warning: suspected fake website": [
+        "Предупреждение: предположительно поддельный сайт"
+      ],
+      "What would you like to import?": [
+        "Что бы вы хотели импортировать?"
+      ],
+      "What's new": [
+        "Что нового"
+      ],
+      "You have invited participants with equivalent emails": [
+        "Вы пригласили участников с одинаковыми электронными почтами"
+      ],
+      "Your free trial ends soon, on ${ formattedEndDate }": [
+        "Ваша бесплатная пробная версия скоро заканчивается, ${ formattedEndDate }"
+      ]
+    },
+    "Title (number of minutes/hours/days/weeks)": {
+      "Choose a number": [
+        "Выберите количество"
+      ]
+    },
+    "Today icon tooltip in mini calendar": {
+      "Today": [
+        "Сегодня"
+      ]
+    },
+    "Tooltip": {
+      "Automatic indicates that the format in the composer is used to send to this user. Plain text indicates that the message will always be converted to plain text on send.": [
+        "\"Автоматический\" обозначает формат редактора писем будет применён при отправке этому пользователю. \"Простой текст\" означает, что при отправке сообщение всегда будет преобразовываться в простой текст."
+      ],
+      "Digitally signing emails helps authenticating that messages are sent by you": [
+        "Цифровая подпись позволяет убедиться, что сообщения отправляются вами"
+      ],
+      "Each imported email will have this label": [
+        "У каждого импортированного письма будет этот ярлык"
+      ],
+      "Email encryption forces email signature to help authenticate your sent messages": [
+        "Добавление цифровой подписи при шифровании позволяет подтверждать подлинность отправленных сообщений"
+      ],
+      "Encrypted data": [
+        "Зашифрованные данные"
+      ],
+      "Encrypted data with verified digital signature": [
+        "Зашифрованные данные с подтвержденной цифровой подписью"
+      ],
+      "Select the PGP scheme to be used when signing or encrypting to a user. Note that PGP/Inline forces plain text messages": [
+        "Выберите схему PGP, которая будет использоваться для подписи или шифрования сообщений пользователю. Учтите, что PGP/Inline работает с неформатированным текстом"
+      ],
+      "System subfolders will show up as separate folders in ${ MAIL_APP_NAME }": [
+        "Системные подпапки будут отображаться как отдельные папки в ${ MAIL_APP_NAME }"
+      ],
+      "The import will start with the most recent messages.": [
+        "Импорт начнется с самых последних сообщений."
+      ],
+      "Upload a public key to enable sending end-to-end encrypted emails to this email": [
+        "Загрузите публичный ключ, чтобы включить отправку зашифрованных писем на этот адрес"
+      ],
+      "You do not have any contacts to export": [
+        "У вас нет контактов для экспорта"
+      ]
+    },
+    "Validation": {
+      "Password must contain at least ${ length } character": [
+        "Пароль должен содержать хотя бы ${ length } символ",
+        "Пароль должен содержать хотя бы ${ length } символа",
+        "Пароль должен содержать хотя бы ${ length } символов",
+        "Пароль должен содержать хотя бы ${ length } символов"
+      ]
+    },
+    "Video control": {
+      "Click to replay the video": [
+        "Нажмите, чтобы воспроизвести видео"
+      ],
+      "Replay video": [
+        "Воспроизвести видео"
+      ]
+    },
+    "Warning": {
+      "Are you sure you want to permanently delete ${ count } contact group?": [
+        "Вы уверены, что хотите удалить ${ count } группу контактов?",
+        "Вы уверены, что хотите удалить ${ count } группы контактов?",
+        "Вы уверены, что хотите удалить ${ count } групп контактов?",
+        "Вы уверены, что хотите удалить ${ count } групп контактов?"
+      ],
+      "Are you sure you want to permanently delete ${ count } contact?": [
+        "Вы уверены, что хотите навсегда удалить ${ count } контакт?",
+        "Вы уверены, что хотите навсегда удалить ${ count } контакта?",
+        "Вы уверены, что хотите навсегда удалить ${ count } контактов?",
+        "Вы уверены, что хотите навсегда удалить ${ count } контактов?"
+      ],
+      "Are you sure you want to permanently delete this contact group?": [
+        "Вы уверены, что хотите навсегда удалить эту группу контактов?"
+      ],
+      "Are you sure you want to permanently delete this contact?": [
+        "Вы уверены, что хотите навсегда удалить этот контакт?"
+      ],
+      "Contacts could not be merged": [
+        "Контакты не могут быть объединены"
+      ],
+      "If you don’t remember your password, it is impossible to re-activate your key. We can help you dismiss the alert banner but in the process you will permanently lose access to all the data encrypted with that key.": [
+        "Если вы не помните свой пароль, повторно активировать ключ невозможно. Мы можем помочь вам отключить предупреждение, но в процессе вы навсегда потеряете доступ ко всем данным, зашифрованным с помощью этого ключа."
+      ],
+      "Live chat is a premium feature available only to those with paid ${ VPN_APP_NAME } plans. Please open a ticket instead.": [
+        "Живой чат – это платная функция, доступная только для платных тарифов ${ VPN_APP_NAME }. Пожалуйста, вместо этого откройте заявку."
+      ],
+      "Proton will merge all folders with the same name. To avoid this, change the names before import.": [
+        "Proton объединит все папки с одинаковым названием. Чтобы избежать этого, измените названия перед импортом."
+      ],
+      "Reports are not end-to-end encrypted, please do not send any sensitive information.": [
+        "Отчеты отправляются без сквозного шифрования. Пожалуйста, не указывайте никакой конфиденциальной информации."
+      ],
+      "Some of the contacts to be merged display errors. Please review them individually": [
+        "Некоторые из планируемых к объединению контактов имеют ошибки. Проверьте каждый их них"
+      ],
+      "The contact data is corrupted and cannot be displayed.": [
+        "Данные контакта повреждены и не могут быть отображены."
+      ],
+      "The contact failed to load.": [
+        "Контакт не загрузился."
+      ],
+      "The date and time settings on your device are out of sync. ${ learnMore }": [
+        "Настройки даты и времени на вашем устройстве не синхронизированы. ${ learnMore }"
+      ],
+      "The decryption of the encrypted content failed.": [
+        "Не удалось расшифровать зашифрованное содержимое."
+      ],
+      "The verification of the contact details' signature failed.": [
+        "Не удалось проверить подпись контактных данных."
+      ],
+      "This action is irreversible. Please enter the word ${ boldDanger } in the field to proceed.": [
+        "Это действие необратимо. Пожалуйста, введите слово ${ boldDanger } в поле для продолжения."
+      ],
+      "This feature requires a paid Proton account": [
+        "Для этой функции требуется платный аккаунт Proton"
+      ],
+      "Unfortunately, we’re not online at the moment. Please complete the form below to describe your issue, and we will look into it and be in touch when we’re back online.": [
+        "К сожалению, в данный момент мы не онлайн. Пожалуйста, заполните форму ниже, чтобы описать вашу проблему, мы рассмотрим ее и свяжемся с вами, когда вернемся к работе."
+      ],
+      "You will lose any customization you made so far.": [
+        "Вы потеряете все сделанные вами до этого настройки."
+      ],
+      "Your free trial ends on ${ textDate }. ${ action }": [
+        "Ваша бесплатная пробная версия заканчивается ${ textDate }. ${ action }"
+      ]
+    },
+    "Weekly recurring event, frequency": {
+      "Every ${ interval } week on ${ multipleDaysString }": [
+        "Каждую ${ interval } неделю по следующим дням: ${ multipleDaysString }",
+        "Каждые ${ interval } недели по следующим дням: ${ multipleDaysString }",
+        "Каждые ${ interval } недель по следующим дням: ${ multipleDaysString }",
+        "Каждые ${ interval } недель по следующим дням: ${ multipleDaysString }"
+      ],
+      "Every ${ interval } week on ${ multipleDaysString }, ${ timesString }": [
+        "Каждую ${ interval } неделю по следующим дням: ${ multipleDaysString }, ${ timesString }",
+        "Каждые ${ interval } недели по следующим дням: ${ multipleDaysString }, ${ timesString }",
+        "Каждые ${ interval } недель по следующим дням: ${ multipleDaysString }, ${ timesString }",
+        "Каждые ${ interval } недель по следующим дням: ${ multipleDaysString }, ${ timesString }"
+      ],
+      "Every ${ interval } week on ${ multipleDaysString }, ${ untilString }": [
+        "Каждую ${ interval } неделю по следующим дням ${ multipleDaysString } ${ untilString }",
+        "Каждые ${ interval } недели по следующим дням ${ multipleDaysString } ${ untilString }",
+        "Каждые ${ interval } недель по следующим дням ${ multipleDaysString } ${ untilString }",
+        "Каждые ${ interval } недель по следующим дням ${ multipleDaysString } ${ untilString }"
+      ],
+      "Every ${ interval } week on all days": [
+        "Каждую ${ interval } неделю во все дни",
+        "Каждые ${ interval } недели, каждый день",
+        "Каждые ${ interval } недель, каждый день",
+        "Каждые ${ interval } недель, каждый день"
+      ],
+      "Every ${ interval } week on all days, ${ timesString }": [
+        "Каждую ${ interval } неделю во все дни, ${ timesString }",
+        "Каждые ${ interval } недели во все дни, ${ timesString }",
+        "Каждые ${ interval } недель во все дни, ${ timesString }",
+        "Каждые ${ interval } недель во все дни, ${ timesString }"
+      ],
+      "Every ${ interval } week on all days, ${ untilString }": [
+        "Каждую ${ interval } неделю каждый день ${ untilString }",
+        "Каждые ${ interval } недели каждый день ${ untilString }",
+        "Каждые ${ interval } недель каждый день ${ untilString }",
+        "Каждые ${ interval } недель каждый день, ${ untilString }"
+      ],
+      "Every ${ interval } week on Friday": [
+        "Каждую ${ interval } неделю по пятницам",
+        "Каждые ${ interval } недели по пятницам",
+        "Каждые ${ interval } недель по пятницам",
+        "Каждые ${ interval } недель по пятницам"
+      ],
+      "Every ${ interval } week on Friday, ${ timesString }": [
+        "Каждую ${ interval } неделю по пятницам, ${ timesString }",
+        "Каждые ${ interval } недели по пятницам, ${ timesString }",
+        "Каждые ${ interval } недель по пятницам, ${ timesString }",
+        "Каждые ${ interval } недель по пятницам в ${ timesString }"
+      ],
+      "Every ${ interval } week on Friday, ${ untilString }": [
+        "Каждую ${ interval } неделю по пятницам ${ untilString }",
+        "Каждые ${ interval } недели по пятницам ${ untilString }",
+        "Каждые ${ interval } недель по пятницам ${ untilString }",
+        "Каждые ${ interval } недель по пятницам ${ untilString }"
+      ],
+      "Every ${ interval } week on Monday": [
+        "Каждую ${ interval } неделю по понедельникам",
+        "Каждые ${ interval } недели по понедельникам",
+        "Каждые ${ interval } недель по понедельникам",
+        "Каждые ${ interval } недель по понедельникам"
+      ],
+      "Every ${ interval } week on Monday, ${ timesString }": [
+        "Каждую ${ interval } неделю по понедельникам, ${ timesString }",
+        "Каждые ${ interval } недели по понедельникам, ${ timesString }",
+        "Каждые ${ interval } недель по понедельникам, ${ timesString }",
+        "Каждые ${ interval } недель по понедельникам, ${ timesString }"
+      ],
+      "Every ${ interval } week on Monday, ${ untilString }": [
+        "Каждую ${ interval } неделю по понедельникам ${ untilString }",
+        "Каждые ${ interval } недели по понедельникам ${ untilString }",
+        "Каждые ${ interval } недель по понедельникам ${ untilString }",
+        "Каждые ${ interval } недель по понедельникам ${ untilString }"
+      ],
+      "Every ${ interval } week on Saturday": [
+        "Каждую ${ interval } неделю по субботам",
+        "Каждые ${ interval } недели по субботам",
+        "Каждые ${ interval } недель по субботам",
+        "Каждые ${ interval } недель по субботам"
+      ],
+      "Every ${ interval } week on Saturday, ${ timesString }": [
+        "Каждую ${ interval } неделю по субботам, ${ timesString }",
+        "Каждые ${ interval } недели по субботам, ${ timesString }",
+        "Каждые ${ interval } недель по субботам, ${ timesString }",
+        "Каждые ${ interval } недель по субботам в ${ timesString }"
+      ],
+      "Every ${ interval } week on Saturday, ${ untilString }": [
+        "Каждую ${ interval } неделю по субботам ${ untilString }",
+        "Каждые ${ interval } недели по субботам ${ untilString }",
+        "Каждые ${ interval } недель по субботам ${ untilString }",
+        "Каждые ${ interval } недель по субботам ${ untilString }"
+      ],
+      "Every ${ interval } week on Sunday": [
+        "Каждую ${ interval } неделю по воскресеньям",
+        "Каждые ${ interval } недели по воскресеньям",
+        "Каждые ${ interval } недель по воскресеньям",
+        "Каждые ${ interval } недель по воскресеньям"
+      ],
+      "Every ${ interval } week on Sunday, ${ timesString }": [
+        "Каждую ${ interval } неделю по воскресеньям, ${ timesString }",
+        "Каждые ${ interval } недели по воскресеньям, ${ timesString }",
+        "Каждые ${ interval } недель по воскресеньям, ${ timesString }",
+        "Каждые ${ interval } недель по воскресеньям, ${ timesString }"
+      ],
+      "Every ${ interval } week on Sunday, ${ untilString }": [
+        "Каждую ${ interval } неделю по воскресеньям ${ untilString }",
+        "Каждые ${ interval } недели по воскресеньям ${ untilString }",
+        "Каждые ${ interval } недель по воскресеньям ${ untilString }",
+        "Каждые ${ interval } недель по воскресеньям ${ untilString }"
+      ],
+      "Every ${ interval } week on Thursday": [
+        "Каждую ${ interval } неделю по четвергам",
+        "Каждые ${ interval } недели по четвергам",
+        "Каждые ${ interval } недель по четвергам",
+        "Каждые ${ interval } недель по четвергам"
+      ],
+      "Every ${ interval } week on Thursday, ${ timesString }": [
+        "Каждую ${ interval } неделю по четвергам, ${ timesString }",
+        "Каждые ${ interval } недели по четвергам, ${ timesString }",
+        "Каждые ${ interval } недель по четвергам, ${ timesString }",
+        "Каждые ${ interval } недель по четвергам в ${ timesString }"
+      ],
+      "Every ${ interval } week on Thursday, ${ untilString }": [
+        "Каждую ${ interval } неделю по четвергам ${ untilString }",
+        "Каждые ${ interval } недели по четвергам ${ untilString }",
+        "Каждые ${ interval } недель по четвергам ${ untilString }",
+        "Каждые ${ interval } недель по четвергам ${ untilString }"
+      ],
+      "Every ${ interval } week on Tuesday": [
+        "Каждую ${ interval } неделю по вторникам",
+        "Каждые ${ interval } недели по вторникам",
+        "Каждые ${ interval } недель по вторникам",
+        "Каждые ${ interval } недель по вторникам"
+      ],
+      "Every ${ interval } week on Tuesday, ${ timesString }": [
+        "Каждую ${ interval } неделю по вторникам, ${ timesString }",
+        "Каждые ${ interval } недели по вторникам, ${ timesString }",
+        "Каждые ${ interval } недель по вторникам, ${ timesString }",
+        "Каждые ${ interval } недель по вторникам, ${ timesString }"
+      ],
+      "Every ${ interval } week on Tuesday, ${ untilString }": [
+        "Каждую ${ interval } неделю по вторникам ${ untilString }",
+        "Каждые ${ interval } недели по вторникам ${ untilString }",
+        "Каждые ${ interval } недель по вторникам ${ untilString }",
+        "Каждые ${ interval } недель по вторникам ${ untilString }"
+      ],
+      "Every ${ interval } week on Wednesday": [
+        "Каждую ${ interval } неделю по средам",
+        "Каждые ${ interval } недели по средам",
+        "Каждые ${ interval } недель по средам",
+        "Каждые ${ interval } недель по средам"
+      ],
+      "Every ${ interval } week on Wednesday, ${ timesString }": [
+        "Каждую ${ interval } неделю по средам, ${ timesString }",
+        "Каждые ${ interval } недели по средам, ${ timesString }",
+        "Каждые ${ interval } недель по средам, ${ timesString }",
+        "Каждые ${ interval } недель по средам в ${ timesString }"
+      ],
+      "Every ${ interval } week on Wednesday, ${ untilString }": [
+        "Каждую ${ interval } неделю по средам ${ untilString }",
+        "Каждые ${ interval } недели по средам ${ untilString }",
+        "Каждые ${ interval } недель по средам ${ untilString }",
+        "Каждые ${ interval } недель по средам ${ untilString }"
+      ],
+      "Weekly on ${ multipleDaysString }": [
+        "Еженедельно по следующим дням: ${ multipleDaysString }"
+      ],
+      "Weekly on ${ multipleDaysString }, ${ timesString }": [
+        "Еженедельно по следующим дням: ${ multipleDaysString } в ${ timesString }"
+      ],
+      "Weekly on ${ multipleDaysString }, ${ untilString }": [
+        "Еженедельно по следующим дням: ${ multipleDaysString } ${ untilString }"
+      ],
+      "Weekly on all days": [
+        "Еженедельно каждый день"
+      ],
+      "Weekly on all days, ${ timesString }": [
+        "Еженедельно во все дни в ${ timesString }"
+      ],
+      "Weekly on all days, ${ untilString }": [
+        "Еженедельно каждый день ${ untilString }"
+      ],
+      "Weekly on Friday": [
+        "Еженедельно в пятницу"
+      ],
+      "Weekly on Friday, ${ timesString }": [
+        "Еженедельно по пятницам в ${ timesString }"
+      ],
+      "Weekly on Friday, ${ untilString }": [
+        "Еженедельно по пятницам ${ untilString }"
+      ],
+      "Weekly on Monday": [
+        "Еженедельно в понедельник"
+      ],
+      "Weekly on Monday, ${ timesString }": [
+        "Еженедельно в понедельник в ${ timesString }"
+      ],
+      "Weekly on Monday, ${ untilString }": [
+        "Еженедельно в понедельник ${ untilString }"
+      ],
+      "Weekly on Saturday": [
+        "Еженедельно в субботу"
+      ],
+      "Weekly on Saturday, ${ timesString }": [
+        "Еженедельно по субботам в ${ timesString }"
+      ],
+      "Weekly on Saturday, ${ untilString }": [
+        "Еженедельно по субботам ${ untilString }"
+      ],
+      "Weekly on Sunday": [
+        "Еженедельно в воскресенье"
+      ],
+      "Weekly on Sunday, ${ timesString }": [
+        "Еженедельно в воскресенье в ${ timesString }"
+      ],
+      "Weekly on Sunday, ${ untilString }": [
+        "Еженедельно по воскресеньям ${ untilString }"
+      ],
+      "Weekly on Thursday": [
+        "Еженедельно в четверг"
+      ],
+      "Weekly on Thursday, ${ timesString }": [
+        "Еженедельно по четвергам в ${ timesString }"
+      ],
+      "Weekly on Thursday, ${ untilString }": [
+        "Еженедельно по четвергам ${ untilString }"
+      ],
+      "Weekly on Tuesday": [
+        "Еженедельно во вторник"
+      ],
+      "Weekly on Tuesday, ${ timesString }": [
+        "Еженедельно по вторникам в ${ timesString }"
+      ],
+      "Weekly on Tuesday, ${ untilString }": [
+        "Еженедельно по вторникам ${ untilString }"
+      ],
+      "Weekly on Wednesday": [
+        "Еженедельно в среду"
+      ],
+      "Weekly on Wednesday, ${ timesString }": [
+        "Еженедельно по средам в ${ timesString }"
+      ],
+      "Weekly on Wednesday, ${ untilString }": [
+        "Еженедельно по средам ${ untilString }"
+      ]
+    },
+    "Weekly recurring event, repeats on (multiple days), frequency": {
+      "Friday": [
+        "Пятница"
+      ],
+      "Monday": [
+        "Понедельник"
+      ],
+      "Saturday": [
+        "Суббота"
+      ],
+      "Sunday": [
+        "Воскресенье"
+      ],
+      "Thursday": [
+        "Четверг"
+      ],
+      "Tuesday": [
+        "Вторник"
+      ],
+      "Wednesday": [
+        "Среда"
+      ]
+    },
+    "Yearly recurring event, frequency": {
+      "Every ${ interval } year": [
+        "Каждый ${ interval } год",
+        "Каждые ${ interval } года",
+        "Каждые ${ interval } лет",
+        "Каждые ${ interval } лет"
+      ],
+      "Every ${ interval } year, ${ timesString }": [
+        "Каждый ${ interval } год, ${ timesString }",
+        "Каждые ${ interval } года, ${ timesString }",
+        "Каждые ${ interval } лет, ${ timesString }",
+        "Каждые ${ interval } лет, ${ timesString }"
+      ],
+      "Every ${ interval } year, ${ untilString }": [
+        "Каждый ${ interval } год ${ untilString }",
+        "Каждые ${ interval } года ${ untilString }",
+        "Каждые ${ interval } лет ${ untilString }",
+        "Каждые ${ interval } лет ${ untilString }"
+      ],
+      "Yearly": [
+        "Ежегодно"
+      ],
+      "Yearly, ${ timesString }": [
+        "Ежегодно, ${ timesString }"
+      ],
+      "Yearly, ${ untilString }": [
+        "Ежегодно ${ untilString }"
+      ]
+    }
+  }
+}

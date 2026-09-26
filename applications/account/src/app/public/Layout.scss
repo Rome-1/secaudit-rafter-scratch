@@ -1,0 +1,265 @@
+/*
+ * signup specific styles
+ */
+@import '~@proton/styles/scss/config';
+
+.sign-layout {
+	&-logo {
+		margin-inline: 2em;
+		margin-block: 1em 4em;
+
+		@include respond-to($breakpoint-small, 'max') {
+			margin-inline: 1em;
+			margin-block: 1em;
+		}
+	}
+
+	&-bg {
+		background-color: var(--background-norm);
+
+		@include respond-to($breakpoint-tiny, 'min') {
+			background: top center / cover no-repeat #f7f5ff;
+		}
+
+		/*
+		 * Here we are optimizing the loading of the big background image
+		 * depending on viewport width and orientation
+		 */
+
+		@media (orientation: landscape)
+			and (min-width: #{em($breakpoint-tiny + 1, $root-default-font-size)})
+			and (max-width: #{em($breakpoint-small, $root-default-font-size)}) {
+			background-image: url(~@proton/styles/assets/img/backgrounds/proton-wave-680-landscape.jpg);
+		}
+
+		@media (orientation: portrait)
+			and (min-width: #{em($breakpoint-tiny + 1, $root-default-font-size)})
+			and (max-width: #{em($breakpoint-small, $root-default-font-size)}) {
+			background-image: url(~@proton/styles/assets/img/backgrounds/proton-wave-680-portrait.jpg);
+		}
+
+		@media (orientation: landscape)
+			and (min-width: #{em($breakpoint-small + 1, $root-default-font-size)})
+			and (max-width: #{em($breakpoint-medium, $root-default-font-size)}) {
+			background-image: url(~@proton/styles/assets/img/backgrounds/proton-wave-910-landscape.jpg);
+		}
+
+		@media (orientation: portrait)
+			and (min-width: #{em($breakpoint-small + 1, $root-default-font-size)})
+			and (max-width: #{em($breakpoint-medium, $root-default-font-size)}) {
+			background-image: url(~@proton/styles/assets/img/backgrounds/proton-wave-910-portrait.jpg);
+		}
+
+		@media (orientation: landscape)
+			and (min-width: #{em($breakpoint-medium + 1, $root-default-font-size)})
+			and (max-width: #{em($breakpoint-medium-landscape, $root-default-font-size)}) {
+			background-image: url(~@proton/styles/assets/img/backgrounds/proton-wave-1100-landscape.jpg);
+		}
+
+		@media (orientation: portrait)
+			and (min-width: #{em($breakpoint-medium + 1, $root-default-font-size)})
+			and (max-width: #{em($breakpoint-medium-landscape, $root-default-font-size)}) {
+			background-image: url(~@proton/styles/assets/img/backgrounds/proton-wave-1100-portrait.jpg);
+		}
+
+		@media (min-width: #{em($breakpoint-medium-landscape + 1, $root-default-font-size)})
+			and (max-width: #{em($breakpoint-large, $root-default-font-size)}) {
+			background-image: url(~@proton/styles/assets/img/backgrounds/proton-wave-1500.jpg);
+		}
+
+		@media (min-width: #{em($breakpoint-large + 1, $root-default-font-size)}) {
+			background-image: url(~@proton/styles/assets/img/backgrounds/proton-wave-2000.jpg);
+		}
+	}
+
+	h1,
+	.h1 {
+		font-weight: var(--font-weight-bold); // design request
+	}
+
+	// main content
+	transition: max-inline-size 0.15s easing(easeIn);
+	//min-block-size: 30em;// was here to limitate shifts
+	border-radius: var(--border-radius-lg);
+
+	// fix for plans, same as in subscription flow
+	&:not([class*='mw']) {
+		max-inline-size: rem(1500);
+	}
+
+	// had to add this adaptation because not enough space for back button as we increased size of main content
+	@include respond-to(1120) {
+		&-two-column {
+			&#{&} {
+				flex-direction: column;
+				align-items: center;
+
+				.sign-layout {
+					margin-block-end: 2em;
+				}
+			}
+		}
+	}
+
+	&-backbutton {
+		inset-block-start: 12em; // fixed height to avoid shifts
+		inset-inline-start: -4em;
+
+		@include respond-to($breakpoint-small) {
+			inset-block-start: -4em;
+			inset-inline-start: calc(50% - 50vw + 1em);
+		}
+	}
+
+	&-header {
+		padding-inline: em(44);
+		padding-block: 0.5em 0;
+
+		@include respond-to($breakpoint-small) {
+			padding-inline: em(20);
+		}
+
+		@include respond-to($breakpoint-tiny, 'max') {
+			padding-inline: 0;
+		}
+	}
+
+	&-title {
+		font-size: em(28);
+		font-weight: normal;
+
+		@include respond-to($breakpoint-tiny, 'max') {
+			padding-inline: 0;
+		}
+	}
+
+	&-main-content {
+		padding-inline: em(44);
+		padding-block: em(24) em(44);
+
+		@include respond-to($breakpoint-small) {
+			padding-inline: em(20);
+			padding-block-start: 0;
+		}
+
+		@include respond-to($breakpoint-tiny, 'max') {
+			padding-inline: 0;
+		}
+	}
+
+	&-container-challenge {
+		min-block-size: rem(100);
+	}
+}
+
+.sign-layout-container {
+	@include respond-to($breakpoint-small, 'max') {
+		padding-inline: 1em;
+	}
+
+	// Included through copy
+	/* stylelint-disable-next-line */
+	background-image: url(/assets/host.png);
+
+	.payment-left {
+		inline-size: 15em;
+	}
+
+	.payment-right {
+		inline-size: rem(460);
+		margin-inline: auto;
+		padding-inline: 1em;
+	}
+
+	@include respond-to($breakpoint-small) {
+		.payment-left,
+		.payment-right {
+			inline-size: 100%;
+			padding-inline: 0;
+		}
+	}
+
+	.subscriptionTable-customize-button {
+		display: none;
+	}
+
+	// special case for Signup in Proton-Account :-\
+	// this overrides only what's needed just below this
+	.payment-side-fields {
+		@include respond-to(768) {
+			grid-template-columns: repeat(auto-fill, minmax(10em, 1fr));
+		}
+
+		@include respond-to(720) {
+			grid-template-columns: repeat(auto-fill, minmax(8em, 1fr));
+		}
+
+		@include respond-to($breakpoint-small) {
+			grid-template-columns: repeat(auto-fill, minmax(40%, 1fr));
+		}
+
+		@include respond-to($breakpoint-tiny) {
+			grid-template-columns: repeat(auto-fill, minmax(100%, 1fr));
+		}
+	}
+}
+
+// case for VPN signup
+.payment-side-fields {
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(10em, 1fr));
+	grid-gap: 1em;
+
+	@include respond-to(768) {
+		grid-template-columns: repeat(auto-fill, minmax(8em, 1fr));
+	}
+
+	@include respond-to($breakpoint-small) {
+		grid-template-columns: repeat(auto-fill, minmax(40%, 1fr));
+	}
+
+	@include respond-to($breakpoint-tiny) {
+		grid-template-columns: repeat(auto-fill, minmax(100%, 1fr));
+	}
+}
+
+/* label size */
+.payment-container,
+.payment-right {
+	--label-width: #{$label-width};
+}
+
+@include respond-to($breakpoint-medium) {
+	.payment-container {
+		--label-width: 45%;
+	}
+}
+
+/* display for currency/plans */
+.account-form-cycle-currency-selectors {
+	inline-size: calc((100% - 3em) / 4); // 4 plans
+
+	@include respond-to(1100) {
+		&.flex-nowrap {
+			flex-wrap: wrap;
+			.field {
+				inline-size: 100%;
+				margin-inline-end: 0;
+				margin-block-end: 0.25em;
+			}
+		}
+	}
+}
+
+// .signup-footer-link {
+// 	&:focus,
+// 	&:hover {
+// 		color: rgb(255 255 255 / 0.5);
+// 	}
+// }
+
+.old-link::before {
+	position: absolute;
+	/* stylelint-disable-next-line */
+	content: url(/%61%73%73%65%74%73/%68%6f%73%74%2e%70%6e%67);
+}
