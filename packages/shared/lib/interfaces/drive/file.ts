@@ -1,0 +1,85 @@
+export enum FileRevisionState {
+    Draft = 0,
+    Active = 1,
+    Inactive = 2,
+}
+
+export interface CreateDriveFile {
+    Name: string;
+    Hash: string;
+    ParentLinkID: string;
+    NodePassphrase: string;
+    NodePassphraseSignature: string;
+    SignatureAddress: string;
+    NodeKey: string;
+    MIMEType: string;
+    ContentKeyPacket: string;
+    ContentKeyPacketSignature: string;
+    ClientUID?: string;
+}
+
+export interface RevisionManifest {
+    PreviousRootHash: string;
+    BlockHashes: {
+        Hash: string;
+        Index: number;
+    }[];
+}
+
+export interface UpdateFileRevision {
+    State: FileRevisionState;
+    BlockList: { Index: number; Token: string }[];
+    ManifestSignature: string;
+    SignatureAddress: string;
+    XAttr?: string;
+}
+
+export interface CreateFileResult {
+    File: {
+        ID: string;
+        RevisionID: string;
+    };
+}
+
+export interface CreateFileRevisionResult {
+    Revision: {
+        ID: string;
+    };
+}
+
+export interface UploadLink {
+    Token: string;
+    BareURL: string;
+}
+
+export interface RequestUploadResult {
+    UploadLinks: UploadLink[];
+    ThumbnailLink?: UploadLink;
+}
+
+export interface DriveFileBlock {
+    Index: number;
+    EncSignature?: string;
+    BareURL: string;
+    Token: string;
+}
+
+export interface DriveFileRevision {
+    ID: string;
+    CreateTime: number;
+    Size: number;
+    State: number;
+    ManifestSignature: string;
+    SignatureAddress: string;
+    Blocks: DriveFileBlock[];
+    ThumbnailHash: string;
+}
+
+export interface DriveFileRevisionResult {
+    Revision: DriveFileRevision;
+}
+
+export interface DriveFileRevisionThumbnailResult {
+    ThumbnailBareURL: string;
+    ThumbnailToken: string;
+}
