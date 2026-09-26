@@ -1,0 +1,14 @@
+NSCameraUsageDescription = "Ek olarak eklemek için bir fotoğraf veya video çekin.";
+NSPhotoLibraryUsageDescription = "Galerinizde bulunan bir resmi ek şeklinde ekleyin.";
+NSMicrophoneUsageDescription = "Video kaydını ek olarak kaydederken kullanılır.";
+NSContactsUsageDescription = "Alıcının e-posta adresine kişilerden eriş.";
+NSRemindersUsageDescription = "Yeni e-posta geldiğinde bildirim gösterir.";
+TutaoShowCameraAction = "Kamera";
+TutaoChoosePhotosAction = "Fotoğraflar";
+TutaoNoPermissionTitle = "İzin yok";
+TutaoChangePermissionMsg = "Erişim vermek için bu cihazın izinlerini değiştirmeniz gerekir.";
+TutaoCancelAction = "İptal et";
+TutaoSettingsAction = "Ayarlar";
+TutaoCalendarAlarmTitle = "hatırlatıcı";
+TutaoScheduleAlarmError = "Alarm kurulamadı. Lütfen uygulamayı güncelleyin.";
+TutaoUnlockCredentialsAction = "Kimlik bilgilerini çöz";
