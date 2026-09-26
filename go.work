@@ -1,0 +1,14 @@
+go 1.24.0
+
+toolchain go1.24.1
+
+use (
+	.
+	./_tools
+	./build
+	./core
+	./errors
+	./internal/cmd/protoc-gen-go-flipt-sdk
+	./rpc/flipt
+	./sdk/go
+)
