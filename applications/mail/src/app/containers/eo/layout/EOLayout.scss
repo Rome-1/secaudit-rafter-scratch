@@ -1,0 +1,115 @@
+/*
+ * signup specific styles
+ */
+@import '~@proton/styles/scss/config';
+
+.eo-layout {
+	// nice mountains image has left :'-(
+	&-bg {
+		background-color: var(--background-norm);
+
+		@include media('>xsmall') {
+			background: top center / cover no-repeat #f7f5ff;
+		}
+
+		@include media('landscape', '>xsmall', '<=small') {
+			background-image: url(~@proton/styles/assets/img/backgrounds/proton-wave-680-landscape.jpg);
+		}
+
+		@include media('portrait', '>xsmall', '<=small') {
+			background-image: url(~@proton/styles/assets/img/backgrounds/proton-wave-680-portrait.jpg);
+		}
+
+		@include media('landscape', '>small', '<=medium') {
+			background-image: url(~@proton/styles/assets/img/backgrounds/proton-wave-910-landscape.jpg);
+		}
+
+		@include media('portrait', '>small', '<=medium') {
+			background-image: url(~@proton/styles/assets/img/backgrounds/proton-wave-910-portrait.jpg);
+		}
+
+		@include media('landscape', '>medium', '<=large') {
+			background-image: url(~@proton/styles/assets/img/backgrounds/proton-wave-1100-landscape.jpg);
+		}
+
+		@include media('portrait', '>medium', '<=large') {
+			background-image: url(~@proton/styles/assets/img/backgrounds/proton-wave-1100-portrait.jpg);
+		}
+
+		@include media('>large', '<=xlarge') {
+			background-image: url(~@proton/styles/assets/img/backgrounds/proton-wave-1500.jpg);
+		}
+
+		@include media('>xlarge') {
+			background-image: url(~@proton/styles/assets/img/backgrounds/proton-wave-2000.jpg);
+		}
+	}
+
+	// main content
+	transition: max-inline-size 0.15s easing(ease-in);
+	border-radius: var(--border-radius-lg);
+
+	// fix for plans, same as in subscription flow
+	&:not([class*='mw']) {
+		max-inline-size: rem(1500);
+	}
+
+	&-header {
+		padding-inline: em(48);
+		padding-block: 0.5em 0;
+	}
+
+	&-title {
+		font-size: 2em;
+		font-weight: normal;
+	}
+
+	&-main-content {
+		padding-inline: em(48);
+		padding-block: em(24);
+		@include media('<=small') {
+			padding-inline: em(20);
+		}
+		@include media('<=xsmall') {
+			padding-inline: 2px;
+			padding-block: 0;
+		}
+	}
+
+	&-container-challenge {
+		min-block-size: rem(100);
+	}
+
+	.message-attachments {
+		margin-inline: 2em;
+		@include media('<=xsmall') {
+			margin-inline: 0;
+		}
+	}
+	@include media('<=xsmall') {
+		.message-attachmentList-item-container {
+			max-inline-size: 100%;
+		}
+
+		.composer-attachment-list-wrapper {
+			flex-wrap: nowrap;
+		}
+	}
+}
+
+.eo-layout-container {
+	@include media('<=small') {
+		.payment-left,
+		.payment-right {
+			inline-size: 100%;
+			padding-inline: 0;
+		}
+	}
+}
+
+.eo-footer-link {
+	&:focus,
+	&:hover {
+		color: rgb(255 255 255 / 0.5);
+	}
+}

@@ -1,0 +1,423 @@
+// For global structure adaptation in JS (page / skip links / header / main content / footer)
+@include body-before('desktop', true);
+
+.no-desktop {
+	display: none;
+}
+
+/**
+ * medium/tablet landscape minor breakpoint
+ */
+@include media('<=large') {
+	@include spacing-generator(
+		// coordinates
+		(p, pt, pr, pb, pl),
+		// padding sizes
+		(0, 1),
+		// prefix
+		'on-tablet-landscape-'
+	);
+}
+
+/**
+ * medium/tablet breakpoint
+ */
+@include media('>medium') {
+	.on-desktop {
+		&-h100 {
+			block-size: 100%;
+		}
+	}
+}
+
+/**
+ * medium/tablet breakpoint
+ */
+@include media('<=medium') {
+	// For global structure adaptation in JS (page / skip links / header / main content / footer)
+	@include body-before('tablet');
+
+	.no-desktop {
+		display: block;
+	}
+
+	.no-tablet {
+		display: none;
+	}
+
+	.auto-tablet {
+		float: none;
+		display: block;
+		inline-size: auto;
+	}
+
+	@include spacing-generator(
+		// coordinates
+		(m, mt, mr, mb, ml, mx, my),
+		// margin sizes
+		(0, 0.5, 1, 2),
+		// prefix
+		'on-tablet-'
+	);
+
+	@include spacing-generator(
+		// coordinates
+		(p, pt, pr, pb, pl, px, py),
+		// padding sizes
+		(0, 1, 2),
+		// prefix
+		'on-tablet-'
+	);
+
+	.on-tablet {
+		&-static {
+			position: static;
+		}
+
+		&-text-left {
+			text-align: start;
+		}
+
+		&-text-center {
+			text-align: center;
+		}
+
+		&-text-right {
+			text-align: end;
+		}
+
+		&-flex-column {
+			flex-direction: column;
+
+			& > * {
+				inline-size: 100%;
+				flex-basis: auto;
+			}
+		}
+
+		&-order-1 {
+			order: 1;
+		}
+
+		&-w25 {
+			inline-size: 25%;
+		}
+
+		&-w100 {
+			inline-size: 100%;
+		}
+
+		&-min-wauto {
+			min-inline-size: auto;
+		}
+
+		&-max-w100 {
+			max-inline-size: 100%;
+		}
+
+		&-wauto {
+			inline-size: auto;
+		}
+
+		@for $i from 2 through 3 {
+			&-hide-td#{$i} td:nth-child(#{$i}) {
+				display: none;
+			}
+		}
+
+		&-list-1column {
+			column-count: 1;
+		}
+	}
+}
+
+/**
+ * small/mobile breakpoint
+ */
+@include media('<=small') {
+	// For global structure adaptation in JS (page / skip links / header / main content / footer)
+	@include body-before('mobile');
+
+	.no-tablet {
+		display: block;
+	}
+
+	.no-mobile {
+		display: none;
+	}
+
+	/* linearization of floating content/table-layout */
+	// 🚗
+	.auto-mobile {
+		float: none;
+		display: block;
+		inline-size: auto;
+	}
+
+	@include spacing-generator(
+		// coordinates
+		(m, mt, mr, mb, ml, mx, my),
+		// margin sizes
+		(0, 0.25, 0.5, 1, 1.25, 1.5, 2, 3.5),
+		// prefix
+		'on-mobile-'
+	);
+
+	@include spacing-generator(
+		// coordinates
+		(p, pt, pr, pb, pl, px, py),
+		// padding sizes
+		(0, 0.25, 0.5, 1, 2),
+		// prefix
+		'on-mobile-'
+	);
+
+	.on-mobile {
+		&-text-left {
+			text-align: start;
+		}
+
+		&-text-center {
+			text-align: center;
+		}
+
+		&-text-right {
+			text-align: end;
+		}
+
+		&-center {
+			margin-inline: auto;
+		}
+
+		&-flex {
+			display: flex;
+		}
+
+		&-inline-flex {
+			display: inline-flex;
+		}
+
+		&-flex-column {
+			flex-direction: column;
+
+			& > * {
+				inline-size: 100%;
+				flex-basis: auto;
+			}
+		}
+
+		&-flex-column-no-stretch {
+			flex-direction: column;
+
+			& > * {
+				align-self: center;
+			}
+		}
+
+		&-flex-item-fluid {
+			flex: 1 1 0px;
+		}
+
+		&-flex-item-fluid-auto {
+			flex: 1 1 auto;
+		}
+
+		&-no-flex {
+			flex: 0 0 auto;
+		}
+
+		&-flex-shrink {
+			flex-shrink: 1;
+		}
+
+		&-flex-align-self-start {
+			align-self: start;
+		}
+
+		&-flex-align-self-center {
+			align-self: center;
+		}
+
+		&-flex-justify-start {
+			justify-content: start;
+		}
+
+		&-flex-justify-center {
+			justify-content: center;
+		}
+
+		&-flex-wrap {
+			flex-wrap: wrap;
+		}
+
+		&-order-1 {
+			order: 1;
+		}
+
+		&-flex-gap-0 {
+			gap: 0;
+		}
+
+		&-max-w33 {
+			max-inline-size: 33%;
+		}
+
+		&-max-w100 {
+			max-inline-size: 100%;
+		}
+
+		&-min-w100 {
+			min-inline-size: 100%;
+		}
+
+		&-min-wauto {
+			min-inline-size: auto;
+		}
+
+		&-min-h0 {
+			min-block-size: 0;
+		}
+
+		&-wauto {
+			inline-size: auto;
+		}
+
+		&-w25 {
+			inline-size: 25%;
+		}
+
+		&-w33 {
+			inline-size: 33%;
+		}
+
+		&-w100 {
+			inline-size: 100%;
+		}
+
+		&-border-none {
+			border: 0;
+		}
+
+		&-static {
+			position: static;
+		}
+
+		@for $i from 2 through 5 {
+			&-hide-td#{$i} td:nth-child(#{$i}) {
+				display: none;
+			}
+		}
+
+		&-list-1column {
+			column-count: 1;
+		}
+	}
+}
+
+/**
+ * tiny/small mobile breakpoint
+ */
+@include media('<=xsmall') {
+	// For global structure adaptation in JS (page / skip links / header / main content / footer)
+	@include body-before('tinymobile');
+
+	.no-tiny-mobile {
+		display: none;
+	}
+
+	/* linearization of floating content/table-layout */
+	.auto-tiny-mobile {
+		float: none;
+		display: block;
+		inline-size: auto;
+	}
+
+	.on-tiny-mobile {
+		&-wauto {
+			inline-size: auto;
+		}
+
+		&-w100 {
+			inline-size: 100%;
+		}
+
+		&-w25 {
+			inline-size: 25%;
+		}
+
+		&-max-w50 {
+			max-inline-size: 50%;
+		}
+
+		&-max-w50p {
+			max-inline-size: 50px;
+		}
+
+		&-text-left {
+			text-align: start;
+		}
+
+		&-text-sm {
+			font-size: em(12);
+		}
+
+		&-no-box-shadow {
+			box-shadow: none;
+		}
+
+		&-flex-align-self-start {
+			align-self: flex-start;
+		}
+
+		&-flex-column {
+			flex-direction: column;
+
+			& > * {
+				inline-size: 100%;
+				flex-basis: auto;
+			}
+		}
+
+		&-flex-column-no-stretch {
+			flex-direction: column;
+
+			& > * {
+				align-self: center;
+			}
+		}
+
+		&-flex-item-grow-1-5 {
+			flex-grow: 1.5;
+		}
+
+		&-flex-item-grow-3 {
+			flex-grow: 3;
+		}
+
+		&-flex-item-grow-custom {
+			flex-grow: var(--xs-grow-custom);
+		}
+
+		&-hide-td3 td:nth-child(3) {
+			display: none;
+		}
+	}
+
+	@include spacing-generator(
+		// coordinates
+		(m, mt, mr, mb, ml),
+		// margin sizes
+		(0, 0.5, 1, 2),
+		// prefix
+		'on-tiny-mobile-'
+	);
+
+	@include spacing-generator(
+		// coordinates
+		(p, pt, pr, pb, pl, px),
+		// padding sizes
+		(0),
+		// prefix
+		'on-tiny-mobile-'
+	);
+}

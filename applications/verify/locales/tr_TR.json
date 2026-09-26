@@ -1,0 +1,1089 @@
+{
+  "headers": {
+    "plural-forms": "nplurals=2; plural=(n > 1);",
+    "language": "tr_TR"
+  },
+  "contexts": {
+    "Action": {
+      "Authenticate": [
+        "Kimliği doğrula"
+      ],
+      "Back": [
+        "Geri"
+      ],
+      "Cancel": [
+        "İptal"
+      ],
+      "Close": [
+        "Kapat"
+      ],
+      "Continue": [
+        "İlerle"
+      ],
+      "Edit email address": [
+        "E-posta adresini düzenle"
+      ],
+      "Edit phone number": [
+        "Telefon numarasını düzenle"
+      ],
+      "Edit sign-in details": [
+        "Oturum açma bilgilerini düzenle"
+      ],
+      "Get verification code": [
+        "Doğrulama kodu alın"
+      ],
+      "More info: ${ safeTitle }": [
+        "Ayrıntılı bilgi: ${ safeTitle }"
+      ],
+      "refresh the page": [
+        "sayfayı yenile"
+      ],
+      "Request new code": [
+        "Yeni kod iste"
+      ],
+      "Resend code": [
+        "Kodu yeniden gönder"
+      ],
+      "Search countries": [
+        "Ülke ara"
+      ],
+      "Submit": [
+        "Gönder"
+      ],
+      "Try another method": [
+        "Başka bir yöntem deneyin"
+      ],
+      "Use authentication code": [
+        "Kimlik doğrulama kodu kullan"
+      ],
+      "Use recovery code": [
+        "Kurtarma kodunu kullan"
+      ],
+      "Verify": [
+        "Doğrula"
+      ],
+      "Verify account": [
+        "Hesabı doğrula"
+      ],
+      "View invoice": [
+        "Faturayı görüntüle"
+      ]
+    },
+    "Country name": {
+      "Abkhazia": [
+        "Abhazya"
+      ],
+      "Afghanistan": [
+        "Afganistan"
+      ],
+      "Albania": [
+        "Arnavutluk"
+      ],
+      "Algeria": [
+        "Cezayir"
+      ],
+      "American Samoa": [
+        "Amerikan Samoası"
+      ],
+      "Andorra": [
+        "Andorra"
+      ],
+      "Angola": [
+        "Angola"
+      ],
+      "Anguilla": [
+        "Anguilla"
+      ],
+      "Antarctica": [
+        "Antarktika"
+      ],
+      "Antigua and Barbuda": [
+        "Antigua ve Barbuda"
+      ],
+      "Argentina": [
+        "Arjantin"
+      ],
+      "Armenia": [
+        "Ermenistan"
+      ],
+      "Aruba": [
+        "Aruba"
+      ],
+      "Ascension Island": [
+        "Ascension Adası"
+      ],
+      "Australia": [
+        "Avustralya"
+      ],
+      "Austria": [
+        "Avusturya"
+      ],
+      "Azerbaijan": [
+        "Azerbaycan"
+      ],
+      "Bahamas": [
+        "Bahamalar"
+      ],
+      "Bahrain": [
+        "Bahreyn"
+      ],
+      "Bangladesh": [
+        "Bangladeş"
+      ],
+      "Barbados": [
+        "Barbados"
+      ],
+      "Belarus": [
+        "Belarus"
+      ],
+      "Belgium": [
+        "Belçika"
+      ],
+      "Belize": [
+        "Belize"
+      ],
+      "Benin": [
+        "Benin"
+      ],
+      "Bermuda": [
+        "Bermuda"
+      ],
+      "Bhutan": [
+        "Butan"
+      ],
+      "Bolivia": [
+        "Bolivya"
+      ],
+      "Bonaire, Sint Eustatius and Saba": [
+        "Karayip Hollandası"
+      ],
+      "Bosnia and Herzegovina": [
+        "Bosna Hersek"
+      ],
+      "Botswana": [
+        "Botsvana"
+      ],
+      "Bouvet Island": [
+        "Bouvet Adası"
+      ],
+      "Brazil": [
+        "Brezilya"
+      ],
+      "British Indian Ocean Territory": [
+        "Britanya Hint Okyanusu Toprakları"
+      ],
+      "Brunei Darussalam": [
+        "Brunei Darussalam"
+      ],
+      "Bulgaria": [
+        "Bulgaristan"
+      ],
+      "Burkina Faso": [
+        "Burkina Faso"
+      ],
+      "Burundi": [
+        "Burundi"
+      ],
+      "Cambodia": [
+        "Kamboçya"
+      ],
+      "Cameroon": [
+        "Kamerun"
+      ],
+      "Canada": [
+        "Kanada"
+      ],
+      "Cape Verde": [
+        "Yeşil Burun Adaları"
+      ],
+      "Cayman Islands": [
+        "Cayman Adaları"
+      ],
+      "Central African Republic": [
+        "Orta Afrika Cumhuriyeti"
+      ],
+      "Chad": [
+        "Çad"
+      ],
+      "Chile": [
+        "Şili"
+      ],
+      "China": [
+        "Çin"
+      ],
+      "Christmas Island": [
+        "Christmas Adası"
+      ],
+      "Cocos (Keeling) Islands": [
+        "Cocos (Keeling) Adaları"
+      ],
+      "Colombia": [
+        "Kolombiya"
+      ],
+      "Comoros": [
+        "Komorlar"
+      ],
+      "Congo": [
+        "Kongo"
+      ],
+      "Congo, Democratic Republic of the": [
+        "Kongo, Demokratik Cumhuriyeti"
+      ],
+      "Cook Islands": [
+        "Cook Adaları"
+      ],
+      "Costa Rica": [
+        "Kosta Rika"
+      ],
+      "Croatia": [
+        "Hırvatistan"
+      ],
+      "Cuba": [
+        "Küba"
+      ],
+      "Curaçao": [
+        "Curaçao"
+      ],
+      "Cyprus": [
+        "Kıbrıs"
+      ],
+      "Czech Republic": [
+        "Çekya"
+      ],
+      "Côte d'Ivoire": [
+        "Fildişi Sahili"
+      ],
+      "Denmark": [
+        "Danimarka"
+      ],
+      "Djibouti": [
+        "Cibuti"
+      ],
+      "Dominica": [
+        "Dominika"
+      ],
+      "Dominican Republic": [
+        "Dominik Cumhuriyeti"
+      ],
+      "Ecuador": [
+        "Ekvador"
+      ],
+      "Egypt": [
+        "Mısır"
+      ],
+      "El Salvador": [
+        "El Salvador"
+      ],
+      "Equatorial Guinea": [
+        "Ekvator Ginesi"
+      ],
+      "Eritrea": [
+        "Eritre"
+      ],
+      "Estonia": [
+        "Estonya"
+      ],
+      "Eswatini": [
+        "Esvatini"
+      ],
+      "Ethiopia": [
+        "Etiyopya"
+      ],
+      "Falkland Islands": [
+        "Falkland Adaları"
+      ],
+      "Faroe Islands": [
+        "Faroe Adaları"
+      ],
+      "Federated States of Micronesia": [
+        "Mikronezya Federal Devletleri"
+      ],
+      "Fiji": [
+        "Fiji"
+      ],
+      "Finland": [
+        "Finlandiya"
+      ],
+      "France": [
+        "Fransa"
+      ],
+      "French Guiana": [
+        "Fransız Guyanası"
+      ],
+      "French Polynesia": [
+        "Fransız Polinezyası"
+      ],
+      "French Southern Territories": [
+        "Fransız Güney Toprakları"
+      ],
+      "Gabon": [
+        "Gabon"
+      ],
+      "Gambia": [
+        "Gambiya"
+      ],
+      "Georgia": [
+        "Gürcistan"
+      ],
+      "Germany": [
+        "Almanya"
+      ],
+      "Ghana": [
+        "Gana"
+      ],
+      "Gibraltar": [
+        "Cebelitarık"
+      ],
+      "Greece": [
+        "Yunanistan"
+      ],
+      "Greenland": [
+        "Grönland"
+      ],
+      "Grenada": [
+        "Grenada"
+      ],
+      "Guadeloupe": [
+        "Guadeloupe"
+      ],
+      "Guam": [
+        "Guam"
+      ],
+      "Guatemala": [
+        "Guatemala"
+      ],
+      "Guernsey": [
+        "Guernsey"
+      ],
+      "Guinea": [
+        "Gine"
+      ],
+      "Guinea-Bissau": [
+        "Gine-Bissau"
+      ],
+      "Guyana": [
+        "Guyana"
+      ],
+      "Haiti": [
+        "Haiti"
+      ],
+      "Heard Island and McDonald Islands": [
+        "Heard Adası ve McDonald Adaları"
+      ],
+      "Holy See (Vatican City State)": [
+        "Vatikan"
+      ],
+      "Honduras": [
+        "Honduras"
+      ],
+      "Hong Kong": [
+        "Hong Kong"
+      ],
+      "Hungary": [
+        "Macaristan"
+      ],
+      "Iceland": [
+        "İzlanda"
+      ],
+      "India": [
+        "Hindistan"
+      ],
+      "Indonesia": [
+        "Endonezya"
+      ],
+      "International": [
+        "Uluslararası"
+      ],
+      "Iran": [
+        "İran"
+      ],
+      "Iraq": [
+        "Irak"
+      ],
+      "Ireland": [
+        "İrlanda"
+      ],
+      "Isle of Man": [
+        "Man Adası"
+      ],
+      "Israel": [
+        "İsrail"
+      ],
+      "Italy": [
+        "İtalya"
+      ],
+      "Jamaica": [
+        "Jamaika"
+      ],
+      "Japan": [
+        "Japonya"
+      ],
+      "Jersey": [
+        "Jersey"
+      ],
+      "Jordan": [
+        "Ürdün"
+      ],
+      "Kazakhstan": [
+        "Kazakistan"
+      ],
+      "Kenya": [
+        "Kenya"
+      ],
+      "Kiribati": [
+        "Kiribati"
+      ],
+      "Kosovo": [
+        "Kosova"
+      ],
+      "Kuwait": [
+        "Kuveyt"
+      ],
+      "Kyrgyzstan": [
+        "Kırgızistan"
+      ],
+      "Laos": [
+        "Laos"
+      ],
+      "Latvia": [
+        "Letonya"
+      ],
+      "Lebanon": [
+        "Lübnan"
+      ],
+      "Lesotho": [
+        "Lesotho"
+      ],
+      "Liberia": [
+        "Liberya"
+      ],
+      "Libya": [
+        "Libya"
+      ],
+      "Liechtenstein": [
+        "Lihtenştayn"
+      ],
+      "Lithuania": [
+        "Litvanya"
+      ],
+      "Luxembourg": [
+        "Lüksemburg"
+      ],
+      "Macao": [
+        "Makao"
+      ],
+      "Madagascar": [
+        "Madagaskar"
+      ],
+      "Malawi": [
+        "Malavi"
+      ],
+      "Malaysia": [
+        "Malezya"
+      ],
+      "Maldives": [
+        "Maldivler"
+      ],
+      "Mali": [
+        "Mali"
+      ],
+      "Malta": [
+        "Malta"
+      ],
+      "Marshall Islands": [
+        "Marshall Adaları"
+      ],
+      "Martinique": [
+        "Martinik"
+      ],
+      "Mauritania": [
+        "Moritanya"
+      ],
+      "Mauritius": [
+        "Mauritius"
+      ],
+      "Mayotte": [
+        "Mayotte"
+      ],
+      "Mexico": [
+        "Meksika"
+      ],
+      "Moldova": [
+        "Moldova"
+      ],
+      "Monaco": [
+        "Monako"
+      ],
+      "Mongolia": [
+        "Moğolistan"
+      ],
+      "Montenegro": [
+        "Karadağ"
+      ],
+      "Montserrat": [
+        "Montserrat"
+      ],
+      "Morocco": [
+        "Fas"
+      ],
+      "Mozambique": [
+        "Mozambik"
+      ],
+      "Myanmar": [
+        "Burma"
+      ],
+      "Namibia": [
+        "Namibya"
+      ],
+      "Nauru": [
+        "Nauru"
+      ],
+      "Nepal": [
+        "Nepal"
+      ],
+      "Netherlands": [
+        "Hollanda"
+      ],
+      "New Caledonia": [
+        "Yeni Kaledonya"
+      ],
+      "New Zealand": [
+        "Yeni Zelanda"
+      ],
+      "Nicaragua": [
+        "Nikaragua"
+      ],
+      "Niger": [
+        "Nijer"
+      ],
+      "Nigeria": [
+        "Nijerya"
+      ],
+      "Niue": [
+        "Niue"
+      ],
+      "Norfolk Island": [
+        "Norfolk Adası"
+      ],
+      "North Korea": [
+        "Kuzey Kore"
+      ],
+      "North Macedonia": [
+        "Kuzey Makedonya"
+      ],
+      "Northern Mariana Islands": [
+        "Kuzey Mariana Adaları"
+      ],
+      "Norway": [
+        "Norveç"
+      ],
+      "Oman": [
+        "Umman"
+      ],
+      "Pakistan": [
+        "Pakistan"
+      ],
+      "Palau": [
+        "Palau"
+      ],
+      "Palestine": [
+        "Filistin"
+      ],
+      "Panama": [
+        "Panama"
+      ],
+      "Papua New Guinea": [
+        "Papua Yeni Gine"
+      ],
+      "Paraguay": [
+        "Paraguay"
+      ],
+      "Peru": [
+        "Peru"
+      ],
+      "Philippines": [
+        "Filipinler"
+      ],
+      "Pitcairn": [
+        "Pitcairn"
+      ],
+      "Poland": [
+        "Polonya"
+      ],
+      "Portugal": [
+        "Portekiz"
+      ],
+      "Puerto Rico": [
+        "Porto Riko"
+      ],
+      "Qatar": [
+        "Katar"
+      ],
+      "Reunion": [
+        "Réunion"
+      ],
+      "Romania": [
+        "Romanya"
+      ],
+      "Russia": [
+        "Rusya"
+      ],
+      "Rwanda": [
+        "Ruanda"
+      ],
+      "Saint Barthélemy": [
+        "Saint Barthélemy"
+      ],
+      "Saint Helena": [
+        "Saint Helena"
+      ],
+      "Saint Kitts and Nevis": [
+        "Saint Kitts ve Nevis"
+      ],
+      "Saint Lucia": [
+        "Saint Lucia"
+      ],
+      "Saint Martin (French Part)": [
+        "Saint Martin (Fransız bölümü)"
+      ],
+      "Saint Pierre and Miquelon": [
+        "Saint Pierre ve Miquelon"
+      ],
+      "Saint Vincent and the Grenadines": [
+        "Saint Vincent ve Grenadinler"
+      ],
+      "Samoa": [
+        "Samoa"
+      ],
+      "San Marino": [
+        "San Marino"
+      ],
+      "Sao Tome and Principe": [
+        "Sao Tome ve Principe"
+      ],
+      "Saudi Arabia": [
+        "Suudi Arabistan"
+      ],
+      "Senegal": [
+        "Senegal"
+      ],
+      "Serbia": [
+        "Sırbistan"
+      ],
+      "Seychelles": [
+        "Seyşeller"
+      ],
+      "Sierra Leone": [
+        "Sierra Leone"
+      ],
+      "Singapore": [
+        "Singapur"
+      ],
+      "Sint Maarten": [
+        "Sint Maarten"
+      ],
+      "Slovakia": [
+        "Slovakya"
+      ],
+      "Slovenia": [
+        "Slovenya"
+      ],
+      "Solomon Islands": [
+        "Solomon Adaları"
+      ],
+      "Somalia": [
+        "Somali"
+      ],
+      "South Africa": [
+        "Güney Afrika"
+      ],
+      "South Georgia and the South Sandwich Islands": [
+        "Güney Georgia ve Güney Sandwich Adaları"
+      ],
+      "South Korea": [
+        "Güney Kore"
+      ],
+      "South Ossetia": [
+        "Güney Osetya"
+      ],
+      "South Sudan": [
+        "Güney Sudan"
+      ],
+      "Spain": [
+        "İspanya"
+      ],
+      "Sri Lanka": [
+        "Sri Lanka"
+      ],
+      "Sudan": [
+        "Sudan"
+      ],
+      "Suriname": [
+        "Surinam"
+      ],
+      "Svalbard and Jan Mayen": [
+        "Svalbard ve Jan Mayen"
+      ],
+      "Sweden": [
+        "İsveç"
+      ],
+      "Switzerland": [
+        "İsviçre"
+      ],
+      "Syria": [
+        "Suriye"
+      ],
+      "Taiwan": [
+        "Tayvan"
+      ],
+      "Tajikistan": [
+        "Tacikistan"
+      ],
+      "Tanzania": [
+        "Tanzanya"
+      ],
+      "Thailand": [
+        "Tayland"
+      ],
+      "Timor-Leste": [
+        "Doğu Timor"
+      ],
+      "Togo": [
+        "Togo"
+      ],
+      "Tokelau": [
+        "Tokelau"
+      ],
+      "Tonga": [
+        "Tonga"
+      ],
+      "Trinidad and Tobago": [
+        "Trinidad ve Tobago"
+      ],
+      "Tristan da Cunha": [
+        "Tristan da Cunha"
+      ],
+      "Tunisia": [
+        "Tunus"
+      ],
+      "Turkey": [
+        "Türkiye"
+      ],
+      "Turkmenistan": [
+        "Türkmenistan"
+      ],
+      "Turks and Caicos Islands": [
+        "Turks ve Caicos Adaları"
+      ],
+      "Tuvalu": [
+        "Tuvalu"
+      ],
+      "Uganda": [
+        "Uganda"
+      ],
+      "Ukraine": [
+        "Ukrayna"
+      ],
+      "United Arab Emirates": [
+        "Birleşik Arap Emirlikleri"
+      ],
+      "United Kingdom": [
+        "Birleşik Krallık"
+      ],
+      "United States": [
+        "Birleşik Devletler"
+      ],
+      "United States Minor Outlying Islands": [
+        "Birleşik Devletler Küçük Dış Adaları"
+      ],
+      "Uruguay": [
+        "Uruguay"
+      ],
+      "Uzbekistan": [
+        "Özbekistan"
+      ],
+      "Vanuatu": [
+        "Vanuatu"
+      ],
+      "Venezuela": [
+        "Venezuela"
+      ],
+      "Vietnam": [
+        "Vietnam"
+      ],
+      "Virgin Islands, British": [
+        "Britanya Virjin Adaları"
+      ],
+      "Virgin Islands, U.S.": [
+        "Birleşik Devletler Virjin Adaları"
+      ],
+      "Wallis and Futuna": [
+        "Wallis ve Futuna"
+      ],
+      "Western Sahara": [
+        "Batı Sahra"
+      ],
+      "Yemen": [
+        "Yemen"
+      ],
+      "Zambia": [
+        "Zambiya"
+      ],
+      "Zimbabwe": [
+        "Zimbabve"
+      ],
+      "Åland Islands": [
+        "Aland Adaları"
+      ]
+    },
+    "Delinquent modal title": {
+      "Overdue invoice": [
+        "Süresi geçmiş fatura"
+      ]
+    },
+    "Error": {
+      "Email is not valid": [
+        "E-posta geçersiz"
+      ],
+      "Enter 6 digits": [
+        "6 rakam yazın"
+      ],
+      "Invalid verification code": [
+        "Doğrulama kodu geçersiz"
+      ],
+      "Not a valid number": [
+        "Numara geçerli değil"
+      ],
+      "Passwords do not match": [
+        "Parola ile onayı aynı değil"
+      ],
+      "Request timed out": [
+        "İstek zaman aşımına uğradı"
+      ],
+      "This field exceeds the maximum of ${ maximumLength } characters.": [
+        "Bu alan için izin verilen en fazla ${ maximumLength } karakter uzunluğu aşıldı."
+      ],
+      "This field is required": [
+        "Bu alanın doldurulması zorunludur"
+      ],
+      "This field requires a minimum of ${ minimumLength } characters.": [
+        "Bu alana en az ${ minimumLength } karakter yazılmalıdır."
+      ],
+      "Try using only letters, numerals, and _.-": [
+        "Yalnızca harfleri, rakamları ve _.- karakterlerini kullanmayı deneyin"
+      ],
+      "Unknown error": [
+        "Bilinmeyen hata"
+      ]
+    },
+    "Error message": {
+      "Error: ${ errorMessage }": [
+        "Hata: ${ errorMessage }"
+      ],
+      "Oops, something went wrong": [
+        "Bir şeyler ters gitti"
+      ],
+      "Please ${ refresh } or check your connection.": [
+        "Lütfen ${ refresh }yin ya da bağlantınızı denetleyin."
+      ],
+      "Something went wrong. Please refresh the page or try again later.": [
+        "Bir şeyler ters gitti. Lütfen sayfayı yenileyin ya da bir süre sonra yeniden deneyin."
+      ],
+      "There was a problem connecting to ${ BRAND_NAME }.": [
+        "${ BRAND_NAME } bağlantısı kurulurken bir sorun çıktı."
+      ],
+      "You may also ${ refresh } or try again later.": [
+        "Ayrıca sayfayı ${ refresh }yebilir ya da bir süre sonra yeniden deneyebilirsiniz."
+      ]
+    },
+    "fido2: Error": {
+      "Something went wrong authenticating with your security key. Please try again.": [
+        "Güvenlik anahtarı ile kimlik doğrulaması yapılırken bir sorun çıktı. Lütfen yeniden deneyin."
+      ]
+    },
+    "fido2: Info": {
+      "Insert a security key linked to your ${ BRAND_NAME } Account.": [
+        "${ BRAND_NAME } hesabınızla ilişkilendirilmiş güvenlik anahtarını takın."
+      ],
+      "Security key": [
+        "Güvenlik anahtarı"
+      ]
+    },
+    "fido2: Label": {
+      "Security key": [
+        "Güvenlik anahtarı"
+      ]
+    },
+    "Human verification method": {
+      "CAPTCHA": [
+        "CAPTCHA"
+      ],
+      "Email": [
+        "E-posta"
+      ],
+      "Manual": [
+        "El ile"
+      ],
+      "No verification method available": [
+        "Kullanılabilecek bir doğrulama yöntemi yok"
+      ],
+      "SMS": [
+        "SMS"
+      ]
+    },
+    "Info": {
+      "Before requesting a new verification code, check your spam folder and check that ${ strong } is the correct address.": [
+        "Yeni bir doğrulama kodu istemeden önce İstenmeyen kutunuza bakın ve ${ strong } adresinin doğru olduğundan emin olun."
+      ],
+      "Click \"Request new code\" to have a new verification code sent to ${ strong }. If this phone number is incorrect, click \"Edit\" to correct it.": [
+        "Yeni bir doğrulama kodunun ${ strong } numarasına gönderilmesi için \"Yeni kod iste\" üzerine tıklayın. Bu telefon numarası yanlışsa düzeltmek için \"Düzenle\" üzerine tıklayın."
+      ],
+      "Country code": [
+        "Ülke kodu"
+      ],
+      "Each code can only be used once": [
+        "Her kod yalnızca bir kez kullanılabilir"
+      ],
+      "Enter the code from your authenticator app": [
+        "Kimlik doğrulama uygulamanızdan alacağınız kodu yazın"
+      ],
+      "Enter the verification code that was sent to ${ destinationText }.": [
+        "${ destinationText } alıcısına gönderilen doğrulama kodunu yazın."
+      ],
+      "Enter verification code. Digit ${ digit }.": [
+        "Doğrulama kodunu yazın. Rakam ${ digit }."
+      ],
+      "Enter your own password (as organization admin).": [
+        "Kendi parolanızı yazın (kuruluş yöneticisi olarak)."
+      ],
+      "If you are having trouble creating your account, please request an invitation and we will respond within one business day.": [
+        "Hesap açmakta sorun yaşıyorsanız, lütfen bir davet isteyin. Bir iş günü içinde size yanıt vereceğiz."
+      ],
+      "If you don't find the email in your inbox, please check your spam folder.": [
+        "E-postayı Gelen kutunuzda göremezseniz, İstenmeyen kutusuna bakmayı unutmayın."
+      ],
+      "Internet connection lost": [
+        "İnternet bağlantısı kesildi"
+      ],
+      "Learn more": [
+        "Ayrıntılı bilgi alın"
+      ],
+      "Loading": [
+        "Yükleniyor"
+      ],
+      "No results found": [
+        "Herhangi bir sonuç bulunamadı"
+      ],
+      "Servers are unreachable. Please try again in a few minutes": [
+        "Sunuculara erişilemiyor. Lütfen birkaç dakika sonra yeniden deneyin"
+      ],
+      "Session timed out": [
+        "Oturum zaman aşımına uğradı"
+      ],
+      "To fight spam and abuse, please verify you are human.": [
+        "İstenmeyen iletilere ve kötüye kullanıma karşı lütfen insan olduğunuzu doğrulayın."
+      ],
+      "We'll send a new verification code to ${ strong }": [
+        "${ strong } alıcısına yeni bir doğrulama kodu göndereceğiz"
+      ],
+      "When you set up two-factor authentication, we provide recovery codes which you can use to sign in if you lose access to your authenticator app.": [
+        "İki aşamalı doğrulamayı kurduğunuzda, kimlik doğrulama uygulamanızda sorun olması durumunda oturum açmak için kullanabileceğiniz kurtarma kodları vereceğiz."
+      ],
+      "Would you like to receive a new verification code or use an alternative verification method?": [
+        "Yeni bir doğrulama kodu almak ya da alternatif bir doğrulama yöntemi kullanmak ister misiniz?"
+      ],
+      "Would you like to receive a new verification code?": [
+        "Yeni bir doğrulama kodu almak ister misiniz?"
+      ],
+      "Your ${ BRAND_NAME } account is currently suspended. After 28 days, emails will no longer be delivered to your inbox, your Drive sharing links will be blocked, and you will not be able to upload new files. To resume normal service, please pay any overdue invoices.": [
+        "${ BRAND_NAME } hesabınız şu anda askıya alınmış. 28 gün sonra e-postalarınız artık gelen kutunuza gönderilmeyecek, Drive paylaşım bağlantılarınız engellenecek ve yeni dosya yükleyemeyeceksiniz. Hizmeti normal şekilde kullanmayı sürdürebilmek için lütfen süresi geçmiş faturalarınızı ödeyin."
+      ],
+      "Your ${ BRAND_NAME } account is currently suspended. Emails are no longer being delivered to your inbox. Your Drive sharing links are no longer active, and you cannot upload new files. To continue using your account, please pay any overdue invoices.": [
+        "${ BRAND_NAME } hesabınız şu anda askıya alınmış. E-postalarınız artık gelen kutunuza gönderilmeyecek, Drive paylaşım bağlantılarınız engellenecek ve yeni dosya yükleyemeyeceksiniz. Hesabınızı kullanmayı sürdürebilmek için lütfen süresi geçmiş faturalarınızı ödeyin."
+      ],
+      "Your email will only be used for this one-time verification.": [
+        "E-posta adresiniz yalnızca bu tek seferlik doğrulama için kullanılacak."
+      ],
+      "Your phone number will only be used for this one-time verification.": [
+        "Telefon numaranız yalnızca bu tek seferlik doğrulama için kullanılacak."
+      ]
+    },
+    "Label": {
+      "Authenticator app": [
+        "Kimlik doğrulama uygulaması"
+      ],
+      "Code is 6 digits without spaces": [
+        "Doğrulama kodu boşluk içermeyen 6 rakamdan oluşur"
+      ],
+      "Email address": [
+        "E-posta adresi"
+      ],
+      "Hide password": [
+        "Parolayı gizle"
+      ],
+      "Password": [
+        "Parola"
+      ],
+      "Phone number": [
+        "Telefon numarası"
+      ],
+      "Reveal password": [
+        "Parolayı göster"
+      ],
+      "Verification code": [
+        "Doğrulama kodu"
+      ],
+      "Your password (admin)": [
+        "Parolanız (yönetici)"
+      ]
+    },
+    "Link": {
+      "Learn more": [
+        "Ayrıntılı bilgi alın"
+      ],
+      "Request an invite": [
+        "Davet iste"
+      ]
+    },
+    "Placeholder": {
+      "Password": [
+        "Parola"
+      ]
+    },
+    "Success": {
+      "Code sent to ${ methodTo }": [
+        "Kod ${ methodTo } alıcısına gönderildi"
+      ],
+      "Verification successful": [
+        "Doğrulandı"
+      ]
+    },
+    "Title": {
+      "Enter your password": [
+        "Parolanızı yazın"
+      ],
+      "Human verification": [
+        "İnsan olduğunuzu doğrulayın"
+      ],
+      "Invalid verification code": [
+        "Doğrulama kodu geçersiz"
+      ],
+      "Request new code": [
+        "Yeni kod iste"
+      ],
+      "Two-factor authentication": [
+        "İki aşamalı doğrulama"
+      ]
+    },
+    "Validation": {
+      "Password must contain at least ${ length } character": [
+        "Parola en az ${ length } karakter uzunluğunda olmalıdır",
+        "Parola en az ${ length } karakter uzunluğunda olmalıdır"
+      ],
+      "Try a shorter username (${ n } character max)": [
+        "Daha kısa bir kullanıcı adı deneyin (en fazla ${ n } karakter)",
+        "Daha kısa bir kullanıcı adı deneyin (en fazla ${ n } karakter)"
+      ]
+    }
+  }
+}

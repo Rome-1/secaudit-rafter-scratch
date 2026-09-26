@@ -1,0 +1,20 @@
+{
+    "name": "@proton/utils",
+    "description": "Generic business-agnostic utils.",
+    "scripts": {
+        "check-types": "tsc",
+        "lint": "eslint . --ext ts --quiet --cache",
+        "test": "jest --coverage --runInBand --ci"
+    },
+    "dependencies": {
+        "lodash": "^4.17.21"
+    },
+    "devDependencies": {
+        "@proton/eslint-config-proton": "workspace:^",
+        "@types/jest": "^27.5.2",
+        "eslint": "^8.33.0",
+        "jest": "^28.1.3",
+        "ts-jest": "^28.0.8",
+        "typescript": "^4.9.5"
+    }
+}

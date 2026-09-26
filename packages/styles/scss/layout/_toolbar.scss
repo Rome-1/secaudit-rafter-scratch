@@ -1,0 +1,115 @@
+.toolbar {
+	--padding-toolbar-button: #{em(9)};
+	--padding-toolbar-button-dropdown: #{em(9)};
+
+	position: relative;
+	z-index: 1;
+	block-size: rem($toolbar-height);
+	border-block-end: 1px solid var(--toolbar-border-bottom-color);
+	background-color: var(--toolbar-background-color);
+	color: var(--toolbar-text-color);
+
+	// this adds the same border radius as .main
+	// needed to fix a bug in safari where the toolbar escapes overflow: hidden
+	border-start-start-radius: var(--border-radius-md);
+
+	// only set border radius when drawer is shown
+	// same naming as .main--bordered
+	&--bordered {
+		border-start-end-radius: var(--border-radius-md);
+	}
+
+	&-inner {
+		margin-inline: em(5.5);
+		padding-block: em(3.5);
+		gap: em(8);
+		align-items: stretch;
+	}
+
+	&-button {
+		@extend .interactive;
+
+		position: relative;
+		display: flex; // alignment fix on Chrome
+		padding-inline: var(--padding-toolbar-button);
+		border-radius: var(--border-radius-md);
+		border: 1px solid transparent;
+
+		// Increase click area to toolbar height
+		&::before {
+			content: '';
+			position: absolute;
+			inset: em(-6);
+		}
+
+		&--dropdown {
+			padding-inline: var(--padding-toolbar-button-dropdown);
+
+			&-more-selections {
+				margin-inline-start: em(2); // move it closer to checkbox
+				margin-inline-end: em(8); // more space to buttons on the right
+
+				--padding-toolbar-button-dropdown: #{em(6, $base-font-size)};
+			}
+		}
+	}
+
+	&-separator {
+		inline-size: 1px;
+		background: var(--toolbar-separator-color);
+	}
+
+	.vr.vr {
+		block-size: #{em(28)};
+		align-self: center;
+	}
+
+	button[aria-disabled='true'],
+	.toolbar-button[aria-disabled='true'] {
+		opacity: 0.5;
+		pointer-events: none;
+	}
+
+	// new select
+	.select {
+		@extend .interactive;
+
+		border-color: transparent;
+		background-color: unset;
+		color: currentcolor;
+		block-size: auto;
+		margin-inline: 0.25em;
+		border-radius: var(--border-radius-md);
+	}
+
+	// select all
+	.select-all {
+		&-container {
+			margin-inline-start: em(16);
+
+			@include media('>small') {
+				margin-inline-start: em(25);
+			}
+		}
+
+		.checkbox-fakecheck {
+			margin-inline-end: 0;
+		}
+	}
+
+	// adaptations for compact mode
+	.is-compact & {
+		.select-all-container {
+			margin-inline-start: em(10);
+
+			@include media('>small') {
+				margin-inline-start: em(7);
+				padding-inline-start: 0;
+			}
+		}
+	}
+
+	@include media('<=small') {
+		border-radius: 0;
+	}
+}

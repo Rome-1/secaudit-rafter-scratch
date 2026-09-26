@@ -1,0 +1,97 @@
+import { InputHTMLAttributes, LabelHTMLAttributes, forwardRef, useEffect, useRef } from 'react';
+
+import { useCombinedRefs } from '@proton/hooks';
+import clsx from '@proton/utils/clsx';
+
+import { classnames } from '../../helpers';
+import Icon from '../icon/Icon';
+
+export interface Props extends InputHTMLAttributes<HTMLInputElement> {
+    /**
+     * Interactions will be blocked while loading is true
+     */
+    loading?: boolean;
+    /**
+     * Background color can be set using a css color (e.g. #ff0000 or rgb(255, 0, 0))
+     */
+    backgroundColor?: string;
+    /**
+     * Border color can be set using a css color (e.g. #ff0000 or rgb(255, 0, 0))
+     */
+    borderColor?: string;
+    /**
+     * Color can be set using a css color (e.g. #ff0000 or rgb(255, 0, 0))
+     */
+    color?: string;
+    indeterminate?: boolean;
+    labelOnClick?: (event: React.MouseEvent<HTMLLabelElement, MouseEvent>) => void;
+    labelProps?: LabelHTMLAttributes<HTMLLabelElement> & { 'data-testid': string };
+}
+
+const Checkbox = forwardRef<HTMLInputElement, Props>(
+    (
+        {
+            id,
+            className,
+            title,
+            loading,
+            disabled,
+            checked,
+            indeterminate = false,
+            color,
+            backgroundColor,
+            borderColor,
+            children,
+            labelOnClick,
+            labelProps,
+            ...rest
+        },
+        ref
+    ) => {
+        const inputRef = useRef<HTMLInputElement>(null);
+        const combinedRef = useCombinedRefs(inputRef, ref);
+
+        useEffect(() => {
+            if (inputRef.current) {
+                inputRef.current.indeterminate = indeterminate;
+            }
+        }, [indeterminate]);
+
+        return (
+            <label
+                {...labelProps}
+                htmlFor={id}
+                className={classnames([
+                    'checkbox-container',
+                    !className?.includes('increase-click-surface') && 'relative',
+                    className,
+                ])}
+                title={title}
+                onClick={labelOnClick}
+            >
+                <input
+                    ref={combinedRef}
+                    disabled={disabled || loading}
+                    id={id}
+                    type="checkbox"
+                    className="checkbox-input"
+                    checked={checked}
+                    {...rest}
+                />
+                <span
+                    className={clsx('checkbox-fakecheck', children ? 'mr0-5' : '')}
+                    style={{ borderColor, background: backgroundColor, color }}
+                >
+                    {indeterminate === false ? (
+                        <Icon className="checkbox-fakecheck-img" size={16} name="checkmark" color={color} />
+                    ) : (
+                        <Icon className="checkbox-fakecheck-img color-disabled" size={16} name="minus" />
+                    )}
+                </span>
+                {children}
+            </label>
+        );
+    }
+);
+
+export default Checkbox;
