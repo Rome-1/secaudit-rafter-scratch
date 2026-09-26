@@ -1,0 +1,14 @@
+NSCameraUsageDescription = "Maak een foto of video om toe te voegen als bijlage.";
+NSPhotoLibraryUsageDescription = "Afbeeldingen uit uw bibliotheek kunnen als bijlagen worden verzonden.";
+NSMicrophoneUsageDescription = "Gebruikt bij het opnemen van een video als bijlage.";
+NSContactsUsageDescription = "Zoek e-mailadressen van ontvangers in contacten.";
+NSRemindersUsageDescription = "Laat notificatie zien als er nieuwe e-mail binnenkomt.";
+TutaoShowCameraAction = "Camera";
+TutaoChoosePhotosAction = "Foto's";
+TutaoNoPermissionTitle = "Geen toestemming";
+TutaoChangePermissionMsg = "Om toegang te verlenen, moet u de toelatingen voor dit apparaat wijzigen.";
+TutaoCancelAction = "Annuleren";
+TutaoSettingsAction = "Instellingen";
+TutaoCalendarAlarmTitle = "Herinnering";
+TutaoScheduleAlarmError = "Kon geen alarm instellen. Graag het programma updaten.";
+TutaoUnlockCredentialsAction = "Gegevens deblokkeren";

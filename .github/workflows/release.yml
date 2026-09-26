@@ -1,0 +1,26 @@
+name: Create a release draft
+
+on:
+  workflow_dispatch:
+    inputs:
+      tag:
+        required: true
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Use Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18.17.0
+      - name: npm i
+        run: npm i @octokit/rest
+      - name: release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: "node buildSrc/releaseNotes --tag tutanota-release-${{ github.event.inputs.tag }}
+                                                     --releaseName ${{ github.event.inputs.tag }}
+                                                     --milestone ${{ github.event.inputs.tag }}
+                                                     --platform all"
