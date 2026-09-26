@@ -1,0 +1,39 @@
+import { ChangeEvent } from 'react';
+
+import { c } from 'ttag';
+
+import { updateAutoSaveContacts } from '@proton/shared/lib/api/mailSettings';
+
+import { Toggle } from '../../components';
+import { useApi, useEventManager, useLoading, useNotifications } from '../../hooks';
+
+interface Props {
+    autoSaveContacts: boolean;
+    id?: string;
+    className?: string;
+}
+
+const AutoSaveContactsToggle = ({ autoSaveContacts, id, className }: Props) => {
+    const api = useApi();
+    const [loading, withLoading] = useLoading();
+    const { createNotification } = useNotifications();
+    const { call } = useEventManager();
+
+    const handleChange = async (event: ChangeEvent<HTMLInputElement>) => {
+        await api(updateAutoSaveContacts(+event.target.checked));
+        await call();
+        createNotification({ text: c('Success').t`Preference saved` });
+    };
+
+    return (
+        <Toggle
+            id={id}
+            className={className}
+            loading={loading}
+            checked={autoSaveContacts}
+            onChange={(event) => withLoading(handleChange(event))}
+        />
+    );
+};
+
+export default AutoSaveContactsToggle;
