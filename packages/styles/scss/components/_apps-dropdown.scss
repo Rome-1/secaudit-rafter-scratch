@@ -1,0 +1,15 @@
+.apps-dropdown {
+	&-button {
+		@extend .interactive;
+
+		border-radius: var(--border-radius-md);
+		padding: 0.25em;
+
+		& &-icon {
+			// override icon-16p
+			inline-size: 1em;
+			block-size: 1em;
+			font-size: 2em;
+		}
+	}
+}
