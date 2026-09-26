@@ -1,0 +1,10 @@
+log:
+  level: DEBUG
+
+db:
+  url: file:./test/flipt.db
+
+authentication:
+  methods:
+    token:
+      enabled: true
