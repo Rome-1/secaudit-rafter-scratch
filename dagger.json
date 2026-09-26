@@ -1,0 +1,16 @@
+{
+  "name": "flipt",
+  "engineVersion": "v0.17.1",
+  "sdk": {
+    "source": "go"
+  },
+  "include": [
+    "rpc",
+    "sdk",
+    "!.git",
+    "!.github",
+    "!bin",
+    "!ui/node_modules"
+  ],
+  "source": "build"
+}
