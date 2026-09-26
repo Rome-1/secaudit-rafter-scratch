@@ -1,0 +1,3304 @@
+{
+  "headers": {
+    "plural-forms": "nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;",
+    "language": "sk_SK"
+  },
+  "contexts": {
+    "Account Settings - Info": {
+      "${ name } and ${ remainingCount } other potential leaks detected. Turn on ${ DARK_WEB_MONITORING_NAME } to view details and take action. ${ link }": [
+        "${ name } a ${ remainingCount } ďalšie zistené potenciálne úniky. Ak chcete zobraziť podrobnosti a prijať opatrenia zapnite ${ DARK_WEB_MONITORING_NAME }. ${ link }"
+      ],
+      "${ name } and 1 other potential leak detected. Turn on ${ DARK_WEB_MONITORING_NAME } to view details and take action. ${ link }": [
+        "${ name } a 1 ďalší zistený potenciálny únik. Ak chcete zobraziť podrobnosti a prijať opatrenia zapnite ${ DARK_WEB_MONITORING_NAME }. ${ link }"
+      ],
+      "A potential ${ name } leak was detected. Turn on ${ DARK_WEB_MONITORING_NAME } to view details and take action. ${ link }": [
+        "Bol zistený potenciálny únik ${ name }. Ak chcete zobraziť podrobnosti a prijať opatrenia, zapnite ${ DARK_WEB_MONITORING_NAME }. ${ link }"
+      ],
+      "A potential leak from ${ name } was detected. Turn on ${ DARK_WEB_MONITORING_NAME } to view details and take action. ${ link }": [
+        "Bol zistený potenciálny únik z položky ${ name }. Zapnite ${ DARK_WEB_MONITORING_NAME } pre zobrazenie podrobností a prijatie opatrení. ${ link }"
+      ],
+      "A potential leak from ${ name } was detected. Turn on ${ DARK_WEB_MONITORING_NAME } to view details. ${ link }": [
+        "Bol zistený potenciálny únik z položky ${ name }. Ak chcete zobraziť podrobnosti, zapnite ${ DARK_WEB_MONITORING_NAME }. ${ link }"
+      ],
+      "Your information was found in at least one data leak. Turn on ${ DARK_WEB_MONITORING_NAME } to view details and take action. ${ link }": [
+        "Vaše informácie sa našli v najmenej jednom úniku údajov. Zapnite ${ DARK_WEB_MONITORING_NAME } pre zobrazenie podrobností a prijatie opatrení. ${ link }"
+      ]
+    },
+    "Action": {
+      "Add": [
+        "Pridať"
+      ],
+      "Add current URL": [
+        "Pridať aktuálnu URL"
+      ],
+      "Add more": [
+        "Pridať ďalšie"
+      ],
+      "Add new item": [
+        "Pridať novú položku"
+      ],
+      "Add section": [
+        "Pridať sekciu"
+      ],
+      "Add username field": [
+        "Pridať pole mena používateľa"
+      ],
+      "Admin panel": [
+        "Panel správcu"
+      ],
+      "Advanced": [
+        "Pokročilé"
+      ],
+      "Advanced options": [
+        "Pokročilé nastavenia"
+      ],
+      "Authenticate": [
+        "Overiť"
+      ],
+      "Back": [
+        "Späť"
+      ],
+      "Bulk delete items from trash": [
+        "Hromadné odstránenie položiek z koša"
+      ],
+      "Bulk move items to another vault": [
+        "Hromadné presunutie položiek do iného trezoru"
+      ],
+      "Bulk move items to trash": [
+        "Hromadné presunutie položiek do koša"
+      ],
+      "Bulk restore items from trash": [
+        "Hromadné obnovenie položiek z koša"
+      ],
+      "Bulk select items": [
+        "Hromadný výber položiek"
+      ],
+      "Cancel": [
+        "Zrušiť"
+      ],
+      "Change": [
+        "Zmeniť"
+      ],
+      "Choose a file or drag it here": [
+        "Vyberte súbor alebo ho sem pretiahnite"
+      ],
+      "Clear": [
+        "Vyčistiť"
+      ],
+      "Clear search": [
+        "Vyčistiť vyhľadávanie"
+      ],
+      "Close": [
+        "Zatvoriť"
+      ],
+      "Close advanced options": [
+        "Zatvoriť pokročilé nastavenia"
+      ],
+      "Close navigation": [
+        "Zavrieť menu"
+      ],
+      "Confirm": [
+        "Potvrdiť"
+      ],
+      "Confirm access": [
+        "Potvrďte prístup"
+      ],
+      "Continue": [
+        "Pokračovať"
+      ],
+      "Continue offline": [
+        "Pokračovať offline"
+      ],
+      "Copy and close": [
+        "Kopírovať a zatvoriť"
+      ],
+      "Copy link": [
+        "Kopírovať odkaz"
+      ],
+      "Copy to clipboard": [
+        "Skopírovať do schránky"
+      ],
+      "Create": [
+        "Vytvoriť"
+      ],
+      "Create a ${ BRAND_NAME } account": [
+        "Vytvoriť účet ${ BRAND_NAME }"
+      ],
+      "Create a new vault": [
+        "Vytvoriť nový trezor"
+      ],
+      "Create a new vault to share": [
+        "Vytvoriť nový trezor na zdieľanie"
+      ],
+      "Create alias": [
+        "Vytvoriť alias"
+      ],
+      "Create card": [
+        "Vytvoriť kartu"
+      ],
+      "Create identity": [
+        "Vytvoriť identitu"
+      ],
+      "Create login": [
+        "Vytvoriť prihlásenie"
+      ],
+      "Create new items": [
+        "Vytvoriť nové položky"
+      ],
+      "Create note": [
+        "Vytvoriť poznámku"
+      ],
+      "Create vault": [
+        "Vytvoriť trezor"
+      ],
+      "Creating vault": [
+        "Vytváranie trezoru"
+      ],
+      "Custom section": [
+        "Vlastná sekcia"
+      ],
+      "Customize": [
+        "Prispôsobiť"
+      ],
+      "Delete": [
+        "Odstrániť"
+      ],
+      "Delete alias": [
+        "Odstrániť alias"
+      ],
+      "Delete all": [
+        "Zmazať všetko"
+      ],
+      "Delete password": [
+        "Odstrániť heslo"
+      ],
+      "Delete permanently": [
+        "Navždy vymazať"
+      ],
+      "Delete vault": [
+        "Odstrániť trezor"
+      ],
+      "Deselect": [
+        "Odznačiť"
+      ],
+      "Discard": [
+        "Zahodiť"
+      ],
+      "Dismiss": [
+        "Odmietnuť"
+      ],
+      "Download this CSV template": [
+        "Stiahnuť si túto CSV šablónu"
+      ],
+      "Edit": [
+        "Upraviť"
+      ],
+      "Edit vault": [
+        "Upraviť trezor"
+      ],
+      "Enable Dark Web Monitoring": [
+        "Zapnúť monitorovanie Dark Webu"
+      ],
+      "Entire vault": [
+        "Celý trezor"
+      ],
+      "Exclude from monitoring": [
+        "Vylúčiť z monitorovania"
+      ],
+      "Export": [
+        "Exportovať"
+      ],
+      "Feedback": [
+        "Spätná väzba"
+      ],
+      "Fill password": [
+        "Vyplniť heslo"
+      ],
+      "Filter vault items": [
+        "Filtrovať položky trezoru"
+      ],
+      "Generate alias": [
+        "Vygenerovať alias"
+      ],
+      "Generate password": [
+        "Vygenerovať heslo"
+      ],
+      "Generate secure link": [
+        "Vytvoriť bezpečný odkaz"
+      ],
+      "Generated passwords": [
+        "Vygenerované heslá"
+      ],
+      "Generating secure link...": [
+        "Vytváranie bezpečného odkazu..."
+      ],
+      "Get ${ PASS_APP_NAME }": [
+        "Získať ${ PASS_APP_NAME }"
+      ],
+      "Get mobile apps": [
+        "Získať mobilné aplikácie"
+      ],
+      "Get Pass Business": [
+        "Získajte Pass Business"
+      ],
+      "Get Pass Plus": [
+        "Získajte Pass Plus"
+      ],
+      "Get Started": [
+        "Začíname"
+      ],
+      "Help us improve": [
+        "Pomôžte nám zlepšiť sa"
+      ],
+      "Hide": [
+        "Skryť"
+      ],
+      "How do I export my data from ${ PROVIDER_INFO_MAP[form.values.provider].title }?": [
+        "Ako môžem exportovať svoje údaje z ${ PROVIDER_INFO_MAP[form.values.provider].title }?"
+      ],
+      "Import": [
+        "Importovať"
+      ],
+      "Importing": [
+        "Prebieha import"
+      ],
+      "Include in monitoring": [
+        "Zaharnúť do monitorovania"
+      ],
+      "Install extension": [
+        "Inštalovať rozšírenie"
+      ],
+      "Invite others": [
+        "Pozvať iných"
+      ],
+      "Join shared vault": [
+        "Pripojiť k zdieľanému trezoru"
+      ],
+      "Learn more": [
+        "Zistiť viac"
+      ],
+      "Leave": [
+        "Opustiť"
+      ],
+      "Leave vault": [
+        "Opustiť trezor"
+      ],
+      "Link copied to clipboard": [
+        "Odkaz bol skopírovaný do schránky"
+      ],
+      "Link expires after": [
+        "Platnosť odkazu vyprší po"
+      ],
+      "Lock ${ PASS_APP_NAME }": [
+        "Uzamknúť ${ PASS_APP_NAME }"
+      ],
+      "Make admin": [
+        "Urobiť správcom"
+      ],
+      "Make editor": [
+        "Urobiť editorom"
+      ],
+      "Make viewer": [
+        "Urobiť čitateľom"
+      ],
+      "Manage access": [
+        "Spravovať prístup"
+      ],
+      "Manage vault access": [
+        "Spravovať prístup k trezoru"
+      ],
+      "Manually sync your data": [
+        "Synchronizovať údaje manuálne"
+      ],
+      "Mark as resolved": [
+        "Označiť ako vyriešené"
+      ],
+      "Maximum views": [
+        "Maximálny počet zobrazení"
+      ],
+      "More info: ${ safeTitle }": [
+        "Viac informácií: ${ safeTitle }"
+      ],
+      "More options": [
+        "Ďalšie možnosti"
+      ],
+      "Move": [
+        "Presun"
+      ],
+      "Move all items": [
+        "Presunúť všetky položky"
+      ],
+      "Move to a shared vault": [
+        "Presunúť do zdieľaného trezora"
+      ],
+      "Move to another vault": [
+        "Presunúť do iného trezoru"
+      ],
+      "Move to trash": [
+        "Presunúť do koša"
+      ],
+      "Move to Trash": [
+        "Presunúť do koša"
+      ],
+      "Multiple select": [
+        "Viacnásobný výber"
+      ],
+      "No expired links": [
+        "Žiadne exspirované odkazy"
+      ],
+      "OK": [
+        "OK"
+      ],
+      "Open navigation": [
+        "Otvoriť menu"
+      ],
+      "Pass for Android": [
+        "Proton Pass pre Android"
+      ],
+      "Pass for iOS": [
+        "Proton Pass pre iOS"
+      ],
+      "Pass Monitor": [
+        "Pass Monitor"
+      ],
+      "Pause monitoring": [
+        "Pozastaviť monitorovanie"
+      ],
+      "Pin item": [
+        "Pripnúť položku"
+      ],
+      "Refresh the page": [
+        "Obnoviť stránku"
+      ],
+      "Regenerate": [
+        "Generovať znova"
+      ],
+      "Reject": [
+        "Odmietnuť"
+      ],
+      "Reject invitation": [
+        "Odmietnuť pozvánku"
+      ],
+      "Reload": [
+        "Obnoviť"
+      ],
+      "Remove": [
+        "Vymazať"
+      ],
+      "Remove access": [
+        "Odstrániť prístup"
+      ],
+      "Remove all expired links (${ inactiveLinkCount })": [
+        "Odstrániť všetky odkazy s vypršanou platnosťou (${ inactiveLinkCount })"
+      ],
+      "Remove link": [
+        "Odstrániť odkaz"
+      ],
+      "Remove member": [
+        "Odstániť člena"
+      ],
+      "Request a feature": [
+        "Požiadavka na funkciu"
+      ],
+      "Resend code": [
+        "Znovu odoslať kód"
+      ],
+      "Resend code (in ${ remaining }s)": [
+        "Znovu odoslať kód (o ${ remaining } s)"
+      ],
+      "Resend invitation": [
+        "Znovu poslať pozvánku"
+      ],
+      "Restore": [
+        "Obnoviť"
+      ],
+      "Restore item": [
+        "Obnoviť položku"
+      ],
+      "Restrict number of views": [
+        "Obmedziť počet zobrazení"
+      ],
+      "Resume monitoring": [
+        "Pokračovať v monitorovaní"
+      ],
+      "Retry": [
+        "Opakovať"
+      ],
+      "Right click and download this CSV": [
+        "Kliknite pravým tlačidlom myši a stiahnite tento CSV súbor"
+      ],
+      "Save": [
+        "Uložiť"
+      ],
+      "Saving": [
+        "Ukladanie"
+      ],
+      "Section name": [
+        "Názov sekcie"
+      ],
+      "Secure links": [
+        "Bezpečné odkazy"
+      ],
+      "See all": [
+        "Zobraziť všetko"
+      ],
+      "See members": [
+        "Zobraziť členov"
+      ],
+      "Send invite": [
+        "Odoslať pozvánku"
+      ],
+      "Send us a message": [
+        "Pošlite nám správu"
+      ],
+      "Set access level": [
+        "Nastaviť úroveň prístupu"
+      ],
+      "Set extra password": [
+        "Nastaviť dodatočné heslo"
+      ],
+      "Setup 2FA": [
+        "Nastaviť 2FA"
+      ],
+      "Share": [
+        "Zdieľať"
+      ],
+      "Share secure link": [
+        "Zdieľať bezpečný odkaz"
+      ],
+      "Share this vault": [
+        "Zdieľať tento trezor"
+      ],
+      "Share vault": [
+        "Zdielať trezor"
+      ],
+      "Show": [
+        "Zobraziť"
+      ],
+      "Sign back in": [
+        "Prihláste sa späť"
+      ],
+      "Sign in with ${ BRAND_NAME }": [
+        "Prihlásiť sa pomocou ${ BRAND_NAME }"
+      ],
+      "Sign out": [
+        "Odhlásiť sa"
+      ],
+      "Someone shared an item with you on ${ PASS_APP_NAME }.": [
+        "Niekto s vami zdieľal položku v ${ PASS_APP_NAME }."
+      ],
+      "Sort vault items": [
+        "Triediť položky trezoru"
+      ],
+      "Submit": [
+        "Potvrdiť"
+      ],
+      "Submitting report...": [
+        "Odosielanie hlásenia..."
+      ],
+      "Transfer ownership": [
+        "Previesť vlastníctvo"
+      ],
+      "Trash": [
+        "Kôš"
+      ],
+      "Try again.": [
+        "Skúsiť znova."
+      ],
+      "Try for free": [
+        "Vyskúšať zdarma"
+      ],
+      "Unlock": [
+        "Odomknúť"
+      ],
+      "Unlock offline with password": [
+        "Odomknúť offline pomocou hesla"
+      ],
+      "Unpin item": [
+        "Odopnúť položku"
+      ],
+      "Update vault": [
+        "Aktualizovať trezor"
+      ],
+      "Upgrade": [
+        "Prejsť na platený plán"
+      ],
+      "Upgrade now": [
+        "Aktualizovať teraz"
+      ],
+      "Upgrade now to share with more people": [
+        "Aktualizujte teraz, aby ste sa mohli podeliť s viacerými ľuďmi"
+      ],
+      "Verify": [
+        "Overiť"
+      ],
+      "Via secure link": [
+        "Cez bezpečný odkaz"
+      ],
+      "View details": [
+        "Zobraziť podrobnosti"
+      ],
+      "View history": [
+        "Zobraziť históriu"
+      ],
+      "View item history": [
+        "Zobraziť históriu položky"
+      ],
+      "View older history": [
+        "Zobraziť staršiu históriu"
+      ],
+      "Write us on Reddit": [
+        "Napíšte nám na Reddite"
+      ],
+      "Write us on Twitter": [
+        "Napíšte nam na Twitteri"
+      ],
+      "Your password manager not here? Request it.": [
+        "Chýba tu váš správca hesiel? Požiadajte oň."
+      ]
+    },
+    "bf2023: Info": {
+      "Save Smart. Get a year of Pass Plus for only ${ relativePrice } per month.": [
+        "Šetrite múdro. Získajte ročný Pass Plus len za ${ relativePrice } mesačne."
+      ]
+    },
+    "bf2023: Label": {
+      "Get the deal": [
+        "Využiť ponuku"
+      ]
+    },
+    "bf2023: Title": {
+      "Black Friday offer": [
+        "Black Friday ponuka"
+      ]
+    },
+    "Browser": {
+      "${ MAIL_APP_NAME } Desktop application": [
+        "${ MAIL_APP_NAME } desktopová aplikácia"
+      ]
+    },
+    "Button": {
+      "More info": [
+        "Viac informácií"
+      ]
+    },
+    "Collapsible tooltip": {
+      "Collapse": [
+        "Zbaliť"
+      ],
+      "Expand": [
+        "Rozbaliť"
+      ]
+    },
+    "Description": {
+      "${ total } other login uses the same password": [
+        "${ total } iné prihlásenie používa rovnaké heslo",
+        "${ total } iné prihlasovania už používajú rovnaké heslo",
+        "${ total } iných prihlasovaní už používa rovnaké heslo",
+        "${ total } iných prihlasovaní už používa rovnaké heslo"
+      ],
+      "2FA adds another layer of security to your logins. ${ PASS_APP_NAME } makes 2FA easier by storing and automatically autofilling your 2FA codes.": [
+        "Funkcia 2FA pridáva ďalšiu úroveň zabezpečenia prihlásenia. ${ PASS_APP_NAME } uľahčuje 2FA ukladaním a automatickým vypĺňaním kódov 2FA."
+      ],
+      "An email alias works like an email address, but reduces spam and keeps your actual email address and identity hidden.": [
+        "Emailový alias funguje ako emailová adresa, ale znižuje množstvo spamu a udržuje vašu skutočnú emailovú adresu a identitu skrytú."
+      ],
+      "Change your passwords": [
+        "Zmeňte vaše heslá"
+      ],
+      "Create unique passwords": [
+        "Vytvorte jedinečné heslá"
+      ],
+      "Dark Web Monitoring is available with a paid plan. Upgrade for immediate access.": [
+        "K dispozícii je platený plán monitorovania Dark Webu. Aktualizujte si ho pre okamžitý prístup."
+      ],
+      "Get notified if your email, password or other personal data was leaked.": [
+        "Dostávajte upozornenia, ak došlo k úniku vášho emailu, hesla alebo iných osobných údajov."
+      ],
+      "Keep your info more secure and private with these guides and tips.": [
+        "Udržujte svoje informácie v bezpečí a súkromí pomocou týchto návodov a tipov."
+      ],
+      "Our cutting-edge AI-driven security solution designed for users seeking heightened protection for their accounts. ${ learnMoreLink }": [
+        "Naše špičkové bezpečnostné riešenie založené na umelej inteligencii určené pre používateľov, ktorí hľadajú zvýšenú ochranu svojich účtov. ${ learnMoreLink }"
+      ],
+      "Set up 2FA for more security": [
+        "Nastavte 2FA na zvýšenie bezpečnosti"
+      ],
+      "Start monitoring for data breaches related to accounts created with your email address and your hide-my-email aliases.": [
+        "Začnite monitorovať prípady únikov údajov v súvislosti s účtami vytvorenými pomocou vašej emailovej adresy a aliasov typu hide-my-email."
+      ],
+      "The dark web is a hidden part of the internet where stolen personal information, like identities, can be bought and sold.": [
+        "Dark web je skrytá časť internetu, kde sa dajú kúpiť a predať ukradnuté osobné údaje, ako napríklad identita."
+      ],
+      "These items remain at risk": [
+        "Tieto položky sú aj naďalej ohrozené"
+      ],
+      "This account is vulnerable, visit the service and change your password.": [
+        "Tento účet je zraniteľný. Navštívte službu a zmeňte si heslo."
+      ],
+      "This service offers 2FA. Enable it for added account security.": [
+        "Táto služba ponúka 2FA. Aktiváciou tejto funkcie zvýšite bezpečnosť účtu."
+      ],
+      "Unlock advanced security features and detailed logs to safeguard your online presence.": [
+        "Odomknite pokročilé funkcie zabezpečenia a podrobné protokoly na ochranu vašej online prítomnosti."
+      ],
+      "With ${ PASS_SHORT_APP_NAME } Monitor, stay ahead of threats by getting instant alerts if your credentials are compromised. Unlock advanced security features and detailed logs to safeguard your online presence.": [
+        "Pomocou ${ PASS_SHORT_APP_NAME } Monitor máte pred hrozbami náskok vďaka okamžitým upozorneniam, ak dôjde ku kompromitácii vašich prihlasovacích údajov. Odomknite pokročilé funkcie zabezpečenia a podrobné protokoly na ochranu vašej online prítomnosti."
+      ],
+      "Your email addresses were leaked in at least 1 data breach.": [
+        "Vaše emailové adresy unikli najmenej v 1 prípade porušenia ochrany osobných údajov."
+      ],
+      "Your personal info was leaked in a data breach of a third-party service.": [
+        "Vaše osobné údaje boli zverejnené pri úniku údajov zo služby tretej strany."
+      ]
+    },
+    "Error": {
+      "${ provider } file could not be parsed. ${ errorDetail }": [
+        "${ provider } súbor nebolo možné analyzovať. ${ errorDetail }"
+      ],
+      "Alias options could not be resolved": [
+        "Možnosti aliasu sa nepodarilo vyriešiť"
+      ],
+      "Authentication error": [
+        "Chyba overenia"
+      ],
+      "Authentication failed. Confirm your ${ BRAND_NAME } password in order to proceed with the export": [
+        "Overenie zlyhalo. Potvrďte svoje ${ BRAND_NAME } heslo, aby ste mohli pokračovať v exporte"
+      ],
+      "Cannot send invitation at the moment": [
+        "Momentálne nie je možné odoslať pozvánku",
+        "Momentálne nie je možné odoslať pozvánky",
+        "Momentálne nie je možné odoslať pozvánky",
+        "Momentálne nie je možné odoslať pozvánky"
+      ],
+      "Cannot send invitations at the moment": [
+        "Momentálne nie je možné odoslať pozvánky"
+      ],
+      "Could not confirm this invite at the moment": [
+        "V súčasnosti nie je možné túto pozvánku potvrdiť"
+      ],
+      "Could not leave vault.": [
+        "Trezor sa nepodarilo opustiť."
+      ],
+      "Could not load recommendations at the moment.": [
+        "Momentálne sa nepodarilo načítať odporúčania."
+      ],
+      "Could not open created vault": [
+        "Nepodarilo sa otvoriť vytvorený trezor"
+      ],
+      "Could not open invited vault": [
+        "Nepodarilo sa otvoriť trezor, do ktorého máte pozvánku."
+      ],
+      "Could not open updated vault": [
+        "Nepodarilo sa otvoriť aktualizovaný trezor"
+      ],
+      "Could not resolve share members": [
+        "Nepodarilo sa vyriešiť členov zdieľania"
+      ],
+      "Could not validate addresses at the moment.": [
+        "Adresy v tejto chvíli nebolo možné overiť."
+      ],
+      "CSV file is missing expected headers: ${ missingHeaders }": [
+        "V súbore CSV chýbajú očakávané hlavičky: ${ missingHeaders }"
+      ],
+      "Decrypting your ${ PASS_APP_NAME } export file failed. ${ errorDetail }": [
+        "Dešifrovanie exportného súboru ${ PASS_APP_NAME } zlyhalo. ${ errorDetail }"
+      ],
+      "Deleting item failed": [
+        "Odstránenie položky zlyhalo"
+      ],
+      "Deleting vault \"${ payload.content.name }\" failed": [
+        "Odstránenie trezoru \"${ payload.content.name }\" zlyhalo"
+      ],
+      "Detected ${ errors.length } corrupted csv row": [
+        "Zistený ${ errors.length } poškodený riadok csv",
+        "Zistené ${ errors.length } poškodené riadky csv",
+        "Zistených ${ errors.length } poškodených riadkov csv",
+        "Zistených ${ errors.length } poškodených riadkov csv"
+      ],
+      "Editing item failed": [
+        "Upravenie položky zlyhalo"
+      ],
+      "Empty CSV file": [
+        "Prázdny CSV súbor"
+      ],
+      "Emptying trash failed": [
+        "Vyprázdňovanie koša zlyhalo"
+      ],
+      "Encrypted JSON not supported": [
+        "Šifrovaný JSON nie je podporovaný"
+      ],
+      "Error reporting problem": [
+        "Chyba pri nahlasovaní problému"
+      ],
+      "Failed removing the invite.": [
+        "Odstránenie pozvánky zlyhalo."
+      ],
+      "Failed resending invite.": [
+        "Opätovné zaslanie pozvánky zlyhalo."
+      ],
+      "Failed to add email address": [
+        "Pridanie emailovej adresy zlyhalo"
+      ],
+      "Failed to delete email address from monitoring": [
+        "Vymazanie emailovej adresy z monitorovania zlyhalo"
+      ],
+      "Failed to delete selected items": [
+        "Nepodarilo sa odstrániť vybrané položky"
+      ],
+      "Failed to edit user's access.": [
+        "Úprava prístupových práv používateľa zlyhala."
+      ],
+      "Failed to load breaches for this address": [
+        "Načítanie únikov pre túto adresu zlyhalo"
+      ],
+      "Failed to load breaches for this email alias": [
+        "Načítanie únikov pre tento emailový alias zlyhalo"
+      ],
+      "Failed to load item history": [
+        "Nepodarilo sa načítať históriu položky"
+      ],
+      "Failed to move all items from \"${ payload.content.name }\"": [
+        "Presun všetkých položiek z \"${ payload.content.name }\" zlyhal"
+      ],
+      "Failed to move items": [
+        "Nepodarilo sa presunúť položky"
+      ],
+      "Failed to move items to trash": [
+        "Nepodarilo sa presunúť položky do koša"
+      ],
+      "Failed to pin item": [
+        "Pripnutie položky zlyhalo"
+      ],
+      "Failed to remove user's access.": [
+        "Odstránenie prístupu používateľa zlyhalo."
+      ],
+      "Failed to resend verification for custom email": [
+        "Nepodarilo sa opätovne odoslať overenie pre vlastnú emailovú adresu"
+      ],
+      "Failed to resolve breaches for this address": [
+        "Vyriešenie únikov pre túto adresu zlyhalo"
+      ],
+      "Failed to restore items from trash": [
+        "Nepodarilo sa obnoviť položky z koša"
+      ],
+      "Failed to transfer this vault's ownership.": [
+        "Nepodarilo sa preniesť vlastníctvo trezora."
+      ],
+      "Failed to unpin item": [
+        "Odopnutie položky zlyhalo"
+      ],
+      "Failed to update monitoring settings": [
+        "Zlyhala aktualizácia nastavení monitorovania"
+      ],
+      "Failed to verify email address": [
+        "Overenie emailovej adresy zlyhalo"
+      ],
+      "Failed updating ${ PROTON_SENTINEL_NAME } setting": [
+        "Zlyhala aktualizácia nastavení ${ PROTON_SENTINEL_NAME }"
+      ],
+      "Failed updating monitor flag of the item": [
+        "Aktualizácia príznaku sledovania položky zlyhala"
+      ],
+      "Failed updating monitoring status for this email address": [
+        "Aktualizácia stavu monitorovania tejto emailovej adresy zlyhala"
+      ],
+      "File could not be parsed": [
+        "Súbor sa nepodarilo analyzovať"
+      ],
+      "File could not be read": [
+        "Súbor sa nedá čítať"
+      ],
+      "File does not match expected format": [
+        "Súbor nezodpovedá očakávanému formátu"
+      ],
+      "Import failed for vault \"${ vaultData.name }\" : ${ description }": [
+        "Import trezora \"${ vaultData.name }\" zlyhal : ${ description }"
+      ],
+      "Importing items failed": [
+        "Importovanie položiek zlyhalo"
+      ],
+      "Inactive secure links could not be removed.": [
+        "Neaktívne bezpečné odkazy nebolo možné odstrániť."
+      ],
+      "Invalid password manager": [
+        "Neplatný správca hesiel"
+      ],
+      "Invitation could not be accepted": [
+        "Pozvánku nebolo možné prijať"
+      ],
+      "Invitation could not be rejected": [
+        "Pozvánku nebolo možné odmietnuť"
+      ],
+      "Item content cannot exceed 40KB": [
+        "Obsah položky nesmie presiahnuť 40KB"
+      ],
+      "Item creation failed": [
+        "Vytvorenie položky zlyhalo"
+      ],
+      "LastPass will export a corrupted CSV file if any of your item fields contain unexpected commas, quotes or multiple lines": [
+        "LastPass vyexportuje poškodený CSV súbor, ak niektoré z polí položky obsahuje neočakávané čiarky, úvodzovky alebo viac riadkov."
+      ],
+      "Moving item failed": [
+        "Presun položky zlyhal"
+      ],
+      "Network error": [
+        "Chyba siete"
+      ],
+      "Offline mode is currently not available for two password mode.": [
+        "Offline režim momentálne nie je k dispozícii pre režim dvoch hesiel."
+      ],
+      "Offline mode isn't currently available for your plan and not compatible with two password mode.": [
+        "Offline režim nie je momentálne k dispozícii pre váš plán a nie je kompatibilný s režimom dvoch hesiel."
+      ],
+      "Passphrase is incorrect": [
+        "Prístupová fráza je nesprávna"
+      ],
+      "PIN codes do not match": [
+        "PIN kódy sa nezhodujú"
+      ],
+      "Request timed out": [
+        "Požiadavka časovo omeškaná"
+      ],
+      "Requesting alias options failed": [
+        "Vyžiadanie možností aliasov zlyhalo"
+      ],
+      "Restoring item failed": [
+        "Obnovenie položky zlyhalo"
+      ],
+      "Restoring trashed items failed": [
+        "Obnova položiek z koša zlyhala"
+      ],
+      "Secure link could not be created.": [
+        "Bezpečný odkaz nie je možné vytvoriť."
+      ],
+      "Secure link could not be opened.": [
+        "Bezpečný odkaz nie je možné otvoriť"
+      ],
+      "Settings update failed": [
+        "Aktualizácia nastavení zlyhala"
+      ],
+      "Signature verification failed": [
+        "Overenie podpisu zlyhalo"
+      ],
+      "Some vaults are no longer accessible due to a password reset. Reactivate your account keys in order to regain access. ${ reactivateLink }": [
+        "Niektoré trezory už nie sú dostupné z dôvodu obnovenia hesla. Pre opätovné získanie prístupu znova aktivujte kľúče účtu. ${ reactivateLink }"
+      ],
+      "Something went wrong": [
+        "Niečo sa pokazilo"
+      ],
+      "Something went wrong. Please sign in again.": [
+        "Niečo sa pokazilo. Prihláste sa znova, prosím."
+      ],
+      "The file you are trying to import is empty": [
+        "Súbor, ktorý sa pokúšate importovať, je prázdny"
+      ],
+      "The session has expired. Please sign in again.": [
+        "Platnosť relácie vypršala. Prihláste sa znovu, prosím."
+      ],
+      "There was an error while removing the secure link. Please try again in a few minutes.": [
+        "Pri odstraňovaní bezpečného odkazu došlo k chybe. Skúste to o niekoľko minút znova, prosím."
+      ],
+      "Too many failed attempts. Please sign in again.": [
+        "Priveľa neúspešných pokusov. Prihláste sa, prosím znova."
+      ],
+      "Trashing item failed": [
+        "Presun do koša zlyhal"
+      ],
+      "Try reaching out to the link owner.": [
+        "Skúste kontaktovať vlastníka odkazu."
+      ],
+      "Unable to generate an OTP code for this item": [
+        "Pre túto položku nie je možné vygenerovať OTP kód"
+      ],
+      "Unable to sync": [
+        "Nie je možné synchronizovať"
+      ],
+      "Unknown error": [
+        "Neznáma chyba"
+      ],
+      "Unknown invite": [
+        "Neznáma pozvánka"
+      ],
+      "Unknown item": [
+        "Neznáma položka"
+      ],
+      "Unlock failure": [
+        "Zlyhanie odomknutia"
+      ],
+      "Unsupported ${ PASS_APP_NAME } file format": [
+        "Nepodporovaný formát súboru ${ PASS_APP_NAME }"
+      ],
+      "Unsupported 1Password file format": [
+        "Nepodporovaný formát súboru 1Password"
+      ],
+      "Updating vault \"${ payload.content.name }\" failed": [
+        "Aktualizácia trezoru \"${ payload.content.name }\" zlyhala"
+      ],
+      "Vault \"${ payload.content.name }\" creation failed": [
+        "Vytvorenie trezoru \"${ payload.content.name }\" zlyhalo"
+      ],
+      "Vault \"${ vaultData.name }\" could not be created": [
+        "Trezor \"${ vaultData.name }\" sa nepodarilo vytvoriť"
+      ],
+      "Vault name does not match": [
+        "Názov trezoru sa nezhoduje"
+      ],
+      "We encountered an issue while starting ${ PASS_SHORT_APP_NAME }. If this problem continues, please contact our customer support for assistance.": [
+        "Pri spúšťaní ${ PASS_SHORT_APP_NAME } sa vyskytla chyba. Ak bude tento problém pretrvávať, kontaktuje našu zákaznícku podporu, prosím."
+      ],
+      "Wrong extra password": [
+        "Nesprávne dodatočné heslo"
+      ],
+      "Wrong password": [
+        "Nesprávne heslo"
+      ],
+      "Wrong PIN code. Try again.": [
+        "Nesprávny PIN. Skúste to znova."
+      ],
+      "You're currently offline. Please resume connectivity in order to unlock ${ PASS_SHORT_APP_NAME }.": [
+        "Momentálne ste offline. Obnovte, prosím, pripojenie, aby ste mohli odomknúť ${ PASS_SHORT_APP_NAME }."
+      ],
+      "Your PIN code was removed by another ${ PASS_APP_NAME } client": [
+        "Váš PIN kód bol odstránený iným klientom ${ PASS_APP_NAME }"
+      ]
+    },
+    "Error message": {
+      "Oops, something went wrong": [
+        "Ups, niečo sa pokazilo"
+      ],
+      "Please refresh the page or try again later.": [
+        "Obnovte stránku, prosím, alebo skúste znovu neskôr."
+      ],
+      "Something went wrong": [
+        "Niečo sa pokazilo"
+      ]
+    },
+    "Feature": {
+      "Dark Web Monitoring": [
+        "Monitorovanie Dark Webu"
+      ],
+      "Integrated 2FA authenticator": [
+        "Integrovaný 2FA autentifikátor"
+      ],
+      "Unlimited hide-my-email aliases": [
+        "Neobmedzený počet hide-my-email aliasov"
+      ],
+      "Vault sharing (up to ${ MAX_VAULT_MEMBERS } people)": [
+        "Zdieľanie trezora (až s ${ MAX_VAULT_MEMBERS } osobami)"
+      ]
+    },
+    "file size format": {
+      "byte": [
+        "bajt",
+        "bajty",
+        "bajtov",
+        "bajtov"
+      ],
+      "GB": [
+        "GB"
+      ],
+      "KB": [
+        "KB"
+      ],
+      "MB": [
+        "MB"
+      ],
+      "TB": [
+        "TB"
+      ]
+    },
+    "file size format, long": {
+      "Byte": [
+        "Bajt",
+        "Bajty",
+        "Bajtov",
+        "Bajtov"
+      ],
+      "Gigabyte": [
+        "Gigabajt",
+        "Gigabajty",
+        "Gigabajtov",
+        "Gigabajtov"
+      ],
+      "Kilobyte": [
+        "Kilobajt",
+        "Kilobajty",
+        "Kilobajtov",
+        "Kilobajtov"
+      ],
+      "Megabyte": [
+        "Megabajt",
+        "Megabajty",
+        "Megabajtov",
+        "Megabajtov"
+      ],
+      "Terabyte": [
+        "terabajt",
+        "terabajty",
+        "terabajtov",
+        "terabajtov"
+      ]
+    },
+    "Info": {
+      " Upgrade to a paid plan to create multiple vaults.": [
+        " Pre vytvorenie viacerých trezorov prejdite na platený plán."
+      ],
+      "\"${ payload.item.data.metadata.name }\" item was dismissed": [
+        "Položka \"${ payload.item.data.metadata.name }\" bola zamietnutá"
+      ],
+      "\"${ payload.item.data.metadata.name }\" update was dismissed": [
+        "Aktualizácia \"${ payload.item.data.metadata.name }\" bola zamietnutá"
+      ],
+      "${ count } invites successfully sent": [
+        "${ count } pozvánok úspešne odoslaných"
+      ],
+      "${ count } time": [
+        "${ count } krát",
+        "${ count } krát",
+        "${ count } krát",
+        "${ count } krát"
+      ],
+      "${ count } view": [
+        "${ count } zobrazenie",
+        "${ count } zobrazení",
+        "${ count } zobrazenia",
+        "${ count }/ zobrazení"
+      ],
+      "${ count }/${ maxReads } views": [
+        "${ count }/${ maxReads } zobrazení"
+      ],
+      "${ memberCount } member": [
+        "${ memberCount } člen",
+        "${ memberCount } členovia",
+        "${ memberCount } členov",
+        "${ memberCount } členov"
+      ],
+      "${ n } item": [
+        "${ n } položka",
+        "${ n } položky",
+        "${ n } položiek ",
+        "${ n } položiek "
+      ],
+      "${ PASS_APP_NAME } will always be accessible": [
+        "${ PASS_APP_NAME } bude vždy dostupný"
+      ],
+      "${ PASS_APP_NAME } will display the item favicon via ${ BRAND_NAME } anonymized image proxy.": [
+        "${ PASS_APP_NAME } zobrazí webové ikony položiek prostredníctvom anonymizovaného ${ BRAND_NAME } proxy servera."
+      ],
+      "${ PASS_APP_NAME } will only import logins, notes, credit cards and identities.": [
+        "${ PASS_APP_NAME } naimportuje len prihlasovacie údaje, poznámky, platobné karty a identity."
+      ],
+      "${ PASS_APP_NAME } will require your ${ BRAND_NAME } password in order to access data offline.": [
+        "${ PASS_APP_NAME } bude vyžadovať vaše ${ BRAND_NAME } heslo na prístup k údajom offline."
+      ],
+      "${ PROTON_SENTINEL_NAME } successfully disabled": [
+        "${ PROTON_SENTINEL_NAME } úspešne vypnutý"
+      ],
+      "${ PROTON_SENTINEL_NAME } successfully enabled": [
+        "${ PROTON_SENTINEL_NAME } úspešne zapnutý"
+      ],
+      "${ row.breachCount } breach detected": [
+        "${ row.breachCount } zistený únik",
+        "${ row.breachCount } zistených únikov",
+        "${ row.breachCount } zistené úniky",
+        "${ row.breachCount } zistených únikov"
+      ],
+      "7 days to try premium features for free. Only during your first week of ${ BRAND_NAME }.": [
+        "7 dní na bezplatné vyskúšanie prémiových funkcií. Len počas vášho prvého týždňa s ${ BRAND_NAME }."
+      ],
+      "A new version of ${ PASS_APP_NAME } is available. Update it to enjoy the latest features and bug fixes.": [
+        "K dispozícii je nová verzia ${ PASS_APP_NAME }. Aktualizujte a využívajte najnovšie funkcie a opravy chýb."
+      ],
+      "Access successfully confirmed": [
+        "Prístup bol úspešne potvrdený"
+      ],
+      "Access to ${ PASS_APP_NAME } will always require your ${ BRAND_NAME } password.": [
+        "Prístup k ${ PASS_APP_NAME } bude vždy vyžadovať vaše heslo do ${ BRAND_NAME }"
+      ],
+      "Access to ${ PASS_APP_NAME } will require your fingerprint or device PIN.": [
+        "Prístup k ${ PASS_APP_NAME } bude vyžadovať váš odtlačok prsta alebo PIN zariadenia."
+      ],
+      "Add a username field": [
+        "Pridať pole mena používateľa"
+      ],
+      "Add your custom email address to monitor :": [
+        "Pridajte vašu vlastnú emailovú adresu na monitorovanie:"
+      ],
+      "Admin": [
+        "Správca"
+      ],
+      "After successfully importing your data, you may delete the CSV file containing your passwords for security.": [
+        "Po úspešnom importe údajov môžete z bezpečnostných dôvodov odstrániť CSV súbor obsahujúci vaše heslá."
+      ],
+      "Alias \"${ item.aliasEmail }\" moved to trash - it will stop forwarding emails to your mailbox": [
+        "Alias \"${ item.aliasEmail }\" presunutý do koša – prestanú sa preposielať emaily do vašej poštovej schránky"
+      ],
+      "Aliases with custom domains are not monitored, please add them as a custom email for monitoring.": [
+        "Aliasy s vlastnými doménami nie sú monitorované, pridajte ich na monitorovanie ako vlastný email."
+      ],
+      "All breaches for this address were resolved": [
+        "Všetky úniky pre túto emailovú adresu boli vyriešené"
+      ],
+      "All current breaches will be marked as resolved. In case of future data breaches, you'll be notified.": [
+        "Všetky aktuálne úniky budú označené ako vyriešené. V prípade budúcich únikov údajov dostanete informáciu."
+      ],
+      "All inactive secure links were removed": [
+        "Všetky neaktívne bezpečné odkazy boli odstránené"
+      ],
+      "All items from \"${ payload.content.name }\" successfully moved": [
+        "Všetky položky z \"${ payload.content.name }\" boli úspešne presunuté"
+      ],
+      "All items successfully moved": [
+        "Všetky položky úspešne presunuté"
+      ],
+      "All trashed items permanently deleted": [
+        "Všetky položky v koši natrvalo vymazané"
+      ],
+      "All trashed items successfully restored": [
+        "Všetky položky z koša boli úspešne obnovené"
+      ],
+      "An item previously shared with you was removed": [
+        "Položka predtým zdieľaná s vami bola odstránená"
+      ],
+      "Are you sure you want to remove the link?": [
+        "Skutočne chcete odstrániť odkaz?"
+      ],
+      "Auto-lock successfully disabled.": [
+        "Automatické uzamknutie bolo úspešne deaktivované."
+      ],
+      "Before exporting your data with this format, please open Safari settings -> \"General\" tab -> disable the option \"Open safe files after downloading\". This will prevent Safari from incorrectly extracting the exported file.": [
+        "Pred exportom údajov v tomto formáte otvorte nastavenia prehliadača Safari -> kartu \"Všeobecné\" -> vypnite možnosť \"Otvoriť zabezpečené súbory po stiahnutí\". Tým sa zabráni tomu, aby prehliadač Safari nesprávne extrahoval exportovaný súbor."
+      ],
+      "Biometrics lock successfully registered. Use it to unlock ${ PASS_APP_NAME }": [
+        "Biometrické uzamknutie bolo úspešne zaregistrované. Použite ho na odomknutie ${ PASS_APP_NAME }"
+      ],
+      "Biometrics will be disabled and will need to be enabled again.": [
+        "Biometria bude deaktivovaná a bude potrebné ju znova zapnúť."
+      ],
+      "Breaches detected": [
+        "Zistený únik"
+      ],
+      "Bring your existing passwords into ${ BRAND_NAME }.": [
+        "Preneste svoje existujúce heslá do ${ BRAND_NAME }."
+      ],
+      "Built in 2FA authenticator": [
+        "Zabudovaný 2FA autentifikátor"
+      ],
+      "Can be viewed": [
+        "Môže byť zobrazené"
+      ],
+      "Can create, edit, delete, and export items in this vault.": [
+        "Môžete vytvárať, upravovať, mazať a exportovať položky v tomto trezore."
+      ],
+      "Can grant and revoke access to this vault, and delete it.": [
+        "Môže udeliť alebo zrušiť prístup k tomuto trezoru a vymazať ho."
+      ],
+      "Can grant and revoke access to this vault.": [
+        "Môže udeliť alebo zrušiť prístup k tomuto trezoru."
+      ],
+      "Can view items in this vault.": [
+        "Môže zobraziť položky v tomto trezore"
+      ],
+      "Change your password": [
+        "Zmeňte si heslo"
+      ],
+      "Click here to add a field for a username.": [
+        "Kliknite sem pre pridanie poľa s používateľským menom"
+      ],
+      "Confirm your extra password to proceed with its removal.": [
+        "Potvrdením dodatočného hesla pokračujte v jeho odstraňovaní."
+      ],
+      "Congratulations, your access has been confirmed": [
+        "Blahoželáme, váš prístup bol potvrdený"
+      ],
+      "Copied to clipboard": [
+        "Skopírované do schránky"
+      ],
+      "CSV offers a convenient format to view your data. However due to its simplicity, some data will not be included (custom fields, passkeys...). For a complete export, we recommend using a different format.": [
+        "CSV ponúka vhodný formát na zobrazenie údajov. Avšak kvôli svojej jednoduchosti, niektoré údaje nebudú zahrnuté (vlastné polia, prístupové kľúče...). Pre kompletný export odporúčame použiť iný formát."
+      ],
+      "Current version": [
+        "Súčasná verzia"
+      ],
+      "Decrypting your data": [
+        "Dešifrujeme vaše údaje"
+      ],
+      "Deleted items will be moved here first": [
+        "Odstránené položky budú presunuté najskôr sem"
+      ],
+      "Deleting \"${ payload.content.name }\"": [
+        "Vymazávam \"${ payload.content.name }\""
+      ],
+      "Didn't receive the code?": [
+        "Nedostali ste kód?"
+      ],
+      "Disabling auto-lock": [
+        "Vypnutie automatického uzamykania"
+      ],
+      "Disabling auto-lock failed": [
+        "Vypnutie automatického uzamykania zlyhalo"
+      ],
+      "Disabling offline mode...": [
+        "Vypínanie offline režimu..."
+      ],
+      "Drop file here to upload": [
+        "Sem presuňte súbor na nahranie"
+      ],
+      "Drop to import": [
+        "Presuňte na import"
+      ],
+      "Due to a limitation of Safari browser extensions, after exporting the data the file extension will be missing \".pgp\". Please rename the file to include the .pgp extension (e.g file.pgp) after exporting.": [
+        "Z dôvodu obmedzení rozšírení v prehliadači Safari bude po exporte údajov chýbať prípona súboru \".pgp\". Po exporte premenujte súbor tak, aby obsahoval príponu .pgp (napr. file.pgp)."
+      ],
+      "Editor": [
+        "Editor"
+      ],
+      "email": [
+        "email"
+      ],
+      "Email address successfully deleted from monitoring": [
+        "Emailová adresa bola z monitorovania úspešne odstránená"
+      ],
+      "Email address successfully excluded from monitoring": [
+        "Emailová adresa bola z monitorovania úspešne vynechaná"
+      ],
+      "Email address successfully included in monitoring": [
+        "Emailová adresa bola úspešne pridaná do monitorovania"
+      ],
+      "Emptying trash...": [
+        "Vyprázdňovanie koša..."
+      ],
+      "Enable ${ PASS_SHORT_APP_NAME } beta": [
+        "Zapnúť ${ PASS_SHORT_APP_NAME } beta"
+      ],
+      "Enable auto-locking to secure your data": [
+        "Povoľte automatické uzamykanie na zabezpečenie údajov"
+      ],
+      "Enabling biometrics auto-lock": [
+        "Aktivácia biometrického automatického zamykania"
+      ],
+      "Enabling biometrics lock failed": [
+        "Aktivácia biometrického zamykania zlyhala"
+      ],
+      "Enabling offline mode...": [
+        "Zapínanie offline režimu..."
+      ],
+      "Enabling password auto-lock": [
+        "Zapnutie automatického uzamykania pomocou hesla"
+      ],
+      "Enabling password lock failed": [
+        "Zapnutie uzamknutia heslom zlyhalo"
+      ],
+      "Enabling PIN auto-lock": [
+        "Zapnutie automatického uzamykania pomocou PIN"
+      ],
+      "Enter verification code. Digit ${ digit }.": [
+        "Zadajte overovací kód. Číslice ${ digit }."
+      ],
+      "Enter your extra password": [
+        "Zadajte vaše dodatočné heslo"
+      ],
+      "Enter your PIN code": [
+        "Zadajte PIN kód"
+      ],
+      "Expires in": [
+        "Vyprší za"
+      ],
+      "Expires in ${ remainingTime }": [
+        "Vyprší o ${ remainingTime }"
+      ],
+      "Extra password successfuly created": [
+        "Dodatočné heslo bolo úspešne vytvorené"
+      ],
+      "Extra password successfuly removed": [
+        "Dodatočné heslo bolo úspešne odstránené"
+      ],
+      "Fill in the CSV with your data": [
+        "Vyplňte CSV súbor svojimi údajmi"
+      ],
+      "finance": [
+        "financie"
+      ],
+      "Follow those steps to import your data with a generic CSV :": [
+        "Pre importovanie údajov pomocou všeobecného CSV súboru, postupujte nasledovne:"
+      ],
+      "For security reasons, your access needs to be confirmed": [
+        "Z bezpečnostných dôvodov musí byť váš prístup potvrdený"
+      ],
+      "Generated passwords will be stored for a period of ${ MAX_PASSWORD_HISTORY_RETENTION_WEEKS } week.": [
+        "Vygenerované heslá budú uložené po dobu ${ MAX_PASSWORD_HISTORY_RETENTION_WEEKS } týždňa.",
+        "Vygenerované heslá budú uložené po dobu ${ MAX_PASSWORD_HISTORY_RETENTION_WEEKS } týždňov.",
+        "Vygenerované heslá budú uložené po dobu ${ MAX_PASSWORD_HISTORY_RETENTION_WEEKS } týždňov.",
+        "Vygenerované heslá budú uložené po dobu ${ MAX_PASSWORD_HISTORY_RETENTION_WEEKS } týždňov."
+      ],
+      "Get the most out of Pass by creating a vault for each team or project.": [
+        "Využite Proton Pass naplno vytvorením trezora pre každý tím alebo projekt."
+      ],
+      "Get unlimited aliases, enjoy exclusive features, and support us by subscribing to Pass Plus.": [
+        "Získajte neobmedzený počet aliasov, využívajte exkluzívne funkcie a podporte nás predplatením služby Pass Plus."
+      ],
+      "High Priority": [
+        "Vysoká priorita"
+      ],
+      "How does monitoring work?": [
+        "Ako monitorovanie funguje?"
+      ],
+      "Import in progress:": [
+        "Prebieha import:"
+      ],
+      "Import the CSV file below.": [
+        "Importovať CSV súbor nižšie."
+      ],
+      "Imported ${ payload.total } item": [
+        "Importovaná ${ payload.total } položka",
+        "Importované ${ payload.total } položky",
+        "Importovaných ${ payload.total } položiek",
+        "Importovaných ${ payload.total } položiek"
+      ],
+      "Imported on ${ date }": [
+        "Importované ${ date }"
+      ],
+      "In order to get the best experience out of ${ PASS_APP_NAME }, please grant the necessary extension permissions": [
+        "Pre čo najlepší zážitok z rozšírenia ${ PASS_APP_NAME }, udeľte rozšíreniu potrebné oprávnenia"
+      ],
+      "Install ${ PASS_APP_NAME } for ${ browser.title } to quickly autofill your logins.": [
+        "Nainštalujte ${ PASS_APP_NAME } pre ${ browser.title } na rýchle automatické vyplnenie prihlasovacích údajov."
+      ],
+      "Install ${ PASS_APP_NAME } for ${ browser.title } to quickly autofill your logins. ": [
+        "Nainštalujte ${ PASS_APP_NAME } pre ${ browser.title } na rýchle automatické vyplnenie prihlasovacích údajov. "
+      ],
+      "Internet connection lost": [
+        "Strata internetového pripojenia"
+      ],
+      "Internet connection lost. Please check your device's connectivity.": [
+        "Pripojenie k internetu sa prerušilo. Skontrolujte prosím pripojenie vašeho zariadenia."
+      ],
+      "Invitation sent": [
+        "Pozvánka odoslaná"
+      ],
+      "Invite specific people and set the right permissions.": [
+        "Pozvite konkrétnych ľudí a nastavte správne oprávnenia."
+      ],
+      "Invite successfully removed": [
+        "Pozvánka bola úspešne odstránená."
+      ],
+      "Invite successfully resent": [
+        "Pozvánka bola znova úspešne odoslaná"
+      ],
+      "Invite successfully sent": [
+        "Pozvánka bola úspešne odoslaná"
+      ],
+      "invites you to access items in": [
+        "vás pozýva na prístup k položkám v"
+      ],
+      "It seems you are already logged in to ${ PASS_APP_NAME }. If you're trying to login with a different account, please logout from the extension first.": [
+        "Zdá sa, že účet ${ PASS_APP_NAME } už je prihlásený. Ak sa pokúšate prihlásiť pomocou iného účtu, najskôr sa odhláste z rozšírenia, prosím."
+      ],
+      "item": [
+        "položka",
+        "položky",
+        "položiek",
+        "položiek"
+      ],
+      "Item \"${ payload.item.data.metadata.name }\" created": [
+        "Položka \"${ payload.item.data.metadata.name }\" bola vytvorená"
+      ],
+      "Item \"${ payload.item.data.metadata.name }\" updated": [
+        "Položka \"${ payload.item.data.metadata.name }\" bola aktualizovaná"
+      ],
+      "Item moved to trash": [
+        "Položka bola presunutá do koša"
+      ],
+      "Item permanently deleted": [
+        "Položka bola natrvalo odstránená"
+      ],
+      "Item restored": [
+        "Položka bola obnovená"
+      ],
+      "Item successfully excluded from monitoring": [
+        "Položka bola úspešne vylúčená z monitorovania"
+      ],
+      "Item successfully included in monitoring": [
+        "Položka bola úspešne zahrnutá do monitorovania"
+      ],
+      "Item successfully moved": [
+        "Položka bola úspešne presunutá"
+      ],
+      "Item successfully pinned": [
+        "Položka bola úspešne pripnutá"
+      ],
+      "Item successfully unpinned": [
+        "Položka bola úspešne odopnutá"
+      ],
+      "Latest breach on ${ formattedDate }": [
+        "Posledný únik údajov dňa ${ formattedDate }"
+      ],
+      "Learn how to ${ staySaferOnlineLink }": [
+        "Zistite, ako ${ staySaferOnlineLink }"
+      ],
+      "Leaving vault...": [
+        "Opustenie trezoru..."
+      ],
+      "Let's get you started by creating your first item": [
+        "Začnite vytvorením prvej položky"
+      ],
+      "Loading": [
+        "Načítavanie"
+      ],
+      "Loading ${ PASS_APP_NAME }": [
+        "Načítanie ${ PASS_APP_NAME }"
+      ],
+      "Logging you out...": [
+        "Odhlasovanie..."
+      ],
+      "Low Priority": [
+        "Nízka priorita"
+      ],
+      "me": [
+        "ja"
+      ],
+      "Medium Priority": [
+        "Stredná priorita"
+      ],
+      "Monitor accounts": [
+        "Monitorujte účty"
+      ],
+      "Monitoring settings successfully updated": [
+        "Nastavenia monitorovania boli úspešne aktualizované"
+      ],
+      "More than a password manager, ${ PASS_APP_NAME } protects your password and your personal email address via email aliases. Powered by the same technology behind ${ MAIL_APP_NAME }, your data is end to end encrypted and is only accessible by you.": [
+        "${ PASS_APP_NAME } je viac ako správca hesiel, chráni vaše heslo a váš osobný email prostredníctvom emailových aliasov. Vďaka rovnakej technológii, akú používa ${ MAIL_APP_NAME }, sú vaše údaje šifrované počas celého spojenia a prístup k nim máte len vy."
+      ],
+      "Moving all items from \"${ payload.content.name }\"": [
+        "Presúvanie všetkých položiek z \"${ payload.content.name }\""
+      ],
+      "Moving an item to another vault will erase its history and all secure links.": [
+        "Presunutím položky do iného trezora sa vymaže jej história a všetky bezpečné odkazy."
+      ],
+      "Moving an item to another vault will erase its history.": [
+        "Presunutím položky do iného trezora sa vymaže jej história."
+      ],
+      "Moving items": [
+        "Presúvanie položiek"
+      ],
+      "Moving items to another vault will erase their history and all secure links.": [
+        "Presunutím položiek do iného trezora sa vymaže ich história a všetky zabezpečené odkazy."
+      ],
+      "Moving items to another vault will erase their history.": [
+        "Presunutím položiek do iného trezora sa vymaže ich história."
+      ],
+      "Moving items to trash": [
+        "Presúvanie položiek do koša"
+      ],
+      "Never": [
+        "Nikdy"
+      ],
+      "No breaches detected": [
+        "Neboli zistené žiadne prípady únikov"
+      ],
+      "No network connection": [
+        "Žiadne sieťové pripojenie"
+      ],
+      "None": [
+        "Nezamykať"
+      ],
+      "Offline mode": [
+        "Offline režim"
+      ],
+      "Offline mode could not be disabled at the moment": [
+        "Offline režim momentálne nie je možné vypnúť"
+      ],
+      "Offline mode could not be enabled at the moment": [
+        "Offline režim nie je možné momentálne povoliť"
+      ],
+      "Offline support successfully disabled": [
+        "Podpora offline bola úspešne vypnutá"
+      ],
+      "Online access to ${ PASS_APP_NAME } will require a PIN code. You'll be logged out after 3 failed attempts.": [
+        "Online prístup k ${ PASS_APP_NAME } bude vyžadovať PIN kód. Po troch neúspešných pokusoch dôjde k odhláseniu."
+      ],
+      "Our alerts err on the side of caution. If you don’t recognize any of the breached information, you can safely ignore this report.": [
+        "Naše upozornenia sú skôr opatrné. Ak nepoznáte žiadnu z narušených informácií, môžete túto správu pokojne ignorovať."
+      ],
+      "Owner": [
+        "Vlastník"
+      ],
+      "Ownership successfully transfered. You are no long the owner of this vault.": [
+        "Vlastníctvo bolo úspešne prenesené. Už nie ste vlastníkom trezora."
+      ],
+      "Pass Plus trial": [
+        "Skúšobná verzia Pass Plus"
+      ],
+      "password": [
+        "heslo"
+      ],
+      "Password lock successfully registered. Use it to unlock ${ PASS_APP_NAME }": [
+        "Heslo na uzamknutie bolo úspešne zaregistrované. Použite ho na odomknutie ${ PASS_APP_NAME }"
+      ],
+      "Passwords older than ${ MAX_PASSWORD_HISTORY_RETENTION_WEEKS } week are automatically deleted from history.": [
+        "Heslá staršie ako ${ MAX_PASSWORD_HISTORY_RETENTION_WEEKS } týždeň sa automaticky odstránia z histórie.",
+        "Heslá staršie ako ${ MAX_PASSWORD_HISTORY_RETENTION_WEEKS } týždne sa automaticky odstránia z histórie.",
+        "Heslá staršie ako ${ MAX_PASSWORD_HISTORY_RETENTION_WEEKS } týždňov sa automaticky odstránia z histórie.",
+        "Heslá staršie ako ${ MAX_PASSWORD_HISTORY_RETENTION_WEEKS } týždňov sa automaticky odstránia z histórie."
+      ],
+      "Paused": [
+        "Pozastavené"
+      ],
+      "Permanently deleting selected items": [
+        "Trvalé odstránenie vybraných položiek"
+      ],
+      "PIN code successfully registered. Use it to unlock ${ PASS_APP_NAME }": [
+        "PIN kód bol úspešne zaregistrovaný. Použite ho na odomknutie ${ PASS_APP_NAME }"
+      ],
+      "Pinning item...": [
+        "Pripínanie položky..."
+      ],
+      "Please check your spam folder or try resending the code.": [
+        "Skontrolujte priečinok so spamom alebo skúste kód poslať znova."
+      ],
+      "Please confirm your ${ BRAND_NAME } password in order to enable offline mode": [
+        "Potvrďte svoje ${ BRAND_NAME } heslo na povolenie offline režimu"
+      ],
+      "Please confirm your ${ BRAND_NAME } password in order to export your ${ PASS_APP_NAME } data": [
+        "Prosím, potvrďte svoje ${ BRAND_NAME } heslo, aby ste mohli exportovať vaše dáta z ${ PASS_APP_NAME }"
+      ],
+      "Please confirm your extra password": [
+        "Potvrďte vaše dodatočné heslo, prosím"
+      ],
+      "Please confirm your extra password in order to auto-lock with biometrics.": [
+        "Potvrďte, prosím, vaše dodatočné heslo pre automatické uzamknutie pomocou biometrie."
+      ],
+      "Please confirm your extra password in order to auto-lock with your extra password.": [
+        "Pre automatické uzamknutie pomocou dodatočného hesla potvrďte svoje dodatočné heslo, prosím."
+      ],
+      "Please confirm your extra password in order to unregister your current lock.": [
+        "Potvrďte, prosím, vaše dodatočné heslo pre zrušenie vášho aktuálneho zámku."
+      ],
+      "Please confirm your extra password in order to update the auto-lock time.": [
+        "Pre aktualizovanie času automatického uzamknutia potvrďte svoje dodatočné heslo, prosím."
+      ],
+      "Please confirm your password": [
+        "Potvrďte vaše heslo, prosím"
+      ],
+      "Please confirm your password in order to auto-lock with biometrics.": [
+        "Potvrďte, prosím, vaše heslo pre automatické uzamknutie pomocou biometrie."
+      ],
+      "Please confirm your password in order to auto-lock with your password.": [
+        "Potvrďte, prosím, vaše heslo pre automatické uzamknutie pomocou vášho hesla."
+      ],
+      "Please confirm your password in order to unregister your current lock.": [
+        "Potvrďte, prosím, vaše heslo pre zrušenie aktuálneho zámku."
+      ],
+      "Please confirm your password in order to update the auto-lock time.": [
+        "Potvrďte, prosím, vaše heslo pre aktualizáciu času automatického uzamknutia."
+      ],
+      "Please confirm your PIN code in order to unregister your current lock.": [
+        "Potvrďte, prosím, svoj PIN kód pre zrušenie registrácie aktuálneho zámku."
+      ],
+      "Please confirm your PIN code to edit this setting.": [
+        "Potvrďte váš PIN kód na úpravu tohto nastavenia"
+      ],
+      "Please consider leaving a review.": [
+        "Zvážte napísanie recenzie, prosím."
+      ],
+      "Please do not close this window": [
+        "Nezatvárajte toto okno, prosím"
+      ],
+      "Please enter your current PIN code to continue": [
+        "Pre pokračovanie zadajte váš aktuálny PIN kód"
+      ],
+      "Please upgrade to have early access ${ PASS_APP_NAME } web app": [
+        "Aktualizujte, aby ste získali skorší prístup k webovej aplikácii ${ PASS_APP_NAME }"
+      ],
+      "Press Enter to copy": [
+        "Pre skopírovanie stlačte Enter"
+      ],
+      "Privacy is a big concern for us. Learn why ${ PASS_APP_NAME } is different.": [
+        "Súkromie berieme veľmi vážne. Prečítajte si, prečo je ${ PASS_APP_NAME } iný."
+      ],
+      "Protected by ${ PROTON_SENTINEL_LINK }, our advanced account protection program": [
+        "Chránené naším pokročilým programom na ochranu účtov ${ PROTON_SENTINEL_LINK }"
+      ],
+      "Reconnect": [
+        "Znovu pripojiť"
+      ],
+      "Reconnecting": [
+        "Opätovné pripájanie"
+      ],
+      "Registering extra password...": [
+        "Registrácia dodatočného hesla..."
+      ],
+      "Registering PIN lock failed": [
+        "Registrácia uzamknutia pomocou PIN zlyhala"
+      ],
+      "Removing all inactive secure links...": [
+        "Odstraňujem všetky neaktívne odkazy..."
+      ],
+      "Removing extra password...": [
+        "Odstraňovanie dodatočného hesla..."
+      ],
+      "Removing secure link...": [
+        "Odstraňujem bezpečný odkaz..."
+      ],
+      "Restoring items from trash": [
+        "Obnovenie položiek z koša"
+      ],
+      "Restoring trashed items...": [
+        "Obnovovanie položiek z koša..."
+      ],
+      "Secure links": [
+        "Bezpečné odkazy"
+      ],
+      "Select destination vault": [
+        "Vyberte cieľový trezor"
+      ],
+      "Select vault to share": [
+        "Vyberte trezor na zdieľanie"
+      ],
+      "Select where you want your imported vault(s) to be saved.": [
+        "Vyberte si, kde chcete uložiť vaše importované trezory."
+      ],
+      "Selected items permanently deleted": [
+        "Vybrané položky boli natrvalo odstránené"
+      ],
+      "Selected items successfully moved to trash": [
+        "Vybrané položky boli úspešne presunuté do koša"
+      ],
+      "Selected items successfully restored from trash": [
+        "Vybrané položky boli úspešne obnovené z koša"
+      ],
+      "Servers are unreachable. Please try again in a few minutes": [
+        "Servery sú nedostupné. Skúste to prosím o pár minút"
+      ],
+      "Session timed out": [
+        "Relácia vypršala"
+      ],
+      "Set by your organization": [
+        "Nastavené vašou organizáciou"
+      ],
+      "Settings successfully updated": [
+        "Nastavenia boli úspešne aktualizované"
+      ],
+      "Share your logins, secure notes, with up to 10 people": [
+        "Zdieľajte vaše prihlasovacie údaje, zabezpečené poznámky až s 10 ľuďmi"
+      ],
+      "Sign in to your account": [
+        "Prihláste sa do svojho účtu"
+      ],
+      "Signing you in": [
+        "Prihlasujeme vás"
+      ],
+      "Successfully exported all your items": [
+        "Všetky položky boli úspešne exportované"
+      ],
+      "Successfully left the vault": [
+        "Úspešne ste opustili trezor"
+      ],
+      "Successfully synced all vaults": [
+        "Všetky trezory boli úspešne synchronizované"
+      ],
+      "Suggested": [
+        "Odporúčané"
+      ],
+      "Switch to another vault or create an item in this vault": [
+        "Prepnite sa do iného trezora alebo vytvorte položku v tomto trezore"
+      ],
+      "Syncing your vaults…": [
+        "Synchronizácia trezorov..."
+      ],
+      "Thank you, the problem has been reported": [
+        "Ďakujeme, problém bol nahlásený"
+      ],
+      "The export will only contain vaults that you own.": [
+        "Export bude obsahovať iba trezory, ktoré vlastníte."
+      ],
+      "The exported file will be encrypted using PGP and requires a strong passphrase.": [
+        "Exportovaný súbor bude šifrovaný pomocou PGP a vyžaduje silnú prístupovú frázu."
+      ],
+      "The exposed information was leaked from a third-party service. Your ${ BRAND_NAME } Account information remains secure and encrypted. ${ learnMoreLink }": [
+        "Informácie, ktoré boli zverejnené, unikli zo služby tretej strany. Vaše informácie o účte ${ BRAND_NAME } zostávajú zabezpečené a zašifrované. ${ learnMoreLink }"
+      ],
+      "The extra password will be required to use ${ PASS_APP_NAME }. It acts as an additional password on top of your ${ BRAND_NAME } password.": [
+        "Na použitie ${ PASS_APP_NAME } bude vyžadované dodatočné heslo. Funguje ako dodatočné heslo k vášmu heslu pre ${ BRAND_NAME }."
+      ],
+      "The following ${ result.ignored.length } item could not be imported:": [
+        "Nasledujúcu ${ result.ignored.length } položku nebolo možné importovať:",
+        "Nasledujúce ${ result.ignored.length } položky nebolo možné importovať:",
+        "Nasledujúcich ${ result.ignored.length } položiek nebolo možné importovať:",
+        "Nasledujúcich ${ result.ignored.length } položiek nebolo možné importovať:"
+      ],
+      "The secure link has been removed": [
+        "Bezpečný odkaz bol odstránený"
+      ],
+      "The text you're trying to paste is longer than the maximum allowed length of ${ maxLength } characters.": [
+        "Text, ktorý sa snažíte prilepiť, je dlhší ako maximálna povolená dĺžka ${ maxLength } znakov."
+      ],
+      "The user did not accept the invitation yet.": [
+        "Používateľ pozvánku zatiaľ neakceptoval."
+      ],
+      "This export will be unencrypted and anyone with access to your exported file will be able to see your passwords. For security, please delete it after you are done using it.": [
+        "Tento export bude nezašifrovaný a ktokoľvek s prístupom k vášmu exportovanému súboru uvidí vaše heslá. Z bezpečnostných dôvodov ho po skončení používania vymažte."
+      ],
+      "This option is currently not available on your device.": [
+        "Táto možnosť nie je vo vašom zariadení momentálne k dispozícii."
+      ],
+      "This setting is disabled on the organization level": [
+        "Toto nastavenie je vypnuté na úrovni organizácie"
+      ],
+      "This vault is not currently shared with anyone. Invite people to share it with others.": [
+        "Tento trezor zatiaľ nie je s nikým zdieľaný. Pozvite ľudí, s ktorými ho chcete zdieľať."
+      ],
+      "This version will be added to the history as the newest version.": [
+        "Táto verzia bude pridaná do histórie ako najnovšia verzia."
+      ],
+      "To migrate data from another password manager, go to the password manager, export your data, then upload it to ${ PASS_APP_NAME }. Once your data has been imported, delete the exported file.": [
+        "Ak chcete migrovať údaje z iného správcu hesiel, prejdite do správcu hesiel, exportujte svoje údaje a potom ich nahrajte do ${ PASS_APP_NAME }. Po importovaní údajov odstráňte exportovaný súbor."
+      ],
+      "To review your imported data, click on the Pass icon in your browser toolbar.": [
+        "Ak chcete skontrolovať importované údaje, kliknite na ikonu Pass v nástrojovom paneli prehliadača."
+      ],
+      "Try new ${ BRAND_NAME } features, updates and products before they are released to the public. This will reload the application": [
+        "Vyskúšajte nové ${ BRAND_NAME } funkcie, aktualizácie a produkty pred ich zverejnením. Týmto sa obnoví aplikácia"
+      ],
+      "Unable to copy to clipboard": [
+        "Nedá sa kopírovať do schránky"
+      ],
+      "Unlimited hide-my-email aliases": [
+        "Neobmedzený počet hide-my-email aliasov"
+      ],
+      "Unlock ${ PASS_SHORT_APP_NAME } with biometrics": [
+        "Odomknúť ${ PASS_SHORT_APP_NAME } pomocou biometrie"
+      ],
+      "Unlock ${ PASS_SHORT_APP_NAME } with your ${ BRAND_NAME } password": [
+        "Odomknúť ${ PASS_SHORT_APP_NAME } pomocou vášho hesla do ${ BRAND_NAME }"
+      ],
+      "Unlock ${ PASS_SHORT_APP_NAME } with your extra password": [
+        "Odomknúť ${ PASS_SHORT_APP_NAME } pomocou vášho dodatočného hesla"
+      ],
+      "Unlock with biometrics": [
+        "Odomknúť pomocou biometrie"
+      ],
+      "Unpinning item...": [
+        "Odopínanie položky..."
+      ],
+      "Unverified": [
+        "Neoverený"
+      ],
+      "Upgrade Now to Unlock Premium Features": [
+        "Inovujte teraz pre odomknutie prémiových funkcií"
+      ],
+      "Use vaults to share this item with others.": [
+        "Pomocou trezorov môžete túto položku zdieľať s ostatnými."
+      ],
+      "User's access removed": [
+        "Prístup používateľa bol odstránený"
+      ],
+      "User's access sucessfuly updated": [
+        "Prístup používateľa bol aktualizovaný"
+      ],
+      "username": [
+        "používateľské meno"
+      ],
+      "Vault \"${ payload.content.name }\" successfully deleted": [
+        "Trezor \"${ payload.content.name }\" bol úspešne odstránený"
+      ],
+      "Vault \"${ payload.share.content.name }\" successfully created": [
+        "Trezor \"${ payload.share.content.name }\" bol úspešne vytvorený"
+      ],
+      "Vault \"${ payload.share.content.name }\" successfully updated": [
+        "Trezor \"${ payload.share.content.name }\" bol úspešne aktualizovaný"
+      ],
+      "Vault \"${ share.content.name }\" was removed": [
+        "Trezor \"${ share.content.name }\" bol odstránený"
+      ],
+      "Verification code sent.": [
+        "Overovací kód bol odoslaný."
+      ],
+      "Viewer": [
+        "Čitateľ"
+      ],
+      "We are having trouble syncing data to your local storage. Please make sure you have sufficient disk space for ${ PASS_SHORT_APP_NAME } to work smoothly.": [
+        "Máme problém so synchronizáciou údajov do vášho lokálneho úložiska. Uistite sa, prosím, že máte dostatok miesta na disku pre správne fungovanie ${ PASS_SHORT_APP_NAME }."
+      ],
+      "We’ve sent a verification code to ${ email }. Please enter it below:": [
+        "Odoslali sme overovací kód na adresu ${ email }. Zadajte ho, prosím, nižšie:"
+      ],
+      "You are about to create:": [
+        "Chystáte sa vytvoriť:"
+      ],
+      "You can now use your ${ BRAND_NAME } password to access ${ PASS_SHORT_APP_NAME } offline": [
+        "Teraz môžete použiť svoje ${ BRAND_NAME } heslo na prístup k ${ PASS_SHORT_APP_NAME } offline"
+      ],
+      "You cannot change the mailboxes for this alias.": [
+        "Nemôžete zmeniť schránku pre tento alias."
+      ],
+      "You have ${ daysRemaining } day left to try these and other premium features.": [
+        "Na vyskúšanie týchto a mnohých ďalších prémiových funkcií vám zostáva ${ daysRemaining } deň.",
+        "Na vyskúšanie týchto a mnohých ďalších prémiových funkcií vám zostávajú ${ daysRemaining } dni",
+        "Na vyskúšanie týchto a mnohých ďalších prémiových funkcií vám zostáva ${ daysRemaining } dní",
+        "Na vyskúšanie týchto a mnohých ďalších prémiových funkcií vám zostáva ${ daysRemaining } dní"
+      ],
+      "You have exceeded the number of vaults included in your subscription. Items can only be moved to your first two vaults. To move items between all vaults upgrade your subscription.": [
+        "Prekročili ste počet trezorov zahrnutých vo vašom predplatnom. Položky je možné presunúť iba do vašich prvých dvoch trezorov. Pre presúvanie položiek medzi všetkými trezormi navýšte svoje predplatné."
+      ],
+      "You have exceeded the number of vaults included in your subscription. New items can only be created in your first two vaults. To create new items in all vaults upgrade your subscription.": [
+        "Prekročili ste počet trezorov zahrnutých vo vašom predplatnom. Nové položky je možné vytvárať len vo vašich prvých dvoch trezoroch. Pre vytvorenie položiek vo všetkých trezoroch navýšte svoje predplatné."
+      ],
+      "You have reached the limit of aliases you can create. Create an unlimited number of aliases when you upgrade your subscription.": [
+        "Dosiahli ste limit aliasov, ktoré môžete vytvoriť. Vytvorte neobmedzený počet aliasov po navýšení predplatného."
+      ],
+      "You have reached the limit of credit cards you can create. Create an unlimited number of credit cards when you upgrade your subscription.": [
+        "Dosiahli ste limit platobných kariet, ktoré môžete vytvoriť. Vytvorte neobmedzený počet platobných kariet po upgrade predplatného."
+      ],
+      "You have reached the limit of vaults you can create.": [
+        "Dosiahli ste limit trezorov, ktoré môžete vytvoriť."
+      ],
+      "You have reached the maximum allowed length of ${ maxLength } characters.": [
+        "Dosiahli ste maximálnu povolenú dĺžku ${ maxLength } znakov."
+      ],
+      "You will be logged out and need to log in again on all of your other devices.": [
+        "Dôjde k odhláseniu a budete sa musieť znova prihlásiť na všetkých ďalších zariadeniach."
+      ],
+      "You will be notified of data breaches for these email addresses.": [
+        "V prípade týchto emailových adries vám budú zasielané oznámenia o úniku údajov."
+      ],
+      "You will be notified of data breaches for this email address.": [
+        "Na túto emailovú adresu vám budú zasielané oznámenia o úniku údajov."
+      ],
+      "You will no longer be notified of data breaches for these email addresses.": [
+        "V prípade týchto emailových adries vám už nebudú zasielané oznámenia o úniku údajov."
+      ],
+      "You will no longer be notified of data breaches for this email address.": [
+        "Na túto emailovú adresu vám už nebudú zasielané oznámenia o úniku údajov."
+      ],
+      "You will use this PIN to unlock ${ PASS_APP_NAME } once it auto-locks after a period of inactivity.": [
+        "Tento PIN kód použijete na odomknutie aplikácie ${ PASS_APP_NAME } , keď sa po určitom čase nečinnosti automaticky uzamkne."
+      ],
+      "You're invited to a vault.": [
+        "Dostali ste pozvánku do trezora."
+      ],
+      "Your account is restricted because your organization has enforced two-factor authentication. Please enable two-factor authentication in your Account Settings or contact your administrator.": [
+        "Váš účet je obmedzený, pretože vaša organizácia vynútila dvojstupňové overenie. Povoľte dvojstupňové overenie v nastaveniach účtu alebo kontaktujte svojho správcu."
+      ],
+      "Your files will be encrypted and then saved": [
+        "Vaše súbory budú zašifrované a potom uložené"
+      ],
+      "Your information was found on ${ displayedDate }": [
+        "Vaše informácie boli nájdené dňa ${ displayedDate }"
+      ],
+      "Your organization requires you to secure your access to ${ PASS_APP_NAME }": [
+        "Vaša organizácia vyžaduje, aby ste zabezpečili svoj prístup k ${ PASS_APP_NAME }"
+      ]
+    },
+    "Label": {
+      "${ config.options.length } character": [
+        "${ config.options.length } znak",
+        "${ config.options.length } znakov",
+        "${ config.options.length } znaky",
+        "${ config.options.length } znakov"
+      ],
+      "${ config.options.wordCount } word": [
+        "${ config.options.wordCount } slovo",
+        "${ config.options.wordCount } slová",
+        "${ config.options.wordCount } slov",
+        "${ config.options.wordCount } slov"
+      ],
+      "${ days } day": [
+        "${ days } deň",
+        "${ days } dni",
+        "${ days } dní",
+        "${ days } dní"
+      ],
+      "${ hours } hour": [
+        "${ hours } hodiny",
+        "${ hours } hodiny",
+        "${ hours } hodín",
+        "${ hours } hodín"
+      ],
+      "${ minutes } minute": [
+        "${ minutes } minúta",
+        "${ minutes } minúty",
+        "${ minutes } minút",
+        "${ minutes } minút"
+      ],
+      "${ PASS_SHORT_APP_NAME } version": [
+        "Verzia ${ PASS_SHORT_APP_NAME }"
+      ],
+      "${ usageCount } login": [
+        "${ usageCount } prihlásenie",
+        "${ usageCount } prihlásenia",
+        "${ usageCount } prihlásení",
+        "${ usageCount } prihlásení"
+      ],
+      "1 hour": [
+        "1 hodine"
+      ],
+      "1 minute": [
+        "1 minúte"
+      ],
+      "10 minutes": [
+        "10 minútach"
+      ],
+      "14 days": [
+        "14 dní"
+      ],
+      "15 minutes": [
+        "15 minútach"
+      ],
+      "2 minutes": [
+        "2 minúty"
+      ],
+      "24 hours": [
+        "24 hodín"
+      ],
+      "2FA secret key (TOTP)": [
+        "2FA tajný kľúč (TOTP)"
+      ],
+      "2FA token (TOTP)": [
+        "2FA token (TOTP)"
+      ],
+      "30 days": [
+        "30 dní"
+      ],
+      "30 minutes": [
+        "30 minútach"
+      ],
+      "30 seconds": [
+        "30 sekundách"
+      ],
+      "5 minutes": [
+        "5 minútach"
+      ],
+      "7 days": [
+        "7 dní"
+      ],
+      "A-Z": [
+        "A-Z"
+      ],
+      "Account": [
+        "Účet"
+      ],
+      "Add section": [
+        "Pridať sekciu"
+      ],
+      "Additional details": [
+        "Ďalšie podrobnosti"
+      ],
+      "Address details": [
+        "Detaily adresy"
+      ],
+      "Alias": [
+        "Alias"
+      ],
+      "Alias address": [
+        "Adresa aliasu"
+      ],
+      "Aliases": [
+        "Aliasy"
+      ],
+      "All": [
+        "Všetko"
+      ],
+      "All vaults": [
+        "Všetky trezory"
+      ],
+      "Alphabetical": [
+        "Abecedne"
+      ],
+      "Application logs": [
+        "Záznamy aplikácie"
+      ],
+      "Auto-lock after": [
+        "Automatické uzamknutie po"
+      ],
+      "Beta Access": [
+        "Beta prístup"
+      ],
+      "Biometrics": [
+        "Biometria"
+      ],
+      "Birthdate": [
+        "Dátum narodenia"
+      ],
+      "Capital letters (A-Z)": [
+        "Veľké písmená (A-Z)"
+      ],
+      "Capitalise": [
+        "Veľké písmená"
+      ],
+      "Card": [
+        "Karta"
+      ],
+      "Card number": [
+        "Číslo karty"
+      ],
+      "Cards": [
+        "Karty"
+      ],
+      "City": [
+        "Mesto"
+      ],
+      "Code": [
+        "Kód"
+      ],
+      "Company": [
+        "Spoločnosť"
+      ],
+      "Confirm vault name": [
+        "Potvrdiť názov trezoru"
+      ],
+      "Contact details": [
+        "Kontaktné údaje"
+      ],
+      "Copy": [
+        "Kopírovať"
+      ],
+      "Country or Region": [
+        "Krajina alebo región"
+      ],
+      "County": [
+        "Okres"
+      ],
+      "Create a credit card": [
+        "Vytvoriť platobnú kartu"
+      ],
+      "Create a hide-my-email alias": [
+        "Vytvoriť hide-my-email alias"
+      ],
+      "Create a login": [
+        "Vytvoriť prihlásenie"
+      ],
+      "Create an encrypted note": [
+        "Vytvoriť zašifrovanú poznámku"
+      ],
+      "Create an Identity": [
+        "Vytvoriť identitu"
+      ],
+      "Create lock": [
+        "Vytvoriť zámok"
+      ],
+      "Create new vault": [
+        "Vytvoriť nový trezor"
+      ],
+      "Created": [
+        "Vytvorené"
+      ],
+      "Created at": [
+        "Vytvorené"
+      ],
+      "Custom hidden field": [
+        "Vlastné ukryté pole"
+      ],
+      "Custom text field": [
+        "Vlastné textové pole"
+      ],
+      "Date": [
+        "Dátum"
+      ],
+      "Device": [
+        "Zariadenie"
+      ],
+      "Display": [
+        "Zobraziť"
+      ],
+      "Domain": [
+        "Doména"
+      ],
+      "Download logs": [
+        "Stiahnuť záznamy"
+      ],
+      "Email": [
+        "Email"
+      ],
+      "Email (alias)": [
+        "Email (alias)"
+      ],
+      "Email (new alias)": [
+        "Email (nový alias)"
+      ],
+      "Email address": [
+        "Emailová adresa"
+      ],
+      "Empty trash": [
+        "Vyprázdniť kôš"
+      ],
+      "Enable offline access": [
+        "Povoliť offline prístup"
+      ],
+      "Expiration date": [
+        "Koniec platnosti "
+      ],
+      "Expired": [
+        "Vypršal"
+      ],
+      "Expired link": [
+        "Odkaz s vypršanou platnosťou"
+      ],
+      "Export": [
+        "Export"
+      ],
+      "Extra password": [
+        "Dodatočné heslo"
+      ],
+      "Facebook account": [
+        "Facebookový účet"
+      ],
+      "Field name": [
+        "Názov poľa"
+      ],
+      "File format": [
+        "Formát súboru"
+      ],
+      "First name": [
+        "Krstné meno"
+      ],
+      "Floor, apartment, building": [
+        "Poschodie, byt, budova"
+      ],
+      "Forwards to": [
+        "Preposielať na"
+      ],
+      "Free forever": [
+        "Navždy zadarmo"
+      ],
+      "Full Name": [
+        "Celé meno"
+      ],
+      "Gender": [
+        "Pohlavie"
+      ],
+      "General": [
+        "Všeobecné"
+      ],
+      "Generate a secure link for this item": [
+        "Vygenerovať bezpečný odkaz na túto položku"
+      ],
+      "Generic CSV": [
+        "Všeobecné CSV"
+      ],
+      "Grant": [
+        "Povoliť"
+      ],
+      "Hidden": [
+        "Skrytý"
+      ],
+      "Hide password": [
+        "Skryť heslo"
+      ],
+      "https://example.com": [
+        "https://example.com"
+      ],
+      "ID Card": [
+        "ID karta"
+      ],
+      "ID Card number": [
+        "Číslo občianskeho preukazu"
+      ],
+      "Identities": [
+        "Identity"
+      ],
+      "Identity": [
+        "Identita"
+      ],
+      "Import": [
+        "Import"
+      ],
+      "Import passwords": [
+        "Importovať heslá"
+      ],
+      "Imported from : ": [
+        "Importované z: "
+      ],
+      "Imported on : ": [
+        "Importované: "
+      ],
+      "Include numbers": [
+        "Vrátane čísiel"
+      ],
+      "Include numbers (0-9)": [
+        "Vrátane čísiel (0-9)"
+      ],
+      "Instagram handle": [
+        "Používateľské meno v Instagrame"
+      ],
+      "Invitations": [
+        "Pozvánky"
+      ],
+      "Item ID": [
+        "ID položky"
+      ],
+      "Job title": [
+        "Názov pracovnej pozície"
+      ],
+      "Key": [
+        "Kľúč"
+      ],
+      "Keyboard shortcut: ${ shortcut }": [
+        "Klávesová skratka: ${ shortcut }"
+      ],
+      "Language": [
+        "Jazyk"
+      ],
+      "Last 2 weeks": [
+        "Posledné 2 týždne"
+      ],
+      "Last month": [
+        "Posledný mesiac"
+      ],
+      "Last name": [
+        "Priezvisko"
+      ],
+      "Last updated": [
+        "Posledná aktualizácia"
+      ],
+      "Last week": [
+        "Posledný týždeň"
+      ],
+      "Latest import": [
+        "Posledný import"
+      ],
+      "Learn more": [
+        "Zistiť viac"
+      ],
+      "License": [
+        "Licencia"
+      ],
+      "License number": [
+        "Licenčné číslo"
+      ],
+      "LinkedIn account": [
+        "Účet LinkedIn"
+      ],
+      "Login": [
+        "Prihlásenie"
+      ],
+      "Logins": [
+        "Prihlásenia"
+      ],
+      "Make all admins": [
+        "Urobiť všetkých správcami"
+      ],
+      "Make all editors": [
+        "Urobiť všetkých editormi"
+      ],
+      "Make all viewers": [
+        "Urobiť všetkých čitateľmi"
+      ],
+      "max views reached": [
+        "dosiahnutý max. počet zobrazení"
+      ],
+      "Members": [
+        "Členovia"
+      ],
+      "Middle name": [
+        "Stredné meno"
+      ],
+      "Modified": [
+        "Upravené"
+      ],
+      "More than a month": [
+        "Viac než mesiac"
+      ],
+      "Most recent": [
+        "Najnovšie"
+      ],
+      "Name": [
+        "Meno"
+      ],
+      "Name on card": [
+        "Meno na karte"
+      ],
+      "Need help ?": [
+        "Potrebujete pomôcť?"
+      ],
+      "New vault": [
+        "Nový trezor"
+      ],
+      "New-Old": [
+        "Nové-Staré"
+      ],
+      "Newest to oldest": [
+        "Od najnovšieho po najstaršie"
+      ],
+      "No history": [
+        "Žiadna história"
+      ],
+      "None": [
+        "Žiadny"
+      ],
+      "Note": [
+        "Poznámka"
+      ],
+      "Notes": [
+        "Poznámky"
+      ],
+      "Offline mode": [
+        "Offline režim"
+      ],
+      "Old-New": [
+        "Staré-Nové"
+      ],
+      "Oldest to newest": [
+        "Od najstaršieho po najnovšie"
+      ],
+      "Open-source password manager for effortless protection.": [
+        "Open source správca hesiel pre jednoduchú ochranu."
+      ],
+      "Organization": [
+        "Organizácia"
+      ],
+      "Passkey": [
+        "Prístupový kľúč"
+      ],
+      "Passphrase": [
+        "Prístupová fráza"
+      ],
+      "Passport": [
+        "Cestovný pas"
+      ],
+      "Passport number": [
+        "Číslo pasu"
+      ],
+      "Password": [
+        "Heslo"
+      ],
+      "Password history": [
+        "História hesla"
+      ],
+      "Personal details": [
+        "Osobné údaje"
+      ],
+      "Personal website": [
+        "Osobná webstránka"
+      ],
+      "PGP-encrypted JSON (recommended)": [
+        "PGP-šifrovaný JSON (odporúča sa)"
+      ],
+      "Phone number": [
+        "Telefónne číslo"
+      ],
+      "PIN": [
+        "PIN"
+      ],
+      "PIN code": [
+        "PIN kód"
+      ],
+      "Prefix": [
+        "Predpona"
+      ],
+      "Protect ${ PASS_APP_NAME } with an extra password": [
+        "Chráňte ${ PASS_APP_NAME } ďalším heslom"
+      ],
+      "Rate us": [
+        "Ohodnoťte nás"
+      ],
+      "Recent": [
+        "Nedávne"
+      ],
+      "Reddit handle": [
+        "Používateľské meno Reddit"
+      ],
+      "Remove link": [
+        "Odstrániť odkaz"
+      ],
+      "Report a problem": [
+        "Nahlásiť problém"
+      ],
+      "Restore all items": [
+        "Obnoviť všetky položky"
+      ],
+      "Reveal password": [
+        "Odkryť heslo"
+      ],
+      "Securely store, share and auto-login your accounts with ${ PASS_APP_NAME }, using end-to-end encryption trusted by millions.": [
+        "Bezpečne ukladajte, zdieľajte a automaticky sa prihlasujte do svojich účtov pomocou ${ PASS_APP_NAME } s využitím end-to-end šifrovania, ktorému dôverujú milióny používateľov."
+      ],
+      "Security": [
+        "Zabezpečenie"
+      ],
+      "Security code": [
+        "Bezpečnostný kód"
+      ],
+      "Select an email address": [
+        "Vyberte emailovú adresu"
+      ],
+      "Select preferred language": [
+        "Vyberte preferovaný jazyk"
+      ],
+      "Select your password manager": [
+        "Vyberte si vášho správcu hesiel"
+      ],
+      "Selected": [
+        "Vybrané"
+      ],
+      "Share": [
+        "Zdieľať"
+      ],
+      "Share this vault or create a new vault": [
+        "Zdieľajte tento trezor alebo vytvorte nový trezor"
+      ],
+      "Shared link": [
+        "Zdieľaný odkaz"
+      ],
+      "Show website favicons": [
+        "Zobraziť ikony webových stránok"
+      ],
+      "Social security": [
+        "Rodné číslo (číslo sociálneho poistenia)"
+      ],
+      "Social security number": [
+        "Číslo poistenca sociálnej poisťovne"
+      ],
+      "Special characters (!&*)": [
+        "Špeciálne znaky (!&*)"
+      ],
+      "State or province": [
+        "Štát alebo provincia"
+      ],
+      "Status": [
+        "Stav"
+      ],
+      "Street address": [
+        "Ulica a č."
+      ],
+      "Street address, P.O. box": [
+        "Ulica, P.O. Box"
+      ],
+      "Strong": [
+        "Silné"
+      ],
+      "Suffix": [
+        "Prípona"
+      ],
+      "Support": [
+        "Podpora"
+      ],
+      "Tax number": [
+        "Daňové identifikačné číslo"
+      ],
+      "Text": [
+        "Text"
+      ],
+      "The item's vault is currently shared with ${ targetMembers } person": [
+        "Trezor položky je momentálne zdieľaný s ${ targetMembers } osobou",
+        "Trezor položky je momentálne zdieľaný s ${ targetMembers } osobami",
+        "Trezor položky je momentálne zdieľaný s ${ targetMembers } osobami",
+        "Trezor položky je momentálne zdieľaný s ${ targetMembers } osobami"
+      ],
+      "The URL has been copied to the clipboard": [
+        "URL adresa bola skopírovaná do schránky"
+      ],
+      "This item will remain accessible until ${ remaining }": [
+        "Táto položka zostane prístupná do ${ remaining }"
+      ],
+      "Title": [
+        "Názov"
+      ],
+      "Today": [
+        "Dnes"
+      ],
+      "Total imported items : ": [
+        "Celkový počet importovaných položiek: "
+      ],
+      "Total items : ": [
+        "Celkový počet položiek: "
+      ],
+      "TOTP": [
+        "TOTP"
+      ],
+      "Trash": [
+        "Kôš"
+      ],
+      "Type": [
+        "Typ"
+      ],
+      "Unlock with": [
+        "Odomknúť pomocou"
+      ],
+      "Unnamed Credit Card": [
+        "Nepomenovaná platobná karta"
+      ],
+      "Unnamed identity": [
+        "Nepomenovaná identita"
+      ],
+      "Unnamed item": [
+        "Nepomenovaná položka"
+      ],
+      "Unnamed note": [
+        "Nepomenovaná poznámka"
+      ],
+      "Untitled": [
+        "Bez názvu"
+      ],
+      "Update": [
+        "Aktualizovať"
+      ],
+      "Used in": [
+        "Použité v"
+      ],
+      "Username": [
+        "Používateľské meno"
+      ],
+      "Vault ID": [
+        "ID trezoru"
+      ],
+      "Vaults": [
+        "Trezory"
+      ],
+      "View details": [
+        "Zobraziť podrobnosti"
+      ],
+      "View logs": [
+        "Zobraziť záznamy"
+      ],
+      "Vulnerable": [
+        "Zraniteľné"
+      ],
+      "Weak": [
+        "Slabé"
+      ],
+      "Website": [
+        "Webová stránka"
+      ],
+      "Websites": [
+        "Webové stránky"
+      ],
+      "Work details": [
+        "Podrobnosti o pracovnej činnosti"
+      ],
+      "Work email": [
+        "Pracovný email"
+      ],
+      "Work phone number": [
+        "Pracovné telefónne číslo"
+      ],
+      "X handle": [
+        "Používateľské meno X"
+      ],
+      "Yahoo account": [
+        "Yahoo účet"
+      ],
+      "You are about to create": [
+        "Chystáte sa vytvoriť"
+      ],
+      "ZIP or Postal code": [
+        "PSČ"
+      ]
+    },
+    "Link": {
+      "Learn more": [
+        "Zistiť viac"
+      ],
+      "stay safer online": [
+        "zostať bezpečnejší online"
+      ]
+    },
+    "Log preference": {
+      "Enable ${ reason }": [
+        "Povoliť ${ reason }"
+      ]
+    },
+    "Message": {
+      "${ count } item": [
+        "${ count } položka",
+        "${ count } položky",
+        "${ count } položiek",
+        "${ count } položiek"
+      ],
+      "You selected ${ semiboldText } in this vault": [
+        "Vybrali ste ${ semiboldText } v tomto trezore"
+      ]
+    },
+    "new_plans: feature": {
+      "Require 2FA for organization": [
+        "Vyžadovať 2FA pre organizáciu"
+      ],
+      "SSO integration (coming soon)": [
+        "SSO integrácia (už čoskoro)"
+      ]
+    },
+    "Notification": {
+      "${ reason } has been disabled": [
+        "${ reason } bol zakázaný"
+      ],
+      "${ reason } has been enabled": [
+        "${ reason } bol povolený"
+      ]
+    },
+    "Option": {
+      "Commas": [
+        "Čiarky"
+      ],
+      "Hyphens": [
+        "Pomlčky"
+      ],
+      "Memorable Password": [
+        "Zapamätateľné heslo"
+      ],
+      "Numbers": [
+        "Čísla"
+      ],
+      "Numbers and Symbols": [
+        "Čísla a symboly"
+      ],
+      "Periods": [
+        "Bodky"
+      ],
+      "Random Password": [
+        "Náhodné heslo"
+      ],
+      "Spaces": [
+        "Medzery"
+      ],
+      "Underscores": [
+        "Podčiarkovníky"
+      ]
+    },
+    "Placeholder": {
+      "Add 2FA secret key": [
+        "Pridať 2FA tajný kľúč"
+      ],
+      "Add hidden text": [
+        "Pridať skrytý text"
+      ],
+      "Add note": [
+        "Pridať poznámku"
+      ],
+      "Add text": [
+        "Pridať text"
+      ],
+      "Email address": [
+        "Emailová adresa"
+      ],
+      "Enter a note...": [
+        "Zadajte poznámku..."
+      ],
+      "Enter a prefix": [
+        "Zadajte predponu"
+      ],
+      "Enter email": [
+        "Zadajte email"
+      ],
+      "Enter email or username": [
+        "Zadajte email alebo používateľské meno"
+      ],
+      "Enter password": [
+        "Zadajte heslo"
+      ],
+      "Enter username": [
+        "Zadajte meno používateľa"
+      ],
+      "Full Name": [
+        "Celé meno"
+      ],
+      "me@example.com": [
+        "meno@priklad.sk"
+      ],
+      "MM/YY": [
+        "MM/RR"
+      ],
+      "Other": [
+        "Iné"
+      ],
+      "Password": [
+        "Heslo"
+      ],
+      "Pick a vault": [
+        "Vyberte trezor"
+      ],
+      "Please describe the problem and include any error messages": [
+        "Opíšte prosím problém a uveďte akékoľvek chybové správy"
+      ],
+      "Retype \"${ vaultName }\" to confirm deletion": [
+        "Opätovným zadaním \"${ vaultName }\" potvrdíte odstránenie"
+      ],
+      "Search ${ pluralItemType } in ${ vaultName }": [
+        "Hľadať ${ pluralItemType } v ${ vaultName }"
+      ],
+      "Search ${ pluralItemType } in all vaults": [
+        "Hľadať ${ pluralItemType } vo všetkých trezoroch"
+      ],
+      "Search in ${ vaultName }": [
+        "Hľadať v ${ vaultName }"
+      ],
+      "Search in all vaults": [
+        "Hľadať vo všetkých trezoroch"
+      ],
+      "Search in Trash": [
+        "Hľadať v koši"
+      ],
+      "Select a suffix": [
+        "Vyberte príponu"
+      ],
+      "Shared vault": [
+        "Zdieľaný trezor"
+      ],
+      "Unknown origin": [
+        "Neznámy pôvod"
+      ],
+      "Untitled": [
+        "Bez názvu"
+      ],
+      "Used on ${ url }": [
+        "Používa sa na ${ url }"
+      ],
+      "Write your note": [
+        "Napíšte si poznámku"
+      ]
+    },
+    "Security Center - Info": {
+      "${ name } and ${ remainingCount } other potential leaks detected. Turn on ${ DARK_WEB_MONITORING_NAME } to view details. ${ link }": [
+        "${ name } a ${ remainingCount } ďalšie zistené potenciálne úniky. Ak chcete zobraziť podrobnosti, zapnite ${ DARK_WEB_MONITORING_NAME }. ${ link }"
+      ],
+      "${ name } and 1 other potential leak detected. Turn on ${ DARK_WEB_MONITORING_NAME } to view details. ${ link }": [
+        "${ name } a 1 ďalší zistený potenciálny únik. Ak chcete zobraziť podrobnosti, zapnite ${ DARK_WEB_MONITORING_NAME }. ${ link }"
+      ],
+      "A potential ${ name } leak was detected. Turn on ${ DARK_WEB_MONITORING_NAME } to view details. ${ link }": [
+        "Bol zistený potenciálny únik ${ name }. Ak chcete zobraziť podrobnosti, zapnite ${ DARK_WEB_MONITORING_NAME }. ${ link }"
+      ],
+      "Your information was found in at least one data leak. Turn on ${ DARK_WEB_MONITORING_NAME } to view details. ${ link }": [
+        "Vaše informácie sa našli v najmenej jednom úniku údajov. Ak chcete zobraziť podrobnosti, zapnite ${ DARK_WEB_MONITORING_NAME }. ${ link }"
+      ]
+    },
+    "Success": {
+      "Vaults can’t contain more than ${ vault.targetMaxMembers } user.": [
+        "Trezory nemôžu obsahovať viac než ${ vault.targetMaxMembers } používateľa.",
+        "Trezory nemôžu obsahovať viac než ${ vault.targetMaxMembers } používateľov.",
+        "Trezory nemôžu obsahovať viac než ${ vault.targetMaxMembers } používateľov.",
+        "Trezory nemôžu obsahovať viac než ${ vault.targetMaxMembers } používateľov."
+      ]
+    },
+    "Title": {
+      "${ BRAND_NAME } addresses": [
+        "${ BRAND_NAME } adresy"
+      ],
+      "${ PASS_SHORT_APP_NAME } Monitor": [
+        "${ PASS_SHORT_APP_NAME } Monitor"
+      ],
+      "Account protection": [
+        "Ochrana účtu"
+      ],
+      "Auto-lock update": [
+        "Aktualizácia automatického uzamknutia"
+      ],
+      "Breach detected": [
+        "Zistený únik"
+      ],
+      "Breaches": [
+        "Úniky informácií"
+      ],
+      "Breaches detected for": [
+        "Zistený únik informácií pre"
+      ],
+      "Confirm extra password": [
+        "Potvrďte dodatočné heslo"
+      ],
+      "Confirm PIN code": [
+        "Potvrdiť PIN kód"
+      ],
+      "Confirm your email": [
+        "Potvrďte váš email"
+      ],
+      "Create a vault": [
+        "Vytvoriť trezor"
+      ],
+      "Create PIN code": [
+        "Vytvoriť PIN kód"
+      ],
+      "Created": [
+        "Vytvorené"
+      ],
+      "Current version": [
+        "Súčasná verzia"
+      ],
+      "Custom addresses": [
+        "Vlastné adresy"
+      ],
+      "Custom email monitoring": [
+        "Monitorovanie vlastného emailu"
+      ],
+      "Custom emails": [
+        "Vlastné emaily"
+      ],
+      "Dark Web Monitoring": [
+        "Monitorovanie Dark Webu"
+      ],
+      "Delete vault \"${ vaultName }\" ?": [
+        "Odstrániť trezor \"${ vaultName }\"?"
+      ],
+      "Details": [
+        "Podrobnosti"
+      ],
+      "Discard changes?": [
+        "Zrušiť zmeny?"
+      ],
+      "Enjoying ${ PASS_APP_NAME }?": [
+        "Páči sa vám ${ PASS_APP_NAME }?"
+      ],
+      "Enter your extra password": [
+        "Zadajte vaše dodatočné heslo"
+      ],
+      "Enter your password": [
+        "Zadajte Vaše heslo"
+      ],
+      "Enter your PIN": [
+        "Zadejte Váš PIN kód"
+      ],
+      "Excluded items": [
+        "Vylúčené položky"
+      ],
+      "Get Started": [
+        "Začíname"
+      ],
+      "Grant permissions": [
+        "Udeliť oprávnenia"
+      ],
+      "Hide-my-email aliases": [
+        "Hide-my-email aliasy"
+      ],
+      "History": [
+        "História"
+      ],
+      "Import - ${ date }": [
+        "Importované - ${ date }"
+      ],
+      "Import to vault(s)": [
+        "Importovať do trezoru(ov)"
+      ],
+      "Import your data": [
+        "Import údajov"
+      ],
+      "Inactive 2FA": [
+        "Neaktívne 2FA"
+      ],
+      "Install extension": [
+        "Inštalovať rozšírenie"
+      ],
+      "Last autofill": [
+        "Posledné automatické vyplnenie"
+      ],
+      "Last modified": [
+        "Posledná zmena"
+      ],
+      "Leave vault ?": [
+        "Opustiť trezor ?"
+      ],
+      "Loading breaches...": [
+        "Načítavanie únikov..."
+      ],
+      "Low disk space": [
+        "Málo miesta na disku"
+      ],
+      "Mark as resolved?": [
+        "Označiť ako vyriešené?"
+      ],
+      "Member limit": [
+        "Limit počtu členov"
+      ],
+      "Members": [
+        "Členovia"
+      ],
+      "Modified": [
+        "Upravené"
+      ],
+      "Move all items to \"${ vaultName }\"?": [
+        "Presunúť všetky položky do trezora \"${ vaultName }\"?"
+      ],
+      "Move item to \"${ vaultName }\"?": [
+        "Presunúť položku do trezora \"${ vaultName }\"?"
+      ],
+      "Move items to \"${ vaultName }\"?": [
+        "Presunúť položky do trezora \"${ vaultName }\"?"
+      ],
+      "No excluded items": [
+        "Žiadne vylúčené položky"
+      ],
+      "No inactive 2FAs": [
+        "Žiadne neaktívne 2FA"
+      ],
+      "No insecure passwords": [
+        "Žiadne nezabezpečené heslá"
+      ],
+      "No items selected": [
+        "Žiadne vybrané položky"
+      ],
+      "No reused passwords": [
+        "Žiadne opakovane použité heslá"
+      ],
+      "No shared secure links": [
+        "Žiadne zdieľané bezpečné odkazy"
+      ],
+      "Our welcome gift to you": [
+        "Náš uvítací darček pre vás"
+      ],
+      "Passkey": [
+        "Prístupový kľúč"
+      ],
+      "Password Health": [
+        "Stav hesla"
+      ],
+      "Pause monitoring?": [
+        "Pozastaviť monitorovanie?"
+      ],
+      "Pending access to the shared data": [
+        "Čaká sa na prístup k zdieľaným údajom"
+      ],
+      "Permanently remove all items ?": [
+        "Trvalo odstrániť všetky položky ?"
+      ],
+      "Pinned (${ items.length })": [
+        "Pripnuté (${ items.length })"
+      ],
+      "Recommended actions": [
+        "Odporúčané opatrenia"
+      ],
+      "Remove email address?": [
+        "Odstrániť emailovú adresu?"
+      ],
+      "Remove extra password": [
+        "Odstrániť dodatočné heslo"
+      ],
+      "Remove secure link?": [
+        "Odstrániť bezpečný odkaz?"
+      ],
+      "Resolved breaches": [
+        "Vyriešené úniky"
+      ],
+      "Restore this version?": [
+        "Obnoviť túto verziu?"
+      ],
+      "Resume monitoring?": [
+        "Pokračovať v monitorovaní?"
+      ],
+      "Reused ${ count } time": [
+        "Použité ${ count }-krát",
+        "Použité ${ count }-krát",
+        "Použité ${ count }-krát",
+        "Použité ${ count }-krát"
+      ],
+      "Reused passwords": [
+        "Opakovane použité heslá"
+      ],
+      "Review and share": [
+        "Skontrolovať a zdieľať"
+      ],
+      "Secure your data": [
+        "Zabezpečte svoje údaje"
+      ],
+      "Set access level": [
+        "Nastavte úroveň prístupu"
+      ],
+      "Set extra password": [
+        "Nastaviť dodatočné heslo"
+      ],
+      "Set up 2FA for better security": [
+        "Nastavte 2FA pre lepšiu bezpečnosť"
+      ],
+      "Set up 2FA for more security": [
+        "Nastavte 2FA pre zvýšenie bezpečnosti"
+      ],
+      "Settings": [
+        "Nastavenia"
+      ],
+      "Share vaults with your team": [
+        "Zdieľať trezory so svojím tímom"
+      ],
+      "Share with": [
+        "Zdieľať s"
+      ],
+      "Stay safer online": [
+        "Zostaňte v bezpečí online"
+      ],
+      "Suggestions": [
+        "Návrhy"
+      ],
+      "Transfer ownership": [
+        "Previesť vlastníctvo"
+      ],
+      "Trash empty": [
+        "Kôš je prázdny"
+      ],
+      "Unlock ${ brandNameJSX }": [
+        "Odomknúť ${ brandNameJSX }"
+      ],
+      "Update available": [
+        "K dispozícii je aktualizácia"
+      ],
+      "Upgrade to Unlock Premium Features": [
+        "Inovujte pre odomknutie prémiových funkcií"
+      ],
+      "Vault": [
+        "Trezor"
+      ],
+      "Vault shared with you": [
+        "Trezor zdieľaný s vami"
+      ],
+      "Want to learn more?": [
+        "Chcete sa dozvedieť viac?"
+      ],
+      "Weak password": [
+        "Slabé heslo"
+      ],
+      "Weak passwords": [
+        "Slabé heslá"
+      ],
+      "Welcome to ${ brandNameJSX }": [
+        "Víta vás ${ brandNameJSX }"
+      ],
+      "What is an alias?": [
+        "Čo je alias?"
+      ],
+      "What is the dark web?": [
+        "Čo je dark web?"
+      ],
+      "Why ${ PASS_APP_NAME }?": [
+        "Prečo ${ PASS_APP_NAME }?"
+      ],
+      "Your exposed information": [
+        "Vaše odhalené informácie"
+      ],
+      "Your vault is empty": [
+        "Váš trezor je prázdny"
+      ],
+      "Your welcome gift": [
+        "Váš darček na privítanie"
+      ]
+    },
+    "Validation": {
+      "Duplicated URL": [
+        "Duplicitná URL"
+      ],
+      "Email address is invalid": [
+        "Emailová adresa je neplatná"
+      ],
+      "Field name is required": [
+        "Názov poľa je povinný"
+      ],
+      "OTP secret or URI is invalid": [
+        "Neplatný OTP tajný kľúč alebo URI"
+      ],
+      "OTP secret or URI required": [
+        "Vyžaduje sa OTP tajný kľúč alebo URI"
+      ],
+      "Section name cannot be empty": [
+        "Názov sekcie nemôže byť prázdny"
+      ],
+      "Url already exists": [
+        "URL už existuje"
+      ],
+      "URL cannot be empty": [
+        "URL adresa nemôže byť prázdna."
+      ],
+      "Url is invalid": [
+        "URL je neplatná"
+      ],
+      "URL is invalid": [
+        "URL je neplatná"
+      ]
+    },
+    "Warning": {
+      "${ BRAND_NAME } password is required": [
+        "${ BRAND_NAME } heslo je povinné"
+      ],
+      "A description of the problem is required": [
+        "Vyžaduje sa opis problému"
+      ],
+      "Alias \"${ name }\" is currently used in login item \"${ relatedLoginName }\". You will also stop receiving emails sent to \"${ aliasEmail }\"": [
+        "Alias \"${ name }\" sa momentálne používa v prihlasovacej položke \"${ relatedLoginName }\". Prestanete tiež prijímať emaily odoslané na \"${ aliasEmail }\""
+      ],
+      "All your trashed items will be permanently deleted. You cannot undo this action.": [
+        "Všetky položky v koši budú natrvalo odstránené. Túto akciu nie je možné vrátiť späť."
+      ],
+      "An error occured while exporting your data": [
+        "Pri exporte údajov sa vyskytla chyba"
+      ],
+      "At least one email address is required": [
+        "Vyžaduje sa aspoň jedna emailová adresa"
+      ],
+      "Cannot retrieve mailboxes for this alias right now": [
+        "Momentálne nie je možné načítať poštové schránky pre tento alias"
+      ],
+      "Caution: You won’t be able to access your ${ PASS_APP_NAME } account if you lose this password.": [
+        "Upozornenie: Ak toto heslo stratíte, nebudete mať prístup k svojmu kontu ${ PASS_APP_NAME }."
+      ],
+      "Could not create vault \"${ vaultName }\"": [
+        "Nepodarilo sa vytvoriť trezor \"${ vaultName }\""
+      ],
+      "Could not send invitations to the following addresses :": [
+        "Nepodarilo sa odoslať pozvánky na nasledujúce adresy:"
+      ],
+      "Duplicate email addresses.": [
+        "Duplicitné emailové adresy."
+      ],
+      "Email is required": [
+        "Email je povinný"
+      ],
+      "Empty note": [
+        "Prázdna poznámka"
+      ],
+      "Expiration Date is not in the format MM/YY": [
+        "Koniec platnosti nie je vo formáte MM/RR"
+      ],
+      "Extra password cannot be empty": [
+        "Dodatočné heslo nemôže byť prázdne"
+      ],
+      "Extra password is required": [
+        "Dodatočné heslo je povinné"
+      ],
+      "Extra password should have at least 8 characters": [
+        "Dodatočné heslo by malo mať aspoň 8 znakov"
+      ],
+      "Failed to load breaches.": [
+        "Načítanie únikov zlyhalo."
+      ],
+      "Invalid alias prefix": [
+        "Neplatná predpona aliasu"
+      ],
+      "Invalid code": [
+        "Neplatný kód"
+      ],
+      "Invalid email": [
+        "Neplatný email"
+      ],
+      "Invalid email addresses.": [
+        "Neplatné emailové adresy."
+      ],
+      "Inviting email addresses outside organization is not allowed.": [
+        "Pozývanie emailových adries nepatriacich do organizácie nie je povolené."
+      ],
+      "item was imported without custom fields": [
+        "Položka bola importovaná bez vlastných polí"
+      ],
+      "Maximum length is ${ maxLength } character": [
+        "Maximálna dĺžka je ${ maxLength } znak",
+        "Maximálna dĺžka sú ${ maxLength } znaky",
+        "Maximálna dĺžka je ${ maxLength } znakov",
+        "Maximálna dĺžka je ${ maxLength } znakov"
+      ],
+      "Missing alias prefix": [
+        "Chýbajúca predpona aliasu"
+      ],
+      "Missing alias suffix": [
+        "Chýbajúca prípona aliasu"
+      ],
+      "No items": [
+        "Žiadne položky"
+      ],
+      "No items in trash matching": [
+        "Žiadne položky v koši sa nezhodujú"
+      ],
+      "No items matching": [
+        "Žiadne položky sa nezhodujú"
+      ],
+      "No password manager selected": [
+        "Nie je vybraný žiadny správca hesiel"
+      ],
+      "No results": [
+        "Žiadne výsledky"
+      ],
+      "Offline": [
+        "Offline"
+      ],
+      "Only alphanumeric characters, dots, hyphens and underscores are allowed": [
+        "Povolené sú len alfanumerické znaky, bodky, pomlčky a podčiarkovníky"
+      ],
+      "Passphrase is required": [
+        "Prístupová fáza je povinná"
+      ],
+      "Passwords do not match": [
+        "Heslá sa nezhodujú"
+      ],
+      "PGP encrypted export file requires passphrase": [
+        "Šifrovaný exportný súbor PGP vyžaduje prístupovú frázu"
+      ],
+      "Please check that the extension is properly installed and enabled": [
+        "Skontrolujte prosím, či je rozšírenie správne nainštalované a povolené."
+      ],
+      "Please contact us for investigating the issue": [
+        "Prosím, kontaktujte nás pre prešetrenie problému"
+      ],
+      "Please update the extension to its latest version": [
+        "Aktualizujte, prosím, rozšírenie na jeho najnovšiu verziu"
+      ],
+      "Please verify your email address in order to use email aliases": [
+        "Ak chcete používať emailové aliasy, overte svoju emailovú adresu, prosím"
+      ],
+      "Please verify your email address in order to use vault sharing": [
+        "Aby ste mohli využívať zdieľanie trezoru, overte svoju emailovú adresu, prosím"
+      ],
+      "Removing your extra password will log you out from all devices and end all active sessions.": [
+        "Odstránením dodatočného hesla dôjde k odhláseniu zo všetkých zariadení a ukončeniu všetkých aktívnych relácií."
+      ],
+      "Reports are not end-to-end encrypted, please do not send any sensitive information.": [
+        "Hlásenia nie sú zabezpečené end-to-end šifrovaním, neposielajte žiadne citlivé informácie, prosím."
+      ],
+      "The alias prefix cannot be longer than 40 characters": [
+        "Predpona aliasu nemôže byť dlhšia ako 40 znakov"
+      ],
+      "This email address will no longer be monitored for data breaches.": [
+        "Táto emailová adresa už nebude monitorovaná na úniky údajov"
+      ],
+      "Title is required": [
+        "Názov je povinný"
+      ],
+      "Too many attempts": [
+        "Príliš veľa pokusov"
+      ],
+      "Transfer ownership of this vault to ${ email }?": [
+        "Preniesť vlastníctvo tohto trezora na ${ email }?"
+      ],
+      "Trash alias ?": [
+        "Odstrániť alias?"
+      ],
+      "Unable to sign in to ${ PASS_APP_NAME }. ${ additionalMessage }": [
+        "Nemožno sa prihlásiť do ${ PASS_APP_NAME }. ${ additionalMessage }"
+      ],
+      "Vault \"${ vaultName }\" and all its items will be permanently deleted. You cannot undo this action.": [
+        "Trezor „${ vaultName }“ a všetky jeho položky budú natrvalo odstránené. Túto akciu nie je možné vrátiť späť."
+      ],
+      "Vault name is required": [
+        "Názov trezoru je povinný"
+      ],
+      "Verification code is required": [
+        "Vyžaduje sa overovací kód"
+      ],
+      "You cannot create more vaults than your subscription allows.": [
+        "Nemôžete vytvoriť viac trezorov, ako umožňuje vaše predplatné."
+      ],
+      "You have reached the limit of members who can access this vault.": [
+        "Dosiahli ste limit členov, ktorí majú prístup k tomuto trezoru."
+      ],
+      "You have reached the limit of users in this vault. ${ upgradeLink }": [
+        "Dosiahli ste limit používateľov v tomto trezore. ${ upgradeLink }"
+      ],
+      "You have reached the limit of vaults you can have in your plan.": [
+        "Dosiahli ste limit trezorov, ktoré môžete mať vo svojom pláne."
+      ],
+      "You have unsaved changes.": [
+        "Máte neuložené zmeny."
+      ],
+      "You must select at least one mailbox": [
+        "Musíte vybrať aspoň jednu poštovú schránku"
+      ],
+      "You will no longer have access to this vault. To join it again, you will need a new invitation.": [
+        "K tomuto trezoru už nebudete mať prístup. Ak sa do neho chcete opäť pripojiť, budete potrebovať novú pozvánku."
+      ],
+      "Your session could not be authorized.": [
+        "Vašu reláciu sa nepodarilo autorizovať."
+      ],
+      "Your session could not be resumed.": [
+        "Vašu reláciu sa nepodarilo obnoviť."
+      ],
+      "Your session is inactive.": [
+        "Vaša relácia je neaktívna."
+      ],
+      "Your session was locked.": [
+        "Vaša relácia bola uzamknutá."
+      ],
+      "Your subscription does not allow you to create multiple vaults. All items will be imported to your first vault. To import into multiple vaults upgrade your subscription.": [
+        "Vaše predplatné vám neumožňuje vytvoriť viacero trezorov. Všetky položky budú importované do vášho prvého trezoru. Pre importovanie do viacerých trezorov si navýšte vaše predplatné."
+      ]
+    }
+  }
+}
