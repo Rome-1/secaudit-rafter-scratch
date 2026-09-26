@@ -1,0 +1,42 @@
+# yaml-language-server: $schema=https://goreleaser.com/static/schema-pro.json
+version: 2
+
+project_name: flipt
+
+git:
+  tag_sort: semver
+
+monorepo:
+  tag_prefix: v
+
+builds:
+  - main: ./cmd/flipt/.
+    ldflags:
+      - -s -w
+      - -X main.version={{ .PrefixedTag }}
+      - -X main.commit={{ .Commit }}
+      - -X main.date={{ .Date }}
+      - -X main.analyticsKey={{ .Env.ANALYTICS_WRITE_KEY }}
+      - -X main.analyticsEndpoint={{ .Env.ANALYTICS_WRITE_ENDPOINT }}
+      - -linkmode external
+    goos:
+      - darwin
+    goarch:
+      - amd64
+      - arm64
+    flags:
+      - -tags=assets,netgo
+      - -trimpath
+    env:
+      - CGO_ENABLED=1
+    hooks:
+      post:
+        # The binary is signed and notarized when running a production release, but for snapshot builds notarization is
+        # skipped and only ad-hoc signing is performed (not cryptographic material is needed).
+        #
+        # note: environment variables required for signing and notarization (set in CI) but are not needed for snapshot builds
+        #    QUILL_SIGN_P12, QUILL_SIGN_PASSWORD, QUILL_NOTARY_KEY, QUILL_NOTARY_KEY_ID, QUILL_NOTARY_ISSUER
+        - cmd: quill sign "{{ .Path }}" --ad-hoc={{ .IsSnapshot }} -vv
+
+archives:
+  - format: binary

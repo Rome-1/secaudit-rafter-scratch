@@ -1,0 +1,117 @@
+name: Unit Tests
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+  workflow_dispatch:
+
+env:
+  GO_VERSION: "1.22"
+  DAGGER_VERSION: "0.13.3"
+
+concurrency:
+  group: "${{ github.workflow }}-${{ github.head_ref || github.ref }}"
+  cancel-in-progress: true
+
+jobs:
+  test:
+    name: "Tests (Go)"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Free Disk Space
+        uses: jlumbroso/free-disk-space@v1.3.1
+        with:
+          # Runs quick, run rm in background
+          tool-cache: true
+
+          # These run slower as use apt to uninstall packages
+          # Turned on by default, so we disable them
+          android: false
+          dotnet: false
+          haskell: false
+          large-packages: false
+          docker-images: false
+          swap-storage: false
+
+      - name: Run Unit Tests
+        uses: dagger/dagger-for-github@v6
+        with:
+          verb: call
+          version: ${{ env.DAGGER_VERSION }}
+          args: test --source .:default unit export --path coverage.txt
+          cloud-token: ${{ secrets.DAGGER_CLOUD_TOKEN }}
+
+      - name: Upload Coverage
+        uses: codecov/codecov-action@v4.6.0
+        with:
+          file: coverage.txt
+          flags: unittests
+          fail_ci_if_error: true
+          token: ${{ secrets.CODECOV_TOKEN }}
+
+  test-darwin:
+    name: "Tests (Go - Darwin)"
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-go@v5
+        with:
+          go-version: ${{ env.GO_VERSION }}
+          check-latest: true
+          cache: true
+
+      - name: Unit Test SQLite
+        env:
+          FLIPT_TEST_SHORT: "true"
+        run: go test -v -count=1 -timeout=60s -short ./...
+
+  ui:
+    name: "Tests (UI)"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "18"
+          cache: "npm"
+          cache-dependency-path: ui/package-lock.json
+
+      - name: Unit Test
+        run: |
+          npm ci
+          npm run test
+        working-directory: ui
+
+  migration:
+    name: "Tests (Migration)"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Free Disk Space
+        uses: jlumbroso/free-disk-space@v1.3.1
+        with:
+          # Runs quick, run rm in background
+          tool-cache: true
+
+          # These run slower as use apt to uninstall packages
+          # Turned on by default, so we disable them
+          android: false
+          dotnet: false
+          haskell: false
+          large-packages: false
+          docker-images: false
+          swap-storage: false
+
+      - name: Run Migration Tests
+        uses: dagger/dagger-for-github@v6
+        with:
+          verb: call
+          version: ${{ env.DAGGER_VERSION }}
+          args: test --source .:default migration
+          cloud-token: ${{ secrets.DAGGER_CLOUD_TOKEN }}
