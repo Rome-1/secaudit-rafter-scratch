@@ -1,0 +1,40 @@
+{
+    "name": "@proton/key-transparency",
+    "description": "ProtonMail Key Transparency Web Client",
+    "license": "MIT",
+    "author": "ProtonMail",
+    "main": "lib/index.ts",
+    "scripts": {
+        "check-types": "tsc",
+        "i18n:validate": "proton-i18n validate lint-functions",
+        "lint": "eslint lib test --ext .js,.ts,tsx --quiet --cache",
+        "pretty": "prettier --write $(find lib test -type f -name '*.js' -o -name '*.ts' -o -name '*.tsx')",
+        "test": "NODE_ENV=test karma start test/karma.conf.js",
+        "test:ci": "yarn test"
+    },
+    "dependencies": {
+        "@noble/ed25519": "1.7.3",
+        "@proton/cross-storage": "workspace:^",
+        "@proton/crypto": "workspace:^",
+        "@proton/shared": "workspace:^",
+        "@types/pkijs": "0.0.14",
+        "pkijs": "^3.2.4"
+    },
+    "devDependencies": {
+        "@proton/eslint-config-proton": "workspace:^",
+        "@proton/i18n": "workspace:^",
+        "@types/jasmine": "^5.1.4",
+        "eslint": "^8.57.0",
+        "eslint-plugin-jasmine": "^4.2.0",
+        "jasmine": "^5.2.0",
+        "jasmine-core": "^5.2.0",
+        "karma": "^6.4.4",
+        "karma-chrome-launcher": "^3.2.0",
+        "karma-jasmine": "^5.1.0",
+        "karma-webpack": "^5.0.1",
+        "playwright": "^1.45.1",
+        "ts-loader": "^9.5.1",
+        "typescript": "^5.5.4",
+        "webpack": "^5.93.0"
+    }
+}

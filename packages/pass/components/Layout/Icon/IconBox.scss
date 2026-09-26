@@ -1,0 +1,8 @@
+.pass-item-icon {
+	background: var(--interaction-weak);
+	transition: background 0.25s ease-in-out;
+
+	&--has-image {
+		background: white;
+	}
+}

@@ -1,0 +1,56 @@
+{
+    "name": "root",
+    "private": true,
+    "license": "GPL-3.0",
+    "workspaces": [
+        "applications/*",
+        "applications/pass-desktop/native",
+        "packages/*",
+        "packages/wasm/*",
+        "tests",
+        "tests/packages/*",
+        "utilities/*"
+    ],
+    "scripts": {
+        "app-versions": "bash utilities/app-versions/app-versions.sh",
+        "config-app": "(packages/config/install 2>/dev/null) || true",
+        "create-atom": "yarn workspace @proton/atoms create-atom",
+        "postinstall": "is-ci || (husky; yarn run config-app)",
+        "nyc": "npx nyc",
+        "start-all": "cd utilities/local-sso && bash ./run.sh",
+        "version": "yarn workspace version run version"
+    },
+    "resolutions": {
+        "@pdf-lib/standard-fonts@^1.0.0": "patch:@pdf-lib/standard-fonts@npm%3A1.0.0#./.yarn/patches/@pdf-lib-standard-fonts-npm-1.0.0-963255903e.patch",
+        "@storybook/react-docgen-typescript-plugin": "1.0.6--canary.9.f9c48c0.0",
+        "@types/prettier": "^3.0.0",
+        "json5": "^2.2.3",
+        "merge": "^2.1.1",
+        "node-gyp": "^10.2.0",
+        "rfc2047@^2.0.1": "patch:rfc2047@npm%3A2.0.1#./.yarn/patches/rfc2047-npm-2.0.1-60a2a07c99.patch",
+        "safe-buffer": "^5.2.1",
+        "terser": "^5.31.5"
+    },
+    "dependencies": {
+        "@proton/eslint-config-proton": "workspace:^",
+        "@proton/stylelint-config-proton": "workspace:^",
+        "is-ci": "^3.0.1",
+        "stylelint-config-standard-scss": "^10.0.0",
+        "stylelint-use-logical-spec": "^5.0.1",
+        "typescript": "^5.5.4"
+    },
+    "devDependencies": {
+        "@trivago/prettier-plugin-sort-imports": "^4.3.0",
+        "@types/jest-when": "^3.5.5",
+        "husky": "^9.1.4",
+        "lint-staged": "^15.2.8",
+        "nyc": "^17.0.0",
+        "prettier": "^3.3.3",
+        "sort-package-json": "^2.10.0",
+        "turbo": "^2.0.12"
+    },
+    "packageManager": "yarn@4.4.0",
+    "engines": {
+        "node": ">= 20.16.0"
+    }
+}

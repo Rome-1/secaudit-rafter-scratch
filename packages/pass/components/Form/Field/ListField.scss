@@ -1,0 +1,43 @@
+li.pass-field-text-group--item {
+	background-color: var(--interaction-norm-minor-1);
+	transition: background-color 0.2s;
+
+	input {
+		min-inline-size: unset;
+		inline-size: auto;
+	}
+
+	button {
+		color: var(--interaction-weak-contrast);
+		border-color: transparent;
+		transition:
+			border-color 0.2s,
+			color 0.2s;
+
+		span {
+			user-select: text;
+
+			&:focus {
+				outline: none;
+				color: var(--interaction-weak-contrast);
+			}
+		}
+	}
+	&#{'\\:error'} {
+		background-color: transparent;
+		border-color: var(--signal-danger);
+
+		button {
+			color: var(--signal-danger);
+		}
+	}
+
+	&#{'\\:loading'} {
+		background-color: transparent;
+		border-color: var(--interaction-weak-contrast);
+
+		button {
+			color: var(--interaction-weak-contrast);
+		}
+	}
+}
