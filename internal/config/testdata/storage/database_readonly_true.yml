@@ -1,0 +1,6 @@
+storage:
+  type: database
+  readOnly: true
+
+db:
+  url: "file:/tmp/test.db"
