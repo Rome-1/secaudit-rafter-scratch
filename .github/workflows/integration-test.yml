@@ -1,0 +1,204 @@
+name: Integration Tests
+on:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - "examples/**"
+      - "logos/**"
+      - "**.md"
+      - "**.txt"
+  pull_request:
+    paths-ignore:
+      - "examples/**"
+      - "logos/**"
+      - "**.md"
+      - "**.txt"
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: actions/setup-go@v3
+        with:
+          go-version: "1.18"
+          check-latest: true
+          cache: true
+
+      - uses: actions/cache@v3
+        with:
+          path: _tools/
+          key: ${{ runner.os }}-go-tools${{ hashFiles('_tools/go.sum') }}
+          restore-keys: |
+            ${{ runner.os }}-go-tools-
+
+      - uses: actions/setup-node@v3
+        with:
+          node-version: "18"
+          cache: "npm"
+          cache-dependency-path: ui/package-lock.json
+
+      - uses: arduino/setup-task@v1
+
+      - name: Build the binary
+        run: |
+          task
+
+      - name: Upload the binary
+        uses: actions/upload-artifact@v3
+        with:
+          name: flipt
+          path: bin/flipt
+          if-no-files-found: error
+          retention-days: 1
+
+  api:
+    needs: build
+    name: Test API
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      DEBIAN_FRONTEND: noninteractive
+
+    steps:
+      - name: Install dependencies
+        run: |
+          echo 'tzdata tzdata/Areas select Etc' | sudo  debconf-set-selections; \
+          echo 'tzdata tzdata/Zones/Etc select UTC' | sudo debconf-set-selections; \
+          sudo apt-get update && \
+          sudo apt-get install -y \
+          tzdata bats curl wget jq gnupg uuid-runtime
+
+      - uses: actions/checkout@v3
+
+      - uses: actions/download-artifact@v3
+        id: download
+        with:
+          name: flipt
+          path: bin/
+
+      - run: chmod +x flipt
+        working-directory: bin/
+
+      - name: Run API tests
+        run: ./test/api.sh
+
+      - name: Upload the log
+        uses: actions/upload-artifact@v3
+        if: ${{ always() }}
+        with:
+          name: api.log
+          path: out.log
+          retention-days: 5
+
+  api_with_auth:
+    needs: build
+    name: Test API (with authentication enabled)
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      DEBIAN_FRONTEND: noninteractive
+
+    steps:
+      - name: Install dependencies
+        run: |
+          echo 'tzdata tzdata/Areas select Etc' | sudo debconf-set-selections; \
+          echo 'tzdata tzdata/Zones/Etc select UTC' | sudo debconf-set-selections; \
+          sudo apt-get update && \
+          sudo apt-get install -y \
+          tzdata bats curl wget jq gnupg uuid-runtime
+
+      - uses: actions/checkout@v3
+
+      - uses: actions/download-artifact@v3
+        id: download
+        with:
+          name: flipt
+          path: bin/
+
+      - run: chmod +x flipt
+        working-directory: bin/
+
+      - name: Run API tests
+        run: ./test/api_with_auth.sh
+
+      - name: Upload the log
+        uses: actions/upload-artifact@v3
+        if: ${{ always() }}
+        with:
+          name: api-with-auth.log
+          path: out.log
+          retention-days: 5
+
+  cli:
+    needs: build
+    name: Test CLI
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      DEBIAN_FRONTEND: noninteractive
+
+    steps:
+      - name: Install dependencies
+        run: |
+          echo 'tzdata tzdata/Areas select Etc' | sudo debconf-set-selections; \
+          echo 'tzdata tzdata/Zones/Etc select UTC' | sudo debconf-set-selections; \
+          sudo apt-get update && \
+          sudo apt-get install -y \
+          tzdata bats curl wget jq gnupg uuid-runtime
+
+      - uses: actions/checkout@v3
+
+      - uses: actions/download-artifact@v3
+        with:
+          name: flipt
+          path: bin/
+
+      - run: chmod +x flipt
+        working-directory: bin/
+
+      - name: Run CLI tests
+        run: ./test/cli.bats
+
+  ui:
+    needs: build
+    name: Test UI
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      DEBIAN_FRONTEND: noninteractive
+
+    steps:
+      - name: Install dependencies
+        run: |
+          echo 'tzdata tzdata/Areas select Etc' | sudo debconf-set-selections; \
+          echo 'tzdata tzdata/Zones/Etc select UTC' | sudo debconf-set-selections; \
+          sudo apt-get update && \
+          sudo apt-get install -y \
+          tzdata bats curl wget jq gnupg uuid-runtime && \
+          curl -sL https://deb.nodesource.com/setup_18.x | sudo bash - && \
+          sudo apt-get update && \
+          sudo apt-get install -y nodejs
+
+      - name: Install playwright
+        run: |
+          npx playwright install chromium --with-deps
+
+      - uses: actions/checkout@v3
+
+      - uses: actions/download-artifact@v3
+        with:
+          name: flipt
+          path: bin/
+
+      - run: chmod +x flipt
+        working-directory: bin/
+
+      - name: Run UI tests
+        run: ./test/ui.sh

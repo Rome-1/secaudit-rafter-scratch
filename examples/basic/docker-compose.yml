@@ -1,0 +1,28 @@
+version: "3"
+
+services:
+  flipt:
+    image: flipt/flipt:latest
+    command: ["./flipt", "--force-migrate"]
+    ports:
+      - "8080:8080"
+      - "9000:9000"
+    networks:
+      - flipt_network
+    environment:
+      - "FLIPT_LOG_LEVEL=debug"
+      - "FLIPT_TELMETRY_ENABLED=false"
+    volumes:
+      - "./flipt.db:/var/opt/flipt/flipt.db"
+
+  example:
+    build: .
+    ports:
+      - "8000:8000"
+    networks:
+      - flipt_network
+    depends_on:
+      - flipt
+
+networks:
+  flipt_network:
