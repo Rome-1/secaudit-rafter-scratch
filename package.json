@@ -1,0 +1,45 @@
+{
+    "name": "root",
+    "private": true,
+    "license": "GPL-3.0",
+    "workspaces": [
+        "applications/*",
+        "packages/*",
+        "tests",
+        "utilities/*"
+    ],
+    "scripts": {
+        "app-versions": "bash utilities/app-versions/app-versions.sh",
+        "config-app": "(packages/config/install 2>/dev/null) || true",
+        "create-atom": "yarn workspace @proton/atoms create-atom",
+        "postinstall": "is-ci || (husky install; yarn run config-app)",
+        "start-all": "cd utilities/local-sso && bash ./run.sh",
+        "version": "yarn workspace version run version"
+    },
+    "resolutions": {
+        "@noble/ed25519@1.7.1": "patch:@noble/ed25519@npm:1.7.1#.yarn/patches/@noble-ed25519-npm-1.6.0-59c82563e0",
+        "@types/jest": "^27.5.2",
+        "@types/react": "^17.0.52",
+        "@types/react-dom": "^17.0.18",
+        "memfs": "^3.4.12",
+        "safe-buffer": "^5.2.1"
+    },
+    "dependencies": {
+        "@proton/eslint-config-proton": "workspace:packages/eslint-config-proton",
+        "@proton/stylelint-config-proton": "workspace:packages/stylelint-config-proton",
+        "is-ci": "^3.0.1",
+        "stylelint-use-logical-spec": "^4.1.0",
+        "typescript": "^4.9.4"
+    },
+    "devDependencies": {
+        "@trivago/prettier-plugin-sort-imports": "^4.0.0",
+        "husky": "^8.0.2",
+        "lint-staged": "^13.1.0",
+        "prettier": "^2.8.1",
+        "sort-package-json": "^2.1.0"
+    },
+    "packageManager": "yarn@3.3.0",
+    "engines": {
+        "node": ">= v18.12.1"
+    }
+}

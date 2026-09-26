@@ -1,0 +1,5855 @@
+{
+  "headers": {
+    "plural-forms": "nplurals=1; plural=0;",
+    "language": "ja_JP"
+  },
+  "contexts": {
+    "Action": {
+      "${ BRAND_NAME } introduction": [
+        "${ BRAND_NAME } の紹介"
+      ],
+      "${ BRAND_NAME } shop": [
+        "${ BRAND_NAME } ショップ"
+      ],
+      "Activate recovery": [
+        "回復を有効にする"
+      ],
+      "Add": [
+        "追加"
+      ],
+      "Add address": [
+        "住所を追加"
+      ],
+      "Add contact": [
+        "連絡先を追加"
+      ],
+      "Add email": [
+        "メールアドレスを追加"
+      ],
+      "Add group": [
+        "グループを追加"
+      ],
+      "Add new contact": [
+        "新しい連絡先を追加"
+      ],
+      "Add new group": [
+        "新しいグループを追加"
+      ],
+      "Add notification": [
+        "通知を追加"
+      ],
+      "Add phone number": [
+        "電話番号を追加"
+      ],
+      "Add to group": [
+        "グループに追加"
+      ],
+      "Apply": [
+        "適用"
+      ],
+      "Attach screenshot(s)": [
+        "スクリーンショットを添付"
+      ],
+      "Authenticate": [
+        "認証"
+      ],
+      "Back": [
+        "戻る"
+      ],
+      "Beta Access": [
+        "ベータ版アクセス"
+      ],
+      "Cancel": [
+        "キャンセル"
+      ],
+      "Chat with us": [
+        "チャットする"
+      ],
+      "Check import progress": [
+        "インポートの進行を確認"
+      ],
+      "Choose a file or drag it here": [
+        "ファイルを選択するかここにドラッグしてください"
+      ],
+      "Clear data": [
+        "データを消去"
+      ],
+      "Clear query": [
+        "検索をクリア"
+      ],
+      "Click here.": [
+        "ここをクリック"
+      ],
+      "Close": [
+        "閉じる"
+      ],
+      "Close event popover": [
+        "予定のポップオーバーを隠す"
+      ],
+      "Close navigation": [
+        "ナビゲーションを閉じる"
+      ],
+      "Close this banner": [
+        "このバナーを閉じる"
+      ],
+      "Compose": [
+        "新規作成"
+      ],
+      "Confirm": [
+        "確認"
+      ],
+      "Confirm opening of link ${ linkToShow }": [
+        "リンク ${ linkToShow } を確認"
+      ],
+      "Contact group": [
+        "連絡先グループ"
+      ],
+      "Continue": [
+        "続行"
+      ],
+      "Continue import": [
+        "インポートを続行"
+      ],
+      "Continue with Google": [
+        "Googleで続行"
+      ],
+      "Copy email to clipboard": [
+        "メールをコピー"
+      ],
+      "Copy link": [
+        "リンクをコピー"
+      ],
+      "Create": [
+        "作成"
+      ],
+      "Create a new contact group": [
+        "新規連絡先グループを作成"
+      ],
+      "Create calendar": [
+        "カレンダーを作成"
+      ],
+      "Create event": [
+        "予定を作成"
+      ],
+      "Customize": [
+        "カスタマイズ"
+      ],
+      "Customize import": [
+        "インポートをカスタマイズ"
+      ],
+      "Decline invite": [
+        "招待を断る"
+      ],
+      "Delete": [
+        "削除"
+      ],
+      "Delete ${ selectedCount } contact groups": [
+        "${ selectedCount } 件の連絡先グループを削除"
+      ],
+      "Delete ${ selectedCount } contacts": [
+        "${ selectedCount } 件の連絡先を削除"
+      ],
+      "Delete contact": [
+        "連絡先を削除"
+      ],
+      "Delete contact group": [
+        "連絡先グループを削除"
+      ],
+      "Deselect all": [
+        "すべての選択を解除"
+      ],
+      "Discard": [
+        "破棄"
+      ],
+      "Done": [
+        "完了"
+      ],
+      "Download": [
+        "ダウンロード"
+      ],
+      "Edit": [
+        "編集"
+      ],
+      "Edit email address": [
+        "メールアドレスを編集"
+      ],
+      "Edit label": [
+        "ラベルを編集"
+      ],
+      "Edit phone number": [
+        "電話番号を編集"
+      ],
+      "Edit sign-in details": [
+        "サインイン詳細を編集"
+      ],
+      "Email settings": [
+        "メールの設定"
+      ],
+      "enable desktop notifications": [
+        "デスクトップ通知を有効にする"
+      ],
+      "Export": [
+        "エクスポート"
+      ],
+      "Export contact group": [
+        "連絡先グループをエクスポート"
+      ],
+      "Export contacts": [
+        "連絡先のエクスポート"
+      ],
+      "Forward as attachment": [
+        "添付ファイルとして送信"
+      ],
+      "Get started": [
+        "利用開始"
+      ],
+      "Get verification code": [
+        "認証コードを取得"
+      ],
+      "Go to label": [
+        "ラベルへ移動"
+      ],
+      "Go to panel ${ index }": [
+        "パネル ${ index } に移動"
+      ],
+      "Go to settings": [
+        "設定を開く"
+      ],
+      "Got it": [
+        "はい"
+      ],
+      "Hide advanced PGP settings": [
+        "拡張 PGP 設定を非表示"
+      ],
+      "Hide folders": [
+        "フォルダーを隠す"
+      ],
+      "Hide labels": [
+        "ラベルを隠す"
+      ],
+      "Hide time zones": [
+        "タイムゾーンを非表示"
+      ],
+      "I have a question": [
+        "サポートに質問"
+      ],
+      "Import": [
+        "インポート"
+      ],
+      "import": [
+        "インポート"
+      ],
+      "Import calendars": [
+        "カレンダーをインポート"
+      ],
+      "Import contacts": [
+        "連絡先をインポート"
+      ],
+      "Import emails": [
+        "メールをインポート"
+      ],
+      "Import events": [
+        "予定をインポート"
+      ],
+      "Import from .csv or vCard": [
+        ".csv または vCard からインポート"
+      ],
+      "Join calendar": [
+        "カレンダーに参加"
+      ],
+      "Load image": [
+        "画像を読み込む"
+      ],
+      "Log in": [
+        "ログイン"
+      ],
+      "Make this participant optional": [
+        "この参加者の参加を任意にする"
+      ],
+      "Make this participant required": [
+        "この参加者の参加を必須にする"
+      ],
+      "Manage addresses": [
+        "アドレスの管理"
+      ],
+      "Mark for deletion": [
+        "削除マーク"
+      ],
+      "Maybe": [
+        "おそらく"
+      ],
+      "Maybe I'll attend": [
+        "おそらく、参加します"
+      ],
+      "Merge": [
+        "統合"
+      ],
+      "Merge contacts": [
+        "連絡先の統合"
+      ],
+      "More info: ${ safeTitle }": [
+        "詳細: ${ safeTitle }"
+      ],
+      "More options": [
+        "詳細設定を表示"
+      ],
+      "New event": [
+        "新しい予定"
+      ],
+      "Next": [
+        "次へ"
+      ],
+      "Next day": [
+        "次の日"
+      ],
+      "Next month": [
+        "翌月"
+      ],
+      "Next week": [
+        "次の週"
+      ],
+      "Next year": [
+        "次の年"
+      ],
+      "No": [
+        "いいえ"
+      ],
+      "No, I won't attend": [
+        "いいえ、参加しません"
+      ],
+      "No, thanks": [
+        "いいえ"
+      ],
+      "OK": [
+        "OK"
+      ],
+      "Open navigation": [
+        "ナビゲーションを開く"
+      ],
+      "Preview contact": [
+        "連絡先をプレビュー"
+      ],
+      "Previous day": [
+        "前の日"
+      ],
+      "Previous month": [
+        "前月"
+      ],
+      "Previous week": [
+        "前の週"
+      ],
+      "Previous year": [
+        "前の年"
+      ],
+      "Quit": [
+        "終了"
+      ],
+      "Re-sign": [
+        "再署名"
+      ],
+      "Reconnect": [
+        "再接続"
+      ],
+      "Recover data": [
+        "データを復元する"
+      ],
+      "Refer a friend": [
+        "友達を招待"
+      ],
+      "refresh the page": [
+        "ページを更新"
+      ],
+      "Refresh the page": [
+        "ページを更新"
+      ],
+      "Remove": [
+        "削除"
+      ],
+      "Remove this notification": [
+        "この通知を削除"
+      ],
+      "Remove this participant": [
+        "この参加者を削除"
+      ],
+      "Rename": [
+        "名前を変更"
+      ],
+      "Report a problem": [
+        "問題を報告"
+      ],
+      "Request a feature": [
+        "機能を提案"
+      ],
+      "Request new code": [
+        "新しいコードのリクエスト"
+      ],
+      "Resend code": [
+        "コードを再送信"
+      ],
+      "Reset to default": [
+        "初期値に戻す"
+      ],
+      "Save": [
+        "保存"
+      ],
+      "Search countries": [
+        "国を検索"
+      ],
+      "See plan features": [
+        "プランの特徴を見る"
+      ],
+      "Select all": [
+        "すべて選択"
+      ],
+      "Select timezone": [
+        "タイムゾーンの選択"
+      ],
+      "Send": [
+        "送信"
+      ],
+      "Send feedback": [
+        "フィードバックを送信"
+      ],
+      "Set recovery phrase": [
+        "回復フレーズを設定"
+      ],
+      "Share": [
+        "共有"
+      ],
+      "Show advanced PGP settings": [
+        "拡張 PGP 設定を表示"
+      ],
+      "Show folders": [
+        "フォルダーを表示"
+      ],
+      "Show labels": [
+        "ラベルを表示"
+      ],
+      "Show less": [
+        "詳細を非表示"
+      ],
+      "Show more": [
+        "さらに表示"
+      ],
+      "Show time zones": [
+        "タイムゾーンを表示"
+      ],
+      "Sign out": [
+        "サインアウト"
+      ],
+      "Signing out": [
+        "サインアウト中"
+      ],
+      "Skip": [
+        "スキップ"
+      ],
+      "Start import": [
+        "インポート開始"
+      ],
+      "Start setup": [
+        "セットアップを開始"
+      ],
+      "Stay": [
+        "終了しない"
+      ],
+      "Submit": [
+        "送信"
+      ],
+      "Theme": [
+        "テーマ"
+      ],
+      "Today": [
+        "今日"
+      ],
+      "Trust": [
+        "信頼する"
+      ],
+      "Try another method": [
+        "別の方法を試してください"
+      ],
+      "Unlock data": [
+        "データのロックを解除"
+      ],
+      "Unmark for deletion": [
+        "削除マークを解除"
+      ],
+      "Untrust": [
+        "信頼しない"
+      ],
+      "Update": [
+        "更新"
+      ],
+      "Update recovery file": [
+        "回復用ファイルを更新"
+      ],
+      "Update recovery phrase": [
+        "回復フレーズを更新"
+      ],
+      "Upgrade": [
+        "アップグレード"
+      ],
+      "Upload picture": [
+        "写真をアップロード"
+      ],
+      "Use ${ label } theme": [
+        "${ label } テーマを使用"
+      ],
+      "Use authentication code": [
+        "認証コードを使用"
+      ],
+      "Use for sending": [
+        "送信に使用"
+      ],
+      "Use recovery code": [
+        "回復用コードを使用"
+      ],
+      "Verify": [
+        "検証"
+      ],
+      "Verify account": [
+        "アカウントを認証"
+      ],
+      "View": [
+        "表示"
+      ],
+      "View invoice": [
+        "請求書を参照する"
+      ],
+      "Yes": [
+        "はい"
+      ],
+      "Yes, I'll attend": [
+        "はい、参加します"
+      ]
+    },
+    "Action title": {
+      "Share with ${ BRAND_NAME } users": [
+        "${ BRAND_NAME } ユーザーに共有"
+      ],
+      "Share with anyone": [
+        "ほかの人に共有"
+      ]
+    },
+    "Actions message": {
+      "${ addContact } or ${ importContact }.": [
+        "${ addContact }または${ importContact }。"
+      ],
+      "No results found.": [
+        "該当する結果が見つかりませんでした。"
+      ],
+      "Please try another search term.": [
+        "別の単語で検索してみてください。"
+      ],
+      "You don't have any contacts.": [
+        "連絡先がありません。"
+      ],
+      "You don't have any groups.": [
+        "グループがありません。"
+      ]
+    },
+    "Alarm notification": {
+      "${ title } started at ${ formattedHour }": [
+        "${ title }は${ formattedHour }からの予定です"
+      ],
+      "${ title } started on ${ formattedDate }": [
+        "${ title } は ${ formattedDate } に開始しました"
+      ],
+      "${ title } started on ${ formattedDate } at ${ formattedHour }": [
+        "${ title }は${ formattedDate }の${ formattedHour }に開始の予定です"
+      ],
+      "${ title } started on ${ formattedDateWithoutTime }": [
+        "${ title }は${ formattedDateWithoutTime }の予定です"
+      ],
+      "${ title } started on ${ formattedDateWithTime }": [
+        "${ title } は ${ formattedDateWithTime } に開始しました"
+      ],
+      "${ title } started yesterday": [
+        "${ title }は昨日開始の予定です"
+      ],
+      "${ title } started yesterday at ${ formattedHour }": [
+        "${ title }は昨日の${ formattedHour }からの予定です"
+      ],
+      "${ title } starts at ${ formattedHour }": [
+        "${ title }は${ formattedHour }からです"
+      ],
+      "${ title } starts now": [
+        "${ title }はただいま開始の予定です"
+      ],
+      "${ title } starts on ${ formattedDate }": [
+        "${ title } は ${ formattedDate } に開始します"
+      ],
+      "${ title } starts on ${ formattedDate } at ${ formattedHour }": [
+        "${ title } は ${ formattedDate } ${ formattedHour } に開始します"
+      ],
+      "${ title } starts on ${ formattedDateWithoutTime }": [
+        "${ title } は ${ formattedDateWithoutTime } に開始します"
+      ],
+      "${ title } starts on ${ formattedDateWithTime }": [
+        "${ title }は${ formattedDateWithTime }の予定です"
+      ],
+      "${ title } starts today": [
+        "${ title }は今日の予定です"
+      ],
+      "${ title } starts tomorrow": [
+        "${ title }は明日の予定です"
+      ],
+      "${ title } starts tomorrow at ${ formattedHour }": [
+        "${ title }は明日の${ formattedHour }からです"
+      ]
+    },
+    "Alert": {
+      "By leaving now, some contacts may not be imported": [
+        "今すぐ退出することで、いくつかの連絡先がインポートされない可能性があります"
+      ],
+      "By leaving now, some events may not be imported": [
+        "今終了すると、インポートされない予定がある可能性があります"
+      ],
+      "By leaving now, you will lose your event.": [
+        "今終了すると、予定は削除されます。"
+      ]
+    },
+    "Apps dropdown": {
+      "${ BRAND_NAME } applications": [
+        "${ BRAND_NAME } アプリケーション"
+      ]
+    },
+    "Attached ics file error": {
+      "Empty ICS file": [
+        "空の ICS ファイルです"
+      ],
+      "Invalid event": [
+        "無効な予定です"
+      ],
+      "Invalid ICS file": [
+        "無効な ICS ファイルです"
+      ],
+      "Invalid method": [
+        "無効なメソッドです"
+      ],
+      "Unsupported calendar component": [
+        "非対応のカレンダーコンポーネントです"
+      ],
+      "Unsupported event": [
+        "サポートされていない予定です"
+      ]
+    },
+    "Attendee role": {
+      "Optional": [
+        "任意"
+      ]
+    },
+    "Badge": {
+      "Coming soon": [
+        "まもなく登場"
+      ]
+    },
+    "Beta access description": {
+      "Beta Access lets you use the beta version of ${ MAIL_APP_NAME }, ${ CALENDAR_APP_NAME }, and ${ DRIVE_APP_NAME } before they are released to the public. This means you can be the first to try new products, get new updates, and use new features.": [
+        "ベータ版アクセスでは、${ MAIL_APP_NAME }、${ CALENDAR_APP_NAME }、${ DRIVE_APP_NAME } のベータ版を一般公開前に使用できます。ベータ版アクセスで新製品をいち早く試し、使用することができます。"
+      ],
+      "If you encounter issues, you can always disable Beta Access.": [
+        "問題が発生するなどした場合、いつでもベータ版アクセスを無効にできます。"
+      ]
+    },
+    "Bug category": {
+      "Application problem": [
+        "アプリケーションに関する問題"
+      ],
+      "Bridge problem": [
+        "Bridge に関する問題"
+      ],
+      "Calendar problem": [
+        "Calendar に関する問題"
+      ],
+      "Connection problem": [
+        "接続に関する問題"
+      ],
+      "Contacts problem": [
+        "Contacts に関する問題"
+      ],
+      "Custom domain problem": [
+        "独自ドメインに関する問題"
+      ],
+      "Drive problem": [
+        "Drive に関する問題"
+      ],
+      "Feature request": [
+        "機能の提案"
+      ],
+      "Import / export problem": [
+        "インポート・エクスポートに関する問題"
+      ],
+      "Installation problem": [
+        "インストールに関する問題"
+      ],
+      "Mail problem": [
+        "Mail に関する問題"
+      ],
+      "Manual setup problem": [
+        "手動セットアップに関する問題"
+      ],
+      "Other": [
+        "その他"
+      ],
+      "Payments problem": [
+        "支払いに関する問題"
+      ],
+      "Sign in problem": [
+        "サインインに関する問題"
+      ],
+      "Sign up problem": [
+        "アカウント登録に関する問題"
+      ],
+      "Signup problem": [
+        "アカウント登録に関する問題"
+      ],
+      "Slow speed problem": [
+        "通信速度が遅いなどの問題"
+      ],
+      "Speed problem": [
+        "通信速度に関する問題"
+      ],
+      "Streaming problem": [
+        "ストリーミングに関する問題"
+      ],
+      "Update problem": [
+        "更新に関する問題"
+      ],
+      "VPN problem": [
+        "VPN に関する問題"
+      ],
+      "Website access problem": [
+        "ウェブサイトへのアクセスに関する問題"
+      ]
+    },
+    "Button": {
+      "Continue using ${ MAIL_APP_NAME }.": [
+        "${ MAIL_APP_NAME } を使って続行します。"
+      ]
+    },
+    "Calendar access select label": {
+      "Add people or groups": [
+        "人またはグループを追加"
+      ]
+    },
+    "Calendar invite buttons label": {
+      "Attending?": [
+        "参加しますか？"
+      ]
+    },
+    "Calendar invite info": {
+      "${ name } accepted the invitation": [
+        "${ name }が招待を承諾しました"
+      ],
+      "${ name } declined the invitation": [
+        "${ name }が招待を拒否しました"
+      ],
+      "${ name } hasn't answered the invitation yet": [
+        "${ name }はまだ招待に回答していません"
+      ],
+      "${ name } tentatively accepted the invitation": [
+        "${ name }が招待を仮承諾しました"
+      ],
+      "This event has been canceled": [
+        "この予定は中止されました"
+      ],
+      "You accepted the invitation": [
+        "招待を承諾しました"
+      ],
+      "You declined the invitation": [
+        "招待を拒否しました"
+      ],
+      "You haven't answered the invitation yet": [
+        "まだ招待に回答していません"
+      ],
+      "You tentatively accepted the invitation": [
+        "招待を仮承諾しました"
+      ]
+    },
+    "Calendar permissions label": {
+      "Permissions": [
+        "権限"
+      ]
+    },
+    "Calendar self sharing error": {
+      "You already have access to this calendar": [
+        "すでにこのカレンダーにアクセスできます"
+      ]
+    },
+    "Calendar share limit modal": {
+      "Manage links": [
+        "リンクを管理"
+      ],
+      "Manage members": [
+        "メンバーを管理"
+      ],
+      "Unable to create more calendar links": [
+        "これ以上のカレンダーリンクを作成できません"
+      ],
+      "Unable to share this calendar with more ${ BRAND_NAME } users": [
+        "これ以上 ${ BRAND_NAME } ユーザーにカレンダーを共有できません"
+      ],
+      "You have reached the maximum of ${ MAX_CALENDAR_MEMBERS } members for this calendar.\nTo share this calendar with more ${ BRAND_NAME } accounts, remove some members.": [
+        "カレンダーごとに追加できるメンバーは ${ MAX_CALENDAR_MEMBERS } 人までです。\nほかの ${ BRAND_NAME } アカウントを招待するには、現在のメンバーを削除してください。"
+      ],
+      "You have reached the maximum of ${ MAX_LINKS_PER_CALENDAR } links for this calendar.\nTo create a new link to this calendar, delete an existing one.": [
+        "カレンダーごとに作成できるリンクは最大 ${ MAX_LINKS_PER_CALENDAR } 件です。このカレンダーの新しいリンクを作成するには、リンクをひとつ削除してください。"
+      ]
+    },
+    "Calendar sidebar dropdown item": {
+      "Add calendar from URL": [
+        "URL からカレンダーを追加"
+      ],
+      "More options": [
+        "詳細設定を表示"
+      ]
+    },
+    "Calendar status": {
+      "Not synced": [
+        "未同期"
+      ],
+      "Syncing": [
+        "同期中"
+      ]
+    },
+    "Calendar subscription not synced error": {
+      "Calendar could not be decrypted": [
+        "カレンダーを復号できませんでした"
+      ],
+      "Calendar is syncing": [
+        "カレンダーの同期中"
+      ],
+      "Calendar is syncing: it may take several minutes for all of its events to show up.": [
+        "カレンダーを同期しています: すべての予定が表示されるまでしばらくお待ちください。"
+      ],
+      "Calendar is too big": [
+        "カレンダーが大きすぎます"
+      ],
+      "Calendar link is not accessible": [
+        "カレンダーのリンクにアクセスできません"
+      ],
+      "Calendar link is temporarily inaccessible": [
+        "カレンダーのリンクが一時的にアクセスできません"
+      ],
+      "Failed to sync calendar": [
+        "カレンダーの同期に失敗しました"
+      ],
+      "More than 12 hours passed since last update": [
+        "最後のアップデートから12時間以上経過しています"
+      ],
+      "Unsupported calendar format": [
+        "非対応のカレンダー形式"
+      ]
+    },
+    "Calendar subscription not synced error; long version": {
+      "Calendar link is not accessible from outside the calendar provider's ecosystem.": [
+        "カレンダーの公開リンクは、当該カレンダーのアカウントを所持していないと見ることはできません。"
+      ],
+      "Calendar link is temporarily inaccessible. Please verify that the link from the calendar provider is still valid.": [
+        "公開リンクには現在アクセスできません。リンクがまだ有効かどうかをご確認ください。"
+      ]
+    },
+    "Calendar view": {
+      "Day": [
+        "日"
+      ],
+      "Month": [
+        "月"
+      ],
+      "Week": [
+        "週"
+      ]
+    },
+    "Calendar view selector": {
+      "Change time range to": [
+        "表示期間の変更"
+      ]
+    },
+    "Collapsible tooltip": {
+      "Collapse": [
+        "作成"
+      ],
+      "Expand": [
+        "展開"
+      ]
+    },
+    "colon": {
+      ": ": [
+        ": "
+      ]
+    },
+    "color": {
+      "carrot": [
+        "キャロット"
+      ],
+      "cerise": [
+        "セリース"
+      ],
+      "cobalt": [
+        "コバルト"
+      ],
+      "copper": [
+        "コパー"
+      ],
+      "enzian": [
+        "エンツィアン"
+      ],
+      "fern": [
+        "ファーン"
+      ],
+      "forest": [
+        "フォレスト"
+      ],
+      "ocean": [
+        "オーシャン"
+      ],
+      "olive": [
+        "オリーブ"
+      ],
+      "pacific": [
+        "パシフィック"
+      ],
+      "pickle": [
+        "ピックル"
+      ],
+      "pine": [
+        "パイン"
+      ],
+      "pink": [
+        "ピンク"
+      ],
+      "plum": [
+        "プラム"
+      ],
+      "purple": [
+        "パープル"
+      ],
+      "reef": [
+        "リーフ"
+      ],
+      "sahara": [
+        "サハラ"
+      ],
+      "slateblue": [
+        "スレートブルー"
+      ],
+      "soil": [
+        "ソイル"
+      ],
+      "strawberry": [
+        "ストロベリー"
+      ]
+    },
+    "Confirm modal title": {
+      "Quit import customization?": [
+        "インポートのカスタマイズを終了しますか?"
+      ],
+      "Quit import?": [
+        "インポートを終了しますか？"
+      ]
+    },
+    "Contact field label": {
+      "Address": [
+        "住所"
+      ],
+      "Anniversary": [
+        "記念日"
+      ],
+      "Birthday": [
+        "誕生日"
+      ],
+      "Email": [
+        "メールアドレス"
+      ],
+      "Gender": [
+        "性別"
+      ],
+      "Geo": [
+        "緯度・経度"
+      ],
+      "Language": [
+        "言語"
+      ],
+      "Logo": [
+        "ロゴ"
+      ],
+      "Member": [
+        "メンバー"
+      ],
+      "Name": [
+        "名前"
+      ],
+      "Note": [
+        "メモ"
+      ],
+      "Organization": [
+        "組織"
+      ],
+      "Phone": [
+        "電話番号"
+      ],
+      "Photo": [
+        "写真"
+      ],
+      "Role": [
+        "役割"
+      ],
+      "Timezone": [
+        "タイムゾーン"
+      ],
+      "Title": [
+        "肩書き"
+      ],
+      "URL": [
+        "URL"
+      ]
+    },
+    "Contact type label": {
+      "Fax": [
+        "Fax"
+      ],
+      "Main": [
+        "メイン"
+      ],
+      "Mobile": [
+        "携帯電話"
+      ],
+      "Other": [
+        "その他"
+      ],
+      "Pager": [
+        "ポケベル"
+      ],
+      "Personal": [
+        "個人"
+      ],
+      "Work": [
+        "勤務先"
+      ],
+      "Yomi": [
+        "ふりがな"
+      ]
+    },
+    "Country name": {
+      "Abkhazia": [
+        "アブハジア"
+      ],
+      "Afghanistan": [
+        "アフガニスタン"
+      ],
+      "Albania": [
+        "アルバニア"
+      ],
+      "Algeria": [
+        "アルジェリア"
+      ],
+      "American Samoa": [
+        "アメリカ領サモア"
+      ],
+      "Andorra": [
+        "アンドラ"
+      ],
+      "Angola": [
+        "アンゴラ"
+      ],
+      "Anguilla": [
+        "アンギラ"
+      ],
+      "Antarctica": [
+        "南極大陸"
+      ],
+      "Antigua and Barbuda": [
+        "アンティグア・バーブーダ"
+      ],
+      "Argentina": [
+        "アルゼンチン"
+      ],
+      "Armenia": [
+        "アルメニア"
+      ],
+      "Aruba": [
+        "アルバ"
+      ],
+      "Ascension Island": [
+        "アセンション島"
+      ],
+      "Australia": [
+        "オーストラリア"
+      ],
+      "Austria": [
+        "オーストリア"
+      ],
+      "Azerbaijan": [
+        "アゼルバイジャン"
+      ],
+      "Bahamas": [
+        "バハマ"
+      ],
+      "Bahrain": [
+        "バーレーン"
+      ],
+      "Bangladesh": [
+        "バングラデシュ"
+      ],
+      "Barbados": [
+        "バルバドス"
+      ],
+      "Belarus": [
+        "ベラルーシ"
+      ],
+      "Belgium": [
+        "ベルギー"
+      ],
+      "Belize": [
+        "ベリーズ"
+      ],
+      "Benin": [
+        "ベナン"
+      ],
+      "Bermuda": [
+        "バミューダ"
+      ],
+      "Bhutan": [
+        "ブータン"
+      ],
+      "Bolivia": [
+        "ボリビア"
+      ],
+      "Bonaire, Sint Eustatius and Saba": [
+        "ボネール、シント・ユースタティウスおよびサバ"
+      ],
+      "Bosnia and Herzegovina": [
+        "ボスニア・ヘルツェゴビナ"
+      ],
+      "Botswana": [
+        "ボツワナ"
+      ],
+      "Bouvet Island": [
+        "ブーベ島"
+      ],
+      "Brazil": [
+        "ブラジル"
+      ],
+      "British Indian Ocean Territory": [
+        "イギリス領インド洋地域"
+      ],
+      "Brunei Darussalam": [
+        "ブルネイ・ダルサラーム"
+      ],
+      "Bulgaria": [
+        "ブルガリア"
+      ],
+      "Burkina Faso": [
+        "ブルキナファソ"
+      ],
+      "Burundi": [
+        "ブルンジ"
+      ],
+      "Cambodia": [
+        "カンボジア"
+      ],
+      "Cameroon": [
+        "カメルーン"
+      ],
+      "Canada": [
+        "カナダ"
+      ],
+      "Cape Verde": [
+        "カーボベルデ"
+      ],
+      "Cayman Islands": [
+        "ケイマン諸島"
+      ],
+      "Central African Republic": [
+        "中央アフリカ共和国"
+      ],
+      "Chad": [
+        "チャド"
+      ],
+      "Chile": [
+        "チリ"
+      ],
+      "China": [
+        "中国"
+      ],
+      "Christmas Island": [
+        "クリスマス島"
+      ],
+      "Cocos (Keeling) Islands": [
+        "ココス (キーリング) 諸島"
+      ],
+      "Colombia": [
+        "コロンビア"
+      ],
+      "Comoros": [
+        "コモロ"
+      ],
+      "Congo": [
+        "コンゴ"
+      ],
+      "Congo, Democratic Republic of the": [
+        "コンゴ民主共和国"
+      ],
+      "Cook Islands": [
+        "クック諸島"
+      ],
+      "Costa Rica": [
+        "コスタリカ"
+      ],
+      "Croatia": [
+        "クロアチア"
+      ],
+      "Cuba": [
+        "キューバ"
+      ],
+      "Curaçao": [
+        "キュラソー島"
+      ],
+      "Cyprus": [
+        "キプロス"
+      ],
+      "Czech Republic": [
+        "チェコ共和国"
+      ],
+      "Côte d'Ivoire": [
+        "コートジボワール"
+      ],
+      "Denmark": [
+        "デンマーク"
+      ],
+      "Djibouti": [
+        "ジブチ"
+      ],
+      "Dominica": [
+        "ドミニカ"
+      ],
+      "Dominican Republic": [
+        "ドミニカ共和国"
+      ],
+      "Ecuador": [
+        "エクアドル"
+      ],
+      "Egypt": [
+        "エジプト"
+      ],
+      "El Salvador": [
+        "エルサルバドル"
+      ],
+      "Equatorial Guinea": [
+        "赤道ギニア"
+      ],
+      "Eritrea": [
+        "エリトリア"
+      ],
+      "Estonia": [
+        "エストニア"
+      ],
+      "Eswatini": [
+        "スワジランド"
+      ],
+      "Ethiopia": [
+        "エチオピア"
+      ],
+      "Falkland Islands": [
+        "フォークランド諸島"
+      ],
+      "Faroe Islands": [
+        "フェロー諸島"
+      ],
+      "Federated States of Micronesia": [
+        "ミクロネシア連邦"
+      ],
+      "Fiji": [
+        "フィジー"
+      ],
+      "Finland": [
+        "フィンランド"
+      ],
+      "France": [
+        "フランス"
+      ],
+      "French Guiana": [
+        "フランス領ギアナ"
+      ],
+      "French Polynesia": [
+        "フランス領ポリネシア"
+      ],
+      "French Southern Territories": [
+        "フランス領南方・南極地域"
+      ],
+      "Gabon": [
+        "ガボン"
+      ],
+      "Gambia": [
+        "ガンビア"
+      ],
+      "Georgia": [
+        "ジョージア"
+      ],
+      "Germany": [
+        "ドイツ"
+      ],
+      "Ghana": [
+        "ガーナ"
+      ],
+      "Gibraltar": [
+        "ジブラルタル"
+      ],
+      "Greece": [
+        "ギリシャ"
+      ],
+      "Greenland": [
+        "グリーンランド"
+      ],
+      "Grenada": [
+        "グレナダ"
+      ],
+      "Guadeloupe": [
+        "グアドループ"
+      ],
+      "Guam": [
+        "グアム"
+      ],
+      "Guatemala": [
+        "グアテマラ"
+      ],
+      "Guernsey": [
+        "ガーンジー"
+      ],
+      "Guinea": [
+        "ギニア"
+      ],
+      "Guinea-Bissau": [
+        "ギニアビサウ"
+      ],
+      "Guyana": [
+        "ガイアナ"
+      ],
+      "Haiti": [
+        "ハイチ"
+      ],
+      "Heard Island and McDonald Islands": [
+        "ハード島とマクドナルド諸島"
+      ],
+      "Holy See (Vatican City State)": [
+        "聖座 (バチカン市国)"
+      ],
+      "Honduras": [
+        "ホンジュラス"
+      ],
+      "Hong Kong": [
+        "香港"
+      ],
+      "Hungary": [
+        "ハンガリー"
+      ],
+      "Iceland": [
+        "アイスランド"
+      ],
+      "India": [
+        "インド"
+      ],
+      "Indonesia": [
+        "インドネシア"
+      ],
+      "International": [
+        "国際"
+      ],
+      "Iran": [
+        "イラン"
+      ],
+      "Iraq": [
+        "イラク"
+      ],
+      "Ireland": [
+        "アイルランド"
+      ],
+      "Isle of Man": [
+        "マン島"
+      ],
+      "Israel": [
+        "イスラエル"
+      ],
+      "Italy": [
+        "イタリア"
+      ],
+      "Jamaica": [
+        "ジャマイカ"
+      ],
+      "Japan": [
+        "日本"
+      ],
+      "Jersey": [
+        "ジャージー"
+      ],
+      "Jordan": [
+        "ヨルダン"
+      ],
+      "Kazakhstan": [
+        "カザフスタン"
+      ],
+      "Kenya": [
+        "ケニア"
+      ],
+      "Kiribati": [
+        "キリバス"
+      ],
+      "Kosovo": [
+        "コソボ"
+      ],
+      "Kuwait": [
+        "クウェート"
+      ],
+      "Kyrgyzstan": [
+        "キルギス"
+      ],
+      "Laos": [
+        "ラオス"
+      ],
+      "Latvia": [
+        "ラトビア"
+      ],
+      "Lebanon": [
+        "レバノン"
+      ],
+      "Lesotho": [
+        "レソト"
+      ],
+      "Liberia": [
+        "リベリア"
+      ],
+      "Libya": [
+        "リビア"
+      ],
+      "Liechtenstein": [
+        "リヒテンシュタイン"
+      ],
+      "Lithuania": [
+        "リトアニア"
+      ],
+      "Luxembourg": [
+        "ルクセンブルク"
+      ],
+      "Macao": [
+        "マカオ"
+      ],
+      "Madagascar": [
+        "マダカスカル"
+      ],
+      "Malawi": [
+        "マラウイ"
+      ],
+      "Malaysia": [
+        "マレーシア"
+      ],
+      "Maldives": [
+        "モルディブ"
+      ],
+      "Mali": [
+        "マリ"
+      ],
+      "Malta": [
+        "マルタ"
+      ],
+      "Marshall Islands": [
+        "マーシャル諸島"
+      ],
+      "Martinique": [
+        "マルティニーク"
+      ],
+      "Mauritania": [
+        "モーリタニア"
+      ],
+      "Mauritius": [
+        "モーリシャス"
+      ],
+      "Mayotte": [
+        "マヨット"
+      ],
+      "Mexico": [
+        "メキシコ"
+      ],
+      "Moldova": [
+        "モルドバ"
+      ],
+      "Monaco": [
+        "モナコ"
+      ],
+      "Mongolia": [
+        "モンゴル"
+      ],
+      "Montenegro": [
+        "モンテネグロ"
+      ],
+      "Montserrat": [
+        "モントセラト"
+      ],
+      "Morocco": [
+        "モロッコ"
+      ],
+      "Mozambique": [
+        "モザンビーク"
+      ],
+      "Myanmar": [
+        "ビルマ"
+      ],
+      "Namibia": [
+        "ナミビア"
+      ],
+      "Nauru": [
+        "ナウル"
+      ],
+      "Nepal": [
+        "ネパール"
+      ],
+      "Netherlands": [
+        "オランダ"
+      ],
+      "New Caledonia": [
+        "ニューカレドニア"
+      ],
+      "New Zealand": [
+        "ニュージーランド"
+      ],
+      "Nicaragua": [
+        "ニカラグア"
+      ],
+      "Niger": [
+        "ニジェール"
+      ],
+      "Nigeria": [
+        "ナイジェリア"
+      ],
+      "Niue": [
+        "ニウエ"
+      ],
+      "Norfolk Island": [
+        "ノーフォーク島"
+      ],
+      "North Korea": [
+        "北朝鮮"
+      ],
+      "North Macedonia": [
+        "北マケドニア"
+      ],
+      "Northern Mariana Islands": [
+        "北マリアナ諸島"
+      ],
+      "Norway": [
+        "ノルウェー"
+      ],
+      "Oman": [
+        "オマーン"
+      ],
+      "Pakistan": [
+        "パキスタン"
+      ],
+      "Palau": [
+        "パラオ"
+      ],
+      "Palestine": [
+        "パレスチナ"
+      ],
+      "Panama": [
+        "パナマ"
+      ],
+      "Papua New Guinea": [
+        "パプアニューギニア"
+      ],
+      "Paraguay": [
+        "パラグアイ"
+      ],
+      "Peru": [
+        "ペルー"
+      ],
+      "Philippines": [
+        "フィリピン"
+      ],
+      "Pitcairn": [
+        "ピトケアン諸島"
+      ],
+      "Poland": [
+        "ポーランド"
+      ],
+      "Portugal": [
+        "ポルトガル"
+      ],
+      "Puerto Rico": [
+        "プエルトリコ"
+      ],
+      "Qatar": [
+        "カタール"
+      ],
+      "Reunion": [
+        "レユニオン"
+      ],
+      "Romania": [
+        "ルーマニア"
+      ],
+      "Russia": [
+        "ロシア"
+      ],
+      "Rwanda": [
+        "ルワンダ"
+      ],
+      "Saint Barthélemy": [
+        "サン・バルテルミー島"
+      ],
+      "Saint Helena": [
+        "セントヘレナ島"
+      ],
+      "Saint Kitts and Nevis": [
+        "セントクリストファー・ネービス"
+      ],
+      "Saint Lucia": [
+        "セントルシア"
+      ],
+      "Saint Martin (French Part)": [
+        "サン・マルタン (フランス領)"
+      ],
+      "Saint Pierre and Miquelon": [
+        "サンピエール島・ミクロン島"
+      ],
+      "Saint Vincent and the Grenadines": [
+        "セントビンセントおよびグレナディーン諸島"
+      ],
+      "Samoa": [
+        "サモア"
+      ],
+      "San Marino": [
+        "サンマリノ"
+      ],
+      "Sao Tome and Principe": [
+        "サントメ・プリンシペ"
+      ],
+      "Saudi Arabia": [
+        "サウジアラビア"
+      ],
+      "Senegal": [
+        "セネガル"
+      ],
+      "Serbia": [
+        "セルビア"
+      ],
+      "Seychelles": [
+        "セーシェル"
+      ],
+      "Sierra Leone": [
+        "シエラレオネ"
+      ],
+      "Singapore": [
+        "シンガポール"
+      ],
+      "Sint Maarten": [
+        "セント・マーチン島"
+      ],
+      "Slovakia": [
+        "スロバキア"
+      ],
+      "Slovenia": [
+        "スロベニア"
+      ],
+      "Solomon Islands": [
+        "ソロモン諸島"
+      ],
+      "Somalia": [
+        "ソマリア"
+      ],
+      "South Africa": [
+        "南アフリカ"
+      ],
+      "South Georgia and the South Sandwich Islands": [
+        "サウスジョージア島と南サンドイッチ諸島"
+      ],
+      "South Korea": [
+        "韓国"
+      ],
+      "South Ossetia": [
+        "南オセチア"
+      ],
+      "South Sudan": [
+        "南スーダン"
+      ],
+      "Spain": [
+        "スペイン"
+      ],
+      "Sri Lanka": [
+        "スリランカ"
+      ],
+      "Sudan": [
+        "スーダン"
+      ],
+      "Suriname": [
+        "スリナム"
+      ],
+      "Svalbard and Jan Mayen": [
+        "スヴァールバル諸島およびヤンマイエン島"
+      ],
+      "Sweden": [
+        "スウェーデン"
+      ],
+      "Switzerland": [
+        "スイス"
+      ],
+      "Syria": [
+        "シリア"
+      ],
+      "Taiwan": [
+        "台湾"
+      ],
+      "Tajikistan": [
+        "タジキスタン"
+      ],
+      "Tanzania": [
+        "タンザニア"
+      ],
+      "Thailand": [
+        "タイ"
+      ],
+      "Timor-Leste": [
+        "東ティモール"
+      ],
+      "Togo": [
+        "トーゴ"
+      ],
+      "Tokelau": [
+        "トケラウ"
+      ],
+      "Tonga": [
+        "トンガ"
+      ],
+      "Trinidad and Tobago": [
+        "トリニダード・ドバゴ"
+      ],
+      "Tristan da Cunha": [
+        "トリスタンダクーニャ"
+      ],
+      "Tunisia": [
+        "チュニジア"
+      ],
+      "Turkey": [
+        "トルコ"
+      ],
+      "Turkmenistan": [
+        "トルクメニスタン"
+      ],
+      "Turks and Caicos Islands": [
+        "タークス・カイコス諸島"
+      ],
+      "Tuvalu": [
+        "ツバル"
+      ],
+      "Uganda": [
+        "ウガンダ"
+      ],
+      "Ukraine": [
+        "ウクライナ"
+      ],
+      "United Arab Emirates": [
+        "アラブ首長国連邦"
+      ],
+      "United Kingdom": [
+        "イギリス"
+      ],
+      "United States": [
+        "アメリカ"
+      ],
+      "United States Minor Outlying Islands": [
+        "合衆国領有小離島"
+      ],
+      "Uruguay": [
+        "ウルグアイ"
+      ],
+      "Uzbekistan": [
+        "ウズベキスタン"
+      ],
+      "Vanuatu": [
+        "バヌアツ"
+      ],
+      "Venezuela": [
+        "ベネズエラ"
+      ],
+      "Vietnam": [
+        "ベトナム"
+      ],
+      "Virgin Islands, British": [
+        "イギリス領ヴァージン諸島"
+      ],
+      "Virgin Islands, U.S.": [
+        "アメリカ領ヴァージン諸島"
+      ],
+      "Wallis and Futuna": [
+        "ウォリス・フツナ"
+      ],
+      "Western Sahara": [
+        "西サハラ"
+      ],
+      "Yemen": [
+        "イエメン"
+      ],
+      "Zambia": [
+        "ザンビア"
+      ],
+      "Zimbabwe": [
+        "ジンバブエ"
+      ],
+      "Åland Islands": [
+        "オーランド諸島"
+      ]
+    },
+    "Custom frequency option": {
+      "After repeating…": [
+        "指定の回数"
+      ],
+      "Never": [
+        "繰り返し続ける"
+      ],
+      "On date…": [
+        "指定の日付まで"
+      ],
+      "times": [
+        "回"
+      ]
+    },
+    "Daily recurring event, frequency": {
+      "${ count } times": [
+        "${ count } 回"
+      ],
+      "Daily": [
+        "毎日"
+      ],
+      "Daily, ${ timesString }": [
+        "毎日、${ timesString }"
+      ],
+      "Daily, ${ untilString }": [
+        "毎日、${ untilString }"
+      ],
+      "Every ${ interval } days": [
+        "${ interval } 日毎"
+      ],
+      "Every ${ interval } days, ${ timesString }": [
+        "${ interval } 日毎、${ timesString }"
+      ],
+      "Every ${ interval } days, ${ untilString }": [
+        "${ interval } 日毎、${ untilString }"
+      ],
+      "until ${ dateString }": [
+        "${ dateString } まで"
+      ]
+    },
+    "Default display name vcard": {
+      "Unknown": [
+        "不明"
+      ]
+    },
+    "Default encryption scheme": {
+      "Use global default (${ defaultValueText })": [
+        "全体の既定値を使用 (${ defaultValueText })"
+      ]
+    },
+    "Delinquent modal title": {
+      "Overdue invoice": [
+        "未払いの請求"
+      ]
+    },
+    "Description": {
+      "Decrypting contacts… This may take a few minutes. When the process is completed, you will be able to download the file with all your contacts exported.": [
+        "連絡先を復号しています… これには数分かかります。完了するとエクスポートされたすべての連絡先がダウンロードできるようになります。"
+      ],
+      "Deleting contacts... This may take a few minutes. When the process is completed, you can close this modal.": [
+        "連絡先を削除しています... これには数分かかる場合があります。処理が完了したらこのモーダルを閉じることができます。"
+      ],
+      "Encrypting and importing contacts... This may take a few minutes. When the process is completed, you can close this modal.": [
+        "連絡先の暗号化とインポート... これには数分かかることがあります。\n処理が完了すると、このモーダルを閉じることができます。"
+      ],
+      "It looks like the contact list you are importing contains some groups. Please review how these groups should be imported.": [
+        "インポートしようとしている連絡先リストにはいくつかのグループが含まれています。どのようにグループのインポートするか確認してください。"
+      ],
+      "Merging contacts... This may take a few minutes. When the process is completed, you can close this modal.": [
+        "連絡先の統合しています... これには数分かかる場合があります。処理が完了したらこのモーダルを閉じることができます。"
+      ],
+      "The file should have a maximum size of ${ MAX_IMPORT_FILE_SIZE_STRING } and have up to ${ MAX_IMPORT_CONTACTS_STRING } contacts. If your file is bigger, please split it into smaller files.": [
+        "最大 ${ MAX_IMPORT_FILE_SIZE_STRING } のファイルサイズ、最大 ${ MAX_IMPORT_CONTACTS_STRING } 件の連絡先に対応しています。それより大きなファイルは、分割してください。"
+      ],
+      "Use Drag and Drop to rank merging priority between contacts. Uncheck the contacts you do not want to merge.": [
+        "ドラッグアンドドロップを使って連絡先の優先順位を決めてください。チェックを解除するとこの連絡先は結合されません。"
+      ],
+      "You can import events in iCal format (ICS file). The file should have a maximum size of ${ MAX_IMPORT_FILE_SIZE_STRING } and have up to ${ MAX_IMPORT_EVENTS_STRING } events. If your file is bigger, please split it into smaller files.": [
+        "iCal 形式 (ICS ファイル) をインポートできます。インポートするファイルは ${ MAX_IMPORT_FILE_SIZE_STRING } 以下でかつ、予定の数は ${ MAX_IMPORT_EVENTS_STRING } 件以下である必要があります。もし、インポートしようとしているファイルが大きすぎる場合、小さなファイルに分割してインポートしてください。"
+      ],
+      "You can mark for deletion the contacts that you do not want neither to merge nor to keep. Deletion will only take place after the merge button is clicked": [
+        "結合または保持する必要のない連絡先を削除するためにマークができます。 削除はマージボタンがクリックされた後にのみ行われます"
+      ]
+    },
+    "Description of the purpose of the import CSV modal": {
+      "Also, we have automatically matched CSV fields with vCard fields. You can review and change this matching manually.": [
+        "また、CSVのフィールドを自動的にvCardのフィールドに変換しています。手動で変換が正しく行われているか確かめることもできます。"
+      ],
+      "We have detected the following fields in the CSV file you uploaded. Check the ones you want to import.": [
+        "アップロードされたCSVファイルから以下のフィールドを検出しました。インポートされたいものを選択してください。"
+      ]
+    },
+    "Disabled calendar": {
+      "Disabled": [
+        "無効"
+      ]
+    },
+    "Disabled calendar name suffix": {
+      "Disabled": [
+        "無効"
+      ]
+    },
+    "Disabled calendar tooltip": {
+      "The event belongs to a disabled calendar.": [
+        "無効なカレンダーの予定です。"
+      ]
+    },
+    "Don't ask to update timezone checkbox label": {
+      "Don't ask again": [
+        "再度表示しない"
+      ]
+    },
+    "Dropdown action icon tooltip": {
+      "Add calendar": [
+        "カレンダーを追加"
+      ]
+    },
+    "Duration": {
+      "120 minutes": [
+        "120分"
+      ],
+      "30 minutes": [
+        "30分"
+      ],
+      "60 minutes": [
+        "60分"
+      ],
+      "90 minutes": [
+        "90分"
+      ]
+    },
+    "Early Access Disabled": {
+      "Off": [
+        "無効"
+      ]
+    },
+    "Early Access Enabled": {
+      "On": [
+        "有効"
+      ]
+    },
+    "Email body for description (description part)": {
+      "Description: ${ eventDescription }": [
+        "説明: ${ eventDescription }"
+      ]
+    },
+    "Email body for invitation": {
+      "${ eventTitle } has been canceled.": [
+        "${ eventTitle } はキャンセルされました。"
+      ],
+      "${ eventTitle } has been updated.\n${ eventDetailsText }": [
+        "${ eventTitle } が更新されました。\n${ eventDetailsText }"
+      ],
+      "You are invited to ${ eventTitle }\n${ eventDetailsText }": [
+        "${ eventTitle } に招待されました\n${ eventDetailsText }"
+      ]
+    },
+    "Email body for invitation (date part)": {
+      "When: ${ formattedStart }": [
+        "時期: ${ formattedStart }"
+      ],
+      "When: ${ formattedStart } (all day)": [
+        "日時: ${ formattedStart } (終日)"
+      ],
+      "When: ${ formattedStart } - ${ formattedEnd }": [
+        "時期: ${ formattedStart } - ${ formattedEnd }"
+      ]
+    },
+    "Email body for invitation (location part)": {
+      "Where: ${ eventLocation }": [
+        "場所: ${ eventLocation }"
+      ]
+    },
+    "Email body for response to invitation": {
+      "${ emailAddress } has accepted your invitation to ${ eventTitle }": [
+        "${ emailAddress } は${ eventTitle } への招待を承諾しました"
+      ],
+      "${ emailAddress } has declined your invitation to ${ eventTitle }": [
+        "${ emailAddress } は${ eventTitle } への招待を辞退しました"
+      ],
+      "${ emailAddress } has tentatively accepted your invitation to ${ eventTitle }": [
+        "${ emailAddress } は、${ eventTitle } への招待を暫定的に承認しました"
+      ]
+    },
+    "Email subject": {
+      "Cancellation of an event on ${ formattedStart }": [
+        "${ formattedStart } の予定のキャンセル"
+      ],
+      "Cancellation of an event starting on ${ formattedStart }": [
+        "${ formattedStart } から始まる予定のキャンセル"
+      ],
+      "Invitation for an event on ${ formattedStart }": [
+        "${ formattedStart } の予定への招待"
+      ],
+      "Invitation for an event starting on ${ formattedStart }": [
+        "${ formattedStart } から始まる予定の招待"
+      ],
+      "Update for an event on ${ formattedStart }": [
+        "${ formattedStart } の予定の更新"
+      ],
+      "Update for an event starting on ${ formattedStart }": [
+        "${ formattedStart } から始まる予定の更新"
+      ]
+    },
+    "Error": {
+      "A group with this name already exists": [
+        "この名前のグループは既に存在します"
+      ],
+      "Account does not exist": [
+        "アカウントは存在しません"
+      ],
+      "Address primary private key not found": [
+        "メールアドレスのプライマリー秘密鍵が見つかりません"
+      ],
+      "Already a member of this calendar": [
+        "すでにカレンダーのメンバーです"
+      ],
+      "Answer failed to be sent": [
+        "回答の送信に失敗しました"
+      ],
+      "Authentication canceled.": [
+        "認証がキャンセルされました。"
+      ],
+      "Authentication error.": [
+        "認証エラー。"
+      ],
+      "Calendar limit reached": [
+        "カレンダーの制限に達しました"
+      ],
+      "Cancellation failed to be sent": [
+        "予定中止の通知を送信できませんでした"
+      ],
+      "Contact could not be saved": [
+        "連絡先を保存できませんでした"
+      ],
+      "Contact signature could not be verified": [
+        "連絡先の署名を確認できませんでした"
+      ],
+      "Contact signature not verified": [
+        "連絡先の署名が検証されていません"
+      ],
+      "Decryption error: Decryption of this event's content failed.": [
+        "復号エラー：この予定の内容の復号に失敗しました。"
+      ],
+      "Deselect at least ${ calendarToFixCount } calendars": [
+        "${ calendarToFixCount } 件のカレンダーの選択を解除"
+      ],
+      "Deselect at least ${ calendarToFixCount } calendars or": [
+        "${ calendarToFixCount } 件のカレンダーの選択を解除するか"
+      ],
+      "Domain not available, try again later": [
+        "ドメインが利用できません。再度お試しください。"
+      ],
+      "Email address disabled": [
+        "メールアドレスが無効です"
+      ],
+      "Email address invalid": [
+        "メールアドレスが不正です"
+      ],
+      "Email is not valid": [
+        "メールアドレスが無効です"
+      ],
+      "Ends on date cannot be empty": [
+        "最終日を設定してください"
+      ],
+      "Ends on date must be after start time": [
+        "終了日は開始日の後に設定してください。"
+      ],
+      "Enter 6 digits": [
+        "6 桁の数字を入力してください"
+      ],
+      "Error": [
+        "エラーが発生しました"
+      ],
+      "Error: ${ errorMessage }": [
+        "エラー： ${ errorMessage }"
+      ],
+      "Failed to get original occurrence in series": [
+        "元の行事の取得に失敗しました"
+      ],
+      "Folder name cannot be empty.": [
+        "フォルダー名は空にできません。"
+      ],
+      "Image upload failed": [
+        "画像のアップロードに失敗しました"
+      ],
+      "Incorrect login credentials. Please try again.": [
+        "無効なログイン情報です。再度お試しください。"
+      ],
+      "Incorrect mailbox password. Please try again.": [
+        "無効な受信トレイのパスワードです。再度お試しください。"
+      ],
+      "Interval cannot be empty": [
+        "間隔を空にすることはできません"
+      ],
+      "Invalid email address": [
+        "メールアドレスが正しくありません"
+      ],
+      "Invalid link to the event": [
+        "予定の共有リンクを開けませんでした"
+      ],
+      "Invalid name": [
+        "無効な名前です"
+      ],
+      "Invalid public key file": [
+        "無効な公開鍵ファイル"
+      ],
+      "Invalid verification code": [
+        "無効な検証コード"
+      ],
+      "Invitation failed to be sent": [
+        "招待の送信に失敗しました"
+      ],
+      "It is only possible to create events between ${ minDateString } - ${ maxDateString }": [
+        "予定は${ minDateString }から${ maxDateString }まで作成可能です"
+      ],
+      "It is only possible to move events between ${ minDateString } - ${ maxDateString }": [
+        "予定は${ minDateString }から${ maxDateString }まで移動可能です"
+      ],
+      "Label name cannot be empty.": [
+        "ラベル名を空にできません。"
+      ],
+      "Merge at least ${ calendarToFixCount } calendars with existing ${ BRAND_NAME } calendars": [
+        "${ calendarToFixCount } 件のカレンダーを既存の ${ BRAND_NAME } カレンダーに結合します"
+      ],
+      "Missing key packet": [
+        "キーパケットが利用できません"
+      ],
+      "Missing signature": [
+        "署名がありません"
+      ],
+      "Name required": [
+        "名前を入力してください"
+      ],
+      "No calendars found to import": [
+        "インポートするカレンダーが見つかりません"
+      ],
+      "No contacts found to import": [
+        "インポートする連絡先が見つかりません"
+      ],
+      "No emails found to import - the account does not have an inbox": [
+        "インポートするメールがありません - アカウントに受信箱がありません"
+      ],
+      "No valid address found": [
+        "有効なアドレスが見つかりません"
+      ],
+      "No WKD key retrieved for user is valid for sending": [
+        "ユーザーのWKD 鍵が送信に使用できません"
+      ],
+      "Not a ${ BRAND_NAME } account": [
+        "${ BRAND_NAME } アカウントではありません"
+      ],
+      "Not a valid number": [
+        "無効な番号です"
+      ],
+      "Number of occurrences cannot be empty": [
+        "行事の数を設定してください"
+      ],
+      "Passwords do not match": [
+        "パスワードが一致しません"
+      ],
+      "Please create an address first.": [
+        "アドレスを最初に作成してください。"
+      ],
+      "Please fix the highlighted conflicts to proceed.": [
+        "続行するためにハイライトされた競合を修正してください。"
+      ],
+      "Please try to reauthenticate and make sure the permissions are set correctly.": [
+        "再認証を行い、権限が正しく設定されていることを確認してください。"
+      ],
+      "Primary address key is not decrypted": [
+        "プライマリーアドレス鍵が復号されていません"
+      ],
+      "Primary address key is not decrypted.": [
+        "プライマリーアドレス鍵が復号されていません。"
+      ],
+      "Primary key is not valid for sending": [
+        "メインの鍵を使って送信することができません"
+      ],
+      "Primary key retrieved for ${ BRAND_NAME } user is not valid for sending": [
+        "${ BRAND_NAME }ユーザーに割り当てた鍵は送信用ではありません"
+      ],
+      "Removed duplicate recipients: ${ joinedRecipients }": [
+        "重複していた宛先を削除しました（${ joinedRecipients }）"
+      ],
+      "Request timed out": [
+        "リクエストがタイムアウトしました"
+      ],
+      "Self invitation not allowed": [
+        "自分自身を招待することはできません"
+      ],
+      "Signature not verified": [
+        "署名が検証されていません"
+      ],
+      "Signature verification failed": [
+        "署名の検証に失敗しました"
+      ],
+      "Some contacts could not be deleted": [
+        "一部の連絡先を削除できませんでした"
+      ],
+      "Some contacts don't have a valid email address: ${ list }": [
+        "次の連絡先には有効なメールアドレスが登録されていません: ${ list }"
+      ],
+      "Some contacts have no email addresses: ${ list }": [
+        "次の連絡先にはメールアドレスがありません: ${ list }"
+      ],
+      "Some contacts have no email addresses: ${ noEmailsContactNamesList } ": [
+        "一部の連絡先にメールアドレスがありません: ${ noEmailsContactNamesList } "
+      ],
+      "Some groups could not be deleted": [
+        "一部のグループは削除できませんでした"
+      ],
+      "Some groups have invalid emails: ${ list }": [
+        "次のグループには正しくないメールアドレスが登録されています: ${ list }"
+      ],
+      "Some groups have no contacts: ${ list }": [
+        "次のグループには連絡先が追加されていません: ${ list }"
+      ],
+      "Some groups have no contacts: ${ noContactGroupList } ": [
+        "次のグループには連絡先が追加されていません: ${ noContactGroupList } "
+      ],
+      "Some of your folder names are reserved. Please customize the import to edit these names.": [
+        "フォルダー名の中に予約済みのものがあります。これらの名前を編集するためにインポートをカスタマイズしてください。"
+      ],
+      "Some of your folder names are unavailable. Please customize the import to edit these names.": [
+        "フォルダー名の中に無効なものがあります。これらの名前を編集するためにインポートをカスタマイズしてください。"
+      ],
+      "Some of your folder names exceed ${ MAIL_APP_NAME }'s maximum character limit. Please customize the import to edit these names.": [
+        "フォルダー名の中に ${ MAIL_APP_NAME } の最大文字数の上限を超えるものがあります。これらの名前を編集するためにインポートをカスタマイズしてください。"
+      ],
+      "Some of your label names are reserved. Please customize the import to edit these names.": [
+        "ラベル名の中に予約済みのものがあります。これらの名前を編集するためにインポートをカスタマイズしてください。"
+      ],
+      "Some of your label names are unavailable. Please customize the import to edit these names.": [
+        "ラベル名の中に無効なものがあります。これらの名前を編集するためにインポートをカスタマイズしてください。"
+      ],
+      "Some of your label names exceed ${ MAIL_APP_NAME }'s maximum character limit. Please customize the import to edit these names.": [
+        "ラベル名の中に ${ MAIL_APP_NAME } の最大文字数の上限を超えるものがあります。これらの名前を編集するためにインポートをカスタマイズしてください。"
+      ],
+      "Something went wrong, please ${ refresh } in order to proceed. If you still see this error message please contact our ${ supportTeam }.": [
+        "エラーが発生しました。続行するには ${ refresh } してください。それでもこのエラーが発生する場合は ${ supportTeam } までお問い合わせください。"
+      ],
+      "Start time must be before end time": [
+        "開始日時は終了日時の前に設定してください。"
+      ],
+      "The address might be misspelled": [
+        "アドレスの綴りが違う可能性があります"
+      ],
+      "The folder name is invalid. Please choose a different name.": [
+        "このフォルダー名は無効です。別の名前を選択してください。"
+      ],
+      "The folder name is too long. Please choose a different name.": [
+        "フォルダー名が長すぎます。別の名前を選択してください。"
+      ],
+      "The label name is invalid. Please choose a different name.": [
+        "このラベル名は無効です。別の名前を選択してください。"
+      ],
+      "The label name is too long. Please choose a different name.": [
+        "ラベル名が長すぎます。別の名前を選択してください。"
+      ],
+      "The sending key is not valid": [
+        "送信用の鍵が有効ではありません"
+      ],
+      "There are too many folders in your external account. Please customize the import to delete some folders.": [
+        "外部アカウントのフォルダーが多すぎます。いくつかのフォルダーを削除するにはインポートをカスタマイズしてください。"
+      ],
+      "There was an error when exporting the contacts vCards": [
+        "連絡先の vCard のエクスポート中にエラーが発生しました"
+      ],
+      "This field is required": [
+        "この項目の入力は必須です"
+      ],
+      "This field requires a minimum of ${ minimumLength } characters.": [
+        "このフィールドには ${ minimumLength } 文字以上の入力が必要です。"
+      ],
+      "This folder name is not available. Please choose a different name.": [
+        "このフォルダー名は利用できません。別の名前を選択してください。"
+      ],
+      "This label name is not available. Please choose a different name.": [
+        "このラベル名は利用できません。別の名前を選択してください。"
+      ],
+      "This message may contain some link's URL that cannot be properly opened by your current browser.": [
+        "このメッセージには現在のブラウザーで正しく開けない URL を含んでいる可能性があります。"
+      ],
+      "Trusted keys are not valid for sending": [
+        "信頼された鍵が送信に使用できません"
+      ],
+      "Unknown error": [
+        "原因不明なエラーが発生しました"
+      ],
+      "Validation error": [
+        "検証エラー"
+      ],
+      "We were unable to connect to your service provider.": [
+        "サービスプロバイダーに接続できませんでした。"
+      ],
+      "You can't send a mail to more than 100 recipients": [
+        "100 人以上の受信者にメールを送信することはできません"
+      ],
+      "You can't send vCards of more than 10 contacts": [
+        "10 件以上の連絡先の vCard を送信することはできません"
+      ],
+      "You have reached the maximum number of personal calendars. Some calendars couldn't be imported.": [
+        "個人カレンダーの制限のためすべてのインポートされたカレンダーのための新しいカレンダーを作成できません。"
+      ],
+      "You must set a name": [
+        "名前を設定してください"
+      ],
+      "Your import will not be processed.": [
+        "インポートできませんでした。"
+      ]
+    },
+    "Error accepting calendar invitation": {
+      "Invited address does not exist": [
+        "無効なアドレスは存在しません"
+      ]
+    },
+    "Error importing calendar": {
+      "An error occurred reading your file ${ formattedFilename }. File does not have the right format.": [
+        "ファイル　${ formattedFilename }の読み取り中にエラーが発生しました。ファイルのフォーマットが正しくありません。"
+      ],
+      "An error occurred uploading your file ${ formattedFilename }. Maximum file size is ${ MAX_IMPORT_FILE_SIZE_STRING }.": [
+        "ファイル ${ formattedFilename } のアップロード中にエラーが発生しました。最大ファイルサイズは${ MAX_IMPORT_FILE_SIZE_STRING }です。"
+      ],
+      "An error occurred uploading your file ${ formattedFilename }. Only ICS file formats are allowed.": [
+        "ファイル ${ formattedFilename } のアップロード中にエラーが発生しました。ICS ファイル形式のみが許可されています。"
+      ],
+      "An error occurred uploading your file. No file has been selected.": [
+        "ファイルのアップロード中にエラーが発生しました。ファイルが選択されていません。"
+      ],
+      "An unexpected error occurred. Import must be restarted.": [
+        "予期しないエラーが発生しました。インポートを再起動する必要があります。"
+      ],
+      "Your file ${ formattedFilename } contains more than ${ MAX_IMPORT_EVENTS_STRING } events.": [
+        "ファイル ${ formattedFilename } には ${ MAX_IMPORT_EVENTS_STRING } 以上の予定が含まれています。"
+      ],
+      "Your file ${ formattedFilename } has an invalid method and cannot be imported.": [
+        "ファイル　${ formattedFilename }はメソッドが正しくなく、インポートできません。"
+      ],
+      "Your file ${ formattedFilename } has no events to be imported.": [
+        "ファイル　${ formattedFilename }にはインポートする連絡先がありません。"
+      ],
+      "Your file ${ formattedFilename } is empty.": [
+        "ファイル　${ formattedFilename }は空です。"
+      ],
+      "Your file ${ formattedFilename } is not a calendar.": [
+        "ファイル　${ formattedFilename }はカレンダーではありません。"
+      ]
+    },
+    "Error importing contact": {
+      "Encryption failed": [
+        "暗号化に失敗しました"
+      ],
+      "vCard versions < 3.0 not supported": [
+        "vCard バージョン 3.0 以前はサポートされていません"
+      ]
+    },
+    "Error importing contacts": {
+      "An error occurred reading your file ${ formattedFilename }. File doesn't have the right format.": [
+        "ファイル ${ formattedFilename } の読み取り中にエラーが発生しました。ファイルに正しい形式がありません。"
+      ],
+      "An error occurred uploading your file ${ formattedFilename }. Maximum file size is ${ MAX_IMPORT_FILE_SIZE_STRING }.": [
+        "ファイル ${ formattedFilename } をアップロードしているときにエラーが発生しました。最大ファイルサイズは ${ MAX_IMPORT_FILE_SIZE_STRING } です。"
+      ],
+      "An error occurred uploading your file ${ formattedFilename }. No .csv or .vcf file selected": [
+        "ファイル ${ formattedFilename } のアップロード中にエラーが発生しました。.csv または .vcf ファイルが選択されていません。"
+      ],
+      "An error occurred uploading your file. No file has been selected.": [
+        "ファイルのアップロード中にエラーが発生しました。ファイルが選択されていません。"
+      ],
+      "Your file ${ formattedFilename } contains more than ${ MAX_IMPORT_CONTACTS_STRING } contacts.": [
+        "あなたのファイル ${ formattedFilename } には${ MAX_IMPORT_CONTACTS_STRING } 以上の連絡先が含まれています。"
+      ],
+      "Your file ${ formattedFilename } has no contacts to be imported.": [
+        "ファイル ${ formattedFilename } にインポートする連絡先がありません。"
+      ],
+      "Your file ${ formattedFilename } is empty.": [
+        "ファイル${ formattedFilename } は空です。"
+      ]
+    },
+    "Error importing event": {
+      "Bad format. Component cannot be read.": [
+        "不正なフォーマットです。コンポーネントを読み込めません。"
+      ],
+      "Calendar": [
+        "カレンダー"
+      ],
+      "Calendar time zone not supported": [
+        "カレンダーのタイムゾーンはサポートされていません"
+      ],
+      "Component with wrong format": [
+        "無効なコンポーネント形式です"
+      ],
+      "Custom timezone": [
+        "独自のタイムゾーン"
+      ],
+      "Edited event not supported": [
+        "編集された予定はサポートされていません"
+      ],
+      "Element": [
+        "要素"
+      ],
+      "Encryption failed": [
+        "暗号化に失敗しました"
+      ],
+      "End time out of bounds": [
+        "終了日時が指定可能な範囲を超えています"
+      ],
+      "Event": [
+        "予定"
+      ],
+      "Event validation failed": [
+        "予定の検証に失敗しました"
+      ],
+      "Floating times not supported": [
+        "浮動時間はサポートされていません"
+      ],
+      "Free-busy time information": [
+        "予定の有無に関する情報"
+      ],
+      "Invalid event": [
+        "無効な予定です"
+      ],
+      "Journal entry": [
+        "Journal のエントリー"
+      ],
+      "Malformed all-day event": [
+        "不正な終日の予定です"
+      ],
+      "Malformed end time": [
+        "異常な終了日時です"
+      ],
+      "Malformed recurring event": [
+        "不正な定期的な予定です"
+      ],
+      "Malformed start time": [
+        "異常な開始日時です"
+      ],
+      "Missing start time": [
+        "開始日時が存在しません"
+      ],
+      "No UID, title or start time": [
+        "UID、タイトルまたは開始日時が存在しません"
+      ],
+      "Non-Gregorian": [
+        "グレゴリオ暦ではありません"
+      ],
+      "Notification out of bounds": [
+        "通知が指定可能な範囲を超えています"
+      ],
+      "Original recurring event could not be found": [
+        "元の定期的な予定が見つかりませんでした"
+      ],
+      "Recurring event has no occurrences": [
+        "定期予定の中に行事はありません。"
+      ],
+      "Recurring rule not supported": [
+        "繰り返しルールはサポートされていません"
+      ],
+      "Start time out of bounds": [
+        "開始日時が指定可能な範囲を超えています"
+      ],
+      "Time zone not supported": [
+        "タイムゾーンはサポートされていません"
+      ],
+      "Timezone": [
+        "タイムゾーン"
+      ],
+      "To-do entry": [
+        "To-do のエントリー"
+      ],
+      "Unknown": [
+        "不明"
+      ],
+      "Unsupported event": [
+        "サポートされていない予定です"
+      ]
+    },
+    "Error message": {
+      "Error: ${ errorMessage }": [
+        "エラー: ${ errorMessage }"
+      ],
+      "Invalid URL": [
+        "URLが正しくありません"
+      ],
+      "Oops, something went wrong": [
+        "エラーが発生しました。"
+      ],
+      "Please ${ refresh } or check your connection.": [
+        "${ refresh } または接続を確認してください。"
+      ],
+      "Something went wrong. Please refresh the page or try again later.": [
+        "問題が発生しました。ページを更新するか後ほど再度お試しください。"
+      ],
+      "There was a problem connecting to ${ BRAND_NAME }.": [
+        "${ BRAND_NAME } への接続中に問題が発生しました。"
+      ],
+      "You may also ${ refresh } or try again later.": [
+        "${ refresh } するか再度お試しください。"
+      ],
+      "You need an active personal calendar to import events": [
+        "予定をインポートするためにはアクティブな個人カレンダーが必要です"
+      ]
+    },
+    "Error notification": {
+      "First name and last name cannot be unchecked at the same time": [
+        "姓と名のチェックを同時にはずすことはできません"
+      ]
+    },
+    "Error notification in the bug report modal when the user upload file": {
+      "No image selected": [
+        "画像が選択されていません"
+      ]
+    },
+    "Error notification when score is missing in user feedback form modal": {
+      "Score is required": [
+        "スコアは必須です"
+      ]
+    },
+    "Event canceled status badge": {
+      "canceled": [
+        "中止"
+      ]
+    },
+    "Event delete button tooltip": {
+      "Delete event": [
+        "予定を削除"
+      ]
+    },
+    "Event duplicate button tooltip": {
+      "Duplicate event": [
+        "予定の複製"
+      ]
+    },
+    "Event edit button tooltip": {
+      "Edit event": [
+        "予定を編集"
+      ]
+    },
+    "Event form": {
+      "${ numberOfParticipants } participants": [
+        "${ numberOfParticipants } 人の参加者"
+      ]
+    },
+    "Event info. Organizer name": {
+      "You": [
+        "あなた"
+      ]
+    },
+    "Event invitation error": {
+      "Attached ICS file could not be decrypted": [
+        "添付された ICS ファイルを復号できません"
+      ],
+      "Attached ICS file could not be read": [
+        "添付された ICS ファイルを読み込めません"
+      ],
+      "Invalid invitation": [
+        "無効な招待状"
+      ],
+      "Invalid response": [
+        "無効なレスポンスです"
+      ],
+      "The event could not be added to your calendar. No answer was sent": [
+        "予定をカレンダーに追加できませんでした。回答は送信されません。"
+      ],
+      "The event could not be updated in your calendar. No answer was sent": [
+        "予定をカレンダーに追加できませんでした。回答は送信されていません。"
+      ],
+      "Unexpected error": [
+        "予期しないエラー"
+      ],
+      "Unsupported invitation": [
+        "サポートされていない招待です"
+      ],
+      "Unsupported response": [
+        "未対応のレスポンスです"
+      ],
+      "We could not cancel the event in your calendar": [
+        "カレンダーの予定をキャンセルすることができませんでした"
+      ],
+      "We could not retrieve the event from your calendar": [
+        "カレンダーからこのイベントを探し出すことができませんでした"
+      ],
+      "We could not update the event in your calendar": [
+        "カレンダーの予定を更新することができませんでした"
+      ],
+      "Your answer was sent, but the event could not be added to your calendar": [
+        "回答は送信されましたが、予定をカレンダーに追加できませんでした"
+      ],
+      "Your answer was sent, but the event could not be updated in your calendar": [
+        "回答は送信されましたが、予定をカレンダーに反映できませんでした"
+      ]
+    },
+    "Event popover close button": {
+      "Close popover": [
+        "吹き出しを閉じる"
+      ]
+    },
+    "Event reply": {
+      "maybe": [
+        "考え中"
+      ],
+      "no": [
+        "いいえ"
+      ],
+      "pending": [
+        "保留中"
+      ],
+      "yes": [
+        "はい"
+      ]
+    },
+    "Event title": {
+      "(no title)": [
+        "（タイトルなし）"
+      ]
+    },
+    "Feedback Modal Title": {
+      "Your feedback": [
+        "あなたのご意見"
+      ]
+    },
+    "fido2: Error": {
+      "Something went wrong authenticating with your security key. Please try again.": [
+        "セキュリティキーの認証に失敗しました。もう一度お試しください。"
+      ]
+    },
+    "fido2: Info": {
+      "Insert a security key linked to your ${ BRAND_NAME } Account.": [
+        "${ BRAND_NAME } アカウントに紐づけられたセキュリティキーを挿入してください。"
+      ],
+      "Security key": [
+        "セキュリティキー"
+      ]
+    },
+    "fido2: Label": {
+      "Security key": [
+        "セキュリティキー"
+      ]
+    },
+    "file size format": {
+      "bytes": [
+        "バイト"
+      ],
+      "GB": [
+        "GB"
+      ],
+      "KB": [
+        "KB"
+      ],
+      "MB": [
+        "MB"
+      ]
+    },
+    "file size format, long": {
+      "Bytes": [
+        "バイト"
+      ],
+      "Gigabytes": [
+        "ギガバイト"
+      ],
+      "Kilobytes": [
+        "キロバイト"
+      ],
+      "Megabytes": [
+        "メガバイト"
+      ]
+    },
+    "Filter notification": {
+      "${ Label.Name } updated": [
+        "${ Label.Name } は更新されました"
+      ]
+    },
+    "Group": {
+      "Account": [
+        "アカウント"
+      ],
+      "Apps": [
+        "アプリ"
+      ],
+      "Network": [
+        "ネットワーク"
+      ],
+      "Other category": [
+        "その他のカテゴリー"
+      ],
+      "Services": [
+        "サービス"
+      ]
+    },
+    "Header": {
+      "Contacts": [
+        "連絡先"
+      ],
+      "Contacts, groups and settings": [
+        "連絡先、グループおよび設定"
+      ],
+      "Get help": [
+        "ヘルプを参照"
+      ],
+      "Name": [
+        "名前"
+      ]
+    },
+    "Hint": {
+      "Found ${ items.length } suggestions, use keyboard to navigate.": [
+        "${ items.length } つの提案が見つかりました。キーボードを使って操作します。"
+      ],
+      "Use Up and Down keys to access and browse suggestions after input. Press Enter to confirm your choice, or Escape to close the suggestions box.": [
+        "矢印キーで提案を表示し、選択することができます。エンターキーで確定し、エスケープキーで提案を閉じることができます。"
+      ]
+    },
+    "Human verification method": {
+      "CAPTCHA": [
+        "CAPTCHA"
+      ],
+      "Email": [
+        "メール"
+      ],
+      "Manual": [
+        "マニュアル"
+      ],
+      "No verification method available": [
+        "検証方法がありません"
+      ],
+      "SMS": [
+        "SMS"
+      ]
+    },
+    "Import calendar": {
+      "${ totalImported }/${ totalToImport } events encrypted and added to your calendar": [
+        "${ totalImported }/${ totalToImport } 予定が暗号化され、カレンダーに追加されました"
+      ],
+      "An error occurred while encrypting and adding your events. ${ totalImported } out of ${ totalToImport } events successfully imported.": [
+        "予定の暗号化と追加中にエラーが発生しました。${ totalToImport } のうち ${ totalImported } の予定のインポートに成功しました。"
+      ],
+      "An error occurred while encrypting and adding your events. No event could be imported.": [
+        "予定の暗号化と追加中にエラーが発生しました。予定をインポートできませんでした。"
+      ],
+      "Encrypting and adding contacts: ${ totalImported }/${ totalToImport }": [
+        "連絡先の暗号化と追加: ${ totalImported }/${ totalToImport }"
+      ],
+      "Encrypting and adding events to your calendar: ${ totalImported }/${ totalToImport }": [
+        "予定を暗号化し、カレンダーに追加中...${ totalToImport }件中${ totalImported }件が完了"
+      ],
+      "Events successfully imported. The imported events will now appear in your calendar.": [
+        "予定は正常にインポートされました。インポートされた予定はカレンダーに表示されます。"
+      ],
+      "Please don't close the tab before the importing process is finished.": [
+        "インポートが完了するまでタブを閉じないでください。"
+      ]
+    },
+    "Import calendar warning": {
+      "${ CALENDAR_APP_NAME } currently does not support certain event types, details and formats.": [
+        "${ CALENDAR_APP_NAME }は現在、特定の予定の種類や詳細、フォーマットに対応していません。"
+      ],
+      "vCard versions < 3.0": [
+        "vCard バージョン3.0以前"
+      ]
+    },
+    "Import calendar; import invitation": {
+      "This file contains event invitations:": [
+        "このファイルには予定の招待が含まれています:"
+      ],
+      "This file contains invitation responses:": [
+        "以下のファイルには参加の是非の回答があります。"
+      ]
+    },
+    "Import contact": {
+      "${ totalImported }/${ totalToImport } contacts encrypted and added to your contact list": [
+        "${ totalImported }/${ totalToImport } 件の連絡先が暗号化され、連絡先リストに追加されました"
+      ],
+      "An error occurred while encrypting and adding your contacts. No contact could be imported.": [
+        "連絡先の暗号化と追加中にエラーが発生しました。連絡先をインポートできませんでした。"
+      ]
+    },
+    "Import contact error": {
+      "Contact ${ contactId }: ": [
+        "${ contactId } へのお問い合わせ "
+      ]
+    },
+    "Import contact groups info": {
+      "${ totalContacts } contacts": [
+        "${ totalContacts } 件の連絡先"
+      ]
+    },
+    "Import contact. Contact identifier": {
+      "unknown": [
+        "不明"
+      ]
+    },
+    "Import contacts": {
+      "An error occurred while encrypting and adding your contacts. ${ totalImported } out of ${ totalToImport } contacts successfully imported.": [
+        "連絡先の暗号化と追加中にエラーが発生しました。${ totalToImport } 件のうち ${ totalImported } 件の連絡先が正常にインポートされました。"
+      ],
+      "Contacts successfully imported. The imported contacts will now appear in your contact list.": [
+        "連絡先が正常にインポートされました。インポートされた連絡先が連絡先リストに表示されます。"
+      ]
+    },
+    "Import contacts warning": {
+      "for now": [
+        "現時点"
+      ],
+      "ProtonContacts does not support ${ forNow }:": [
+        "ProtonContacts は ${ forNow } をサポートしていません"
+      ]
+    },
+    "Import error": {
+      "${ BRAND_NAME } can't connect to your account. Please make sure that:": [
+        "${ BRAND_NAME } はあなたのアカウントに接続できません。以下を確認してください。"
+      ],
+      "${ BRAND_NAME } can't connect to your external account. Please make sure that the mail server address and port number are correct.": [
+        "${ BRAND_NAME } はあなたの外部アカウントに接続できません。メールサーバーのアドレスとポート番号が正しいことを確認してください。"
+      ],
+      "${ BRAND_NAME } can't connect to your external account. Please make sure that:": [
+        "${ BRAND_NAME } はあなたの外部アカウントに接続できません。以下を確認してください。"
+      ],
+      "${ BRAND_NAME } can't connect to your Yahoo account. Please make sure that the mail server address and port number are correct.": [
+        "${ BRAND_NAME } はあなたの Yahoo アカウントに接続できません。メールサーバーのアドレスとポート番号が正しいことを確認してください。"
+      ],
+      "${ BRAND_NAME } can't connect to your Yahoo account. Please make sure that:": [
+        "${ BRAND_NAME } はあなたの Yahoo アカウントに接続できません。以下を確認してください。"
+      ],
+      "2-step verification is enabled in your external account.": [
+        "2 段階認証は外部アカウントで有効になっています。"
+      ],
+      "2-step verification is enabled in your external email account.": [
+        "2 段階認証は外部メールアカウントで有効になっています。"
+      ],
+      "IMAP access is enabled in your external account.": [
+        "IMAP アクセスは外部アカウントで有効になっています。"
+      ],
+      "IMAP access is enabled in your Yahoo account.": [
+        "IMAP アクセスは Yahoo アカウントで有効になっています。"
+      ],
+      "Invalid IMAP port": [
+        "無効な IMAP ポート番号"
+      ],
+      "Too many recent requests. Please try again in a few moments.": [
+        "最近のリクエストが多すぎます。しばらくしてから再度お試しください。"
+      ],
+      "Use your app password if:": [
+        "次の場合にアプリのパスワードを使用してください。"
+      ],
+      "Use your app password instead of your regular password if:": [
+        "以下の場合、通常のパスワードの代わりにアプリのパスワードを使用してください。"
+      ],
+      "Your app password is correct. Do ${ boldNot } use your regular password.": [
+        "アプリパスワードは正しいです。通常のパスワードを使用${ boldNot }ください。"
+      ],
+      "Your email account requires an app password to export your data.": [
+        "メールアカウントはデータをエクスポートするためにアプリのパスワードを必要としています。"
+      ],
+      "Your email account requires one to export your data.": [
+        "データをエクスポートするためにメールアカウントが必要です。"
+      ],
+      "Your email address and app password are correct. Do ${ boldNot } use your regular password.": [
+        "メールアドレスとアプリパスワードは正しいです。通常のパスワードを使用${ boldNot }ください。"
+      ],
+      "Your email address and password are correct.": [
+        "あなたのメールアドレスとパスワードは正しいです。"
+      ],
+      "Your password is correct.": [
+        "パスワードは正しいです。"
+      ]
+    },
+    "Import error emphasis": {
+      "not": [
+        "しないで"
+      ]
+    },
+    "Import instructions": {
+      "Click ${ boldManage } to expand the options menu.": [
+        "${ boldManage } をクリックしてオプション メニューを展開してください。"
+      ],
+      "Depending on your email service provider, you may need to generate an ${ knowledgeBaseLink } first before you can import to ${ BRAND_NAME }.": [
+        "手順がメールサービスプロバイダーによって異なるため、${ BRAND_NAME } にメールをインポートする前に${ knowledgeBaseLink }を生成することをおすすめします。"
+      ],
+      "Expand the dropdown menu by clicking on the 3 dots (...).": [
+        "3 点リーダー（...）をクリックしてドロップダウンを展開します。"
+      ],
+      "Generate an ${ boldAppPassword } and use it in place of your regular password when prompted by ${ BRAND_NAME }.": [
+        "${ boldAppPassword } を生成し、${ BRAND_NAME } からプロンプトが表示に通常のパスワードの代わりに入力してください。"
+      ],
+      "Generate the ${ boldAppPassword } and use it in place of your regular password when prompted by ${ BRAND_NAME }.": [
+        "${ boldAppPassword }を生成し、${ BRAND_NAME } からプロンプトが表示に通常のパスワードの代わりに入力してください。"
+      ],
+      "Go to ${ boldAccountInfo } under your profile in ${ yahooMailLink }.": [
+        "${ yahooMailLink } のプロフィールから${ boldAccountInfo }に移動します。"
+      ],
+      "Go to ${ boldAccountSecurity }.": [
+        "${ boldAccountSecurity }に移動します。"
+      ],
+      "Go to Outlook ${ securitySettingsLink }.": [
+        "Outlook ${ securitySettingsLink } へ移動してください。"
+      ],
+      "If 2-step verification is off, turn it on.": [
+        "2 段階認証がオフの場合、オンにしてください。"
+      ],
+      "Open your ${ yahooMailLink } contacts.": [
+        "${ yahooMailLink } の連絡先を開きます。"
+      ],
+      "Open your Outlook ${ outlookContactsLink }.": [
+        "Outlook ${ outlookContactsLink } を開きます。"
+      ],
+      "Select ${ boldExportContacts } and choose which contacts to export.": [
+        "${ boldExportContacts } を選択し、どの連絡先をエクスポートするか選びます。"
+      ],
+      "Select ${ boldExportCSV }.": [
+        "${ boldExportCSV } を選択します。"
+      ],
+      "To import a calendar to ${ BRAND_NAME }, you need the ${ knowledgeBaseLink }. Download it from Outlook in 3 easy steps:": [
+        "カレンダーを ${ BRAND_NAME } にインポートするには、${ knowledgeBaseLink }が必要です。Outlook からダウンロードするには簡単な 3 つのステップを行います:"
+      ],
+      "To import a calendar to ${ BRAND_NAME }, you need the ${ knowledgeBaseLink }. Download it from Yahoo in 3 easy steps:": [
+        "カレンダーを ${ BRAND_NAME } にインポートするには、${ knowledgeBaseLink }が必要です。Yahoo からダウンロードするには簡単な 3 つのステップを行います:"
+      ],
+      "To import a calendar to ${ BRAND_NAME }, you need the ${ knowledgeBaseLink }. Download this before you start the import process.": [
+        "カレンダーを ${ BRAND_NAME } にインポートするには、${ knowledgeBaseLink }が必要です。インポート作業の開始前にダウンロードしてください。"
+      ],
+      "To import contacts to ${ BRAND_NAME }, you need a ${ knowledgeBaseLink }. Download it from Outlook in 3 easy steps:": [
+        "連絡先を ${ BRAND_NAME } にインポートするには、${ knowledgeBaseLink }が必要です。Outlook からダウンロードするには簡単な 3 つのステップを行います:"
+      ],
+      "To import contacts to ${ BRAND_NAME }, you need a ${ knowledgeBaseLink }. Download it from Yahoo in 3 easy steps:": [
+        "連絡先を ${ BRAND_NAME } にインポートするには、${ knowledgeBaseLink }が必要です。Yahoo からダウンロードするには簡単な 3 つのステップを行います:"
+      ],
+      "To import contacts to ${ BRAND_NAME }, you need a ${ knowledgeBaseLink }. Download this before you start the import process.": [
+        "連絡先を ${ BRAND_NAME } にインポートするには、${ knowledgeBaseLink } が必要です。インポート作業の開始前にダウンロードしてください。"
+      ],
+      "To import emails to ${ BRAND_NAME }, you need an ${ appPasswordLink } from Outlook. Get it by following these steps:": [
+        "メールを ${ BRAND_NAME } へインポートするには、Outlook から${ appPasswordLink }を取得する必要があります。以下の手順に従ってください。"
+      ],
+      "To import emails to ${ BRAND_NAME }, you need an ${ appPasswordLink } from Yahoo. Get it by following these steps:": [
+        "メールを ${ BRAND_NAME } へインポートするには、Yahoo から${ appPasswordLink }を取得する必要があります。以下の手順に従ってください。"
+      ]
+    },
+    "Import instructions emphasis": {
+      "Account info": [
+        "アカウント情報"
+      ],
+      "Account security": [
+        "アカウントのセキュリティ"
+      ],
+      "app password": [
+        "アプリ パスワード"
+      ],
+      "Can view all details": [
+        "すべての詳細を閲覧可能"
+      ],
+      "Export": [
+        "エクスポート"
+      ],
+      "Export contacts": [
+        "連絡先のエクスポート"
+      ],
+      "Export to CSV file": [
+        "CSV ファイルでエクスポート"
+      ],
+      "ICS": [
+        "ICS"
+      ],
+      "Manage": [
+        "管理"
+      ],
+      "Publish a calendar": [
+        "予定表を公開する"
+      ]
+    },
+    "Import instructions link": {
+      "app password": [
+        "アプリ パスワード"
+      ],
+      "app password or enable IMAP": [
+        "IMAP を有効にするか、アプリ パスワード"
+      ],
+      "contacts": [
+        "連絡先"
+      ],
+      "CSV or a VCF (vCard) file": [
+        "CSV または VCF (vCard) ファイル"
+      ],
+      "full calendar view": [
+        "フルカレンダー表示"
+      ],
+      "ICS file": [
+        "ICS ファイル"
+      ],
+      "security settings": [
+        "セキュリティ設定"
+      ],
+      "shared calendars": [
+        "共有されたカレンダー"
+      ],
+      "Yahoo": [
+        "Yahoo"
+      ]
+    },
+    "Import instructions step": {
+      "Click on the ${ boldICS } link and download the file.": [
+        "${ boldICS } をクリックしてファイルをダウンロードします。"
+      ],
+      "Go to ${ calendarLink } in your Outlook settings.": [
+        "Outlook 設定から ${ calendarLink } へ移動してください。"
+      ],
+      "Go to ${ calendarViewLink } in Yahoo.": [
+        "Yahoo の ${ calendarViewLink } へ移動してください。"
+      ],
+      "Mouse over the calendar you want to import and open the dropdown menu.": [
+        "インポートするカレンダーの上にカーソルを置き、メニューを開きます。"
+      ],
+      "Select ${ boldExport } to export the calendar as an ICS file.": [
+        "${ boldExport } を選択して ICS ファイルとしてカレンダーをエクスポートします。"
+      ],
+      "Under ${ boldPublish }, select the calendar you want to import. Set the permission to ${ boldCanViewAllDetails } and publish it.": [
+        "${ boldPublish } から、インポートしたいカレンダーを選択します。アクセス許可を ${ boldCanViewAllDetails } にし公開します。"
+      ]
+    },
+    "Import warning": {
+      "${ totalContactsDiscarded } out of ${ totalContacts } contacts will not be imported. Click for details": [
+        "${ totalContacts } 件のうち ${ totalContactsDiscarded } 件の連絡先はインポートされません。クリックして詳細"
+      ],
+      "${ totalEventsDiscarded } out of ${ totalEvents } events will not be imported. Expand for details.": [
+        "${ totalEvents } 件のうち ${ totalEventsDiscarded } 件の予定はインポートされません。クリックして詳細を展開します。"
+      ],
+      "No contact can be imported. Click for details": [
+        "連絡先をインポートすることはできません。詳細はクリックしてください"
+      ],
+      "No event can be imported. Expand for details.": [
+        "予定をインポートできませんでした。クリックして詳細を展開します。"
+      ]
+    },
+    "Info": {
+      "${ addressCount } email addresses": [
+        "${ addressCount } 件のメールアドレス"
+      ],
+      "${ appName } needs your permission to ${ enableDesktopNotifications }.": [
+        "${ appName } からの通知を受け取るには、${ enableDesktopNotifications }必要があります。"
+      ],
+      "${ calendarsToBeCreatedCount } new calendars": [
+        "${ calendarsToBeCreatedCount } 個の新しいカレンダー"
+      ],
+      "${ calendarsToBeMerged } merged calendars": [
+        "${ calendarsToBeMerged } 個の結合されたカレンダー"
+      ],
+      "${ calendarsToBeMergedCount } merged calendars": [
+        "${ calendarsToBeMergedCount } 個の結合されたカレンダー"
+      ],
+      "${ contactCount } contacts contain multiple email addresses.": [
+        "${ contactCount } 件の連絡先に複数のメールアドレスが含まれています。"
+      ],
+      "${ contactEmailsLength } Members": [
+        "${ contactEmailsLength } 人のメンバー"
+      ],
+      "${ contactName } contains multiple email addresses.": [
+        "連絡先 ${ contactName } に複数のメールアドレスが含まれています。"
+      ],
+      "${ contactsCount } contacts found": [
+        "${ contactsCount } の連絡先が見つかりました"
+      ],
+      "${ groupCounts } groups found": [
+        "${ groupCounts } 件のグループが見つかりました"
+      ],
+      "${ numContactGroups } contact groups": [
+        "${ numContactGroups } 件の連絡先グループ"
+      ],
+      "${ numContacts } contacts": [
+        "${ numContacts } 件の連絡先"
+      ],
+      "${ providerFoldersNumLocalized } folders found": [
+        "${ providerFoldersNumLocalized } 件のフォルダーが存在"
+      ],
+      "${ providerFoldersNumLocalized } labels found in Gmail": [
+        "${ providerFoldersNumLocalized } ラベルが Gmail に見つかりました"
+      ],
+      "${ selectedCalendarsTotal } of ${ providerCalendars.length } calendars": [
+        "${ providerCalendars.length } のうち ${ selectedCalendarsTotal } のカレンダー"
+      ],
+      "${ selectedFoldersCount } folders selected": [
+        "${ selectedFoldersCount } 件のフォルダーを選択済み"
+      ],
+      "${ selectedFoldersCount } labels selected": [
+        "${ selectedFoldersCount } 件のラベルが選択済み"
+      ],
+      "${ selectedFoldersCountLocalized } folders selected": [
+        "${ selectedFoldersCountLocalized } 件のフォルダーを選択済み"
+      ],
+      "${ selectedFoldersCountLocalized } labels selected": [
+        "${ selectedFoldersCountLocalized } 件のラベルを選択"
+      ],
+      "${ storageSize } storage": [
+        "${ storageSize } ストレージ"
+      ],
+      "${ updated } contacts updated successfully.": [
+        "${ updated } 連絡先が正常に更新されました。"
+      ],
+      "(${ memberCount } members)": [
+        "(${ memberCount } 人のメンバー)"
+      ],
+      "10 email addresses": [
+        "10 件のメールアドレス"
+      ],
+      "A cancellation email will be sent to removed participants.": [
+        "削除を行った参加者にはメールが送信されます。"
+      ],
+      "A cancellation email will be sent to the event participants. Would you like to delete all events in this series?": [
+        "取り消しメールが参加者に送信されます。一連の予定を削除してよろしいですか？"
+      ],
+      "A cancellation email will be sent to the event participants. Would you like to delete this event?": [
+        "取り消しメールが予定の参加者に送信されます。この予定を削除しますか？"
+      ],
+      "Account access restricted due to unpaid invoices. Please contact your administrator.": [
+        "未払いの請求があるためアクセスが制限されています。管理者に問い合わせてください。"
+      ],
+      "Added and removed participants will be notified about all the events in this series.": [
+        "追加や削除を行った参加者にはすべてメールで通知されます。"
+      ],
+      "Added and removed participants will be notified.": [
+        "追加と削除を行った参加者にはメールが送られます。"
+      ],
+      "Address Verification with Trusted Keys is enabled for this address. To be able to send to this address, first trust public keys that can be used for sending.": [
+        "信頼された鍵でのアドレス検証がこのアドレスに対して有効になっています。このアドレス宛にメッセージを送信するには、最初に公開鍵を信頼する必要があります。"
+      ],
+      "All (${ totalFoldersCount } folders)": [
+        "すべて (${ totalFoldersCount } フォルダー)"
+      ],
+      "All (${ totalFoldersCount } labels)": [
+        "すべて (${ totalFoldersCount } 件のラベル)"
+      ],
+      "An invitation will be sent to added participants.": [
+        "追加した参加者に招待状を送信します。"
+      ],
+      "An invitation will be sent to the event participants.": [
+        "予定の参加者に招待状を送信します。"
+      ],
+      "and": [
+        "と"
+      ],
+      "Anyone with this link can see all the event details of this calendar such as title, location or participants.": [
+        "このリンクを持っている人は誰でもタイトル、場所、参加者など、このカレンダーに登録されているすべての予定の詳細を見ることができます。"
+      ],
+      "Anyone with this link can see whether you’re free or busy on your calendar. They can’t see event details, such as title, location, or participants.": [
+        "このリンクを持っている人は誰でもカレンダー上であなたの予定の有無を確認できます。タイトル、場所、参加者などの予定詳細は表示されません。"
+      ],
+      "At most ${ MAX_ATTENDEES } participants are allowed per invitation": [
+        "1 つの招待につき ${ MAX_ATTENDEES } 人までが許可されています"
+      ],
+      "Before requesting a new verification code, check your spam folder and check that ${ strong } is the correct address.": [
+        "新しい検証コードを要求する前に、迷惑メールフォルダーを確認し、${ strong } が正しいアドレスなことを確認してください。"
+      ],
+      "By sharing the full event details of this calendar, you accept to grant ${ BRAND_NAME } access to this calendar's encrypted information.": [
+        "このカレンダーの予定の詳細を共有すると、${ BRAND_NAME } がこのカレンダーの暗号化された情報にアクセスできるようになります。"
+      ],
+      "Cannot remember your password? We can help you clear the encrypted data of all contacts encrypted with this key and in the process dismiss the alert.": [
+        "パスワード思い出せませんか? この鍵で暗号化されたすべての連絡先の暗号化されたデータを消去し、アラートを消去する手助けをします。"
+      ],
+      "Checking contact ${ progress } of ${ max }...": [
+        "${ max } のうち ${ progress } の連絡先を確認しています..."
+      ],
+      "Click \"Request new code\" to have a new verification code sent to ${ strong }. If this phone number is incorrect, click \"Edit\" to correct it.": [
+        "「新しいコードをリクエスト」をクリックすると新しい認証コードが ${ strong } に送信されます。電話番号が違う場合、「編集」をクリックして修正します。"
+      ],
+      "Close this screen to exit.": [
+        "画面を閉じると終了します。"
+      ],
+      "Continue with ${ planName }": [
+        "${ planName } で続行"
+      ],
+      "Create ${ calendarsToBeCreated } new calendars": [
+        "${ calendarsToBeCreated } 個の新しいカレンダーを作成"
+      ],
+      "Create a label for the imported messages, a time range for this import, and the folders you would like to import.": [
+        "インポートされたメッセージのラベル、インポートする期間、およびインポート先のフォルダーを設定します。"
+      ],
+      "Create a label for the imported messages, a time range for this import, and the labels you would like to import.": [
+        "インポートされたメッセージのラベル、インポートする期間、およびインポート先のラベルを設定します。"
+      ],
+      "Create a new contact group": [
+        "新しい連絡先グループを作成"
+      ],
+      "Create in": [
+        "作成日時"
+      ],
+      "CSV files from Outlook, Outlook Express, Yahoo! Mail, Hotmail, Eudora and some other apps as well as vCard 3.1 and 4.0 formats (UTF-8 encoding) are supported.": [
+        "Outlook、Outlook Express、Yahoo! Mail、Hotmail、Eudora などからエスクポートした CSV ファイルや vCard 3.1 および 4.0 形式 (UTF-8エンコーディング) をサポートしています。"
+      ],
+      "Custom": [
+        "カスタム設定"
+      ],
+      "Custom daily": [
+        "毎日 (カスタム)"
+      ],
+      "Custom monthly": [
+        "毎月 (カスタム)"
+      ],
+      "Custom weekly": [
+        "毎週 (カスタム)"
+      ],
+      "Custom yearly": [
+        "毎年 (カスタム)"
+      ],
+      "Daily": [
+        "毎日"
+      ],
+      "Discard changes?": [
+        "変更を破棄してよろしいですか？"
+      ],
+      "Drop the file here to upload": [
+        "アップロードするファイルをここにドロップしてください"
+      ],
+      "Duplicate key updated": [
+        "重複した鍵がアップデートされました"
+      ],
+      "Each code can only be used once": [
+        "各コードは 1 回のみ使用可能です"
+      ],
+      "Enter the code from your authenticator app": [
+        "認証アプリのコードを入力してください"
+      ],
+      "Enter the credentials of the email account you want to import from.": [
+        "インポートするメールアカウントの認証情報を入力します。"
+      ],
+      "Enter the verification code that was sent to ${ destinationText }.": [
+        "${ destinationText } に送信された認証コードを入力してください。"
+      ],
+      "Enter verification code. Digit ${ digit }.": [
+        "検証コードを入力してください。桁数は ${ digit } 桁です。"
+      ],
+      "Enter your own password (as organization admin).": [
+        "パスワード（管理員のもの）を入力してください"
+      ],
+      "Existent and added participants will be notified.": [
+        "既存の参加者と追加した参加者にはメールが送られます。"
+      ],
+      "Existent and removed participants will be notified.": [
+        "既存の参加者と削除した参加者にはメールが送られます。"
+      ],
+      "Existent, added and removed participants will be notified.": [
+        "既存の参加者、追加や削除を行った参加者にはメールが送られます。"
+      ],
+      "Free up some space or add more storage space.": [
+        "スペースを解放するか、ストレージのスペースをさらに増やしてください。"
+      ],
+      "Free up some space or contact your administrator.": [
+        "スペースを解放するか、管理者にお問い合わせしてください。"
+      ],
+      "Frequency modifications will be lost.": [
+        "間隔の設定は失われます"
+      ],
+      "Group assignment applied": [
+        "グループの割り当てが適用されました"
+      ],
+      "here": [
+        "こちら"
+      ],
+      "If you are having trouble creating your account, please request an invitation and we will respond within one business day.": [
+        "アカウントの作成に問題がある場合は、招待をリクエストしてください。1 営業日以内に対応します。"
+      ],
+      "If you believe this is in error, please contact us ${ contactLink }.": [
+        "エラーだと思われる場合は ${ contactLink } までご連絡ください。"
+      ],
+      "If you don't find the email in your inbox, please check your spam folder.": [
+        "受信トレイに関連するメッセージを見つけなかった場合、迷惑メールフォルダーを確認してください。"
+      ],
+      "If you don’t know your password, set a recovery phrase to make sure you don’t lose access to your account and data.": [
+        "パスワードを忘れた時のため、回復フレーズを設定してアカウントとデータにアクセスできるようにしておきましょう。"
+      ],
+      "Import ${ contactsFragment } and ${ contactsGroupsFragment }": [
+        "${ contactsFragment } と ${ contactsGroupsFragment } をインポート"
+      ],
+      "Import ${ selectedCalendarsCount } of ${ totalCalendarsCount } calendars": [
+        "${ totalCalendarsCount } 個のうち ${ selectedCalendarsCount } 個のカレンダーをインポート"
+      ],
+      "Import from": [
+        "インポート元"
+      ],
+      "Import in progress": [
+        "インポートは進行しています"
+      ],
+      "Import mailbox": [
+        "メールボックスのインポート"
+      ],
+      "Importing your data from ${ importedEmailAddress } to ${ toEmail }.": [
+        "データを ${ importedEmailAddress } から ${ toEmail } にインポートしています。"
+      ],
+      "Inherited from parent folder": [
+        "親フォルダーから継承"
+      ],
+      "Internet connection lost": [
+        "インターネット接続が切断されました"
+      ],
+      "Internet connection lost. Please check your device's connectivity.": [
+        "インターネット接続が失われました。デバイスの接続を確認してください。"
+      ],
+      "Internet connection restored.": [
+        "インターネット接続が回復しました。"
+      ],
+      "Just confirm your selection and we'll do the rest.": [
+        "あとは、選択を確認するだけです。"
+      ],
+      "Key fingerprint": [
+        "鍵のフィンガープリント"
+      ],
+      "Label all imported messages as": [
+        "インポートされたすべてのメッセージに次のようにラベル"
+      ],
+      "Labels:": [
+        "ラベル:"
+      ],
+      "Large imports can take several days.": [
+        "巨大なインポートは数日かかる場合があります。"
+      ],
+      "Learn more": [
+        "詳細"
+      ],
+      "Link copied to clipboard": [
+        "リンクをコピーしました"
+      ],
+      "Link created": [
+        "リンクが作成されました"
+      ],
+      "Loading": [
+        "読み込み中"
+      ],
+      "Loading ${ appName }": [
+        "${ appName } を読み込み中"
+      ],
+      "Loading event": [
+        "予定を読み込み中"
+      ],
+      "Loading events": [
+        "予定を読み込み中"
+      ],
+      "Manage your calendars": [
+        "カレンダーを管理"
+      ],
+      "Merged": [
+        "結合済み"
+      ],
+      "Monthly ${ onDayString }": [
+        "毎月 ${ onDayString }"
+      ],
+      "Name your new folder and select the parent folder you want to put it in. If you do not select a parent folder, this new folder will be created as a top level folder.": [
+        "新しいフォルダーの名前と、親フォルダーを選択してください。最上位のフォルダーを作成したい場合は、親フォルダーを選択しないでください。"
+      ],
+      "New": [
+        "新規"
+      ],
+      "No contacts added yet": [
+        "まだ連絡先が追加されていません"
+      ],
+      "No email address": [
+        "メールアドレスなし"
+      ],
+      "No group found": [
+        "グループが見つかりませんでした"
+      ],
+      "No results found": [
+        "該当する項目がありません"
+      ],
+      "None of the participants can be notified about your changes:": [
+        "参加者には、以下の予定の変更に関する通知がされません。"
+      ],
+      "None of the uploaded keys are valid for encryption. To be able to send messages to this address, please upload a valid key or disable \"Encrypt emails\".": [
+        "アップロードされた鍵はすべて暗号化には使用できないものです。指定のアドレスにメールを送信するには、正しい鍵をアップロードするかメールの暗号化をオフにしてください。"
+      ],
+      "Not a valid URL": [
+        "有効な URL ではありません"
+      ],
+      "Occurrences previously updated by the organizer will be kept, but some of your answers will be lost.": [
+        "主催者が過去に更新した行事は残りますが、いくつかの入力した回答は失われます。"
+      ],
+      "Occurrences previously updated by the organizer will be kept.": [
+        "主催者が過去に更新した行事は削除されません。"
+      ],
+      "One or more of your trusted keys were marked \"compromised\" by their owner. We recommend that you \"untrust\" these keys.": [
+        "相手から「漏洩」と判断された鍵があります。対象の鍵の信頼を解除することを推奨します。"
+      ],
+      "Only change these settings if you are using PGP with non-${ BRAND_NAME } recipients.": [
+        "この設定は、メールの宛先に PGP を使用している非 ${ BRAND_NAME } ユーザーがいる場合にのみ変更してください。"
+      ],
+      "Other options": [
+        "その他のオプション"
+      ],
+      "PGP/Inline is only compatible with Plain Text format. Please note that ${ MAIL_APP_NAME } always signs encrypted messages.": [
+        "PGP/Inline はプレーンテキスト形式としか互換性がありません。${ MAIL_APP_NAME } は暗号化されたメッセージに常に署名することに注意してください。"
+      ],
+      "PGP/MIME automatically sends the message using the current composer mode. Please note that ${ MAIL_APP_NAME } always signs encrypted messages.": [
+        "PGP/MIME は自動的に現在の書式を使用してメッセージを送信します。${ MAIL_APP_NAME } は暗号化されたメッセージに常に署名することに注意してください。"
+      ],
+      "Please note that addresses assigned to this group will NOT be deleted.": [
+        "グループに割り当てられたアドレスは削除されません。"
+      ],
+      "Please note that this process may take some time depending on the size of your address book.": [
+        "アドレス帳のサイズによっては、この処理に時間がかかる場合がありますのでご注意ください。"
+      ],
+      "Please remove the duplicates and try again.": [
+        "重複を削除して再度お試しください。"
+      ],
+      "Please select the folders you would like to import:": [
+        "インポートしたいフォルダーを選択してください:"
+      ],
+      "Please select which email address or addresses to add to ${ groupCount } groups.": [
+        "${ groupCount } 件のグループに追加するメールアドレスを選択してください。"
+      ],
+      "Please select which email address or addresses to add to ${ groupName }.": [
+        "グループ ${ groupName } に追加するメールアドレスを選択してください。"
+      ],
+      "Please wait while we look for contacts that can be re-signed with the primary encryption key.": [
+        "プライマリー暗号鍵で再署名できる連絡先を探しています。しばらくお待ちください。"
+      ],
+      "Please wait while we look for contacts that contain data encrypted with the inactive key.": [
+        "無効な鍵で暗号化されたデータが含まれている連絡先を探しています。しばらくお待ちください。"
+      ],
+      "Previous modifications on this series will be lost.": [
+        "一連の予定に対する過去の変更は失われます。"
+      ],
+      "Primary": [
+        "プライマリー"
+      ],
+      "Priority support": [
+        "優先的なサポート"
+      ],
+      "Recovery information will remain on this device unless you select to delete it.": [
+        "手動で削除しない限り、回復に関する情報はこのデバイス上に保存され続けます。"
+      ],
+      "Refreshing the page or ${ link } will automatically resolve most issues.": [
+        "ほとんどの問題は、ページを更新するか、${ link }することで解決できます。"
+      ],
+      "Removed participants will be notified.": [
+        "削除した参加者にはメールが送られます。"
+      ],
+      "Select the email format you want to be used by default when sending an email to this email address.": [
+        "このメールアドレスにメールを送信する際に既定で使用するメールの形式を選択できます。"
+      ],
+      "Select what you want to import.": [
+        "インポートしたいものを選択してください。"
+      ],
+      "Select which calendars to import. A new calendar will be created for each imported calendar up to the 20 calendars limit.": [
+        "インポートするカレンダーを選択してください。インポートするカレンダーは最大 20 件までに制限されます。"
+      ],
+      "Servers are unreachable. Please try again in a few minutes": [
+        "サーバーに接続できません。数分後にもう一度お試しください"
+      ],
+      "Session timed out": [
+        "セッションがタイムアウトしました"
+      ],
+      "Set recovery phrase": [
+        "回復用フレーズを設定"
+      ],
+      "Setting up PGP allows you to send end-to-end encrypted emails with a non-${ BRAND_NAME } user that uses a PGP compatible service.": [
+        "PGP を設定すると、PGP 対応のサービスを使用する ${ BRAND_NAME } 以外のユーザー宛に、エンドツーエンド暗号化された電子メールを送信できます。"
+      ],
+      "Sign in": [
+        "ログイン"
+      ],
+      "Some of your answers to occurrences previously updated by the organizer will be lost.": [
+        "主催者が一度変更した行事に対する回答は失われます。"
+      ],
+      "Storage space is shared across ${ MAIL_APP_NAME }, ${ CALENDAR_APP_NAME }, and ${ DRIVE_APP_NAME }.": [
+        "ストレージ容量は ${ MAIL_APP_NAME }、${ CALENDAR_APP_NAME }、${ DRIVE_APP_NAME } で共有されています。"
+      ],
+      "Support for 1 custom email domain": [
+        "1 つの独自メールドメインをサポート"
+      ],
+      "support team": [
+        "サポートチーム"
+      ],
+      "Temporarily unavailable. Please check back later.": [
+        "一時的に利用できません。あとでお試しください。"
+      ],
+      "The application needs to locally decrypt your contacts before they can be exported. At the end of the process, a VCF file will be generated and you will be able to download it.": [
+        "アプリケーションは、エクスポートする前に連絡先をローカルで復号する必要があります。プロセスの終了時に、VCF ファイルが生成され、ダウンロードすることができます。"
+      ],
+      "The following participants cannot be notified about your changes:": [
+        "以下の参加者は、予定の変更に関する通知がされません。"
+      ],
+      "The organizer cannot be notified that you decline the invitation:": [
+        "主催者には参加を断ったことが通知されません。"
+      ],
+      "The organizer cannot be notified that you want to change your answer:": [
+        "主催者には回答を変更したいということが通知されません。"
+      ],
+      "The organizer could not be notified that you changed your answer:": [
+        "主催者には回答の変更が通知されませんでした。"
+      ],
+      "The organizer has updated some of the events in this series. Changing the calendar is not supported yet for this type of recurring events.": [
+        "予定が変更されているところがあります。繰り返しの予定に対するカレンダーの変更には現在対応しておりません。"
+      ],
+      "The organizer of this event will be notified that you decline the invitation. Would you like to delete this event?": [
+        "主催者に招待を拒否したことがメールで通知されます。この予定を削除しますか？"
+      ],
+      "The organizer of this event will not be notified that you decline the invitation as you can't send emails from the invited address. Would you like to delete this event anyway?": [
+        "招待されたアドレスからメールを送信できないため、この予定の主催者に招待を拒否したことは通知されません。この予定を削除しますか？"
+      ],
+      "The organizer of this series of events will be notified that you decline the invitation. Would you like to delete all the events in this series?": [
+        "一連の予定の主催者には、予定に参加しないことがメールで通知されます。削除してよろしいですか？"
+      ],
+      "The organizer of this series of events will not be notified that you decline the invitation as you can't send emails from the invited address. Would you like to delete all the events in this series anyway?": [
+        "招待されたアドレスからメールを送信できないため、この予定の主催者に招待を拒否したことは通知されません。一連のすべての予定を削除しますか？"
+      ],
+      "This account has been suspended due to a potential policy violation.": [
+        "このアカウントは、ポリシー違反の可能性があるため停止されています。"
+      ],
+      "This address is disabled. To be able to send to this address, the owner must first enable the address.": [
+        "このアドレスは無効になっています。このアドレス宛に送信するには、まず所有者がアドレスを有効にする必要があります。"
+      ],
+      "This event has been updated by the organizer. Would you like to change your answer only for this occurrence in this series?": [
+        "この予定は主催者が内容を変更しています。この行事に対してのみ回答を変更してよろしいですか?"
+      ],
+      "This event has been updated by the organizer. Would you like to delete this event?": [
+        "主催者がこの予定を更新しました。この予定を削除しますか？"
+      ],
+      "This event has been updated. The organizer will be notified that you decline the invitation. Would you like to delete this event?": [
+        "予定が更新されました。この予定の主催者には予定に参加しないことがメールで通知されます。この予定を削除しますか？"
+      ],
+      "This event has been updated. The organizer will not be notified that you decline the invitation as you can't send emails from the invited address. Would you like to delete this event anyway?": [
+        "予定が更新されました。招待されたアドレスからメールを送信できないため、この予定の主催者に招待を拒否したことは通知されません。この予定を削除しますか？"
+      ],
+      "This link leads to a website that might be trying to steal your information, such as passwords and credit card details.": [
+        "このリンクはパスワードやクレジットカードなどの情報を盗もうとするウェブサイトに誘導している可能性があります。"
+      ],
+      "This link may be a homograph attack and cannot be opened by Edge browsers. If you are certain the link is legitimate, please use a different browser to open it.": [
+        "This link may be a homograph attack and cannot be opened by the Edge browser. If you are certain the link is legitimate, please use a different browser to open it."
+      ],
+      "This link may be a homograph attack. Please verify this is the link you wish to visit, or don't open it.": [
+        "このリンクはホモグラフ攻撃の可能性があります。 これがあなたのアクセスしたいリンクであることを確認するか、開かないようにしてください。"
+      ],
+      "To fight spam and abuse, please verify you are human.": [
+        "迷惑メールや悪用を防止するために、あなたがコンピューターではないことを確認します。"
+      ],
+      "To re-sign your contacts, we need to check every contact against the list of encryption keys available in your account. If no match is found, your contact will be re-signed with the primary encryption key.": [
+        "連絡先に再署名するには、すべての連絡先をあなたのアカウントで利用可能な暗号鍵のリストに照らして確認する必要があります。 一致するものが見つからない場合、連絡先はプライマリ暗号鍵で再署名されます。"
+      ],
+      "To recover your data, you need to re-activate the contact encryption key used at the time when the data was created. This will require you to remember the password used when the key was generated.": [
+        "データを復元するには、データが作成されたときに使用された連絡先の暗号鍵を再度有効にする必要があります。したがって、鍵が生成されたときに使用されたパスワードを覚えている必要があります。"
+      ],
+      "To use Address Verification, you must trust one or more available public keys, including the one you want to use for sending. This prevents the encryption keys from being faked.": [
+        "アドレスの検証を利用するには、送信で使う鍵を含む 1 つ以上の公開鍵を信頼する必要があります。これにより、暗号鍵の偽装を防ぐことができます。"
+      ],
+      "Unlimited folders, labels, and filters": [
+        "制限なしのフォルダー、ラベル、フィルター"
+      ],
+      "Unlimited messages": [
+        "送信数制限なし"
+      ],
+      "Update recurring event": [
+        "定期的な予定の更新"
+      ],
+      "Upgrade today to avoid losing the following ${ planName } benefits.": [
+        "次の ${ planName } 特典を失わないために今すぐアップグレードしてください。"
+      ],
+      "We'll notify you when the import is done.": [
+        "インポートが完了したら通知します。"
+      ],
+      "We'll send a new verification code to ${ strong }": [
+        "新しい認証コードを ${ strong } に送信しました"
+      ],
+      "We've moved! Please sign in at our new domain: ${ link }.": [
+        "移動しました。私たちの新しいドメイン ${ link } でサインインしてください。"
+      ],
+      "Week": [
+        "週"
+      ],
+      "We’re moving to ${ PROTON_ME_DOMAIN }.": [
+        "${ PROTON_ME_DOMAIN }に移行しました。"
+      ],
+      "When you set up two-factor authentication, we provide recovery codes which you can use to sign in if you lose access to your authenticator app.": [
+        "2 要素認証の設定時に、回復用コードを提供します。回復用コードは、認証アプリにアクセスできなくなった際のサインインに使用できます。"
+      ],
+      "Which event would you like to delete?": [
+        "どの予定を削除しますか？"
+      ],
+      "Which event would you like to update?": [
+        "どの予定を更新しますか？"
+      ],
+      "Would you like to change your answer for all the events in this series?": [
+        "一連の予定に対するすべての回答を変更してよろしいですか？"
+      ],
+      "Would you like to continue anyway?": [
+        "続行しますか?"
+      ],
+      "Would you like to delete all the events in this series?": [
+        "関連するすべての予定を削除してよろしいですか？"
+      ],
+      "Would you like to delete the event anyway?": [
+        "この予定を削除してよろしいですか?"
+      ],
+      "Would you like to delete this event?": [
+        "この予定を削除してよろしいですか？"
+      ],
+      "Would you like to receive a new verification code or use an alternative verification method?": [
+        "新しい確認コードを受け取るか、他の検証方法を使用しますか？"
+      ],
+      "Would you like to receive a new verification code?": [
+        "新しい認証コードを受け取りますか?"
+      ],
+      "Would you like to update all events in this series?": [
+        "この一連のすべての予定を更新してよろしいですか?"
+      ],
+      "Would you like to update this event?": [
+        "この予定を更新してよろしいですか？"
+      ],
+      "Yearly": [
+        "毎年"
+      ],
+      "You already joined this calendar": [
+        "このカレンダーには参加済みです。"
+      ],
+      "You are about to open another browser tab and visit:": [
+        "別のタブで下記リンクを開こうとしています:"
+      ],
+      "You are currently signed in as ${ user.Name } (${ user.Email }).": [
+        "現在 ${ user.Name } (${ user.Email }) でサインインしています。"
+      ],
+      "You can also merge imported calendars with existing ${ BRAND_NAME } calendars.": [
+        "存在する ${ BRAND_NAME } カレンダーにインポートしたカレンダーを結合することもできます。"
+      ],
+      "You can check the progress ${ importProgressLink }.": [
+        "進捗を確認するには ${ importProgressLink }。"
+      ],
+      "You can import one data type at a time.": [
+        "1 回にインポートできるのは 1 種類のみです。"
+      ],
+      "You can only modify personal event properties as you can't send emails from the organizer address.": [
+        "主催者のアドレスからメールを送信できないため、個人の予定プロパティのみ変更できます。"
+      ],
+      "You can turn on notifications to get alerts when new email messages arrive in this folder.": [
+        "この機能を有効にすると、このフォルダーに新しいメッセージが届いた際に通知されます。"
+      ],
+      "You have reactivated your keys and events linked to the following calendars can now be decrypted.": [
+        "鍵が復活したため、以下のカレンダーに登録されている予定は復号できるようになりました。"
+      ],
+      "You have reset your password and events linked to the following calendars couldn't be decrypted.\nAny shared calendar links you created previously will no longer work.\nAny active subscribed calendars will synchronize again after a few minutes.": [
+        "パスワードが変更されたため、以下のカレンダーに登録されていた予定を復号できませんでした。\nパスワードの変更前に共有したリンクにはアクセスできません。\n登録した他人のカレンダーは数分後に同期されます。"
+      ],
+      "You need to have an active personal calendar to import your events.": [
+        "予定をインポートするには、アクティブなパーソナルカレンダーが必要です。"
+      ],
+      "You previously rejected this invitation. Ask the owner for a re-invite": [
+        "一度招待を拒否しているため、主催者からもう一度招待される必要があります。"
+      ],
+      "You reached ${ spaceDisplayed }% of your storage capacity. ${ freeUpMessage } ${ upgradeLink }": [
+        "ストレージ容量の ${ spaceDisplayed }% に達しました。${ freeUpMessage } ${ upgradeLink }"
+      ],
+      "You reached 100% of your storage capacity. You cannot send or receive new emails. ${ freeUpMessage } ${ upgradeLink }": [
+        "ストレージ容量が最大に達したため、新しいメールを送受信できません。${ freeUpMessage } ${ upgradeLink }"
+      ],
+      "You will lose all unsaved changes.": [
+        "保存されていない変更はすべて失なわれます。"
+      ],
+      "You will update all the events in this series. Added and removed participants will be notified.": [
+        "一連の予定はすべて更新されます。追加や削除を行った参加者にはメールが送られます。"
+      ],
+      "You will update all the events in this series. An invitation will be sent to the event participants.": [
+        "一連の予定はすべて更新されます。参加者には招待が送信されます。"
+      ],
+      "You will update all the events in this series. Existent and added participants will be notified.": [
+        "一連の予定はすべて更新されます。既存の参加者と追加した参加者にはメールが送られます。"
+      ],
+      "You will update all the events in this series. Existent and removed participants will be notified.": [
+        "一連の予定をすべて更新します。既存の参加者と削除した参加者にはメールが送られます。"
+      ],
+      "You will update all the events in this series. Existent, added and removed participants will be notified.": [
+        "一連の予定はすべて更新されます。既存の参加者および追加や削除を行った参加者にはメールが送られます。"
+      ],
+      "You will update all the events in this series. Removed participants will be notified.": [
+        "一連の予定はすべて更新されます。削除した参加者にはメールが送られます。"
+      ],
+      "Your ${ BRAND_NAME } account is currently suspended. After 28 days, emails will no longer be delivered to your inbox, your Drive sharing links will be blocked, and you will not be able to upload new files. To resume normal service, please pay any overdue invoices.": [
+        "あなたの ${ BRAND_NAME } アカウントは、現在停止されています。28 日が経過すると、メールが受信トレイに届かなくなり、Drive の共有リンクがブロックされ、新しいファイルをアップロードできなくなります。通常のサービスを再開するには、未払いの請求をお支払いください。"
+      ],
+      "Your ${ BRAND_NAME } account is currently suspended. Emails are no longer being delivered to your inbox. Your Drive sharing links are no longer active, and you cannot upload new files. To continue using your account, please pay any overdue invoices.": [
+        "あなたの ${ BRAND_NAME } アカウントは、現在停止されています。メールが受信トレイに届かなくなりました。Drive の共有リンクが無効になり、新しいファイルをアップロードできません。アカウントの使用を継続するには、未払いの請求をお支払いください。"
+      ],
+      "Your account has at least one overdue invoice. Your access will soon get restricted. ${ payInvoiceLink }": [
+        "アカウントに少なくとも1つの期限切れの請求書があるため、アクセスが制限されます。${ payInvoiceLink }"
+      ],
+      "Your account has at least one overdue invoice. Your account is restricted. Continued non-payment will block your emails and sharing links. ${ payInvoiceLink }": [
+        "あなたのアカウントには未払いの請求があり、アカウントが制限されています。このまま支払いが行われなければ、メールやリンクの共有がブロックされます。${ payInvoiceLink }"
+      ],
+      "Your address is disabled. A cancellation email cannot be sent to the event participants. Would you like to delete all events in this series anyway?": [
+        "あなたのアドレスは無効になってます。取り消しメールは予定の参加者に送信されません。一連のすべての予定を削除しますか？"
+      ],
+      "Your address is disabled. A cancellation email cannot be sent to the event participants. Would you like to delete this event anyway?": [
+        "あなたのアドレスは無効になってます。取り消しメールは予定の参加者に送信されません。この予定を削除しますか？"
+      ],
+      "Your data is ready to import from ${ importedEmailAddressStrong } to your ${ BRAND_NAME } account.": [
+        "データは ${ importedEmailAddressStrong } から ${ BRAND_NAME } アカウントにインポートできる状態です。"
+      ],
+      "Your email address will not change. But soon, you’ll need to sign in at ${ link }.": [
+        "メールアドレスは変わりません。しかし、近いうちに${ link }でログインしなければなりません。"
+      ],
+      "Your email will only be used for this one-time verification.": [
+        "メールアドレスは、この一度限りの認証にのみ使用されます。"
+      ],
+      "Your events will be encrypted and then saved.": [
+        "予定はすべて暗号化された上で保存されます。"
+      ],
+      "Your import will not be processed.": [
+        "インポートできませんでした。"
+      ],
+      "Your login information will not be saved after the import is completed.": [
+        "インポート完了後、ログイン情報は保存されません。"
+      ],
+      "Your phone number will only be used for this one-time verification.": [
+        "電話番号は、この一度限りの認証にのみ使用されます。"
+      ],
+      "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
+        "システムのタイムゾーンが${ timezone }に変更されたようです。タイムゾーンの設定を更新しますか？"
+      ]
+    },
+    "Info on errors": {
+      "Click for details": [
+        "クリックして詳細を確認"
+      ]
+    },
+    "Input label": {
+      "Access": [
+        "アドレス"
+      ],
+      "Label (optional)": [
+        "ラベル (任意)"
+      ]
+    },
+    "Input placeholder": {
+      "Add label": [
+        "ラベルを追加"
+      ]
+    },
+    "Key badge": {
+      "Compromised": [
+        "侵害"
+      ],
+      "Expired": [
+        "有効期限切れ"
+      ],
+      "Obsolete": [
+        "廃止"
+      ],
+      "Primary": [
+        "プライマリー"
+      ],
+      "Revoked": [
+        "取り消し済み"
+      ],
+      "Trusted": [
+        "信頼済み"
+      ],
+      "WKD": [
+        "WKD"
+      ]
+    },
+    "Label": {
+      "${ BRAND_NAME } username": [
+        "${ BRAND_NAME } ユーザー名"
+      ],
+      "(Temporarily unavailable. Please check back later.)": [
+        "(一時的に利用できません。あとでお試しください。)"
+      ],
+      "Add email address": [
+        "メールアドレスの追加"
+      ],
+      "Add image URL": [
+        "画像 URL を追加"
+      ],
+      "Add to group": [
+        "グループに追加"
+      ],
+      "All day": [
+        "終日"
+      ],
+      "All-day event notifications": [
+        "終日の予定の通知"
+      ],
+      "App password": [
+        "アプリのパスワード"
+      ],
+      "Attach screenshot(s)": [
+        "スクリーンショットを添付"
+      ],
+      "Authenticator app": [
+        "認証アプリ"
+      ],
+      "Automatically save contacts": [
+        "宛先を連絡先に自動追加"
+      ],
+      "Awful": [
+        "ひどい"
+      ],
+      "Bad": [
+        "悪い"
+      ],
+      "Browser": [
+        "ブラウザ"
+      ],
+      "Browser version": [
+        "ブラウザのバージョン"
+      ],
+      "Calendar": [
+        "カレンダー"
+      ],
+      "Calendars": [
+        "カレンダー"
+      ],
+      "Category": [
+        "カテゴリー"
+      ],
+      "City": [
+        "市区町村"
+      ],
+      "Code is 6 digits without spaces": [
+        "コードは空白なしの 6 桁の数字です"
+      ],
+      "Color": [
+        "色"
+      ],
+      "Coming soon": [
+        "まもなく登場"
+      ],
+      "Contacts": [
+        "連絡先"
+      ],
+      "Copy": [
+        "コピー"
+      ],
+      "Country": [
+        "国"
+      ],
+      "Date and time": [
+        "日付と時刻"
+      ],
+      "Delete": [
+        "削除"
+      ],
+      "Delete recovery-related information.": [
+        "回復に関する情報を削除"
+      ],
+      "Description": [
+        "詳細"
+      ],
+      "Do not ask again": [
+        "今後表示しない"
+      ],
+      "Email": [
+        "メールアドレス"
+      ],
+      "Email address": [
+        "メールアドレス"
+      ],
+      "Email format": [
+        "メールの形式"
+      ],
+      "Emails": [
+        "メール"
+      ],
+      "Emails (all messages)": [
+        "メール (すべてのメッセージ)"
+      ],
+      "Emails (last 12 months)": [
+        "メール (過去 12 か月)"
+      ],
+      "Emails (last 3 months)": [
+        "メール (過去 3 か月)"
+      ],
+      "Emails (last month)": [
+        "メール (過去 1 か月)"
+      ],
+      "Enable Beta Access": [
+        "ベータ版アクセスを有効にする"
+      ],
+      "Encrypt emails": [
+        "メールを暗号化"
+      ],
+      "Ends": [
+        "繰り返しの終了条件"
+      ],
+      "Event duration": [
+        "予定の期間"
+      ],
+      "Event notifications": [
+        "予定の通知"
+      ],
+      "Event title": [
+        "予定のタイトル"
+      ],
+      "Export contacts": [
+        "連絡先のエクスポート"
+      ],
+      "Extended address": [
+        "拡張アドレス"
+      ],
+      "Folder location": [
+        "フォルダーの場所"
+      ],
+      "Frequency": [
+        "頻度"
+      ],
+      "From: ${ emailFrom }": [
+        "差出人: ${ emailFrom }"
+      ],
+      "From: ${ importedEmail }": [
+        "移行元: ${ importedEmail }"
+      ],
+      "From: ${ importedEmailAddress }": [
+        "移行元: ${ importedEmailAddress }"
+      ],
+      "Good": [
+        "いい"
+      ],
+      "Hide password": [
+        "パスワードを隠す"
+      ],
+      "How would you describe your experience with the new ${ BRAND_NAME }?": [
+        "新しい ${ BRAND_NAME } の使い心地はいかがでしょうか?"
+      ],
+      "I understand the risk": [
+        "リスクを承知しました"
+      ],
+      "Import all messages": [
+        "すべてのメッセージをインポート"
+      ],
+      "Import contacts": [
+        "連絡先のインポート"
+      ],
+      "Import interval": [
+        "インポートの間隔"
+      ],
+      "Import to email address": [
+        "メールアドレスをインポート"
+      ],
+      "Import to:": [
+        "インポート先："
+      ],
+      "Label messages as": [
+        "メッセージにつけるラベル"
+      ],
+      "Last 12 months only": [
+        "過去 12 か月のみ"
+      ],
+      "Last 3 months only": [
+        "過去 3 か月のみ"
+      ],
+      "Last month only": [
+        "過去 1 か月のみ"
+      ],
+      "Location": [
+        "場所"
+      ],
+      "Mail Server (IMAP)": [
+        "メールサーバー (IMAP)"
+      ],
+      "Mailbox password": [
+        "メールボックスのパスワード"
+      ],
+      "Main": [
+        "メイン"
+      ],
+      "Manage categories": [
+        "カテゴリーを管理"
+      ],
+      "Manage folders": [
+        "フォルダーを管理"
+      ],
+      "Manage labels": [
+        "ラベルを管理"
+      ],
+      "Move to Archive": [
+        "アーカイブに移動"
+      ],
+      "Move to Inbox": [
+        "受信トレイに移動"
+      ],
+      "Name": [
+        "名前"
+      ],
+      "Navigation": [
+        "ナビゲーション"
+      ],
+      "Notification": [
+        "通知"
+      ],
+      "Notifications": [
+        "通知"
+      ],
+      "OK": [
+        "OK"
+      ],
+      "Operating system": [
+        "OS"
+      ],
+      "Operating system version": [
+        "OS のバージョン"
+      ],
+      "Optional": [
+        "任意"
+      ],
+      "Organizer": [
+        "主催者"
+      ],
+      "Participants": [
+        "参加者"
+      ],
+      "participants": [
+        "参加者"
+      ],
+      "Password": [
+        "パスワード"
+      ],
+      "PGP scheme": [
+        "PGP 形式"
+      ],
+      "Phone number": [
+        "電話番号"
+      ],
+      "Port": [
+        "ポート"
+      ],
+      "Post office box": [
+        "私書箱"
+      ],
+      "Postal code": [
+        "郵便番号"
+      ],
+      "Public keys": [
+        "公開鍵"
+      ],
+      "Region": [
+        "都道府県"
+      ],
+      "Repeat every": [
+        "繰り返し間隔"
+      ],
+      "Repeat on": [
+        "繰り返し対象の曜日"
+      ],
+      "Reveal password": [
+        "パスワードを表示する"
+      ],
+      "Sign emails": [
+        "メールに署名"
+      ],
+      "Street address": [
+        "番地"
+      ],
+      "System information": [
+        "システム情報"
+      ],
+      "To: ${ emailAddress }": [
+        "移行先: ${ emailAddress }"
+      ],
+      "To: ${ emailTo }": [
+        "宛先: ${ emailTo }"
+      ],
+      "To: ${ PMEmailAddress }": [
+        "移行先: ${ PMEmailAddress }"
+      ],
+      "Toolbar": [
+        "ツールバー"
+      ],
+      "Two-factor authentication code": [
+        "2 要素認証コード"
+      ],
+      "Upload file": [
+        "ファイルをアップロード"
+      ],
+      "Upload picture": [
+        "写真をアップロード"
+      ],
+      "URL": [
+        "URL"
+      ],
+      "Username or ${ MAIL_APP_NAME } address": [
+        "ユーザー名または ${ MAIL_APP_NAME } アドレス"
+      ],
+      "Verification code": [
+        "認証コード"
+      ],
+      "What happened?": [
+        "どのような問題が発生しましたか?"
+      ],
+      "Wonderful": [
+        "すばらしい"
+      ],
+      "Your calendar URL": [
+        "カレンダーのURL"
+      ],
+      "Your password (admin)": [
+        "あなたのパスワード (管理者)"
+      ]
+    },
+    "Label for contact group color": {
+      "Color": [
+        "色"
+      ]
+    },
+    "Label for contact group name": {
+      "Name": [
+        "名前"
+      ]
+    },
+    "Label/folder modal": {
+      "Create folder": [
+        "フォルダーの作成"
+      ],
+      "Create label": [
+        "ラベルの作成"
+      ],
+      "Edit folder": [
+        "フォルダーの編集"
+      ],
+      "Edit label": [
+        "ラベルの編集"
+      ]
+    },
+    "label/folder notification": {
+      "${ Label.Name } created": [
+        "${ Label.Name } が作成されました"
+      ]
+    },
+    "Landmarks": {
+      "Side panel": [
+        "サイドパネル"
+      ]
+    },
+    "Link": {
+      "Calendars": [
+        "カレンダー"
+      ],
+      "clearing your browser cache": [
+        "ブラウザのキャッシュを消去"
+      ],
+      "Learn more": [
+        "詳細"
+      ],
+      "My calendars": [
+        "マイカレンダー"
+      ],
+      "Pay invoice": [
+        "請求の支払い"
+      ],
+      "Request an invite": [
+        "登録を申請"
+      ],
+      "Subscribed calendars": [
+        "購読カレンダー"
+      ],
+      "Upgrade account": [
+        "アカウントをアップグレード"
+      ],
+      "What’s this?": [
+        "これは何ですか?"
+      ]
+    },
+    "Link to calendar app": {
+      "Open in ${ CALENDAR_APP_NAME }": [
+        "${ CALENDAR_APP_NAME } で開く"
+      ]
+    },
+    "Loading info": {
+      "Almost there": [
+        "もう少しです"
+      ],
+      "Amount of calendars created: ${ createdCalendars } out of ${ calendarsToBeCreated }": [
+        "作成済みカレンダー数: ${ createdCalendars } / ${ calendarsToBeCreated }"
+      ],
+      "Connecting to your email provider": [
+        "メールプロバイダーに接続しています"
+      ],
+      "Creating new calendars": [
+        "新しいカレンダーを作成しています"
+      ],
+      "Gathering your data": [
+        "データを集めています"
+      ],
+      "We're gathering your data from your provider": [
+        "プロバイダーからファイルを集めています"
+      ],
+      "Your import is starting": [
+        "インポートが開始しました"
+      ]
+    },
+    "Message": {
+      "Fw:": [
+        "Fw:"
+      ],
+      "Re:": [
+        "Re:"
+      ],
+      "Your free trial has ended. Access to your account will soon be disabled. ${ action }": [
+        "試用は終了しました。アカウントへのアクセスはまもなく無効になります。${ action }"
+      ]
+    },
+    "Message display when a new app version is available": {
+      "A new version of ${ appName } is available. ${ reloadButton }.": [
+        "${ appName } の新しいバージョンが利用可能です。 ${ reloadButton }"
+      ]
+    },
+    "MIME type": {
+      "Automatic": [
+        "自動"
+      ],
+      "Plain text": [
+        "プレーンテキスト"
+      ]
+    },
+    "Modal action": {
+      "Close": [
+        "閉じる"
+      ],
+      "Manage calendars": [
+        "カレンダーを管理"
+      ]
+    },
+    "Modal for limit of calendars reached": {
+      "Unable to add more calendars. You have reached the maximum of subscribed calendars within your plan.": [
+        "これ以上のカレンダーを追加できません。このプランで追加できる購読カレンダーの最大数に達しています。"
+      ],
+      "Unable to create more calendars. You have reached the maximum of personal calendars within your plan.": [
+        "これ以上のカレンダーを作成できません。このプランで作成できる個人用カレンダーの最大数に達しています。"
+      ]
+    },
+    "Modal for received invitation to share calendar; Title": {
+      "Join calendar": [
+        "カレンダーに参加"
+      ],
+      "Unable to join more calendars": [
+        "これ以上カレンダーに参加できません"
+      ]
+    },
+    "Modal title": {
+      "How to import calendars from another service": [
+        "その他のサービスからカレンダーをインポートする方法"
+      ],
+      "How to import calendars from Outlook": [
+        "Outlook からカレンダーをインポートする方法"
+      ],
+      "How to import calendars from Yahoo": [
+        "Yahoo からカレンダーをインポートする方法"
+      ],
+      "How to import contacts from another service": [
+        "その他のサービスから連絡先をインポートする方法"
+      ],
+      "How to import contacts from Outlook": [
+        "Outlook から連絡先をインポートする方法"
+      ],
+      "How to import contacts from Yahoo": [
+        "Yahoo から連絡先をインポートする方法"
+      ],
+      "How to import emails from another service": [
+        "その他のサービスからメールをインポートする方法"
+      ],
+      "How to import emails from Outlook": [
+        "Outlook からメールをインポートする方法"
+      ],
+      "How to import emails from Yahoo": [
+        "Yahoo からメールをインポートする方法"
+      ],
+      "Share calendar": [
+        "カレンダーを共有"
+      ],
+      "Time zone changed": [
+        "タイムゾーンが変更されました。"
+      ],
+      "Unable to add more calendars": [
+        "カレンダーを追加できません"
+      ]
+    },
+    "Modal title and action": {
+      "Add calendar": [
+        "カレンダーを追加"
+      ]
+    },
+    "Monthly recurring event, frequency": {
+      "Every ${ interval } months ${ onDayString }": [
+        "${ interval } か月毎の ${ onDayString }"
+      ],
+      "Every ${ interval } months ${ onDayString }, ${ timesString }": [
+        "${ interval } か月毎の ${ onDayString } 、${ timesString }"
+      ],
+      "Every ${ interval } months ${ onDayString }, ${ untilString }": [
+        "${ interval } か月毎の ${ onDayString } 、${ untilString }"
+      ],
+      "Monthly ${ onDayString }": [
+        "毎月 ${ onDayString }"
+      ],
+      "Monthly ${ onDayString }, ${ timesString }": [
+        "毎月 ${ onDayString } 、${ timesString }"
+      ],
+      "Monthly ${ onDayString }, ${ untilString }": [
+        "毎月 ${ onDayString } 、${ untilString }"
+      ]
+    },
+    "Monthly recurring event, repeats on": {
+      "on day ${ dayOfMonth }": [
+        "${ dayOfMonth } 日に"
+      ],
+      "on the first Friday": [
+        "第1金曜日"
+      ],
+      "on the first Monday": [
+        "第1月曜日"
+      ],
+      "on the first Saturday": [
+        "第1土曜日"
+      ],
+      "on the first Sunday": [
+        "第1日曜日"
+      ],
+      "on the first Thursday": [
+        "第1木曜日"
+      ],
+      "on the first Tuesday": [
+        "第1火曜日"
+      ],
+      "on the first Wednesday": [
+        "第1水曜日"
+      ],
+      "on the fourth Friday": [
+        "第4金曜日"
+      ],
+      "on the fourth Monday": [
+        "第4月曜日"
+      ],
+      "on the fourth Saturday": [
+        "第4土曜日"
+      ],
+      "on the fourth Sunday": [
+        "第4日曜日"
+      ],
+      "on the fourth Thursday": [
+        "第4木曜日"
+      ],
+      "on the fourth Tuesday": [
+        "第4火曜日"
+      ],
+      "on the fourth Wednesday": [
+        "第4水曜日"
+      ],
+      "on the last Friday": [
+        "最終金曜日"
+      ],
+      "on the last Monday": [
+        "最終月曜日"
+      ],
+      "on the last Saturday": [
+        "最終土曜日"
+      ],
+      "on the last Sunday": [
+        "最終日曜日"
+      ],
+      "on the last Thursday": [
+        "最終木曜日"
+      ],
+      "on the last Tuesday": [
+        "最終火曜日"
+      ],
+      "on the last Wednesday": [
+        "最終水曜日"
+      ],
+      "on the second Friday": [
+        "第2金曜日"
+      ],
+      "on the second Monday": [
+        "第2月曜日"
+      ],
+      "on the second Saturday": [
+        "第2土曜日"
+      ],
+      "on the second Sunday": [
+        "第2日曜日"
+      ],
+      "on the second Thursday": [
+        "第2木曜日"
+      ],
+      "on the second Tuesday": [
+        "第2火曜日"
+      ],
+      "on the second Wednesday": [
+        "第2水曜日"
+      ],
+      "on the third Friday": [
+        "第3金曜日"
+      ],
+      "on the third Monday": [
+        "第3月曜日"
+      ],
+      "on the third Saturday": [
+        "第3土曜日"
+      ],
+      "on the third Sunday": [
+        "第3日曜日"
+      ],
+      "on the third Thursday": [
+        "第3木曜日"
+      ],
+      "on the third Tuesday": [
+        "第3火曜日"
+      ],
+      "on the third Wednesday": [
+        "第3水曜日"
+      ]
+    },
+    "New Label form": {
+      "Color": [
+        "色"
+      ],
+      "Folder name": [
+        "フォルダー名"
+      ],
+      "Label name": [
+        "ラベル名"
+      ]
+    },
+    "new_plans: action": {
+      "Switch or add account": [
+        "アカウントを追加・切り替え"
+      ]
+    },
+    "new_plans: label": {
+      "Tell us about your experience. (Optional)": [
+        "あなたのご意見をお聞かせください (任意)"
+      ]
+    },
+    "new_plans: placeholder": {
+      "Feedback": [
+        "フィードバック"
+      ]
+    },
+    "Notification": {
+      "Contact group created": [
+        "連絡先グループが作成されました"
+      ],
+      "Contact group updated": [
+        "連絡先グループが更新されました"
+      ]
+    },
+    "Notification in share calendar modal": {
+      "Members added": [
+        "メンバーを追加しました"
+      ]
+    },
+    "Notification in shared calendar modal": {
+      "Joined ${ calendarName } (${ senderEmail })": [
+        "${ calendarName }に参加しました(${ senderEmail })"
+      ]
+    },
+    "Notification suffix": {
+      "by email": [
+        "メール"
+      ]
+    },
+    "Notification time input": {
+      "at": [
+        "の"
+      ]
+    },
+    "Notification type": {
+      "email": [
+        "メール"
+      ],
+      "notification": [
+        "通知"
+      ]
+    },
+    "Notification when": {
+      "at time of event": [
+        "予定の時間"
+      ],
+      "days before": [
+        "日前"
+      ],
+      "hours before": [
+        "時間前"
+      ],
+      "minutes before": [
+        "分前"
+      ],
+      "on the same day": [
+        "当日"
+      ],
+      "weeks before": [
+        "週間前"
+      ]
+    },
+    "Notifications": {
+      "${ value } days after": [
+        "${ value } 日後"
+      ],
+      "${ value } days after at ${ time }": [
+        "${ value } 日後の ${ time }"
+      ],
+      "${ value } days before": [
+        "${ value } 日前"
+      ],
+      "${ value } days before at ${ time }": [
+        "${ value }日前の${ time }"
+      ],
+      "${ value } hours after": [
+        "${ value } 時間後"
+      ],
+      "${ value } hours after at ${ time }": [
+        "${ value } 時間後の ${ time }"
+      ],
+      "${ value } hours before": [
+        "${ value } 時間前"
+      ],
+      "${ value } hours before at ${ time }": [
+        "${ value } 時間前の ${ time }"
+      ],
+      "${ value } minutes after": [
+        "${ value } 分後"
+      ],
+      "${ value } minutes after at ${ time }": [
+        "${ value } 分後の ${ time }"
+      ],
+      "${ value } minutes before": [
+        "${ value } 分前"
+      ],
+      "${ value } minutes before at ${ time }": [
+        "${ value } 分前の ${ time }"
+      ],
+      "${ value } weeks after": [
+        "${ value } 週間後"
+      ],
+      "${ value } weeks after at ${ time }": [
+        "${ value } 週間後の ${ time }"
+      ],
+      "${ value } weeks before": [
+        "${ value } 週間前"
+      ],
+      "${ value } weeks before at ${ time }": [
+        "${ value }週間前の${ time }"
+      ],
+      "At time of event": [
+        "予定の時間"
+      ],
+      "On the same day at ${ time }": [
+        "当日の${ time }"
+      ],
+      "Unknown": [
+        "不明"
+      ]
+    },
+    "Oauth instructions": {
+      "Next you'll need to sign in to your Google account and grant ${ BRAND_NAME } access to your data.": [
+        "次に、Google アカウントにサインインして ${ BRAND_NAME } にデータにアクセスすることを許可します。"
+      ]
+    },
+    "Oauth instructions video": {
+      "For the import to work, you must select all requested items as shown in the GIF.": [
+        "インポートするには、GIF にあるように要求されたすべてのアイテムを選択します。"
+      ]
+    },
+    "Onboarding": {
+      "Welcome to ${ appName }": [
+        "${ appName } へようこそ"
+      ],
+      "Where you can take control of your time and your data.": [
+        "時間とデータを自分で管理できます。"
+      ]
+    },
+    "Onboarding Action": {
+      "Next": [
+        "次へ"
+      ],
+      "Start using ${ appName }": [
+        "${ appName } の使用を開始する"
+      ]
+    },
+    "Onboarding Proton": {
+      "Configure your organization, link your domain name, and create accounts to ensure all members of your organization are protected.": [
+        "組織を構成、ドメイン名をリンク、アカウントを作成して、組織のすべてのメンバーを確実に保護します。"
+      ],
+      "Discover all ${ BRAND_NAME } services": [
+        "すべての ${ BRAND_NAME } サービスを 1 つのアカウントで"
+      ],
+      "Select a theme": [
+        "テーマを選択"
+      ],
+      "Set up your organization": [
+        "組織のための設定"
+      ],
+      "You can change this anytime in your settings.": [
+        "この設定はいつでも変更できます。"
+      ]
+    },
+    "Option": {
+      "Add to existing group": [
+        "既存のグループに追加"
+      ],
+      "All events": [
+        "すべての予定"
+      ],
+      "Create new group": [
+        "新しいグループを作成"
+      ],
+      "Custom": [
+        "カスタム設定"
+      ],
+      "Days": [
+        "日"
+      ],
+      "Does not repeat": [
+        "繰り返さない"
+      ],
+      "Every day": [
+        "毎日"
+      ],
+      "Every month": [
+        "毎月"
+      ],
+      "Every week": [
+        "毎週"
+      ],
+      "Every year": [
+        "毎年"
+      ],
+      "Ignore group": [
+        "グループを無視"
+      ],
+      "Months": [
+        "か月"
+      ],
+      "No parent folder": [
+        "親フォルダーなし"
+      ],
+      "This and future events": [
+        "これ以降のすべての予定"
+      ],
+      "This event": [
+        "この予定"
+      ],
+      "Weeks": [
+        "週間"
+      ],
+      "Years": [
+        "年"
+      ]
+    },
+    "Option group label": {
+      "Create new calendar": [
+        "新しいカレンダーを作成"
+      ],
+      "Merge with calendar": [
+        "カレンダーと結合"
+      ]
+    },
+    "Participant name": {
+      "You": [
+        "あなた"
+      ]
+    },
+    "Participants collapse button label": {
+      "Collapse participants list": [
+        "参加者一覧を縮小"
+      ]
+    },
+    "Participants expand button label": {
+      "Expand participants list": [
+        "参加者一覧を展開"
+      ]
+    },
+    "PGP key encryption warning": {
+      "Key cannot be used for encryption": [
+        "鍵は暗号化に使用できません"
+      ]
+    },
+    "PGP Key info": {
+      "${ emailAddress } has marked this key as compromised. This key cannot be used neither for encryption nor for signature verification.": [
+        "${ emailAddress } はこのキーを侵害扱いにしました。このキーは署名検証のみに使用できます。"
+      ],
+      "${ emailAddress } has marked this key as obsolete. This key can only be used for signature verification.": [
+        "${ emailAddress } はこのキーを廃止しました。このキーは署名検証のみに使用できます。"
+      ],
+      "We recommend that you \"untrust\" this key.": [
+        "この鍵を「信頼しない」ことをおすすめします。"
+      ]
+    },
+    "PGP key warning": {
+      "Email address not found among user ids defined in sending key (${ keyUserIds })": [
+        "送信鍵（${ keyUserIds }）に定義されているユーザーIDの中にメールアドレスは見つかりませんでした。"
+      ]
+    },
+    "Placeholder": {
+      "A way to contact you": [
+        "連絡手段"
+      ],
+      "Add a calendar description": [
+        "カレンダーの詳細を入力..."
+      ],
+      "Add a calendar name": [
+        "カレンダー名を入力..."
+      ],
+      "Add description": [
+        "詳細"
+      ],
+      "Add location": [
+        "場所"
+      ],
+      "Add participants": [
+        "参加者"
+      ],
+      "Add title": [
+        "タイトル"
+      ],
+      "E.g., ": [
+        "例: "
+      ],
+      "Filter groups": [
+        "グループをフィルター"
+      ],
+      "Group name": [
+        "グループ名"
+      ],
+      "Image URL": [
+        "画像の URL"
+      ],
+      "Mailbox password": [
+        "メールボックスのパスワード"
+      ],
+      "Name": [
+        "名前"
+      ],
+      "Name or email address": [
+        "名前またはメールアドレス"
+      ],
+      "Password": [
+        "パスワード"
+      ],
+      "Please describe the problem and include any error messages": [
+        "問題について、エラーメッセージ等も含めてご記入ください。（英語）"
+      ],
+      "Search for group name": [
+        "グループ名で検索"
+      ],
+      "Search for name or email": [
+        "名前またはメールアドレスで検索"
+      ],
+      "Select": [
+        "選択してください"
+      ],
+      "Start typing an email address": [
+        "電子メールアドレスを入力"
+      ]
+    },
+    "Placeholder for contact group name": {
+      "Name": [
+        "名前"
+      ]
+    },
+    "Placeholder for contact with no name": {
+      "(No name)": [
+        "（名前なし）"
+      ]
+    },
+    "Progress bar description": {
+      "${ contactsExported.length } out of ${ countContacts } contacts successfully exported.": [
+        "${ countContacts } 件のうち ${ contactsExported.length } 件の連絡先が正常にエクスポートされました。"
+      ],
+      "${ model.deleted.length } out of ${ totalBeDeleted } contacts successfully deleted.": [
+        "${ totalBeDeleted } 件のうち ${ model.deleted.length } 件の連絡先が正常に削除されました。"
+      ],
+      "${ model.submitted.length } out of ${ totalBeMerged } contacts successfully merged.": [
+        "${ totalBeMerged } 件のうち ${ model.submitted.length } 件の連絡先が正常に統合されました。"
+      ],
+      "No contacts exported.": [
+        "連絡先はエクスポートされていません。"
+      ],
+      "No contacts merged.": [
+        "連絡先は結合されません。"
+      ],
+      "Progress: ${ combinedProgress }%": [
+        "進捗: ${ combinedProgress }%"
+      ]
+    },
+    "Property type": {
+      "Address": [
+        "住所"
+      ],
+      "Email": [
+        "メールアドレス"
+      ],
+      "Fax": [
+        "Fax"
+      ],
+      "Home": [
+        "自宅"
+      ],
+      "Main": [
+        "メイン"
+      ],
+      "Mobile": [
+        "携帯電話"
+      ],
+      "Other": [
+        "その他"
+      ],
+      "Pager": [
+        "ポケベル"
+      ],
+      "Phone": [
+        "電話番号"
+      ],
+      "Work": [
+        "勤務先"
+      ]
+    },
+    "Refresh on apply warning": {
+      "Note: the service will reload after you click the Apply button.": [
+        "注意: 「適用」をクリックするとサービスが再読み込みされます。"
+      ]
+    },
+    "Select files": {
+      "Upload": [
+        "アップロード"
+      ]
+    },
+    "Select search results": {
+      "No results found": [
+        "結果が見つかりませんでした"
+      ]
+    },
+    "Settings update growler warning": {
+      "Failed to update settings": [
+        "設定の更新に失敗しました"
+      ]
+    },
+    "Share calendar assistive text": {
+      "To invite non-${ BRAND_NAME } users, share your calendar with a link": [
+        "非 ${ BRAND_NAME } ユーザーを招待するには、リンクでカレンダーを共有します"
+      ]
+    },
+    "Share calendar max shares reached error": {
+      "You have exceeded the maximum of ${ MAX_CALENDAR_MEMBERS } members per calendar": [
+        "カレンダーのメンバーの上限 ${ MAX_CALENDAR_MEMBERS } を超過しました。"
+      ]
+    },
+    "Share calendar modal title": {
+      "Share with ${ BRAND_NAME } users": [
+        "${ BRAND_NAME } ユーザーに共有"
+      ]
+    },
+    "Shared calendar; Info about calendar owner": {
+      "Created by ${ ownerName }": [
+        "${ ownerName }が作成"
+      ]
+    },
+    "Side panel spotlight": {
+      "Manage your contacts and view your calendar without leaving your app.": [
+        "アプリから去ることなく連絡先を管理したり、カレンダーを表示できます。"
+      ],
+      "Try the new side panel": [
+        "新しいサイドパネルを試す"
+      ]
+    },
+    "Sidebar calendar edit tooltip": {
+      "Manage calendar": [
+        "カレンダーを管理"
+      ]
+    },
+    "Spotlight": {
+      "${ DRIVE_APP_NAME } is out of beta! Give your files the same security your emails get.": [
+        "${ DRIVE_APP_NAME } はベータ版を卒業しました! メールと変わらないセキュリティをファイルでも体感しましょう。"
+      ],
+      "Easily accept invites": [
+        "招待を簡単に了承できます"
+      ],
+      "Get up to ${ credits } in credits.": [
+        "最大${ credits }分のクレジットを獲得できます"
+      ],
+      "Invite friends to ${ BRAND_NAME }": [
+        "フレンドを ${ BRAND_NAME } に招待"
+      ],
+      "Now invitations appear in your calendar as pending events. Just open an event to respond. ${ goToSettingsLink }": [
+        "招待は、保留中の予定としてカレンダーに表示されるようになりました。その予定を開いて、返信することができます。${ goToSettingsLink }"
+      ],
+      "Subscribe to other calendars": [
+        "他のカレンダーを購読"
+      ],
+      "Try ${ DRIVE_APP_NAME }": [
+        "${ DRIVE_APP_NAME } を試す"
+      ],
+      "You can subscribe to external calendars and read their events.": [
+        "外部カレンダーを購読して、イベントを読み込むことができます。"
+      ]
+    },
+    "Spotlight settings link": {
+      "Go to settings": [
+        "設定を開く"
+      ]
+    },
+    "Storage": {
+      "Release notes": [
+        "更新情報"
+      ],
+      "Upgrade storage": [
+        "ストレージ容量を増やす"
+      ],
+      "Your current storage:": [
+        "現在のストレージ:"
+      ]
+    },
+    "Subscribe to calendar modal": {
+      "Calendar URL": [
+        "カレンダーのURL"
+      ],
+      "To subscribe to an external or public calendar and its updates, enter the URL. A read-only version of the calendar will be added to your Subscribed calendars.\n${ kbLink }": [
+        "URL を入力して、外部または公開カレンダーを購読できます。購読すると、そのカレンダーの読み取り専用バージョンが「購読カレンダー」に追加されます。\n${ kbLink }"
+      ]
+    },
+    "Subscribe to calendar modal description": {
+      "Learn how to get a private calendar link.": [
+        "プライベートなカレンダーリンクの取得方法の詳細"
+      ]
+    },
+    "Subscribed calendar extension warning": {
+      "By using this link, Google will make the calendar you are subscribing to public": [
+        "このリンクを使うことで、登録しているカレンダーがGoogleで公開されます"
+      ],
+      "This link might be wrong": [
+        "リンクが間違っています"
+      ]
+    },
+    "Subscribed calendar feature unavailable error": {
+      "Subscribing to a calendar is unavailable at the moment": [
+        "カレンダーの購読は、現在利用できません。"
+      ]
+    },
+    "Subscribed calendar URL length warning": {
+      "URL is too long": [
+        "URLが長すぎます"
+      ]
+    },
+    "Success": {
+      "Address copied to clipboard": [
+        "住所がクリップボードにコピーされました"
+      ],
+      "All events deleted": [
+        "すべての予定が削除されました"
+      ],
+      "All events updated": [
+        "すべての予定が更新されました"
+      ],
+      "An invitation will be sent to added participants for all the events in this series.": [
+        "一連の予定に追加した参加者全員に対し、招待が送られます。"
+      ],
+      "Answer sent and all events deleted": [
+        "回答を送信し、すべての予定を削除しました"
+      ],
+      "Answer sent and event deleted": [
+        "回答を送信し、予定を削除しました"
+      ],
+      "Bug reported": [
+        "バグの報告が送信されました"
+      ],
+      "Calendar added. It might take a few minutes to sync.": [
+        "カレンダーが追加されました。同期には数分かかることがあります。"
+      ],
+      "Calendar created": [
+        "カレンダーが作成されました。"
+      ],
+      "Calendar information updated": [
+        "カレンダーの情報が更新されました"
+      ],
+      "Calendar updated": [
+        "カレンダーが更新されました。"
+      ],
+      "Canceling import": [
+        "インポートをキャンセル"
+      ],
+      "Cancellation sent and all events deleted": [
+        "予定キャンセルの通知を送り、すべてのイベントは削除されました。"
+      ],
+      "Cancellation sent and event deleted": [
+        "予定キャンセルの通知を送りました。予定は削除されました。"
+      ],
+      "Code sent to ${ methodTo }": [
+        "${ methodTo } にコードを送信しました"
+      ],
+      "Contact groups deleted": [
+        "連絡先グループが削除されました"
+      ],
+      "Contact saved": [
+        "連絡先が保存されました"
+      ],
+      "Contacts deleted": [
+        "連絡先が削除されました"
+      ],
+      "Email address copied to clipboard": [
+        "メールアドレスがクリップボードにコピーされました"
+      ],
+      "Event created": [
+        "予定が作成されました。"
+      ],
+      "Event deleted": [
+        "予定が削除されました。"
+      ],
+      "Event updated": [
+        "予定が更新されました。"
+      ],
+      "Events created": [
+        "予定が作成されました。"
+      ],
+      "Fingerprint copied to clipboard": [
+        "フィンガープリントをクリップボードにコピーしました"
+      ],
+      "Future events deleted": [
+        "将来の予定が削除されました。"
+      ],
+      "Future events updated": [
+        "将来の予定が更新されました。"
+      ],
+      "Import record deleted": [
+        "インポート記録が削除されました"
+      ],
+      "Invitation sent and all events updated": [
+        "招待を送信し、予定は更新されました"
+      ],
+      "Invitation sent and event created": [
+        "招待を送信し、予定を作成しました"
+      ],
+      "Invitation sent and events created": [
+        "招待を送信し、予定を作成しました"
+      ],
+      "Participation status updated": [
+        "参加状況が更新されました"
+      ],
+      "Phone number copied to clipboard": [
+        "電話番号がクリップボードにコピーされました"
+      ],
+      "Preference saved": [
+        "設定が保存されました"
+      ],
+      "Preferences saved": [
+        "設定が保存されました"
+      ],
+      "Verification successful": [
+        "検証に成功しました"
+      ]
+    },
+    "Success notification when user send feedback": {
+      "Feedback sent": [
+        "フィードバックを送信しました"
+      ]
+    },
+    "Table header": {
+      "Action": [
+        "アクション"
+      ],
+      "Actions": [
+        "操作"
+      ],
+      "Address": [
+        "メールアドレス"
+      ],
+      "Created": [
+        "作成日"
+      ],
+      "Expires": [
+        "有効期限"
+      ],
+      "Fingerprint": [
+        "フィンガープリント"
+      ],
+      "Name": [
+        "名前"
+      ],
+      "Status": [
+        "状態"
+      ],
+      "Type": [
+        "種類"
+      ]
+    },
+    "TableHeader": {
+      "Actions": [
+        "操作"
+      ],
+      "Address": [
+        "メールアドレス"
+      ],
+      "CSV field": [
+        "CSV フィールド"
+      ],
+      "Import": [
+        "インポート"
+      ],
+      "Name": [
+        "名前"
+      ],
+      "Values": [
+        "値"
+      ],
+      "vCard field": [
+        "vCard フィールド"
+      ]
+    },
+    "Text": {
+      "Settings": [
+        "設定"
+      ]
+    },
+    "Time unit": {
+      "${ hours } hours": [
+        "${ hours } 時間"
+      ],
+      "${ minutes } minutes": [
+        "${ minutes } 分"
+      ]
+    },
+    "Timezone search placeholder": {
+      "Search timezones": [
+        "タイムゾーンの検索"
+      ]
+    },
+    "Title": {
+      "${ emailsCount } members": [
+        "${ emailsCount } メンバー"
+      ],
+      "Account suspended": [
+        "アカウントが停止されました"
+      ],
+      "Add another notification to remind you of this event": [
+        "この予定をリマインドするために、別の通知を追加"
+      ],
+      "Add contact group name": [
+        "連絡先グループの名前を追加"
+      ],
+      "Add event location": [
+        "予定の場所を入力"
+      ],
+      "Add event title": [
+        "予定のタイトルを入力"
+      ],
+      "Add more information related to this event": [
+        "この予定に関する詳細情報を入力できます"
+      ],
+      "Add participants": [
+        "参加者を追加"
+      ],
+      "Add to ${ groupCount } groups": [
+        "${ groupCount } グループに追加"
+      ],
+      "Add to ${ groupName }": [
+        "${ groupName } に追加"
+      ],
+      "Addresses": [
+        "メールアドレス"
+      ],
+      "Back": [
+        "戻る"
+      ],
+      "Beta Access": [
+        "ベータ版アクセス"
+      ],
+      "Calendar": [
+        "カレンダー"
+      ],
+      "Calendar alarm": [
+        "カレンダーアラーム"
+      ],
+      "Change my answer": [
+        "回答を変更"
+      ],
+      "Choose how many times this event will repeat": [
+        "予定の繰り返し回数を選択"
+      ],
+      "Choose how often this event repeats": [
+        "この予定の頻度を選択"
+      ],
+      "Clearing data": [
+        "データのクリア中"
+      ],
+      "Contact details": [
+        "連絡先の詳細"
+      ],
+      "Contact Details": [
+        "連絡先の詳細"
+      ],
+      "Contact group": [
+        "連絡先グループ"
+      ],
+      "Contacts": [
+        "連絡先"
+      ],
+      "Continue with partial import?": [
+        "部分的なインポートを続行しますか?"
+      ],
+      "Create contact": [
+        "連絡先の作成"
+      ],
+      "Create new group": [
+        "新しいグループを作成"
+      ],
+      "Create public link": [
+        "公開リンクを作成"
+      ],
+      "Currency": [
+        "通貨"
+      ],
+      "Customize and confirm": [
+        "カスタマイズと確認"
+      ],
+      "Customize calendar import": [
+        "カレンダーのインポートをカスタマイズ"
+      ],
+      "Customize your mail import": [
+        "メールのインポートをカスタマイズ"
+      ],
+      "Delete ${ count } contact groups": [
+        "${ count } 件の連絡先を削除"
+      ],
+      "Delete ${ count } contacts": [
+        "${ count } 件の連絡先の削除"
+      ],
+      "Delete ${ Name }": [
+        "${ Name } を削除"
+      ],
+      "Delete event": [
+        "予定の削除"
+      ],
+      "Delete recurring event": [
+        "定期的な予定の削除"
+      ],
+      "Deleting contacts": [
+        "連絡先を削除しています"
+      ],
+      "Drop to upload": [
+        "ドロップしてアップロード"
+      ],
+      "Edit contact": [
+        "連絡先の編集"
+      ],
+      "Edit contact group": [
+        "連絡先グループを編集"
+      ],
+      "Edit email settings": [
+        "メール設定を編集"
+      ],
+      "Edit image": [
+        "画像の編集"
+      ],
+      "Email addresses": [
+        "メールアドレス"
+      ],
+      "Email settings": [
+        "メールの設定"
+      ],
+      "Enter your password": [
+        "パスワードを入力"
+      ],
+      "Enter your username or ${ MAIL_APP_NAME } email address": [
+        "ユーザー名または ${ MAIL_APP_NAME } メールアドレスを入力"
+      ],
+      "Error": [
+        "エラー"
+      ],
+      "Event is happening all day": [
+        "終日の予定です"
+      ],
+      "Event is happening on defined time slot": [
+        "予定は指定された時間から開始します"
+      ],
+      "Exporting contacts": [
+        "連絡先のエクスポート中"
+      ],
+      "Feedback": [
+        "フィードバック"
+      ],
+      "Groups": [
+        "グループ"
+      ],
+      "Hide time zones for event start and end times": [
+        "予定の開始時間と終了時間のタイムゾーンを隠す"
+      ],
+      "Human verification": [
+        "人間であることの検証"
+      ],
+      "Import as simple events?": [
+        "シンプル 予定としてインポートしますか?"
+      ],
+      "Import contacts": [
+        "連絡先をインポート"
+      ],
+      "Import events": [
+        "予定をインポート"
+      ],
+      "Import failed": [
+        "インポートに失敗"
+      ],
+      "Invalid verification code": [
+        "無効な検証コードです"
+      ],
+      "Link confirmation": [
+        "リンクの確認"
+      ],
+      "Merge contacts": [
+        "連絡先の統合"
+      ],
+      "Merging contacts": [
+        "連絡先の統合中"
+      ],
+      "Minicalendar": [
+        "ミニカレンダー"
+      ],
+      "Open actions dropdown": [
+        "アクションのドロップダウンを開く"
+      ],
+      "Open help menu": [
+        "ヘルプメニューを開く"
+      ],
+      "Open settings menu": [
+        "設定メニューを開く"
+      ],
+      "Organizer cannot be notified": [
+        "主催者にはメールが送信されません"
+      ],
+      "Other information": [
+        "その他の情報"
+      ],
+      "Other names": [
+        "別名"
+      ],
+      "Participants cannot be notified": [
+        "参加者にはメールが送信されません"
+      ],
+      "Phone numbers": [
+        "電話番号"
+      ],
+      "Re-sign all contacts": [
+        "すべての連絡先を再署名する"
+      ],
+      "Re-signing contacts": [
+        "連絡先を再署名する"
+      ],
+      "Reactivate calendar keys": [
+        "カレンダーの鍵を復活させる"
+      ],
+      "Reconnect your account": [
+        "アカウントに再接続"
+      ],
+      "Recover data": [
+        "データを復元する"
+      ],
+      "Remove participants": [
+        "参加者を削除"
+      ],
+      "Report a problem": [
+        "問題を報告"
+      ],
+      "Request new code": [
+        "新しいコードを発行"
+      ],
+      "Reset calendar keys": [
+        "カレンダーの鍵のリセット"
+      ],
+      "Save changes": [
+        "変更を保存"
+      ],
+      "Select a day in the month": [
+        "日付を選択"
+      ],
+      "Select a theme": [
+        "テーマを選択"
+      ],
+      "Select action to take on contact group": [
+        "この連絡先グループで行うアクションを選択"
+      ],
+      "Select contact group": [
+        "連絡先グループの選択"
+      ],
+      "Select event end date": [
+        "予定の終了日を選択"
+      ],
+      "Select event end time": [
+        "予定の終了時間を選択"
+      ],
+      "Select event frequency": [
+        "この予定の繰り返し条件を選択してください"
+      ],
+      "Select event frequency interval": [
+        "予定の繰り返し間隔を選択"
+      ],
+      "Select event start date": [
+        "予定の開始日を選択"
+      ],
+      "Select event start time": [
+        "予定の開始時間を選択"
+      ],
+      "Select event's last date": [
+        "予定の最終日を選択"
+      ],
+      "Select the time to send this notification": [
+        "通知を送信する時間を選択"
+      ],
+      "Select the time zone for the event end time": [
+        "予定の終了時間のタイムゾーンを選択"
+      ],
+      "Select the time zone for the event start time": [
+        "予定の開始時間のタイムゾーンを選択"
+      ],
+      "Select the way to send this notification": [
+        "通知を送信する方法を選択"
+      ],
+      "Select when this event will stop happening": [
+        "予定の最終日を選択"
+      ],
+      "Select when you want this notification to be sent": [
+        "通知を送信する時間を選択"
+      ],
+      "Select which calendar to add this event to": [
+        "この予定を追加するカレンダーを選択してください"
+      ],
+      "Send feedback": [
+        "フィードバックを送信"
+      ],
+      "Send invitation": [
+        "招待状を送信"
+      ],
+      "Settings": [
+        "設定"
+      ],
+      "Show time zones for event start and end times": [
+        "予定の開始時間と終了時間のタイムゾーンを表示"
+      ],
+      "Sign in and grant access": [
+        "サインインして権限を付与"
+      ],
+      "Sign in at ${ PROTON_ME_DOMAIN }": [
+        "${ PROTON_ME_DOMAIN }でサインイン"
+      ],
+      "Sign out": [
+        "サインアウト"
+      ],
+      "Start a new import": [
+        "新しいインポートを開始"
+      ],
+      "Start import process": [
+        "インポートを開始"
+      ],
+      "Two-factor authentication": [
+        "2 要素認証"
+      ],
+      "Update event": [
+        "予定の更新"
+      ],
+      "Update recurring event": [
+        "定期的な予定の更新"
+      ],
+      "Upgrade required": [
+        "アップグレードが必要です"
+      ],
+      "View contacts": [
+        "連絡先を表示"
+      ],
+      "Warning": [
+        "警告"
+      ],
+      "Warning: suspected fake website": [
+        "警告: 偽のウェブサイトの疑いがあります"
+      ],
+      "What would you like to import?": [
+        "何をインポートしたいですか?"
+      ],
+      "What's new": [
+        "更新情報"
+      ],
+      "You have invited participants with equivalent emails": [
+        "同じ電子メールで参加者を招待しました"
+      ],
+      "Your calendar link": [
+        "カレンダーのリンク"
+      ],
+      "Your free trial ends soon, on ${ formattedEndDate }": [
+        "無料トライアルは ${ formattedEndDate } に終了します。"
+      ]
+    },
+    "Title (number of minutes/hours/days/weeks)": {
+      "Choose a number": [
+        "番号を選択"
+      ]
+    },
+    "Title; create calendar modal": {
+      "Create calendar": [
+        "カレンダーを作成"
+      ]
+    },
+    "Title; edit calendar modal": {
+      "Edit calendar": [
+        "カレンダーを編集"
+      ]
+    },
+    "Today icon tooltip in mini calendar": {
+      "Today": [
+        "今日"
+      ]
+    },
+    "Tooltip": {
+      "Automatic indicates that the format in the composer is used to send to this user. Plain text indicates that the message will always be converted to plain text on send.": [
+        "「自動」はこのユーザーに送信する際の書式が、自動選択される事を示しています。「プレーンテキスト」は、常にプレーンテキストに変換されてメッセージが送信されることを示します。"
+      ],
+      "Customize import to reduce the number of folders": [
+        "フォルダー数を減らすためにインポートをカスタマイズします"
+      ],
+      "Customize import to reduce the number of labels": [
+        "ラベルの数を減らすためにインポートをカスタマイズします"
+      ],
+      "Digitally signing emails helps authenticating that messages are sent by you": [
+        "デジタル署名されたメールはメッセージがあなたから送信されたことの検証に役立ちます"
+      ],
+      "Each imported email will have this label": [
+        "インポートされたメールすべてにこのラベルがついています"
+      ],
+      "Edit folder names": [
+        "フォルダー名を編集"
+      ],
+      "Edit label names": [
+        "ラベル名を編集"
+      ],
+      "Email encryption forces email signature to help authenticate your sent messages": [
+        "メール暗号化は送信したメッセージの証明を手助けするためメール署名を強制します"
+      ],
+      "Encrypted data": [
+        "暗号化されたデータ"
+      ],
+      "Encrypted data with verified digital signature": [
+        "検証済みデジタル署名付きの暗号化データ"
+      ],
+      "Gmail automatically categorizes some emails like Social or Promotions. You can select where to import these emails to.": [
+        "Gmailは「ソーシャル」や「プロモーション」など、自動的にメールを種類分けしているものがあります。各種類のメールをどこにインポートするかを選択できます。"
+      ],
+      "Hide side panel": [
+        "サイドパネルを隠す"
+      ],
+      "Select the PGP scheme to be used when signing or encrypting to a user. Note that PGP/Inline forces plain text messages": [
+        "暗号化や署名の際に使用される PGP の方式を選択してください。 PGP/Inline はプレーンテキストのメッセージでしか使用できない事に注意してください"
+      ],
+      "Show side panel": [
+        "サイドパネルを表示"
+      ],
+      "System subfolders will show up as separate folders in ${ MAIL_APP_NAME }": [
+        "システムのサブフォルダーは ${ MAIL_APP_NAME } のそれそれのフォルダーとして表示されます"
+      ],
+      "The import will start with the most recent messages.": [
+        "インポートは新しいメッセージから始まります。"
+      ],
+      "Upload a public key to enable sending end-to-end encrypted emails to this email": [
+        "公開鍵をアップロードすると、このメールアドレス宛の電子メールをエンドツーエンド暗号化することができます"
+      ],
+      "You do not have any contacts to export": [
+        "エクスポートする連絡先がありません"
+      ]
+    },
+    "Validation": {
+      "Password must contain at least ${ length } characters": [
+        "パスワードは ${ length } 文字以上必要です"
+      ]
+    },
+    "Video control": {
+      "Click to replay the video": [
+        "クリックして動画を再生"
+      ],
+      "Replay video": [
+        "ビデオを再生"
+      ]
+    },
+    "View event button tooltip": {
+      "Open in a new tab": [
+        "新しいタブで開く"
+      ]
+    },
+    "Warning": {
+      "${ BRAND_NAME } will merge all folders with the same name. To avoid this, change the names before import.": [
+        "${ BRAND_NAME } は同じ名前ですべてのフォルダーを結合します。これを避けるには、インポートする前にフォルダー名を変更してください。"
+      ],
+      "${ BRAND_NAME } will transfer as much data as possible, starting with your most recent messages.": [
+        "${ BRAND_NAME } は、最新のメッセージからできるだけ多くのデータを転送します。"
+      ],
+      "Are you sure you want to discard your import?": [
+        "インポートを破棄してよろしいですか?"
+      ],
+      "Are you sure you want to permanently delete ${ count } contact groups?": [
+        "${ count } 件の連絡先グループを完全に削除してよろしいですか？"
+      ],
+      "Are you sure you want to permanently delete ${ count } contacts?": [
+        "${ count } 件の連絡先を完全に削除してよろしいですか？"
+      ],
+      "Are you sure you want to permanently delete this contact group?": [
+        "この連絡先グループを完全に削除してよろしいですか?"
+      ],
+      "Are you sure you want to permanently delete this contact?": [
+        "この連絡先を完全に削除してよろしいですか？"
+      ],
+      "Contacts could not be merged": [
+        "連絡先を統合できませんでした"
+      ],
+      "If you don’t remember your password, it is impossible to re-activate your key. We can help you dismiss the alert banner but in the process you will permanently lose access to all the data encrypted with that key.": [
+        "パスワードを覚えていない場合は、鍵を再度有効にすることはできません。 わたしたちはアラートバナーを解除するお手伝いはできますが、その鍵で暗号化されたすべてのデータへのアクセスを永久に失うことになります。"
+      ],
+      "Live chat is a premium feature available only to those with paid ${ VPN_APP_NAME } plans. Please open a ticket instead.": [
+        "ライブチャットは ${ VPN_APP_NAME } の有料プラン専用のプレミアム機能です。利用するにはチケットをオープンしてください。"
+      ],
+      "Reports are not end-to-end encrypted, please do not send any sensitive information.": [
+        "報告はエンドツーエンド暗号化されません。機密情報を送信しないでください。"
+      ],
+      "Some of the contacts to be merged display errors. Please review them individually": [
+        "統合時にエラーが発生した連絡先があります。エラー内容をご確認ください。"
+      ],
+      "The contact data is corrupted and cannot be displayed.": [
+        "連絡先データが壊れているため表示できません。"
+      ],
+      "The contact failed to load.": [
+        "連絡先の読み込みに失敗しました。"
+      ],
+      "The date and time settings on your device are out of sync. ${ learnMore }": [
+        "デバイスの日時設定を同期できません。${ learnMore }"
+      ],
+      "The decryption of the encrypted content failed.": [
+        "暗号化されたコンテンツの復号に失敗しました。"
+      ],
+      "The verification of the contact details' signature failed.": [
+        "連絡先詳細の署名の検証に失敗しました。"
+      ],
+      "This action is irreversible. Please enter the word ${ boldDanger } in the field to proceed.": [
+        "この操作は元に戻せません。続行するには、単語${ boldDanger } を入力してください。"
+      ],
+      "This feature requires a paid ${ BRAND_NAME } account": [
+        "この機能は有料の ${ BRAND_NAME } アカウントが必要です"
+      ],
+      "This import may exceed the storage capacity currently available in your ${ BRAND_NAME } account. Please consider customizing your import.": [
+        "このインポートは現在 ${ BRAND_NAME } アカウントで利用可能なストレージ容量を超えている可能性があります。インポートのカスタマイズを検討してください。"
+      ],
+      "Unfortunately, we’re not online at the moment. Please complete the form below to describe your issue, and we will look into it and be in touch when we’re back online.": [
+        "申し訳ありませんが、現在オンラインにおりません。以下のフォームに問題点をご記入ください。お調べして、オンラインに戻り次第ご連絡いたします。"
+      ],
+      "You will lose any customization you made so far.": [
+        "今までに行ったカスタマイズはすべて失われます。"
+      ],
+      "Your free trial ends on ${ textDate }. ${ action }": [
+        "無料トライアルは ${ textDate } に終了します。${ action }"
+      ]
+    },
+    "Warning in modal to accept calendar invitation; Description": {
+      "You cannot join this calendar because your invited email address (${ boldInvitedAddress }) is disabled.": [
+        "招待されたメールアドレス (${ boldInvitedAddress }) は無効なため、このカレンダーを追加できません。"
+      ]
+    },
+    "Weekly recurring event, frequency": {
+      "Every ${ interval } weeks on ${ multipleDaysString }": [
+        "${ interval } 週間毎の ${ multipleDaysString }"
+      ],
+      "Every ${ interval } weeks on ${ multipleDaysString }, ${ timesString }": [
+        "${ interval } 週間毎の ${ multipleDaysString } 、${ timesString }"
+      ],
+      "Every ${ interval } weeks on ${ multipleDaysString }, ${ untilString }": [
+        "${ interval } 週間毎の ${ multipleDaysString } 、${ untilString }"
+      ],
+      "Every ${ interval } weeks on all days": [
+        "${ interval } 週間毎の全曜日"
+      ],
+      "Every ${ interval } weeks on all days, ${ timesString }": [
+        "${ interval } 週間毎の全曜日、${ timesString }"
+      ],
+      "Every ${ interval } weeks on all days, ${ untilString }": [
+        "${ interval } 週間毎の全曜日、${ untilString }"
+      ],
+      "Every ${ interval } weeks on Friday": [
+        "${ interval } 週間毎の金曜日"
+      ],
+      "Every ${ interval } weeks on Friday, ${ timesString }": [
+        "${ interval } 週間毎の金曜日、${ timesString }"
+      ],
+      "Every ${ interval } weeks on Friday, ${ untilString }": [
+        "${ interval } 週間毎の金曜日、${ untilString }"
+      ],
+      "Every ${ interval } weeks on Monday": [
+        "${ interval } 週間毎の月曜日"
+      ],
+      "Every ${ interval } weeks on Monday, ${ timesString }": [
+        "${ interval } 週間毎の月曜日、${ timesString }"
+      ],
+      "Every ${ interval } weeks on Monday, ${ untilString }": [
+        "${ interval } 週間毎の月曜日、${ untilString }"
+      ],
+      "Every ${ interval } weeks on Saturday": [
+        "${ interval } 週間毎の土曜日"
+      ],
+      "Every ${ interval } weeks on Saturday, ${ timesString }": [
+        "${ interval } 週間毎の土曜日、${ timesString }"
+      ],
+      "Every ${ interval } weeks on Saturday, ${ untilString }": [
+        "${ interval } 週間毎の土曜日、${ untilString }"
+      ],
+      "Every ${ interval } weeks on Sunday": [
+        "${ interval } 週間毎の日曜日"
+      ],
+      "Every ${ interval } weeks on Sunday, ${ timesString }": [
+        "${ interval } 週間毎の日曜日、${ timesString }"
+      ],
+      "Every ${ interval } weeks on Sunday, ${ untilString }": [
+        "${ interval } 週間毎の日曜日、${ untilString }"
+      ],
+      "Every ${ interval } weeks on Thursday": [
+        "${ interval } 週間毎の木曜日"
+      ],
+      "Every ${ interval } weeks on Thursday, ${ timesString }": [
+        "${ interval } 週間毎の木曜日、${ timesString }"
+      ],
+      "Every ${ interval } weeks on Thursday, ${ untilString }": [
+        "${ interval } 週間毎の木曜日、${ untilString }"
+      ],
+      "Every ${ interval } weeks on Tuesday": [
+        "${ interval } 週間毎の火曜日"
+      ],
+      "Every ${ interval } weeks on Tuesday, ${ timesString }": [
+        "${ interval } 週間毎の火曜日、${ timesString }"
+      ],
+      "Every ${ interval } weeks on Tuesday, ${ untilString }": [
+        "${ interval } 週間毎の火曜日、${ untilString }"
+      ],
+      "Every ${ interval } weeks on Wednesday": [
+        "${ interval } 週間毎の水曜日"
+      ],
+      "Every ${ interval } weeks on Wednesday, ${ timesString }": [
+        "${ interval } 週間毎の水曜日、${ timesString }"
+      ],
+      "Every ${ interval } weeks on Wednesday, ${ untilString }": [
+        "${ interval } 週間毎の水曜日、${ untilString }"
+      ],
+      "Weekly on ${ multipleDaysString }": [
+        "毎週 ${ multipleDaysString }"
+      ],
+      "Weekly on ${ multipleDaysString }, ${ timesString }": [
+        "毎週 ${ multipleDaysString } 、${ timesString }"
+      ],
+      "Weekly on ${ multipleDaysString }, ${ untilString }": [
+        "毎週 ${ multipleDaysString } 、${ untilString }"
+      ],
+      "Weekly on all days": [
+        "毎週の全曜日"
+      ],
+      "Weekly on all days, ${ timesString }": [
+        "毎週の全曜日、${ timesString }"
+      ],
+      "Weekly on all days, ${ untilString }": [
+        "毎週のすべての日、${ untilString }"
+      ],
+      "Weekly on Friday": [
+        "毎週金曜日"
+      ],
+      "Weekly on Friday, ${ timesString }": [
+        "毎週金曜日、${ timesString }"
+      ],
+      "Weekly on Friday, ${ untilString }": [
+        "毎週金曜日、${ untilString }"
+      ],
+      "Weekly on Monday": [
+        "毎週月曜日"
+      ],
+      "Weekly on Monday, ${ timesString }": [
+        "毎週月曜日、${ timesString }"
+      ],
+      "Weekly on Monday, ${ untilString }": [
+        "毎週月曜日、${ untilString }"
+      ],
+      "Weekly on Saturday": [
+        "毎週土曜日"
+      ],
+      "Weekly on Saturday, ${ timesString }": [
+        "毎週土曜日、${ timesString }"
+      ],
+      "Weekly on Saturday, ${ untilString }": [
+        "毎週土曜日、${ untilString }"
+      ],
+      "Weekly on Sunday": [
+        "毎週日曜日"
+      ],
+      "Weekly on Sunday, ${ timesString }": [
+        "毎週日曜日、${ timesString }"
+      ],
+      "Weekly on Sunday, ${ untilString }": [
+        "毎週日曜日、${ untilString }"
+      ],
+      "Weekly on Thursday": [
+        "毎週木曜日"
+      ],
+      "Weekly on Thursday, ${ timesString }": [
+        "毎週木曜日、${ timesString }"
+      ],
+      "Weekly on Thursday, ${ untilString }": [
+        "毎週木曜日、${ untilString }"
+      ],
+      "Weekly on Tuesday": [
+        "毎週火曜日"
+      ],
+      "Weekly on Tuesday, ${ timesString }": [
+        "毎週火曜日、${ timesString }"
+      ],
+      "Weekly on Tuesday, ${ untilString }": [
+        "毎週火曜日、${ untilString }"
+      ],
+      "Weekly on Wednesday": [
+        "毎週水曜日"
+      ],
+      "Weekly on Wednesday, ${ timesString }": [
+        "毎週水曜日、${ timesString }"
+      ],
+      "Weekly on Wednesday, ${ untilString }": [
+        "毎週水曜日、${ untilString }"
+      ]
+    },
+    "Weekly recurring event, repeats on (multiple days), frequency": {
+      "Friday": [
+        "金曜日"
+      ],
+      "Monday": [
+        "月曜日"
+      ],
+      "Saturday": [
+        "土曜日"
+      ],
+      "Sunday": [
+        "日曜日"
+      ],
+      "Thursday": [
+        "木曜日"
+      ],
+      "Tuesday": [
+        "火曜日"
+      ],
+      "Wednesday": [
+        "水曜日"
+      ]
+    },
+    "Yearly recurring event, frequency": {
+      "Every ${ interval } years": [
+        "Yearly"
+      ],
+      "Every ${ interval } years, ${ timesString }": [
+        "${ interval } 年毎、${ timesString }"
+      ],
+      "Every ${ interval } years, ${ untilString }": [
+        "${ interval } 年毎、${ untilString }"
+      ],
+      "Yearly": [
+        "年払い"
+      ],
+      "Yearly, ${ timesString }": [
+        "毎年、${ timesString }"
+      ],
+      "Yearly, ${ untilString }": [
+        "毎年、${ untilString }"
+      ]
+    }
+  }
+}
