@@ -1,0 +1,60 @@
+.file-preview {
+	color: var(--file-preview-text-color);
+	background-color: var(--file-preview-background-color, var(--background-norm));
+	@extend .flex-item-fluid-auto;
+	@extend .flex-column;
+
+	position: fixed;
+	inset: 0;
+	z-index: $layer-previewer;
+	display: flex;
+
+	&-container {
+		inline-size: 100%;
+		@extend .relative;
+		@extend .flex-column;
+		@extend .flex-item-fluid-auto;
+		@extend .scroll-if-needed;
+		@extend .flex-no-min-children;
+	}
+
+	&-filename {
+		max-inline-size: calc(50% - 5em);
+	}
+
+	&-text {
+		background-color: whitesmoke;
+		color: black;
+		@extend .p2;
+		@extend .center;
+		@extend .flex-item-fluid-auto;
+		@extend .mt0-2; // So the highlight in case of textarea is fully visible on the top too.
+		@extend .mb2;
+
+		word-break: break-word;
+		white-space: pre-wrap;
+		inline-size: 100%;
+		max-inline-size: rem(800);
+	}
+
+	&-image {
+		@extend .mauto;
+
+		object-fit: contain;
+		max-inline-size: none;
+		position: absolute;
+		inset-block-start: 0;
+		inset-inline-start: 0;
+		transition: opacity 0.2s ease-in-out;
+	}
+
+	&-image.hide {
+		opacity: 0;
+	}
+
+	&-loading {
+		position: absolute;
+		inset-block-end: 0;
+		block-size: 2.5em;
+	}
+}

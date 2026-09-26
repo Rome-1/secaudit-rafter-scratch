@@ -1,0 +1,9 @@
+@import '~@proton/styles/scss/config';
+
+.onboarding-modal {
+	&#{&} {
+		--size: #{rem(394)};
+	}
+
+	min-block-size: rem(300);
+}

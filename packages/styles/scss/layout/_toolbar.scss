@@ -1,0 +1,97 @@
+.toolbar {
+	--padding-toolbar-button: #{em(8, $base-font-size)};
+	--padding-toolbar-button-dropdown: #{em(8, $base-font-size)};
+
+	position: relative;
+	z-index: 1;
+	block-size: rem($toolbar-height);
+	border-block-end: 1px solid var(--toolbar-border-bottom-color);
+	background-color: var(--toolbar-background-color);
+	color: var(--toolbar-text-color);
+
+	&-inner {
+		margin: em(5.5); // trick to get square button icons
+		gap: em(12);
+	}
+
+	&-button {
+		@extend .interactive;
+
+		position: relative;
+		display: flex; // alignment fix on Chrome
+		padding-inline: var(--padding-toolbar-button);
+		border-radius: var(--border-radius-md);
+
+		// Increase click area to toolbar height
+		&::before {
+			content: '';
+			position: absolute;
+			inset: em(-6);
+		}
+
+		&--dropdown {
+			padding-inline: var(--padding-toolbar-button-dropdown);
+
+			// just to make it closer to checkbox
+			&-more-selections {
+				margin-inline-start: em(2);
+
+				--padding-toolbar-button-dropdown: #{em(6, $base-font-size)};
+			}
+		}
+	}
+
+	&-separator {
+		inline-size: 1px;
+		background: var(--toolbar-separator-color);
+	}
+
+	button[aria-disabled='true'],
+	.toolbar-button[aria-disabled='true'] {
+		opacity: 0.5;
+		pointer-events: none;
+	}
+
+	// new select
+	.select {
+		@extend .interactive;
+
+		border: unset;
+		background-color: unset;
+		color: currentcolor;
+		block-size: auto;
+		margin-inline: 0.25em;
+		border-radius: var(--border-radius-md);
+	}
+
+	// select all
+	.select-all {
+		&-container {
+			margin-inline-start: em(16);
+
+			@include respond-to($breakpoint-small, 'min') {
+				margin-inline-start: em(25);
+			}
+		}
+
+		.checkbox-fakecheck {
+			margin-inline-end: 0;
+		}
+	}
+
+	// adaptations for compact mode
+	.is-compact & {
+		.select-all-container {
+			margin-inline-start: em(10);
+
+			@include respond-to($breakpoint-small, 'min') {
+				margin-inline-start: em(7);
+				padding-inline-start: 0;
+			}
+		}
+	}
+
+	@include respond-to($breakpoint-small) {
+		border-radius: 0;
+	}
+}
