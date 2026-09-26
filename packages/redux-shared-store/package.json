@@ -1,0 +1,16 @@
+{
+    "name": "@proton/redux-shared-store",
+    "description": "Sharing dispatch and selector context",
+    "dependencies": {
+        "@proton/account": "workspace:^",
+        "@proton/calendar": "workspace:^",
+        "@proton/mail": "workspace:^",
+        "@proton/react-redux-store": "workspace:^",
+        "@proton/redux-shared-store-types": "workspace:^",
+        "@proton/redux-utilities": "workspace:^",
+        "@proton/shared": "workspace:^",
+        "@reduxjs/toolkit": "^2.2.6",
+        "react": "^18.3.1",
+        "react-redux": "^9.1.2"
+    }
+}

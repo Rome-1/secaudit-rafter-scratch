@@ -1,0 +1,29 @@
+{
+    "name": "@proton/metrics",
+    "description": "Metrics library",
+    "scripts": {
+        "check-types": "tsc",
+        "generate-metrics": "ts-node -P scripts/tsconfig.metrics-scripts.json ./scripts/generate-metrics.ts",
+        "generate-schema-types": "json2ts -i 'json-schema-registry/observability/client/web*.schema.json' -o types/ --no-additionalProperties && json2ts -i 'json-schema-registry/observability/client/drive*.schema.json' -o types/ --no-additionalProperties && json2ts -i 'json-schema-registry/observability/client/docs*.schema.json' -o types/ --no-additionalProperties",
+        "lint": "eslint . --ext ts --quiet --cache",
+        "test": "jest",
+        "test:ci": "jest --coverage --runInBand --ci",
+        "test:watch": "jest --watch",
+        "update-metrics": "rimraf json-schema-registry types && git clone $SCHEMA_REPOSITORY && yarn generate-schema-types && yarn generate-metrics"
+    },
+    "dependencies": {
+        "@proton/shared": "workspace:^",
+        "json-schema-to-typescript": "^13.1.2"
+    },
+    "devDependencies": {
+        "@proton/eslint-config-proton": "workspace:^",
+        "@types/node": "^20.14.15",
+        "eslint": "^8.57.0",
+        "jest": "^29.7.0",
+        "jest-fetch-mock": "^3.0.3",
+        "rimraf": "^5.0.10",
+        "ts-jest": "^29.2.4",
+        "ts-node": "^10.9.2",
+        "typescript": "^5.5.4"
+    }
+}
