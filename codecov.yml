@@ -1,0 +1,9 @@
+ignore:
+  - "_tools"
+  - "build"
+  - "examples"
+  - "hack"
+  - "internal/cmd/protoc-*"
+  - "rpc"
+  - "ui"
+  - "**/mock_*.go"
