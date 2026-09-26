@@ -1,0 +1,149 @@
+import { c } from 'ttag';
+import {
+    updateDraftType,
+    updateRightToLeft,
+    updateFontFace,
+    updateFontSize,
+} from '@proton/shared/lib/api/mailSettings';
+import { MIME_TYPES, RIGHT_TO_LEFT } from '@proton/shared/lib/constants';
+
+import { Info, Label } from '../../components';
+import { useEventManager, useMailSettings, useNotifications, useApi, useLoading } from '../../hooks';
+import DraftTypeSelect from './DraftTypeSelect';
+import TextDirectionSelect from './TextDirectionSelect';
+import SettingsLayout from '../account/SettingsLayout';
+import SettingsLayoutLeft from '../account/SettingsLayoutLeft';
+import SettingsLayoutRight from '../account/SettingsLayoutRight';
+import FontFaceSelect from './FontFaceSelect';
+import FontSizeSelect from './FontSizeSelect';
+import { DEFAULT_FONT_FACE, DEFAULT_FONT_SIZE } from '../../components/editor/constants';
+import DelaySendSecondsSelect from '../messages/DelaySendSecondsSelect';
+
+const MessagesOtherSection = () => {
+    const api = useApi();
+    const [
+        {
+            DraftMIMEType = MIME_TYPES.DEFAULT,
+            RightToLeft = 0,
+            FontFace = DEFAULT_FONT_FACE,
+            FontSize = DEFAULT_FONT_SIZE,
+            DelaySendSeconds = 10,
+        } = {},
+    ] = useMailSettings();
+    const { createNotification } = useNotifications();
+    const { call } = useEventManager();
+
+    const [loadingDraftType, withLoadingDraftType] = useLoading();
+    const [loadingRightToLeft, withLoadingRightToLeft] = useLoading();
+    const [loadingFontFace, withLoadingFontFace] = useLoading();
+    const [loadingFontSize, withLoadingFontSize] = useLoading();
+
+    const notifyPreferenceSaved = () => createNotification({ text: c('Success').t`Preference saved` });
+
+    const handleChangeDraftType = async (value: MIME_TYPES) => {
+        await api(updateDraftType(value));
+        await call();
+        notifyPreferenceSaved();
+    };
+
+    const handleChangeRightToLeft = async (value: RIGHT_TO_LEFT) => {
+        await api(updateRightToLeft(value));
+        await call();
+        notifyPreferenceSaved();
+    };
+
+    const handleChangeFontFace = async (value: string) => {
+        await api(updateFontFace(value));
+        await call();
+        notifyPreferenceSaved();
+    };
+
+    const handleChangeFontSize = async (value: number) => {
+        await api(updateFontSize(value));
+        await call();
+        notifyPreferenceSaved();
+    };
+
+    return (
+        <>
+            <SettingsLayout>
+                <SettingsLayoutLeft>
+                    <Label htmlFor="draftType" className="text-semibold">
+                        {c('Label').t`Composer mode`}
+                    </Label>
+                </SettingsLayoutLeft>
+                <SettingsLayoutRight>
+                    <DraftTypeSelect
+                        id="draftType"
+                        draftType={DraftMIMEType}
+                        onChange={(value) => withLoadingDraftType(handleChangeDraftType(value))}
+                        loading={loadingDraftType}
+                        data-testid="appearance:draft-type-select"
+                    />
+                </SettingsLayoutRight>
+            </SettingsLayout>
+
+            <SettingsLayout>
+                <SettingsLayoutLeft>
+                    <label htmlFor="textDirection" className="text-semibold">
+                        {c('Label').t`Composer text direction`}
+                    </label>
+                </SettingsLayoutLeft>
+                <SettingsLayoutRight>
+                    <TextDirectionSelect
+                        id="textDirection"
+                        rightToLeft={RightToLeft}
+                        onChange={(value) => withLoadingRightToLeft(handleChangeRightToLeft(value))}
+                        loading={loadingRightToLeft}
+                        data-testid="appearance:text-direction-select"
+                    />
+                </SettingsLayoutRight>
+            </SettingsLayout>
+
+            <SettingsLayout>
+                <SettingsLayoutLeft>
+                    <label htmlFor="fontFace" id="label-composer-default-font-size" className="text-semibold">
+                        {c('Label').t`Composer default font/size`}
+                    </label>
+                </SettingsLayoutLeft>
+                <SettingsLayoutRight className="settings-layout-right-fixed-size flex flex-row">
+                    <div className="flex-item-fluid pr0-5">
+                        <FontFaceSelect
+                            id="fontFace"
+                            aria-describedby="label-composer-default-font-size"
+                            fontFace={FontFace || DEFAULT_FONT_FACE}
+                            onChange={(value) => withLoadingFontFace(handleChangeFontFace(value))}
+                            loading={loadingFontFace}
+                        />
+                    </div>
+                    <div className="flex-item-noshrink">
+                        <FontSizeSelect
+                            id="fontSize"
+                            aria-describedby="label-composer-default-font-size"
+                            fontSize={FontSize || DEFAULT_FONT_SIZE}
+                            onChange={(value) => withLoadingFontSize(handleChangeFontSize(value))}
+                            loading={loadingFontSize}
+                        />
+                    </div>
+                </SettingsLayoutRight>
+            </SettingsLayout>
+
+            <SettingsLayout>
+                <SettingsLayoutLeft>
+                    <label htmlFor="delaySendSecondsSelect" className="text-semibold">
+                        <span className="mr0-5">{c('Label').t`Undo send`}</span>
+                        <Info
+                            title={c('Tooltip')
+                                .t`This feature delays sending your emails, giving you the opportunity to undo send during the selected time frame.`}
+                        />
+                    </label>
+                </SettingsLayoutLeft>
+                <SettingsLayoutRight>
+                    <DelaySendSecondsSelect id="delaySendSecondsSelect" delaySendSeconds={DelaySendSeconds} />
+                </SettingsLayoutRight>
+            </SettingsLayout>
+        </>
+    );
+};
+
+export default MessagesOtherSection;

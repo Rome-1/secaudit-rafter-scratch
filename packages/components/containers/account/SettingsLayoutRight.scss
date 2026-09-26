@@ -1,0 +1,11 @@
+@import '~@proton/styles/scss/config';
+
+.settings-layout-right {
+	min-inline-size: em(240);
+	&-fixed-size {
+		max-inline-size: em(240);
+		@include respond-to($breakpoint-small) {
+			max-inline-size: 100%;
+		}
+	}
+}

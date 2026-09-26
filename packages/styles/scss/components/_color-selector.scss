@@ -1,0 +1,67 @@
+.color-selector {
+	&-container {
+		display: flex;
+		flex-flow: row wrap;
+		gap: em(8);
+
+		@include respond-to($breakpoint-small, 'min') {
+			max-inline-size: em((40 * 5) + (8 * 4)); // items + gaps
+			box-sizing: content-box;
+		}
+	}
+
+	&-input[type='radio'] {
+		position: absolute;
+		opacity: 0;
+	}
+
+	&-item {
+		position: relative;
+		display: flex;
+		block-size: em(40);
+		inline-size: em(40);
+		overflow: hidden;
+		border-radius: 50%;
+		background-color: var(--color-selector-base);
+		cursor: pointer;
+		transition: 0.15s easing(easeOutQuint);
+
+		&::before {
+			content: '';
+			position: absolute;
+			inset: 0;
+			border-radius: 50%;
+			z-index: 1;
+			border: em(4) solid transparent;
+			transition: inherit;
+		}
+
+		&::after {
+			content: '';
+			display: block;
+			inline-size: em(16);
+			block-size: em(16);
+			border-radius: 50%;
+			margin: auto;
+			background-color: transparent;
+			transition: inherit;
+		}
+
+		&:hover,
+		&:focus-within {
+			&::before {
+				border-color: var(--color-selector-strong);
+			}
+		}
+
+		&.is-selected {
+			&::before {
+				border-color: var(--color-selector-intense);
+			}
+
+			&::after {
+				background-color: white;
+			}
+		}
+	}
+}
