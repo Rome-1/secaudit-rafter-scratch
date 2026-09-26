@@ -1,0 +1,24 @@
+==========================
+Django 3.0.1 release notes
+==========================
+
+*Expected January 2, 2020*
+
+Django 3.0.1 fixes several bugs in 3.0.
+
+Bugfixes
+========
+
+* Fixed a regression in Django 3.0 by restoring the ability to use Django
+  inside Jupyter and other environments that force an async context, by adding
+  an option to disable :ref:`async-safety` mechanism with
+  ``DJANGO_ALLOW_ASYNC_UNSAFE`` environment variable (:ticket:`31056`).
+
+* Fixed a regression in Django 3.0 where ``RegexPattern``, used by
+  :func:`~django.urls.re_path`, returned positional arguments to be passed to
+  the view when all optional named groups were missing (:ticket:`31061`).
+
+* Reallowed, following a regression in Django 3.0,
+  :class:`~django.db.models.expressions.Window` expressions to be used in
+  conditions outside of queryset filters, e.g. in
+  :class:`~django.db.models.expressions.When` conditions (:ticket:`31060`).
