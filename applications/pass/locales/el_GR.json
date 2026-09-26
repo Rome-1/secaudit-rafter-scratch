@@ -1,0 +1,3236 @@
+{
+  "headers": {
+    "plural-forms": "nplurals=2; plural=(n != 1);",
+    "language": "el_GR"
+  },
+  "contexts": {
+    "Account Settings - Info": {
+      "${ name } and ${ remainingCount } other potential leaks detected. Turn on ${ DARK_WEB_MONITORING_NAME } to view details and take action. ${ link }": [
+        "${ name } και εντοπίστηκαν ${ remainingCount } άλλες πιθανές διαρροές. Ενεργοποιήστε το ${ DARK_WEB_MONITORING_NAME } για να προβάλετε λεπτομέρειες και να προβείτε σε κάποια ενέργεια. ${ link }"
+      ],
+      "${ name } and 1 other potential leak detected. Turn on ${ DARK_WEB_MONITORING_NAME } to view details and take action. ${ link }": [
+        "${ name } και εντοπίστηκε 1 άλλη πιθανή διαρροή. Ενεργοποιήστε το ${ DARK_WEB_MONITORING_NAME } για να προβάλετε λεπτομέρειες και να προβείτε σε κάποια ενέργεια. ${ link }"
+      ],
+      "A potential ${ name } leak was detected. Turn on ${ DARK_WEB_MONITORING_NAME } to view details and take action. ${ link }": [
+        "Εντοπίστηκε πιθανή διαρροή ${ name }. Ενεργοποιήστε το ${ DARK_WEB_MONITORING_NAME } για να προβάλετε λεπτομέρειες και να προβείτε σε κάποια ενέργεια. ${ link }"
+      ],
+      "A potential leak from ${ name } was detected. Turn on ${ DARK_WEB_MONITORING_NAME } to view details and take action. ${ link }": [
+        "Εντοπίστηκε πιθανή διαρροή από ${ name }. Ενεργοποιήστε το ${ DARK_WEB_MONITORING_NAME } για να προβάλετε λεπτομέρειες και να προβείτε σε κάποια ενέργεια. ${ link }"
+      ],
+      "A potential leak from ${ name } was detected. Turn on ${ DARK_WEB_MONITORING_NAME } to view details. ${ link }": [
+        "Εντοπίστηκε πιθανή διαρροή από ${ name }. Ενεργοποιήστε το ${ DARK_WEB_MONITORING_NAME } για να δείτε λεπτομέρειες. ${ link }"
+      ],
+      "Your information was found in at least one data leak. Turn on ${ DARK_WEB_MONITORING_NAME } to view details and take action. ${ link }": [
+        "Οι πληροφορίες σας εντοπίστηκαν σε τουλάχιστον μία διαρροή δεδομένων. Ενεργοποιήστε το ${ DARK_WEB_MONITORING_NAME } για να δείτε λεπτομέρειες και να προβείτε σε κάποια ενέργεια. ${ link }"
+      ]
+    },
+    "Action": {
+      "Add": [
+        "Προσθήκη"
+      ],
+      "Add current URL": [
+        "Προσθήκη τρέχουσας διεύθυνσης URL"
+      ],
+      "Add more": [
+        "Προσθέστε περισσότερα"
+      ],
+      "Add new item": [
+        "Προσθήκη νέου αντικείμενου"
+      ],
+      "Add section": [
+        "Προσθήκη ενότητας"
+      ],
+      "Add username field": [
+        "Προσθήκη πεδίου ονόματος χρήστη"
+      ],
+      "Admin panel": [
+        "Πίνακας διαχείρισης"
+      ],
+      "Advanced": [
+        "Για προχωρημένους"
+      ],
+      "Advanced options": [
+        "Προηγμένες επιλογές"
+      ],
+      "Authenticate": [
+        "Ταυτοποίηση"
+      ],
+      "Back": [
+        "Πίσω"
+      ],
+      "Bulk delete items from trash": [
+        "Μαζική διαγραφή αντικειμένων από τα διαγραμμένα"
+      ],
+      "Bulk move items to another vault": [
+        "Μαζική μετακίνηση στοιχείων σε άλλη κρύπτη"
+      ],
+      "Bulk move items to trash": [
+        "Μαζική μετακίνηση στοιχείων στα Διαγραμμένα"
+      ],
+      "Bulk restore items from trash": [
+        "Μαζική επαναφορά αντικειμένων από τα διαγραμμένα"
+      ],
+      "Bulk select items": [
+        "Μαζική επιλογή στοιχείων"
+      ],
+      "Cancel": [
+        "Ακύρωση"
+      ],
+      "Change": [
+        "Αλλαγή"
+      ],
+      "Choose a file or drag it here": [
+        "Επιλέξτε ένα αρχείο ή σύρετέ το εδώ"
+      ],
+      "Clear": [
+        "Καθαρισμός"
+      ],
+      "Clear search": [
+        "Εκκαθάριση αναζήτησης"
+      ],
+      "Close": [
+        "Κλείσιμο"
+      ],
+      "Close advanced options": [
+        "Κλείσιμο περισσότερων επιλογών"
+      ],
+      "Close navigation": [
+        "Κλείσιμο μενού πλοήγησης"
+      ],
+      "Confirm": [
+        "Επιβεβαίωση"
+      ],
+      "Confirm access": [
+        "Επιβεβαιώστε την πρόσβαση"
+      ],
+      "Continue": [
+        "Συνέχεια"
+      ],
+      "Continue offline": [
+        "Συνεχίστε εκτός σύνδεσης"
+      ],
+      "Copy and close": [
+        "Αντιγραφή και κλείσιμο"
+      ],
+      "Copy link": [
+        "Αντιγραφή συνδέσμου"
+      ],
+      "Copy to clipboard": [
+        "Αντιγραφή στο πρόχειρο"
+      ],
+      "Create": [
+        "Δημιουργία"
+      ],
+      "Create a ${ BRAND_NAME } account": [
+        "Δημιουργία ενός ${ BRAND_NAME } λογαριασμού"
+      ],
+      "Create a new vault": [
+        "Δημιουργία νέας κρύπτης"
+      ],
+      "Create a new vault to share": [
+        "Δημιουργία νέας κρύπτης για κοινή χρήση"
+      ],
+      "Create alias": [
+        "Δημιουργία ψευδώνυμου"
+      ],
+      "Create card": [
+        "Δημιουργήστε κάρτα"
+      ],
+      "Create identity": [
+        "Δημιουργία ταυτότητας"
+      ],
+      "Create login": [
+        "Δημιουργία σύνδεσης"
+      ],
+      "Create new items": [
+        "Δημιουργία νέων στοιχείων"
+      ],
+      "Create note": [
+        "Δημιουργία σημείωσης"
+      ],
+      "Create vault": [
+        "Δημιουργία κρύπτης"
+      ],
+      "Creating vault": [
+        "Δημιουργία κρύπτης"
+      ],
+      "Custom section": [
+        "Προσαρμοσμένη ενότητα"
+      ],
+      "Customize": [
+        "Προσαρμογή"
+      ],
+      "Delete": [
+        "Διαγραφή"
+      ],
+      "Delete alias": [
+        "Διαγραφή ψευδώνυμου"
+      ],
+      "Delete all": [
+        "Διαγραφή όλων"
+      ],
+      "Delete password": [
+        "Διαγραφή κωδικού"
+      ],
+      "Delete permanently": [
+        "Οριστική διαγραφή"
+      ],
+      "Delete vault": [
+        "Διαγραφή κρύπτης"
+      ],
+      "Deselect": [
+        "Αποεπιλογή"
+      ],
+      "Discard": [
+        "Απόρριψη"
+      ],
+      "Dismiss": [
+        "Παράβλεψη"
+      ],
+      "Download this CSV template": [
+        "Κατεβάστε αυτό το πρότυπο CSV"
+      ],
+      "Edit": [
+        "Επεξεργασία"
+      ],
+      "Edit vault": [
+        "Επεξεργασία κρύπτης"
+      ],
+      "Enable Dark Web Monitoring": [
+        "Ενεργοποιήστε Παρακολούθηση Dark Web"
+      ],
+      "Entire vault": [
+        "Ολόκληρη κρύπτη"
+      ],
+      "Exclude from monitoring": [
+        "Εξαίρεση από την παρακολούθηση"
+      ],
+      "Export": [
+        "Εξαγωγή"
+      ],
+      "Feedback": [
+        "Αξιολόγηση"
+      ],
+      "Fill password": [
+        "Συμπληρώστε τον κωδικό πρόσβασης"
+      ],
+      "Filter vault items": [
+        "Φιλτράρισμα στοιχείων κρύπτης"
+      ],
+      "Generate alias": [
+        "Δημιουργία ψευδωνύμου"
+      ],
+      "Generate password": [
+        "Παραγωγή τυχαίου κωδικού πρόσβασης"
+      ],
+      "Generate secure link": [
+        "Δημιουργήστε ασφαλή σύνδεσμο"
+      ],
+      "Generated passwords": [
+        "Δημιουργημένα συνθηματικά"
+      ],
+      "Generating secure link...": [
+        "Δημιουργία ασφαλούς συνδέσμου..."
+      ],
+      "Get ${ PASS_APP_NAME }": [
+        "Απόκτηση ${ PASS_APP_NAME }"
+      ],
+      "Get mobile apps": [
+        "Αποκτήστε εφαρμογές κινητών"
+      ],
+      "Get Pass Business": [
+        "Αποκτήστε το Pass Business"
+      ],
+      "Get Pass Plus": [
+        "Αποκτήστε το Pass Plus"
+      ],
+      "Get Started": [
+        "Ξεκινήστε"
+      ],
+      "Help us improve": [
+        "Βοηθήστε μας να βελτιωθούμε"
+      ],
+      "Hide": [
+        "Απόκρυψη"
+      ],
+      "How do I export my data from ${ PROVIDER_INFO_MAP[form.values.provider].title }?": [
+        "Πώς μπορώ να εξαγάγω τα δεδομένα μου από το ${ PROVIDER_INFO_MAP[form.values.provider].title };"
+      ],
+      "Import": [
+        "Εισαγωγή"
+      ],
+      "Importing": [
+        "Εισαγωγή"
+      ],
+      "Include in monitoring": [
+        "Συμπερίληψη στην παρακολούθηση"
+      ],
+      "Install extension": [
+        "Εγκατάσταση επέκτασης"
+      ],
+      "Invite others": [
+        "Πρόσκληση άλλων"
+      ],
+      "Join shared vault": [
+        "Συμμετοχή σε κοινόχρηστη κρύπτη"
+      ],
+      "Learn more": [
+        "Μάθετε περισσότερα"
+      ],
+      "Leave": [
+        "Αποχώρηση"
+      ],
+      "Leave vault": [
+        "Αποχώρηση από την κρύπτη"
+      ],
+      "Link copied to clipboard": [
+        "Ο σύνδεσμος αντιγράφηκε στο πρόχειρο"
+      ],
+      "Link expires after": [
+        "Ο σύνδεσμος λήγει μετά"
+      ],
+      "Lock ${ PASS_APP_NAME }": [
+        "Κλείδωμα ${ PASS_APP_NAME }"
+      ],
+      "Make admin": [
+        "Ορισμός ως διαχειριστή"
+      ],
+      "Make editor": [
+        "Ορισμός ως επεξεργαστή"
+      ],
+      "Make viewer": [
+        "Ορισμός ως θεατή"
+      ],
+      "Manage access": [
+        "Διαχείριση πρόσβασης"
+      ],
+      "Manage vault access": [
+        "Διαχείριση πρόσβασης κρύπτης"
+      ],
+      "Manually sync your data": [
+        "Μη αυτόματος συγχρονισμός των δεδομένων σας"
+      ],
+      "Mark as resolved": [
+        "Σήμανση ως επιλυμένου"
+      ],
+      "Maximum views": [
+        "Μέγιστος αριθμός εμφανίσεων"
+      ],
+      "More info: ${ safeTitle }": [
+        "Περισσότερες πληροφορίες: ${ safeTitle }"
+      ],
+      "More options": [
+        "Περισσότερες επιλογές"
+      ],
+      "Move": [
+        "Μετακίνηση"
+      ],
+      "Move all items": [
+        "Μετακίνηση όλων των στοιχείων"
+      ],
+      "Move to a shared vault": [
+        "Μετακίνηση σε κοινόχρηστη κρύπτη"
+      ],
+      "Move to another vault": [
+        "Μετακίνηση σε άλλη κρύπτη"
+      ],
+      "Move to trash": [
+        "Μετακίνηση στα Διαγραμμένα"
+      ],
+      "Move to Trash": [
+        "Μετακίνηση στα Διαγραμμένα"
+      ],
+      "Multiple select": [
+        "Πολλαπλή επιλογή"
+      ],
+      "No expired links": [
+        "Δεν υπάρχουν σύνδεσμοι που έχουν λήξει"
+      ],
+      "OK": [
+        "ΟΚ"
+      ],
+      "Open navigation": [
+        "Άνοιγμα μενού πλοήγησης"
+      ],
+      "Pass for Android": [
+        "Έγκριση για το Android"
+      ],
+      "Pass for iOS": [
+        "Έγκριση για το iOS"
+      ],
+      "Pass Monitor": [
+        "Pass Monitor"
+      ],
+      "Pause monitoring": [
+        "Παύση παρακολούθησης"
+      ],
+      "Pin item": [
+        "Καρφίτσωμα στοιχείου"
+      ],
+      "Refresh the page": [
+        "Ανανέωση της σελίδας"
+      ],
+      "Regenerate": [
+        "Αναπαραγωγή"
+      ],
+      "Reject": [
+        "Απόρριψη"
+      ],
+      "Reject invitation": [
+        "Απόρριψη πρόσκλησης"
+      ],
+      "Reload": [
+        "Ανανέωση"
+      ],
+      "Remove": [
+        "Αφαίρεση"
+      ],
+      "Remove access": [
+        "Αφαίρεση πρόσβασης"
+      ],
+      "Remove all expired links (${ inactiveLinkCount })": [
+        "Κατάργηση όλων των συνδέσμων που έχουν λήξει (${ inactiveLinkCount })"
+      ],
+      "Remove link": [
+        "Αφαίρεση συνδέσμου"
+      ],
+      "Remove member": [
+        "Αφαίρεση μέλους"
+      ],
+      "Request a feature": [
+        "Ζητήστε μια δυνατότητα"
+      ],
+      "Resend code": [
+        "Επαναποστολή κωδικού"
+      ],
+      "Resend code (in ${ remaining }s)": [
+        "Επανάληψη αποστολής κωδικού (σε ${ remaining })"
+      ],
+      "Resend invitation": [
+        "Επανάληψη αποστολής πρόσκλησης"
+      ],
+      "Restore": [
+        "Επαναφορά"
+      ],
+      "Restore item": [
+        "Επαναφορά στοιχείου"
+      ],
+      "Restrict number of views": [
+        "Περιορισμός αριθμού προβολών"
+      ],
+      "Resume monitoring": [
+        "Συνέχιση παρακολούθησης"
+      ],
+      "Retry": [
+        "Δοκιμάστε ξανά"
+      ],
+      "Right click and download this CSV": [
+        "Κάντε δεξί κλικ και κατεβάστε αυτό το CSV"
+      ],
+      "Save": [
+        "Αποθήκευση"
+      ],
+      "Saving": [
+        "Αποθήκευση"
+      ],
+      "Section name": [
+        "Όνομα ενότητας"
+      ],
+      "Secure links": [
+        "Ασφαλής σύνδεσμοι"
+      ],
+      "See all": [
+        "Προβολή όλων"
+      ],
+      "See members": [
+        "Προβολή μελών"
+      ],
+      "Send invite": [
+        "Αποστολή πρόσκλησης"
+      ],
+      "Send us a message": [
+        "Στείλτε μας ένα μήνυμα"
+      ],
+      "Set access level": [
+        "Ορισμός επιπέδου πρόσβασης"
+      ],
+      "Set extra password": [
+        "Ορισμός επιπλέον κωδικού πρόσβασης"
+      ],
+      "Setup 2FA": [
+        "Ρύθμιση 2FA"
+      ],
+      "Share": [
+        "Κοινοποίηση"
+      ],
+      "Share secure link": [
+        "Κοινή χρήση ασφαλούς συνδέσμου"
+      ],
+      "Share this vault": [
+        "Κοινή χρήση αυτής της κρύπτης"
+      ],
+      "Share vault": [
+        "Κοινή χρήση κρύπτης"
+      ],
+      "Show": [
+        "Εμφάνιση"
+      ],
+      "Sign back in": [
+        "Συνδεθείτε ξανά"
+      ],
+      "Sign in with ${ BRAND_NAME }": [
+        "Σύνδεση με ${ BRAND_NAME }"
+      ],
+      "Sign out": [
+        "Αποσύνδεση"
+      ],
+      "Someone shared an item with you on ${ PASS_APP_NAME }.": [
+        "Κάποιος μοιράστηκε ένα στοιχείο μαζί σας στο ${ PASS_APP_NAME }."
+      ],
+      "Sort vault items": [
+        "Ταξινόμηση στοιχείων κρύπτης"
+      ],
+      "Submit": [
+        "Υποβολή"
+      ],
+      "Submitting report...": [
+        "Υποβολή αναφοράς..."
+      ],
+      "Transfer ownership": [
+        "Μεταβίβαση κυριότητας"
+      ],
+      "Trash": [
+        "Διαγραμμένα"
+      ],
+      "Try again.": [
+        "Δοκιμάστε ξανά."
+      ],
+      "Try for free": [
+        "Δοκιμάστε δωρεάν"
+      ],
+      "Unlock": [
+        "Ξεκλείδωμα"
+      ],
+      "Unlock offline with password": [
+        "Ξεκλείδωμα εκτός σύνδεσης με κωδικό πρόσβασης"
+      ],
+      "Unpin item": [
+        "Ξεκαρφίτσωμα στοιχείου"
+      ],
+      "Update vault": [
+        "Ενημέρωση κρύπτης"
+      ],
+      "Upgrade": [
+        "Αναβάθμιση"
+      ],
+      "Upgrade now": [
+        "Αναβάθμιση τώρα"
+      ],
+      "Upgrade now to share with more people": [
+        "Κάντε αναβάθμιση τώρα για κοινή χρήση με περισσότερα άτομα"
+      ],
+      "Verify": [
+        "Επαλήθευση"
+      ],
+      "Via secure link": [
+        "Μέσω ασφαλούς συνδέσμου"
+      ],
+      "View details": [
+        "Προβολή λεπτομερειών"
+      ],
+      "View history": [
+        "Προβολή ιστορικού"
+      ],
+      "View item history": [
+        "Προβολή ιστορικού στοιχείου"
+      ],
+      "View older history": [
+        "Προβολή παλαιότερου ιστορικού"
+      ],
+      "Write us on Reddit": [
+        "Γράψτε μας στο Reddit"
+      ],
+      "Write us on Twitter": [
+        "Γράψτε μας στο Twitter"
+      ],
+      "Your password manager not here? Request it.": [
+        "Ο διαχειριστής κωδικών πρόσβασης σας δεν είναι εδώ; Ζητήστε το."
+      ]
+    },
+    "bf2023: Info": {
+      "Save Smart. Get a year of Pass Plus for only ${ relativePrice } per month.": [
+        "Εξοικονομήστε έξυπνα. Αποκτήστε ένα χρόνο Pass Plus μόνο για ${ relativePrice } ανά μήνα."
+      ]
+    },
+    "bf2023: Label": {
+      "Get the deal": [
+        "Αποκτήστε την προσφορά"
+      ]
+    },
+    "bf2023: Title": {
+      "Black Friday offer": [
+        "Προσφορά Black Friday"
+      ]
+    },
+    "Browser": {
+      "${ MAIL_APP_NAME } Desktop application": [
+        "${ MAIL_APP_NAME } Εφαρμογή Επιφάνειας Εργασίας"
+      ]
+    },
+    "Button": {
+      "More info": [
+        "Περισσότερες πληροφορίες"
+      ]
+    },
+    "Collapsible tooltip": {
+      "Collapse": [
+        "Σύμπτυξη"
+      ],
+      "Expand": [
+        "Ανάπτυξη"
+      ]
+    },
+    "Description": {
+      "${ total } other login uses the same password": [
+        "${ total } άλλη σύνδεση χρησιμοποιεί τον ίδιο κωδικό πρόσβασης",
+        "${ total } άλλες συνδέσεις χρησιμοποιούν τον ίδιο κωδικό πρόσβασης"
+      ],
+      "2FA adds another layer of security to your logins. ${ PASS_APP_NAME } makes 2FA easier by storing and automatically autofilling your 2FA codes.": [
+        "Το 2FA προσθέτει ένα άλλο επίπεδο ασφάλειας στις συνδέσεις σας. ${ PASS_APP_NAME } διευκολύνει το 2FA αποθηκεύοντας και συμπληρώνοντας αυτόματα τους κωδικούς 2FA."
+      ],
+      "An email alias works like an email address, but reduces spam and keeps your actual email address and identity hidden.": [
+        "Ένα ψευδώνυμο ηλεκτρονικού ταχυδρομείου λειτουργεί όπως μια διεύθυνση ηλεκτρονικού ταχυδρομείου, αλλά μειώνει τα ανεπιθύμητα μηνύματα και διατηρεί κρυφή την πραγματική διεύθυνση ηλεκτρονικού ταχυδρομείου και την ταυτότητά σας."
+      ],
+      "Change your passwords": [
+        "Αλλάξτε τους κωδικούς πρόσβασής σας"
+      ],
+      "Create unique passwords": [
+        "Δημιουργήστε μοναδικούς κωδικούς πρόσβασης"
+      ],
+      "Dark Web Monitoring is available with a paid plan. Upgrade for immediate access.": [
+        "Το Dark Web Monitoring είναι διαθέσιμο με πλάνο επί πληρωμή. Αναβαθμίστε το πλάνο σας για άμεση πρόσβαση."
+      ],
+      "Get notified if your email, password or other personal data was leaked.": [
+        "Λάβετε ειδοποίηση εάν η διεύθυνση ηλεκτρονικού ταχυδρομείου, ο κωδικός πρόσβασης ή άλλα προσωπικά δεδομένα σας έχουν διαρρεύσει."
+      ],
+      "Keep your info more secure and private with these guides and tips.": [
+        "Διατηρήστε τις πληροφορίες σας πιο ασφαλείς και ιδιωτικές με αυτούς τους οδηγούς και συμβουλές."
+      ],
+      "Our cutting-edge AI-driven security solution designed for users seeking heightened protection for their accounts. ${ learnMoreLink }": [
+        "Η πρωτοποριακή μας λύση ασφάλειας με γνώμονα την τεχνητή νοημοσύνη, σχεδιασμένη για χρήστες που αναζητούν αυξημένη προστασία για τους λογαριασμούς τους. ${ learnMoreLink }"
+      ],
+      "Set up 2FA for more security": [
+        "Ρυθμίστε το 2FA για περισσότερη ασφάλεια"
+      ],
+      "Start monitoring for data breaches related to accounts created with your email address and your hide-my-email aliases.": [
+        "Ξεκινήστε την παρακολούθηση για παραβιάσεις δεδομένων που σχετίζονται με λογαριασμούς που έχουν δημιουργηθεί με τη διεύθυνση ηλεκτρονικού ταχυδρομείου σας και τα hide-my-email ψευδώνυμά σας."
+      ],
+      "The dark web is a hidden part of the internet where stolen personal information, like identities, can be bought and sold.": [
+        "Ο σκοτεινός ιστός είναι ένα κρυφό μέρος του διαδικτύου όπου κλεμμένες προσωπικές πληροφορίες, όπως ταυτότητες, μπορούν να αγοραστούν και να πωληθούν."
+      ],
+      "These items remain at risk": [
+        "Αυτά τα στοιχεία παραμένουν σε κίνδυνο"
+      ],
+      "This account is vulnerable, visit the service and change your password.": [
+        "Αυτός ο λογαριασμός είναι ευάλωτος, επισκεφθείτε την υπηρεσία και αλλάξτε τον κωδικό πρόσβασής σας."
+      ],
+      "This service offers 2FA. Enable it for added account security.": [
+        "Αυτή η υπηρεσία προσφέρει 2FA. Ενεργοποιήστε το για πρόσθετη ασφάλεια λογαριασμού."
+      ],
+      "Unlock advanced security features and detailed logs to safeguard your online presence.": [
+        "Ξεκλειδώστε προηγμένες λειτουργίες ασφαλείας και λεπτομερή αρχεία καταγραφής για να προστατεύσετε την παρουσία σας στο διαδίκτυο."
+      ],
+      "With ${ PASS_SHORT_APP_NAME } Monitor, stay ahead of threats by getting instant alerts if your credentials are compromised. Unlock advanced security features and detailed logs to safeguard your online presence.": [
+        "Με την ${ PASS_SHORT_APP_NAME } Παρακολούθηση, παραμείνετε μπροστά από απειλές λαμβάνοντας άμεσες ειδοποιήσεις εάν παραβιαστούν τα διαπιστευτήριά σας. Ξεκλειδώστε προηγμένες λειτουργίες ασφαλείας και λεπτομερή αρχεία καταγραφής για να προστατεύσετε την παρουσία σας στο διαδίκτυο."
+      ],
+      "Your email addresses were leaked in at least 1 data breach.": [
+        "Οι διευθύνσεις ηλεκτρονικού ταχυδρομείου σας διέρρευσαν σε τουλάχιστον 1 παραβίαση δεδομένων."
+      ],
+      "Your personal info was leaked in a data breach of a third-party service.": [
+        "Τα προσωπικά σας στοιχεία διέρρευσαν σε παραβίαση δεδομένων μιας υπηρεσίας τρίτου μέρους."
+      ]
+    },
+    "Error": {
+      "${ provider } file could not be parsed. ${ errorDetail }": [
+        "Δεν ήταν δυνατή η ανάλυση του αρχείου ${ provider }. ${ errorDetail }"
+      ],
+      "Alias options could not be resolved": [
+        "Δεν ήταν δυνατή η επίλυση των επιλογών ψευδωνύμου"
+      ],
+      "Authentication error": [
+        "Σφάλμα ταυτοποίησης"
+      ],
+      "Authentication failed. Confirm your ${ BRAND_NAME } password in order to proceed with the export": [
+        "Ο έλεγχος ταυτότητας απέτυχε. Επιβεβαιώστε τον κωδικό πρόσβασης ${ BRAND_NAME } για να προχωρήσετε στην εξαγωγή"
+      ],
+      "Cannot send invitation at the moment": [
+        "Δεν είναι δυνατή η αποστολή πρόσκλησης αυτήν τη στιγμή",
+        "Δεν είναι δυνατή η αποστολή προσκλήσεων αυτήν τη στιγμή"
+      ],
+      "Cannot send invitations at the moment": [
+        "Δεν είναι δυνατή η αποστολή προσκλήσεων αυτήν τη στιγμή"
+      ],
+      "Could not confirm this invite at the moment": [
+        "Δεν ήταν δυνατή η επιβεβαίωση αυτής της πρόσκλησης αυτή τη στιγμή"
+      ],
+      "Could not leave vault.": [
+        "Δεν ήταν δυνατή η αποχώρηση από την κρύπτη."
+      ],
+      "Could not load recommendations at the moment.": [
+        "Δεν ήταν δυνατή η φόρτωση συστάσεων αυτή τη στιγμή."
+      ],
+      "Could not open created vault": [
+        "Δεν ήταν δυνατό το άνοιγμα της δημιουργημένης κρύπτης"
+      ],
+      "Could not open invited vault": [
+        "Δεν ήταν δυνατό το άνοιγμα της προσκεκλημένης κρύπτης"
+      ],
+      "Could not open updated vault": [
+        "Δεν ήταν δυνατό το άνοιγμα της ενημερωμένης κρύπτης"
+      ],
+      "Could not resolve share members": [
+        "Δεν ήταν δυνατή η επίλυση μελών κοινής χρήσης"
+      ],
+      "Could not validate addresses at the moment.": [
+        "Δεν ήταν δυνατή η επικύρωση διευθύνσεων αυτήν τη στιγμή."
+      ],
+      "CSV file is missing expected headers: ${ missingHeaders }": [
+        "Λείπει το αρχείο CSV αναμενόμενες κεφαλίδες: ${ missingHeaders }"
+      ],
+      "Decrypting your ${ PASS_APP_NAME } export file failed. ${ errorDetail }": [
+        "Η αποκρυπτογράφηση του αρχείου εξαγωγής ${ PASS_APP_NAME } απέτυχε. ${ errorDetail }"
+      ],
+      "Deleting item failed": [
+        "Η διαγραφή στοιχείου απέτυχε"
+      ],
+      "Deleting vault \"${ payload.content.name }\" failed": [
+        "Η διαγραφή της κρύπτης \"${ payload.content.name }\" απέτυχε"
+      ],
+      "Detected ${ errors.length } corrupted csv row": [
+        "Εντοπίστηκε ${ errors.length } αλλοιωμένη γραμμή csv",
+        "Εντοπίστηκε ${ errors.length } αλλοιωμένες γραμμές csv"
+      ],
+      "Editing item failed": [
+        "Η επεξεργασία του στοιχείου απέτυχε"
+      ],
+      "Empty CSV file": [
+        "Άδειο αρχείο CSV"
+      ],
+      "Emptying trash failed": [
+        "Το άδειασμα των διαγραμμένων απέτυχε"
+      ],
+      "Encrypted JSON not supported": [
+        "Το κρυπτογραφημένο JSON δεν υποστηρίζεται"
+      ],
+      "Error reporting problem": [
+        "Πρόβλημα αναφοράς σφαλμάτων"
+      ],
+      "Failed removing the invite.": [
+        "Απέτυχε η κατάργηση της πρόσκλησης."
+      ],
+      "Failed resending invite.": [
+        "Απέτυχε η εκ νέου αποστολή πρόσκλησης."
+      ],
+      "Failed to add email address": [
+        "Αποτυχία προσθήκης διεύθυνσης ηλεκτρονικού ταχυδρομείου"
+      ],
+      "Failed to delete email address from monitoring": [
+        "Αποτυχία διαγραφής διεύθυνσης ηλεκτρονικού ταχυδρομείου από την παρακολούθηση"
+      ],
+      "Failed to delete selected items": [
+        "Αποτυχία διαγραφής επιλεγμένων στοιχείων."
+      ],
+      "Failed to edit user's access.": [
+        "Απέτυχε η επεξεργασία της πρόσβασης του χρήστη."
+      ],
+      "Failed to load breaches for this address": [
+        "Αποτυχία φόρτωσης παραβιάσεων για αυτή τη διεύθυνση"
+      ],
+      "Failed to load breaches for this email alias": [
+        "Αποτυχία φόρτωσης παραβιάσεων για αυτό το ψευδώνυμο ηλεκτρονικού ταχυδρομείου"
+      ],
+      "Failed to load item history": [
+        "Αποτυχία φόρτωσης ιστορικού στοιχείων"
+      ],
+      "Failed to move all items from \"${ payload.content.name }\"": [
+        "Αποτυχία μετακίνησης όλων των στοιχείων από το \"${ payload.content.name }\""
+      ],
+      "Failed to move items": [
+        "Αποτυχία μετακίνησης στοιχείων"
+      ],
+      "Failed to move items to trash": [
+        "Αποτυχία μετακίνησης στοιχείων στα Διαγραμμένα"
+      ],
+      "Failed to pin item": [
+        "Αποτυχία καρφιτσώματος στοιχείου"
+      ],
+      "Failed to remove user's access.": [
+        "Αποτυχία κατάργησης πρόσβασης χρήστη."
+      ],
+      "Failed to resend verification for custom email": [
+        "Αποτυχία επανάληψης αποστολής επαλήθευσης για προσαρμοσμένο ηλεκτρονικό ταχυδρομείο"
+      ],
+      "Failed to resolve breaches for this address": [
+        "Αποτυχία επίλυσης παραβιάσεων για αυτή τη διεύθυνση"
+      ],
+      "Failed to restore items from trash": [
+        "Αποτυχία επαναφοράς στοιχείων από τα διαγραμμένα"
+      ],
+      "Failed to transfer this vault's ownership.": [
+        "Αποτυχία μεταβίβασης της ιδιοκτησίας αυτής της κρύπτης."
+      ],
+      "Failed to unpin item": [
+        "Αποτυχία ξεκαρφιτσώματος στοιχείου"
+      ],
+      "Failed to update monitoring settings": [
+        "Αποτυχία ενημέρωσης των ρυθμίσεων παρακολούθησης"
+      ],
+      "Failed to verify email address": [
+        "Αποτυχία επαλήθευσης διεύθυνσης ηλεκτρονικού ταχυδρομείου"
+      ],
+      "Failed updating ${ PROTON_SENTINEL_NAME } setting": [
+        "Αποτυχία ενημέρωσης της ρύθμισης ${ PROTON_SENTINEL_NAME }"
+      ],
+      "Failed updating monitor flag of the item": [
+        "Αποτυχία ενημέρωσης της σημαίας παρακολούθησης του στοιχείου"
+      ],
+      "Failed updating monitoring status for this email address": [
+        "Απέτυχε η ενημέρωση της κατάστασης παρακολούθησης για αυτήν τη διεύθυνση ηλεκτρονικού ταχυδρομείου"
+      ],
+      "File could not be parsed": [
+        "Δεν ήταν δυνατή η ανάλυση του αρχείου"
+      ],
+      "File could not be read": [
+        "Δεν ήταν δυνατή η ανάγνωση του αρχείου"
+      ],
+      "File does not match expected format": [
+        "Το αρχείο δεν ταιριάζει με την αναμενόμενη μορφή"
+      ],
+      "Import failed for vault \"${ vaultData.name }\" : ${ description }": [
+        "Η εισαγωγή απέτυχε για την κρύπτη \"${ vaultData.name }\" : ${ description }"
+      ],
+      "Importing items failed": [
+        "Η εισαγωγή στοιχείων απέτυχε"
+      ],
+      "Inactive secure links could not be removed.": [
+        "Δεν ήταν δυνατή η κατάργηση ανενεργών ασφαλών συνδέσεων."
+      ],
+      "Invalid password manager": [
+        "Μη έγκυρος διαχειριστής κωδικών πρόσβασης"
+      ],
+      "Invitation could not be accepted": [
+        "Δεν ήταν δυνατή η αποδοχή της πρόσκλησης"
+      ],
+      "Invitation could not be rejected": [
+        "Δεν ήταν δυνατή η απόρριψη της πρόσκλησης"
+      ],
+      "Item content cannot exceed 40KB": [
+        "Το περιεχόμενο του στοιχείου δεν μπορεί να υπερβαίνει τα 40KB"
+      ],
+      "Item creation failed": [
+        "Η δημιουργία του στοιχείου απέτυχε"
+      ],
+      "LastPass will export a corrupted CSV file if any of your item fields contain unexpected commas, quotes or multiple lines": [
+        "Το LastPass θα εξαγάγει ένα κατεστραμμένο αρχείο CSV εάν κάποιο από τα πεδία στοιχείων σας περιέχει μην αναμενόμενα κόμματα, εισαγωγικά ή πολλές γραμμές"
+      ],
+      "Moving item failed": [
+        "Η μετακίνηση στοιχείου απέτυχε"
+      ],
+      "Network error": [
+        "Σφάλμα δικτύου"
+      ],
+      "Offline mode is currently not available for two password mode.": [
+        "Η λειτουργία χωρίς σύνδεση δεν είναι προς το παρόν διαθέσιμη για τη λειτουργία δύο κωδικών πρόσβασης."
+      ],
+      "Offline mode isn't currently available for your plan and not compatible with two password mode.": [
+        "Η λειτουργία εκτός σύνδεσης δεν είναι προς το παρόν διαθέσιμη για το πλάνο σας και δεν είναι συμβατή με τη λειτουργία δύο κωδικών πρόσβασης."
+      ],
+      "Passphrase is incorrect": [
+        "Η φράση πρόσβασης είναι εσφαλμένη"
+      ],
+      "PIN codes do not match": [
+        "Οι κωδικοί PIN δεν ταιριάζουν"
+      ],
+      "Request timed out": [
+        "Λήξη χρονικού ορίου αιτήματος"
+      ],
+      "Requesting alias options failed": [
+        "Η αίτηση για επιλογές ψευδωνύμου απέτυχε"
+      ],
+      "Restoring item failed": [
+        "Η επαναφορά του στοιχείου απέτυχε"
+      ],
+      "Restoring trashed items failed": [
+        "Η επαναφορά των απορριφθέντων στοιχείων απέτυχε"
+      ],
+      "Secure link could not be created.": [
+        "Δεν ήταν δυνατή η δημιουργία ασφαλούς σύνδεσης."
+      ],
+      "Secure link could not be opened.": [
+        "Δεν ήταν δυνατό το άνοιγμα ασφαλούς σύνδεσης."
+      ],
+      "Settings update failed": [
+        "Η ενημέρωση των ρυθμίσεων απέτυχε"
+      ],
+      "Signature verification failed": [
+        "Η επαλήθευση υπογραφής απέτυχε"
+      ],
+      "Some vaults are no longer accessible due to a password reset. Reactivate your account keys in order to regain access. ${ reactivateLink }": [
+        "Ορισμένα θησαυροφυλάκια δεν είναι πλέον προσβάσιμα λόγω επαναφοράς κωδικού πρόσβασης. Ενεργοποιήστε ξανά τα κλειδιά του λογαριασμού σας για να αποκτήσετε ξανά πρόσβαση. ${ reactivateLink }"
+      ],
+      "Something went wrong": [
+        "Κάτι πήγε στραβά"
+      ],
+      "Something went wrong. Please sign in again.": [
+        "Κάτι πήγε στραβά. Παρακαλούμε συνδεθείτε ξανά."
+      ],
+      "The file you are trying to import is empty": [
+        "Το αρχείο που προσπαθείτε να εισαγάγετε είναι κενό"
+      ],
+      "The session has expired. Please sign in again.": [
+        "Έχει λήξει η συνεδρία σας. Παρακαλώ συνδεθείτε ξανά."
+      ],
+      "There was an error while removing the secure link. Please try again in a few minutes.": [
+        "Παρουσιάστηκε σφάλμα κατά την κατάργηση του ασφαλούς συνδέσμου. Παρακαλούμε δοκιμάστε ξανά σε λίγα λεπτά."
+      ],
+      "Too many failed attempts. Please sign in again.": [
+        "Πάρα πολλές αποτυχημένες προσπάθειες. Παρακαλούμε συνδεθείτε ξανά."
+      ],
+      "Trashing item failed": [
+        "Αποτυχία μετακίνησης στοιχείου στα Διαγραμμένα"
+      ],
+      "Try reaching out to the link owner.": [
+        "Δοκιμάστε να επικοινωνήσετε με τον κάτοχο του συνδέσμου."
+      ],
+      "Unable to generate an OTP code for this item": [
+        "Δεν είναι δυνατή η δημιουργία κωδικού OTP για αυτό το στοιχείο"
+      ],
+      "Unable to sync": [
+        "Αδυναμία συγχρονισμού"
+      ],
+      "Unknown error": [
+        "Άγνωστο σφάλμα"
+      ],
+      "Unknown invite": [
+        "Άγνωστη πρόσκληση"
+      ],
+      "Unknown item": [
+        "Άγνωστο αντικείμενο"
+      ],
+      "Unlock failure": [
+        "Αποτυχία ξεκλειδώματος"
+      ],
+      "Unsupported ${ PASS_APP_NAME } file format": [
+        "Μη υποστηριζόμενη μορφή αρχείου ${ PASS_APP_NAME }"
+      ],
+      "Unsupported 1Password file format": [
+        "Μη υποστηριζόμενη μορφή αρχείου 1Password"
+      ],
+      "Updating vault \"${ payload.content.name }\" failed": [
+        "Η ενημέρωση της κρύπτης \"${ payload.content.name }\" απέτυχε"
+      ],
+      "Vault \"${ payload.content.name }\" creation failed": [
+        "Η δημιουργία της κρύπτης \"${ payload.content.name }\" απέτυχε"
+      ],
+      "Vault \"${ vaultData.name }\" could not be created": [
+        "Δεν ήταν δυνατή η δημιουργία της κρύπτης \"${ vaultData.name }\""
+      ],
+      "Vault name does not match": [
+        "Το όνομα της κρύπτης δεν ταιριάζει"
+      ],
+      "We encountered an issue while starting ${ PASS_SHORT_APP_NAME }. If this problem continues, please contact our customer support for assistance.": [
+        "Αντιμετωπίσαμε πρόβλημα κατά την εκκίνηση του ${ PASS_SHORT_APP_NAME }. Εάν αυτό το πρόβλημα παραμένει, επικοινωνήστε με την υποστήριξη πελατών μας για βοήθεια."
+      ],
+      "Wrong extra password": [
+        "Λάθος επιπλέον κωδικός πρόσβασης"
+      ],
+      "Wrong password": [
+        "Λανθασμένος κωδικός πρόσβασης"
+      ],
+      "Wrong PIN code. Try again.": [
+        "Λάθος κωδικός PIN. Δοκιμάστε ξανά."
+      ],
+      "You're currently offline. Please resume connectivity in order to unlock ${ PASS_SHORT_APP_NAME }.": [
+        "Αυτήν τη στιγμή είστε εκτός σύνδεσης. Παρακαλούμε συνεχίστε τη συνδεσιμότητα για να ξεκλειδώσετε ${ PASS_SHORT_APP_NAME }."
+      ],
+      "Your PIN code was removed by another ${ PASS_APP_NAME } client": [
+        "Ο κωδικός PIN σας καταργήθηκε από μία άλλη ${ PASS_APP_NAME } εφαρμογή"
+      ]
+    },
+    "Error message": {
+      "Oops, something went wrong": [
+        "Ωχ, κάτι πήγε στραβά"
+      ],
+      "Please refresh the page or try again later.": [
+        "Παρακαλούμε ανανεώστε τη σελίδα ή δοκιμάστε ξανά αργότερα."
+      ],
+      "Something went wrong": [
+        "Κάτι πήγε στραβά"
+      ]
+    },
+    "Feature": {
+      "Dark Web Monitoring": [
+        "Dark Web Monitoring"
+      ],
+      "Integrated 2FA authenticator": [
+        "Ενσωματωμένος ελεγκτής 2FA"
+      ],
+      "Unlimited hide-my-email aliases": [
+        "Απεριόριστα hide-my-email ψευδώνυμα"
+      ],
+      "Vault sharing (up to ${ MAX_VAULT_MEMBERS } people)": [
+        "Κοινή χρήση κρύπτης (έως ${ MAX_VAULT_MEMBERS } άτομα)"
+      ]
+    },
+    "file size format": {
+      "byte": [
+        "byte",
+        "bytes"
+      ],
+      "GB": [
+        "GB"
+      ],
+      "KB": [
+        "KB"
+      ],
+      "MB": [
+        "MB"
+      ],
+      "TB": [
+        "TB"
+      ]
+    },
+    "file size format, long": {
+      "Byte": [
+        "Byte",
+        "Bytes"
+      ],
+      "Gigabyte": [
+        "Gigabyte",
+        "Gigabytes"
+      ],
+      "Kilobyte": [
+        "Kilobyte",
+        "Kilobyte"
+      ],
+      "Megabyte": [
+        "Megabyte",
+        "Megabytes"
+      ],
+      "Terabyte": [
+        "Terabyte",
+        "Terabytes"
+      ]
+    },
+    "Info": {
+      " Upgrade to a paid plan to create multiple vaults.": [
+        " Κάντε αναβάθμιση σε πλάνο επί πληρωμή για να δημιουργήσετε πολλαπλές κρύπτες."
+      ],
+      "\"${ payload.item.data.metadata.name }\" item was dismissed": [
+        "Το στοιχείο \"${ payload.item.data.metadata.name }\" απορρίφθηκε"
+      ],
+      "\"${ payload.item.data.metadata.name }\" update was dismissed": [
+        "Η ενημερωμένη έκδοση του \"${ payload.item.data.metadata.name }\" απορρίφθηκε"
+      ],
+      "${ count } invites successfully sent": [
+        "${ count } προσκλήσεις στάλθηκαν με επιτυχία"
+      ],
+      "${ count } time": [
+        "${ count } φορά",
+        "${ count } φορές"
+      ],
+      "${ count } view": [
+        "${ count } προβολή",
+        "${ count } προβολές"
+      ],
+      "${ count }/${ maxReads } views": [
+        "${ count }/${ maxReads } προβολές"
+      ],
+      "${ memberCount } member": [
+        "${ memberCount } μέλος",
+        "${ memberCount } μέλη"
+      ],
+      "${ n } item": [
+        "${ n } στοιχείο",
+        "${ n } στοιχεία"
+      ],
+      "${ PASS_APP_NAME } will always be accessible": [
+        "Το ${ PASS_APP_NAME } θα είναι πάντα προσβάσιμο"
+      ],
+      "${ PASS_APP_NAME } will display the item favicon via ${ BRAND_NAME } anonymized image proxy.": [
+        "Το ${ PASS_APP_NAME } θα εμφανίσει το favicon του στοιχείου μέσω ανώνυμου διακομιστή μεσολάβησης εικόνας ${ BRAND_NAME }."
+      ],
+      "${ PASS_APP_NAME } will only import logins, notes, credit cards and identities.": [
+        "Το ${ PASS_APP_NAME } θα εισάγει μόνο συνδέσεις, σημειώσεις, πιστωτικές κάρτες και ταυτότητες."
+      ],
+      "${ PASS_APP_NAME } will require your ${ BRAND_NAME } password in order to access data offline.": [
+        "Το ${ PASS_APP_NAME } θα απαιτήσει τον ${ BRAND_NAME } κωδικό πρόσβασής σας για να αποκτήσει πρόσβαση σε δεδομένα εκτός σύνδεσης."
+      ],
+      "${ PROTON_SENTINEL_NAME } successfully disabled": [
+        "Το ${ PROTON_SENTINEL_NAME } απενεργοποιήθηκε επιτυχώς"
+      ],
+      "${ PROTON_SENTINEL_NAME } successfully enabled": [
+        "Το ${ PROTON_SENTINEL_NAME } ενεργοποιήθηκε επιτυχώς"
+      ],
+      "${ row.breachCount } breach detected": [
+        "${ row.breachCount } παραβίαση εντοπίστηκε",
+        "${ row.breachCount } παραβιάσεις εντοπίστηκαν"
+      ],
+      "7 days to try premium features for free. Only during your first week of ${ BRAND_NAME }.": [
+        "7 ημέρες για να δοκιμάσετε δωρεάν premium χαρακτηριστικά. Μόνο κατά την πρώτη εβδομάδα χρησιμοποιώντας το ${ BRAND_NAME }."
+      ],
+      "A new version of ${ PASS_APP_NAME } is available. Update it to enjoy the latest features and bug fixes.": [
+        "Μια νέα έκδοση του ${ PASS_APP_NAME } είναι διαθέσιμη. Ενημερώστε το για να απολαύσετε τις πιο πρόσφατες δυνατότητες και διορθώσεις σφαλμάτων."
+      ],
+      "Access successfully confirmed": [
+        "Η πρόσβαση επιβεβαιώθηκε με επιτυχία"
+      ],
+      "Access to ${ PASS_APP_NAME } will always require your ${ BRAND_NAME } password.": [
+        "Η πρόσβαση στο ${ PASS_APP_NAME } θα απαιτεί πάντα τον κωδικό πρόσβασής σας ${ BRAND_NAME }."
+      ],
+      "Access to ${ PASS_APP_NAME } will require your fingerprint or device PIN.": [
+        "Η πρόσβαση στο ${ PASS_APP_NAME } θα απαιτήσει το δακτυλικό αποτύπωμα σας ή το PIN της συσκευής σας."
+      ],
+      "Add a username field": [
+        "Προσθήκη πεδίου ονόματος χρήστη"
+      ],
+      "Add your custom email address to monitor :": [
+        "Προσθέστε την προσαρμοσμένη διεύθυνση ηλεκτρονικού ταχυδρομείου σας για παρακολούθηση:"
+      ],
+      "Admin": [
+        "Διαχειριστής"
+      ],
+      "After successfully importing your data, you may delete the CSV file containing your passwords for security.": [
+        "Μετά την επιτυχή εισαγωγή των δεδομένων σας, μπορείτε να διαγράψετε το αρχείο CSV που περιέχει τους κωδικούς πρόσβασής σας για λόγους ασφαλείας."
+      ],
+      "Alias \"${ item.aliasEmail }\" moved to trash - it will stop forwarding emails to your mailbox": [
+        "Το ψευδώνυμο \"${ item.aliasEmail }\" μετακινήθηκε στα διαγραμμένα - θα σταματήσει να προωθεί μηνύματα ηλεκτρονικού ταχυδρομείου στο γραμματοκιβώτιό σας"
+      ],
+      "Aliases with custom domains are not monitored, please add them as a custom email for monitoring.": [
+        "Τα ψευδώνυμα με προσαρμοσμένους τομείς δεν παρακολουθούνται, προσθέστε τα ως προσαρμοσμένο email για παρακολούθηση."
+      ],
+      "All breaches for this address were resolved": [
+        "Επιλύθηκαν όλες οι παραβιάσεις για αυτήν τη διεύθυνση"
+      ],
+      "All current breaches will be marked as resolved. In case of future data breaches, you'll be notified.": [
+        "Όλες οι τρέχουσες παραβιάσεις θα επισημανθούν ως επιλυμένες. Σε περίπτωση μελλοντικών παραβιάσεων δεδομένων, θα ειδοποιηθείτε."
+      ],
+      "All inactive secure links were removed": [
+        "Όλοι οι ανενεργοί ασφαλείς σύνδεσμοι καταργήθηκαν"
+      ],
+      "All items from \"${ payload.content.name }\" successfully moved": [
+        "Όλα τα στοιχεία από το \"${ payload.content.name }\" μετακινήθηκαν με επιτυχία"
+      ],
+      "All items successfully moved": [
+        "Όλα τα στοιχεία μετακινήθηκαν επιτυχώς"
+      ],
+      "All trashed items permanently deleted": [
+        "Όλα τα διαγραμμένα στοιχεία διαγράφηκαν οριστικά"
+      ],
+      "All trashed items successfully restored": [
+        "Όλα τα διαγραμμένα στοιχεία αποκαταστάθηκαν με επιτυχία"
+      ],
+      "An item previously shared with you was removed": [
+        "Ένα στοιχείο που είχε μοιραστεί προηγουμένως μαζί σας καταργήθηκε"
+      ],
+      "Are you sure you want to remove the link?": [
+        "Είστε βέβαιοι ότι θέλετε να καταργήσετε τον σύνδεσμο;"
+      ],
+      "Auto-lock successfully disabled.": [
+        "Το αυτόματο κλείδωμα απενεργοποιήθηκε με επιτυχία."
+      ],
+      "Before exporting your data with this format, please open Safari settings -> \"General\" tab -> disable the option \"Open safe files after downloading\". This will prevent Safari from incorrectly extracting the exported file.": [
+        "Πριν εξαγάγετε τα δεδομένα σας με αυτήν τη μορφή, ανοίξτε τις ρυθμίσεις Safari -> καρτέλα \"Γενικά\" -> απενεργοποιήστε την επιλογή \"Άνοιγμα ασφαλών αρχείων μετά τη λήψη\". Αυτό θα αποτρέψει το Safari από την εσφαλμένη εξαγωγή του εξαγόμενου αρχείου."
+      ],
+      "Biometrics lock successfully registered. Use it to unlock ${ PASS_APP_NAME }": [
+        "Το κλείδωμα βιομετρικών στοιχείων καταχωρήθηκε επιτυχώς. Χρησιμοποιήστε το για να ξεκλειδώσετε το ${ PASS_APP_NAME }"
+      ],
+      "Biometrics will be disabled and will need to be enabled again.": [
+        "Τα βιομετρικά στοιχεία θα απενεργοποιηθούν και θα πρέπει να ενεργοποιηθούν ξανά."
+      ],
+      "Breaches detected": [
+        "Εντοπίστηκαν παραβιάσεις"
+      ],
+      "Bring your existing passwords into ${ BRAND_NAME }.": [
+        "Φέρτε τους υπάρχοντες κωδικούς πρόσβασής σας στο ${ BRAND_NAME }."
+      ],
+      "Built in 2FA authenticator": [
+        "Ενσωματωμένος ελεγκτής ταυτότητας 2FA"
+      ],
+      "Can be viewed": [
+        "Μπορεί να προβληθεί"
+      ],
+      "Can create, edit, delete, and export items in this vault.": [
+        "Μπορεί να δημιουργήσει, επεξεργαστεί, διαγράψει και εξάγει στοιχεία σε αυτήν την κρύπτη."
+      ],
+      "Can grant and revoke access to this vault, and delete it.": [
+        "Μπορεί να παραχωρήσει και να ανακαλέσει την πρόσβαση σε αυτή την κρύπτη και να το διαγράψει."
+      ],
+      "Can grant and revoke access to this vault.": [
+        "Μπορεί να παραχωρήσει και να ανακαλέσει την πρόσβαση σε αυτή την κρύπτη."
+      ],
+      "Can view items in this vault.": [
+        "Μπορεί να προβάλει στοιχεία σε αυτή την κρύπτη."
+      ],
+      "Change your password": [
+        "Αλλάξτε τον κωδικό πρόσβασής σας"
+      ],
+      "Click here to add a field for a username.": [
+        "Κάντε κλικ εδώ για να προσθέσετε ένα πεδίο για ένα όνομα χρήστη."
+      ],
+      "Confirm your extra password to proceed with its removal.": [
+        "Επιβεβαιώστε τον επιπλέον κωδικό πρόσβασής σας για να προχωρήσετε στην αφαίρεσή του."
+      ],
+      "Congratulations, your access has been confirmed": [
+        "Συγχαρητήρια, η πρόσβασή σας επιβεβαιώθηκε"
+      ],
+      "Copied to clipboard": [
+        "Αντιγράφηκε στο πρόχειρο"
+      ],
+      "CSV offers a convenient format to view your data. However due to its simplicity, some data will not be included (custom fields, passkeys...). For a complete export, we recommend using a different format.": [
+        "Το CSV προσφέρει μια βολική μορφή για την προβολή των δεδομένων σας. Ωστόσο, λόγω της απλότητάς του, ορισμένα δεδομένα δε θα συμπεριληφθούν (προσαρμοσμένα πεδία, κλειδιά πρόσβασης...). Για πλήρη εξαγωγή, συνιστάται η χρήση διαφορετικής μορφής."
+      ],
+      "Current version": [
+        "Τρέχουσα έκδοση"
+      ],
+      "Decrypting your data": [
+        "Γίνεται αποκρυπτογράφηση των δεδομένων σας"
+      ],
+      "Deleted items will be moved here first": [
+        "Τα διαγραμμένα στοιχεία θα μετακινηθούν πρώτα εδώ"
+      ],
+      "Deleting \"${ payload.content.name }\"": [
+        "Διαγραφή του \"${ payload.content.name }\""
+      ],
+      "Didn't receive the code?": [
+        "Δε λάβατε τον κωδικό;"
+      ],
+      "Disabling auto-lock": [
+        "Απενεργοποίηση αυτόματου κλειδώματος"
+      ],
+      "Disabling auto-lock failed": [
+        "Η απενεργοποίηση του αυτόματου κλειδώματος απέτυχε"
+      ],
+      "Disabling offline mode...": [
+        "Απενεργοποίηση λειτουργίας εκτός σύνδεσης..."
+      ],
+      "Drop file here to upload": [
+        "Σύρετε ένα αρχείο εδώ για μεταφόρτωση"
+      ],
+      "Drop to import": [
+        "Απόθεση για εισαγωγή"
+      ],
+      "Due to a limitation of Safari browser extensions, after exporting the data the file extension will be missing \".pgp\". Please rename the file to include the .pgp extension (e.g file.pgp) after exporting.": [
+        "Λόγω περιορισμού των επεκτάσεων του προγράμματος περιήγησης Safari, μετά την εξαγωγή των δεδομένων θα λείπει η επέκταση αρχείου \".pgp\". Μετονομάστε το αρχείο για να συμπεριλάβετε την επέκταση .pgp (π.χ. file.pgp) μετά την εξαγωγή."
+      ],
+      "Editor": [
+        "Πρόγραμμα επεξεργασίας"
+      ],
+      "email": [
+        "ηλεκτρονικό ταχυδρομείο"
+      ],
+      "Email address successfully deleted from monitoring": [
+        "Η διεύθυνση ηλεκτρονικού ταχυδρομείου διαγράφηκε επιτυχώς από την παρακολούθηση"
+      ],
+      "Email address successfully excluded from monitoring": [
+        "Η διεύθυνση ηλεκτρονικού ταχυδρομείου εξαιρέθηκε επιτυχώς από την παρακολούθηση"
+      ],
+      "Email address successfully included in monitoring": [
+        "Η διεύθυνση ηλεκτρονικού ταχυδρομείου συμπεριλήφθηκε επιτυχώς στην παρακολούθηση"
+      ],
+      "Emptying trash...": [
+        "Άδειασμα διαγραμμένων..."
+      ],
+      "Enable ${ PASS_SHORT_APP_NAME } beta": [
+        "Ενεργοποίηση ${ PASS_SHORT_APP_NAME } beta"
+      ],
+      "Enable auto-locking to secure your data": [
+        "Ενεργοποιήστε το αυτόματο κλείδωμα για να ασφαλίσετε τα δεδομένα σας"
+      ],
+      "Enabling biometrics auto-lock": [
+        "Ενεργοποίηση αυτόματου κλειδώματος βιομετρικών στοιχείων"
+      ],
+      "Enabling biometrics lock failed": [
+        "Η ενεργοποίηση του κλειδώματος με βιομετρικά απέτυχε"
+      ],
+      "Enabling offline mode...": [
+        "Ενεργοποίηση λειτουργίας εκτός σύνδεσης..."
+      ],
+      "Enabling password auto-lock": [
+        "Ενεργοποίηση αυτόματου κλειδώματος κωδικού πρόσβασης"
+      ],
+      "Enabling password lock failed": [
+        "Η ενεργοποίηση του κλειδώματος κωδικού πρόσβασης απέτυχε"
+      ],
+      "Enabling PIN auto-lock": [
+        "Ενεργοποίηση αυτόματου κλειδώματος PIN"
+      ],
+      "Enter verification code. Digit ${ digit }.": [
+        "Πληκτρολογείστε τον κωδικό επιβεβαίωσης. Ψηφίο ${ digit }."
+      ],
+      "Enter your extra password": [
+        "Εισαγάγετε τον επιπλέον κωδικό πρόσβασής σας"
+      ],
+      "Enter your PIN code": [
+        "Εισαγωγή κωδικού ΡΙΝ"
+      ],
+      "Expires in": [
+        "Λήγει σε"
+      ],
+      "Expires in ${ remainingTime }": [
+        "Λήγει σε ${ remainingTime }"
+      ],
+      "Extra password successfuly created": [
+        "Ο επιπλέον κωδικός πρόσβασης δημιουργήθηκε με επιτυχία"
+      ],
+      "Extra password successfuly removed": [
+        "Ο επιπλέον κωδικός πρόσβασης καταργήθηκε με επιτυχία"
+      ],
+      "Fill in the CSV with your data": [
+        "Συμπληρώστε το CSV με τα δεδομένα σας"
+      ],
+      "finance": [
+        "οικονομικά"
+      ],
+      "Follow those steps to import your data with a generic CSV :": [
+        "Ακολουθήστε αυτά τα βήματα για να εισαγάγετε τα δεδομένα σας με ένα γενικό αρχείο CSV:"
+      ],
+      "For security reasons, your access needs to be confirmed": [
+        "Για λόγους ασφαλείας, η πρόσβασή σας πρέπει να επιβεβαιωθεί"
+      ],
+      "Generated passwords will be stored for a period of ${ MAX_PASSWORD_HISTORY_RETENTION_WEEKS } week.": [
+        "Οι κωδικοί πρόσβασης που δημιουργούνται θα αποθηκευτούν για περίοδο ${ MAX_PASSWORD_HISTORY_RETENTION_WEEKS } εβδομάδας.",
+        "Οι κωδικοί πρόσβασης που δημιουργούνται θα αποθηκευτούν για περίοδο ${ MAX_PASSWORD_HISTORY_RETENTION_WEEKS } εβδομάδων"
+      ],
+      "Get the most out of Pass by creating a vault for each team or project.": [
+        "Αξιοποιήστε στο έπακρο το Pass δημιουργώντας μια κρύπτη για κάθε ομάδα ή έργο."
+      ],
+      "Get unlimited aliases, enjoy exclusive features, and support us by subscribing to Pass Plus.": [
+        "Λάβετε απεριόριστα ψευδώνυμα, απολαύστε αποκλειστικές λειτουργίες και υποστηρίξτε μας με την εγγραφή σας στο Pass Plus."
+      ],
+      "High Priority": [
+        "Υψηλή προτεραιότητα"
+      ],
+      "How does monitoring work?": [
+        "Πώς λειτουργεί η παρακολούθηση;"
+      ],
+      "Import in progress:": [
+        "Εισαγωγή σε εξέλιξη:"
+      ],
+      "Import the CSV file below.": [
+        "Εισαγάγετε το παρακάτω αρχείο CSV."
+      ],
+      "Imported ${ payload.total } item": [
+        "Εισαγόμενο ${ payload.total } στοιχείο",
+        "Εισαγόμενα ${ payload.total } στοιχεία"
+      ],
+      "Imported on ${ date }": [
+        "Εισήχθη στις ${ date }"
+      ],
+      "In order to get the best experience out of ${ PASS_APP_NAME }, please grant the necessary extension permissions": [
+        "Για να αξιοποιήσετε στο έπακρο το ${ PASS_APP_NAME }, παραχωρήστε τα απαραίτητα δικαιώματα επέκτασης"
+      ],
+      "Install ${ PASS_APP_NAME } for ${ browser.title } to quickly autofill your logins.": [
+        "Εγκαταστήστε το ${ PASS_APP_NAME } για ${ browser.title } για γρήγορη αυτόματη συμπλήρωση των στοιχείων της σύνδεσής σας."
+      ],
+      "Install ${ PASS_APP_NAME } for ${ browser.title } to quickly autofill your logins. ": [
+        "Εγκαταστήστε το ${ PASS_APP_NAME } για ${ browser.title } για γρήγορη αυτόματη συμπλήρωση των στοιχείων της σύνδεσής σας. "
+      ],
+      "Internet connection lost": [
+        "Απώλεια σύνδεσης στο διαδίκτυο"
+      ],
+      "Internet connection lost. Please check your device's connectivity.": [
+        "Απώλεια σύνδεσης στο διαδίκτυο. Παρακαλούμε ελέγξτε τη συνδεσιμότητα της συσκευής σας."
+      ],
+      "Invitation sent": [
+        "Η πρόσκληση στάλθηκε"
+      ],
+      "Invite specific people and set the right permissions.": [
+        "Προσκαλέστε συγκεκριμένα άτομα και ορίστε τα σωστά δικαιώματα."
+      ],
+      "Invite successfully removed": [
+        "Η πρόσκληση καταργήθηκε με επιτυχία"
+      ],
+      "Invite successfully resent": [
+        "Επιτυχής αποστολή πρόσκλησης εκ νέου"
+      ],
+      "Invite successfully sent": [
+        "Επιτυχής αποστολή πρόσκλησης"
+      ],
+      "invites you to access items in": [
+        "σας προσκαλεί να αποκτήσετε πρόσβαση σε στοιχεία στη"
+      ],
+      "It seems you are already logged in to ${ PASS_APP_NAME }. If you're trying to login with a different account, please logout from the extension first.": [
+        "Φαίνεται ότι είστε ήδη συνδεδεμένοι στο ${ PASS_APP_NAME }. Εάν προσπαθείτε να συνδεθείτε με διαφορετικό λογαριασμό, αποσυνδεθείτε πρώτα από την προέκταση."
+      ],
+      "item": [
+        "στοιχείο",
+        "στοιχεία"
+      ],
+      "Item \"${ payload.item.data.metadata.name }\" created": [
+        "Το στοιχείο \"${ payload.item.data.metadata.name }\" δημιουργήθηκε"
+      ],
+      "Item \"${ payload.item.data.metadata.name }\" updated": [
+        "Το στοιχείο \"${ payload.item.data.metadata.name }\" ενημερώθηκε"
+      ],
+      "Item moved to trash": [
+        "Το στοιχείο μετακινήθηκε στον κάδο απορριμμάτων"
+      ],
+      "Item permanently deleted": [
+        "Στοιχείο που διαγράφηκε οριστικά"
+      ],
+      "Item restored": [
+        "Έγινε επαναφορά στοιχείου"
+      ],
+      "Item successfully excluded from monitoring": [
+        "Το στοιχείο εξαιρέθηκε επιτυχώς από την παρακολούθηση"
+      ],
+      "Item successfully included in monitoring": [
+        "Το στοιχείο συμπεριλήφθηκε επιτυχώς στην παρακολούθηση"
+      ],
+      "Item successfully moved": [
+        "Στοιχείο μετακινήθηκε επιτυχώς"
+      ],
+      "Item successfully pinned": [
+        "Το στοιχείο καρφιτσώθηκε επιτυχώς"
+      ],
+      "Item successfully unpinned": [
+        "Το στοιχείο ξεκαρφιτσώθηκε επιτυχώς"
+      ],
+      "Latest breach on ${ formattedDate }": [
+        "Τελευταία παραβίαση στις ${ formattedDate }"
+      ],
+      "Learn how to ${ staySaferOnlineLink }": [
+        "Μάθετε πώς μπορείτε να ${ staySaferOnlineLink }"
+      ],
+      "Leaving vault...": [
+        "Αποχώρηση από την κρύπτη..."
+      ],
+      "Let's get you started by creating your first item": [
+        "Ας ξεκινήσουμε δημιουργώντας το πρώτο σας στοιχείο"
+      ],
+      "Loading": [
+        "Φόρτωση"
+      ],
+      "Loading ${ PASS_APP_NAME }": [
+        "Φόρτωση ${ PASS_APP_NAME }"
+      ],
+      "Logging you out...": [
+        "Αποσύνδεση..."
+      ],
+      "Low Priority": [
+        "Χαμηλή προτεραιότητα"
+      ],
+      "me": [
+        "εγώ"
+      ],
+      "Medium Priority": [
+        "Μεσαία προτεραιότητα"
+      ],
+      "Monitor accounts": [
+        "Παρακολούθηση λογαριασμών"
+      ],
+      "Monitoring settings successfully updated": [
+        "Οι ρυθμίσεις παρακολούθησης ενημερώθηκαν με επιτυχία"
+      ],
+      "More than a password manager, ${ PASS_APP_NAME } protects your password and your personal email address via email aliases. Powered by the same technology behind ${ MAIL_APP_NAME }, your data is end to end encrypted and is only accessible by you.": [
+        "Περισσότερο από έναν διαχειριστή κωδικών πρόσβασης, το ${ PASS_APP_NAME } προστατεύει τον κωδικό πρόσβασής σας και την προσωπική σας διεύθυνση email μέσω ψευδωνύμων email. Με την ίδια τεχνολογία πίσω από το ${ MAIL_APP_NAME }, τα δεδομένα σας είναι κρυπτογραφημένα από άκρο σε άκρο και είναι προσβάσιμα μόνο από εσάς."
+      ],
+      "Moving all items from \"${ payload.content.name }\"": [
+        "Μετακίνηση όλων των στοιχείων από το \"${ payload.content.name }\""
+      ],
+      "Moving an item to another vault will erase its history and all secure links.": [
+        "Η μετακίνηση ενός στοιχείου σε άλλη κρύπτη θα διαγράψει το ιστορικό του και όλους τους ασφαλείς συνδέσμους."
+      ],
+      "Moving an item to another vault will erase its history.": [
+        "Η μετακίνηση ενός στοιχείου σε άλλη κρύπτη θα διαγράψει το ιστορικό του."
+      ],
+      "Moving items": [
+        "Μετακίνηση στοιχείων"
+      ],
+      "Moving items to another vault will erase their history and all secure links.": [
+        "Η μετακίνηση στοιχείων σε άλλη κρύπτη θα διαγράψει το ιστορικό τους και όλους τους ασφαλείς συνδέσμους."
+      ],
+      "Moving items to another vault will erase their history.": [
+        "Η μετακίνηση στοιχείων σε άλλη κρύπτη θα διαγράψει το ιστορικό τους."
+      ],
+      "Moving items to trash": [
+        "Μετακίνηση στοιχείων στα Διαγραμμένα"
+      ],
+      "Never": [
+        "Ποτέ"
+      ],
+      "No breaches detected": [
+        "Δεν εντοπίστηκαν παραβιάσεις"
+      ],
+      "No network connection": [
+        "Δεν υπάρχει σύνδεση δικτύου"
+      ],
+      "None": [
+        "Κανένα"
+      ],
+      "Offline mode": [
+        "Λειτουργία χωρίς σύνδεση"
+      ],
+      "Offline mode could not be disabled at the moment": [
+        "Δεν ήταν δυνατή η απενεργοποίηση της λειτουργίας χωρίς σύνδεση αυτήν τη στιγμή"
+      ],
+      "Offline mode could not be enabled at the moment": [
+        "Δεν ήταν δυνατή η ενεργοποίηση της λειτουργίας χωρίς σύνδεση αυτήν τη στιγμή"
+      ],
+      "Offline support successfully disabled": [
+        "Η υποστήριξη εκτός σύνδεσης απενεργοποιήθηκε με επιτυχία"
+      ],
+      "Online access to ${ PASS_APP_NAME } will require a PIN code. You'll be logged out after 3 failed attempts.": [
+        "Η ηλεκτρονική πρόσβαση στο ${ PASS_APP_NAME } θα απαιτήσει έναν κωδικό PIN. Θα αποσυνδεθείτε μετά από 3 αποτυχημένες προσπάθειες."
+      ],
+      "Our alerts err on the side of caution. If you don’t recognize any of the breached information, you can safely ignore this report.": [
+        "Οι ειδοποιήσεις μας σφάλλουν προς την πλευρά της προσοχής. Εάν δεν αναγνωρίζετε καμία από τις παραβιασμένες πληροφορίες, μπορείτε να αγνοήσετε με ασφάλεια αυτήν την αναφορά."
+      ],
+      "Owner": [
+        "Ιδιοκτήτης"
+      ],
+      "Ownership successfully transfered. You are no long the owner of this vault.": [
+        "Η ιδιοκτησία μεταβιβάστηκε με επιτυχία. Δεν είστε πλέον ο κάτοχος αυτής της κρύπτης."
+      ],
+      "Pass Plus trial": [
+        "Δοκιμή Pass Plus"
+      ],
+      "password": [
+        "κωδικός πρόσβασης"
+      ],
+      "Password lock successfully registered. Use it to unlock ${ PASS_APP_NAME }": [
+        "Το κλείδωμα με κωδικό πρόσβασης καταχωρήθηκε με επιτυχία. Χρησιμοποιήστε το για να ξεκλειδώσετε το ${ PASS_APP_NAME }"
+      ],
+      "Passwords older than ${ MAX_PASSWORD_HISTORY_RETENTION_WEEKS } week are automatically deleted from history.": [
+        "Οι κωδικοί πρόσβασης που είναι παλαιότεροι από ${ MAX_PASSWORD_HISTORY_RETENTION_WEEKS } εβδομάδα διαγράφονται αυτόματα από το ιστορικό.",
+        "Οι κωδικοί πρόσβασης που είναι παλαιότεροι από ${ MAX_PASSWORD_HISTORY_RETENTION_WEEKS } εβδομάδων διαγράφονται αυτόματα από το ιστορικό."
+      ],
+      "Paused": [
+        "Σε παύση"
+      ],
+      "Permanently deleting selected items": [
+        "Οριστική διαγραφή επιλεγμένων στοιχείων"
+      ],
+      "PIN code successfully registered. Use it to unlock ${ PASS_APP_NAME }": [
+        "Ο κωδικός PIN καταχωρήθηκε με επιτυχία. Χρησιμοποιήστε το για να ξεκλειδώσετε το ${ PASS_APP_NAME }"
+      ],
+      "Pinning item...": [
+        "Καρφίτσωμα στοιχείου..."
+      ],
+      "Please check your spam folder or try resending the code.": [
+        "Παρακαλούμε ελέγξτε τον φάκελο ανεπιθύμητης αλληλογραφίας ή δοκιμάστε να στείλετε ξανά τον κωδικό."
+      ],
+      "Please confirm your ${ BRAND_NAME } password in order to enable offline mode": [
+        "Επιβεβαιώστε τον κωδικό πρόσβασης ${ BRAND_NAME } για να ενεργοποιήσετε τη λειτουργία εκτός σύνδεσης"
+      ],
+      "Please confirm your ${ BRAND_NAME } password in order to export your ${ PASS_APP_NAME } data": [
+        "Παρακαλούμε επιβεβαιώστε τον κωδικό πρόσβασης ${ BRAND_NAME } για να εξαγάγετε τα ${ PASS_APP_NAME } δεδομένα σας"
+      ],
+      "Please confirm your extra password": [
+        "Επιβεβαιώστε τον επιπλέον κωδικό πρόσβασής σας"
+      ],
+      "Please confirm your extra password in order to auto-lock with biometrics.": [
+        "Παρακαλούμε επιβεβαιώστε τον επιπλέον κωδικό πρόσβασής σας για αυτόματο κλείδωμα με βιομετρικά στοιχεία."
+      ],
+      "Please confirm your extra password in order to auto-lock with your extra password.": [
+        "Επιβεβαιώστε τον επιπλέον κωδικό πρόσβασης για να κλειδώσετε αυτόματα με τον επιπλέον κωδικό πρόσβασής σας."
+      ],
+      "Please confirm your extra password in order to unregister your current lock.": [
+        "Παρακαλούμε επιβεβαιώστε τον επιπλέον κωδικό πρόσβασης σας για να καταργήσετε την καταχώρηση του τρέχοντος κλειδώματος."
+      ],
+      "Please confirm your extra password in order to update the auto-lock time.": [
+        "Επιβεβαιώστε τον επιπλέον κωδικό πρόσβασης για να ενημερώσετε την ώρα αυτόματου κλειδώματος."
+      ],
+      "Please confirm your password": [
+        "Παρακαλούμε επιβεβαίωσε τον κωδικό πρόσβασής σου"
+      ],
+      "Please confirm your password in order to auto-lock with biometrics.": [
+        "Επιβεβαιώστε τον κωδικό πρόσβασης για να κλειδώσετε αυτόματα με βιομετρικά."
+      ],
+      "Please confirm your password in order to auto-lock with your password.": [
+        "Επιβεβαιώστε τον κωδικό πρόσβασης για να κλειδώσετε αυτόματα με τον κωδικό πρόσβασής σας."
+      ],
+      "Please confirm your password in order to unregister your current lock.": [
+        "Επιβεβαιώστε τον κωδικό πρόσβασης για να καταργήσετε την καταχώρηση του τρέχοντος κλειδώματος."
+      ],
+      "Please confirm your password in order to update the auto-lock time.": [
+        "Επιβεβαιώστε τον κωδικό πρόσβασης για να ενημερώσετε την ώρα αυτόματου κλειδώματος."
+      ],
+      "Please confirm your PIN code in order to unregister your current lock.": [
+        "Επιβεβαιώστε τον κωδικό PIN σας για να καταργήσετε την καταχώρηση της τρέχουσας κλειδαριάς σας."
+      ],
+      "Please confirm your PIN code to edit this setting.": [
+        "Επιβεβαιώστε τον κωδικό PIN για να επεξεργαστείτε αυτήν τη ρύθμιση."
+      ],
+      "Please consider leaving a review.": [
+        "Παρακαλούμε εξετάστε το ενδεχόμενο να αφήσετε μια κριτική."
+      ],
+      "Please do not close this window": [
+        "Παρακαλούμε μην κλείσετε αυτό το παράθυρο"
+      ],
+      "Please enter your current PIN code to continue": [
+        "Παρακαλούμε εισάγετε τον τρέχον κωδικό PIN σας για να συνεχίσετε"
+      ],
+      "Please upgrade to have early access ${ PASS_APP_NAME } web app": [
+        "Αναβαθμίστε για να έχετε πρώιμη πρόσβαση στη ${ PASS_APP_NAME } εφαρμογή ιστού"
+      ],
+      "Press Enter to copy": [
+        "Πατήστε Enter για αντιγραφή"
+      ],
+      "Privacy is a big concern for us. Learn why ${ PASS_APP_NAME } is different.": [
+        "Το απόρρητο είναι μια μεγάλη ανησυχία για εμάς. Μάθετε γιατί το ${ PASS_APP_NAME } είναι διαφορετικό."
+      ],
+      "Protected by ${ PROTON_SENTINEL_LINK }, our advanced account protection program": [
+        "Προστατεύεται από ${ PROTON_SENTINEL_LINK }, το προηγμένο πρόγραμμα προστασίας λογαριασμού μας"
+      ],
+      "Reconnect": [
+        "Επανασύνδεση"
+      ],
+      "Reconnecting": [
+        "Επανασύνδεση"
+      ],
+      "Registering extra password...": [
+        "Καταχώρηση επιπλέον κωδικού πρόσβασης..."
+      ],
+      "Registering PIN lock failed": [
+        "Η καταχώρηση κλειδώματος PIN απέτυχε"
+      ],
+      "Removing all inactive secure links...": [
+        "Κατάργηση όλων των ασφαλών συνδέσμων..."
+      ],
+      "Removing extra password...": [
+        "Κατάργηση επιπλέον κωδικού πρόσβασης..."
+      ],
+      "Removing secure link...": [
+        "Αφαίρεση ασφαλούς συνδέσμου..."
+      ],
+      "Restoring items from trash": [
+        "Επαναφορά στοιχείων από τα διαγραμμένα"
+      ],
+      "Restoring trashed items...": [
+        "Επαναφορά διαγραμμένων στοιχείων..."
+      ],
+      "Secure links": [
+        "Ασφαλής σύνδεσμοι"
+      ],
+      "Select destination vault": [
+        "Επιλογή κρύπτης προορισμού"
+      ],
+      "Select vault to share": [
+        "Επιλογή κρύπτης για κοινή χρήση"
+      ],
+      "Select where you want your imported vault(s) to be saved.": [
+        "Επιλέξτε πού θέλετε να αποθηκεύονται η/οι κρύπτη(ες) που έχετε εισαγάγει."
+      ],
+      "Selected items permanently deleted": [
+        "Τα επιλεγμένα στοιχεία διαγράφηκαν οριστικά"
+      ],
+      "Selected items successfully moved to trash": [
+        "Τα επιλεγμένα στοιχεία μετακινήθηκαν με επιτυχία στα διαγραμμένα"
+      ],
+      "Selected items successfully restored from trash": [
+        "Τα επιλεγμένα στοιχεία αποκαταστάθηκαν με επιτυχία από τα διαγραμμένα"
+      ],
+      "Servers are unreachable. Please try again in a few minutes": [
+        "Οι διακομιστές είναι απρόσιτοι. Παρακαλούμε δοκιμάστε ξανά σε λίγα λεπτά"
+      ],
+      "Session timed out": [
+        "Λήξη χρόνου συνεδρίας"
+      ],
+      "Set by your organization": [
+        "Ορισμένο από τον οργανισμό σας"
+      ],
+      "Settings successfully updated": [
+        "Οι ρυθμίσεις ενημερώθηκαν με επιτυχία"
+      ],
+      "Share your logins, secure notes, with up to 10 people": [
+        "Μοιραστείτε τα στοιχεία σύνδεσής σας, ασφαλείς σημειώσεις, με έως και 10 άτομα"
+      ],
+      "Sign in to your account": [
+        "Συνδεθείτε στον λογαριασμό σας"
+      ],
+      "Signing you in": [
+        "Γίνεται είσοδος"
+      ],
+      "Successfully exported all your items": [
+        "Επιτυχής εξαγωγή όλων των στοιχείων σας"
+      ],
+      "Successfully left the vault": [
+        "Αποχωρήσατε με επιτυχία από την κρύπτη"
+      ],
+      "Successfully synced all vaults": [
+        "Επιτυχής συγχρονισμός όλων των κρυπτών"
+      ],
+      "Suggested": [
+        "Προτεινόμενο"
+      ],
+      "Switch to another vault or create an item in this vault": [
+        "Μεταβείτε σε άλλη κρύπτη ή δημιουργήστε ένα στοιχείο σε αυτήν την κρύπτη"
+      ],
+      "Syncing your vaults…": [
+        "Συγχρονισμός των κρυπτών σας..."
+      ],
+      "Thank you, the problem has been reported": [
+        "Σας ευχαριστώ, το πρόβλημα έχει αναφερθεί"
+      ],
+      "The export will only contain vaults that you own.": [
+        "Η εξαγωγή θα περιέχει μόνο κρύπτες που σας ανήκουν."
+      ],
+      "The exported file will be encrypted using PGP and requires a strong passphrase.": [
+        "Το εξαγόμενο αρχείο θα κρυπτογραφηθεί χρησιμοποιώντας PGP και απαιτεί μια ισχυρή φράση πρόσβασης."
+      ],
+      "The exposed information was leaked from a third-party service. Your ${ BRAND_NAME } Account information remains secure and encrypted. ${ learnMoreLink }": [
+        "Οι εκτεθειμένες πληροφορίες διέρρευσαν από μια υπηρεσία τρίτου μέρους. Οι πληροφορίες του λογαριασμού σας ${ BRAND_NAME } παραμένουν ασφαλείς και κρυπτογραφημένες. ${ learnMoreLink }"
+      ],
+      "The extra password will be required to use ${ PASS_APP_NAME }. It acts as an additional password on top of your ${ BRAND_NAME } password.": [
+        "Ο επιπλέον κωδικός πρόσβασης θα απαιτηθεί για τη χρήση του ${ PASS_APP_NAME }. Λειτουργεί ως πρόσθετος κωδικός πρόσβασης πάνω από τον κωδικό πρόσβασης ${ BRAND_NAME }."
+      ],
+      "The following ${ result.ignored.length } item could not be imported:": [
+        "Δεν ήταν δυνατή η εισαγωγή του ${ result.ignored.length } στοιχείου:",
+        "Δεν ήταν δυνατή η εισαγωγή των ${ result.ignored.length } στοιχείων:"
+      ],
+      "The secure link has been removed": [
+        "Ο ασφαλής σύνδεσμος καταργήθηκε"
+      ],
+      "The text you're trying to paste is longer than the maximum allowed length of ${ maxLength } characters.": [
+        "Το κείμενο που προσπαθείτε να επικολλήσετε είναι μεγαλύτερο από το μέγιστο επιτρεπόμενο μήκος των ${ maxLength } χαρακτήρων."
+      ],
+      "The user did not accept the invitation yet.": [
+        "Ο χρήστης δεν αποδέχτηκε ακόμα την πρόσκληση."
+      ],
+      "This export will be unencrypted and anyone with access to your exported file will be able to see your passwords. For security, please delete it after you are done using it.": [
+        "Αυτή η εξαγωγή θα είναι μην κρυπτογραφημένη και οποιοσδήποτε έχει πρόσβαση στο εξαγόμενο αρχείο σας θα μπορεί να δει τους κωδικούς πρόσβασής σας. Για λόγους ασφαλείας, διαγράψτε το αφού ολοκληρώσετε τη χρήση του."
+      ],
+      "This option is currently not available on your device.": [
+        "Αυτή η επιλογή δεν είναι προς το παρόν διαθέσιμη στη συσκευή σας."
+      ],
+      "This setting is disabled on the organization level": [
+        "Αυτή η ρύθμιση είναι απενεργοποιημένη σε επίπεδο οργανισμού"
+      ],
+      "This vault is not currently shared with anyone. Invite people to share it with others.": [
+        "Αυτή η κρύπτη δεν είναι προς το παρόν κοινόχρηστη με κανέναν. Προσκαλέστε άτομα να τη μοιράστε με άλλους."
+      ],
+      "This version will be added to the history as the newest version.": [
+        "Αυτή η έκδοση θα προστεθεί στο ιστορικό ως η νεότερη έκδοση."
+      ],
+      "To migrate data from another password manager, go to the password manager, export your data, then upload it to ${ PASS_APP_NAME }. Once your data has been imported, delete the exported file.": [
+        "Για να μεταφέρετε δεδομένα από έναν άλλο διαχειριστή κωδικών πρόσβασης, μεταβείτε στον διαχειριστή κωδικών πρόσβασης, εξαγάγετε τα δεδομένα σας και, στη συνέχεια, ανεβάστε τα στο ${ PASS_APP_NAME }. Μόλις εισαχθούν τα δεδομένα σας, διαγράψτε το εξαγόμενο αρχείο."
+      ],
+      "To review your imported data, click on the Pass icon in your browser toolbar.": [
+        "Για να ελέγξετε τα εισαγόμενα δεδομένα σας, κάντε κλικ στο εικονίδιο Pass στη γραμμή εργαλείων του προγράμματος περιήγησής σας."
+      ],
+      "Try new ${ BRAND_NAME } features, updates and products before they are released to the public. This will reload the application": [
+        "Δοκιμάστε νέες δυνατότητες, ενημερώσεις και προϊόντα ${ BRAND_NAME } πριν κυκλοφορήσουν στο κοινό. Αυτό θα φορτώσει ξανά την εφαρμογή"
+      ],
+      "Unable to copy to clipboard": [
+        "Αδυναμία αντιγραφής στο πρόχειρο"
+      ],
+      "Unlimited hide-my-email aliases": [
+        "Απεριόριστα hide-my-email ψευδώνυμα"
+      ],
+      "Unlock ${ PASS_SHORT_APP_NAME } with biometrics": [
+        "Ξεκλειδώστε το ${ PASS_SHORT_APP_NAME } με βιομετρικά"
+      ],
+      "Unlock ${ PASS_SHORT_APP_NAME } with your ${ BRAND_NAME } password": [
+        "Ξεκλειδώστε ${ PASS_SHORT_APP_NAME } με τον κωδικό πρόσβασης ${ BRAND_NAME }"
+      ],
+      "Unlock ${ PASS_SHORT_APP_NAME } with your extra password": [
+        "Ξεκλειδώστε το ${ PASS_SHORT_APP_NAME } με τον επιπλέον κωδικό πρόσβασης σας"
+      ],
+      "Unlock with biometrics": [
+        "Ξεκλειδώστε με βιομετρικά"
+      ],
+      "Unpinning item...": [
+        "Ξεκαρφίτσωμα στοιχείου..."
+      ],
+      "Unverified": [
+        "Ανεπιβεβαίωτος"
+      ],
+      "Upgrade Now to Unlock Premium Features": [
+        "Αναβαθμίστε τώρα για να ξεκλειδώσετε Premium χαρακτηριστικά"
+      ],
+      "Use vaults to share this item with others.": [
+        "Χρησιμοποιήστε κρύπτες για να μοιραστείτε αυτό το στοιχείο με άλλους."
+      ],
+      "User's access removed": [
+        "Η πρόσβαση του χρήστη καταργήθηκε"
+      ],
+      "User's access sucessfuly updated": [
+        "Η πρόσβαση του χρήστη ενημερώθηκε με επιτυχία"
+      ],
+      "username": [
+        "όνομα χρήστη"
+      ],
+      "Vault \"${ payload.content.name }\" successfully deleted": [
+        "Η κρύπτη \"${ payload.content.name }\" διαγράφηκε με επιτυχία"
+      ],
+      "Vault \"${ payload.share.content.name }\" successfully created": [
+        "Η κρύπτη \"${ payload.share.content.name }\" δημιουργήθηκε με επιτυχία"
+      ],
+      "Vault \"${ payload.share.content.name }\" successfully updated": [
+        "Η κρύπτη \"${ payload.share.content.name }\" ενημερώθηκε με επιτυχία"
+      ],
+      "Vault \"${ share.content.name }\" was removed": [
+        "Η κρύπτη \"${ share.content.name }\" καταργήθηκε"
+      ],
+      "Verification code sent.": [
+        "Ο κωδικός επαλήθευσης στάλθηκε."
+      ],
+      "Viewer": [
+        "Πρόγραμμα προβολής"
+      ],
+      "We are having trouble syncing data to your local storage. Please make sure you have sufficient disk space for ${ PASS_SHORT_APP_NAME } to work smoothly.": [
+        "Αντιμετωπίζουμε προβλήματα συγχρονισμού δεδομένων στον τοπικό σας χώρο αποθήκευσης. Βεβαιωθείτε ότι έχετε αρκετό χώρο στο δίσκο για να λειτουργεί ομαλά το ${ PASS_SHORT_APP_NAME }."
+      ],
+      "We’ve sent a verification code to ${ email }. Please enter it below:": [
+        "Στείλαμε έναν κωδικό επαλήθευσης στη διεύθυνση ${ email }. Παρακαλούμε εισάγετε τον παρακάτω:"
+      ],
+      "You are about to create:": [
+        "Είστε έτοιμοι να δημιουργήσετε:"
+      ],
+      "You can now use your ${ BRAND_NAME } password to access ${ PASS_SHORT_APP_NAME } offline": [
+        "Τώρα μπορείτε να χρησιμοποιήσετε τον κωδικό πρόσβασης ${ BRAND_NAME } σας για πρόσβαση στο ${ PASS_SHORT_APP_NAME } εκτός σύνδεσης"
+      ],
+      "You cannot change the mailboxes for this alias.": [
+        "Δεν μπορείτε να αλλάξετε τα γραμματοκιβώτια για αυτό το ψευδώνυμο."
+      ],
+      "You have ${ daysRemaining } day left to try these and other premium features.": [
+        "Σας απομένει ${ daysRemaining } ημέρα για να δοκιμάσετε αυτές και άλλες premium λειτουργίες.",
+        "Σας απομένουν ${ daysRemaining } ημέρες για να δοκιμάσετε αυτές και άλλες premium λειτουργίες."
+      ],
+      "You have exceeded the number of vaults included in your subscription. Items can only be moved to your first two vaults. To move items between all vaults upgrade your subscription.": [
+        "Έχετε υπερβεί τον αριθμό των κρυπτών που περιλαμβάνονται στη συνδρομή σας. Τα στοιχεία μπορούν να μετακινηθούν μόνο στις πρώτες δύο κρύπτες σας. Για να μετακινήσετε στοιχεία μεταξύ όλων των κρυπτών, αναβαθμίστε τη συνδρομή σας."
+      ],
+      "You have exceeded the number of vaults included in your subscription. New items can only be created in your first two vaults. To create new items in all vaults upgrade your subscription.": [
+        "Έχετε υπερβεί τον αριθμό των κρυπτών που περιλαμβάνονται στη συνδρομή σας. Νέα στοιχεία μπορούν να δημιουργηθούν μόνο στις πρώτες δύο κρύπτες σας. Για να δημιουργήσετε νέα στοιχεία σε όλες τις κρύπτες, αναβαθμίστε τη συνδρομή σας."
+      ],
+      "You have reached the limit of aliases you can create. Create an unlimited number of aliases when you upgrade your subscription.": [
+        "Έχετε φτάσει στο όριο των ψευδωνύμων που μπορείτε να δημιουργήσετε. Δημιουργήστε ένα απεριόριστο αριθμό ψευδωνύμων κατά την αναβάθμιση της συνδρομής σας."
+      ],
+      "You have reached the limit of credit cards you can create. Create an unlimited number of credit cards when you upgrade your subscription.": [
+        "Έχετε φτάσει στο όριο των πιστωτικών καρτών που μπορείτε να δημιουργήσετε. Δημιουργήστε ένα απεριόριστο αριθμό πιστωτικών καρτών κατά την αναβάθμιση της συνδρομής σας."
+      ],
+      "You have reached the limit of vaults you can create.": [
+        "Έχετε φτάσει στο όριο των κρυπτών που μπορείτε να δημιουργήσετε."
+      ],
+      "You have reached the maximum allowed length of ${ maxLength } characters.": [
+        "Έχετε φτάσει στο μέγιστο επιτρεπόμενο μήκος των ${ maxLength } χαρακτήρων."
+      ],
+      "You will be logged out and need to log in again on all of your other devices.": [
+        "Θα αποσυνδεθείτε και θα πρέπει να συνδεθείτε ξανά σε όλες τις άλλες συσκευές σας."
+      ],
+      "You will be notified of data breaches for these email addresses.": [
+        "Θα ειδοποιηθείτε για παραβιάσεις δεδομένων για αυτές τις διευθύνσεις ηλεκτρονικού ταχυδρομείου."
+      ],
+      "You will be notified of data breaches for this email address.": [
+        "Θα ειδοποιηθείτε για παραβιάσεις δεδομένων για αυτήν τη διεύθυνση ηλεκτρονικού ταχυδρομείου."
+      ],
+      "You will no longer be notified of data breaches for these email addresses.": [
+        "Δε θα ειδοποιείστε πλέον για παραβιάσεις δεδομένων για αυτές τις διευθύνσεις ηλεκτρονικού ταχυδρομείου."
+      ],
+      "You will no longer be notified of data breaches for this email address.": [
+        "Δε θα ειδοποιείστε πλέον για παραβιάσεις δεδομένων για αυτήν τη διεύθυνση ηλεκτρονικού ταχυδρομείου."
+      ],
+      "You will use this PIN to unlock ${ PASS_APP_NAME } once it auto-locks after a period of inactivity.": [
+        "Θα χρησιμοποιήσετε αυτό το PIN για να ξεκλειδώσετε το ${ PASS_APP_NAME } όταν κλειδώσει αυτόματα μετά από μια περίοδο αδράνειας."
+      ],
+      "You're invited to a vault.": [
+        "Είστε προσκεκλημένοι σε μια κρύπτη."
+      ],
+      "Your account is restricted because your organization has enforced two-factor authentication. Please enable two-factor authentication in your Account Settings or contact your administrator.": [
+        "Ο λογαριασμός σας έχει περιοριστεί επειδή ο οργανισμός σας έχει επιβάλλει έλεγχο ταυτότητας δύο παραγόντων. Παρακαλώ ενεργοποιήστε τον έλεγχο ταυτότητας δύο παραγόντων στις δικές σας Ρυθμίσεις Λογαριασμού ή επικοινωνήστε με τον διαχειριστή σας."
+      ],
+      "Your files will be encrypted and then saved": [
+        "Τα αρχεία σας θα κρυπτογραφηθούν και στη συνέχεια θα αποθηκευτούν"
+      ],
+      "Your information was found on ${ displayedDate }": [
+        "Οι πληροφορίες σας βρέθηκαν στις ${ displayedDate }"
+      ],
+      "Your organization requires you to secure your access to ${ PASS_APP_NAME }": [
+        "Ο οργανισμός σας απαιτεί να εξασφαλίσετε την πρόσβασή σας στο ${ PASS_APP_NAME }"
+      ]
+    },
+    "Label": {
+      "${ config.options.length } character": [
+        "${ config.options.length } χαρακτήρας",
+        "${ config.options.length } χαρακτήρες"
+      ],
+      "${ config.options.wordCount } word": [
+        "${ config.options.wordCount } λέξη",
+        "${ config.options.wordCount } λέξεις"
+      ],
+      "${ days } day": [
+        "${ days } ημέρα",
+        "${ days } ημέρες"
+      ],
+      "${ hours } hour": [
+        "${ hours } ώρα",
+        "${ hours } ώρες"
+      ],
+      "${ minutes } minute": [
+        "${ minutes } λεπτό",
+        "${ minutes } λεπτά"
+      ],
+      "${ PASS_SHORT_APP_NAME } version": [
+        "${ PASS_SHORT_APP_NAME } έκδοση"
+      ],
+      "${ usageCount } login": [
+        "${ usageCount } σύνδεση",
+        "${ usageCount } συνδέσεις"
+      ],
+      "1 hour": [
+        "1 ώρα"
+      ],
+      "1 minute": [
+        "1 λεπτό"
+      ],
+      "10 minutes": [
+        "10 λεπτά"
+      ],
+      "14 days": [
+        "14 ημέρες"
+      ],
+      "15 minutes": [
+        "15 λεπτά"
+      ],
+      "2 minutes": [
+        "2 λεπτά"
+      ],
+      "24 hours": [
+        "24 ώρες"
+      ],
+      "2FA secret key (TOTP)": [
+        "Μυστικό κλειδί 2FA (TOTP)"
+      ],
+      "2FA token (TOTP)": [
+        "Διακριτικό 2FA (TOTP)"
+      ],
+      "30 days": [
+        "30 ημέρες"
+      ],
+      "30 minutes": [
+        "30 λεπτά"
+      ],
+      "30 seconds": [
+        "30 δευτερόλεπτα"
+      ],
+      "5 minutes": [
+        "5 λεπτά"
+      ],
+      "7 days": [
+        "7 ημέρες"
+      ],
+      "A-Z": [
+        "Α-Ω"
+      ],
+      "Account": [
+        "Λογαριασμός"
+      ],
+      "Add section": [
+        "Προσθήκη ενότητας"
+      ],
+      "Additional details": [
+        "Πρόσθετες Λεπτομέρειες"
+      ],
+      "Address details": [
+        "Λεπτομέρειες διεύθυνσης"
+      ],
+      "Alias": [
+        "Ψευδώνυμο"
+      ],
+      "Alias address": [
+        "Ψευδώνυμη διεύθυνση"
+      ],
+      "Aliases": [
+        "Ψευδώνυμα"
+      ],
+      "All": [
+        "Όλα"
+      ],
+      "All vaults": [
+        "Όλες οι κρύπτες"
+      ],
+      "Alphabetical": [
+        "Αλφαβητικά"
+      ],
+      "Application logs": [
+        "Αρχείο καταγραφών"
+      ],
+      "Auto-lock after": [
+        "Αυτόματο-κλείδωμα μετά"
+      ],
+      "Beta Access": [
+        "Πρόσβαση Beta"
+      ],
+      "Biometrics": [
+        "Βιομετρικά"
+      ],
+      "Birthdate": [
+        "Ημερομηνία γέννησης"
+      ],
+      "Capital letters (A-Z)": [
+        "Κεφαλαία γράμματα (A-Z)"
+      ],
+      "Capitalise": [
+        "Κεφαλαιοποίηση"
+      ],
+      "Card": [
+        "Κάρτα"
+      ],
+      "Card number": [
+        "Αριθμός κάρτας"
+      ],
+      "Cards": [
+        "Κάρτες"
+      ],
+      "City": [
+        "Πόλη"
+      ],
+      "Code": [
+        "Κωδικός"
+      ],
+      "Company": [
+        "Εταιρεια"
+      ],
+      "Confirm vault name": [
+        "Επιβεβαίωση ονόματος κρύπτης"
+      ],
+      "Contact details": [
+        "Στοιχεία επαφής"
+      ],
+      "Copy": [
+        "Αντιγραφή"
+      ],
+      "Country or Region": [
+        "Χώρα ή Περιοχή"
+      ],
+      "County": [
+        "Νομός"
+      ],
+      "Create a credit card": [
+        "Δημιουργία πιστωτικής κάρτας"
+      ],
+      "Create a hide-my-email alias": [
+        "Δημιουργία hide-my-email ψευδώνυμου"
+      ],
+      "Create a login": [
+        "Δημιουργία σύνδεσης"
+      ],
+      "Create an encrypted note": [
+        "Δημιουργία κρυπτογραφημένης σημείωσης"
+      ],
+      "Create an Identity": [
+        "Δημιουργήστε μια Ταυτότητα"
+      ],
+      "Create lock": [
+        "Δημιουργία κλειδώματος"
+      ],
+      "Create new vault": [
+        "Δημιουργία νέας κρύπτης"
+      ],
+      "Created": [
+        "Δημιουργήθηκε"
+      ],
+      "Created at": [
+        "Δημιουργήθηκε στις"
+      ],
+      "Custom hidden field": [
+        "Προσαρμοσμένο κρυφό πεδίο"
+      ],
+      "Custom text field": [
+        "Προσαρμοσμένο πεδίο κειμένου"
+      ],
+      "Date": [
+        "Ημερομηνία"
+      ],
+      "Device": [
+        "Συσκευή"
+      ],
+      "Display": [
+        "Προβολή"
+      ],
+      "Domain": [
+        "Τομέας (Domain)"
+      ],
+      "Download logs": [
+        "Λήψη αρχείων καταγραφής"
+      ],
+      "Email": [
+        "Διεύθυνση ηλεκτρονικού ταχυδρομείου"
+      ],
+      "Email (alias)": [
+        "Ηλεκτρονικό ταχυδρομείο (ψευδώνυμο)"
+      ],
+      "Email (new alias)": [
+        "Ηλεκτρονικό ταχυδρομείο (νέο ψευδώνυμο)"
+      ],
+      "Email address": [
+        "Διεύθυνση email"
+      ],
+      "Empty trash": [
+        "Άδειασμα Διαγραμμένων"
+      ],
+      "Enable offline access": [
+        "Ενεργοποίηση πρόσβασης εκτός σύνδεσης"
+      ],
+      "Expiration date": [
+        "Ημερομηνία λήξης"
+      ],
+      "Expired": [
+        "Έχει λήξει"
+      ],
+      "Expired link": [
+        "Ληγμένος σύνδεσμος"
+      ],
+      "Export": [
+        "Εξαγωγή"
+      ],
+      "Extra password": [
+        "Επιπλέον κωδικός πρόσβασης"
+      ],
+      "Facebook account": [
+        "Λογαριασμός Facebook"
+      ],
+      "Field name": [
+        "Όνομα πεδίου"
+      ],
+      "File format": [
+        "Μορφή αρχείου"
+      ],
+      "First name": [
+        "Όνομα"
+      ],
+      "Floor, apartment, building": [
+        "Όροφος, διαμέρισμα, κτίριο"
+      ],
+      "Forwards to": [
+        "Προώθηση σε"
+      ],
+      "Free forever": [
+        "Δωρεάν για πάντα"
+      ],
+      "Full Name": [
+        "Ονοματεπώνυμο"
+      ],
+      "Gender": [
+        "Φύλο"
+      ],
+      "General": [
+        "Γενικά"
+      ],
+      "Generate a secure link for this item": [
+        "Δημιουργία ασφαλούς σύνδεσης για αυτό το στοιχείο"
+      ],
+      "Generic CSV": [
+        "Γενικό CSV"
+      ],
+      "Grant": [
+        "Παραχώρηση"
+      ],
+      "Hidden": [
+        "Κρυφό πεδίο"
+      ],
+      "Hide password": [
+        "Απόκρυψη κωδικού πρόσβασης"
+      ],
+      "https://example.com": [
+        "https://example.com"
+      ],
+      "ID Card number": [
+        "Αριθμός δελτίου ταυτότητας"
+      ],
+      "Identities": [
+        "Ταυτότητες"
+      ],
+      "Identity": [
+        "Ταυτότητα"
+      ],
+      "Import": [
+        "Εισαγωγή"
+      ],
+      "Import passwords": [
+        "Εισαγωγή κωδικών πρόσβασης"
+      ],
+      "Imported from : ": [
+        "Εισαγωγή από : "
+      ],
+      "Imported on : ": [
+        "Εισαγωγή στο : "
+      ],
+      "Include numbers": [
+        "Συμπερίληψη αριθμών"
+      ],
+      "Include numbers (0-9)": [
+        "Συμπερίληψη αριθμών (0-9)"
+      ],
+      "Instagram handle": [
+        "Όνομα χρήστη Instagram"
+      ],
+      "Invitations": [
+        "Προσκλήσεις"
+      ],
+      "Item ID": [
+        "Αναγνωριστικό στοιχείου"
+      ],
+      "Job title": [
+        "Τίτλος εργασίας"
+      ],
+      "Key": [
+        "Κλειδί"
+      ],
+      "Keyboard shortcut: ${ shortcut }": [
+        "Συντόμευση πληκτρολογίου: ${ shortcut }"
+      ],
+      "Language": [
+        "Γλώσσα"
+      ],
+      "Last 2 weeks": [
+        "Τελευταίες 2 εβδομάδες"
+      ],
+      "Last month": [
+        "Προηγούμενος μήνας"
+      ],
+      "Last name": [
+        "Επώνυμο"
+      ],
+      "Last updated": [
+        "Τελευταία ενημέρωση"
+      ],
+      "Last week": [
+        "Προηγούμενη εβδομάδα"
+      ],
+      "Latest import": [
+        "Τελευταία εισαγωγή"
+      ],
+      "Learn more": [
+        "Μάθετε περισσότερα"
+      ],
+      "License": [
+        "Άδεια"
+      ],
+      "License number": [
+        "Αριθμός άδειας"
+      ],
+      "LinkedIn account": [
+        "Λογαριασμός LinkedIn"
+      ],
+      "Login": [
+        "Σύνδεση"
+      ],
+      "Logins": [
+        "Συνδέσεις"
+      ],
+      "Make all admins": [
+        "Κάντε τους όλους διαχειριστές"
+      ],
+      "Make all editors": [
+        "Κάντε τους όλους συντάκτες"
+      ],
+      "Make all viewers": [
+        "Κάντε τους όλους θεατές"
+      ],
+      "max views reached": [
+        "μέγιστος αριθμός προβολών που επιτεύχθηκε"
+      ],
+      "Members": [
+        "Μέλη"
+      ],
+      "Middle name": [
+        "Πατρώνυμο"
+      ],
+      "Modified": [
+        "Τροποποιήθηκε"
+      ],
+      "More than a month": [
+        "Περισσότερο από ένα μήνα"
+      ],
+      "Most recent": [
+        "Πιο πρόσφατα"
+      ],
+      "Name": [
+        "Όνομα"
+      ],
+      "Name on card": [
+        "Όνομα πάνω στην κάρτα"
+      ],
+      "Need help ?": [
+        "Χρειάζεστε βοήθεια;"
+      ],
+      "New vault": [
+        "Νέα κρύπτη"
+      ],
+      "New-Old": [
+        "Νέο-Παλιό"
+      ],
+      "Newest to oldest": [
+        "Από το νεότερο στο παλαιότερο"
+      ],
+      "No history": [
+        "Χωρίς ιστορικό"
+      ],
+      "None": [
+        "Κανένα"
+      ],
+      "Note": [
+        "Σημείωση"
+      ],
+      "Notes": [
+        "Σημειώσεις"
+      ],
+      "Offline mode": [
+        "Λειτουργία χωρίς σύνδεση"
+      ],
+      "Old-New": [
+        "Παλιό-Νέο"
+      ],
+      "Oldest to newest": [
+        "Από το παλαιότερο στο νεότερο"
+      ],
+      "Open-source password manager for effortless protection.": [
+        "Διαχειριστής κωδικών πρόσβασης ανοιχτού κώδικα για εύκολη προστασία."
+      ],
+      "Organization": [
+        "Οργανισμός"
+      ],
+      "Passkey": [
+        "Κλειδί πρόσβασης"
+      ],
+      "Passphrase": [
+        "Συνθηματικό"
+      ],
+      "Passport": [
+        "Διαβατήριο"
+      ],
+      "Passport number": [
+        "Αριθμός διαβατηρίου"
+      ],
+      "Password": [
+        "Κωδικός πρόσβασης"
+      ],
+      "Password history": [
+        "Ιστορικό κωδικού πρόσβασης"
+      ],
+      "Personal details": [
+        "Προσωπικές πληροφορίες"
+      ],
+      "Personal website": [
+        "Προσωπικός ιστότοπος"
+      ],
+      "PGP-encrypted JSON (recommended)": [
+        "JSON με κρυπτογράφηση PGP (συνιστάται)"
+      ],
+      "Phone number": [
+        "Αριθμός τηλεφώνου"
+      ],
+      "PIN": [
+        "PIN"
+      ],
+      "PIN code": [
+        "Κωδικός PIN"
+      ],
+      "Prefix": [
+        "Πρόθεμα"
+      ],
+      "Protect ${ PASS_APP_NAME } with an extra password": [
+        "Προστατέψτε το ${ PASS_APP_NAME } με έναν επιπλέον κωδικό πρόσβασης"
+      ],
+      "Rate us": [
+        "Βαθμολογήστε μας"
+      ],
+      "Recent": [
+        "Πρόσφατα"
+      ],
+      "Reddit handle": [
+        "Reddit όνομα"
+      ],
+      "Remove link": [
+        "Αφαίρεση συνδέσμου"
+      ],
+      "Report a problem": [
+        "Αναφορά προβλήματος"
+      ],
+      "Restore all items": [
+        "Επαναφορά όλων των αντικειμένων"
+      ],
+      "Reveal password": [
+        "Εμφάνιση κωδικού"
+      ],
+      "Securely store, share and auto-login your accounts with ${ PASS_APP_NAME }, using end-to-end encryption trusted by millions.": [
+        "Αποθηκεύστε, μοιραστείτε και συνδεθείτε αυτόματα με ασφάλεια τους λογαριασμούς σας με ${ PASS_APP_NAME }, χρησιμοποιώντας κρυπτογράφηση από άκρο σε άκρο που εμπιστεύονται εκατομμύρια."
+      ],
+      "Security": [
+        "Ασφάλεια"
+      ],
+      "Security code": [
+        "Κωδικός διασφάλισης"
+      ],
+      "Select an email address": [
+        "Επιλέξτε μια διεύθυνση ηλεκτρονικού ταχυδρομείου"
+      ],
+      "Select preferred language": [
+        "Επιλέξτε την προτιμώμενη γλώσσα"
+      ],
+      "Select your password manager": [
+        "Επιλέξτε τον διαχειριστή κωδικών πρόσβασης"
+      ],
+      "Selected": [
+        "Επιλεγμένα"
+      ],
+      "Share": [
+        "Κοινοποίηση"
+      ],
+      "Share this vault or create a new vault": [
+        "Κοινοποιήστε αυτή την κρύπτη ή δημιουργήστε μια νέα κρύπτη"
+      ],
+      "Shared link": [
+        "Κοινοποιημένος συνδέσμος"
+      ],
+      "Show website favicons": [
+        "Εμφάνιση favicons ιστότοπου"
+      ],
+      "Social security number": [
+        "Αριθμός κοινωνικής ασφάλισης"
+      ],
+      "Special characters (!&*)": [
+        "Ειδικοί χαρακτήρες (!&*)"
+      ],
+      "State or province": [
+        "Νομός ή επαρχία"
+      ],
+      "Status": [
+        "Κατάσταση"
+      ],
+      "Street address": [
+        "Οδός"
+      ],
+      "Street address, P.O. box": [
+        "Ταχυδρομική διεύθυνση, τ.θ"
+      ],
+      "Strong": [
+        "Δυνατό"
+      ],
+      "Suffix": [
+        "Επίθεμα"
+      ],
+      "Support": [
+        "Υποστήριξη"
+      ],
+      "Tax number": [
+        "Α.Φ.Μ."
+      ],
+      "Text": [
+        "Κείμενο"
+      ],
+      "The item's vault is currently shared with ${ targetMembers } person": [
+        "Η κρύπτη του στοιχείου είναι προς το παρόν κοινόχρηστη με ${ targetMembers } άτομο",
+        "Η κρύπτη του στοιχείου είναι προς το παρόν κοινόχρηστη με ${ targetMembers } άτομα"
+      ],
+      "The URL has been copied to the clipboard": [
+        "Αυτός το URL αντιγράφτηκε στο πρόχειρο"
+      ],
+      "This item will remain accessible until ${ remaining }": [
+        "Αυτό το στοιχείο θα παραμείνει προσβάσιμο μέχρι τις ${ remaining }"
+      ],
+      "Title": [
+        "Τίτλος"
+      ],
+      "Today": [
+        "Σήμερα"
+      ],
+      "Total imported items : ": [
+        "Σύνολο εισαγόμενων ειδών : "
+      ],
+      "Total items : ": [
+        "Συνολικά αντικείμενα : "
+      ],
+      "TOTP": [
+        "TOTP"
+      ],
+      "Trash": [
+        "Διαγραμμένα"
+      ],
+      "Type": [
+        "Τύπος"
+      ],
+      "Unlock with": [
+        "Ξεκλείδωμα με"
+      ],
+      "Unnamed Credit Card": [
+        "Πιστωτική κάρτα χωρίς όνομα"
+      ],
+      "Unnamed identity": [
+        "Ανώνυμη ταυτότητα"
+      ],
+      "Unnamed item": [
+        "Ανώνυμο στοιχείο"
+      ],
+      "Unnamed note": [
+        "Ανώνυμο σημείωμα"
+      ],
+      "Untitled": [
+        "Χωρίς τίτλο"
+      ],
+      "Update": [
+        "Αναβάθμιση"
+      ],
+      "Used in": [
+        "Χρησιμοποιείται σε"
+      ],
+      "Username": [
+        "Όνομα Χρήστη"
+      ],
+      "Vault ID": [
+        "ID Κρύπτης"
+      ],
+      "Vaults": [
+        "Κρύπτες"
+      ],
+      "View details": [
+        "Προβολή λεπτομερειών"
+      ],
+      "View logs": [
+        "Προβολή αρχείων καταγραφής"
+      ],
+      "Vulnerable": [
+        "Ευάλωτο"
+      ],
+      "Weak": [
+        "Αδύναμο"
+      ],
+      "Website": [
+        "Ιστοσελίδα"
+      ],
+      "Websites": [
+        "Ιστοσελίδες"
+      ],
+      "Work details": [
+        "Λεπτομέρειες εργασίας"
+      ],
+      "Work email": [
+        "Email εργασίας"
+      ],
+      "Work phone number": [
+        "Αριθμός τηλεφώνου εργασίας"
+      ],
+      "X handle": [
+        "X όνομα"
+      ],
+      "Yahoo account": [
+        "Λογαριασμός Yahoo"
+      ],
+      "You are about to create": [
+        "Είστε έτοιμοι να δημιουργήσετε"
+      ],
+      "ZIP or Postal code": [
+        "Τ.Κ. / Ταχυδρομικός κώδικας"
+      ]
+    },
+    "Link": {
+      "Learn more": [
+        "Μάθετε περισσότερα"
+      ],
+      "stay safer online": [
+        "παραμείνετε πιο ασφαλείς στο διαδίκτυο"
+      ]
+    },
+    "Log preference": {
+      "Enable ${ reason }": [
+        "Ενεργοποίηση ${ reason }"
+      ]
+    },
+    "Message": {
+      "${ count } item": [
+        "${ count } στοιχείο",
+        "${ count } στοιχεία"
+      ],
+      "You selected ${ semiboldText } in this vault": [
+        "Επιλέξατε ${ semiboldText } σε αυτή την κρύπτη"
+      ]
+    },
+    "new_plans: feature": {
+      "Require 2FA for organization": [
+        "Απαιτείται 2FA για οργάνωση"
+      ],
+      "SSO integration (coming soon)": [
+        "Ενσωμάτωση SSO (σύντομα διαθέσιμο)"
+      ]
+    },
+    "Notification": {
+      "${ reason } has been disabled": [
+        "${ reason } έχει απενεργοποιηθεί"
+      ],
+      "${ reason } has been enabled": [
+        "${ reason } έχει ενεργοποιηθεί"
+      ]
+    },
+    "Option": {
+      "Commas": [
+        "Κόμματα"
+      ],
+      "Hyphens": [
+        "Παύλες"
+      ],
+      "Memorable Password": [
+        "Αξιομνημόνευτος Κωδικός Πρόσβασης"
+      ],
+      "Numbers": [
+        "Αριθμοί"
+      ],
+      "Numbers and Symbols": [
+        "Αριθμοί και Σύμβολα"
+      ],
+      "Periods": [
+        "Τελείες"
+      ],
+      "Random Password": [
+        "Τυχαίος Κωδικός Πρόσβασης"
+      ],
+      "Spaces": [
+        "Διαστήματα"
+      ],
+      "Underscores": [
+        "Υπογραμμίσεις"
+      ]
+    },
+    "Placeholder": {
+      "Add 2FA secret key": [
+        "Προσθέστε μυστικό κλειδί 2FA"
+      ],
+      "Add hidden text": [
+        "Προσθήκη κρυφού κειμένου"
+      ],
+      "Add note": [
+        "Προσθήκη σημείωσης"
+      ],
+      "Add text": [
+        "Προσθήκη κειμένου"
+      ],
+      "Email address": [
+        "Διεύθυνση email"
+      ],
+      "Enter a note...": [
+        "Γράψτε μια σημείωση..."
+      ],
+      "Enter a prefix": [
+        "Εισαγάγετε ένα πρόθεμα"
+      ],
+      "Enter email": [
+        "Εισάγετε ηλεκτρονική διεύθυνση"
+      ],
+      "Enter email or username": [
+        "Εισαγάγετε email ή όνομα χρήστη"
+      ],
+      "Enter password": [
+        "Εισάγετε κωδικό πρόσβασης"
+      ],
+      "Enter username": [
+        "Εισάγετε όνομα χρήστη"
+      ],
+      "Full Name": [
+        "Ονοματεπώνυμο"
+      ],
+      "me@example.com": [
+        "me@example.com"
+      ],
+      "MM/YY": [
+        "ΜΜ/ΕΕ"
+      ],
+      "Other": [
+        "Άλλο"
+      ],
+      "Password": [
+        "Κωδικός πρόσβασης"
+      ],
+      "Pick a vault": [
+        "Επιλέξτε μια κρύπτη"
+      ],
+      "Please describe the problem and include any error messages": [
+        "Περιγράψτε το πρόβλημα και συμπεριλάβετε τυχόν μηνύματα σφάλματος"
+      ],
+      "Retype \"${ vaultName }\" to confirm deletion": [
+        "Επαναπληκτρολογήστε \"${ vaultName }\" για να επιβεβαιώσετε τη διαγραφή"
+      ],
+      "Search ${ pluralItemType } in ${ vaultName }": [
+        "Αναζήτηση ${ pluralItemType } στη ${ vaultName }"
+      ],
+      "Search ${ pluralItemType } in all vaults": [
+        "Αναζήτηση ${ pluralItemType } σε όλες τις κρύπτες"
+      ],
+      "Search in ${ vaultName }": [
+        "Αναζήτηση σε ${ vaultName }"
+      ],
+      "Search in all vaults": [
+        "Αναζήτηση σε όλες τις κρύπτες"
+      ],
+      "Search in Trash": [
+        "Αναζήτηση στον Κάδο απορριμμάτων"
+      ],
+      "Select a suffix": [
+        "Επιλογή επιθήματος"
+      ],
+      "Shared vault": [
+        "Κοινόχρηστη κρύπτη"
+      ],
+      "Unknown origin": [
+        "Άγνωστη προέλευση"
+      ],
+      "Untitled": [
+        "Χωρίς τίτλο"
+      ],
+      "Used on ${ url }": [
+        "Χρησιμοποιείται στο ${ url }"
+      ],
+      "Write your note": [
+        "Γράψτε τη σημείωσή σας"
+      ]
+    },
+    "Security Center - Info": {
+      "${ name } and ${ remainingCount } other potential leaks detected. Turn on ${ DARK_WEB_MONITORING_NAME } to view details. ${ link }": [
+        "${ name } και ${ remainingCount } εντοπίστηκαν άλλες πιθανές διαρροές. Ενεργοποιήστε το ${ DARK_WEB_MONITORING_NAME } για να δείτε λεπτομέρειες. ${ link }"
+      ],
+      "${ name } and 1 other potential leak detected. Turn on ${ DARK_WEB_MONITORING_NAME } to view details. ${ link }": [
+        "${ name } και εντοπίστηκε 1 άλλη πιθανή διαρροή. Ενεργοποιήστε το ${ DARK_WEB_MONITORING_NAME } για να δείτε λεπτομέρειες. ${ link }"
+      ],
+      "A potential ${ name } leak was detected. Turn on ${ DARK_WEB_MONITORING_NAME } to view details. ${ link }": [
+        "Εντοπίστηκε πιθανή διαρροή ${ name }. Ενεργοποιήστε το ${ DARK_WEB_MONITORING_NAME } για να δείτε λεπτομέρειες. ${ link }"
+      ],
+      "Your information was found in at least one data leak. Turn on ${ DARK_WEB_MONITORING_NAME } to view details. ${ link }": [
+        "Οι πληροφορίες σας εντοπίστηκαν σε τουλάχιστον μία διαρροή δεδομένων. Ενεργοποιήστε το ${ DARK_WEB_MONITORING_NAME } για να δείτε λεπτομέρειες. ${ link }"
+      ]
+    },
+    "Success": {
+      "Vaults can’t contain more than ${ vault.targetMaxMembers } user.": [
+        "Οι κρύπτες δεν μπορούν να περιέχουν παραπάνω από ${ vault.targetMaxMembers } χρήστη.",
+        "Οι κρύπτες δεν μπορούν να περιέχουν παραπάνω από ${ vault.targetMaxMembers } χρήστες."
+      ]
+    },
+    "Title": {
+      "${ BRAND_NAME } addresses": [
+        "${ BRAND_NAME } διευθύνσεις"
+      ],
+      "${ PASS_SHORT_APP_NAME } Monitor": [
+        "${ PASS_SHORT_APP_NAME } Monitor"
+      ],
+      "Account protection": [
+        "Προστασία λογαριασμού"
+      ],
+      "Auto-lock update": [
+        "Ενημέρωση αυτόματου κλειδώματος"
+      ],
+      "Breach detected": [
+        "Εντοπίστηκε παραβίαση"
+      ],
+      "Breaches": [
+        "Παραβιάσεις"
+      ],
+      "Breaches detected for": [
+        "Εντοπίστηκαν παραβιάσεις για"
+      ],
+      "Confirm extra password": [
+        "Επιβεβαίωση επιπλέον κωδικού πρόσβασης"
+      ],
+      "Confirm PIN code": [
+        "Επιβεβαιώστε τον κωδικό PIN"
+      ],
+      "Confirm your email": [
+        "Επιβεβαιώστε τη διεύθυνση email σας"
+      ],
+      "Create a vault": [
+        "Δημιουργία κρύπτης"
+      ],
+      "Create PIN code": [
+        "Δημιουργία κωδικού PIN"
+      ],
+      "Created": [
+        "Δημιουργήθηκε"
+      ],
+      "Current version": [
+        "Τρέχουσα έκδοση"
+      ],
+      "Custom addresses": [
+        "Προσαρμοσμένες διευθύνσεις"
+      ],
+      "Custom email monitoring": [
+        "Παρακολούθηση προσαρμοσμένων διευθύνσεων ηλεκτρονικού ταχυδρομείου"
+      ],
+      "Custom emails": [
+        "Προσαρμοσμένα μηνύματα ηλεκτρονικού ταχυδρομείου"
+      ],
+      "Dark Web Monitoring": [
+        "Dark Web Monitoring"
+      ],
+      "Delete vault \"${ vaultName }\" ?": [
+        "Διαγραφή'η κρύπτης \"${ vaultName }\" ;"
+      ],
+      "Details": [
+        "Λεπτομέρειες"
+      ],
+      "Discard changes?": [
+        "Απόρριψη αλλαγών;"
+      ],
+      "Enjoying ${ PASS_APP_NAME }?": [
+        "Απολαμβάνετε το ${ PASS_APP_NAME };"
+      ],
+      "Enter your extra password": [
+        "Εισαγάγετε τον επιπλέον κωδικό πρόσβασής σας"
+      ],
+      "Enter your password": [
+        "Εισάγετε τον κωδικό σας"
+      ],
+      "Enter your PIN": [
+        "Εισαγάγετε το PIN σας"
+      ],
+      "Excluded items": [
+        "Εξαιρούμενα στοιχεία"
+      ],
+      "Get Started": [
+        "Ξεκινήστε"
+      ],
+      "Grant permissions": [
+        "Απαιτούμενα δικαιώματα"
+      ],
+      "Hide-my-email aliases": [
+        "Hide-my-email ψευδώνυμα"
+      ],
+      "History": [
+        "Ιστορία"
+      ],
+      "Import - ${ date }": [
+        "Εισαγωγή - ${ date }"
+      ],
+      "Import to vault(s)": [
+        "Εισαγωγή στην(ις) κρύπτη(ες)"
+      ],
+      "Import your data": [
+        "Εισαγωγή των δεδομένων σας"
+      ],
+      "Inactive 2FA": [
+        "Απενεργοποιημένο 2FA"
+      ],
+      "Install extension": [
+        "Εγκατάσταση επέκτασης"
+      ],
+      "Last autofill": [
+        "Τελευταία αυτόματη συμπλήρωση"
+      ],
+      "Last modified": [
+        "Τελευταία τροποποίηση"
+      ],
+      "Leave vault ?": [
+        "Αποχώρηση από την κρύπτη;"
+      ],
+      "Loading breaches...": [
+        "Φόρτωση παραβιάσεων..."
+      ],
+      "Low disk space": [
+        "Περιορισμένος χώρος στο δίσκο"
+      ],
+      "Mark as resolved?": [
+        "Σήμανση ως επιλυμένου?"
+      ],
+      "Member limit": [
+        "Όριο μελών"
+      ],
+      "Members": [
+        "Μέλη"
+      ],
+      "Modified": [
+        "Τροποποιήθηκε"
+      ],
+      "Move all items to \"${ vaultName }\"?": [
+        "Μετακίνηση όλων των στοιχείων στο \"${ vaultName }\";"
+      ],
+      "Move item to \"${ vaultName }\"?": [
+        "Μετακίνηση στοιχείου στο \"${ vaultName }\";"
+      ],
+      "Move items to \"${ vaultName }\"?": [
+        "Μετακίνηση στοιχείων στο \"${ vaultName }\";"
+      ],
+      "No excluded items": [
+        "Δεν υπάρχουν εξαιρούμενα στοιχεία"
+      ],
+      "No inactive 2FAs": [
+        "Χωρίς ανενεργά 2FA"
+      ],
+      "No insecure passwords": [
+        "Δεν υπάρχουν μη ασφαλείς κωδικοί πρόσβασης"
+      ],
+      "No items selected": [
+        "Δεν επιλέχθηκαν αντικείμενα"
+      ],
+      "No reused passwords": [
+        "Δεν υπάρχουν επαναχρησιμοποιημένοι κωδικοί πρόσβασης"
+      ],
+      "No shared secure links": [
+        "Δεν υπάρχουν κοινόχρηστοι ασφαλείς σύνδεσμοι"
+      ],
+      "Our welcome gift to you": [
+        "Το δώρο καλωσορίσματος σας"
+      ],
+      "Passkey": [
+        "Κλειδί πρόσβασης"
+      ],
+      "Password Health": [
+        "Υγεία κωδικού πρόσβασης"
+      ],
+      "Pause monitoring?": [
+        "Παύση παρακολούθησης;"
+      ],
+      "Pending access to the shared data": [
+        "Εκκρεμής πρόσβαση στα κοινόχρηστα δεδομένα"
+      ],
+      "Permanently remove all items ?": [
+        "Οριστική αφαίρεση όλων των στοιχείων;"
+      ],
+      "Pinned (${ items.length })": [
+        "Καρφιτσώθηκαν (${ items.length })"
+      ],
+      "Recommended actions": [
+        "Συνιστώμενες ενέργειες"
+      ],
+      "Remove email address?": [
+        "Αφαίρεση διεύθυνσης ηλεκτρονικού ταχυδρομείου;"
+      ],
+      "Remove extra password": [
+        "Κατάργηση επιπλέον κωδικού πρόσβασης"
+      ],
+      "Remove secure link?": [
+        "Αφαίρεση ασφαλούς συνδέσμου;"
+      ],
+      "Resolved breaches": [
+        "Επιλυμένες παραβιάσεις"
+      ],
+      "Restore this version?": [
+        "Επαναφορά αυτής της έκδοσης?"
+      ],
+      "Resume monitoring?": [
+        "Συνέχιση παρακολούθησης;"
+      ],
+      "Reused ${ count } time": [
+        "Επαναχρησιμοποιημένη ${ count } φορά",
+        "Επαναχρησιμοποιημένες ${ count } φορές"
+      ],
+      "Reused passwords": [
+        "Επαναχρησιμοποιημένοι κωδικοί πρόσβασης"
+      ],
+      "Review and share": [
+        "Επανεξέταση και κοινή χρήση"
+      ],
+      "Secure your data": [
+        "Ασφαλίστε τα δεδομένα σας"
+      ],
+      "Set access level": [
+        "Ορισμός επιπέδου πρόσβασης"
+      ],
+      "Set extra password": [
+        "Ορισμός επιπλέον κωδικού πρόσβασης"
+      ],
+      "Set up 2FA for better security": [
+        "Ρυθμίστε το 2FA για καλύτερη ασφάλεια"
+      ],
+      "Set up 2FA for more security": [
+        "Ρυθμίστε το 2FA για περισσότερη ασφάλεια"
+      ],
+      "Settings": [
+        "Ρυθμίσεις"
+      ],
+      "Share vaults with your team": [
+        "Κοινή χρήση κρυπτών με την ομάδα σας"
+      ],
+      "Share with": [
+        "Κοινοποίηση με"
+      ],
+      "Stay safer online": [
+        "Παραμείνετε πιο ασφαλείς στο διαδίκτυο"
+      ],
+      "Suggestions": [
+        "Προτάσεις"
+      ],
+      "Transfer ownership": [
+        "Μεταβίβαση κυριότητας"
+      ],
+      "Trash empty": [
+        "Τα Διαγραμμένα είναι άδεια"
+      ],
+      "Unlock ${ brandNameJSX }": [
+        "Ξεκλειδώστε ${ brandNameJSX }"
+      ],
+      "Update available": [
+        "Υπάρχει διαθέσιμη ενημέρωση"
+      ],
+      "Upgrade to Unlock Premium Features": [
+        "Αναβαθμίστε για να Ξεκλειδώσετε Προηγμένες Λειτουργίες"
+      ],
+      "Vault": [
+        "Κρύπτη"
+      ],
+      "Vault shared with you": [
+        "Η κρύπτη που έχει κοινοποιηθεί σε εσάς"
+      ],
+      "Want to learn more?": [
+        "Θέλετε να μάθετε περισσότερα;"
+      ],
+      "Weak password": [
+        "Αδύναμος κωδικός πρόσβασης"
+      ],
+      "Weak passwords": [
+        "Αδύναμοι κωδικοί πρόσβασης"
+      ],
+      "Welcome to ${ brandNameJSX }": [
+        "Καλώς ήρθατε στο ${ brandNameJSX }"
+      ],
+      "What is an alias?": [
+        "Τι είναι το ψευδώνυμο;"
+      ],
+      "What is the dark web?": [
+        "Τι είναι ο σκοτεινός ιστός;"
+      ],
+      "Why ${ PASS_APP_NAME }?": [
+        "Γιατί ${ PASS_APP_NAME };"
+      ],
+      "Your exposed information": [
+        "Οι εκτεθειμένες πληροφορίες σας"
+      ],
+      "Your vault is empty": [
+        "Η κρύπτη σας είναι άδεια"
+      ],
+      "Your welcome gift": [
+        "Απολαύστε τη δωρεάν δοκιμή σας"
+      ]
+    },
+    "Validation": {
+      "Duplicated URL": [
+        "Διπλότυπη διεύθυνση URL"
+      ],
+      "Email address is invalid": [
+        "Η διεύθυνση email δεν είναι έγκυρη"
+      ],
+      "Field name is required": [
+        "Το όνομα πεδίου είναι υποχρεωτικό"
+      ],
+      "OTP secret or URI is invalid": [
+        "Το OTP μυστικό ή το URI δεν είναι έγκυρο"
+      ],
+      "OTP secret or URI required": [
+        "Απαιτείται OTP μυστικό ή URI"
+      ],
+      "Section name cannot be empty": [
+        "Το όνομα ενότητας δεν μπορεί να είναι κενό"
+      ],
+      "Url already exists": [
+        "Η διεύθυνση URL υπάρχει ήδη"
+      ],
+      "URL cannot be empty": [
+        "Η διεύθυνση URL δεν μπορεί να είναι κενή"
+      ],
+      "Url is invalid": [
+        "Η διεύθυνση URL δεν είναι έγκυρη"
+      ],
+      "URL is invalid": [
+        "Η διεύθυνση URL δεν είναι έγκυρη"
+      ]
+    },
+    "Warning": {
+      "${ BRAND_NAME } password is required": [
+        "${ BRAND_NAME } κωδικός πρόσβασης απαιτείται"
+      ],
+      "A description of the problem is required": [
+        "Απαιτείται περιγραφή του προβλήματος"
+      ],
+      "Alias \"${ name }\" is currently used in login item \"${ relatedLoginName }\". You will also stop receiving emails sent to \"${ aliasEmail }\"": [
+        "Το ψευδώνυμο \"${ name }\" χρησιμοποιείται αυτήν τη στιγμή στο στοιχείο σύνδεσης \"${ relatedLoginName }\". Θα σταματήσετε επίσης να λαμβάνετε μηνύματα ηλεκτρονικού ταχυδρομείου που αποστέλλονται στο \"${ aliasEmail }\""
+      ],
+      "All your trashed items will be permanently deleted. You cannot undo this action.": [
+        "Όλα τα απορριφθέντα στοιχεία σας θα διαγραφούν οριστικά. Δεν μπορείτε να αναιρέσετε αυτήν την ενέργεια."
+      ],
+      "An error occured while exporting your data": [
+        "Παρουσιάστηκε σφάλμα κατά την εξαγωγή των δεδομένων σας"
+      ],
+      "At least one email address is required": [
+        "Απαιτείται τουλάχιστον μία διεύθυνση ηλεκτρονικού ταχυδρομείου"
+      ],
+      "Cannot retrieve mailboxes for this alias right now": [
+        "Δεν είναι δυνατή η ανάκτηση γραμματοκιβωτίων για αυτό το ψευδώνυμο αυτήν τη στιγμή"
+      ],
+      "Caution: You won’t be able to access your ${ PASS_APP_NAME } account if you lose this password.": [
+        "Προσοχή: Δε θα μπορείτε να αποκτήσετε πρόσβαση στον ${ PASS_APP_NAME } λογαριασμό σας αν χάσετε αυτόν τον κωδικό πρόσβασης."
+      ],
+      "Could not create vault \"${ vaultName }\"": [
+        "Δεν ήταν δυνατή η δημιουργία κρύπτης \"${ vaultName }\""
+      ],
+      "Could not send invitations to the following addresses :": [
+        "Δεν ήταν δυνατή η αποστολή προσκλήσεων στις ακόλουθες διευθύνσεις:"
+      ],
+      "Duplicate email addresses.": [
+        "Διπλές διευθύνσεις ηλεκτρονικού ταχυδρομείου."
+      ],
+      "Email is required": [
+        "Η διεύθυνση email είναι υποχρεωτική"
+      ],
+      "Empty note": [
+        "Κενή σημείωση"
+      ],
+      "Expiration Date is not in the format MM/YY": [
+        "Η ημερομηνία λήξης δεν έχει τη μορφή ΜΜ/ΕΕ"
+      ],
+      "Extra password cannot be empty": [
+        "Ο επιπλέον κωδικός πρόσβασης δεν μπορεί να είναι κενός"
+      ],
+      "Extra password is required": [
+        "Ο επιπλέον κωδικός πρόσβασης απαιτείται"
+      ],
+      "Extra password should have at least 8 characters": [
+        "Ο επιπλέον κωδικός πρόσβασης πρέπει να έχει τουλάχιστον 8 χαρακτήρες"
+      ],
+      "Failed to load breaches.": [
+        "Αποτυχία φόρτωσης παραβιάσεων."
+      ],
+      "Invalid alias prefix": [
+        "Μην έγκυρο πρόθεμα ψευδωνύμου"
+      ],
+      "Invalid code": [
+        "Μη έγκυρος κωδικός"
+      ],
+      "Invalid email": [
+        "Μη έγκυρο email"
+      ],
+      "Invalid email addresses.": [
+        "Μη έγκυρες διευθύνσεις ηλεκτρονικού ταχυδρομείου."
+      ],
+      "Inviting email addresses outside organization is not allowed.": [
+        "Δεν επιτρέπεται η πρόσκληση διευθύνσεων ηλεκτρονικού ταχυδρομείου εκτός οργανισμού."
+      ],
+      "item was imported without custom fields": [
+        "στοιχείο εισήχθη χωρίς προσαρμοσμένα πεδία"
+      ],
+      "Maximum length is ${ maxLength } character": [
+        "Το μέγιστο μήκος είναι ${ maxLength } χαρακτήρας",
+        "Το μέγιστο μήκος είναι ${ maxLength } χαρακτήρες"
+      ],
+      "Missing alias prefix": [
+        "Λείπει το πρόθεμα ψευδωνύμου"
+      ],
+      "Missing alias suffix": [
+        "Λείπει το επίθημα ψευδωνύμου"
+      ],
+      "No items": [
+        "Δεν υπάρχουν στοιχεία"
+      ],
+      "No items in trash matching": [
+        "Δεν υπάρχουν στοιχεία στα διαγραμμένα που να ταιριάζουν"
+      ],
+      "No items matching": [
+        "Δεν υπάρχουν στοιχεία που να ταιριάζουν"
+      ],
+      "No password manager selected": [
+        "Δεν έχει επιλεγεί διαχειριστής κωδικών πρόσβασης"
+      ],
+      "No results": [
+        "Δεν υπάρχουν αποτελέσματα"
+      ],
+      "Offline": [
+        "Εκτός σύνδεσης"
+      ],
+      "Only alphanumeric characters, dots, hyphens and underscores are allowed": [
+        "Επιτρέπονται μόνο αλφαριθμητικοί χαρακτήρες, τελείες, παύλες και παύλες υπογράμμισης"
+      ],
+      "Passphrase is required": [
+        "Απαιτείται φράση πρόσβασης"
+      ],
+      "Passwords do not match": [
+        "Οι κωδικοί πρόσβασης δεν ταυτίζονται"
+      ],
+      "PGP encrypted export file requires passphrase": [
+        "Το κρυπτογραφημένο αρχείο εξαγωγής PGP απαιτεί φράση πρόσβασης"
+      ],
+      "Please check that the extension is properly installed and enabled": [
+        "Παρακαλούμε ελέγξτε ότι η επέκταση έχει εγκατασταθεί και ενεργοποιηθεί σωστά"
+      ],
+      "Please contact us for investigating the issue": [
+        "Επικοινωνήστε μαζί μας για τη διερεύνηση του ζητήματος"
+      ],
+      "Please update the extension to its latest version": [
+        "Παρακαλούμε ενημερώστε την επέκταση στην πιο πρόσφατη έκδοσή της"
+      ],
+      "Please verify your email address in order to use email aliases": [
+        "Παρακαλούμε επαληθεύστε τη διεύθυνση ηλεκτρονικού ταχυδρομείου σας για να χρησιμοποιήσετε ψευδώνυμα διευθύνσεων ηλεκτρονικού ταχυδρομείου"
+      ],
+      "Please verify your email address in order to use vault sharing": [
+        "Παρακαλούμε επαληθεύστε τη διεύθυνση ηλεκτρονικού ταχυδρομείου σας για να χρησιμοποιήσετε την κοινή χρήση κρυπτών"
+      ],
+      "Removing your extra password will log you out from all devices and end all active sessions.": [
+        "Η κατάργηση του επιπλέον κωδικού πρόσβασης θα σας αποσυνδέσει από όλες τις συσκευές και θα τερματίσει όλες τις ενεργές περιόδους σύνδεσης."
+      ],
+      "Reports are not end-to-end encrypted, please do not send any sensitive information.": [
+        "Οι αναφορές δεν είναι διατερματικά κρυπτογραφημένες, παρακαλούμε μη στέλνετε ευαίσθητες πληροφορίες."
+      ],
+      "The alias prefix cannot be longer than 40 characters": [
+        "Το πρόθεμα ψευδωνύμου δεν μπορεί να υπερβαίνει τους 40 χαρακτήρες"
+      ],
+      "This email address will no longer be monitored for data breaches.": [
+        "Αυτή η διεύθυνση ηλεκτρονικού ταχυδρομείου δε θα παρακολουθείται πλέον για παραβιάσεις δεδομένων."
+      ],
+      "Title is required": [
+        "Απαιτείται τίτλος"
+      ],
+      "Too many attempts": [
+        "Πάρα πολλές προσπάθειες"
+      ],
+      "Transfer ownership of this vault to ${ email }?": [
+        "Μεταφέρετε την ιδιοκτησία αυτής της κρύπτης στο ${ email };"
+      ],
+      "Trash alias ?": [
+        "Διαγραφή ψευδώνυμου;"
+      ],
+      "Unable to sign in to ${ PASS_APP_NAME }. ${ additionalMessage }": [
+        "Δεν είναι δυνατή η είσοδος στο ${ PASS_APP_NAME }. ${ additionalMessage }"
+      ],
+      "Vault \"${ vaultName }\" and all its items will be permanently deleted. You cannot undo this action.": [
+        "Η κρύπτη \"${ vaultName }\" και όλα τα στοιχεία της θα διαγραφούν οριστικά. Δεν μπορείτε να αναιρέσετε αυτήν την ενέργεια."
+      ],
+      "Vault name is required": [
+        "Απαιτείται όνομα κρύπτης"
+      ],
+      "Verification code is required": [
+        "Απαιτείται κωδικός επαλήθευσης"
+      ],
+      "You cannot create more vaults than your subscription allows.": [
+        "Δεν μπορείτε να δημιουργήσετε περισσότερες κρύπτες από όσες επιτρέπει η συνδρομή σας."
+      ],
+      "You have reached the limit of members who can access this vault.": [
+        "Έχετε φτάσει το όριο των μελών που μπορούν να έχουν πρόσβαση σε αυτή την κρύπτη."
+      ],
+      "You have reached the limit of users in this vault. ${ upgradeLink }": [
+        "Έχετε φτάσει το όριο των χρηστών σε αυτή την κρύπτη. ${ upgradeLink }"
+      ],
+      "You have reached the limit of vaults you can have in your plan.": [
+        "Έχετε φτάσει στο όριο των κρυπτών που μπορείτε να έχετε στο πλάνο σας."
+      ],
+      "You have unsaved changes.": [
+        "Έχετε μην αποθηκευμένες αλλαγές."
+      ],
+      "You must select at least one mailbox": [
+        "Πρέπει να επιλέξετε τουλάχιστον ένα γραμματοκιβώτιο"
+      ],
+      "You will no longer have access to this vault. To join it again, you will need a new invitation.": [
+        "Δε θα έχετε πλέον πρόσβαση σε αυτή την κρύπτη. Για να συμμετάσχετε ξανά, θα χρειαστείτε μια νέα πρόσκληση."
+      ],
+      "Your session could not be authorized.": [
+        "Δεν ήταν δυνατή η εξουσιοδότηση της συνεδρίας σας."
+      ],
+      "Your session could not be resumed.": [
+        "Δεν ήταν δυνατή η συνέχιση της συνεδρίας σας."
+      ],
+      "Your session is inactive.": [
+        "Η συνεδρία σας είναι ανενεργή."
+      ],
+      "Your session was locked.": [
+        "Η συνεδρία σας ήταν κλειδωμένη."
+      ],
+      "Your subscription does not allow you to create multiple vaults. All items will be imported to your first vault. To import into multiple vaults upgrade your subscription.": [
+        "Η συνδρομή σας δε σας επιτρέπει να δημιουργήσετε πολλαπλές κρύπτες. Όλα τα στοιχεία θα εισαχθούν στην πρώτη κρύπτη σας. Για να κάνετε εισαγωγή σε πολλαπλές κρύπτες, αναβαθμίστε τη συνδρομή σας."
+      ]
+    }
+  }
+}

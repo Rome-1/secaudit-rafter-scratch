@@ -1,0 +1,17 @@
+{
+    "name": "@proton/cross-storage",
+    "main": "lib/index.ts",
+    "module": "lib/index.ts",
+    "scripts": {
+        "check-types": "tsc",
+        "lint": "eslint ."
+    },
+    "dependencies": {
+        "@proton/shared": "workspace:^"
+    },
+    "devDependencies": {
+        "@proton/eslint-config-proton": "workspace:^",
+        "eslint": "^8.57.0",
+        "typescript": "^5.5.4"
+    }
+}
