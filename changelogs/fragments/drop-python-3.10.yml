@@ -1,0 +1,6 @@
+---
+release_summary: >-
+  Controller minimum Python version raised to 3.12. Support for Python 3.10 and 3.11 on the controller has been removed.
+removed_features:
+  - >-
+    Dropped support for running ansible-core controller commands with Python 3.10 and 3.11. The controller now requires Python 3.12 or newer.
