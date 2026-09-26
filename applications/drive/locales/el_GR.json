@@ -1,0 +1,4913 @@
+{
+  "headers": {
+    "plural-forms": "nplurals=2; plural=(n != 1);",
+    "language": "el_GR"
+  },
+  "contexts": {
+    "Action": {
+      "${ BRAND_NAME } introduction": [
+        "${ BRAND_NAME } εισαγωγή"
+      ],
+      "${ BRAND_NAME } shop": [
+        "${ BRAND_NAME } κατάστημα"
+      ],
+      "Activate recovery": [
+        "Ενεργοποίηση ανάκτησης"
+      ],
+      "Add": [
+        "Προσθήκη"
+      ],
+      "Add address": [
+        "Προσθήκη διεύθυνσης"
+      ],
+      "Add contact": [
+        "Προσθήκη επαφής"
+      ],
+      "Add email": [
+        "Προσθήκη email"
+      ],
+      "Add group": [
+        "Προσθήκη ομάδας"
+      ],
+      "Add new contact": [
+        "Προσθήκη νέας επαφής"
+      ],
+      "Add new group": [
+        "Προσθήκη νέας ομάδας"
+      ],
+      "Add phone number": [
+        "Προσθήκη αριθμού τηλεφώνου"
+      ],
+      "Add to group": [
+        "Προσθήκη στην ομάδα"
+      ],
+      "Apply": [
+        "Εφαρμογή"
+      ],
+      "Attach screenshot(s)": [
+        "Επισύναψη στιγμιότυπου/ων οθόνης"
+      ],
+      "Authenticate": [
+        "Ταυτοποίηση"
+      ],
+      "Back": [
+        "Πίσω"
+      ],
+      "Beta Access": [
+        "Beta Πρόσβαση"
+      ],
+      "Cancel": [
+        "Ακύρωση"
+      ],
+      "Cancel all": [
+        "Ακύρωση όλων"
+      ],
+      "Cancel all downloads": [
+        "Ακύρωση όλων των λήψεων"
+      ],
+      "Cancel all uploads": [
+        "Ακύρωση κάθε ανεβάσματος"
+      ],
+      "Cancel download": [
+        "Ακύρωση λήψης"
+      ],
+      "Cancel upload": [
+        "Ακύρωση ανεβάσματος"
+      ],
+      "Chat with us": [
+        "Επικοινωνήστε μαζί μας"
+      ],
+      "Check import progress": [
+        "Προβολή προόδου εισαγωγής"
+      ],
+      "Choose a file or drag it here": [
+        "Επιλέξτε ένα αρχείο ή σύρετέ το εδώ"
+      ],
+      "Clear": [
+        "Καθαρισμός"
+      ],
+      "Clear browser data": [
+        "Εκκαθάριση δεδομένων περιηγητή"
+      ],
+      "Clear data": [
+        "Εκκαθάριση δεδομένων"
+      ],
+      "Clear query": [
+        "Απαλοιφή ερωτήματος"
+      ],
+      "Click here.": [
+        "Κάντε κλικ εδώ."
+      ],
+      "Close": [
+        "Κλείσιμο"
+      ],
+      "Close navigation": [
+        "Κλείσιμο μενού πλοήγησης"
+      ],
+      "Close this banner": [
+        "Κλείσιμο αυτού του banner"
+      ],
+      "Close transfers": [
+        "Κείσιμο μεταφορών"
+      ],
+      "Collapse": [
+        "Σύμπτυξη"
+      ],
+      "Collapse folder": [
+        "Σύμπτυξη φακέλου"
+      ],
+      "Compose": [
+        "Σύνταξη"
+      ],
+      "Confirm": [
+        "Επιβεβαίωση"
+      ],
+      "Confirm opening of link ${ linkToShow }": [
+        "Επιβεβαίωση ανοίγματος συνδέσμου ${ linkToShow }"
+      ],
+      "Contact group": [
+        "Ομάδα Επαφών"
+      ],
+      "Continue": [
+        "Συνέχεια"
+      ],
+      "Continue import": [
+        "Συνεχίστε την εισαγωγή"
+      ],
+      "Continue transfers": [
+        "Συνέχιση μεταφορών"
+      ],
+      "Continue with Google": [
+        "Συνεχίστε με Google"
+      ],
+      "Copy email to clipboard": [
+        "Αντιγραφή μηνύματος στο πρόχειρο"
+      ],
+      "Copy link": [
+        "Αντιγραφή συνδέσμου"
+      ],
+      "Create": [
+        "Δημιουργία"
+      ],
+      "Create a new contact group": [
+        "Δημιουργία νέας ομάδας επαφών"
+      ],
+      "Create link": [
+        "Δημιουργία συνδέσμου"
+      ],
+      "Create new folder": [
+        "Δημιουργία νέου φακέλου"
+      ],
+      "Customize": [
+        "Προσαρμογή"
+      ],
+      "Customize import": [
+        "Προσαρμοσμένη εισαγωγή"
+      ],
+      "Delete": [
+        "Διαγραφή"
+      ],
+      "Delete ${ selectedCount } contact": [
+        "Διαγραφή ${ selectedCount } επαφής",
+        "Διαγραφή ${ selectedCount } επαφών"
+      ],
+      "Delete ${ selectedCount } contact group": [
+        "Διαγραφή ${ selectedCount } ομάδα επαφών",
+        "Διαγραφή ${ selectedCount } ομάδες επαφών"
+      ],
+      "Delete contact": [
+        "Διαγραφή επαφής"
+      ],
+      "Delete contact group": [
+        "Διαγραφή ομάδας επαφών"
+      ],
+      "Delete permanently": [
+        "Οριστική διαγραφή"
+      ],
+      "Deselect all": [
+        "Αποεπιλογή όλων"
+      ],
+      "Details": [
+        "Λεπτομέρειες"
+      ],
+      "Discard": [
+        "Απόρριψη"
+      ],
+      "Done": [
+        "Ολοκληρώθηκε"
+      ],
+      "Download": [
+        "Λήψη"
+      ],
+      "Download all": [
+        "Λήψη όλων"
+      ],
+      "Download anyway": [
+        "Λήψη οπωσδήποτε"
+      ],
+      "Drive Locked": [
+        "Αρχειοθήκη Κλειδωμένη"
+      ],
+      "Edit": [
+        "Επεξεργασία"
+      ],
+      "Edit email address": [
+        "Επεξεργασία διεύθυνσης ηλ. ταχυδρομείου"
+      ],
+      "Edit label": [
+        "Επεξεργασία ετικέτας"
+      ],
+      "Edit phone number": [
+        "Επεξεργασία αριθμού τηλεφώνου"
+      ],
+      "Edit sign-in details": [
+        "Επεξεργασία στοιχείων εισόδου"
+      ],
+      "Email settings": [
+        "Ρυθμίσεις Email"
+      ],
+      "Empty trash": [
+        "Εκκαθάριση Διαγραμμένων"
+      ],
+      "enable desktop notifications": [
+        "ενεργοποίηση ειδοποιήσεων επιφάνειας εργασίας"
+      ],
+      "Expand": [
+        "Ανάπτυξη"
+      ],
+      "Expand folder": [
+        "Ανάπτυξη φακέλου"
+      ],
+      "Export": [
+        "Εξαγωγή"
+      ],
+      "Export contact group": [
+        "Εξαγωγή ομάδας επαφών"
+      ],
+      "Export contacts": [
+        "Εξαγωγή Επαφών"
+      ],
+      "Forward as attachment": [
+        "Προώθηση ως συνημμένο"
+      ],
+      "Get link": [
+        "Λάβετε σύνδεσμο"
+      ],
+      "Get started": [
+        "Εκκίνηση"
+      ],
+      "Get verification code": [
+        "Απόκτηση κωδικού επαλήθευσης"
+      ],
+      "Go to label": [
+        "Μετάβαση στην ετικέτα"
+      ],
+      "Go to panel ${ index }": [
+        "Μετάβαση στο πλαίσιο ${ index }"
+      ],
+      "Go to parent": [
+        "Μετάβαση στον γονέα"
+      ],
+      "Go to settings": [
+        "Μετάβαση στις ρυθμίσεις"
+      ],
+      "Got it": [
+        "Το κατάλαβα"
+      ],
+      "Hide advanced PGP settings": [
+        "Απόκρυψη προηγμένων ρυθμίσεων PGP"
+      ],
+      "Hide folders": [
+        "Απόκρυψη φακέλων"
+      ],
+      "Hide labels": [
+        "Απόκρυψη ετικετών"
+      ],
+      "I have a question": [
+        "Έχω μια ερώτηση"
+      ],
+      "Import": [
+        "Εισαγωγή"
+      ],
+      "import": [
+        "εισαγωγή"
+      ],
+      "Import calendars": [
+        "Εισαγωγή ημερολογίων"
+      ],
+      "Import contacts": [
+        "Εισαγωγή επαφών"
+      ],
+      "Import emails": [
+        "Εισαγωγή email"
+      ],
+      "Import from .csv or vCard": [
+        "Εισαγωγή από αρχείο .csv ή vCard"
+      ],
+      "Learn more": [
+        "Μάθετε περισσότερα"
+      ],
+      "Load image": [
+        "Φόρτωση εικόνας"
+      ],
+      "Log in": [
+        "Είσοδος"
+      ],
+      "Manage link": [
+        "Διαχείριση συνδέσμου"
+      ],
+      "Mark for deletion": [
+        "Σήμανση για διαγραφή"
+      ],
+      "Maximize transfers": [
+        "Μεγιστοποίηση μεταφορών"
+      ],
+      "Merge": [
+        "Συγχώνευση"
+      ],
+      "Merge contacts": [
+        "Συγχώνευση Επαφών"
+      ],
+      "Minimize transfers": [
+        "Ελαχιστοποίηση μεταφορών"
+      ],
+      "More info: ${ safeTitle }": [
+        "Περισσότερες πληροφορίες: ${ safeTitle }"
+      ],
+      "More options": [
+        "Περισσότερες επιλογές"
+      ],
+      "Move": [
+        "Μετακίνηση"
+      ],
+      "Move to folder": [
+        "Μετακίνηση σε φάκελο"
+      ],
+      "Move to trash": [
+        "Μετακίνηση στα Διαγραμμένα"
+      ],
+      "New upload": [
+        "Νέο ανέβασμα"
+      ],
+      "Next": [
+        "Επόμενο"
+      ],
+      "Next month": [
+        "Επόμενος μήνας"
+      ],
+      "OK": [
+        "ΟΚ"
+      ],
+      "Open navigation": [
+        "Άνοιγμα μενού πλοήγησης"
+      ],
+      "Pause all": [
+        "Παύση όλων"
+      ],
+      "Pause download": [
+        "Παύση λήψης"
+      ],
+      "Pause upload": [
+        "Παύση ανεβάσματος"
+      ],
+      "Preview": [
+        "Προεπισκόπηση"
+      ],
+      "Preview contact": [
+        "Προεπισκόπηση Επαφής"
+      ],
+      "Previous": [
+        "Προηγούμενο"
+      ],
+      "Previous month": [
+        "Προηγούμενος μήνας"
+      ],
+      "Quit": [
+        "Έξοδος"
+      ],
+      "Re-sign": [
+        "Επανασυνδεθείτε"
+      ],
+      "Reconnect": [
+        "Επανασύνδεση"
+      ],
+      "Recover data": [
+        "Ανάκτηση δεδομένων"
+      ],
+      "Refer a friend": [
+        "Συστήστε ένα φίλο"
+      ],
+      "Refresh the page": [
+        "Ανανέωση της σελίδας"
+      ],
+      "refresh the page": [
+        "ανανέωσε τη σελίδα"
+      ],
+      "Remove": [
+        "Αφαίρεση"
+      ],
+      "Remove from this list": [
+        "Κατάργηση από αυτή τη λίστα"
+      ],
+      "Rename": [
+        "Μετονομασία"
+      ],
+      "Report a problem": [
+        "Αναφορά προβλήματος"
+      ],
+      "Request a feature": [
+        "Ζητήστε μια δυνατότητα"
+      ],
+      "Request new code": [
+        "Ζητήστε νέο κωδικό"
+      ],
+      "Reset to default": [
+        "Επαναφορά των προεπιλογών"
+      ],
+      "Restart all": [
+        "Επανεκκίνηση όλων"
+      ],
+      "Restart download": [
+        "Επανεκκίνηση λήψης"
+      ],
+      "Restart upload": [
+        "Επανεκκίνηση ανεβάσματος"
+      ],
+      "Restore from trash": [
+        "Επαναφορά από Διαγραμμένα"
+      ],
+      "Resume download": [
+        "Συνέχιση λήψης"
+      ],
+      "Resume upload": [
+        "Συνέχιση ανεβάσματος"
+      ],
+      "Retry": [
+        "Δοκιμάστε ξανά"
+      ],
+      "Save": [
+        "Αποθήκευση"
+      ],
+      "Search": [
+        "Αναζήτηση"
+      ],
+      "Search countries": [
+        "Αναζήτηση χωρών"
+      ],
+      "Search drive": [
+        "Τοπική αναζήτηση"
+      ],
+      "Select all": [
+        "Επιλογή όλων"
+      ],
+      "Send feedback": [
+        "Αποστολή σχολίων"
+      ],
+      "Set recovery phrase": [
+        "Ορισμός φράσης ανάκτησης"
+      ],
+      "Share file": [
+        "Κοινοποίηση αρχείου"
+      ],
+      "Share item": [
+        "Κοινοποίηση αντικειμένου"
+      ],
+      "Share via link": [
+        "Κοινοποίηση με σύνδεσμο"
+      ],
+      "Sharing options": [
+        "Επιλογές κοινοποίησης"
+      ],
+      "Show advanced PGP settings": [
+        "Εμφάνιση προηγμένων ρυθμίσεων PGP"
+      ],
+      "Show folders": [
+        "Εμφάνιση φακέλων"
+      ],
+      "Show labels": [
+        "Εμφάνιση ετικετών"
+      ],
+      "Show preview": [
+        "Εμφάνιση προεπισκόπησης"
+      ],
+      "Sign out": [
+        "Αποσύνδεση"
+      ],
+      "Signing out": [
+        "Αποσύνδεση"
+      ],
+      "Skip": [
+        "Παράλειψη"
+      ],
+      "Start import": [
+        "Έναρξη εισαγωγής"
+      ],
+      "Start recovering": [
+        "Έναρξη ανάκτησης"
+      ],
+      "Start setup": [
+        "Ρύθμιση εκκίνησης"
+      ],
+      "Stay": [
+        "Παραμονή"
+      ],
+      "Stop sharing": [
+        "Διακοπή κοινής χρήσης"
+      ],
+      "Stop transfers": [
+        "Διακοπή μεταφορών"
+      ],
+      "Submit": [
+        "Υποβολή"
+      ],
+      "Submit report": [
+        "Υποβολή αναφοράς"
+      ],
+      "Theme": [
+        "Θέμα"
+      ],
+      "Trust": [
+        "Αξιόπιστο"
+      ],
+      "Try another method": [
+        "Δοκιμάστε μια άλλη μέθοδο"
+      ],
+      "Undo": [
+        "Αναίρεση"
+      ],
+      "Unlock data": [
+        "Ξεκλείδωμα δεδομένων"
+      ],
+      "Unmark for deletion": [
+        "Κατάργηση σήμανσης για διαγραφή"
+      ],
+      "Untrust": [
+        "Μη αξιόπιστο"
+      ],
+      "Update recovery file": [
+        "Ενημέρωση αρχείου ανάκτησης"
+      ],
+      "Update recovery phrase": [
+        "Ενημέρωση φράσης ανάκτησης"
+      ],
+      "Upgrade": [
+        "Αναβάθμιση"
+      ],
+      "Upload anyway": [
+        "Ανέβασμα οπωσδήποτε"
+      ],
+      "Upload file": [
+        "Ανέβασμα αρχείου"
+      ],
+      "Upload folder": [
+        "Ανέβασμα φακέλου"
+      ],
+      "Upload picture": [
+        "Ανέβασμα εικόνας"
+      ],
+      "Use ${ label } theme": [
+        "Χρήση ${ label } θέματος"
+      ],
+      "Use for sending": [
+        "Χρήση για αποστολή"
+      ],
+      "Use recovery code": [
+        "Χρησιμοποιήστε κωδικό ανάκτησης"
+      ],
+      "Verify": [
+        "Επαλήθευση"
+      ],
+      "Verify account": [
+        "Επαλήθευση λογαριασμού"
+      ],
+      "View": [
+        "Προβολή"
+      ],
+      "View invoice": [
+        "Προβολή τιμολογίου"
+      ],
+      "Zoom in": [
+        "Μεγέθυνση"
+      ],
+      "Zoom out": [
+        "Σμίκρυνση"
+      ]
+    },
+    "Actions message": {
+      "${ addContact } or ${ importContact }.": [
+        "${ addContact } ή ${ importContact }."
+      ],
+      "No results found.": [
+        "Δεν βρέθηκαν αποτελέσματα."
+      ],
+      "Please try another search term.": [
+        "Παρακαλώ δοκιμάστε έναν άλλο όρο αναζήτησης."
+      ],
+      "You don't have any contacts.": [
+        "Δεν έχετε επαφές."
+      ],
+      "You don't have any groups.": [
+        "Δεν έχετε καμία ομάδα."
+      ]
+    },
+    "Alert": {
+      "By leaving now, some contacts may not be imported": [
+        "Φεύγοντας τώρα, κάποιες επαφές ενδέχεται να μην εισαχθούν"
+      ],
+      "By leaving now, some events may not be imported": [
+        "Φεύγοντας τώρα, κάποια γεγονότα μπορεί να μην εισαχθούν"
+      ]
+    },
+    "Attached ics file error": {
+      "Empty ICS file": [
+        "Άδειο αρχείο ICS"
+      ],
+      "Invalid event": [
+        "Μη έγκυρη εκδήλωση"
+      ],
+      "Invalid ICS file": [
+        "Μη έγκυρο αρχείο ICS"
+      ],
+      "Invalid method": [
+        "Μη έγκυρη μέθοδος"
+      ],
+      "Unsupported calendar component": [
+        "Μη υποστηριζόμενο συνθετικό ημερολογίου"
+      ],
+      "Unsupported event": [
+        "Μη υποστηριζόμενη εκδήλωση"
+      ]
+    },
+    "Beta access description": {
+      "If you encounter issues, you can always disable Beta Access.": [
+        "Εάν αντιμετωπίσετε προβλήματα, μπορείτε πάντα να απενεργοποιήσετε την Πρόσβαση Beta."
+      ]
+    },
+    "Bug category": {
+      "Application problem": [
+        "Πρόβλημα εφαρμογής"
+      ],
+      "Bridge problem": [
+        "Πρόβλημα Bridge"
+      ],
+      "Calendar problem": [
+        "Πρόβλημα ημερολογίου"
+      ],
+      "Connection problem": [
+        "Πρόβλημα σύνδεσης"
+      ],
+      "Contacts problem": [
+        "Πρόβλημα επαφών"
+      ],
+      "Custom domain problem": [
+        "Πρόβλημα προσαρμοσμένου τομέα"
+      ],
+      "Drive problem": [
+        "Πρόβλημα Drive"
+      ],
+      "Feature request": [
+        "Αίτημα μελλοντικού χαρακτηριστικού"
+      ],
+      "Import / export problem": [
+        "Πρόβλημα εισαγωγής / εξαγωγής"
+      ],
+      "Installation problem": [
+        "Πρόβλημα εγκατάστασης"
+      ],
+      "Mail problem": [
+        "Πρόβλημα αλληλογραφίας"
+      ],
+      "Manual setup problem": [
+        "Πρόβλημα χειροκίνητης ρύθμισης"
+      ],
+      "Other": [
+        "Άλλο"
+      ],
+      "Payments problem": [
+        "Πρόβλημα πληρωμής"
+      ],
+      "Sign in problem": [
+        "Πρόβλημα σύνδεσης"
+      ],
+      "Sign up problem": [
+        "Πρόβλημα εγγραφής"
+      ],
+      "Signup problem": [
+        "Πρόβλημα εγγραφής"
+      ],
+      "Slow speed problem": [
+        "Πρόβλημα αργής ταχύτητας"
+      ],
+      "Speed problem": [
+        "Πρόβλημα ταχύτητας"
+      ],
+      "Streaming problem": [
+        "Πρόβλημα μετάδοσης"
+      ],
+      "Update problem": [
+        "Πρόβλημα αναβάθμισης"
+      ],
+      "VPN problem": [
+        "Πρόβλημα VPN"
+      ],
+      "Website access problem": [
+        "Πρόβλημα πρόσβασης ιστοσελίδας"
+      ]
+    },
+    "Calendar status": {
+      "Not synced": [
+        "Δεν συγχρονίστηκαν"
+      ],
+      "Syncing": [
+        "Συχρονισμός"
+      ]
+    },
+    "Calendar subscription not synced error": {
+      "Calendar could not be decrypted": [
+        "Αδυναμία αποκρυπτογράφησης ημερολογίου"
+      ],
+      "Calendar is syncing": [
+        "Το ημερολόγιο συγχρονίζεται"
+      ],
+      "Calendar is too big": [
+        "Υπερβολικά μεγάλο ημερολόγιο"
+      ],
+      "Calendar link is not accessible": [
+        "Ο σύνδεσμος του ημερολογίου είναι μη προσβάσιμος"
+      ],
+      "Calendar link is temporarily inaccessible": [
+        "Ο σύνδεσμος του ημερολογίου είναι προσωρινά μη προσβάσιμος"
+      ],
+      "Failed to sync calendar": [
+        "Αποτυχία συγχρονισμού ημερολογίου"
+      ],
+      "More than 12 hours passed since last update": [
+        "Πέρασαν πάνω από 12 ώρες από την τελευταία ανανέωση"
+      ],
+      "Unsupported calendar format": [
+        "Μη υποστηριζόμενη μορφή ημερολογίου"
+      ]
+    },
+    "color": {
+      "carrot": [
+        "καρότο"
+      ],
+      "cerise": [
+        "κεράσι"
+      ],
+      "cobalt": [
+        "κοβάλτιο"
+      ],
+      "copper": [
+        "χαλκός"
+      ],
+      "fern": [
+        "φτέρη"
+      ],
+      "forest": [
+        "δάσος"
+      ],
+      "ocean": [
+        "ωκεανός"
+      ],
+      "olive": [
+        "λαδί"
+      ],
+      "pacific": [
+        "Ειρηνικός"
+      ],
+      "pickle": [
+        "τουρσί"
+      ],
+      "pine": [
+        "πεύκο"
+      ],
+      "pink": [
+        "ροζ"
+      ],
+      "plum": [
+        "δαμάσκηνο"
+      ],
+      "purple": [
+        "μοβ"
+      ],
+      "reef": [
+        "ύφαλος"
+      ],
+      "sahara": [
+        "Σαχάρα"
+      ],
+      "slateblue": [
+        "μπλε ροζέ"
+      ],
+      "soil": [
+        "χώμα"
+      ],
+      "strawberry": [
+        "φράουλα"
+      ]
+    },
+    "Confirm modal title": {
+      "Quit import customization?": [
+        "Ακύρωση προσαρμογής εισαγωγής;"
+      ],
+      "Quit import?": [
+        "Ακύρωση εισαγωγής;"
+      ]
+    },
+    "Contact field label": {
+      "Address": [
+        "Διεύθυνση"
+      ],
+      "Anniversary": [
+        "Επέτειος"
+      ],
+      "Birthday": [
+        "Γενέθλια"
+      ],
+      "Email": [
+        "Email"
+      ],
+      "Gender": [
+        "Φύλο"
+      ],
+      "Geo": [
+        "Γεωγραφικό"
+      ],
+      "Language": [
+        "Γλώσσα"
+      ],
+      "Logo": [
+        "Λογότυπο"
+      ],
+      "Member": [
+        "Μέλος"
+      ],
+      "Name": [
+        "Όνομα"
+      ],
+      "Note": [
+        "Σημείωση"
+      ],
+      "Organization": [
+        "Οργανισμός"
+      ],
+      "Phone": [
+        "Τηλέφωνο"
+      ],
+      "Photo": [
+        "Φωτογραφία"
+      ],
+      "Role": [
+        "Ρόλος"
+      ],
+      "Timezone": [
+        "Ζώνη ώρας"
+      ],
+      "Title": [
+        "Τίτλος"
+      ],
+      "URL": [
+        "URL"
+      ]
+    },
+    "Contact type label": {
+      "Fax": [
+        "Φαξ"
+      ],
+      "Main": [
+        "Κύριο"
+      ],
+      "Mobile": [
+        "Κινητό"
+      ],
+      "Other": [
+        "Άλλο"
+      ],
+      "Pager": [
+        "Βομβητής"
+      ],
+      "Personal": [
+        "Προσωπικό"
+      ],
+      "Work": [
+        "Εργασία"
+      ],
+      "Yomi": [
+        "Ανάγνωση"
+      ]
+    },
+    "Country name": {
+      "Abkhazia": [
+        "Αμπχαζία"
+      ],
+      "Afghanistan": [
+        "Αφγανιστάν"
+      ],
+      "Albania": [
+        "Αλβανία"
+      ],
+      "Algeria": [
+        "Αλγερία"
+      ],
+      "American Samoa": [
+        "Αμερικανική Σαμόα"
+      ],
+      "Andorra": [
+        "Ανδόρα"
+      ],
+      "Angola": [
+        "Αγκόλα"
+      ],
+      "Anguilla": [
+        "Ανγκουίλα"
+      ],
+      "Antarctica": [
+        "Ανταρκτική"
+      ],
+      "Antigua and Barbuda": [
+        "Αντίγκουα και Μπαρμπούντα"
+      ],
+      "Argentina": [
+        "Αργεντινή"
+      ],
+      "Armenia": [
+        "Αρμενία"
+      ],
+      "Aruba": [
+        "Αρούμπα"
+      ],
+      "Ascension Island": [
+        "Νήσος Αναλήψεως"
+      ],
+      "Australia": [
+        "Αυστραλία"
+      ],
+      "Austria": [
+        "Αυστρία"
+      ],
+      "Azerbaijan": [
+        "Αζερμπαϊτζάν"
+      ],
+      "Bahamas": [
+        "Μπαχάμες"
+      ],
+      "Bahrain": [
+        "Μπαχρέιν"
+      ],
+      "Bangladesh": [
+        "Μπαγκλαντές"
+      ],
+      "Barbados": [
+        "Μπαρμπάντος"
+      ],
+      "Belarus": [
+        "Λευκορωσία"
+      ],
+      "Belgium": [
+        "Βέλγιο"
+      ],
+      "Belize": [
+        "Μπελίζ"
+      ],
+      "Benin": [
+        "Μπενίν"
+      ],
+      "Bermuda": [
+        "Βερμούδες"
+      ],
+      "Bhutan": [
+        "Μπουτάν"
+      ],
+      "Bolivia": [
+        "Βολιβία"
+      ],
+      "Bosnia and Herzegovina": [
+        "Βοσνία Ερζεγοβίνη"
+      ],
+      "Botswana": [
+        "Μποτσουάνα"
+      ],
+      "Bouvet Island": [
+        "Μπουβέ"
+      ],
+      "Brazil": [
+        "Βραζιλία"
+      ],
+      "Brunei Darussalam": [
+        "Μπρουνέι"
+      ],
+      "Bulgaria": [
+        "Βουλγαρία"
+      ],
+      "Burkina Faso": [
+        "Μπουρκίνα Φάσο"
+      ],
+      "Burundi": [
+        "Μπουρούντι"
+      ],
+      "Cambodia": [
+        "Καμπότζη"
+      ],
+      "Cameroon": [
+        "Καμερούν"
+      ],
+      "Canada": [
+        "Καναδάς"
+      ],
+      "Cape Verde": [
+        "Πράσινο Ακρωτήριo"
+      ],
+      "Cayman Islands": [
+        "Νήσοι Κέιμαν"
+      ],
+      "Central African Republic": [
+        "Κεντροαφρικανική Δημοκρατία"
+      ],
+      "Chad": [
+        "Τσαντ"
+      ],
+      "Chile": [
+        "Χιλή"
+      ],
+      "China": [
+        "Κίνα"
+      ],
+      "Christmas Island": [
+        "Νήσος Χριστουγέννων"
+      ],
+      "Cocos (Keeling) Islands": [
+        "Νήσοι Κόκος"
+      ],
+      "Colombia": [
+        "Κολομβία"
+      ],
+      "Comoros": [
+        "Κομόρες"
+      ],
+      "Congo": [
+        "Κογκό"
+      ],
+      "Cook Islands": [
+        "Νήσοι Κουκ"
+      ],
+      "Costa Rica": [
+        "Κόστα Ρίκα"
+      ],
+      "Croatia": [
+        "Κροατία"
+      ],
+      "Cuba": [
+        "Κούβα"
+      ],
+      "Curaçao": [
+        "Κουρασάο"
+      ],
+      "Cyprus": [
+        "Κύπρος"
+      ],
+      "Czech Republic": [
+        "Τσεχία"
+      ],
+      "Denmark": [
+        "Δανία"
+      ],
+      "Djibouti": [
+        "Τζιμπουτί"
+      ],
+      "Dominica": [
+        "Δομινίκα"
+      ],
+      "Dominican Republic": [
+        "Δομινικανή Δημοκρατία"
+      ],
+      "Ecuador": [
+        "Ισημερινός"
+      ],
+      "Egypt": [
+        "Αίγυπτος"
+      ],
+      "El Salvador": [
+        "Ελ Σαλβαδόρ"
+      ],
+      "Equatorial Guinea": [
+        "Ισημερινή Γουινέα"
+      ],
+      "Eritrea": [
+        "Ερυθραία"
+      ],
+      "Estonia": [
+        "Εσθονία"
+      ],
+      "Ethiopia": [
+        "Αιθιοπία"
+      ],
+      "Falkland Islands": [
+        "Νήσοι Φόκλαντ"
+      ],
+      "Faroe Islands": [
+        "Φερόες"
+      ],
+      "Fiji": [
+        "Φίτζι"
+      ],
+      "Finland": [
+        "Φινλανδία"
+      ],
+      "France": [
+        "Γαλλία"
+      ],
+      "French Guiana": [
+        "Γαλλική Γουιάνα"
+      ],
+      "French Polynesia": [
+        "Γαλλική Πολυνησία"
+      ],
+      "Gabon": [
+        "Γκαμπόν"
+      ],
+      "Gambia": [
+        "Γκάμπια"
+      ],
+      "Georgia": [
+        "Γεωργία"
+      ],
+      "Germany": [
+        "Γερμανία"
+      ],
+      "Ghana": [
+        "Γκάνα"
+      ],
+      "Gibraltar": [
+        "Γιβραλτάρ"
+      ],
+      "Greece": [
+        "Ελλάδα"
+      ],
+      "Greenland": [
+        "Γροιλανδία"
+      ],
+      "Grenada": [
+        "Γρενάδα"
+      ],
+      "Guadeloupe": [
+        "Γουαδελούπη"
+      ],
+      "Guam": [
+        "Γκουάμ"
+      ],
+      "Guatemala": [
+        "Γουατεμάλα"
+      ],
+      "Guinea": [
+        "Γουινέα"
+      ],
+      "Guinea-Bissau": [
+        "Γουινέα-Μπισάου"
+      ],
+      "Guyana": [
+        "Γουιάνα"
+      ],
+      "Haiti": [
+        "Αϊτή"
+      ],
+      "Holy See (Vatican City State)": [
+        "Βατικανό"
+      ],
+      "Honduras": [
+        "Ονδούρα"
+      ],
+      "Hong Kong": [
+        "Χονγκ Κονγκ"
+      ],
+      "Hungary": [
+        "Ουγγαρία"
+      ],
+      "Iceland": [
+        "Ισλανδία"
+      ],
+      "India": [
+        "Ινδία"
+      ],
+      "Indonesia": [
+        "Ινδονησία"
+      ],
+      "International": [
+        "Διεθνές"
+      ],
+      "Iran": [
+        "Ιράν"
+      ],
+      "Iraq": [
+        "Ιράκ"
+      ],
+      "Ireland": [
+        "Ιρλανδία"
+      ],
+      "Isle of Man": [
+        "Νήσος Μαν"
+      ],
+      "Israel": [
+        "Ισραήλ"
+      ],
+      "Italy": [
+        "Ιταλία"
+      ],
+      "Jamaica": [
+        "Τζαμάικα"
+      ],
+      "Japan": [
+        "Ιαπωνία"
+      ],
+      "Jordan": [
+        "Ιορδανία"
+      ],
+      "Kazakhstan": [
+        "Καζακστάν"
+      ],
+      "Kenya": [
+        "Κένυα"
+      ],
+      "Kiribati": [
+        "Κιριμπάτι"
+      ],
+      "Kosovo": [
+        "Κόσοβο"
+      ],
+      "Kuwait": [
+        "Κουβέιτ"
+      ],
+      "Kyrgyzstan": [
+        "Κιργιστάν"
+      ],
+      "Laos": [
+        "Λάος"
+      ],
+      "Latvia": [
+        "Λετονία"
+      ],
+      "Lebanon": [
+        "Λίβανος"
+      ],
+      "Lesotho": [
+        "Λεσότο"
+      ],
+      "Liberia": [
+        "Λιβερία"
+      ],
+      "Libya": [
+        "Λιβύη"
+      ],
+      "Liechtenstein": [
+        "Λιχτενστάιν"
+      ],
+      "Lithuania": [
+        "Λιθουανία"
+      ],
+      "Luxembourg": [
+        "Λουξεμβούργο"
+      ],
+      "Macao": [
+        "Μακάο"
+      ],
+      "Madagascar": [
+        "Μαδαγασκάρη"
+      ],
+      "Malawi": [
+        "Μαλάουι"
+      ],
+      "Malaysia": [
+        "Μαλαισία"
+      ],
+      "Maldives": [
+        "Μαλδίβες"
+      ],
+      "Mali": [
+        "Μάλι"
+      ],
+      "Malta": [
+        "Μάλτα"
+      ],
+      "Marshall Islands": [
+        "Νήσοι Μάρσαλ"
+      ],
+      "Martinique": [
+        "Μαρτινίκα"
+      ],
+      "Mauritania": [
+        "Μαυριτανία"
+      ],
+      "Mauritius": [
+        "Μαυρίκιος"
+      ],
+      "Mayotte": [
+        "Μαγιότ"
+      ],
+      "Mexico": [
+        "Μεξικό"
+      ],
+      "Moldova": [
+        "Μολδαβία"
+      ],
+      "Monaco": [
+        "Μονακό"
+      ],
+      "Mongolia": [
+        "Μογγολία"
+      ],
+      "Montenegro": [
+        "Μαυροβούνιο"
+      ],
+      "Montserrat": [
+        "Μονσεράτ"
+      ],
+      "Morocco": [
+        "Μαρόκο"
+      ],
+      "Mozambique": [
+        "Μοζαμβίκη"
+      ],
+      "Namibia": [
+        "Ναμίμπια"
+      ],
+      "Nauru": [
+        "Ναούρου"
+      ],
+      "Nepal": [
+        "Νεπάλ"
+      ],
+      "Netherlands": [
+        "Ολλανδία"
+      ],
+      "New Caledonia": [
+        "Νέα Καληδονία"
+      ],
+      "New Zealand": [
+        "Νέα Ζηλανδία"
+      ],
+      "Nicaragua": [
+        "Νικαράγουα"
+      ],
+      "Niger": [
+        "Νίγηρας"
+      ],
+      "Nigeria": [
+        "Νιγηρία"
+      ],
+      "Niue": [
+        "Νιούε"
+      ],
+      "Norfolk Island": [
+        "Νήσος Νόρφολκ"
+      ],
+      "North Korea": [
+        "Βόρεια Κορέα"
+      ],
+      "North Macedonia": [
+        "Σκόπια"
+      ],
+      "Northern Mariana Islands": [
+        "Βόρειες Μαριάνες"
+      ],
+      "Norway": [
+        "Νορβηγία"
+      ],
+      "Oman": [
+        "Ομάν"
+      ],
+      "Pakistan": [
+        "Πακιστάν"
+      ],
+      "Palau": [
+        "Παλάου"
+      ],
+      "Palestine": [
+        "Παλαιστίνη"
+      ],
+      "Panama": [
+        "Παναμάς"
+      ],
+      "Papua New Guinea": [
+        "Παπούα Νέα Γουινέα"
+      ],
+      "Paraguay": [
+        "Παραγουάη"
+      ],
+      "Peru": [
+        "Περού"
+      ],
+      "Philippines": [
+        "Φιλιππίνες"
+      ],
+      "Pitcairn": [
+        "Πίτκαιρν"
+      ],
+      "Poland": [
+        "Πολωνία"
+      ],
+      "Portugal": [
+        "Πορτογαλία"
+      ],
+      "Puerto Rico": [
+        "Πουέρτο Ρίκο"
+      ],
+      "Qatar": [
+        "Κατάρ"
+      ],
+      "Reunion": [
+        "Ρεϋνιόν"
+      ],
+      "Romania": [
+        "Ρουμανία"
+      ],
+      "Russia": [
+        "Ρωσία"
+      ],
+      "Rwanda": [
+        "Ρουάντα"
+      ],
+      "Saint Barthélemy": [
+        "Άγιος Βαρθολομαίος"
+      ],
+      "Saint Helena": [
+        "Αγία Ελένη"
+      ],
+      "Saint Kitts and Nevis": [
+        "Άγιος Χριστόφορος"
+      ],
+      "Saint Lucia": [
+        "Αγία Λουκία"
+      ],
+      "Saint Martin (French Part)": [
+        "Άγιος Μαρτίνος (Γαλλικό τμήμα)"
+      ],
+      "Saint Pierre and Miquelon": [
+        "Άγιος Πέτρος Μικελόν"
+      ],
+      "Saint Vincent and the Grenadines": [
+        "Άγιος Βικέντιος"
+      ],
+      "Samoa": [
+        "Σαμόα"
+      ],
+      "San Marino": [
+        "Άγιος Μαρίνος"
+      ],
+      "Sao Tome and Principe": [
+        "Άγιος Θωμάς"
+      ],
+      "Saudi Arabia": [
+        "Σαουδική Αραβία"
+      ],
+      "Senegal": [
+        "Σενεγάλη"
+      ],
+      "Serbia": [
+        "Σερβία"
+      ],
+      "Seychelles": [
+        "Σεϊχέλες"
+      ],
+      "Sierra Leone": [
+        "Σιέρα Λεόνε"
+      ],
+      "Singapore": [
+        "Σιγκαπούρη"
+      ],
+      "Sint Maarten": [
+        "Άγιος Μαρτίνος"
+      ],
+      "Slovakia": [
+        "Σλοβακία"
+      ],
+      "Slovenia": [
+        "Σλοβενία"
+      ],
+      "Solomon Islands": [
+        "Νήσοι Σολομώντος"
+      ],
+      "Somalia": [
+        "Σομαλία"
+      ],
+      "South Africa": [
+        "Νότια Αφρική"
+      ],
+      "South Korea": [
+        "Νότια Κορέα"
+      ],
+      "South Ossetia": [
+        "Νότια Οσετία"
+      ],
+      "South Sudan": [
+        "Νότιο Σουδάν"
+      ],
+      "Spain": [
+        "Ισπανία"
+      ],
+      "Sri Lanka": [
+        "Σρι Λάνκα"
+      ],
+      "Sudan": [
+        "Σουδάν"
+      ],
+      "Suriname": [
+        "Σουρινάμ"
+      ],
+      "Svalbard and Jan Mayen": [
+        "Σβάλμπαρντ"
+      ],
+      "Sweden": [
+        "Σουηδία"
+      ],
+      "Switzerland": [
+        "Ελβετία"
+      ],
+      "Syria": [
+        "Συρία"
+      ],
+      "Taiwan": [
+        "Ταϊβάν"
+      ],
+      "Tajikistan": [
+        "Τατζικιστάν"
+      ],
+      "Tanzania": [
+        "Τανζανία"
+      ],
+      "Thailand": [
+        "Ταϊλάνδη"
+      ],
+      "Timor-Leste": [
+        "Ανατολικό Τιμόρ"
+      ],
+      "Togo": [
+        "Τόγκο"
+      ],
+      "Tokelau": [
+        "Τοκελάου"
+      ],
+      "Tonga": [
+        "Τόνγκα"
+      ],
+      "Trinidad and Tobago": [
+        "Τρινιντάντ"
+      ],
+      "Tristan da Cunha": [
+        "Τριστάν ντα Κούνια"
+      ],
+      "Tunisia": [
+        "Τυνησία"
+      ],
+      "Turkey": [
+        "Τουρκία"
+      ],
+      "Turkmenistan": [
+        "Τουρκμενιστάν"
+      ],
+      "Turks and Caicos Islands": [
+        "Νήσοι Τερκς και Κάικος"
+      ],
+      "Tuvalu": [
+        "Τουβαλού"
+      ],
+      "Uganda": [
+        "Ουγκάντα"
+      ],
+      "Ukraine": [
+        "Ουκρανία"
+      ],
+      "United Arab Emirates": [
+        "Ηνωμένα Αραβικά Εμιράτα"
+      ],
+      "United Kingdom": [
+        "Ηνωμένο Βασίλειο"
+      ],
+      "United States": [
+        "Ηνωμένες Πολιτείες"
+      ],
+      "Uruguay": [
+        "Ουρουγουάη"
+      ],
+      "Uzbekistan": [
+        "Ουζμπεκιστάν"
+      ],
+      "Vanuatu": [
+        "Βανουάτου"
+      ],
+      "Venezuela": [
+        "Βενεζουέλα"
+      ],
+      "Vietnam": [
+        "Βιετνάμ"
+      ],
+      "Virgin Islands, British": [
+        "Βρετανικές Παρθένες Νήσοι"
+      ],
+      "Virgin Islands, U.S.": [
+        "Αμερικανικές Παρθένες Νήσοι"
+      ],
+      "Western Sahara": [
+        "Δυτική Σαχάρα"
+      ],
+      "Yemen": [
+        "Υεμένη"
+      ],
+      "Zambia": [
+        "Ζάμπια"
+      ],
+      "Zimbabwe": [
+        "Ζιμπάμπουε"
+      ],
+      "Åland Islands": [
+        "Νήσοι Άλαντ"
+      ]
+    },
+    "Default display name vcard": {
+      "Unknown": [
+        "Άγνωστο"
+      ]
+    },
+    "Default encryption scheme": {
+      "Use global default (${ defaultValueText })": [
+        "Χρήση γενικής προεπιλογής (${ defaultValueText })"
+      ]
+    },
+    "Delinquent modal title": {
+      "Overdue invoice": [
+        "Καθυστερημένο τιμολόγιο"
+      ]
+    },
+    "Description": {
+      "Deleting contacts... This may take a few minutes. When the process is completed, you can close this modal.": [
+        "Γίνεται διαγραφή επαφών... Αυτή η διαδικασία ίσως πάρει μερικά λεπτά. Όταν ολοκληρωθεί, μπορείτε να κλείσετε αυτό το παράθυρο."
+      ],
+      "Encrypting and importing contacts... This may take a few minutes. When the process is completed, you can close this modal.": [
+        "Γίνεται κρυπτογράφηση και εισαγωγή επαφών... Αυτή η διαδικασία ίσως πάρει μερικά λεπτά. Όταν ολοκληρωθεί, μπορείτε να κλείσετε αυτό το παράθυρο."
+      ],
+      "It looks like the contact list you are importing contains some groups. Please review how these groups should be imported.": [
+        "Φαίνεται ότι η λίστα επαφών που εισάγετε περιέχει κάποιες ομάδες. Παρακαλούμε εξετάστε τον τρόπο εισαγωγής αυτών των ομάδων."
+      ],
+      "Merging contacts... This may take a few minutes. When the process is completed, you can close this modal.": [
+        "Γίνεται συγχώνευση επαφών... Αυτή η διαδικασία ίσως πάρει μερικά λεπτά. Όταν ολοκληρωθεί, μπορείτε να κλείσετε αυτό το παράθυρο."
+      ],
+      "Use Drag and Drop to rank merging priority between contacts. Uncheck the contacts you do not want to merge.": [
+        "Χρησιμοποιήστε την επιλογή \"Drag and Drop\" για να ταξινομήσετε τη προτεραιότητα συγχώνευσης μεταξύ των επαφών. Καταργήστε την επιλογή των επαφών που δεν θέλετε να συγχωνεύσετε."
+      ],
+      "You can import events in iCal format (ICS file). The file should have a maximum size of ${ MAX_IMPORT_FILE_SIZE_STRING } and have up to ${ MAX_IMPORT_EVENTS_STRING } events. If your file is bigger, please split it into smaller files.": [
+        "Μπορείτε να εισάγετε γεγονότα σε μορφή iCal (ICS αρχείο).\nΤο αρχείο θα πρέπει να έχει μέγιστο μέγεθος ${ MAX_IMPORT_FILE_SIZE_STRING } και να έχει μέχρι ${ MAX_IMPORT_EVENTS_STRING } γεγονότα.\nΑν το αρχείο σας είναι μεγαλύτερο, παρακαλούμε να το χωρίσετε σε μικρότερα αρχεία."
+      ],
+      "You can mark for deletion the contacts that you do not want neither to merge nor to keep. Deletion will only take place after the merge button is clicked": [
+        "Μπορείτε να επισημάνετε για διαγραφή τις επαφές που δεν θέλετε να συγχωνεύσετε ούτε να διατηρήσετε. Η διαγραφή θα πραγματοποιηθεί μόνο αφού πατηθεί το κουμπί συγχώνευσης"
+      ]
+    },
+    "Description of the purpose of the import CSV modal": {
+      "Also, we have automatically matched CSV fields with vCard fields. You can review and change this matching manually.": [
+        "Επίσης, έχουμε αντιστοιχίσει αυτόματα τα πεδία CSV με πεδία vCard. Μπορείτε να ελέγξετε και να αλλάξετε αυτήν την αντιστοίχιση με μη αυτόματο τρόπο."
+      ],
+      "We have detected the following fields in the CSV file you uploaded. Check the ones you want to import.": [
+        "Έχουμε εντοπίσει τα ακόλουθα πεδία στο αρχείο CSV που μεταφορτώσατε. Επιλέξτε αυτά που θέλετε να εισάγετε."
+      ]
+    },
+    "Early Access Disabled": {
+      "Off": [
+        "Ανενεργό"
+      ]
+    },
+    "Early Access Enabled": {
+      "On": [
+        "Ενεργό"
+      ]
+    },
+    "Email body for description (description part)": {
+      "Description: ${ eventDescription }": [
+        "Περιγραφή: ${ eventDescription }"
+      ]
+    },
+    "Email body for invitation": {
+      "${ eventTitle } has been canceled.": [
+        "Το ${ eventTitle } έχει ακυρωθεί."
+      ],
+      "${ eventTitle } has been updated.\n${ eventDetailsText }": [
+        "${ eventTitle } έχει ενημερωθεί.\n${ eventDetailsText }"
+      ],
+      "You are invited to ${ eventTitle }\n${ eventDetailsText }": [
+        "Σας προσκαλούμε σε ${ eventTitle }\n${ eventDetailsText }"
+      ]
+    },
+    "Email body for invitation (date part)": {
+      "When: ${ formattedStart }": [
+        "Πότε: ${ formattedStart }"
+      ],
+      "When: ${ formattedStart } (all day)": [
+        "Πότε: ${ formattedStart } (όλη την ημέρα)"
+      ],
+      "When: ${ formattedStart } - ${ formattedEnd }": [
+        "Πότε: ${ formattedStart } - ${ formattedEnd }"
+      ]
+    },
+    "Email body for invitation (location part)": {
+      "Where: ${ eventLocation }": [
+        "Πού: ${ eventLocation }"
+      ]
+    },
+    "Email body for response to invitation": {
+      "${ emailAddress } has accepted your invitation to ${ eventTitle }": [
+        "${ emailAddress } έχει αποδεχθεί την πρόσκληση σας στο ${ eventTitle }"
+      ],
+      "${ emailAddress } has declined your invitation to ${ eventTitle }": [
+        "${ emailAddress } έχει απορρίψει την πρόσκληση σας στο ${ eventTitle }"
+      ],
+      "${ emailAddress } has tentatively accepted your invitation to ${ eventTitle }": [
+        "${ emailAddress } έχει αποδεχτεί προσωρινά την πρόσκληση σας στο ${ eventTitle }"
+      ]
+    },
+    "Email subject": {
+      "Cancellation of an event on ${ formattedStart }": [
+        "Ακύρωση μιας εκδήλωσης στις ${ formattedStart }"
+      ],
+      "Cancellation of an event starting on ${ formattedStart }": [
+        "Ακύρωση μιας εκδήλωσης ξεκινώντας από ${ formattedStart }"
+      ],
+      "Invitation for an event on ${ formattedStart }": [
+        "Πρόσκληση για μια εκδήλωση στις ${ formattedStart }"
+      ],
+      "Invitation for an event starting on ${ formattedStart }": [
+        "Πρόσκληση για μια εκδήλωση που αρχίζει στις ${ formattedStart }"
+      ],
+      "Update for an event on ${ formattedStart }": [
+        "Ενημέρωση για μια εκδήλωση στις ${ formattedStart }"
+      ],
+      "Update for an event starting on ${ formattedStart }": [
+        "Ενημέρωση για ένα γεγονός που αρχίζει στις ${ formattedStart }"
+      ]
+    },
+    "Error": {
+      "A group with this name already exists": [
+        "Υπάρχει ήδη μια ομάδα με αυτό το όνομα"
+      ],
+      "Address primary private key not found": [
+        "Δεν βρέθηκε πρωτεύον ιδιωτικό κλειδί διεύθυνσης"
+      ],
+      "Authentication canceled.": [
+        "Ο έλεγχος ταυτότητας ακυρώθηκε."
+      ],
+      "Authentication error.": [
+        "Σφάλμα ταυτοποίησης."
+      ],
+      "Calendar limit reached": [
+        "Εξάντληση ορίου ημερολογίων"
+      ],
+      "Contact could not be saved": [
+        "Η αποθήκευση της επαφής απέτυχε"
+      ],
+      "Contact signature not verified": [
+        "Η υπογραφή επαφής δεν πιστοποιήθηκε"
+      ],
+      "Content search cannot be enabled in this browser. Please quit private browsing mode or use another browser.": [
+        "Η αναζήτηση περιεχομένου δεν γίνεται να ενεργοποιηθεί σε αυτόν τον περιηγητή. Παρακαλούμε τερματίστε τη λειτουργία ιδιωτικής περιήγησης ή χρησιμοποιήστε έναν άλλον περιηγητή."
+      ],
+      "Deselect at least ${ calendarToFixCount } calendar": [
+        "Αποεπιλέξτε τουλάχιστον ${ calendarToFixCount } ημερολόγιο",
+        "Αποεπιλέξτε τουλάχιστον ${ calendarToFixCount } ημερολόγια"
+      ],
+      "Deselect at least ${ calendarToFixCount } calendar or": [
+        "Αποεπιλέξτε τουλάχιστον ${ calendarToFixCount } ημερολόγιο ή",
+        "Αποεπιλέξτε τουλάχιστον ${ calendarToFixCount } ημερολόγια ή"
+      ],
+      "Email address invalid": [
+        "Η διεύθυνση E-mail δεν είναι έγκυρη"
+      ],
+      "Email is not valid": [
+        "Η διεύθυνση email δεν είναι έγκυρη"
+      ],
+      "Enter 6 digits": [
+        "Εισάγετε 6 ψηφία"
+      ],
+      "File \"${ item.name }\" cannot be uploaded due to \"${ error }\" error": [
+        "Αδυναμία ανεβάσματος αρχείου \"${ item.name }\", λόγω σφάλματος \"${ error }\""
+      ],
+      "File \"${ name }\" is already downloading": [
+        "Το αρχείο \"${ name }\" κατεβαίνει ήδη"
+      ],
+      "File cannot be merged with folder": [
+        "Ένα αρχείο δεν γίνεται να συγχωνευθεί με φάκελο"
+      ],
+      "File selection is already downloading": [
+        "Τα επιλεγμένα αρχεία κατεβαίνουν ήδη"
+      ],
+      "Folder \"${ name }\" is already downloading": [
+        "Ο φάκελος \"${ name }\" κατεβαίνει ήδη"
+      ],
+      "Folder name cannot be empty.": [
+        "Το όνομα φακέλου δεν γίνεται να είναι κενό."
+      ],
+      "Image upload failed": [
+        "Αποτυχία ανεβάσματος εικόνας"
+      ],
+      "Incorrect login credentials. Please try again.": [
+        "Λανθασμένα διαπιστευτήρια εισόδου. Παρακαλούμε δοκιμάστε ξανά."
+      ],
+      "Incorrect mailbox password. Please try again.": [
+        "Λανθασμένος κωδικός πρόσβασης θυρίδας. Παρακαλούμε δοκιμάστε ξανά."
+      ],
+      "Incorrect password. Please try again.": [
+        "Λανθασμένος κωδικός. Παρακαλούμε δοκιμάστε ξανά."
+      ],
+      "Invalid name": [
+        "Μη έγκυρο όνομα"
+      ],
+      "Invalid public key file": [
+        "Μη έγκυρο δημόσιο κλειδί (public key)"
+      ],
+      "Invalid verification code": [
+        "Μη έγκυρος κωδικός επαλήθευσης"
+      ],
+      "Label name cannot be empty.": [
+        "Το όνομα ετικέτας δεν γίνεται να είναι κενό."
+      ],
+      "Missing signature": [
+        "Λείπει η υπογραφή"
+      ],
+      "No valid address found": [
+        "Δεν βρέθηκε έγκυρη διεύθυνση"
+      ],
+      "Not a valid number": [
+        "Μη έγκυρος αριθμός"
+      ],
+      "One of the contacts has no email address: ${ noEmailsContactNamesList }": [
+        "Μία από τις επαφές δεν έχει διεύθυνση ηλεκτρονικού ταχυδρομείου: ${ noEmailsContactNamesList }",
+        "Ορισμένες επαφές δεν έχουν διεύθυνση ηλεκτρονικού ταχυδρομείου: ${ noEmailsContactNamesList }"
+      ],
+      "One of the groups has no contacts: ${ noContactGroupList }": [
+        "Μία από τις ομάδες δεν έχει επαφές: : ${ noContactGroupList }",
+        "Κάποιες ομάδες δεν έχουν επαφές: : ${ noContactGroupList }"
+      ],
+      "Passwords do not match": [
+        "Οι κωδικοί πρόσβασης δεν ταυτίζονται"
+      ],
+      "Please fix the highlighted conflict to proceed.": [
+        "Παρακαλούμε επιλύστε την τονισμένη διένεξη προς συνέχιση.",
+        "Παρακαλούμε επιλύστε τις τονισμένες διενέξεις προς συνέχιση."
+      ],
+      "Please try to reauthenticate and make sure the permissions are set correctly.": [
+        "Παρακαλούμε βεβαιωθείτε ότι τα δικαιώματα έχουν οριστεί σωστά και δοκιμάστε την ταυτοποίηση ξανά."
+      ],
+      "Primary address key is not decrypted": [
+        "Το κύριο κλειδί διεύθυνσης δεν αποκρυπτογραφείται"
+      ],
+      "Primary address key is not decrypted.": [
+        "Το κύριο κλειδί διεύθυνσης δεν αποκρυπτογραφείται."
+      ],
+      "Report failed to be sent": [
+        "Αποτυχία αποστολής αναφοράς"
+      ],
+      "Request timed out": [
+        "Λήξη χρονικού ορίου αιτήματος"
+      ],
+      "Search failed": [
+        "Αποτυχία αναζήτησης"
+      ],
+      "Signature not verified": [
+        "Υπογραφή δεν πιστοποιήθηκε"
+      ],
+      "Signature verification failed": [
+        "Η επαλήθευση υπογραφής απέτυχε"
+      ],
+      "Some contacts could not be deleted": [
+        "Ορισμένες επαφές δεν μπόρεσαν να διαγραφούν"
+      ],
+      "Some groups could not be deleted": [
+        "Αδυναμία διαγραφής κάποιων ομάδων"
+      ],
+      "Some of your folder names are unavailable. Please customize the import to edit these names.": [
+        "Ορισμένα από τα ονόματα φακέλων σας δεν είναι διαθέσιμα. Προσαρμόστε την εισαγωγή για να επεξεργαστείτε αυτά τα ονόματα."
+      ],
+      "Some of your folder names exceed ${ MAIL_APP_NAME }'s maximum character limit. Please customize the import to edit these names.": [
+        "Κάποια από τα ονόματα φακέλων σας υπερβαίνουν το μέγιστο όριο χαρακτήρων του ${ MAIL_APP_NAME }. Παρακαλούμε προσαρμόστε την εισαγωγή για να διορθώσετε αυτά τα ονόματα."
+      ],
+      "Some of your label names are unavailable. Please customize the import to edit these names.": [
+        "Ορισμένα από τα ονόματα ετικετών σας δεν είναι διαθέσιμα. Προσαρμόστε την εισαγωγή για να επεξεργαστείτε αυτά τα ονόματα."
+      ],
+      "Some of your label names exceed ${ MAIL_APP_NAME }'s maximum character limit. Please customize the import to edit these names.": [
+        "Κάποια από τα ονόματα ετικετών σας υπερβαίνουν το μέγιστο όριο χαρακτήρων του ${ MAIL_APP_NAME }. Παρακαλούμε προσαρμόστε την εισαγωγή για να διορθώσετε αυτά τα ονόματα."
+      ],
+      "Something went wrong, please ${ refresh } in order to proceed. If you still see this error message please contact our ${ supportTeam }.": [
+        "Κάτι πήγε στραβά, παρακαλούμε ${ refresh } για να προχωρήσετε. Εάν εξακολουθείτε να βλέπετε αυτό το μήνυμα σφάλματος, παρακαλούμε επικοινωνήστε με την ${ supportTeam }."
+      ],
+      "The folder name is invalid. Please choose a different name.": [
+        "Μη έγκυρο όνομα φακέλου. Παρακαλούμε δοκιμάστε ένα διαφορετικό."
+      ],
+      "The folder name is too long. Please choose a different name.": [
+        "Υπερβολικό μήκος ονόματος φακέλου. Παρακαλούμε δοκιμάστε ένα συντομότερο."
+      ],
+      "The label name is invalid. Please choose a different name.": [
+        "Μη έγκυρο όνομα ετικέτας. Παρακαλούμε δοκιμάστε ένα διαφορετικό."
+      ],
+      "The label name is too long. Please choose a different name.": [
+        "Υπερβολικό μήκος ονόματος ετικέτας. Παρακαλούμε δοκιμάστε ένα συντομότερο."
+      ],
+      "The new revision of original file is not uploaded yet, please try again later": [
+        "Η νέα αναθεώρηση του πρωτότυπου αρχείου δεν έχει μεταφορτωθεί ακόμα, παρακαλούμε δοκιμάστε αργότερα"
+      ],
+      "The original file has missing active revision": [
+        "Το πρωτότυπο αρχείο έχει ελλιπή ενεργή αναθεώρηση"
+      ],
+      "The original file has missing hash key": [
+        "Το πρωτότυπο αρχείο δεν έχει κλειδί κατακερματισμού"
+      ],
+      "The original file has missing session key": [
+        "Το πρωτότυπο αρχείο δεν έχει κλειδί συνεδρίας"
+      ],
+      "The original file is not uploaded yet, please try again later": [
+        "Το πρωτότυπο αρχείο δεν έχει ανέβει ακόμα, παρακαλούμε δοκιμάστε ξανά αργότερα"
+      ],
+      "The original folder not found": [
+        "Ο αρχικός φάκελος δε βρέθηκε"
+      ],
+      "The original folder or file not found": [
+        "Ο αρχικός φάκελος ή το αρχείο δε βρέθηκε"
+      ],
+      "There are too many folders in your external account. Please customize the import to delete some folders.": [
+        "Υπερβολικός αριθμός φακέλων στον εξωτερικό λογαριασμό σας. Παρακαλούμε προσαρμόστε την εισαγωγή, προς διαγραφή μερικών φακέλων."
+      ],
+      "There was an error when exporting the contacts vCards": [
+        "Παρουσιάστηκε σφάλμα κατά την εξαγωγή επαφών vCards"
+      ],
+      "This field is required": [
+        "Αυτό το πεδίο είναι υποχρεωτικό"
+      ],
+      "This field requires a minimum of ${ minimumLength } characters.": [
+        "Αυτό το πεδίο απαιτεί τουλάχιστον ${ minimumLength } χαρακτήρες."
+      ],
+      "This folder name is not available. Please choose a different name.": [
+        "Μη διαθέσιμο όνομα φακέλου. Παρακαλούμε δοκιμάστε ένα διαφορετικό."
+      ],
+      "This label name is not available. Please choose a different name.": [
+        "Μη διαθέσιμο όνομα ετικέτας. Παρακαλούμε δοκιμάστε ένα διαφορετικό."
+      ],
+      "Unknown error": [
+        "Άγνωστο σφάλμα"
+      ],
+      "We were unable to connect to your service provider.": [
+        "Δεν ήταν δυνατή η σύνδεση με τον πάροχο υπηρεσιών σας."
+      ],
+      "You can't send a mail to more than 100 recipients": [
+        "Δεν μπορείτε να στείλετε μήνυμα σε περισσότερους από 100 παραλήπτες"
+      ],
+      "You can't send vCards of more than 10 contacts": [
+        "Δεν μπορείτε να στείλετε vCards για περισσότερες από 10 επαφές"
+      ],
+      "You must set a name": [
+        "Πρέπει να ορίσετε ένα όνομα"
+      ],
+      "Your browser does not support uploading folders": [
+        "Ο περιηγητής σας δεν υποστηρίζει ανέβασμα φακέλων"
+      ],
+      "Your import will not be processed.": [
+        "Η εισαγωγή σας δεν θα υποβληθεί σε επεξεργασία."
+      ]
+    },
+    "Error importing calendar": {
+      "An error occurred reading your file ${ formattedFilename }. File does not have the right format.": [
+        "Παρουσιάστηκε σφάλμα κατά την ανάγνωση του αρχείου σας ${ formattedFilename }. Το αρχείο δεν έχει τη σωστή μορφή."
+      ],
+      "An error occurred uploading your file ${ formattedFilename }. Maximum file size is ${ MAX_IMPORT_FILE_SIZE_STRING }.": [
+        "Παρουσιάστηκε σφάλμα κατά την μεταφόρτωση του αρχείου ${ formattedFilename }. Το μέγιστο μέγεθος αρχείου είναι ${ MAX_IMPORT_FILE_SIZE_STRING }."
+      ],
+      "An error occurred uploading your file ${ formattedFilename }. Only ICS file formats are allowed.": [
+        "Παρουσιάστηκε σφάλμα κατά το ανέβασμα του αρχείου σας ${ formattedFilename }. Επιτρέπονται μόνο αρχεία μορφής ICS."
+      ],
+      "An error occurred uploading your file. No file has been selected.": [
+        "Παρουσιάστηκε σφάλμα κατά την μεταφόρτωση του αρχείου σας. Δεν έχει επιλεγεί αρχείο."
+      ],
+      "An unexpected error occurred. Import must be restarted.": [
+        "Παρουσιάστηκε μη αναμενόμενο σφάλμα. Πρέπει να γίνει επανεκκίνηση της εισαγωγής."
+      ],
+      "Your file ${ formattedFilename } contains more than ${ MAX_IMPORT_EVENTS_STRING } event.": [
+        "Το αρχείο ${ formattedFilename } περιέχει περισσότερο από ${ MAX_IMPORT_EVENTS_STRING } γεγονός.",
+        "Το αρχείο ${ formattedFilename } περιέχει περισσότερα από ${ MAX_IMPORT_EVENTS_STRING } γεγονότα."
+      ],
+      "Your file ${ formattedFilename } has an invalid method and cannot be imported.": [
+        "Το αρχείο σας ${ formattedFilename } έχει μη έγκυρη μέθοδο και δεν μπορεί να εισαχθεί."
+      ],
+      "Your file ${ formattedFilename } has no events to be imported.": [
+        "Το αρχείο σας ${ formattedFilename } δεν έχει κανένα συμβάν για εισαγωγή."
+      ],
+      "Your file ${ formattedFilename } is empty.": [
+        "Το αρχείο σας ${ formattedFilename } είναι άδειο."
+      ],
+      "Your file ${ formattedFilename } is not a calendar.": [
+        "Το αρχείο σας ${ formattedFilename } δεν είναι ημερολόγιο."
+      ]
+    },
+    "Error importing contact": {
+      "Encryption failed": [
+        "Η κρυπτογράφηση απέτυχε"
+      ],
+      "vCard versions < 3.0 not supported": [
+        "Οι εκδόσεις vCard < 3.0 δεν υποστηρίζονται"
+      ]
+    },
+    "Error importing contacts": {
+      "An error occurred reading your file ${ formattedFilename }. File doesn't have the right format.": [
+        "Παρουσιάστηκε σφάλμα κατά την ανάγνωση του αρχείου σας ${ formattedFilename }. Το αρχείο δεν έχει τη σωστή μορφή."
+      ],
+      "An error occurred uploading your file ${ formattedFilename }. Maximum file size is ${ MAX_IMPORT_FILE_SIZE_STRING }.": [
+        "Παρουσιάστηκε σφάλμα κατά την αποστολή του αρχείου ${ formattedFilename }. Το μέγιστο μέγεθος αρχείου είναι ${ MAX_IMPORT_FILE_SIZE_STRING }."
+      ],
+      "An error occurred uploading your file ${ formattedFilename }. No .csv or .vcf file selected": [
+        "Παρουσιάστηκε σφάλμα κατά την αποστολή του αρχείου σας ${ formattedFilename }. Δεν έχει επιλεγεί αρχείο .csv ή .vcf"
+      ],
+      "An error occurred uploading your file. No file has been selected.": [
+        "Παρουσιάστηκε σφάλμα κατά την αποστολή του αρχείου σας. Δεν έχει επιλεγεί αρχείο."
+      ],
+      "Your file ${ formattedFilename } contains more than ${ MAX_IMPORT_CONTACTS_STRING } contacts.": [
+        "Το αρχείο σας ${ formattedFilename } περιέχει περισσότερες από ${ MAX_IMPORT_CONTACTS_STRING } επαφές."
+      ],
+      "Your file ${ formattedFilename } has no contacts to be imported.": [
+        "Το αρχείο σας ${ formattedFilename } δεν έχει επαφές προς εισαγωγή."
+      ],
+      "Your file ${ formattedFilename } is empty.": [
+        "Το αρχείο σας ${ formattedFilename } είναι άδειο."
+      ]
+    },
+    "Error importing event": {
+      "Bad format. Component cannot be read.": [
+        "Κακή μορφή. Αδυναμία ανάγνωσης στοιχείου."
+      ],
+      "Calendar": [
+        "Ημερολόγιο"
+      ],
+      "Component with wrong format": [
+        "Συνθετικό λανθασμένης μορφής"
+      ],
+      "Custom timezone": [
+        "Προσαρμοσμένη ζώνη ώρας"
+      ],
+      "Edited event not supported": [
+        "Η επεξεργασμένη εκδήλωση δεν υποστηρίζεται"
+      ],
+      "Element": [
+        "Στοιχείο"
+      ],
+      "Encryption failed": [
+        "Η κρυπτογράφηση απέτυχε"
+      ],
+      "End time out of bounds": [
+        "Ώρα λήξης εκτός ορίων"
+      ],
+      "Event": [
+        "Γεγονός"
+      ],
+      "Event validation failed": [
+        "Αποτυχία επικύρωσης εκδήλωσης"
+      ],
+      "Floating times not supported": [
+        "Οι κυμαινόμενοι χρόνοι δεν υποστηρίζονται"
+      ],
+      "Free-busy time information": [
+        "Πληροφορίες διαθέσιμου/μη διαθέσιμου χρόνου"
+      ],
+      "Invalid event": [
+        "Μη έγκυρη εκδήλωση"
+      ],
+      "Journal entry": [
+        "Καταχώρηση χρονικού"
+      ],
+      "Malformed all-day event": [
+        "Δύσμορφη ολοήμερη εκδήλωση"
+      ],
+      "Malformed end time": [
+        "Λάθος χρόνος λήξης"
+      ],
+      "Malformed recurring event": [
+        "Δύσμορφη επαναλαμβανόμενη εκδήλωση"
+      ],
+      "Malformed start time": [
+        "Λάθος χρόνος έναρξης"
+      ],
+      "Missing start time": [
+        "Λείπει η ώρα έναρξης"
+      ],
+      "No UID, title or start time": [
+        "Λείπει UID, τίτλος ή ώρα έναρξης"
+      ],
+      "Non-Gregorian": [
+        "Μη-Γρηγοριανό"
+      ],
+      "Notification out of bounds": [
+        "Ειδοποίηση εκτός ορίων"
+      ],
+      "Original recurring event could not be found": [
+        "Δεν βρέθηκε το αρχικό επαναλαμβανόμενο συμβάν"
+      ],
+      "Recurring event has no occurrences": [
+        "Η επαναλαμβανόμενη εκδήλωση δεν έχει διοργανώσεις"
+      ],
+      "Recurring rule not supported": [
+        "Ο επαναλαμβανόμενος κανόνας δεν υποστηρίζεται"
+      ],
+      "Start time out of bounds": [
+        "Ώρα έναρξης εκτός ορίων"
+      ],
+      "Timezone": [
+        "Ζώνη ώρας"
+      ],
+      "To-do entry": [
+        "Εγγραφή προς υλοποίηση"
+      ],
+      "Unknown": [
+        "Άγνωστο"
+      ],
+      "Unsupported event": [
+        "Μη υποστηριζόμενη εκδήλωση"
+      ]
+    },
+    "Error message": {
+      "Access denied": [
+        "Δεν επιτρέπεται η πρόσβαση"
+      ],
+      "Brace yourself till we get the error fixed.": [
+        "Φροντίστε τον εαυτό σας μέχρι να επιδιορθώσουμε το πρόβλημα."
+      ],
+      "Error: ${ errorMessage }": [
+        "Σφάλμα: ${ errorMessage }"
+      ],
+      "Internal server error": [
+        "Εσωτερικό σφάλμα διακομιστή"
+      ],
+      "Not found": [
+        "Δε βρέθηκε"
+      ],
+      "Oops, something went wrong": [
+        "Ωχ, κάτι πήγε στραβά"
+      ],
+      "Please ${ refresh } or check your connection.": [
+        "Παρακαλούμε ${ refresh } ή ελέγξτε τη σύνδεση σας."
+      ],
+      "You may also ${ refresh } or try again later.": [
+        "Μπορείτε επίσης να ${ refresh } ή να δοκιμάσετε ξανά αργότερα."
+      ],
+      "You may also refresh the page or try again later.": [
+        "Μπορείτε επίσης να ανανεώσετε την σελίδα ή να προσπαθήσετε αργότερα."
+      ]
+    },
+    "Error notification": {
+      "First name and last name cannot be unchecked at the same time": [
+        "Το όνομα και το επώνυμο δεν μπορούν να είναι απο-επιλεγμένα και τα δύο ταυτόχρονα"
+      ]
+    },
+    "Error notification in the bug report modal when the user upload file": {
+      "No image selected": [
+        "Δεν επιλέχθηκε εικόνα"
+      ]
+    },
+    "Error notification when score is missing in user feedback form modal": {
+      "Score is required": [
+        "Απαιτείται βαθμολογία"
+      ]
+    },
+    "Event invitation error": {
+      "Attached ICS file could not be decrypted": [
+        "Αδυναμία αποκρυπτογράφησης συνημμένου αρχείου ICS"
+      ],
+      "Attached ICS file could not be read": [
+        "Αδυναμία ανάγνωσης συνημμένου αρχείου ICS"
+      ],
+      "Invalid invitation": [
+        "Μη έγκυρη πρόσκληση"
+      ],
+      "Invalid response": [
+        "Μη έγκυρη απάντηση"
+      ],
+      "Unexpected error": [
+        "Απροσδόκητο σφάλμα"
+      ],
+      "Unsupported invitation": [
+        "Μη υποστηριζόμενη πρόσκληση"
+      ],
+      "Unsupported response": [
+        "Μη υποστηριζόμενη απάντηση"
+      ],
+      "We could not cancel the event in your calendar": [
+        "Δεν ήταν δυνατή η ακύρωση του συμβάντος στο ημερολόγιό σας"
+      ],
+      "We could not retrieve the event from your calendar": [
+        "Δεν ήταν δυνατή η ανάκτηση της εκδήλωσης από το ημερολόγιο σας"
+      ],
+      "We could not update the event in your calendar": [
+        "Δεν ήταν δυνατή η ενημέρωση του συμβάντος στο ημερολόγιο σας"
+      ],
+      "Your answer was sent, but the event could not be added to your calendar": [
+        "Η απάντησή σας στάλθηκε, αλλά το γεγονός δεν μπόρεσε να προστεθεί στο ημερολόγιό σας"
+      ]
+    },
+    "Event title": {
+      "(no title)": [
+        "(χωρίς τίτλο)"
+      ]
+    },
+    "Feedback Modal Title": {
+      "Your feedback": [
+        "Η γνώμη σας"
+      ]
+    },
+    "file size format": {
+      "GB": [
+        "GB"
+      ],
+      "KB": [
+        "KB"
+      ],
+      "MB": [
+        "MB"
+      ]
+    },
+    "Filter notification": {
+      "${ Label.Name } updated": [
+        "${ Label.Name } ενημερώθηκε"
+      ]
+    },
+    "Group": {
+      "Account": [
+        "Λογαριασμός"
+      ],
+      "Apps": [
+        "Εφαρμογές"
+      ],
+      "Network": [
+        "Δίκτυο"
+      ],
+      "Other category": [
+        "Άλλη κατηγορία"
+      ],
+      "Services": [
+        "Υπηρεσίες"
+      ]
+    },
+    "Header": {
+      "Contacts": [
+        "Επαφές"
+      ],
+      "Contacts, groups and settings": [
+        "Επαφές, ομάδες και ρυθμίσεις"
+      ],
+      "Get help": [
+        "Λάβετε βοήθεια"
+      ]
+    },
+    "Hint": {
+      "Found ${ items.length } suggestion, use keyboard to navigate.": [
+        "Βρέθηκαν ${ items.length } πρόταση, χρησιμοποιήστε το πληκτρολόγιο για πλοήγηση.",
+        "Βρέθηκαν ${ items.length } προτάσεις, χρησιμοποιήστε το πληκτρολόγιο για πλοήγηση."
+      ],
+      "Use Up and Down keys to access and browse suggestions after input. Press Enter to confirm your choice, or Escape to close the suggestions box.": [
+        "Χρησιμοποιήστε τα πλήκτρα Up και Down για πρόσβαση και περιήγηση στις προτάσεις μετά την εισαγωγή. Πατήστε Enter για να επιβεβαιώσετε την επιλογή σας, ή διαφυγής για να κλείσετε το πλαίσιο προτάσεων."
+      ]
+    },
+    "Human verification method": {
+      "CAPTCHA": [
+        "CAPTCHA"
+      ],
+      "Email": [
+        "Email"
+      ],
+      "Manual": [
+        "Χειροκίνητα"
+      ],
+      "No verification method available": [
+        "Δεν υπάρχει διαθέσιμη μέθοδος επαλήθευσης"
+      ],
+      "SMS": [
+        "SMS"
+      ]
+    },
+    "Import calendar": {
+      "${ totalImported }/${ totalToImport } event encrypted and added to your calendar": [
+        "${ totalImported }/${ totalToImport } γεγονός κρυπτογραφήθηκε και προστέθηκε στο ημερολόγιό σας",
+        "${ totalImported }/${ totalToImport } εκδηλώσεις κρυπτογραφήθηκαν και προστέθηκαν στο ημερολόγιό σας"
+      ],
+      "An error occurred while encrypting and adding your event. No event could be imported.": [
+        "Παρουσιάστηκε σφάλμα κατά την κρυπτογράφηση και την προσθήκη της εκδήλωσής σας. Δεν ήταν δυνατή η εισαγωγή συμβάντος.",
+        "Παρουσιάστηκε σφάλμα κατά την κρυπτογράφηση και προσθήκη των συμβάντων σας. Δεν ήταν δυνατή η εισαγωγή συμβάντος."
+      ],
+      "Encrypting and adding contacts: ${ totalImported }/${ totalToImport }": [
+        "Κρυπτογράφηση και προσθήκη επαφών: ${ totalImported }/${ totalToImport }"
+      ],
+      "Encrypting and adding events to your calendar: ${ totalImported }/${ totalToImport }": [
+        "Κρυπτογράφηση και προσθήκη γεγονότων στο ημερολόγιό σας: ${ totalImported }/${ totalToImport }"
+      ],
+      "Event successfully imported. The imported event will now appear in your calendar.": [
+        "Το συμβάν εισήχθη επιτυχώς. Το εισαγόμενο γεγονός θα εμφανιστεί τώρα στο ημερολόγιό σας.",
+        "Τα γεγονότα εισήχθησαν επιτυχώς. Τα εισαγόμενα γεγονότα θα εμφανιστούν τώρα στο ημερολόγιό σας."
+      ],
+      "Please don't close the tab before the importing process is finished.": [
+        "Παρακαλώ μην κλείσετε την καρτέλα πριν ολοκληρωθεί η διαδικασία εισαγωγής."
+      ]
+    },
+    "Import calendar warning": {
+      "${ CALENDAR_APP_NAME } currently does not support certain event types, details and formats.": [
+        "Η ${ CALENDAR_APP_NAME } δεν υποστηρίζει προς το παρόν συγκεκριμένους τύπους συμβάντων, λεπτομέρειες και μορφές."
+      ],
+      "vCard versions < 3.0": [
+        "εκδόσεις vCard < 3.0"
+      ]
+    },
+    "Import calendar; import invitation": {
+      "Imported invitations appear in ${ CALENDAR_APP_NAME } as simple events without organizer and participant details. To get event updates and see participants, ask organizers to invite you using your ${ BRAND_NAME } email address.": [
+        "Οι εισαγόμενες προσκλήσεις εμφανίζονται στο ${ CALENDAR_APP_NAME } ως απλά συμβάντα χωρίς στοιχεία διοργανωτή και συμμετέχοντα. Για να λαμβάνετε ενημερώσεις για το συμβάν και για να δείτε τους συμμετέχοντες, ζητήστε από τους διοργανωτές να σας προσκαλέσουν χρησιμοποιώντας τη δική σας ${ BRAND_NAME } διεύθυνση ηλ. ταχυδρομείου."
+      ],
+      "This file contains an event invitation:": [
+        "Αυτό το αρχείο περιέχει μια πρόσκληση σε εκδήλωση:",
+        "Αυτό το αρχείο περιέχει προσκλήσεις σε εκδηλώσεις:"
+      ],
+      "This file contains an invitation response:": [
+        "Αυτό το αρχείο περιέχει μια απάντηση πρόσκλησης:",
+        "Αυτό το αρχείο περιέχει απαντήσεις πρόσκλησης:"
+      ],
+      "This file contains some data that we cannot import:": [
+        "Το αρχείο περιέχει κάποια δεδομένα που δεν μπορούμε να εισάγουμε:"
+      ]
+    },
+    "Import contact": {
+      "${ totalImported }/${ totalToImport } contact encrypted and added to your contact list": [
+        "${ totalImported }/${ totalToImport } επαφή κρυπτογραφήθηκε και προστέθηκε στη λίστα επαφών σας",
+        "${ totalImported }/${ totalToImport } επαφές κρυπτογραφήθηκαν και προστέθηκαν στη λίστα επαφών σας"
+      ],
+      "An error occurred while encrypting and adding your contact. No contact could be imported.": [
+        "Παρουσιάστηκε σφάλμα κατά την κρυπτογράφηση και την προσθήκη της επαφής σας. Δεν ήταν δυνατή η εισαγωγή επαφής.",
+        "Παρουσιάστηκε σφάλμα κατά την κρυπτογράφηση και την προσθήκη της επαφών σας. Δεν ήταν δυνατή η εισαγωγή επαφών."
+      ]
+    },
+    "Import contact error": {
+      "Contact ${ contactId }: ": [
+        "Επαφή ${ contactId }: "
+      ]
+    },
+    "Import contact groups info": {
+      "${ totalContacts } contact": [
+        "${ totalContacts } επαφή",
+        "${ totalContacts } επαφές"
+      ]
+    },
+    "Import contact. Contact identifier": {
+      "unknown": [
+        "άγνωστο"
+      ]
+    },
+    "Import contacts": {
+      "An error occurred while encrypting and adding your contacts. ${ totalImported } out of ${ totalToImport } contacts successfully imported.": [
+        "Παρουσιάστηκε σφάλμα κατά την κρυπτογράφηση και την προσθήκη των επαφών σας. ${ totalImported } από ${ totalToImport } επαφές εισήχθησαν με επιτυχία."
+      ],
+      "Contact successfully imported. The imported contact will now appear in your contact list.": [
+        "Η επαφή εισάχθηκε με επιτυχία. Η εισαχθέντη επαφή θα εμφανιστεί τώρα στη λίστα επαφών σας.",
+        "Η επαφές εισάχθηκαν με επιτυχία. Η εισαχθέντες επαφές θα εμφανιστεί τώρα στη λίστα επαφών σας."
+      ]
+    },
+    "Import contacts warning": {
+      "for now": [
+        "για τώρα"
+      ],
+      "ProtonContacts does not support ${ forNow }:": [
+        "Το ProtonContacts δεν υποστηρίζει ${ forNow }:"
+      ]
+    },
+    "Import error": {
+      "2-step verification is enabled in your external account.": [
+        "Η επαλήθευση σε 2 βήματα είναι ενεργοποιημένη στον εξωτερικό λογαριασμό σας."
+      ],
+      "IMAP access is enabled in your external account.": [
+        "Η πρόσβαση IMAP είναι ενεργοποιημένη στον εξωτερικό λογαριασμό σας."
+      ],
+      "IMAP access is enabled in your Yahoo account.": [
+        "Η πρόσβαση IMAP είναι ενεργοποιημένη στον λογαριασμό σας στο Yahoo."
+      ],
+      "Invalid IMAP port": [
+        "Μη έγκυρη θύρα IMAP"
+      ],
+      "Too many recent requests. Please try again in a few moments.": [
+        "Πάρα πολλά πρόσφατα αιτήματα. Παρακαλώ δοκιμάστε ξανά σε λίγα λεπτά."
+      ],
+      "Use your app password if:": [
+        "Χρησιμοποιήστε τον κωδικό της εφαρμογής εάν:"
+      ],
+      "Use your app password instead of your regular password if:": [
+        "Χρησιμοποιήστε τον κωδικό πρόσβασης της εφαρμογής σας αντί για τον κανονικό κωδικό πρόσβασης σας εάν:"
+      ],
+      "Your app password is correct. Do ${ boldNot } use your regular password.": [
+        "Ο κωδικός πρόσβασής σας στην εφαρμογή είναι σωστός. Μη ${ boldNot } χρησιμοποιείτε τον σύνηθες κωδικό σας."
+      ],
+      "Your email address and password are correct.": [
+        "Η διεύθυνση email και ο κωδικός σας είναι σωστά."
+      ],
+      "Your password is correct.": [
+        "Ο κωδικός πρόσβασής σας είναι σωστός."
+      ]
+    },
+    "Import error emphasis": {
+      "not": [
+        "δεν"
+      ]
+    },
+    "Import instructions": {
+      "Click ${ boldManage } to expand the options menu.": [
+        "Κάντε κλικ στο ${ boldManage } για ανάπτυξη του μενού επιλογών."
+      ],
+      "Expand the dropdown menu by clicking on the 3 dots (...).": [
+        "Ανοίξτε το αναδιπλούμενο μενού κάνοντας κλικ στις 3 τελείες (...)."
+      ],
+      "Go to ${ boldAccountInfo } under your profile in ${ yahooMailLink }.": [
+        "Πηγαίνετε στο ${ boldAccountInfo }, κάτω από το προφίλ σας στο ${ yahooMailLink }."
+      ],
+      "Go to ${ boldAccountSecurity }.": [
+        "Πηγαίνετε στο ${ boldAccountSecurity }."
+      ],
+      "Go to Outlook ${ securitySettingsLink }.": [
+        "Πηγαίνετε στο Outlook ${ securitySettingsLink }."
+      ],
+      "If 2-step verification is off, turn it on.": [
+        "Αν η διπαραγοντική επαλήθευση είναι απενεργοποιημένη, ενεργοποιήστε την."
+      ],
+      "Open your ${ yahooMailLink } contacts.": [
+        "Ανοίξτε τις επαφές σας στο ${ yahooMailLink }."
+      ],
+      "Open your Outlook ${ outlookContactsLink }.": [
+        "Ανοίξτε τις ${ outlookContactsLink } σας στο Outlook."
+      ],
+      "Select ${ boldExportContacts } and choose which contacts to export.": [
+        "Επιλέξτε ${ boldExportContacts } και διαλέξτε ποιες επαφές να εξαχθούν."
+      ],
+      "Select ${ boldExportCSV }.": [
+        "Επιλέξτε ${ boldExportCSV }."
+      ]
+    },
+    "Import instructions emphasis": {
+      "Account info": [
+        "Πληροφορίες Λογαριασμού"
+      ],
+      "Account security": [
+        "Διασφάλιση λογαριασμού"
+      ],
+      "app password": [
+        "κωδικός πρόσβασης εφαρμογής"
+      ],
+      "Can view all details": [
+        "Μπορεί να δει κάθε λεπτομέρεια"
+      ],
+      "Export": [
+        "Εξαγωγή"
+      ],
+      "Export contacts": [
+        "Εξαγωγή Επαφών"
+      ],
+      "Export to CSV file": [
+        "Εξαγωγή σε αρχείο CSV"
+      ],
+      "ICS": [
+        "ICS"
+      ],
+      "Manage": [
+        "Διαχείριση"
+      ],
+      "Publish a calendar": [
+        "Δημοσίευση ημερολογίου"
+      ]
+    },
+    "Import instructions link": {
+      "app password": [
+        "κωδικός πρόσβασης εφαρμογής"
+      ],
+      "app password or enable IMAP": [
+        "κωδικός εφαρμογής ή ενεργοποίηση IMAP"
+      ],
+      "contacts": [
+        "επαφές"
+      ],
+      "full calendar view": [
+        "πλήρης προβολή ημερολογίου"
+      ],
+      "ICS file": [
+        "αρχείο ICS"
+      ],
+      "security settings": [
+        "ρυθμίσεις διασφάλισης"
+      ],
+      "shared calendars": [
+        "κοινόχρηστα ημερολόγια"
+      ],
+      "Yahoo": [
+        "Yahoo"
+      ]
+    },
+    "Import instructions step": {
+      "Click on the ${ boldICS } link and download the file.": [
+        "Κάντε κλικ στον σύνδεσμο ${ boldICS } και κατεβάστε το αρχείο."
+      ],
+      "Go to ${ calendarLink } in your Outlook settings.": [
+        "Πηγαίνετε στο ${ calendarLink } στις ρυθμίσεις του Outlook."
+      ],
+      "Go to ${ calendarViewLink } in Yahoo.": [
+        "Πηγαίνετε στο ${ calendarViewLink } στο Yahoo."
+      ],
+      "Mouse over the calendar you want to import and open the dropdown menu.": [
+        "Πηγαίνετε στο ημερολόγιο που θέλετε να εισάγετε και ανοίξτε το αναδιπλούμενο μενού."
+      ],
+      "Select ${ boldExport } to export the calendar as an ICS file.": [
+        "Για εξαγωγή του ημερολογίου ως αρχείου ICS, επιλέξτε ${ boldExport }."
+      ]
+    },
+    "Import warning": {
+      "${ totalContactsDiscarded } out of ${ totalContacts } contacts will not be imported. Click for details": [
+        "${ totalContactsDiscarded } από ${ totalContacts } επαφές δεν θα εισαχθούν. Κάντε κλικ για λεπτομέρειες"
+      ],
+      "${ totalEventsDiscarded } out of ${ totalEvents } event will not be imported. Expand for details.": [
+        "${ totalEventsDiscarded } από ${ totalEvents } διοργάνωση δεν θα εισαχθεί. Αναπτύξτε για λεπτομέρειες.",
+        "${ totalEventsDiscarded } από ${ totalEvents } διοργανώσεις δεν θα εισαχθούν. Αναπτύξτε για λεπτομέρειες."
+      ],
+      "No contact can be imported. Click for details": [
+        "Δεν είναι δυνατή η εισαγωγή καμίας επαφής. Κάντε κλικ για λεπτομέρειες"
+      ],
+      "No event can be imported. Expand for details.": [
+        "Δεν μπορεί να εισαχθεί κανένα γεγονός. Αναπτύξτε το για λεπτομέρειες."
+      ],
+      "Part of your calendar content is not supported and will not be imported.": [
+        "Μέρος του περιεχομένου του ημερολογίου σας δεν υποστηρίζεται και δεν θα εισαχθεί."
+      ]
+    },
+    "Info": {
+      "${ activeDownloadsCount } downloading": [
+        "${ activeDownloadsCount } κατεβαίνει",
+        "${ activeDownloadsCount } κατεβαίνουν"
+      ],
+      "${ activeDownloadsCount } downloading (${ downloadProgress }%)": [
+        "${ activeDownloadsCount } κατεβαίνει (${ downloadProgress }%)",
+        "${ activeDownloadsCount } κατεβαίνουν (${ downloadProgress }%)"
+      ],
+      "${ activeUploadsCount } uploading (${ uploadProgress }%)": [
+        "${ activeUploadsCount } ανεβαίνει (${ uploadProgress }%)",
+        "${ activeUploadsCount } ανεβαίνουν (${ uploadProgress }%)"
+      ],
+      "${ addressCount } email address": [
+        "${ addressCount } διεύθυνση ηλεκτρονικού ταχυδρομείου",
+        "${ addressCount } διευθύνσεις ηλεκτρονικού ταχυδρομείου"
+      ],
+      "${ appName } needs your permission to ${ enableDesktopNotifications }.": [
+        "Το ${ appName } χρειάζεται την άδειά σας για την ${ enableDesktopNotifications }."
+      ],
+      "${ calendarsToBeCreatedCount } new calendar": [
+        "${ calendarsToBeCreatedCount } νέο ημερολόγιο",
+        "${ calendarsToBeCreatedCount } νέα ημερολόγια"
+      ],
+      "${ calendarsToBeMerged } merged calendar": [
+        "${ calendarsToBeMerged } συγχωνευμένο ημερολόγιο",
+        "${ calendarsToBeMerged } συγχωνευμένα ημερολόγια"
+      ],
+      "${ calendarsToBeMergedCount } merged calendar": [
+        "${ calendarsToBeMergedCount } συγχωνευμένο ημερολόγιο",
+        "${ calendarsToBeMergedCount } συγχωνευμένα ημερολόγια"
+      ],
+      "${ canceledCount } canceled": [
+        "${ canceledCount } ακυρώθηκε",
+        "${ canceledCount } ακυρώθηκαν"
+      ],
+      "${ contactEmailsLength } Member": [
+        "${ contactEmailsLength } Μέλος",
+        "${ contactEmailsLength } Μέλη"
+      ],
+      "${ contactsCount } contact found": [
+        "${ contactsCount } επαφή βρέθηκε",
+        "${ contactsCount } επαφές βρέθηκαν"
+      ],
+      "${ doneCount } finished": [
+        "${ doneCount } τελείωσε",
+        "${ doneCount } τελείωσαν"
+      ],
+      "${ doneDownloadsCount } downloaded": [
+        "${ doneDownloadsCount } κατέβηκε",
+        "${ doneDownloadsCount } κατέβηκαν"
+      ],
+      "${ doneUploadsCount } uploaded": [
+        "${ doneUploadsCount } φορτώθηκε",
+        "${ doneUploadsCount } φορτώθηκαν"
+      ],
+      "${ errorCount } failed": [
+        "${ errorCount } απέτυχε",
+        "${ errorCount } απέτυχαν"
+      ],
+      "${ groupCounts } group found": [
+        "${ groupCounts } ομάδα βρέθηκε",
+        "${ groupCounts } ομάδες βρέθηκαν"
+      ],
+      "${ numContactGroups } contact group": [
+        "${ numContactGroups } ομάδα επαφών",
+        "${ numContactGroups } ομάδες επαφών"
+      ],
+      "${ numContacts } contact": [
+        "${ numContacts } επαφή",
+        "${ numContacts } επαφές"
+      ],
+      "${ pausedCount } paused": [
+        "${ pausedCount } σε παύση",
+        "${ pausedCount } σε παύση"
+      ],
+      "${ providerFoldersNumLocalized } folder found": [
+        "${ providerFoldersNumLocalized } φάκελος βρέθηκε",
+        "${ providerFoldersNumLocalized } φάκελοι βρέθηκαν"
+      ],
+      "${ providerFoldersNumLocalized } label found in Gmail": [
+        "${ providerFoldersNumLocalized } ετικέτα βρέθηκε στο Gmail",
+        "${ providerFoldersNumLocalized } ετικέτες βρέθηκαν στο Gmail"
+      ],
+      "${ selectedCalendarsTotal } of ${ providerCalendars.length } calendar": [
+        "${ selectedCalendarsTotal } από ${ providerCalendars.length } ημερολόγιο",
+        "${ selectedCalendarsTotal } από ${ providerCalendars.length } ημερολόγια"
+      ],
+      "${ selectedFoldersCount } folder selected": [
+        "${ selectedFoldersCount } επιλεγμένος φάκελος",
+        "${ selectedFoldersCount } επιλεγμένοι φάκελοι"
+      ],
+      "${ selectedFoldersCount } label selected": [
+        "${ selectedFoldersCount } επιλεγμένη ετικέτα",
+        "${ selectedFoldersCount } επιλεγμένες ετικέτες"
+      ],
+      "${ selectedFoldersCountLocalized } folder selected": [
+        "${ selectedFoldersCountLocalized } επιλεγμένος φάκελος",
+        "${ selectedFoldersCountLocalized } επιλεγμένοι φάκελοι"
+      ],
+      "${ selectedFoldersCountLocalized } label selected": [
+        "${ selectedFoldersCountLocalized } ετικέτα επιλέχθηκε",
+        "${ selectedFoldersCountLocalized } ετικέτες επιλέχθηκαν"
+      ],
+      "${ speed }/s": [
+        "${ speed }/δ"
+      ],
+      "${ storageSize } storage": [
+        "${ storageSize } αποθηκευτικός χώρος"
+      ],
+      "${ updated } contact updated successfully.": [
+        "${ updated } επαφή ενημερώθηκε επιτυχώς.",
+        "${ updated } επαφές ενημερώθηκαν επιτυχώς."
+      ],
+      "${ uploadName } already exists in this location.": [
+        "Το όνομα ${ uploadName } υπάρχει ήδη σε αυτήν την τοποθεσία."
+      ],
+      "(${ memberCount } member)": [
+        "(${ memberCount } μέλος)",
+        "(${ memberCount } μέλη)"
+      ],
+      "A number will be added to the filename": [
+        "Το όνομα του αρχείου θα επεκταθεί με έναν αριθμό"
+      ],
+      "A number will be added to the folder name": [
+        "Το όνομα του φακέλου θα επεκταθεί με έναν αριθμό"
+      ],
+      "Account access restricted due to unpaid invoices. Please contact your administrator.": [
+        "Η πρόσβαση σε λογαριασμό περιορίζεται λόγω απλήρωτων τιμολογίων. Επικοινωνήστε με το διαχειριστή σας."
+      ],
+      "Address Verification with Trusted Keys is enabled for this address. To be able to send to this address, first trust public keys that can be used for sending.": [
+        "Η επαλήθευση διεύθυνσης με αξιόπιστα κλειδιά είναι ενεργοποιημένη για αυτήν τη διεύθυνση. Για να είναι δυνατή η αποστολή σε αυτήν τη διεύθυνση, πρώτα \"εμπιστευθείτε\" τα δημόσια κλειδιά που μπορούν να χρησιμοποιηθούν για αποστολή."
+      ],
+      "All (${ totalFoldersCount } folder)": [
+        "Όλοι (${ totalFoldersCount } φάκελος)",
+        "Όλοι (${ totalFoldersCount } φάκελοι)"
+      ],
+      "All (${ totalFoldersCount } label)": [
+        "Όλες (${ totalFoldersCount } ετικέτα)",
+        "Όλες (${ totalFoldersCount } ετικέτες)"
+      ],
+      "All your changes will be lost.": [
+        "Όλες οι αλλαγές σας θα χαθούν."
+      ],
+      "An active recovery file": [
+        "Ένα ενεργό αρχείο ανάκτησης"
+      ],
+      "and": [
+        "και"
+      ],
+      "Anyone with this link can access your file.": [
+        "Οποιοσδήποτε έχει αυτόν τον σύνδεσμο μπορεί να προσπελάσει το αρχείο σας."
+      ],
+      "Anyone with this link can access your folder.": [
+        "Οποιοσδήποτε με αυτόν τον σύνδεσμο μπορεί να έχει πρόσβαση στο φάκελο."
+      ],
+      "Are you sure you want to discard your changes?": [
+        "Θέλετε σίγουρα να απορρίψετε τις αλλαγές σας;"
+      ],
+      "Are you sure you want to empty trash and permanently delete all the items?": [
+        "Θέλετε σίγουρα να εξαλείψετε οριστικά όλα τα διαγραμμένα στοιχεία;"
+      ],
+      "Are you sure you want to permanently delete \"${ itemName }\" from trash?": [
+        "Είστε βέβαιοι ότι θέλετε να εξαλείψετε οριστικά το διαγραμμένο \"${ itemName }\";"
+      ],
+      "Are you sure you want to permanently delete selected items from trash?": [
+        "Είστε βέβαιοι ότι θέλετε να εξαλείψετε οριστικά τα επιλεγμένα διαγραμμένα στοιχεία;"
+      ],
+      "Before requesting a new verification code, check your spam folder and check that ${ strong } is the correct address.": [
+        "Πριν αιτηθείτε νέο κωδικό επαλήθευσης, ελέγξτε τον φάκελό σας Ενοχλητικά και ότι η ${ strong } είναι η σωστή διεύθυνση."
+      ],
+      "Canceled": [
+        "Ακυρωμένες"
+      ],
+      "Cannot remember your password? We can help you clear the encrypted data of all contacts encrypted with this key and in the process dismiss the alert.": [
+        "Δεν μπορείτε να θυμηθείτε τον κωδικό σας? Μπορούμε να σας βοηθήσουμε να καθαρίσετε τα κρυπτογραφημένα δεδομένα όλων των επαφών που κρυπτογραφούνται με αυτό το κλειδί και στη διαδικασία να απορρίψετε την ειδοποίηση."
+      ],
+      "Checking contact ${ progress } of ${ max }...": [
+        "Έλεγχος επαφής ${ progress } από ${ max }..."
+      ],
+      "Checking signatures": [
+        "Έλεγχος υπογραφών"
+      ],
+      "Clear data": [
+        "Εκκαθάριση δεδομένων"
+      ],
+      "Clear encrypted search data": [
+        "Εκκαθάριση δεδομένων κρυπτογραφημένης αναζήτησης"
+      ],
+      "Clearing browser data will clear the search index on this device. All files would need to be re-indexed again while using the search functionality.": [
+        "Η εκκαθάριση δεδομένων περιηγητή θα διαγράψει το ευρετήριο αναζήτησης αυτής της συσκευής. Όλα τα αρχεία θα χρειαστεί να δεικτοδοτηθούν ξανά κατά τη χρήση της λειτουργίας αναζήτησης."
+      ],
+      "Clears browser data related to the encrypted search.": [
+        "Εκκαθάριση δεδομένων περιηγητή σχετικών με την κρυπτογραφημένη αναζήτηση."
+      ],
+      "Click \"Request new code\" to have a new verification code sent to ${ strong }. If this phone number is incorrect, click \"Edit\" to correct it.": [
+        "Κάντε κλικ στην επιλογή \"Αίτηση νέου κωδικού\" για να σταλεί ένας νέος κωδικός επαλήθευσης στο ${ strong }. Εάν αυτός ο αριθμός τηλεφώνου είναι εσφαλμένος, κάντε κλικ στο \"Επεξεργασία\" για να τον διορθώσετε."
+      ],
+      "Close this screen to exit.": [
+        "Κλείστε αυτήν την οθόνη για έξοδο."
+      ],
+      "Conflict": [
+        "Διένεξη"
+      ],
+      "Continue with ${ planName }": [
+        "Συνέχεια με ${ planName }"
+      ],
+      "Create ${ calendarsToBeCreated } new calendar": [
+        "Δημιουργήστε ${ calendarsToBeCreated } νέο ημερολόγιο",
+        "Δημιουργήστε ${ calendarsToBeCreated } νέα ημερολόγια"
+      ],
+      "Create a label for the imported messages, a time range for this import, and the folders you would like to import.": [
+        "Δημιουργήστε μια ετικέτα για τα εισαγόμενα μηνύματα, μια χρονική έκταση για αυτήν την εισαγωγή, και τους φακέλους που θα θέλατε να εισάγετε."
+      ],
+      "Create a label for the imported messages, a time range for this import, and the labels you would like to import.": [
+        "Δημιουργήστε μια ετικέτα για τα εισαγόμενα μηνύματα, μια χρονική έκταση για αυτήν την εισαγωγή, και τις ετικέτες που θα θέλατε να εισάγετε."
+      ],
+      "Create a new contact group": [
+        "Δημιουργία νέας ομάδας επαφών"
+      ],
+      "Create in": [
+        "Δημιουργία εντός"
+      ],
+      "Create links and share your files with others.": [
+        "Δημιουργήστε συνδέσμους και κοινοποιήστε τα αρχεία σας με άλλους."
+      ],
+      "Create your first folder and start moving your files.": [
+        "Δημιουργήστε τον πρώτο σας φάκελο και ξεκινήστε να μετακινείτε τα αρχεία σας."
+      ],
+      "Creating": [
+        "Δημιουργία"
+      ],
+      "Creating link to file": [
+        "Δημιουργία συνδέσμου προς το αρχείο"
+      ],
+      "Creating link to folder": [
+        "Δημιουργία συνδέσμου προς το φάκελο"
+      ],
+      "CSV files from Outlook, Outlook Express, Yahoo! Mail, Hotmail, Eudora and some other apps as well as vCard 3.1 and 4.0 formats (UTF-8 encoding) are supported.": [
+        "Υποστηρίζονται αρχεία CSV από Outlook, Outlook Express, Yahoo! Mail, Hotmail, Eudora και κάποιες άλλες εφαρμογές, καθώς και μορφές vCard 3.1 και 4.0 (κωδικοποίηση UTF-8)."
+      ],
+      "Digital signature verified. This file was securely uploaded by ${ emailAddress }.": [
+        "Η ψηφιακή υπογραφή επαληθεύτηκε. Το αρχείο ανέβηκε διασφαλισμένα από ${ emailAddress }."
+      ],
+      "Digital signature verified. This folder was securely uploaded by ${ emailAddress }.": [
+        "Η ψηφιακή υπογραφή επαληθεύτηκε. Ο φάκελος ανέβηκε διασφαλισμένα από ${ emailAddress }."
+      ],
+      "Download of ${ downloadFileName } will be aborted": [
+        "Η λήψη του ${ downloadFileName } θα ματαιωθεί"
+      ],
+      "Downloaded": [
+        "Ελήφθησαν"
+      ],
+      "Downloading": [
+        "Λήψη"
+      ],
+      "Drop the file here to upload": [
+        "Σύρτε το αρχείο εδώ για ανέβασμα"
+      ],
+      "Duplicate key updated": [
+        "Το διπλότυπο κλειδί ενημερώθηκε"
+      ],
+      "Enabling drive search": [
+        "Ενεργοποίηση τοπικής αναζήτησης"
+      ],
+      "Encrypted search is here": [
+        "Η κρυπτογραφημένη αναζήτηση έφτασε"
+      ],
+      "Enter the credentials of the email account you want to import from.": [
+        "Συμπληρώστε τα διαπιστευτήρια του λογαριασμού email από τον οποίο θέλετε να εισάγετε."
+      ],
+      "Enter the verification code that was sent to ${ destinationText }.": [
+        "Εισάγετε τον κωδικό επαλήθευσης στον οποίο εστάλη ${ destinationText }."
+      ],
+      "Estimated time remaining: ${ estimatedMinutes } minute": [
+        "Εκτιμώμενος απομένων χρόνος: ${ estimatedMinutes } λεπτό",
+        "Εκτιμώμενος απομένων χρόνος: ${ estimatedMinutes } λεπτά"
+      ],
+      "Estimated time remaining: Less than a minute": [
+        "Εκτιμώμενος απομένων χρόνος: Κάτω του λεπτού"
+      ],
+      "Estimating time remaining...": [
+        "Εκτίμηση απομένοντος χρόνου..."
+      ],
+      "Failed": [
+        "Απέτυχε"
+      ],
+      "Failed to generate a secure link. Try again later.": [
+        "Αποτυχία παραγωγής ασφαλούς συνδέσμου. Παρακαλούμε δοκιμάστε ξανά αργότερα."
+      ],
+      "Failed to open a secure link. The reason is: ${ error }": [
+        "Αποτυχία ανοίγματος ασφαλούς συνδέσμου. Η αιτία είναι: ${ error }"
+      ],
+      "File \"${ name }\" was deleted during download": [
+        "Το αρχείο \"${ name }\" διαγράφηκε κατά τη λήψη"
+      ],
+      "File is missing signature. We couldn’t verify that ${ emailAddress } uploaded ${ fileName }.": [
+        "Το αρχείο στερείται υπογραφής. Δεν μπορέσαμε να επαληθεύσουμε ότι το ${ fileName } ανέβηκε από ${ emailAddress }."
+      ],
+      "File is missing signature. We couldn’t verify who uploaded ${ fileName }.": [
+        "Το αρχείο στερείται υπογραφής. Δεν μπορέσαμε να επαληθεύσουμε ποιος ανέβασε το ${ fileName }."
+      ],
+      "File will not be uploaded": [
+        "Το αρχείο δεν θα ανεβεί"
+      ],
+      "Finalizing": [
+        "Οριστικοποιείται"
+      ],
+      "Folder \"${ link.name }\" was deleted during download": [
+        "Ο φάκελος \"${ link.name }\" διαγράφηκε κατά τη λήψη"
+      ],
+      "Folder contents will merge into a single folder": [
+        "Τα περιεχόμενα των φακέλων θα συγχωνευθούν σε έναν μοναδικό φάκελο"
+      ],
+      "Folder is missing signature. We couldn’t verify that ${ emailAddress } uploaded ${ fileName }.": [
+        "Ο φάκελος στερείται υπογραφής. Δεν μπορέσαμε να επαληθεύσουμε ότι ο ${ fileName } ανέβηκε από ${ emailAddress }."
+      ],
+      "Folder is missing signature. We couldn’t verify who uploaded ${ fileName }.": [
+        "Ο φάκελος στερείται υπογραφής. Δεν μπορέσαμε να επαληθεύσουμε ποιος ανέβασε τον ${ fileName }."
+      ],
+      "Folder will not be uploaded": [
+        "Ο φάκελος δεν θα ανεβεί"
+      ],
+      "Free up some space or add more storage space.": [
+        "Ελευθερώστε χώρο ή προσθέστε περισσότερο χώρο αποθήκευσης."
+      ],
+      "Free up some space or contact your administrator.": [
+        "Ελευθερώστε χώρο ή επικοινωνήστε με το διαχειριστή σας."
+      ],
+      "Go to \"My files\" and upload some files first.": [
+        "Πηγαίνετε στο \"Τα αρχεία μου\" και ανεβάστε πρώτα μερικά αρχεία."
+      ],
+      "Group assignment applied": [
+        "Εφαρμογή ομαδικής εκχώρησης"
+      ],
+      "here": [
+        "εδώ"
+      ],
+      "How does encrypted search work?": [
+        "Πώς δουλεύει η κρυπτογραφημένη αναζήτηση;"
+      ],
+      "If you are having trouble creating your account, please request an invitation and we will respond within one business day.": [
+        "Αν αντιμετωπίζετε προβλήματα με τη δημιουργία του λογαριασμού σας, ζητήστε μια πρόσκληση και θα απαντήσουμε εντός μίας εργάσιμης ημέρας."
+      ],
+      "If you believe this is in error, please contact us ${ contactLink }.": [
+        "Εάν πιστεύετε ότι αυτό είναι λάθος, παρακαλούμε επικοινωνήστε μαζί μας ${ contactLink }."
+      ],
+      "If you don't find the email in your inbox, please check your spam folder.": [
+        "Αν δεν βρείτε το μήνυμα στα Εισερχόμενα, παρακαλούμε ελέγξτε τον φάκελο Ενοχλητικά."
+      ],
+      "Import ${ contactsFragment } and ${ contactsGroupsFragment }": [
+        "Εισαγωγή ${ contactsFragment } και ${ contactsGroupsFragment }"
+      ],
+      "Import ${ selectedCalendarsCount } of ${ totalCalendarsCount } calendar": [
+        "Εισαγωγή ${ selectedCalendarsCount } από ${ totalCalendarsCount } ημερολόγιο",
+        "Εισαγωγή ${ selectedCalendarsCount } από ${ totalCalendarsCount } ημερολόγια"
+      ],
+      "Import from": [
+        "Εισαγωγή από"
+      ],
+      "Import in progress": [
+        "Εισαγωγή σε εξέλιξη"
+      ],
+      "Import mailbox": [
+        "Εισαγωγή γραμματοκιβωτίου"
+      ],
+      "Importing your data from ${ importedEmailAddress } to ${ toEmail }.": [
+        "Γίνεται εισαγωγή δεδομένων από ${ importedEmailAddress } προς ${ toEmail }."
+      ],
+      "Indexing items ${ esProgress } out of ${ totalProgressToShow }": [
+        "Δεικτοδότηση στοιχείων: ${ esProgress } από ${ totalProgressToShow }"
+      ],
+      "Indexing search results…": [
+        "Γίνεται δεικτοδότηση αποτελεσμάτων αναζήτησης…"
+      ],
+      "Inherited from parent folder": [
+        "Κληρονoμήθηκαν από το γονικό φάκελο"
+      ],
+      "Initializing": [
+        "Εκκίνηση"
+      ],
+      "Internet connection lost": [
+        "Απώλεια σύνδεσης στο διαδίκτυο"
+      ],
+      "Internet connection lost. Please check your device's connectivity.": [
+        "Απώλεια σύνδεσης στο διαδίκτυο. Παρακαλούμε ελέγξτε τη συνδεσιμότητα της συσκευής σας."
+      ],
+      "Internet connection restored.": [
+        "Η σύνδεση στο διαδίκτυο αποκαταστάθηκε."
+      ],
+      "Just confirm your selection and we'll do the rest.": [
+        "Απλώς επιβεβαιώστε την επιλογή σας και εμείς θα κάνουμε τα υπόλοιπα."
+      ],
+      "Key fingerprint": [
+        "Κλειδί δακτυλικού αποτυπώματος"
+      ],
+      "Label all imported messages as": [
+        "Επισήμανση όλων των εισαγόμενων μηνυμάτων ως"
+      ],
+      "Large imports can take several days.": [
+        "Οι μεγάλες εισαγωγές μπορεί να πάρουν αρκετές ημέρες."
+      ],
+      "Learn more": [
+        "Μάθετε περισσότερα"
+      ],
+      "Link copied to clipboard": [
+        "Ο σύνδεσμος αντιγράφηκε στο πρόχειρο"
+      ],
+      "Loading": [
+        "Φόρτωση"
+      ],
+      "Loading ${ appName }": [
+        "Φόρτωση ${ appName }"
+      ],
+      "Loading preview": [
+        "Φόρτωση προεπισκόπησης"
+      ],
+      "Merged": [
+        "Συγχωνευμένα"
+      ],
+      "More": [
+        "Περισσότερα"
+      ],
+      "Moving files": [
+        "Μετακίνηση αρχείων"
+      ],
+      "My Links": [
+        "Οι Σύνδεσμοί μου"
+      ],
+      "Name your new folder and select the parent folder you want to put it in. If you do not select a parent folder, this new folder will be created as a top level folder.": [
+        "Ονομάστε το νέο σας φάκελο και επιλέξτε τον γονικό φάκελο στον οποίο θέλετε να τον τοποθετήσετε. Εάν δεν επιλέξετε γονικό φάκελο, αυτός ο νέος φάκελος θα δημιουργηθεί ως φάκελος ανώτατου επιπέδου."
+      ],
+      "Network issue": [
+        "Πρόβλημα δικτύου"
+      ],
+      "New": [
+        "Νέο"
+      ],
+      "No": [
+        "Όχι"
+      ],
+      "No contacts added yet": [
+        "Δεν έχουν προστεθεί επαφές ακόμα"
+      ],
+      "No email address": [
+        "Δεν υπάρχει διεύθυνση E-mail"
+      ],
+      "No files or folders in trash": [
+        "Κανένα διαγραμμένο αρχείο ή φάκελος"
+      ],
+      "No group found": [
+        "Καμία ομάδα δεν βρέθηκε"
+      ],
+      "No preview available": [
+        "Δεν υπάρχει διαθέσιμη προεπισκόπηση"
+      ],
+      "No results found": [
+        "Δεν βρέθηκαν αποτελέσματα"
+      ],
+      "Not a valid URL": [
+        "Μη έγκυρο URL"
+      ],
+      "of": [
+        "από"
+      ],
+      "One of your encrypted drives is locked. This is most likely due to a recent password reset.": [
+        "Μια κρυπτογραφημένη αρχειοθήκη σας είναι κλειδωμένη, πιθανότατα λόγω πρόσφατης επαναφοράς κωδικού πρόσβασης."
+      ],
+      "Only change these settings if you are using PGP with non-${ BRAND_NAME } recipients.": [
+        "Αλλάξτε αυτές τις ρυθμίσεις μόνο αν χρησιμοποιείτε PGP με παραλήπτες εκτός ${ BRAND_NAME }."
+      ],
+      "Only the people with the link and the password can access this file.": [
+        "Μόνο τα άτομα που έχουν τον σύνδεσμο και τον κωδικό πρόσβασης μπορούν να προσπελάσουν αυτό το αρχείο."
+      ],
+      "Only the people with the link and the password can access this folder.": [
+        "Μόνο άτομα που κατέχουν τον σύνδεσμο και το συνθηματικό έχουν πρόσβαση σε αυτό το φάκελο."
+      ],
+      "Other options": [
+        "Άλλες επιλογές"
+      ],
+      "Paused": [
+        "Σε παύση"
+      ],
+      "Please note that addresses assigned to this group will NOT be deleted.": [
+        "Σημειώστε ότι οι διευθύνσεις που έχουν αντιστοιχιστεί σε αυτήν την ομάδα ΔΕ θα διαγραφούν."
+      ],
+      "Please note that this process may take some time depending on the size of your address book.": [
+        "Παρακαλείστε να σημειώσετε ότι αυτή η διαδικασία μπορεί να διαρκέσει κάποιο χρόνο, ανάλογα με το μέγεθος του βιβλίου διευθύνσεών σας."
+      ],
+      "Please select the folders you would like to import:": [
+        "Παρακαλούμε επιλέξτε τους φακέλους που θα θέλετε να εισάγετε:"
+      ],
+      "Please wait while we look for contacts that can be re-signed with the primary encryption key.": [
+        "Παρακαλούμε περιμένετε όσο αναζητούμε επαφές που μπορούν να επανυπογραφούν με το πρωτεύον κλειδί κρυπτογράφησης."
+      ],
+      "Please wait while we look for contacts that contain data encrypted with the inactive key.": [
+        "Παρακαλούμε περιμένετε όσο αναζητούμε επαφές που περιέχουν δεδομένα κρυπτογραφημένα με το ανενεργό κλειδί."
+      ],
+      "Preparing link to file": [
+        "Προετοιμασία συνδέσμου προς το αρχείο"
+      ],
+      "Preparing link to folder": [
+        "Προετοιμασία συνδέσμου προς το φάκελο"
+      ],
+      "Preview": [
+        "Προεπισκόπηση"
+      ],
+      "Primary": [
+        "Κύριο"
+      ],
+      "Priority support": [
+        "Υποστήριξη κατά προτεραιότητα"
+      ],
+      "Private search enabled. You may now close this dialogue and search for files and folders.": [
+        "Η ιδιωτική αναζήτηση ενεργοποιήθηκε. Τώρα μπορείτε να κλείσετε αυτόν τον διάλογο και να αναζητήσετε αρχεία και φακέλους."
+      ],
+      "Queued": [
+        "Σε αναμονή"
+      ],
+      "Recovery process might take some time.": [
+        "Η διαδικασία ανάκτησης ίσως πάρει κάποια ώρα."
+      ],
+      "Refreshing the page or ${ link } will automatically resolve most issues.": [
+        "Η ανανέωση της σελίδας ή ${ link } θα επιλύσει αυτόματα τα περισσότερα προβλήματα."
+      ],
+      "Report has been sent": [
+        "Η αναφορά στάλθηκε"
+      ],
+      "Search cannot be enabled in this browser": [
+        "Η αναζήτηση δεν γίνεται να ενεργοποιηθεί σε αυτόν τον περιηγητή"
+      ],
+      "Search Enabled": [
+        "Αναζήτηση Ενεργοποιημένη"
+      ],
+      "Select an uploaded file or folder and create a link to it.": [
+        "Επιλέξτε ένα ανεβασμένο αρχείο ή φάκελο και δημιουργήστε έναν σύνδεσμο προς αυτό."
+      ],
+      "Select the email format you want to be used by default when sending an email to this email address.": [
+        "Επιλέξτε τη μορφή ηλεκτρονικού ταχυδρομείου που θέλετε να χρησιμοποιηθεί από προεπιλογή κατά την αποστολή ενός E-mail σε αυτό το E-mail."
+      ],
+      "Select which calendars to import. A new calendar will be created for each imported calendar up to the 20 calendars limit.": [
+        "Επιλέξτε ποια ημερολόγια θα εισαχθούν. Για κάθε εισαγόμενο, ένα νέο ημερολόγιο θα δημιουργηθεί, μέχρι το όριο των 20."
+      ],
+      "Servers are unreachable. Please try again in a few minutes": [
+        "Οι διακομιστές είναι απρόσιτοι. Παρακαλούμε δοκιμάστε ξανά σε λίγα λεπτά"
+      ],
+      "Session timed out": [
+        "Λήξη χρόνου συνεδρίας"
+      ],
+      "Set recovery phrase": [
+        "Ορισμός φράσης ανάκτησης"
+      ],
+      "Setting up PGP allows you to send end-to-end encrypted emails with a non-${ BRAND_NAME } user that uses a PGP compatible service.": [
+        "Η ρύθμιση PGP επιτρέπει την αποστολή διατερματικά κρυπτογραφημένων μηνυμάτων προς χρήστες εκτός ${ BRAND_NAME } που χρησιμοποιούν υπηρεσίες συμβατές με PGP."
+      ],
+      "Share files with links": [
+        "Κοινή χρήση αρχείων με συνδέσμους"
+      ],
+      "Shareable link for ${ boldNameText }": [
+        "Κοινοποιήσιμος σύνδεσμος για το ${ boldNameText }"
+      ],
+      "Signature check will be ignored": [
+        "Ο έλεγχος υπογραφής θα αγνοηθεί"
+      ],
+      "Signature issue": [
+        "Πρόβλημα υπογραφής"
+      ],
+      "Some of your files are no longer accessible. Restore the access to your files. ${ StartRecoveryButton }": [
+        "Κάποια από τα αρχεία σας δεν είναι πλέον προσβάσιμα. Αποκαταστήστε την πρόσβαση στα αρχεία σας. ${ StartRecoveryButton }"
+      ],
+      "Something went wrong, please try again later.": [
+        "Κάτι πήγε στραβά, παρακαλούμε δοκιμάστε ξανά αργότερα."
+      ],
+      "Storage space is shared across ${ MAIL_APP_NAME }, ${ CALENDAR_APP_NAME }, and ${ DRIVE_APP_NAME }.": [
+        "Ο αποθηκευτικός χώρος μοιράζεται μεταξύ των ${ MAIL_APP_NAME }, ${ CALENDAR_APP_NAME } και ${ DRIVE_APP_NAME }."
+      ],
+      "support team": [
+        "ομάδα υποστήριξης"
+      ],
+      "Temporarily unavailable. Please check back later.": [
+        "Προσωρινά μη διαθέσιμο. Παρακαλούμε ελέγξτε ξανά αργότερα."
+      ],
+      "The application needs to locally decrypt your contacts before they can be exported. At the end of the process, a VCF file will be generated and you will be able to download it.": [
+        "Πρέπει να αποκρυπτογραφήσουμε τοπικά τις επαφές σας προτού μπορέσετε να τις εξάγετε. Στο τέλος της διαδικασίας, θα δημιουργηθεί ένα αρχείο VCF και θα μπορείτε να το κατεβάσετε."
+      ],
+      "There are files that still need to be transferred. Closing the transfer manager will end all operations.": [
+        "Υπάρχουν ακόμη αρχεία που χρειάζονται μεταφορά. Το κλείσιμο του διαχειριστή μεταφορών θα τερματίσει όλες τις εργασίες."
+      ],
+      "There are no files yet": [
+        "Δεν υπάρχουν ακόμη αρχεία"
+      ],
+      "This account has been suspended due to a potential policy violation.": [
+        "Αυτός ο λογαριασμός έχει ανασταλεί λόγω ενδεχόμενης παραβίασης πολιτικής."
+      ],
+      "This address is disabled. To be able to send to this address, the owner must first enable the address.": [
+        "Αυτή η διεύθυνση είναι απενεργοποιημένη. Για να είναι δυνατή η αποστολή σε αυτήν τη διεύθυνση, ο κάτοχος πρέπει πρώτα να ενεργοποιήσει τη διεύθυνση."
+      ],
+      "This browser does not support previewing PDF documents. Please download the file.": [
+        "Αυτός ο περιηγητής δεν υποστηρίζει προεπισκόπηση αρχείων PDF. Παρακαλούμε κατεβάστε το αρχείο."
+      ],
+      "This link leads to a website that might be trying to steal your information, such as passwords and credit card details.": [
+        "Αυτός ο σύνδεσμος οδηγεί σε μια ιστοσελίδα που ενδέχεται να επιχειρήσει να υποκλέψει πληροφορίες σας, όπως κωδικούς πρόσβασης και στοιχεία πιστωτικών καρτών."
+      ],
+      "This link may be a homograph attack. Please verify this is the link you wish to visit, or don't open it.": [
+        "Αυτός ο σύνδεσμος μπορεί να είναι επίθεση ομογραφίας. Βεβαιωθείτε ότι πρόκειται για το σύνδεσμο που θέλετε να επισκεφθείτε, ή μην το ανοίξετε."
+      ],
+      "This link was created with old Drive version and can not be modified. Delete this link and create a new one to change the settings.": [
+        "Αυτός ο σύνδεσμος δεν μπορεί να τροποποιηθεί, επειδή δημιουργήθηκε σε παρωχημένη έκδοση του Drive. Για να αλλάξετε τη σύνδεση, διαγράψτε τον και δημιουργήστε έναν νέο."
+      ],
+      "This link will be permanently disabled. No one with this link will be able to access your file. To reshare the file, you will need a new link.": [
+        "Αυτός ο σύνδεσμος θα απενεργοποιηθεί μόνιμα. Κανείς με αυτόν τον σύνδεσμο δε θα έχει πρόσβαση στο αρχείο. Για επαναδιαμοιρασμό του αρχείου, θα χρειαστείτε έναν νέο σύνδεσμο."
+      ],
+      "This link will be permanently disabled. No one with this link will be able to access your folder. To reshare the folder, you will need a new link.": [
+        "Αυτός ο σύνδεσμος θα απενεργοποιηθεί μόνιμα. Κανείς με αυτόν τον σύνδεσμο δε θα έχει πρόσβαση στο φάκελο. Για επαναδιαμοιρασμό του φακέλου, θα χρειαστείτε έναν νέο σύνδεσμο."
+      ],
+      "This will delete the link and remove access to your file or folder for anyone with the link.": [
+        "Αυτό θα διαγράψει τον σύνδεσμο και θα καταργήσει την πρόσβαση στο αρχείο ή φάκελο σας για οποιονδήποτε με τον σύνδεσμο.",
+        "Αυτό θα διαγράψει τους συνδέσμους και θα καταργήσει την πρόσβαση στα αρχεία ή φακέλους σας για οποιονδήποτε με τους συνδέσμους."
+      ],
+      "This will overwrite the existing file": [
+        "Αυτή η εγγραφή θα διαγράψει το αρχείο που ήδη υπάρχει"
+      ],
+      "This will overwrite the existing folder": [
+        "Αυτή η εγγραφή θα διαγράψει τον φάκελο που ήδη υπάρχει"
+      ],
+      "To fight spam and abuse, please verify you are human.": [
+        "Για την καταπολέμηση ενοχλήσεων και καταχρήσεων, παρακαλούμε επαληθεύστε ότι είστε άνθρωπος."
+      ],
+      "To re-sign your contacts, we need to check every contact against the list of encryption keys available in your account. If no match is found, your contact will be re-signed with the primary encryption key.": [
+        "Για να υπογράψουμε εκ νέου τις επαφές σας, πρέπει να ελέγξουμε κάθε επαφή με τη λίστα των κλειδιών κρυπτογράφησης που είναι διαθέσιμα στο λογαριασμό σας. Αν δεν βρεθεί αντιστοιχία, η επαφή σας θα επανσυνδεθεί με το πρωτεύον κλειδί κρυπτογράφησης."
+      ],
+      "To recover your data, you need to re-activate the contact encryption key used at the time when the data was created. This will require you to remember the password used when the key was generated.": [
+        "Για να ανακτήσετε τα δεδομένα σας, πρέπει να ενεργοποιήσετε ξανά το κλειδί κρυπτογράφησης επαφής που χρησιμοποιήθηκε τη στιγμή της δημιουργίας των δεδομένων. Αυτό θα απαιτήσει από εσάς να θυμηθείτε τον κωδικό πρόσβασης που χρησιμοποιείται όταν δημιουργήθηκε το κλειδί."
+      ],
+      "To use Address Verification, you must trust one or more available public keys, including the one you want to use for sending. This prevents the encryption keys from being faked.": [
+        "Για να χρησιμοποιήσετε την Επαλήθευση διεύθυνσης, πρέπει να χαρακτηρίσετε Αξιόπιστα ένα ή περισσότερα διαθέσιμα δημόσια κλειδιά, συμπεριλαμβανομένου αυτού που θέλετε να χρησιμοποιήσετε για αποστολή. Αυτό αποτρέπει την απομίμηση των κρυπτογραφημένων κλειδιών."
+      ],
+      "Transfer canceled for file \"${ name }\"": [
+        "Ακύρωση μεταφοράς για το αρχείο \"${ name }\""
+      ],
+      "Transfer canceled for folder \"${ name }\"": [
+        "Ακύρωση μεταφοράς για τον φάκελο \"${ name }\""
+      ],
+      "Transfer skipped for file \"${ file.name }\"": [
+        "Παράλειψη μεταφοράς για το αρχείο \"${ file.name }\""
+      ],
+      "Transfer skipped for folder \"${ folderName }\"": [
+        "Παράλειψη μεταφοράς για τον φάκελο \"${ folderName }\""
+      ],
+      "Trash": [
+        "Διαγραμμένα"
+      ],
+      "Unlimited folders, labels, and filters": [
+        "Απεριόριστοι φάκελοι, ετικέτες και φίλτρα"
+      ],
+      "Unlimited messages": [
+        "Aπεριόριστα μηνύματα"
+      ],
+      "Unlock drive to recover files": [
+        "Ξεκλείδωμα αρχειοθήκης προς ανάκτηση αρχείων"
+      ],
+      "Unsupported file": [
+        "Μη υποστηριζόμενο αρχείο"
+      ],
+      "Updating drive search...": [
+        "Ενημέρωση τοπικής αναζήτησης..."
+      ],
+      "Upgrade today to avoid losing the following ${ planName } benefits.": [
+        "Αναβαθμίστε σήμερα για να μη χάσετε τα παρακάτω προνόμια ${ planName }."
+      ],
+      "Uploaded": [
+        "Ανέβηκε"
+      ],
+      "Uploading": [
+        "Ανέβασμα"
+      ],
+      "Uploading hundreds of files at once may have a performance impact.": [
+        "Το ανέβασμα εκατοντάδων αρχείων με τη μία ενδέχεται να μειώσει τις επιδόσεις."
+      ],
+      "We couldn’t verify that ${ emailAddress } uploaded ${ fileName }.": [
+        "Δεν μπορέσαμε να επαληθεύσουμε ότι το ${ fileName } ανέβηκε από ${ emailAddress }."
+      ],
+      "We couldn’t verify who uploaded ${ fileName }.": [
+        "Δεν μπορέσαμε να επαληθεύσουμε ποιος ανέβασε το ${ fileName }."
+      ],
+      "We'll notify you when the import is done.": [
+        "Θα σας ειδοποιήσουμε όταν ολοκληρωθεί η εισαγωγή."
+      ],
+      "We'll send a new verification code to ${ strong }": [
+        "Θα στείλουμε νέο κωδικό επαλήθευσης στο ${ strong }"
+      ],
+      "Week": [
+        "Εβδομάδα"
+      ],
+      "What do you want to do?": [
+        "Τι θέλετε να κάνετε;"
+      ],
+      "What would you like to do?": [
+        "Τι θα θέλατε να κάνετε;"
+      ],
+      "Would you like to receive a new verification code or use an alternative verification method?": [
+        "Θέλετε να λάβετε έναν νέο κωδικό επαλήθευσης ή να χρησιμοποιήσετε μια εναλλακτική μέθοδο επαλήθευσης;"
+      ],
+      "Would you like to receive a new verification code?": [
+        "Θα θέλατε να λάβετε νέο κωδικό επαλήθευσης;"
+      ],
+      "Would you like to restore your files?": [
+        "Θα θέλατε επαναφορά των αρχείων σας;"
+      ],
+      "Yes": [
+        "Ναι"
+      ],
+      "You are about to open another browser tab and visit:": [
+        "Πρόκειται να ανοίξετε μια άλλη καρτέλα προγράμματος περιήγησης και να επισκεφτείτε:"
+      ],
+      "You are currently signed in as ${ user.Name } (${ user.Email }).": [
+        "Είστε συνδεδεμένος/η ως ${ user.Name } (${ user.Email })."
+      ],
+      "You can check the progress ${ importProgressLink }.": [
+        "Μπορείτε να δείτε την πρόοδο ${ importProgressLink }."
+      ],
+      "You can import one data type at a time.": [
+        "Μπορεί να εισαχθεί ένας τύπος δεδομένων τη φορά."
+      ],
+      "You can turn on notifications to get alerts when new email messages arrive in this folder.": [
+        "Μπορείτε να ενεργοποιήσετε τις ειδοποιήσεις, για να λαμβάνετε ειδοποιήσεις όταν φτάνουν νέα email σε αυτόν το φάκελο."
+      ],
+      "You cannot undo this action.": [
+        "Δεν μπορείτε να αναιρέσετε αυτήν την ενέργεια."
+      ],
+      "You need to have an active personal calendar to import your events.": [
+        "Πρέπει να έχετε ένα ενεργό προσωπικό ημερολόγιο για να εισαγάγετε τις εκδηλώσεις σας."
+      ],
+      "You reached ${ spaceDisplayed }% of your storage capacity. ${ freeUpMessage } ${ upgradeLink }": [
+        "Φτάσατε ${ spaceDisplayed }% της χωρητικότητας αποθήκευσης. ${ freeUpMessage } ${ upgradeLink }"
+      ],
+      "You reached 100% of your storage capacity. You cannot send or receive new emails. ${ freeUpMessage } ${ upgradeLink }": [
+        "Φτάσατε στο 100% της χωρητικότητας αποθήκευσης. Δεν μπορείτε να στείλετε ή να λάβετε νέα μηνύματα ηλεκτρονικού ταχυδρομείου. ${ freeUpMessage } ${ upgradeLink }"
+      ],
+      "You will lose all unsaved changes.": [
+        "Θα χάσετε όλες τις αλλαγές που δεν έχετε αποθηκεύσει."
+      ],
+      "Your account has at least one overdue invoice. Your access will soon get restricted. ${ payInvoiceLink }": [
+        "Ο λογαριασμός σας έχει τουλάχιστον ένα εκπρόθεσμο τιμολόγιο. Η πρόσβαση σας σύντομα θα περιοριστεί. ${ payInvoiceLink }"
+      ],
+      "Your email will only be used for this one-time verification.": [
+        "Το email σας θα χρησιμοποιηθεί μόνο για αυτή τη εφάπαξ επαλήθευση."
+      ],
+      "Your files are no longer accessible due to a password reset. Re-upload the old encryption key to regain the access. ${ KeyReactivationButton }": [
+        "Τα αρχεία σας δεν είναι πλέον προσβάσιμα, λόγω επαναφοράς κωδικού πρόσβασης. Για επαναπόκτηση πρόσβασης, ανεβάστε ξανά το παλιό κλειδί κρυπτογράφησης. ${ KeyReactivationButton }"
+      ],
+      "Your files will be encrypted and then saved.": [
+        "Τα αρχεία σας θα κρυπτογραφηθούν και στη συνέχεια θα αποθηκευτούν."
+      ],
+      "Your import will not be processed.": [
+        "Η εισαγωγή σας δεν θα υποβληθεί σε επεξεργασία."
+      ],
+      "Your login information will not be saved after the import is completed.": [
+        "Τα στοιχεία σύνδεσής σας δεν θα αποθηκευτούν μετά την ολοκλήρωση της εισαγωγής."
+      ],
+      "Your phone number will only be used for this one-time verification.": [
+        "Ο αριθμός τηλεφώνου σας θα χρησιμοποιηθεί μόνο για αυτή τη εφάπαξ επαλήθευση."
+      ],
+      "Your previous password": [
+        "Ο προηγούμενος κωδικός πρόσβασής σας"
+      ],
+      "Your previous recovery phrase": [
+        "Η προηγούμενη φράση ανάκτησής σας"
+      ]
+    },
+    "Info on errors": {
+      "Click for details": [
+        "Κάντε κλικ για λεπτομέρειες"
+      ]
+    },
+    "Item": {
+      "file attributes": [
+        "ιδιότητες αρχείου"
+      ],
+      "file data": [
+        "δεδομένα αρχείου"
+      ],
+      "file data key": [
+        "κλειδί δεδομένων αρχείου"
+      ],
+      "keys": [
+        "κλειδιά"
+      ],
+      "name": [
+        "όνομα"
+      ],
+      "thumbnail": [
+        "μικρογραφία"
+      ]
+    },
+    "Key badge": {
+      "Expired": [
+        "Έχει λήξει"
+      ],
+      "Primary": [
+        "Κύριο"
+      ],
+      "Revoked": [
+        "Έχει ανακληθεί"
+      ],
+      "Trusted": [
+        "Αξιόπιστο"
+      ],
+      "WKD": [
+        "WKD"
+      ]
+    },
+    "Label": {
+      "# of accesses": [
+        "# των προσβάσεων"
+      ],
+      "(Expired)": [
+        "(Ληγμένο)"
+      ],
+      "(Temporarily unavailable. Please check back later.)": [
+        "(Προσωρινά μη διαθέσιμο. Παρακαλούμε ελέγξτε ξανά αργότερα.)"
+      ],
+      "Add email address": [
+        "Προσθήκη διεύθυνσης E-mail"
+      ],
+      "Add image URL": [
+        "Προσθήκη εικόνας με URL"
+      ],
+      "Add to group": [
+        "Προσθήκη στην ομάδα"
+      ],
+      "App password": [
+        "Κωδικός πρόσβασης εφαρμογής"
+      ],
+      "Apply to all duplicated files": [
+        "Εφαρμογή σε όλα τα ομώνυμα αρχεία"
+      ],
+      "Apply to all duplicated folders": [
+        "Εφαρμογή σε όλους τους ομώνυμους φακέλους"
+      ],
+      "Apply to all unverified items": [
+        "Εφαρμογή σε όλα τα μη επαληθευμένα στοιχεία"
+      ],
+      "Attach screenshot(s)": [
+        "Επισύναψη στιγμιότυπου/ων οθόνης"
+      ],
+      "Audio file": [
+        "Αρχείο ήχου"
+      ],
+      "Automatically save contacts": [
+        "Αυτόματη αποθήκευση επαφών"
+      ],
+      "Awful": [
+        "Απαίσια"
+      ],
+      "Bad": [
+        "Κακή"
+      ],
+      "Browser": [
+        "Πρόγραμμα περιήγησης"
+      ],
+      "Browser version": [
+        "Έκδοση προγράμματος περιήγησης"
+      ],
+      "Calendars": [
+        "Ημερολόγια"
+      ],
+      "Cancel download": [
+        "Ακύρωση λήψης"
+      ],
+      "Category": [
+        "Κατηγορία"
+      ],
+      "Child sexual abuse material": [
+        "Υλικό παιδικής πορνογραφίας"
+      ],
+      "City": [
+        "Πόλη"
+      ],
+      "Code is 6 digits without spaces": [
+        "Ο κωδικός είναι 6 ψηφία χωρίς κενά"
+      ],
+      "Comment": [
+        "Σχόλιο"
+      ],
+      "Contacts": [
+        "Επαφές"
+      ],
+      "Copy": [
+        "Αντιγραφή"
+      ],
+      "Country": [
+        "Χώρα"
+      ],
+      "Created": [
+        "Δημιουργήθηκε"
+      ],
+      "Delete": [
+        "Διαγραφή"
+      ],
+      "Delete drive?": [
+        "Διαγραφή αρχειοθήκης;",
+        "Διαγραφή αρχειοθηκών;"
+      ],
+      "Deleted": [
+        "Διαγράφηκαν"
+      ],
+      "Do not ask again": [
+        "Να μην ερωτηθώ ξανά"
+      ],
+      "Download anyway": [
+        "Λήψη οπωσδήποτε"
+      ],
+      "Email": [
+        "Email"
+      ],
+      "Email address": [
+        "Διεύθυνση email"
+      ],
+      "Email format": [
+        "Μορφή μηνύματος"
+      ],
+      "Emails": [
+        "Μηνύματα"
+      ],
+      "Enable Beta Access": [
+        "Ενεργοποίηση Πρόσβασης Beta"
+      ],
+      "Encrypt emails": [
+        "Κρυπτογραφημένα E-mails"
+      ],
+      "Expired": [
+        "Έχει λήξει"
+      ],
+      "Expires": [
+        "Λήγει"
+      ],
+      "Export contacts": [
+        "Εξαγωγή Επαφών"
+      ],
+      "Extended address": [
+        "Εκτεταμένη διεύθυνση"
+      ],
+      "File": [
+        "Αρχείο"
+      ],
+      "File name": [
+        "Όνομα αρχείου"
+      ],
+      "Folder": [
+        "Φάκελος"
+      ],
+      "Folder location": [
+        "Τοποθεσία φακέλου"
+      ],
+      "Folder name": [
+        "Όνομα φακέλου"
+      ],
+      "From: ${ emailFrom }": [
+        "Από: ${ emailFrom }"
+      ],
+      "From: ${ importedEmail }": [
+        "Από: ${ importedEmail }"
+      ],
+      "From: ${ importedEmailAddress }": [
+        "Από: ${ importedEmailAddress }"
+      ],
+      "Good": [
+        "Καλή"
+      ],
+      "Hide password": [
+        "Απόκρυψη κωδικού πρόσβασης"
+      ],
+      "I understand the risk": [
+        "Καταλαβαίνω τον κίνδυνο"
+      ],
+      "Image": [
+        "Εικόνα"
+      ],
+      "Import all messages": [
+        "Εισαγωγή όλων των μηνυμάτων"
+      ],
+      "Import contacts": [
+        "Εισαγωγή Επαφών"
+      ],
+      "Import interval": [
+        "Μεσοδιάστημα εισαγωγών"
+      ],
+      "Import to email address": [
+        "Εισαγωγή σε διεύθυνση email"
+      ],
+      "Import to:": [
+        "Εισαγωγή σε:"
+      ],
+      "Label messages as": [
+        "Επισήμανση μηνυμάτων ως"
+      ],
+      "Last 12 months only": [
+        "Τελευταίοι 12 μήνες μόνο"
+      ],
+      "Last 3 months only": [
+        "Τελευταίοι 3 μήνες μόνο"
+      ],
+      "Last month only": [
+        "Τελευταίο μήνα μόνο"
+      ],
+      "Location": [
+        "Τοποθεσία"
+      ],
+      "Mail Server (IMAP)": [
+        "Διακομιστής Αλληλογραφίας (IMAP)"
+      ],
+      "Mailbox password": [
+        "Κωδικός Θυρίδας"
+      ],
+      "Malware": [
+        "Κακόβουλο λογισμικό"
+      ],
+      "Manage folders": [
+        "Διαχείριση φακέλων"
+      ],
+      "Manage labels": [
+        "Διαχείριση ετικετών"
+      ],
+      "Merge a folder": [
+        "Συγχώνευση φακέλου"
+      ],
+      "Modified": [
+        "Τροποποιήθηκε"
+      ],
+      "Move to Archive": [
+        "Μεταφορά στα Αρχειοθετημένα"
+      ],
+      "Move to Inbox": [
+        "Μετακίνηση στα Εισερχόμενα"
+      ],
+      "Name": [
+        "Όνομα"
+      ],
+      "Never": [
+        "Ποτέ"
+      ],
+      "Notification": [
+        "Ειδοποίηση"
+      ],
+      "OK": [
+        "Αποδεκτή"
+      ],
+      "Operating system": [
+        "Λειτουργικό σύστημα (OS)"
+      ],
+      "Operating system version": [
+        "Έκδοση λειτουργικού συστήματος"
+      ],
+      "Other": [
+        "Άλλο"
+      ],
+      "Password": [
+        "Κωδικός πρόσβασης"
+      ],
+      "PGP scheme": [
+        "Σύστημα PGP"
+      ],
+      "Phone number": [
+        "Αριθμός τηλεφώνου"
+      ],
+      "Port": [
+        "Θύρα"
+      ],
+      "Post office box": [
+        "Ταχυδρομική θυρίδα"
+      ],
+      "Postal code": [
+        "Ταχυδρομικός κώδικας"
+      ],
+      "Protect with password": [
+        "Προστασία με κωδικό πρόσβασης"
+      ],
+      "Public keys": [
+        "Δημόσια κλειδιά"
+      ],
+      "Region": [
+        "Περιοχή"
+      ],
+      "Replace file": [
+        "Αντικατάσταση αρχείου"
+      ],
+      "Replace folder": [
+        "Αντικατάσταση φακέλου"
+      ],
+      "Report Abuse": [
+        "Αναφορά Κατάχρησης"
+      ],
+      "Reveal password": [
+        "Εμφάνιση κωδικού"
+      ],
+      "Select type of abuse": [
+        "Επιλογή τύπου κατάχρησης"
+      ],
+      "Set expiration date": [
+        "Ορισμός ημερομηνίας λήξης"
+      ],
+      "Sign emails": [
+        "Υπογραφεί ηλεκτρονικών ταχυδρομείων"
+      ],
+      "Size": [
+        "Μέγεθος"
+      ],
+      "Skip file": [
+        "Παράλειψη αρχείου"
+      ],
+      "Skip folder": [
+        "Παράλειψη φακέλου"
+      ],
+      "Spam": [
+        "Ενοχλητικό"
+      ],
+      "Stolen data": [
+        "Κλεμμένα δεδομένα"
+      ],
+      "Street address": [
+        "Οδός"
+      ],
+      "System information": [
+        "Πληροφορίες Συστήματος"
+      ],
+      "Text": [
+        "Κείμενο"
+      ],
+      "This will permanently delete all files in your locked drive.": [
+        "Αυτό θα διαγράψει οριστικά όλα τα αρχεία στην κλειδωμένη αρχειοθήκη σας."
+      ],
+      "To: ${ emailAddress }": [
+        "Προς: ${ emailAddress }"
+      ],
+      "To: ${ emailTo }": [
+        "Προς: ${ emailTo }"
+      ],
+      "To: ${ PMEmailAddress }": [
+        "Προς: ${ PMEmailAddress }"
+      ],
+      "Two-factor authentication code": [
+        "Κωδικός ταυτοποίησης δύο παραγόντων"
+      ],
+      "Type": [
+        "Τύπος"
+      ],
+      "Unknown file": [
+        "Άγνωστο αρχείο"
+      ],
+      "Unlock drive": [
+        "Ξεκλείδωμα αρχειοθήκης"
+      ],
+      "Unlock drive (recommended)": [
+        "Ξεκλείδωμα αρχειοθήκης (συστήνεται)"
+      ],
+      "Unlock later": [
+        "Ξεκλείδωμα αργότερα"
+      ],
+      "Upload anyway": [
+        "Ανέβασμα οπωσδήποτε"
+      ],
+      "Upload file": [
+        "Ανέβασμα αρχείου"
+      ],
+      "Upload picture": [
+        "Ανέβασμα εικόνας"
+      ],
+      "Username or ${ MAIL_APP_NAME } address": [
+        "Όνομα χρήστη ή διεύθυνση ${ MAIL_APP_NAME }"
+      ],
+      "Verification code": [
+        "Κωδικός επαλήθευσης"
+      ],
+      "Video file": [
+        "Αρχείο βίντεο"
+      ],
+      "What happened?": [
+        "Τι συνέβη;"
+      ],
+      "Wonderful": [
+        "Θαυμάσια"
+      ],
+      "Yes, I want to permanently delete\nmy old files": [
+        "Ναι, επιθυμώ την οριστική διαγραφή των παλιών αρχείων μου"
+      ],
+      "Your password (admin)": [
+        "Ο κωδικός σας (διαχειριστής)"
+      ]
+    },
+    "Label for contact group color": {
+      "Color": [
+        "Χρώμα"
+      ]
+    },
+    "Label for contact group name": {
+      "Name": [
+        "Όνομα"
+      ]
+    },
+    "Label/folder modal": {
+      "Create folder": [
+        "Δημιουργία φακέλου"
+      ],
+      "Create label": [
+        "Δημιουργία ετικέτας"
+      ],
+      "Edit folder": [
+        "Επεξεργασία φακέλου"
+      ],
+      "Edit label": [
+        "Επεξεργασία ετικέτας"
+      ]
+    },
+    "label/folder notification": {
+      "${ Label.Name } created": [
+        "${ Label.Name } δημιουργήθηκε"
+      ]
+    },
+    "Link": {
+      "clearing your browser cache": [
+        "εκκαθάριση της προσωρινής μνήμης του προγράμματος περιήγησης"
+      ],
+      "Learn more": [
+        "Μάθετε περισσότερα"
+      ],
+      "Pay invoice": [
+        "Πληρωμή τιμολογίου"
+      ],
+      "Request an invite": [
+        "Ζητήστε μια πρόσκληση"
+      ],
+      "Shared": [
+        "Κοινοποιημένα"
+      ],
+      "Trash": [
+        "Διαγραμμένα"
+      ],
+      "Upgrade account": [
+        "Αναβάθμιση λογαριασμού"
+      ]
+    },
+    "Loading info": {
+      "Almost there": [
+        "Ακόμα λίγο"
+      ],
+      "Amount of calendars created: ${ createdCalendars } out of ${ calendarsToBeCreated }": [
+        "Πλήθος ημερολογίων που δημιουργήθηκαν: ${ createdCalendars } από ${ calendarsToBeCreated }"
+      ],
+      "Connecting to your email provider": [
+        "Γίνεται σύνδεση με τον πάροχο ηλεκτρονικού ταχυδρομείου σας"
+      ],
+      "Creating new calendars": [
+        "Δημιουργία νέων ημερολόγιων"
+      ],
+      "Gathering your data": [
+        "Συγκέντρωση των δεδομένων σας"
+      ],
+      "We're gathering your data from your provider": [
+        "Συγκεντρώνουμε τα δεδομένα σας από τον πάροχό σας"
+      ],
+      "Your import is starting": [
+        "Η εισαγωγή σας εκκινεί"
+      ]
+    },
+    "Message display when a new app version is available": {
+      "A new version of ${ appName } is available. ${ reloadButton }.": [
+        "Μια νέα έκδοση του ${ appName } είναι διαθέσιμη. ${ reloadButton }."
+      ]
+    },
+    "MIME type": {
+      "Automatic": [
+        "Αυτόματο"
+      ],
+      "Plain text": [
+        "Σκέτο κείμενο"
+      ]
+    },
+    "Modal title": {
+      "How to import calendars from another service": [
+        "Πώς να εισάγετε ημερολόγια από μια άλλη υπηρεσία"
+      ],
+      "How to import calendars from Outlook": [
+        "Πώς να εισάγετε ημερολόγια από το Outlook"
+      ],
+      "How to import calendars from Yahoo": [
+        "Πώς να εισάγετε ημερολόγια από το Yahoo"
+      ],
+      "How to import contacts from another service": [
+        "Πώς να εισάγετε επαφές από μια άλλη υπηρεασία"
+      ],
+      "How to import contacts from Outlook": [
+        "Πώς να εισάγετε επαφές από το Outlook"
+      ],
+      "How to import contacts from Yahoo": [
+        "Πώς να εισάγετε επαφές από το Yahoo"
+      ],
+      "How to import emails from another service": [
+        "Πώς να εισάγετε email από μια άλλη υπηρεσία"
+      ],
+      "How to import emails from Outlook": [
+        "Πώς να εισάγετε email από το Outlook"
+      ],
+      "How to import emails from Yahoo": [
+        "Πώς να εισάγετε email από το Yahoo"
+      ]
+    },
+    "New Label form": {
+      "Color": [
+        "Χρώμα"
+      ],
+      "Folder name": [
+        "Όνομα φακέλου"
+      ],
+      "Label name": [
+        "Όνομα ετικέτας"
+      ]
+    },
+    "new_plans: action": {
+      "Switch or add account": [
+        "Εναλλαγή ή προσθήκη λογαριασμού"
+      ]
+    },
+    "new_plans: label": {
+      "Tell us about your experience. (Optional)": [
+        "Πείτε μας για την εμπειρία σας. (Προαιρετικό)"
+      ]
+    },
+    "new_plans: placeholder": {
+      "Feedback": [
+        "Σχόλια"
+      ]
+    },
+    "Notification": {
+      "\"${ name }\" created successfully": [
+        "Το \"${ name }\" δημιουργήθηκε επιτυχώς"
+      ],
+      "\"${ name }\" deleted permanently from trash": [
+        "Το \"${ name }\" εξαλείφθηκε οριστικά από τα Διαγραμμένα"
+      ],
+      "\"${ name }\" failed to be created": [
+        "Αποτυχία δημιουργίας του \"${ name }\""
+      ],
+      "\"${ name }\" failed to be deleted permanently from trash": [
+        "Αποτυχία οριστικής εξάλειψης του \"${ name }\" από τα Διαγραμμένα"
+      ],
+      "\"${ name }\" failed to be moved": [
+        "Αποτυχία μετακίνησης του \"${ name }\""
+      ],
+      "\"${ name }\" failed to be moved to trash": [
+        "Αποτυχία μετακίνησης του \"${ name }\" στα Διαγραμμένα"
+      ],
+      "\"${ name }\" failed to be restored from trash": [
+        "Αποτυχία επαναφοράς του \"${ name }\" από τα Διαγραμμένα"
+      ],
+      "\"${ name }\" moved to trash": [
+        "Το \"${ name }\" μετακινήθηκε στα Διαγραμμένα"
+      ],
+      "\"${ name }\" restored from trash": [
+        "Το \"${ name }\" επαναφέρθηκε από τα Διαγραμμένα"
+      ],
+      "\"${ name }\" successfully moved": [
+        "Επιτυχής μετακίνηση του \"${ name }\""
+      ],
+      "\"${ newName }\" failed to be renamed": [
+        "Αποτυχία μετονομασίας σε \"${ newName }\""
+      ],
+      "\"${ newName }\" renamed successfully": [
+        "Επιτυχής μετονομασία σε \"${ newName }\""
+      ],
+      "${ count } item failed to be decrypted": [
+        "${ count } αντικείμενο απέτυχε να αποκρυπτογραφηθεί",
+        "${ count } αντικείμενα απέτυχαν να αποκρυπτογραφηθούν"
+      ],
+      "${ numberOfItems } item deleted permanently from trash": [
+        "${ numberOfItems } στοιχείο εξαλείφθηκε οριστικά από τα Διαγραμμένα",
+        "${ numberOfItems } στοιχεία εξαλείφθηκαν οριστικά από τα Διαγραμμένα"
+      ],
+      "${ numberOfItems } item failed to be deleted permanently from trash": [
+        "Αποτυχία οριστικής εξάλειψης \"${ numberOfItems }\" στοιχείου από τα Διαγραμμένα",
+        "Αποτυχία οριστικής εξάλειψης \"${ numberOfItems }\" στοιχείων από τα Διαγραμμένα"
+      ],
+      "${ numberOfItems } item failed to be moved": [
+        "Αποτυχία μετακίνησης ${ numberOfItems } στοιχείου",
+        "Αποτυχία μετακίνησης ${ numberOfItems } στοιχείων"
+      ],
+      "${ numberOfItems } item failed to be moved to trash": [
+        "Αποτυχία μετακίνησης ${ numberOfItems } στοιχείου στα Διαγραμμένα",
+        "Αποτυχία μετακίνησης ${ numberOfItems } στοιχείων στα Διαγραμμένα"
+      ],
+      "${ numberOfItems } item failed to be restored from trash": [
+        "Αποτυχία επαναφοράς ${ numberOfItems } στοιχείου από τα Διαγραμμένα",
+        "Αποτυχία επαναφοράς ${ numberOfItems } στοιχείων από τα Διαγραμμένα"
+      ],
+      "${ numberOfItems } item moved to trash": [
+        "${ numberOfItems } στοιχείο μετακινήθηκε στα Διαγραμμένα",
+        "${ numberOfItems } στοιχεία μετακινήθηκαν στα Διαγραμμένα"
+      ],
+      "${ numberOfItems } item restored from trash": [
+        "${ numberOfItems } στοιχείο επαναφέρθηκε από τα Διαγραμμένα",
+        "${ numberOfItems } στοιχεία επαναφέρθηκαν από τα Διαγραμμένα"
+      ],
+      "${ numberOfItems } item successfully moved": [
+        "${ numberOfItems } στοιχείο μετακινήθηκε επιτυχώς",
+        "${ numberOfItems } στοιχεία μετακινήθηκαν επιτυχώς"
+      ],
+      "All items will soon be permanently deleted from trash": [
+        "Όλα τα διαγραμμένα στοιχεία σύντομα θα εξαλειφθούν οριστικά"
+      ],
+      "Contact group created": [
+        "Η ομάδα επαφών δημιουργήθηκε"
+      ],
+      "Contact group updated": [
+        "Η ομάδα επαφών ενημερώθηκε"
+      ],
+      "Encrypted search activated": [
+        "Κρυπτογραφημένη αναζήτηση ενεργή"
+      ],
+      "Failed to download files: ${ err }": [
+        "Αποτυχία λήψης αρχείων: ${ err }"
+      ],
+      "Failed to move, please try again": [
+        "Αποτυχία μετακίνησης, παρακαλώ δοκιμάστε ξανά"
+      ],
+      "Failed to upload files: ${ err }": [
+        "Αποτυχία ανεβάσματος αρχείων: ${ err }"
+      ],
+      "File or folder \"${ filename }\" and ${ count } other are already uploading": [
+        "Το αρχείο ή ο φάκελος \"${ filename }\" και ${ count } άλλο ήδη μεταφορτώνονται",
+        "Το αρχείο ή ο φάκελος \"${ filename }\" και ${ count } άλλα ήδη μεταφορτώνονται"
+      ],
+      "File or folder \"${ filename }\" is already uploading": [
+        "Το αρχείο ή ο φάκελος \"${ filename }\" ήδη μεταφορτώνονται"
+      ],
+      "File or folder is missing a name": [
+        "Το αρχείο ή ο φάκελος στερείται ονόματος"
+      ],
+      "Item failed to be verified": [
+        "Αποτυχία επαλήθευσης στοιχείου"
+      ],
+      "Link failed to be loaded": [
+        "Ο σύνδεσμος απέτυχε να φορτώσει"
+      ],
+      "Move ${ itemsToMoveCount } file": [
+        "Μετακίνηση ${ itemsToMoveCount } αρχείου",
+        "Μετακίνηση ${ itemsToMoveCount} αρχείων"
+      ],
+      "Move ${ itemsToMoveCount } folder": [
+        "Μετακίνηση ${ itemsToMoveCount } φακέλου",
+        "Μετακίνηση ${ itemsToMoveCount } φακέλων"
+      ],
+      "Move ${ itemsToMoveCount } item": [
+        "Μετακίνηση ${ itemsToMoveCount } στοιχείου",
+        "Μετακίνηση ${ itemsToMoveCount } στοιχείων"
+      ],
+      "Move ${ movingCount } file": [
+        "Μετακίνηση ${ movingCount } αρχείου",
+        "Μετακίνηση ${ movingCount } αρχείων"
+      ],
+      "Move ${ movingCount } folder": [
+        "Μετακίνηση ${ movingCount } φάκελου",
+        "Μετακίνηση ${ movingCount } φάκελων"
+      ],
+      "Move ${ movingCount } item": [
+        "Μετακίνηση ${ movingCount } στοιχείου",
+        "Μετακίνηση ${ movingCount } στοιχείων"
+      ],
+      "Next page failed to be loaded": [
+        "Η επόμενη σελίδα απέτυχε να φορτώσει"
+      ],
+      "Not enough space to upload ${ formattedTotal }": [
+        "Δεν υπάρχει αρκετός χώρος για αποστολή ${ formattedTotal }"
+      ],
+      "Root folder failed to be loaded": [
+        "Ο πρωταρχικός φάκελος απέτυχε να φορτώσει"
+      ],
+      "Subfolder failed to be loaded": [
+        "Ο υποφάκελος απέτυχε να φορτώσει"
+      ],
+      "The link to \"${ name }\" failed to be deleted": [
+        "Αποτυχία διαγραφής συνδέσμου προς το \"${ name }\""
+      ],
+      "The link to \"${ name }\" was deleted": [
+        "Ο σύνδεσμος προς το \"${ name }\" διαγράφηκε"
+      ],
+      "Trash failed to be emptied": [
+        "Αποτυχία εκκαθάρισης Διαγραμμένων"
+      ],
+      "Your old files will be deleted in 72 hours": [
+        "Τα παλιά αρχεία σας θα διαγραφούν εντός 72 ωρών"
+      ],
+      "Your settings failed to be saved": [
+        "Αποτυχία αποθήκευσης των ρυθμίσεών σας"
+      ],
+      "Your settings have been changed successfully": [
+        "Οι ρυθμίσεις σας άλλαξαν επιτυχώς"
+      ]
+    },
+    "Oauth instructions video": {
+      "For the import to work, you must select all requested items as shown in the GIF.": [
+        "Για να ολοκληρωθεί η διαδικασία της εισαγωγής πρέπει να επιλέξετε όλα τα απαραίτητα στοιχεία, όπως φαίνεται στο GIF."
+      ]
+    },
+    "Onboarding Action": {
+      "Next": [
+        "Επόμενο"
+      ]
+    },
+    "Onboarding Proton": {
+      "Configure your organization, link your domain name, and create accounts to ensure all members of your organization are protected.": [
+        "Ρυθμίστε τις παραμέτρους του οργανισμού σας, συνδέστε το όνομα τομέα σας και δημιουργήστε λογαριασμούς για να διασφαλίσετε ότι όλα τα μέλη του οργανισμού σας προστατεύονται."
+      ],
+      "Select a theme": [
+        "Επιλέξτε ένα θέμα"
+      ],
+      "Set up your organization": [
+        "Ρυθμίστε τον οργανισμό σας"
+      ],
+      "You can change this anytime in your settings.": [
+        "Μπορείτε να το αλλάξετε αυτό οποιαδήποτε στιγμή στις ρυθμίσεις σας."
+      ]
+    },
+    "Option": {
+      "Add to existing group": [
+        "Προσθήκη σε υπάρχουσα ομάδα"
+      ],
+      "Create new group": [
+        "Δημιουργία νέας ομάδας"
+      ],
+      "Ignore group": [
+        "Παράβλεψη ομάδας"
+      ],
+      "No parent folder": [
+        "Δεν υπάρχει γονικός φάκελος"
+      ]
+    },
+    "Option group label": {
+      "Create new calendar": [
+        "Δημιουργία νέου ημερολογίου"
+      ],
+      "Merge with calendar": [
+        "Συγχώνευση με ημερολόγιο"
+      ]
+    },
+    "Participant name": {
+      "You": [
+        "Εσείς"
+      ]
+    },
+    "PGP key encryption warning": {
+      "Key cannot be used for encryption": [
+        "Το κλειδί δεν μπορεί να χρησιμοποιηθεί για κρυπτογράφηση"
+      ]
+    },
+    "PGP key warning": {
+      "Email address not found among user ids defined in sending key (${ keyUserIds })": [
+        "Η διεύθυνση ηλεκτρονικού ταχυδρομείου δεν βρέθηκε μεταξύ των αναγνωριστικών χρήστη που ορίζονται στο κλειδί αποστολής (${ keyUserIds })"
+      ]
+    },
+    "Placeholder": {
+      "A way to contact you": [
+        "Ένας τρόπος να επικοινωνήσουμε μαζί σας"
+      ],
+      "E.g., ": [
+        "Για παράδειγμα, "
+      ],
+      "Enter a new folder name": [
+        "Παρακαλώ εισάγετε ένα νέο όνομα φακέλου"
+      ],
+      "Filter groups": [
+        "Φιλτράρισμα κατά ομάδες"
+      ],
+      "Image URL": [
+        "URL εικόνας"
+      ],
+      "Mailbox password": [
+        "Κωδικός Θυρίδας"
+      ],
+      "Name": [
+        "Όνομα"
+      ],
+      "Name or email address": [
+        "Όνομα ή ηλ. διεύθυνση"
+      ],
+      "New name": [
+        "Νέο όνομα"
+      ],
+      "Password": [
+        "Κωδικός πρόσβασης"
+      ],
+      "Please describe the problem and include any error messages": [
+        "Περιγράψτε το πρόβλημα και συμπεριλάβετε τυχόν μηνύματα σφάλματος"
+      ],
+      "Search for group name": [
+        "Αναζήτηση ονόματος ομάδας"
+      ],
+      "Search for name or email": [
+        "Αναζήτηση βάσει ονόματος ή e-mail"
+      ],
+      "Select": [
+        "Επιλογή"
+      ],
+      "Start typing an email address": [
+        "Έναρξη πληκτρολόγησης διεύθυνσης ηλεκτρονικού ταχυδρομείου"
+      ]
+    },
+    "Placeholder for contact group name": {
+      "Name": [
+        "Όνομα"
+      ]
+    },
+    "Progress bar description": {
+      "${ model.deleted.length } out of ${ totalBeDeleted } contact successfully deleted.": [
+        "Το ${ model.deleted.length } από την ${ totalBeDeleted } επαφή διαγράφηκε με επιτυχία.",
+        "Το ${ model.deleted.length } από τις ${ totalBeDeleted } επαφές διαγράφηκε με επιτυχία."
+      ],
+      "${ model.submitted.length } out of ${ totalBeMerged } contact successfully merged.": [
+        "${ model.submitted.length } από ${ totalBeMerged } επαφή συγχωνεύτηκε με επιτυχία.",
+        "${ model.submitted.length } από ${ totalBeMerged } επαφές συγχωνεύτηκαν με επιτυχία."
+      ],
+      "No contacts exported.": [
+        "Δεν εξήχθησαν επαφές."
+      ],
+      "No contacts merged.": [
+        "Δεν συγχωνεύτηκαν επαφές."
+      ],
+      "Progress: ${ combinedProgress }%": [
+        "Πρόοδος: ${ combinedProgress }%"
+      ]
+    },
+    "Property type": {
+      "Address": [
+        "Διεύθυνση"
+      ],
+      "Email": [
+        "Email"
+      ],
+      "Fax": [
+        "Φαξ"
+      ],
+      "Home": [
+        "Οικία"
+      ],
+      "Main": [
+        "Κύριο"
+      ],
+      "Mobile": [
+        "Κινητό"
+      ],
+      "Other": [
+        "Άλλο"
+      ],
+      "Pager": [
+        "Βομβητής"
+      ],
+      "Phone": [
+        "Τηλέφωνο"
+      ],
+      "Work": [
+        "Εργασία"
+      ]
+    },
+    "Refresh on apply warning": {
+      "Note: the service will reload after you click the Apply button.": [
+        "Σημείωση: η υπηρεσία θα φορτωθεί ξανά αφού κάνετε κλικ στο κουμπί Εφαρμογή."
+      ]
+    },
+    "Select files": {
+      "Upload": [
+        "Ανέβασμα"
+      ]
+    },
+    "Spotlight": {
+      "Encrypted search is here": [
+        "Η κρυπτογραφημένη αναζήτηση έφτασε"
+      ],
+      "Now you can easily search Drive files while keeping your data secure.": [
+        "Τώρα είναι δυνατή η αναζήτηση στην Αρχειοθήκη, εύκολα και διατηρώντας τη διασφάλιση των δεδομένων σας."
+      ],
+      "Try ${ DRIVE_APP_NAME }": [
+        "Δοκιμή ${ DRIVE_APP_NAME }"
+      ]
+    },
+    "Storage": {
+      "Release notes": [
+        "Σημειώσεις έκδοσης"
+      ],
+      "Upgrade storage": [
+        "Αναβάθμιση αποθηκευτικού χώρου"
+      ],
+      "Your current storage:": [
+        "Ο τρέχων χώρος αποθήκευσης:"
+      ]
+    },
+    "Success": {
+      "Address copied to clipboard": [
+        "Η διεύθυνση αντιγράφηκε στο πρόχειρο"
+      ],
+      "Bug reported": [
+        "Το σφάλμα αναφέρθηκε"
+      ],
+      "Canceling import": [
+        "Γίνεται ακύρωση εισαγωγής"
+      ],
+      "Code sent to ${ methodTo }": [
+        "Ο κωδικός στάλθηκε στο ${ methodTo }"
+      ],
+      "Contact deleted": [
+        "Η επαφή διαγράφηκε",
+        "Οι επαφές διαγράφηκαν"
+      ],
+      "Contact group deleted": [
+        "Η ομάδα επαφών διαγράφηκε",
+        "Η ομάδες επαφών διαγράφηκαν"
+      ],
+      "Contact saved": [
+        "Η επαφή αποθηκεύτηκε"
+      ],
+      "Contacts deleted": [
+        "Οι επαφές διαγράφηκαν"
+      ],
+      "Email address copied to clipboard": [
+        "Η διεύθυνση Email αντιγράφηκε στο πρόχειρο"
+      ],
+      "Fingerprint copied to clipboard": [
+        "Το αποτύπωμα αντιγράφηκε στο πρόχειρο"
+      ],
+      "Import record deleted": [
+        "Η εισαγωγή εγγραφής διαγράφηκε"
+      ],
+      "Phone number copied to clipboard": [
+        "Ο αριθμός τηλεφώνου αντιγράφηκε στο πρόχειρο"
+      ],
+      "Preference saved": [
+        "Η προτίμηση αποθηκεύτηκε"
+      ],
+      "Preferences saved": [
+        "Οι προτιμήσεις αποθηκεύτηκαν"
+      ],
+      "Recovery has started": [
+        "Η ανάκτηση έχει ξεκινήσει"
+      ],
+      "The link to your file was successfully copied": [
+        "Ο σύνδεσμος προς το αρχείο σας αντιγράφηκε επιτυχώς"
+      ],
+      "Verification successful": [
+        "Επιτυχία επαλήθευσης"
+      ]
+    },
+    "Success notification when user send feedback": {
+      "Feedback sent": [
+        "Τα σχόλια απεστάλησαν"
+      ]
+    },
+    "Table header": {
+      "Action": [
+        "Ενέργεια"
+      ],
+      "Actions": [
+        "Ενέργειες"
+      ],
+      "Address": [
+        "Διεύθυνση"
+      ],
+      "Created": [
+        "Δημιουργήθηκε"
+      ],
+      "Expires": [
+        "Λήγει"
+      ],
+      "Fingerprint": [
+        "Δακτυλικό αποτύπωμα"
+      ],
+      "Name": [
+        "Όνομα"
+      ],
+      "Status": [
+        "Κατάσταση"
+      ],
+      "Type": [
+        "Τύπος"
+      ]
+    },
+    "TableHeader": {
+      "Actions": [
+        "Ενέργειες"
+      ],
+      "Address": [
+        "Διεύθυνση"
+      ],
+      "CSV field": [
+        "CSV πεδίο"
+      ],
+      "Import": [
+        "Εισαγωγή"
+      ],
+      "Name": [
+        "Όνομα"
+      ],
+      "Values": [
+        "Τιμές"
+      ],
+      "vCard field": [
+        "πεδίο vCard"
+      ]
+    },
+    "Text": {
+      "Settings": [
+        "Ρυθμίσεις"
+      ]
+    },
+    "Time unit": {
+      "${ hours } hour": [
+        "${ hours } ώρα",
+        "${ hours } ώρες"
+      ],
+      "${ minutes } minute": [
+        "${ minutes } λεπτό",
+        "${ minutes } λεπτά"
+      ]
+    },
+    "Title": {
+      "# of accesses": [
+        "# των προσβάσεων"
+      ],
+      "${ emailsCount } member": [
+        "${ emailsCount } μέλος",
+        "${ emailsCount } μέλη"
+      ],
+      "Account suspended": [
+        "Ο λογαριασμός έχει ανασταλεί"
+      ],
+      "Active": [
+        "Ενεργά"
+      ],
+      "Add contact group name": [
+        "Προσθήκη ονόματος ομάδας επαφών"
+      ],
+      "Add to ${ groupCount } group": [
+        "Προσθέστε στη ${ groupCount } ομάδα επαφών",
+        "Προσθέστε στις ${ groupCount } ομάδες επαφών"
+      ],
+      "Add to ${ groupName }": [
+        "Προσθέστε στο ${ groupName }"
+      ],
+      "Addresses": [
+        "Διευθύνσεις"
+      ],
+      "All": [
+        "Όλα"
+      ],
+      "Back": [
+        "Πίσω"
+      ],
+      "Beta Access": [
+        "Beta Πρόσβαση"
+      ],
+      "Browser might run out of memory": [
+        "Ο περιηγητής ενδέχεται να ξεμείνει από μνήμη"
+      ],
+      "Change layout": [
+        "Αλλαγή διάταξης"
+      ],
+      "Clearing data": [
+        "Εκκαθάριση δεδομένων"
+      ],
+      "Completed": [
+        "Ολοκληρωμένα"
+      ],
+      "Contact details": [
+        "Στοιχεία επαφής"
+      ],
+      "Contact Details": [
+        "Στοιχεία Επαφής"
+      ],
+      "Contact group": [
+        "Ομάδα Επαφών"
+      ],
+      "Contacts": [
+        "Επαφές"
+      ],
+      "Continue with partial import?": [
+        "Συνέχιση με μερική εισαγωγή;"
+      ],
+      "Create a new folder": [
+        "Δημιουργία νέου φακέλου"
+      ],
+      "Create contact": [
+        "Δημιουργία επαφής"
+      ],
+      "Create new group": [
+        "Δημιουργία νέας ομάδας"
+      ],
+      "Currency": [
+        "Νόμισμα"
+      ],
+      "Customize and confirm": [
+        "Προσαρμογή και επιβεβαίωση"
+      ],
+      "Customize calendar import": [
+        "Προσαρμογή εισαγωγής ημερολογίου"
+      ],
+      "Customize your mail import": [
+        "Προσαρμογή εισαγωγής μηνυμάτων"
+      ],
+      "Date": [
+        "Ραντεβού"
+      ],
+      "Delete ${ count } contact": [
+        "Διαγραφή ${ count } επαφής",
+        "Διαγραφή ${ count } επαφών"
+      ],
+      "Delete ${ count } contact group": [
+        "Διαγραφή ${ count } ομάδα επαφών",
+        "Διαγραφή ${ count } ομάδες επαφών"
+      ],
+      "Delete ${ Name }": [
+        "Διαγραφή ${ Name }"
+      ],
+      "Delete permanently": [
+        "Οριστική διαγραφή"
+      ],
+      "Deleting contacts": [
+        "Διαγραφή επαφών"
+      ],
+      "Discard": [
+        "Απόρριψη"
+      ],
+      "Discard changes?": [
+        "Απόρριψη αλλαγών;"
+      ],
+      "Download unverified file?": [
+        "Λήψη μη επαληθευμένου αρχείου;"
+      ],
+      "Download unverified folder?": [
+        "Λήψη μη επαληθευμένου φακέλου;"
+      ],
+      "Drive": [
+        "Αρχειοθήκη"
+      ],
+      "Drop to upload": [
+        "Αφήστε το εδώ για να ανεβεί"
+      ],
+      "Duplicate file found": [
+        "Βρέθηκε ομώνυμο αρχείο"
+      ],
+      "Duplicate folder found": [
+        "Βρέθηκε ομώνυμος φάκελος"
+      ],
+      "Edit contact": [
+        "Επεξεργασία επαφής"
+      ],
+      "Edit contact group": [
+        "Επεξεργασία ομάδας επαφών"
+      ],
+      "Edit image": [
+        "Επεξεργασία εικόνας"
+      ],
+      "Email addresses": [
+        "Διευθύνσεις Email"
+      ],
+      "Email settings": [
+        "Ρυθμίσεις Email"
+      ],
+      "Empty trash": [
+        "Εκκαθάριση Διαγραμμένων"
+      ],
+      "Enter your password": [
+        "Εισάγετε τον κωδικό σας"
+      ],
+      "Enter your username or ${ MAIL_APP_NAME } email address": [
+        "Εισάγετε το όνομα χρήστη σας ή τη διεύθυνσή σας ${ MAIL_APP_NAME }"
+      ],
+      "Exporting contacts": [
+        "Γίνεται εξαγωγή επαφών"
+      ],
+      "Failed": [
+        "Αποτυχημένα"
+      ],
+      "Feedback": [
+        "Σχόλια"
+      ],
+      "File details": [
+        "Λεπτομέρειες αρχείου"
+      ],
+      "File recovery process": [
+        "Διαδικασία ανάκτησης αρχείων"
+      ],
+      "Files details": [
+        "Λεπτομέρειες αρχείων"
+      ],
+      "Folder details": [
+        "Λεπτομέρειες φακέλου"
+      ],
+      "Folders details": [
+        "Λεπτομέρειες φακέλου"
+      ],
+      "Found ${ searchView.numberOfResults } result": [
+        "Βρέθηκε ${ searchView.numberOfResults } αποτέλεσμα",
+        "Βρέθηκαν ${ searchView.numberOfResults } αποτελέσματα"
+      ],
+      "Groups": [
+        "Ομάδες"
+      ],
+      "Human verification": [
+        "Ανθρώπινη Επαλήθευση"
+      ],
+      "Import as simple event?": [
+        "Εισαγωγή ως απλή εκδήλωση;",
+        "Εισαγωγή ως απλές εκδηλώσεις;"
+      ],
+      "Import contacts": [
+        "Εισαγωγή Επαφών"
+      ],
+      "Import events": [
+        "Εισαγωγή εκδηλώσεων"
+      ],
+      "Import failed": [
+        "Αποτυχία εισαγωγής"
+      ],
+      "Invalid verification code": [
+        "Μη έγκυρος κωδικός επαλήθευσης"
+      ],
+      "Items details": [
+        "Λεπτομέρειες αντικειμένου"
+      ],
+      "Link confirmation": [
+        "Επιβεβαίωση συνδέσμου"
+      ],
+      "Location": [
+        "Τοποθεσία"
+      ],
+      "Manage secure link": [
+        "Διαχείριση ασφαλούς συνδέσμου"
+      ],
+      "Merge contacts": [
+        "Συγχώνευση Επαφών"
+      ],
+      "Merging contacts": [
+        "Συγχώνευση Επαφών"
+      ],
+      "MIME type": [
+        "Τύπος MIME"
+      ],
+      "Modified": [
+        "Τροποποιήθηκε"
+      ],
+      "My files": [
+        "Τα αρχεία μου"
+      ],
+      "My files ${ date }.zip": [
+        "Αρχεία μου ${ date }.zip"
+      ],
+      "Name": [
+        "Όνομα"
+      ],
+      "Number of files": [
+        "Αριθμός αρχείων"
+      ],
+      "Number of folders": [
+        "Πλήθος φακέλων"
+      ],
+      "Number of items": [
+        "Πλήθος αντικειμένων"
+      ],
+      "Open actions dropdown": [
+        "Άνοιγμα αναπτυσσόμενων επιλογών"
+      ],
+      "Open help menu": [
+        "Άνοιγμα μενού βοήθειας"
+      ],
+      "Open settings menu": [
+        "Άνοιγμα μενού ρυθμίσεων"
+      ],
+      "Other information": [
+        "Άλλες πληροφορίες"
+      ],
+      "Other names": [
+        "Άλλα ονόματα"
+      ],
+      "Performance might be affected": [
+        "Ίσως επηρεαστεί η απόδοση"
+      ],
+      "Phone numbers": [
+        "Αριθμοί Τηλεφώνου"
+      ],
+      "Privacy settings": [
+        "Ρυθμίσεις ιδιωτικότητας"
+      ],
+      "Re-sign all contacts": [
+        "Επανυπογραφή όλων των επαφών"
+      ],
+      "Re-signing contacts": [
+        "Επανυπογραφή επαφών"
+      ],
+      "Reconnect your account": [
+        "Επανασύνδεση του λογαριασμού σας"
+      ],
+      "Recover data": [
+        "Ανάκτηση δεδομένων"
+      ],
+      "Rename a file": [
+        "Μετονομασία αρχείου"
+      ],
+      "Rename a folder": [
+        "Μετονομασία Φακέλου"
+      ],
+      "Report a problem": [
+        "Αναφορά προβλήματος"
+      ],
+      "Request new code": [
+        "Αίτηση νέου κωδικού"
+      ],
+      "Restore your files": [
+        "Ανακτήστε τα αρχεία σας"
+      ],
+      "Search results": [
+        "Αποτελέσματα αναζήτησης"
+      ],
+      "Searching…": [
+        "Γίνεται αναζήτηση…"
+      ],
+      "Select a theme": [
+        "Επιλέξτε ένα θέμα"
+      ],
+      "Select action to take on contact group": [
+        "Επιλέξτε ενέργεια για την ομάδα επαφών"
+      ],
+      "Select contact group": [
+        "Επιλογή ομάδας επαφών"
+      ],
+      "Select link expiration date": [
+        "Επιλέξτε ημερομηνία λήξης συνδέσμου"
+      ],
+      "Select link expiration time": [
+        "Επιλέξτε το χρόνο λήξης του συνδέσμου"
+      ],
+      "Send feedback": [
+        "Αποστολή σχολίων"
+      ],
+      "Settings": [
+        "Ρυθμίσεις"
+      ],
+      "Share via link": [
+        "Κοινοποίηση μέσω συνδέσμου"
+      ],
+      "Shared": [
+        "Κοινοποιημένα"
+      ],
+      "Show actions": [
+        "Εμφάνιση ενεργειών"
+      ],
+      "Sign in and grant access": [
+        "Εισέλθετε και παραχωρήστε πρόσβαση"
+      ],
+      "Sign out": [
+        "Αποσύνδεση"
+      ],
+      "Size": [
+        "Μέγεθος"
+      ],
+      "Sort files/folders": [
+        "Ταξινόμηση αρχείων/φάκελων"
+      ],
+      "Start a new import": [
+        "Ξεκινήστε μια νέα εισαγωγή"
+      ],
+      "Start import process": [
+        "Έναρξη διαδικασίας εισαγωγής"
+      ],
+      "Stop sharing": [
+        "Διακοπή κοινής χρήσης"
+      ],
+      "Stop sharing with everyone?": [
+        "Διακοπή κοινοποίησης σε όλους;"
+      ],
+      "Stop transfers?": [
+        "Διακοπή μεταφορών;"
+      ],
+      "The link either does not exist or has expired": [
+        "Ο σύνδεσμος είτε δεν υπάρχει είτε έχει λήξει"
+      ],
+      "The link failed to be loaded": [
+        "Αποτυχία φόρτωσης συνδέσμου"
+      ],
+      "This file has a missing or invalid signature. Go to Menu (⋮) → Details for info.": [
+        "Αυτό το αρχείο έχει απούσα ή μη έγκυρη υπογραφή. Για πληροφορίες, μεταβείτε στο Μενού (⋮) → Λεπτομέρειες."
+      ],
+      "This folder has a missing or invalid signature. Go to Menu (⋮) → Details for info.": [
+        "Αυτός ο φάκελος έχει απούσα ή μη έγκυρη υπογραφή. Για πληροφορίες, μεταβείτε στο Μενού (⋮) → Λεπτομέρειες."
+      ],
+      "Total size": [
+        "Συνολικό μέγεθος"
+      ],
+      "Trash": [
+        "Διαγραμμένα"
+      ],
+      "Two-factor authentication": [
+        "Έλεγχος ταυτότητας δύο παραγόντων"
+      ],
+      "Type": [
+        "Τύπος"
+      ],
+      "Upgrade required": [
+        "Απαιτείται Αναβάθμιση"
+      ],
+      "Uploaded": [
+        "Ανέβηκε"
+      ],
+      "Uploaded by": [
+        "Ανέβηκε από"
+      ],
+      "View contacts": [
+        "Προβολή επαφών"
+      ],
+      "Warning": [
+        "Προειδοποίηση"
+      ],
+      "Warning: suspected fake website": [
+        "Προειδοποίηση: υποψία κίβδηλης ιστοσελίδας"
+      ],
+      "What would you like to import?": [
+        "Τι θα θέλατε να εισάγετε;"
+      ],
+      "What's new": [
+        "Τι νέο υπάρχει"
+      ],
+      "You have inaccessible files": [
+        "Έχετε μη προσβάσιμα αρχεία"
+      ],
+      "You have no files to share": [
+        "Δεν έχετε αρχεία για να κοινοποιήσετε"
+      ],
+      "You have no folders yet": [
+        "Δεν έχετε ακόμη φακέλους"
+      ]
+    },
+    "Today icon tooltip in mini calendar": {
+      "Today": [
+        "Σήμερα"
+      ]
+    },
+    "Tooltip": {
+      "Automatic indicates that the format in the composer is used to send to this user. Plain text indicates that the message will always be converted to plain text on send.": [
+        "Η επιλογή \"Αυτόματο\" υποδεικνύει ότι θα χρησιμοποιηθεί η μορφή κειμένου στην σύνταξη, για την αποστολή του μηνύματος στον συγκεκριμένο χρήστη. Το \"απλό κείμενο\" υποδηλώνει ότι το μήνυμα θα μετατρέπεται πάντα σε απλό κείμενο κατά την αποστολή."
+      ],
+      "Customize import to reduce the number of folders": [
+        "Προσαρμόστε την εισαγωγή για μείωση του αριθμού των φακέλων"
+      ],
+      "Customize import to reduce the number of labels": [
+        "Προσαρμόστε την εισαγωγή για μείωση του αριθμού των ετικετών"
+      ],
+      "Digitally signing emails helps authenticating that messages are sent by you": [
+        "Η ψηφιακή υπογραφή μηνυμάτων e-mail βοηθά στην εξακρίβωση ταυτότητας, ότι τα μηνύματα αποστέλλονται από εσάς"
+      ],
+      "Each imported email will have this label": [
+        "Κάθε εισαγόμενο μήνυμα ηλεκτρονικού ταχυδρομείου θα έχει αυτήν την ετικέτα"
+      ],
+      "Edit folder names": [
+        "Επεξεργασία ονομάτων φακέλων"
+      ],
+      "Edit label names": [
+        "Επεξεργασία ονομάτων ετικετών"
+      ],
+      "Email encryption forces email signature to help authenticate your sent messages": [
+        "Η κρυπτογράφηση μέσω ηλεκτρονικού ταχυδρομείου υποχρεώνει την ύπαρξη υπογραφής ηλεκτρονικού ταχυδρομείου για να σας βοηθήσει να πιστοποιήσετε τα απεσταλμένα μηνύματα"
+      ],
+      "Encrypted data": [
+        "Κρυπτογραφημένα δεδομένα"
+      ],
+      "Encrypted data with verified digital signature": [
+        "Κρυπτογραφημένα δεδομένα με επαληθευμένη ψηφιακή υπογραφή"
+      ],
+      "Select the PGP scheme to be used when signing or encrypting to a user. Note that PGP/Inline forces plain text messages": [
+        "Επιλέξτε το σχέδιο PGP που θα χρησιμοποιηθεί κατά την υπογραφή ή την κρυπτογράφηση σε ένα χρήστη. Σημειώστε ότι το PGP / Inline αναγκάζει την προβολή ως απλά μηνύματα κειμένου"
+      ],
+      "System subfolders will show up as separate folders in ${ MAIL_APP_NAME }": [
+        "Οι υποφάκελοι συστήματος θα εμφανιστούν στο ${ MAIL_APP_NAME } ως χωριστοί φάκελοι"
+      ],
+      "The import will start with the most recent messages.": [
+        "Η εισαγωγή θα ξεκινήσει με τα πιο πρόσφατα μηνύματα."
+      ],
+      "Upload a public key to enable sending end-to-end encrypted emails to this email": [
+        "Για ενεργοποίηση της αποστολής διατερματικά κρυπτογραφημένων μηνυμάτων προς αυτήν τη διεύθυνση, ανεβάστε ένα δημόσιο κλειδί"
+      ],
+      "You do not have any contacts to export": [
+        "Δεν έχετε επαφές προς εξαγωγή"
+      ]
+    },
+    "Validation": {
+      "Password must contain at least ${ length } character": [
+        "Ο κωδικός πρόσβασης πρέπει να περιέχει τουλάχιστον ${ length } χαρακτήρα",
+        "Ο κωδικός πρόσβασης πρέπει να περιέχει τουλάχιστον ${ length } χαρακτήρες"
+      ]
+    },
+    "Validation Error": {
+      "\"${ str }\" is not a valid name": [
+        "\"${ str }\" δεν είναι επιτρεπόμενο όνομα"
+      ],
+      "Name cannot include invisible characters, / or \\.": [
+        "Το όνομα δεν μπορεί να περιλαμβάνει αόρατους χαρακτήρες, / ή \\."
+      ],
+      "Name must not be empty": [
+        "Το όνομα δεν πρέπει να είναι άδειο"
+      ],
+      "Name must not begin with a space": [
+        "Το όνομα δε μπορεί να ξεκινάει με κενό διάστημα"
+      ],
+      "Name must not end with a space": [
+        "Το όνομα δεν μπορεί να τελειώνει με κενό διάστημα"
+      ]
+    },
+    "Video control": {
+      "Click to replay the video": [
+        "Κάντε κλικ για αναπαραγωγή του βίντεο ξανά"
+      ],
+      "Replay video": [
+        "Ξαναπαίξιμο βίντεο"
+      ]
+    },
+    "Warning": {
+      "Are you sure you want to discard your import?": [
+        "Θέλετε σίγουρα να απορρίψετε την εισαγωγή σας;"
+      ],
+      "Are you sure you want to permanently delete ${ count } contact group?": [
+        "Θέλετε σίγουρα να εξαλείψετε οριστικά ${ count } ομάδα επαφών;",
+        "Θέλετε σίγουρα να εξαλείψετε οριστικά ${ count } ομάδες επαφών;"
+      ],
+      "Are you sure you want to permanently delete ${ count } contact?": [
+        "Είστε βέβαιοι ότι θέλετε να διαγράψετε οριστικά ${ count } επαφή;",
+        "Είστε βέβαιοι ότι θέλετε να διαγράψετε οριστικά τις ${ count } επαφές;"
+      ],
+      "Are you sure you want to permanently delete this contact group?": [
+        "Είστε βέβαιοι ότι θέλετε να διαγράψετε οριστικά αυτήν την ομάδα επαφών;"
+      ],
+      "Are you sure you want to permanently delete this contact?": [
+        "Είστε βέβαιοι ότι θέλετε να διαγράψετε οριστικά αυτήν την επαφή;"
+      ],
+      "Contacts could not be merged": [
+        "Δεν ήταν δυνατή η συγχώνευση των επαφών"
+      ],
+      "If you don’t remember your password, it is impossible to re-activate your key. We can help you dismiss the alert banner but in the process you will permanently lose access to all the data encrypted with that key.": [
+        "Αν δεν θυμάστε τον κωδικό πρόσβασής σας, είναι αδύνατο να ενεργοποιήσετε ξανά το κλειδί σας. Μπορούμε να σας βοηθήσουμε να απορρίψετε το διαφημιστικό σήμα, αλλά κατά τη διαδικασία θα χάσετε μόνιμα την πρόσβαση σε όλα τα δεδομένα που κρυπτογραφούνται με αυτό το κλειδί."
+      ],
+      "Reports are not end-to-end encrypted, please do not send any sensitive information.": [
+        "Οι αναφορές δεν είναι διατερματικά κρυπτογραφημένες, παρακαλούμε μη στέλνετε ευαίσθητες πληροφορίες."
+      ],
+      "Some of the contacts to be merged display errors. Please review them individually": [
+        "Ορισμένες από τις επαφές που θα συγχωνευθούν, εμφανίζουν σφάλματα. Ελέγξτε τα ξεχωριστά"
+      ],
+      "The contact data is corrupted and cannot be displayed.": [
+        "Τα δεδομένα της επαφής είναι αλλοιωμένα και δεν μπορούν να προβληθούν."
+      ],
+      "The contact failed to load.": [
+        "Η επαφή απέτυχε να φορτωθεί."
+      ],
+      "The date and time settings on your device are out of sync. ${ learnMore }": [
+        "Οι ρυθμίσεις ημερομηνίας και ώρας στη συσκευή σας είναι εκτός συγχρονισμού. ${ learnMore }"
+      ],
+      "The decryption of the encrypted content failed.": [
+        "Η αποκρυπτογράφηση του κρυπτογραφημένου περιεχομένου απέτυχε."
+      ],
+      "The verification of the contact details' signature failed.": [
+        "Η επαλήθευση της υπογραφής των στοιχείων επαφής απέτυχε."
+      ],
+      "This action is irreversible. Please enter the word ${ boldDanger } in the field to proceed.": [
+        "Αυτή η ενέργεια είναι μη αναστρέψιμη. Παρακαλώ εισάγετε τη λέξη ${ boldDanger } στο πεδίο για να συνεχίσετε."
+      ],
+      "Unfortunately, we’re not online at the moment. Please complete the form below to describe your issue, and we will look into it and be in touch when we’re back online.": [
+        "Δυστυχώς, δεν είμαστε συνδεδεμένοι αυτή τη στιγμή. Παρακαλούμε συμπληρώστε την παρακάτω φόρμα για να περιγράψετε το πρόβλημά σας και θα το εξετάσουμε και θα επικοινωνήσουμε μαζί σας όταν επιστρέψουμε στο διαδίκτυο."
+      ],
+      "You will lose any customization you made so far.": [
+        "Θα χάσετε οποιαδήποτε προσαρμογές που κάνατε μέχρι στιγμής."
+      ]
+    }
+  }
+}
