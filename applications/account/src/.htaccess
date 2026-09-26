@@ -1,0 +1,59 @@
+RewriteEngine On
+
+# Redirect to https if not coming from https && not forwarded from https && not curl nor any health check user-agent
+RewriteCond %{HTTPS} !=on
+RewriteCond %{HTTP:X-Forwarded-Proto} !=https
+RewriteCond %{HTTP_USER_AGENT} !(^kube-probe|^GoogleHC|^curl)
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+
+# Redirect nothing to app
+RewriteRule ^$ /index.html [NC,L]
+
+# Redirect these routes to html files for SEO purposes
+RewriteRule ^login$ /login.html [NC,L]
+RewriteRule ^reset-password$ /reset-password.html [NC,L]
+RewriteRule ^forgot-username$ /forgot-username.html [NC,L]
+RewriteRule ^signup$ /signup.html [NC,L]
+RewriteRule ^refer-a-friend$ /refer-a-friend.html [NC,L]
+
+# Hide .git stuff
+RewriteRule ^.*?\.git.* /index.html [NC,L]
+
+RewriteCond %{REQUEST_FILENAME} -s [OR]
+RewriteCond %{REQUEST_FILENAME} -l [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^.*$ - [NC,L]
+
+RewriteRule ^lite.* /lite.html [NC,L]
+RewriteRule ^(.*) /index.html [NC,L]
+
+# Error pages
+ErrorDocument 403   /assets/errors/403.html
+
+<Files ~ "(index.html|version.json|storage.html|lite.html)">
+    FileETag None
+    Header unset ETag
+    Header set Cache-Control "max-age=0, no-cache, no-store, must-revalidate"
+    Header set Pragma "no-cache"
+    Header set Expires "Wed, 11 Jan 1984 05:00:00 GMT"
+</Files>
+
+<Files ~ "\.(ttf|otf|eot|woff|woff2)$">
+    # Take out the subdomain part (proton.me) of for example
+    # Origin: https://account-api.proton.me
+    # Host: account.proton.me
+    SetEnvIf Origin "^[^.]+\.(.*)$" origin=$0 origin_domain=$1
+    SetEnvIf Host "^[^.]+\.(.*)$" server_name_domain=$1
+    # Compare the subdomain variables
+    SetEnvIfExpr "reqenv('origin_domain') == reqenv('server_name_domain')" match=true
+    Header set Access-Control-Allow-Origin "%{origin}e" env=match
+</Files>
+
+<IfModule mod_mime.c>
+  AddType application/font-woff2 .woff2
+</IfModule>
+
+<IfModule mod_deflate.c>
+  AddOutputFilter INCLUDES;DEFLATE svg
+</IfModule>

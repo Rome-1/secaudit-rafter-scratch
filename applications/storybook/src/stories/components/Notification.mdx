@@ -1,0 +1,21 @@
+import { ArgsTable, Canvas, PRIMARY_STORY, Primary, Story } from '@storybook/addon-docs';
+
+# Notification
+
+Notifications are most easily used as part of a larger API exposed through the `useNotifications` hook.
+
+<Canvas withSource="open">
+    <Story id="components-notification--basic" />
+</Canvas>
+
+### Expiration
+
+Use the `expiration` prop to set how long the notification stays open for in milliseconds. Defaults to `3500`.
+
+<Canvas>
+    <Story id="components-notification--expiration" />
+</Canvas>
+
+<div class="hidden">
+    <Primary />
+</div>

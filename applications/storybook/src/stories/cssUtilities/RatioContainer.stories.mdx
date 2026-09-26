@@ -1,0 +1,66 @@
+import { Meta, Source } from '@storybook/addon-docs';
+
+import { getTitle } from '../../helpers/title';
+
+<Meta title={getTitle(__filename)} />
+
+# Square and ratio helpers
+
+For some components/special cases (responsive <code>iframe</code>, making a responsive square shape, responsive typography with SVG, etc.), we have to use the “padding-hack” technique, which is basically:
+
+<div class="flex flex-justify-space-between mb2 on-mobile-flex-column">
+    <div class="w49 flex-align-self-center">
+        <ul>
+            <li>A container uses padding-hack to get the desired ratio</li>
+            <li>And content inside is positioned in absolute and takes all available space.</li>
+        </ul>
+    </div>
+    <div class="w49">
+        <Source
+            language="html"
+            light
+            format
+            code={`
+<div class="ratio-container-square">
+  <div class="inner-ratio-container p1">
+    Some content in a square box
+    with ratio-container-square class.
+  </div>
+</div>
+`}
+        />
+    </div>
+</div>
+
+<br />
+<br />
+
+<div class="flex flex-justify-space-between flex-align-items-center mb2">
+  <div class="border w30">
+    <div class="ratio-container-square">
+      <div class="inner-ratio-container p1">
+        Some content in a square box with <code>ratio-container-square</code> class.
+      </div>
+    </div>
+  </div>
+
+  <div class="border w30">
+    <div class="ratio-container-16-9">
+      <div class="inner-ratio-container p1">
+        Some content in a 16/9 ratio box with <code>ratio-container-16-9</code> class.
+      </div>
+    </div>
+  </div>
+</div>
+
+<br />
+
+<div class="border">
+    <div class="ratio-container-5-1">
+        <div class="inner-ratio-container p1">
+            Some content in a box with <code>ratio-container-5-1</code> class.
+        </div>
+    </div>
+</div>
+
+This is a bit hacky, better not using it often.
