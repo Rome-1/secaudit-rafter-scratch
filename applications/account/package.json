@@ -1,0 +1,49 @@
+{
+    "name": "proton-account",
+    "description": "React web application to manage Proton accounts",
+    "keywords": [],
+    "license": "GPL-3.0",
+    "author": "",
+    "main": "index.js",
+    "scripts": {
+        "build": "cross-env NODE_ENV=production proton-pack build --appMode=sso",
+        "check-types": "tsc",
+        "i18n:upgrade": "proton-i18n extract --verbose && proton-i18n crowdin --verbose",
+        "i18n:validate": "proton-i18n validate lint-functions",
+        "i18n:validate:context": "proton-i18n extract && proton-i18n validate",
+        "postinstall": "proton-pack config",
+        "lint": "eslint src --ext .js,.ts,.tsx --quiet --cache",
+        "pretty": "prettier --write  $(find src/app -type f -name '*.js' -o -name '*.ts' -o -name '*.tsx')",
+        "start": "proton-pack dev-server --appMode=standalone",
+        "test": "jest --runInBand --ci",
+        "test:dev": "jest --watch --coverage=false"
+    },
+    "dependencies": {
+        "@proton/components": "workspace:packages/components",
+        "@proton/pack": "workspace:packages/pack",
+        "@proton/polyfill": "workspace:packages/polyfill",
+        "@proton/shared": "workspace:packages/shared",
+        "@proton/styles": "workspace:packages/styles",
+        "@types/react": "^17.0.53",
+        "@types/react-dom": "^17.0.18",
+        "react": "^17.0.2",
+        "react-dom": "^17.0.2",
+        "ttag": "^1.7.24"
+    },
+    "devDependencies": {
+        "@babel/preset-typescript": "^7.18.6",
+        "@proton/eslint-config-proton": "workspace:packages/eslint-config-proton",
+        "@proton/i18n": "workspace:packages/i18n",
+        "@testing-library/jest-dom": "^5.16.5",
+        "@testing-library/react": "^12.1.5",
+        "@types/jest": "^28.1.8",
+        "babel-jest": "^28.1.3",
+        "cross-env": "^7.0.3",
+        "eslint": "^8.33.0",
+        "jest": "^28.1.3",
+        "jest-environment-jsdom": "^28.1.3",
+        "jest-junit": "^14.0.1",
+        "prettier": "^2.8.3",
+        "typescript": "^4.9.5"
+    }
+}
