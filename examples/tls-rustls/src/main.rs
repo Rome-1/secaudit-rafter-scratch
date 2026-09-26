@@ -1,0 +1,44 @@
+//! Run with
+//!
+//! ```not_rust
+//! cd examples && cargo run -p example-tls-rustls
+//! ```
+
+use axum::{routing::get, Router};
+use axum_server::tls_rustls::RustlsConfig;
+use std::{net::SocketAddr, path::PathBuf};
+use tracing_subscriber::{layer::SubscriberExt, util::SubscriberInitExt};
+
+#[tokio::main]
+async fn main() {
+    tracing_subscriber::registry()
+        .with(tracing_subscriber::EnvFilter::new(
+            std::env::var("RUST_LOG").unwrap_or_else(|_| "example_tls_rustls=debug".into()),
+        ))
+        .with(tracing_subscriber::fmt::layer())
+        .init();
+
+    let config = RustlsConfig::from_pem_file(
+        PathBuf::from(env!("CARGO_MANIFEST_DIR"))
+            .join("self_signed_certs")
+            .join("cert.pem"),
+        PathBuf::from(env!("CARGO_MANIFEST_DIR"))
+            .join("self_signed_certs")
+            .join("key.pem"),
+    )
+    .await
+    .unwrap();
+
+    let app = Router::new().route("/", get(handler));
+
+    let addr = SocketAddr::from(([127, 0, 0, 1], 3000));
+    println!("listening on {}", addr);
+    axum_server::bind_rustls(addr, config)
+        .serve(app.into_make_service())
+        .await
+        .unwrap();
+}
+
+async fn handler() -> &'static str {
+    "Hello, World!"
+}
