@@ -1,0 +1,14 @@
+NSCameraUsageDescription = "Ta et bilde eller video for å legge dette til som vedlegg.";
+NSPhotoLibraryUsageDescription = "Legg til et bilde fra ditt bibliotek som vedlegg.";
+NSMicrophoneUsageDescription = "Brukes når man innspiller en video som vedlegg.";
+NSContactsUsageDescription = "Finn mottakerens e-postadresse i kontakter.";
+NSRemindersUsageDescription = "Viser varsling når det kommer ny e-post";
+TutaoShowCameraAction = "Kamera";
+TutaoChoosePhotosAction = "Bilder";
+TutaoNoPermissionTitle = "Ingen tillatelse";
+TutaoChangePermissionMsg = "For å gi adgang må du endre tillatelsene for denne enheten.";
+TutaoCancelAction = "Avbryt";
+TutaoSettingsAction = "Innstillinger";
+TutaoCalendarAlarmTitle = "Påminnelse";
+TutaoScheduleAlarmError = "Kunne ikke stille inn en alarm. Oppdater applikasjonen.";
+TutaoUnlockCredentialsAction = "Lås opp opplysninger";

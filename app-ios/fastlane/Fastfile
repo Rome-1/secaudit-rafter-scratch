@@ -1,0 +1,131 @@
+# This file contains the fastlane.tools configuration
+# You can find the documentation at https://docs.fastlane.tools
+#
+# For a list of all available actions, check out
+#
+#     https://docs.fastlane.tools/actions
+#
+# For a list of all available plugins, check out
+#
+#     https://docs.fastlane.tools/plugins/available-plugins
+#
+
+# Uncomment the line if you want fastlane to automatically update itself
+# update_fastlane
+
+default_platform(:ios)
+
+platform :ios do
+	desc "Push a new release to AppStore"
+	lane :release do |options|
+		match(
+			app_identifier: ["de.tutao.tutanota", "de.tutao.tutanota.TutanotaShareExtension"],
+			type: "appstore",
+			verbose: false,
+			readonly: true,
+			generate_apple_certs: false,
+			keychain_password: ENV["FASTLANE_KEYCHAIN_PASSWORD"],
+			api_key_path: ENV["API_KEY_JSON_FILE_PATH"]
+		)
+		build_app(
+			scheme: "tutanota-dist",
+			output_directory: "releases",
+			output_name: "tutanota-" + get_version_number(target: "tutanota"),
+			include_symbols: true,
+			verbose: false
+		)
+		if options[:submit]
+			upload_to_app_store(
+				skip_screenshots: true,
+				submit_for_review: false,
+				precheck_include_in_app_purchases: false,
+				# must use force as long as we don't automatically create html previews
+				force: true,
+				api_key_path: ENV["API_KEY_JSON_FILE_PATH"]
+			)
+		end
+	end
+
+	desc "Build a new release for ad-hoc"
+	lane :adhoc do |options|
+		match(
+			app_identifier: ["de.tutao.tutanota", "de.tutao.tutanota.TutanotaShareExtension"],
+			type: "adhoc",
+			verbose: false,
+			readonly: true,
+			generate_apple_certs: false,
+			keychain_password: ENV["FASTLANE_KEYCHAIN_PASSWORD"],
+			api_key_path: ENV["API_KEY_JSON_FILE_PATH"]
+		)
+		build_app(
+			scheme: "tutanota-dist",
+			output_directory: "releases",
+			output_name: "tutanota-" + get_version_number(target: "tutanota") + "-adhoc",
+			export_options: {
+				method: "ad-hoc"
+			},
+			verbose: false
+		)
+	end
+
+	desc "Build against test system"
+	lane :adhoctest do
+		match(
+			app_identifier: ["de.tutao.tutanota", "de.tutao.tutanota.TutanotaShareExtension"],
+			type: "adhoc",
+			verbose: false,
+			readonly: true,
+			generate_apple_certs: false,
+			keychain_password: ENV["FASTLANE_KEYCHAIN_PASSWORD"],
+			api_key_path: ENV["API_KEY_JSON_FILE_PATH"]
+		)
+		build_app(
+			scheme: "tutanota-dist",
+			output_directory: "releases",
+			output_name: "tutanota-" + get_version_number(target: "tutanota") + "-test",
+			export_options: {
+				method: "ad-hoc"
+			},
+			verbose: false
+		)
+	end
+
+	desc "Run iOS test cases"
+	lane :test do
+		# Create tutanota-3/build if it's not there because we try to copy it during build
+		sh "mkdir -p ../../build"
+ 		sh "if xcrun simctl list | grep iphone-12-ios-16-2; then echo 'Using existing simulator'; else xcrun simctl create iphone-12-ios-16-2 com.apple.CoreSimulator.SimDeviceType.iPhone-12 com.apple.CoreSimulator.SimRuntime.iOS-16-2; fi"
+		run_tests(
+				scheme: "tutanota",
+				devices: ["iphone-12-ios-16-2"]
+		)
+ 	end
+
+ 	desc "Renew adhoc cert"
+ 	lane :renewadhoccert do
+		match(
+			app_identifier: ["de.tutao.tutanota", "de.tutao.tutanota.TutanotaShareExtension"],
+			type: "adhoc",
+			verbose: true,
+			readonly: false,
+			generate_apple_certs: true,
+			keychain_password: ENV["FASTLANE_KEYCHAIN_PASSWORD"],
+			api_key_path: ENV["API_KEY_JSON_FILE_PATH"],
+			platform: "ios"
+		)
+ 	end
+
+	desc "Renew appstore cert"
+	lane :renewappstorecert do
+		match(
+			app_identifier: ["de.tutao.tutanota", "de.tutao.tutanota.TutanotaShareExtension"],
+			type: "appstore",
+			verbose: true,
+			readonly: false,
+			generate_apple_certs: true,
+			keychain_password: ENV["FASTLANE_KEYCHAIN_PASSWORD"],
+			api_key_path: ENV["API_KEY_JSON_FILE_PATH"],
+			platform: "ios"
+		)
+	end
+end
