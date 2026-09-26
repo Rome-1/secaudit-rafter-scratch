@@ -1,0 +1,53 @@
+version: "3"
+
+services:
+  jaeger:
+    image: jaegertracing/all-in-one:1
+    ports:
+      - "16686:16686"
+    networks:
+      - flipt_network
+
+  init:
+    image: flipt/flipt:latest
+    command: ["./flipt", "import", "flipt.yml"]
+    environment:
+      - FLIPT_LOG_LEVEL=debug
+      - FLIPT_META_TELEMETRY_ENABLED=false
+    volumes:
+      - "./flipt.yml:/flipt.yml"
+      - "flipt_data:/var/opt/flipt"
+
+  flipt:
+    image: flipt/flipt:latest
+    command: ["./flipt", "--force-migrate"]
+    depends_on:
+      - init
+      - jaeger
+    ports:
+      - "8080:8080"
+    networks:
+      - flipt_network
+    environment:
+      - FLIPT_LOG_LEVEL=debug
+      - FLIPT_TRACING_ENABLED=true
+      - FLIPT_TRACING_EXPORTER=otlp
+      - FLIPT_TRACING_OTLP_ENDPOINT=jaeger:4317
+      - FLIPT_META_TELEMETRY_ENABLED=false
+    volumes:
+      - "flipt_data:/var/opt/flipt"
+
+  example:
+    build: .
+    depends_on:
+      - flipt
+    ports:
+      - "8000:8000"
+    networks:
+      - flipt_network
+
+volumes:
+  flipt_data:
+
+networks:
+  flipt_network:
