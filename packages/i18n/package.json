@@ -1,0 +1,31 @@
+{
+    "name": "@proton/i18n",
+    "description": "CLI to extract/validate translations from the code",
+    "keywords": [],
+    "license": "ISC",
+    "author": "Proton AG",
+    "main": "index.js",
+    "bin": {
+        "proton-i18n": "index.js"
+    },
+    "scripts": {
+        "lint": "eslint lib index.js config.js --ext .js --quiet --cache",
+        "pretty": "prettier --write  $(find lib/ index.js -type f -name '*.js')",
+        "test": "./test/test-linter.sh* && ./test/test-validator.sh"
+    },
+    "dependencies": {
+        "chalk": "^4.1.2",
+        "execa": "^5.1.1",
+        "gettext-parser": "^6.0.0",
+        "glob": "^8.1.0",
+        "ttag-cli": "^1.10.5"
+    },
+    "devDependencies": {
+        "cross-env": "^7.0.3",
+        "eslint": "^8.33.0",
+        "prettier": "^2.8.3"
+    },
+    "engines": {
+        "node": ">= v18.14.0"
+    }
+}

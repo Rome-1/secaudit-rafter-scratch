@@ -1,0 +1,12 @@
+@import '~@proton/styles/scss/config';
+
+.credits-modal .field-container.payment-right {
+	inline-size: 70%;
+}
+
+@include media('<=small') {
+	.credits-modal .label.payment-left,
+	.credits-modal .field-container.payment-right {
+		inline-size: 100%;
+	}
+}
