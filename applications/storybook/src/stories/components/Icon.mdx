@@ -1,0 +1,25 @@
+import { ArgsTable, Canvas, PRIMARY_STORY, Primary, Story } from '@storybook/addon-docs';
+
+import { Icon } from '@proton/components';
+
+# Icon
+
+Icon component can have different sizes, configurable via the `size` prop, 16 pixels like by default. They are colored via text color helpers and inherit the parent container's text color by default.
+
+All the available icons in our icon set are reachable in the [icon dedicated documentation page](/docs/core-concepts-icons--icons).
+
+### How to use
+
+<Canvas withSource="open">
+    <Story id="components-icon--basic" />
+</Canvas>
+
+<Canvas>
+    <Story id="components-icon--color" />
+</Canvas>
+
+### Playground
+
+<Primary />
+
+<ArgsTable story={PRIMARY_STORY} />

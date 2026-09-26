@@ -1,0 +1,66 @@
+:root,
+.ui-standard {
+    --primary: #8a6eff;
+    --primary-contrast: white;
+
+    --signal-danger: #f5385a;
+
+    --signal-warning: #ff9900;
+
+    --signal-success: #1ea885;
+
+    --signal-info: #239ece;
+
+    --interaction-norm: #6d4aff;
+
+    --interaction-weak: #4a4658;
+
+    --text-norm: white;
+    --text-weak: #a7a4b5;
+    --text-hint: #6d697d;
+    --text-disabled: #5b576b;
+    --text-invert: #1c1b24;
+
+    --field-norm: #5b576b;
+    --field-hover: #6d697d;
+    --field-disabled: #3f3b4c;
+
+    --focus-outline: #6d4aff;
+    --focus-ring: rgb(109 74 255 / 0.3);
+
+    --border-norm: #4a4658;
+    --border-weak: #343140;
+
+    --background-norm: #16141c;
+    --background-weak: #292733;
+    --background-strong: #3f3b4c;
+    --background-invert: white;
+
+    --interaction-default: transparent;
+    --interaction-default-hover: rgb(91 87 107 / 0.2);
+    --interaction-default-active: rgb(91 87 107 / 0.4);
+
+    --shadow-norm-opacity: 0.5;
+    --shadow-lifted-opacity: 0.75;
+
+    --backdrop-norm: rgb(0 0 0 / 0.48);
+
+    /* Optional colors */
+
+    --optional-scrollbar-thumb-color: #4a4658;
+    --optional-scrollbar-thumb-hover-color: #5b576b;
+
+    --optional-link-norm: var(--interaction-norm-major-1);
+    --optional-link-hover: var(--interaction-norm-major-2);
+    --optional-link-active: var(--interaction-norm-major-3);
+
+    --optional-email-item-unread-background-color: #1E1C26;
+
+    --optional-email-item-read-background-color: var(--background-norm);
+    --optional-email-item-read-text-color: var(--text-weak);
+
+    --optional-mini-calendar-today-color: white;
+
+    --optional-logo-text-proton-color: white;
+    --optional-logo-text-product-color: white;
+}
