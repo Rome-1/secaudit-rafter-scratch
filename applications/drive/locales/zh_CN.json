@@ -1,0 +1,4657 @@
+{
+  "headers": {
+    "plural-forms": "nplurals=1; plural=0;",
+    "language": "zh_CN"
+  },
+  "contexts": {
+    "Action": {
+      "${ BRAND_NAME } introduction": [
+        "${ BRAND_NAME } 简介"
+      ],
+      "${ BRAND_NAME } shop": [
+        "${ BRAND_NAME } 商店"
+      ],
+      "Activate recovery": [
+        "激活恢复"
+      ],
+      "Add": [
+        "添加"
+      ],
+      "Add address": [
+        "添加地址"
+      ],
+      "Add contact": [
+        "添加联系人"
+      ],
+      "Add email": [
+        "添加电子邮箱"
+      ],
+      "Add group": [
+        "添加群组"
+      ],
+      "Add new contact": [
+        "添加新联系人"
+      ],
+      "Add new group": [
+        "添加新群组"
+      ],
+      "Add phone number": [
+        "添加电话号码"
+      ],
+      "Add to group": [
+        "添加至群组"
+      ],
+      "Apply": [
+        "应用"
+      ],
+      "Attach screenshot(s)": [
+        "添加截图"
+      ],
+      "Back": [
+        "后退"
+      ],
+      "Beta Access": [
+        "测试版功能"
+      ],
+      "Cancel": [
+        "取消"
+      ],
+      "Cancel all": [
+        "全部取消"
+      ],
+      "Cancel all downloads": [
+        "取消所有下载活动"
+      ],
+      "Cancel all uploads": [
+        "取消所有上传"
+      ],
+      "Cancel download": [
+        "取消下载"
+      ],
+      "Cancel upload": [
+        "取消上传"
+      ],
+      "Chat with us": [
+        "联系我们"
+      ],
+      "Check import progress": [
+        "查看导入进度"
+      ],
+      "Choose a file or drag it here": [
+        "选择文件或将文件拖至此处"
+      ],
+      "Clear": [
+        "清除"
+      ],
+      "Clear browser data": [
+        "清除浏览器数据"
+      ],
+      "Clear data": [
+        "清除数据"
+      ],
+      "Clear query": [
+        "清除查询记录"
+      ],
+      "Click here.": [
+        "点击此处。"
+      ],
+      "Close": [
+        "关闭"
+      ],
+      "Close modal": [
+        "关闭"
+      ],
+      "Close navigation": [
+        "关闭导航栏"
+      ],
+      "Close this banner": [
+        "关闭此横幅"
+      ],
+      "Close transfers": [
+        "关闭传输窗口"
+      ],
+      "Collapse": [
+        "收起"
+      ],
+      "Collapse folder": [
+        "收起文件夹"
+      ],
+      "Compose": [
+        "写邮件"
+      ],
+      "Confirm": [
+        "确认"
+      ],
+      "Confirm opening of link ${ linkToShow }": [
+        "确认打开链接 ${ linkToShow }"
+      ],
+      "Contact group": [
+        "联系人群组"
+      ],
+      "Continue": [
+        "继续"
+      ],
+      "Continue transfers": [
+        "继续传输"
+      ],
+      "Continue with Google": [
+        "使用 Google 帐号登录"
+      ],
+      "Copy email to clipboard": [
+        "复制邮箱地址"
+      ],
+      "Copy link": [
+        "复制链接"
+      ],
+      "Create": [
+        "创建"
+      ],
+      "Create a new contact group": [
+        "创建联系人群组"
+      ],
+      "Create link": [
+        "创建链接"
+      ],
+      "Create new folder": [
+        "创建文件夹"
+      ],
+      "Customize": [
+        "定制"
+      ],
+      "Delete": [
+        "删除"
+      ],
+      "Delete ${ selectedCount } contact": [
+        "删除 ${ selectedCount } 个联系人"
+      ],
+      "Delete ${ selectedCount } contact group": [
+        "删除 ${ selectedCount } 个联系人群组"
+      ],
+      "Delete contact": [
+        "删除联系人"
+      ],
+      "Delete contact group": [
+        "删除联系人群组"
+      ],
+      "Delete permanently": [
+        "永久删除"
+      ],
+      "Deselect all": [
+        "取消全选"
+      ],
+      "Details": [
+        "详细信息"
+      ],
+      "Didn't receive the code?": [
+        "没收到验证码？"
+      ],
+      "Done": [
+        "完成"
+      ],
+      "Download": [
+        "下載"
+      ],
+      "Download anyway": [
+        "仍要下载"
+      ],
+      "Drive Locked": [
+        "网盘已锁定"
+      ],
+      "Edit": [
+        "编辑"
+      ],
+      "Edit email address": [
+        "编辑邮箱地址"
+      ],
+      "Edit label": [
+        "编辑标签"
+      ],
+      "Edit phone number": [
+        "编辑电话号码"
+      ],
+      "Edit sign-in details": [
+        "编辑登录信息"
+      ],
+      "Email settings": [
+        "邮件设置"
+      ],
+      "Empty trash": [
+        "清空回收站"
+      ],
+      "enable desktop notifications": [
+        "开启推送通知"
+      ],
+      "Enable drive search": [
+        "启用网盘搜索"
+      ],
+      "Expand": [
+        "展开"
+      ],
+      "Expand folder": [
+        "展开文件夹"
+      ],
+      "Export": [
+        "导出"
+      ],
+      "Export contact group": [
+        "导出联系人群组"
+      ],
+      "Export contacts": [
+        "导出联系人"
+      ],
+      "Forward as attachment": [
+        "作为附件转发"
+      ],
+      "Get link": [
+        "获取链接"
+      ],
+      "Get started": [
+        "开始入门"
+      ],
+      "Get verification code": [
+        "获取验证码"
+      ],
+      "Go to label": [
+        "转至标签"
+      ],
+      "Go to panel ${ index }": [
+        "前往面板 ${ index }"
+      ],
+      "Go to parent": [
+        "上级目录"
+      ],
+      "Go to settings": [
+        "前往设置"
+      ],
+      "Got it": [
+        "知道了"
+      ],
+      "Hide advanced PGP settings": [
+        "隐藏高级 PGP 设置"
+      ],
+      "Hide folders": [
+        "隐藏文件夹"
+      ],
+      "Hide labels": [
+        "隐藏标签"
+      ],
+      "I have a question": [
+        "我有疑问"
+      ],
+      "import": [
+        "导入"
+      ],
+      "Import": [
+        "导入"
+      ],
+      "Import from .csv or vCard": [
+        "从 .csv 或 vCard 导入"
+      ],
+      "Learn more": [
+        "了解详情"
+      ],
+      "Load image": [
+        "加载图片"
+      ],
+      "Log in": [
+        "登录"
+      ],
+      "Manage link": [
+        "管理链接"
+      ],
+      "Mark for deletion": [
+        "标记为待删除"
+      ],
+      "Maximize transfers": [
+        "最大化传输窗口"
+      ],
+      "Merge": [
+        "合并"
+      ],
+      "Merge contacts": [
+        "合并联系人"
+      ],
+      "Minimize transfers": [
+        "最小化传输窗口"
+      ],
+      "More info: ${ safeTitle }": [
+        "更多信息：${ safeTitle }"
+      ],
+      "More options": [
+        "更多选项"
+      ],
+      "Move": [
+        "移动"
+      ],
+      "Move to folder": [
+        "移动至文件夹"
+      ],
+      "Move to trash": [
+        "移至回收站"
+      ],
+      "New upload": [
+        "上传文件"
+      ],
+      "Next": [
+        "后一页"
+      ],
+      "Next month": [
+        "下个月"
+      ],
+      "OK": [
+        "确定"
+      ],
+      "Open navigation": [
+        "打开导航栏"
+      ],
+      "Pause all": [
+        "全部暂停"
+      ],
+      "Pause download": [
+        "暂停下载"
+      ],
+      "Pause upload": [
+        "暂停上传"
+      ],
+      "Preview": [
+        "预览"
+      ],
+      "Preview contact": [
+        "预览联系人"
+      ],
+      "Previous": [
+        "前一页"
+      ],
+      "Previous month": [
+        "上个月"
+      ],
+      "Quit": [
+        "退出"
+      ],
+      "Re-sign": [
+        "重新签名"
+      ],
+      "Recover data": [
+        "恢复数据"
+      ],
+      "Refer a friend": [
+        "邀请好友"
+      ],
+      "refresh the page": [
+        "刷新页面"
+      ],
+      "Refresh the page": [
+        "刷新此页"
+      ],
+      "Remove": [
+        "移除"
+      ],
+      "Remove from this list": [
+        "从此列表中移除"
+      ],
+      "Rename": [
+        "重命名"
+      ],
+      "Report a problem": [
+        "反馈问题"
+      ],
+      "Request a feature": [
+        "请求功能"
+      ],
+      "Request new code": [
+        "请求新验证码"
+      ],
+      "Reset zoom": [
+        "重置缩放"
+      ],
+      "Restart all": [
+        "全部重新开始"
+      ],
+      "Restart download": [
+        "重新开始下载"
+      ],
+      "Restart upload": [
+        "重新开始上传"
+      ],
+      "Restore from trash": [
+        "从回收站恢复"
+      ],
+      "Resume all": [
+        "全部恢复"
+      ],
+      "Resume download": [
+        "恢复下载"
+      ],
+      "Resume upload": [
+        "恢复上传"
+      ],
+      "Save": [
+        "保存"
+      ],
+      "Search": [
+        "搜索"
+      ],
+      "Search drive": [
+        "搜索网盘"
+      ],
+      "Select all": [
+        "全选"
+      ],
+      "Set recovery phrase": [
+        "设置恢复密语"
+      ],
+      "Share": [
+        "分享"
+      ],
+      "Share file": [
+        "分享文件"
+      ],
+      "Share item": [
+        "共享项目"
+      ],
+      "Share options": [
+        "共享选项"
+      ],
+      "Share via link": [
+        "通过链接分享"
+      ],
+      "Sharing options": [
+        "共享选项"
+      ],
+      "Show advanced PGP settings": [
+        "显示高级 PGP 设置"
+      ],
+      "Show folders": [
+        "显示文件夹"
+      ],
+      "Show labels": [
+        "显示标签"
+      ],
+      "Show preview": [
+        "显示预览"
+      ],
+      "Sign out": [
+        "退出"
+      ],
+      "Signing out": [
+        "正在退出账户"
+      ],
+      "Skip": [
+        "跳过"
+      ],
+      "Start import": [
+        ""
+      ],
+      "Start recovering": [
+        "开始恢复"
+      ],
+      "Start setup": [
+        "开始设置"
+      ],
+      "Stay": [
+        "留在此页"
+      ],
+      "Stop sharing": [
+        "停止分享"
+      ],
+      "Stop transfers": [
+        "停止传输"
+      ],
+      "Submit": [
+        "提交"
+      ],
+      "Submit report": [
+        "提交报告"
+      ],
+      "Theme": [
+        "配色"
+      ],
+      "Trust": [
+        "信任"
+      ],
+      "Try another method": [
+        "更换验证方式"
+      ],
+      "Undo": [
+        "撤销"
+      ],
+      "Unlock data": [
+        "解锁数据"
+      ],
+      "Unmark for deletion": [
+        "取消待删除标记"
+      ],
+      "Untrust": [
+        "取消信任"
+      ],
+      "Update recovery file": [
+        "更新恢复文件"
+      ],
+      "Update recovery phrase": [
+        "更新恢复密语"
+      ],
+      "Upgrade": [
+        "升级"
+      ],
+      "Upload anyway": [
+        "仍然上传"
+      ],
+      "Upload file": [
+        "上传文件"
+      ],
+      "Upload folder": [
+        "上传文件夹"
+      ],
+      "Upload picture": [
+        "上传图片"
+      ],
+      "Use ${ label } theme": [
+        "使用 ${ label } 配色"
+      ],
+      "Use for sending": [
+        "用于发送邮件"
+      ],
+      "Verify": [
+        "验证"
+      ],
+      "Verify account": [
+        "验证账户"
+      ],
+      "Verify email": [
+        "验证邮箱"
+      ],
+      "View": [
+        "查看"
+      ],
+      "View invoice": [
+        "查看账单"
+      ],
+      "Zoom in": [
+        "放大"
+      ],
+      "Zoom out": [
+        "缩小"
+      ]
+    },
+    "Actions message": {
+      "${ addContact } or ${ importContact }.": [
+        "${ addContact } 或者 ${ importContact }"
+      ],
+      "No results found.": [
+        "未找到结果"
+      ],
+      "Please try another search term.": [
+        "请试下其他搜索词"
+      ],
+      "You don't have any contacts.": [
+        "您没有任何联系人"
+      ],
+      "You don't have any groups.": [
+        "您没有任何群组"
+      ]
+    },
+    "Alert": {
+      "By leaving now, some contacts may not be imported": [
+        "如果现在离开，一些联系人可能无法导入"
+      ]
+    },
+    "Apps dropdown": {
+      "Proton applications": [
+        "Proton 产品"
+      ]
+    },
+    "Beta access description": {
+      "Beta Access lets you use the beta version of ${ MAIL_APP_NAME }, ${ CALENDAR_APP_NAME }, and ${ DRIVE_APP_NAME } before they are released to the public. This means you can be the first to try new products, get new updates, and use new features.": [
+        ""
+      ],
+      "If you encounter issues, you can always disable Beta Access.": [
+        "如果使用过程中遇到问题，您可以随时关闭该选项。"
+      ]
+    },
+    "blackfriday Action": {
+      "Get the offer": [
+        ""
+      ]
+    },
+    "blackfriday Info": {
+      "beta": [
+        ""
+      ],
+      "Includes": [
+        "包含"
+      ],
+      "Standard price: ${ regularPrice }": [
+        "原价：${ regularPrice }"
+      ],
+      "This subscription will automatically renew after 2 years at the same rate until it is cancelled.": [
+        "此订阅将在两年后自动续订，价格不变，直至取消。"
+      ]
+    },
+    "blackfriday Title": {
+      "Best deal": [
+        ""
+      ],
+      "Most popular": [
+        "人气最高"
+      ],
+      "Save more when combining Mail and VPN": [
+        ""
+      ]
+    },
+    "blackfriday: VPNspecialoffer Action": {
+      "Get the deal": [
+        "立即享受优惠"
+      ],
+      "Get the deal now": [
+        "立即享受优惠"
+      ]
+    },
+    "blackfriday: VPNspecialoffer Info": {
+      "Discounts are based on standard monthly pricing of ${ standardMonthlyPricing }": [
+        ""
+      ],
+      "Save ${ percentage }%": [
+        "${ percentage }%"
+      ],
+      "Special offer Terms and Conditions": [
+        ""
+      ]
+    },
+    "blackfriday: VPNspecialoffer info": {
+      "per month": [
+        "每月"
+      ]
+    },
+    "blackfriday: VPNspecialoffer Promo title, need to be short": {
+      "Special offer": [
+        "特价"
+      ]
+    },
+    "blackfriday: VPNspecialoffer Title": {
+      "(${ notice }) Renews after 1 month at a standard monthly price of ${ amount }": [
+        ""
+      ],
+      "(${ notice }) Renews after 1 year at a standard discounted annual price of ${ amount } (20% discount)": [
+        ""
+      ],
+      "(${ notice }) Renews after 2 years at a standard discounted 2-year price of ${ amount } (33% discount)": [
+        ""
+      ],
+      "1 month": [
+        "1 个月"
+      ],
+      "12 months": [
+        "12 个月"
+      ],
+      "24 months": [
+        "24 个月"
+      ],
+      "Billed at ${ amount } for the first 2 years.${ supNotice }": [
+        ""
+      ],
+      "Billed at ${ amount } for the first month.${ supNotice }": [
+        ""
+      ],
+      "Billed at ${ amount } for the first year.${ supNotice }": [
+        ""
+      ],
+      "Get the special year-end offer on our Premium VPN PLUS plan": [
+        ""
+      ]
+    },
+    "Bug category": {
+      "Application problem": [
+        "应用程序问题"
+      ],
+      "Bridge problem": [
+        "Bridge 问题"
+      ],
+      "Calendar problem": [
+        "日历问题"
+      ],
+      "Connection problem": [
+        "连接问题"
+      ],
+      "Contacts problem": [
+        "通讯录问题"
+      ],
+      "Custom domain problem": [
+        "自有域名问题"
+      ],
+      "Drive problem": [
+        "网盘问题"
+      ],
+      "Feature request": [
+        "功能建议"
+      ],
+      "Import / export problem": [
+        "导入/导出问题"
+      ],
+      "Installation problem": [
+        "安装问题"
+      ],
+      "Mail problem": [
+        "邮件问题"
+      ],
+      "Manual setup problem": [
+        "手动配置问题"
+      ],
+      "Other": [
+        "其他"
+      ],
+      "Payments problem": [
+        "支付问题"
+      ],
+      "Sign in problem": [
+        "登录问题"
+      ],
+      "Sign up problem": [
+        "注册问题"
+      ],
+      "Signup problem": [
+        "注册问题"
+      ],
+      "Slow speed problem": [
+        "速度缓慢"
+      ],
+      "Speed problem": [
+        "速度问题"
+      ],
+      "Streaming problem": [
+        "串流问题"
+      ],
+      "Update problem": [
+        "更新问题"
+      ],
+      "VPN problem": [
+        "VPN 问题"
+      ],
+      "Website access problem": [
+        "网站访问问题"
+      ]
+    },
+    "Button": {
+      "Continue using ${ MAIL_APP_NAME }.": [
+        ""
+      ]
+    },
+    "Calendar status": {
+      "Not synced": [
+        "未同步"
+      ],
+      "Syncing": [
+        "同步中"
+      ]
+    },
+    "Calendar subscription not synced error": {
+      "Calendar could not be decrypted": [
+        "未能解密日历"
+      ],
+      "Calendar is syncing": [
+        "日历正在同步中"
+      ],
+      "Calendar is too big": [
+        "日历文件太大"
+      ],
+      "Calendar link is not accessible": [
+        "日历链接不能被访问"
+      ],
+      "Calendar link is temporarily inaccessible": [
+        "日历链接暂时无法访问"
+      ],
+      "Failed to sync calendar": [
+        "同步日历失败"
+      ],
+      "More than 12 hours passed since last update": [
+        "离上一个更新已经超过了12小时"
+      ],
+      "Unsupported calendar format": [
+        "不受支持的日历格式"
+      ]
+    },
+    "Collapsible tooltip": {
+      "Close": [
+        ""
+      ],
+      "Open": [
+        ""
+      ]
+    },
+    "Confirm modal title": {
+      "Quit import customization?": [
+        "退出导入定制？"
+      ]
+    },
+    "Contact field label": {
+      "Address": [
+        "地址"
+      ],
+      "Anniversary": [
+        "周年"
+      ],
+      "Birthday": [
+        "生日"
+      ],
+      "Email": [
+        "邮件"
+      ],
+      "Gender": [
+        "性别"
+      ],
+      "Geo": [
+        "地理位置"
+      ],
+      "Language": [
+        "语言"
+      ],
+      "Logo": [
+        "商标"
+      ],
+      "Member": [
+        "成员"
+      ],
+      "Name": [
+        "名称"
+      ],
+      "Note": [
+        "备注"
+      ],
+      "Organization": [
+        "机构"
+      ],
+      "Phone": [
+        "电话"
+      ],
+      "Photo": [
+        "照片"
+      ],
+      "Role": [
+        "身份"
+      ],
+      "Timezone": [
+        "时区"
+      ],
+      "Title": [
+        "标题"
+      ],
+      "URL": [
+        "网址"
+      ]
+    },
+    "Contact type label": {
+      "Fax": [
+        "传真"
+      ],
+      "Main": [
+        "主要"
+      ],
+      "Mobile": [
+        "手机"
+      ],
+      "Other": [
+        "其它"
+      ],
+      "Pager": [
+        "寻呼机"
+      ],
+      "Personal": [
+        "私人"
+      ],
+      "Work": [
+        "工作"
+      ],
+      "Yomi": [
+        "读音"
+      ]
+    },
+    "Country name": {
+      "Abkhazia": [
+        "阿布哈兹"
+      ],
+      "Afghanistan": [
+        "阿富汗"
+      ],
+      "Albania": [
+        "阿尔巴尼亚"
+      ],
+      "Algeria": [
+        "阿尔及利亚"
+      ],
+      "American Samoa": [
+        "美属萨摩亚"
+      ],
+      "Andorra": [
+        "安道尔"
+      ],
+      "Angola": [
+        "安哥拉"
+      ],
+      "Anguilla": [
+        "安圭拉"
+      ],
+      "Antarctica": [
+        "南极洲"
+      ],
+      "Antigua and Barbuda": [
+        "安提瓜和巴布达"
+      ],
+      "Argentina": [
+        "阿根廷"
+      ],
+      "Armenia": [
+        "亚美尼亚"
+      ],
+      "Aruba": [
+        ""
+      ],
+      "Ascension Island": [
+        "阿森松岛"
+      ],
+      "Australia": [
+        "澳大利亚"
+      ],
+      "Austria": [
+        "奥地利"
+      ],
+      "Azerbaijan": [
+        ""
+      ],
+      "Bahamas": [
+        ""
+      ],
+      "Bahrain": [
+        ""
+      ],
+      "Bangladesh": [
+        ""
+      ],
+      "Barbados": [
+        ""
+      ],
+      "Belarus": [
+        ""
+      ],
+      "Belgium": [
+        ""
+      ],
+      "Belize": [
+        ""
+      ],
+      "Benin": [
+        ""
+      ],
+      "Bermuda": [
+        ""
+      ],
+      "Bhutan": [
+        ""
+      ],
+      "Bolivia": [
+        ""
+      ],
+      "Bonaire, Sint Eustatius and Saba": [
+        ""
+      ],
+      "Bosnia and Herzegovina": [
+        ""
+      ],
+      "Botswana": [
+        ""
+      ],
+      "Bouvet Island": [
+        ""
+      ],
+      "Brazil": [
+        ""
+      ],
+      "British Indian Ocean Territory": [
+        ""
+      ],
+      "Brunei Darussalam": [
+        ""
+      ],
+      "Bulgaria": [
+        ""
+      ],
+      "Burkina Faso": [
+        ""
+      ],
+      "Burma": [
+        ""
+      ],
+      "Burundi": [
+        ""
+      ],
+      "Cambodia": [
+        ""
+      ],
+      "Cameroon": [
+        "喀麦隆"
+      ],
+      "Canada": [
+        ""
+      ],
+      "Cape Verde": [
+        "佛得角"
+      ],
+      "Cayman Islands": [
+        ""
+      ],
+      "Central African Republic": [
+        "中非共和国"
+      ],
+      "Chad": [
+        ""
+      ],
+      "Chile": [
+        "智利"
+      ],
+      "China": [
+        "中国"
+      ],
+      "Christmas Island": [
+        "圣诞岛"
+      ],
+      "Cocos (Keeling) Islands": [
+        ""
+      ],
+      "Colombia": [
+        "哥伦比亚"
+      ],
+      "Comoros": [
+        ""
+      ],
+      "Congo": [
+        "刚果（布）"
+      ],
+      "Congo, Democratic Republic of the": [
+        "刚果（金）"
+      ],
+      "Cook Islands": [
+        "库克群岛"
+      ],
+      "Costa Rica": [
+        "哥斯达黎加"
+      ],
+      "Cote d'Ivoire\"": [
+        "科特迪瓦"
+      ],
+      "Croatia": [
+        ""
+      ],
+      "Cuba": [
+        "古巴"
+      ],
+      "Curaçao": [
+        "库拉索"
+      ],
+      "Cyprus": [
+        "塞浦路斯"
+      ],
+      "Czech Republic": [
+        "捷克"
+      ],
+      "Denmark": [
+        "丹麦"
+      ],
+      "Djibouti": [
+        "吉布提"
+      ],
+      "Dominica": [
+        "多米尼克"
+      ],
+      "Dominican Republic": [
+        "多米尼加共和国"
+      ],
+      "Ecuador": [
+        "厄瓜多尔"
+      ],
+      "Egypt": [
+        "埃及"
+      ],
+      "El Salvador": [
+        ""
+      ],
+      "Equatorial Guinea": [
+        ""
+      ],
+      "Eritrea": [
+        "厄立特里亚"
+      ],
+      "Estonia": [
+        "爱沙尼亚"
+      ],
+      "Ethiopia": [
+        "埃塞俄比亚"
+      ],
+      "Falkland Islands": [
+        "马尔维纳斯群岛 / 福克兰群岛"
+      ],
+      "Faroe Islands": [
+        ""
+      ],
+      "Federated States of Micronesia": [
+        ""
+      ],
+      "Fiji": [
+        "斐济"
+      ],
+      "Finland": [
+        "芬兰"
+      ],
+      "France": [
+        ""
+      ],
+      "French Guiana": [
+        ""
+      ],
+      "French Polynesia": [
+        ""
+      ],
+      "French Southern Territories": [
+        ""
+      ],
+      "Gabon": [
+        ""
+      ],
+      "Gambia": [
+        ""
+      ],
+      "Georgia": [
+        ""
+      ],
+      "Germany": [
+        "德国"
+      ],
+      "Ghana": [
+        ""
+      ],
+      "Gibraltar": [
+        ""
+      ],
+      "Greece": [
+        ""
+      ],
+      "Greenland": [
+        ""
+      ],
+      "Grenada": [
+        ""
+      ],
+      "Guadeloupe": [
+        ""
+      ],
+      "Guam": [
+        ""
+      ],
+      "Guatemala": [
+        ""
+      ],
+      "Guernsey": [
+        ""
+      ],
+      "Guinea": [
+        ""
+      ],
+      "Guinea-Bissau": [
+        ""
+      ],
+      "Guyana": [
+        ""
+      ],
+      "Haiti": [
+        ""
+      ],
+      "Heard Island and McDonald Islands": [
+        ""
+      ],
+      "Holy See (Vatican City State)": [
+        ""
+      ],
+      "Honduras": [
+        ""
+      ],
+      "Hong Kong": [
+        "中国香港特别行政区"
+      ],
+      "Hungary": [
+        ""
+      ],
+      "Iceland": [
+        ""
+      ],
+      "India": [
+        ""
+      ],
+      "Indonesia": [
+        ""
+      ],
+      "International": [
+        ""
+      ],
+      "Iran": [
+        ""
+      ],
+      "Iraq": [
+        ""
+      ],
+      "Ireland": [
+        ""
+      ],
+      "Isle of Man": [
+        ""
+      ],
+      "Israel": [
+        ""
+      ],
+      "Italy": [
+        ""
+      ],
+      "Jamaica": [
+        ""
+      ],
+      "Japan": [
+        ""
+      ],
+      "Jersey": [
+        ""
+      ],
+      "Jordan": [
+        ""
+      ],
+      "Kazakhstan": [
+        ""
+      ],
+      "Kenya": [
+        ""
+      ],
+      "Kiribati": [
+        ""
+      ],
+      "Kosovo": [
+        ""
+      ],
+      "Kuwait": [
+        ""
+      ],
+      "Kyrgyzstan": [
+        ""
+      ],
+      "Laos": [
+        ""
+      ],
+      "Latvia": [
+        ""
+      ],
+      "Lebanon": [
+        ""
+      ],
+      "Lesotho": [
+        ""
+      ],
+      "Liberia": [
+        ""
+      ],
+      "Libya": [
+        ""
+      ],
+      "Liechtenstein": [
+        ""
+      ],
+      "Lithuania": [
+        ""
+      ],
+      "Luxembourg": [
+        ""
+      ],
+      "Macao": [
+        "中国澳门特别行政区"
+      ],
+      "Madagascar": [
+        ""
+      ],
+      "Malawi": [
+        ""
+      ],
+      "Malaysia": [
+        ""
+      ],
+      "Maldives": [
+        ""
+      ],
+      "Mali": [
+        ""
+      ],
+      "Malta": [
+        ""
+      ],
+      "Marshall Islands": [
+        ""
+      ],
+      "Martinique": [
+        ""
+      ],
+      "Mauritania": [
+        ""
+      ],
+      "Mauritius": [
+        ""
+      ],
+      "Mayotte": [
+        ""
+      ],
+      "Mexico": [
+        ""
+      ],
+      "Moldova": [
+        ""
+      ],
+      "Monaco": [
+        ""
+      ],
+      "Mongolia": [
+        ""
+      ],
+      "Montenegro": [
+        ""
+      ],
+      "Montserrat": [
+        ""
+      ],
+      "Morocco": [
+        ""
+      ],
+      "Mozambique": [
+        ""
+      ],
+      "Namibia": [
+        ""
+      ],
+      "Nauru": [
+        ""
+      ],
+      "Nepal": [
+        ""
+      ],
+      "Netherlands": [
+        ""
+      ],
+      "New Caledonia": [
+        ""
+      ],
+      "New Zealand": [
+        ""
+      ],
+      "Nicaragua": [
+        ""
+      ],
+      "Niger": [
+        ""
+      ],
+      "Nigeria": [
+        ""
+      ],
+      "Niue": [
+        ""
+      ],
+      "Norfolk Island": [
+        ""
+      ],
+      "North Korea": [
+        "朝鲜"
+      ],
+      "North Macedonia": [
+        ""
+      ],
+      "Northern Mariana Islands": [
+        ""
+      ],
+      "Norway": [
+        ""
+      ],
+      "Oman": [
+        ""
+      ],
+      "Pakistan": [
+        ""
+      ],
+      "Palau": [
+        ""
+      ],
+      "Palestine": [
+        ""
+      ],
+      "Panama": [
+        ""
+      ],
+      "Papua New Guinea": [
+        ""
+      ],
+      "Paraguay": [
+        ""
+      ],
+      "Peru": [
+        ""
+      ],
+      "Philippines": [
+        ""
+      ],
+      "Pitcairn": [
+        ""
+      ],
+      "Poland": [
+        ""
+      ],
+      "Portugal": [
+        ""
+      ],
+      "Puerto Rico": [
+        ""
+      ],
+      "Qatar": [
+        ""
+      ],
+      "Reunion": [
+        ""
+      ],
+      "Romania": [
+        ""
+      ],
+      "Russia": [
+        ""
+      ],
+      "Rwanda": [
+        ""
+      ],
+      "Saint Barthélemy": [
+        ""
+      ],
+      "Saint Helena": [
+        ""
+      ],
+      "Saint Kitts and Nevis": [
+        ""
+      ],
+      "Saint Lucia": [
+        ""
+      ],
+      "Saint Martin (French Part)": [
+        ""
+      ],
+      "Saint Pierre and Miquelon": [
+        ""
+      ],
+      "Saint Vincent and the Grenadines": [
+        ""
+      ],
+      "Samoa": [
+        ""
+      ],
+      "San Marino": [
+        ""
+      ],
+      "Sao Tome and Principe": [
+        ""
+      ],
+      "Saudi Arabia": [
+        ""
+      ],
+      "Senegal": [
+        ""
+      ],
+      "Serbia": [
+        ""
+      ],
+      "Seychelles": [
+        ""
+      ],
+      "Sierra Leone": [
+        ""
+      ],
+      "Singapore": [
+        ""
+      ],
+      "Sint Maarten": [
+        ""
+      ],
+      "Slovakia": [
+        ""
+      ],
+      "Slovenia": [
+        ""
+      ],
+      "Solomon Islands": [
+        ""
+      ],
+      "Somalia": [
+        ""
+      ],
+      "South Africa": [
+        ""
+      ],
+      "South Georgia and the South Sandwich Islands": [
+        ""
+      ],
+      "South Korea": [
+        "韩国"
+      ],
+      "South Ossetia": [
+        ""
+      ],
+      "South Sudan": [
+        ""
+      ],
+      "Spain": [
+        "西班牙"
+      ],
+      "Sri Lanka": [
+        ""
+      ],
+      "Sudan": [
+        ""
+      ],
+      "Suriname": [
+        ""
+      ],
+      "Svalbard and Jan Mayen": [
+        ""
+      ],
+      "Swaziland": [
+        ""
+      ],
+      "Sweden": [
+        ""
+      ],
+      "Switzerland": [
+        "瑞士"
+      ],
+      "Syria": [
+        ""
+      ],
+      "Taiwan": [
+        ""
+      ],
+      "Tajikistan": [
+        ""
+      ],
+      "Tanzania": [
+        ""
+      ],
+      "Thailand": [
+        ""
+      ],
+      "Timor-Leste": [
+        ""
+      ],
+      "Togo": [
+        ""
+      ],
+      "Tokelau": [
+        ""
+      ],
+      "Tonga": [
+        ""
+      ],
+      "Trinidad and Tobago": [
+        ""
+      ],
+      "Tristan da Cunha": [
+        ""
+      ],
+      "Tunisia": [
+        ""
+      ],
+      "Turkey": [
+        ""
+      ],
+      "Turkmenistan": [
+        ""
+      ],
+      "Turks and Caicos Islands": [
+        ""
+      ],
+      "Tuvalu": [
+        ""
+      ],
+      "Uganda": [
+        ""
+      ],
+      "Ukraine": [
+        ""
+      ],
+      "United Arab Emirates": [
+        "阿联酋"
+      ],
+      "United Kingdom": [
+        ""
+      ],
+      "United States": [
+        ""
+      ],
+      "United States Minor Outlying Islands": [
+        ""
+      ],
+      "Uruguay": [
+        ""
+      ],
+      "Uzbekistan": [
+        ""
+      ],
+      "Vanuatu": [
+        ""
+      ],
+      "Venezuela": [
+        ""
+      ],
+      "Vietnam": [
+        ""
+      ],
+      "Virgin Islands, British": [
+        ""
+      ],
+      "Virgin Islands, U.S.": [
+        ""
+      ],
+      "Wallis and Futuna": [
+        ""
+      ],
+      "Western Sahara": [
+        "西撒哈拉"
+      ],
+      "Yemen": [
+        ""
+      ],
+      "Zambia": [
+        ""
+      ],
+      "Zimbabwe": [
+        ""
+      ],
+      "Åland Islands": [
+        ""
+      ]
+    },
+    "Default display name vcard": {
+      "Unknown": [
+        "未知"
+      ]
+    },
+    "Default encryption scheme": {
+      "Use global default (${ defaultValueText })": [
+        "遵循系统设置（${ defaultValueText }）"
+      ]
+    },
+    "Delinquent modal title": {
+      "Overdue invoice": [
+        "逾期账单"
+      ]
+    },
+    "Description": {
+      "Decrypting contacts... This may take a few minutes. When the process is completed, you will be able to download the file with all your contacts exported.": [
+        "正在解密联系人，可能需要几分钟的时间。完成后您就可以下载导出的联系人了。"
+      ],
+      "Deleting contacts... This may take a few minutes. When the process is completed, you can close this modal.": [
+        "正在删除联系人... 该过程可能需要几分钟，完成后您就可以关闭此对话框了"
+      ],
+      "Encrypting and importing contacts... This may take a few minutes. When the process is completed, you can close this modal.": [
+        "正在加密并导入联系人，可能需要几分钟的时间。完成后您就可以关闭此对话框了。"
+      ],
+      "It looks like the contact list you are importing contains some groups. Please review how these groups should be imported.": [
+        "您正在导入的联系人列表似乎包含一些群组，请查看并选择应如何导入这些群组。"
+      ],
+      "Merging contacts... This may take a few minutes. When the process is completed, you can close this modal.": [
+        "正在合并联系人，可能需要几分钟的时间。完成后您就可以关闭此对话框了。"
+      ],
+      "The file should have a maximum size of ${ MAX_IMPORT_FILE_SIZE_STRING } and have up to ${ MAX_IMPORT_CONTACTS_STRING } contact. If your file is bigger, please split it into smaller files.": [
+        "文件大小上限为 ${ MAX_IMPORT_FILE_SIZE_STRING }，且联系人总数上限为 ${ MAX_IMPORT_CONTACTS_STRING }。若您的文件超出限制，请先拆分成较小的文件。"
+      ],
+      "Use Drag and Drop to rank merging priority between contacts. Uncheck the contacts you do not want to merge.": [
+        "拖动可调整联系人合并优先级，未勾选的联系人不会被合并。"
+      ],
+      "You can mark for deletion the contacts that you do not want neither to merge nor to keep. Deletion will only take place after the merge button is clicked": [
+        "您可以选择稍后删除既不想合并也不想保留的联系人，点击合并按钮后他们就会被删除"
+      ]
+    },
+    "Description of the purpose of the import CSV modal": {
+      "Also, we have automatically matched CSV fields with vCard fields. You can review and change this matching manually.": [
+        "另外，我们已将 CSV 自动转换成 vCard 信息，您可以查看并修改对应关系。"
+      ],
+      "We have detected the following fields in the CSV file you uploaded. Check the ones you want to import.": [
+        "我们从您选择的 CSV 文件中检测到了以下信息，请选择要导入的内容。"
+      ]
+    },
+    "Early Access Disabled": {
+      "Off": [
+        "关"
+      ]
+    },
+    "Early Access Enabled": {
+      "On": [
+        "开"
+      ]
+    },
+    "Error": {
+      "A group with this name already exists": [
+        "已存在同名群组"
+      ],
+      "A problem occurred, please try again": [
+        "出错了，请重试"
+      ],
+      "Authentication canceled.": [
+        "验证被取消。"
+      ],
+      "Authentication error.": [
+        "验证错误。"
+      ],
+      "Calendar limit reached": [
+        "日历数量达到上限"
+      ],
+      "Can't create new calendars for all imported calendars due to the personal calendar limit.": [
+        "由于个人日历限制，无法为所有导入的日历创建新日历。"
+      ],
+      "Contact could not be saved": [
+        "无法保存联系人"
+      ],
+      "Contact signature not verified": [
+        "未验证联系人签名"
+      ],
+      "Content search cannot be enabled in this browser. Please quit private browsing mode or use another browser.": [
+        "此浏览器无法开启全文搜索，请退出隐私浏览模式或使用其他浏览器。"
+      ],
+      "Deselect at least ${ calendarToFixCount } calendar": [
+        "取消选择至少 ${ calendarToFixCount } 个日历"
+      ],
+      "Deselect at least ${ calendarToFixCount } calendar or": [
+        "取消选择至少 ${ calendarToFixCount } 个日历或者"
+      ],
+      "Email address invalid": [
+        "邮箱格式不正确"
+      ],
+      "Email is not valid": [
+        "无效邮箱"
+      ],
+      "Enter 6 digits": [
+        "请输入 6 位验证码"
+      ],
+      "File \"${ item.name }\" cannot be uploaded due to \"${ error }\" error": [
+        "由于“${ error }”错误，文件“${ item.name }”无法上传"
+      ],
+      "File \"${ name }\" is already downloading": [
+        "文件“${ name }”已在下载中"
+      ],
+      "File cannot be merged with folder": [
+        "文件无法与文件夹合并"
+      ],
+      "File selection is already downloading": [
+        "所选文件已在下载中"
+      ],
+      "Folder \"${ name }\" is already downloading": [
+        "文件夹“${ name }”已在下载中"
+      ],
+      "Folder name cannot be empty.": [
+        "文件夹名称不能为空。"
+      ],
+      "Image upload failed": [
+        "图像上传失败"
+      ],
+      "Incorrect login credentials. Please try again.": [
+        "登录凭据不正确，请重试。"
+      ],
+      "Incorrect mailbox password. Please try again.": [
+        "邮箱密码不正确，请重试。"
+      ],
+      "Incorrect password. Please try again.": [
+        "密码错误，请重试。"
+      ],
+      "Invalid name": [
+        "名称无效"
+      ],
+      "Invalid public key file": [
+        "公钥文件无效"
+      ],
+      "Invalid verification code": [
+        "无效的验证代码"
+      ],
+      "Label name cannot be empty.": [
+        "标签名称不能为空。"
+      ],
+      "Merge at least ${ calendarToFixCount } calendar with an existing Proton calendar": [
+        "将至少 ${ calendarToFixCount } 个日历与现有的 Proton 日历合并"
+      ],
+      "Missing key packet": [
+        "缺少密钥数据包"
+      ],
+      "Missing signature": [
+        "缺少签名"
+      ],
+      "No data to import": [
+        "没有要导入的数据"
+      ],
+      "No valid address found": [
+        "未找到有效地址"
+      ],
+      "Not a valid number": [
+        "无效号码"
+      ],
+      "One of the contacts has no email address: ${ noEmailsContactNamesList }": [
+        "部分联系人没有邮箱地址：${ noEmailsContactNamesList }"
+      ],
+      "One of the groups has no contacts: ${ noContactGroupList }": [
+        "某个/些群组没有联系人: ${ noContactGroupList } "
+      ],
+      "Passwords do not match": [
+        "两次输入的密码不一致"
+      ],
+      "Please activate your content search again": [
+        "请重新开启全文搜索"
+      ],
+      "Please fix the highlighted conflict to proceed.": [
+        "请修复高亮的冲突以继续。"
+      ],
+      "Preferences could not be saved": [
+        "设置保存失败"
+      ],
+      "Primary address key is not decrypted": [
+        "主密钥尚未解密"
+      ],
+      "Primary address key is not decrypted.": [
+        "主密钥尚未解密。"
+      ],
+      "Report failed to be sent": [
+        "报告发送失败"
+      ],
+      "Request timed out": [
+        "请求超时"
+      ],
+      "Search failed": [
+        "搜索失败"
+      ],
+      "Signature not verified": [
+        "签名未验证"
+      ],
+      "Signature verification failed": [
+        "签名验证失败"
+      ],
+      "Some contacts could not be deleted": [
+        "无法删除部分联系人"
+      ],
+      "Some groups could not be deleted": [
+        "无法删除部分群组"
+      ],
+      "Some of your label names are unavailable. Please customize the import to edit these names.": [
+        "部分标签名称不可用，请自定导入内容并予以更改。"
+      ],
+      "Some of your label names exceed ${ MAIL_APP_NAME }'s maximum character limit. Please customize the import to edit these names.": [
+        "部分标签名称超过了 ${ MAIL_APP_NAME } 的字符长度限制，请自定导入内容并予以更改。"
+      ],
+      "Something went wrong, please ${ refresh } in order to proceed. If you still see this error message please contact our ${ supportTeam }.": [
+        "发生错误，请${ refresh }后重试。若仍出现此错误，请联系我们的${ supportTeam }。"
+      ],
+      "The folder name is invalid. Please choose a different name.": [
+        ""
+      ],
+      "The folder name is too long. Please choose a different name.": [
+        "文件夹名称过长，请重新填写。"
+      ],
+      "The label name is invalid. Please choose a different name.": [
+        ""
+      ],
+      "The label name is too long. Please choose a different name.": [
+        "标签名称过长，请重新填写。"
+      ],
+      "The new revision of original file is not uploaded yet, please try again later": [
+        "原始文件的新修订版本尚未上传，请稍后再试。"
+      ],
+      "The original file has missing active revision": [
+        "原始文件缺少活动修订版本"
+      ],
+      "The original file has missing hash key": [
+        "原始文件缺少哈希密钥"
+      ],
+      "The original file has missing session key": [
+        "原始文件缺少会话密钥"
+      ],
+      "The original file is not uploaded yet, please try again later": [
+        "原始文件尚未上传，请稍后再试。"
+      ],
+      "The original folder not found": [
+        "未找到原始文件夹"
+      ],
+      "The original folder or file not found": [
+        "未找到原始文件或文件夹"
+      ],
+      "There are too many folders in your external account. Please customize the import to delete some folders.": [
+        "待导入账户的文件夹过多，请自定导入内容并删除部分文件夹。"
+      ],
+      "There was an error when exporting the contacts vCards": [
+        "导出联系人 vCards 时出错"
+      ],
+      "This field is required": [
+        "此字段必填"
+      ],
+      "This field requires a minimum of ${ minimumLength } characters.": [
+        "此字段至少需要 ${ minimumLength } 个字符。"
+      ],
+      "This folder name is not available. Please choose a different name.": [
+        "文件夹名称不可用，请重新填写。"
+      ],
+      "This label name is not available. Please choose a different name.": [
+        "标签名称不可用，请重新填写。"
+      ],
+      "This message may contain some link's URL that cannot be properly opened by your current browser": [
+        "此邮件含有浏览器不能打开的链接"
+      ],
+      "Unknown error": [
+        "未知错误"
+      ],
+      "You can't send a mail to more than 100 recipients": [
+        "收件人不能超过 100 个"
+      ],
+      "You can't send vCards of more than 10 contacts": [
+        "您不能发送超过 10 个联系人的 vCard"
+      ],
+      "You must set a name": [
+        "您必须设置一个名称"
+      ],
+      "Your browser does not support uploading folders": [
+        "您的浏览器不支持上传文件夹"
+      ],
+      "Your import will not be processed.": [
+        "您的导入将不会被处理。"
+      ]
+    },
+    "Error importing calendar": {
+      "An unexpected error occurred. Import must be restarted.": [
+        "出现意外错误，需重新开始导入。"
+      ]
+    },
+    "Error importing contact": {
+      "Encryption failed": [
+        "加密失败"
+      ],
+      "vCard versions < 3.0 not supported": [
+        "不支持 vCard 3.0 以下版本"
+      ]
+    },
+    "Error importing contacts": {
+      "An error occurred reading your file ${ formattedFilename }. File doesn't have the right format.": [
+        "读取文件 ${ formattedFilename } 失败，文件格式不正确。"
+      ],
+      "An error occurred uploading your file ${ formattedFilename }. Maximum file size is ${ MAX_IMPORT_FILE_SIZE_STRING }.": [
+        "文件 ${ formattedFilename } 上传失败，文件大小不能超过 ${ MAX_IMPORT_FILE_SIZE_STRING }。"
+      ],
+      "An error occurred uploading your file ${ formattedFilename }. No .csv or .vcf file selected": [
+        "文件 ${ formattedFilename } 上传失败，未选择 .csv 或 .vcf 文件"
+      ],
+      "An error occurred uploading your file. No file has been selected.": [
+        "文件上传失败，尚未选择文件。"
+      ],
+      "Your file ${ formattedFilename } contains more than ${ MAX_IMPORT_CONTACTS_STRING } contacts.": [
+        "文件 ${ formattedFilename } 中的联系人数已超过 ${ MAX_IMPORT_CONTACTS_STRING }。"
+      ],
+      "Your file ${ formattedFilename } has no contacts to be imported.": [
+        "文件 ${ formattedFilename } 中没有可导入的联系人。"
+      ],
+      "Your file ${ formattedFilename } is empty.": [
+        "文件 ${ formattedFilename } 是空的。"
+      ]
+    },
+    "Error message": {
+      "Access denied": [
+        "访问被拒绝"
+      ],
+      "Brace yourself till we get the error fixed.": [
+        "别担心，我们会解决的。"
+      ],
+      "Error: ${ errorMessage }": [
+        "错误：${ errorMessage }"
+      ],
+      "Internal server error": [
+        "服务器内部错误"
+      ],
+      "Not found": [
+        "未找到"
+      ],
+      "Oops, something went wrong": [
+        "哎呀，出错了。"
+      ],
+      "Please ${ refresh } or check your connection.": [
+        "请${ refresh }或检查网络连接。"
+      ],
+      "There was a problem connecting to Proton.": [
+        "连接到 Proton 时出现问题。"
+      ],
+      "You may also ${ refresh } or try again later.": [
+        "您也可以${ refresh }页面或稍后再试。"
+      ],
+      "You may also refresh the page or try again later.": [
+        "您也可以刷新页面或稍后重试。"
+      ]
+    },
+    "Error notification": {
+      "First name and last name cannot be unchecked at the same time": [
+        "姓氏和名字至少应勾选一个"
+      ]
+    },
+    "Error notification in the bug report modal when the user upload file": {
+      "No image selected": [
+        "未选择图像"
+      ]
+    },
+    "file size format": {
+      "bytes": [
+        "字节"
+      ],
+      "GB": [
+        "GB"
+      ],
+      "KB": [
+        "KB"
+      ],
+      "MB": [
+        "MB"
+      ]
+    },
+    "file size format, long": {
+      "Bytes": [
+        "字节"
+      ],
+      "Gigabytes": [
+        "GB"
+      ],
+      "Kilobytes": [
+        "KB"
+      ],
+      "Megabytes": [
+        "MB"
+      ]
+    },
+    "Filter notification": {
+      "${ Label.Name } updated": [
+        "${ Label.Name } 标签已更改"
+      ]
+    },
+    "Group": {
+      "Account": [
+        "账户"
+      ],
+      "Apps": [
+        "应用程序"
+      ],
+      "Network": [
+        "网络"
+      ],
+      "Other category": [
+        "其他类别"
+      ],
+      "Services": [
+        "服务"
+      ]
+    },
+    "Header": {
+      "Contacts": [
+        "通讯录"
+      ],
+      "Contacts, groups and settings": [
+        "联系人、群组和设置"
+      ],
+      "Get help": [
+        "获取帮助"
+      ]
+    },
+    "Hint": {
+      "Found ${ items.length } suggestion, use keyboard to navigate.": [
+        "找到 ${ items.length } 建议，使用键盘导航。"
+      ],
+      "Use Up and Down keys to access and browse suggestions after input. Press Enter to confirm your choice, or Escape to close the suggestions box.": [
+        "使用向上和向下键进入并浏览输入后的建议。按 Enter 键确认您的选择，或按 Escape 键关闭建议框。"
+      ]
+    },
+    "Human verification method": {
+      "CAPTCHA": [
+        "验证码"
+      ],
+      "Email": [
+        "邮件"
+      ],
+      "Manual": [
+        "人工验证"
+      ],
+      "No verification method available": [
+        "无可用的验证方法"
+      ],
+      "SMS": [
+        "短信"
+      ]
+    },
+    "Import calendar": {
+      "Encrypting and adding contacts: ${ totalImported }/${ totalToImport }": [
+        "正在加密并添加联系人：已完成 ${ totalImported }/${ totalToImport }"
+      ]
+    },
+    "Import calendar warning": {
+      "vCard versions < 3.0": [
+        "vCard 版本小于3.0"
+      ]
+    },
+    "Import contact": {
+      "${ totalImported }/${ totalToImport } contact encrypted and added to your contact list": [
+        "${ totalImported }/${ totalToImport } 联系人已加密并添加到您的联系人列表"
+      ],
+      "An error occurred while encrypting and adding your contact. No contact could be imported.": [
+        "加密并添加联系人时出错，未能导入任何联系人。"
+      ]
+    },
+    "Import contact error": {
+      "Contact ${ contactId }: ": [
+        "联系人 ${ contactId }: "
+      ]
+    },
+    "Import contact groups info": {
+      "${ totalContacts } contact": [
+        "${ totalContacts } 名联系人"
+      ]
+    },
+    "Import contact. Contact identifier": {
+      "unknown": [
+        "未知"
+      ]
+    },
+    "Import contacts": {
+      "An error occurred while encrypting and adding your contacts. ${ totalImported } out of ${ totalToImport } contacts successfully imported.": [
+        "加密并添加联系人时出错，${ totalImported }/${ totalToImport } 联系人已成功导入。"
+      ],
+      "Contact successfully imported. The imported contact will now appear in your contact list.": [
+        "联系人导入成功，已显示在您的通讯录中。"
+      ]
+    },
+    "Import contacts warning": {
+      "for now": [
+        "暂时"
+      ],
+      "ProtonContacts does not support ${ forNow }:": [
+        "ProtonContacts 不支持 ${ forNow }:"
+      ]
+    },
+    "Import warning": {
+      "${ totalContactsDiscarded } out of ${ totalContacts } contacts will not be imported. Click for details": [
+        "${ totalContactsDiscarded } /${ totalContacts } 联系人将不会被导入。点击查看详情"
+      ],
+      "No contact can be imported. Click for details": [
+        "没有联系人可以导入。点击查看详情"
+      ]
+    },
+    "Info": {
+      "${ activeDownloadsCount } downloading": [
+        "${ activeDownloadsCount } 项正在下载"
+      ],
+      "${ activeDownloadsCount } downloading (${ downloadProgress }%)": [
+        "${ activeDownloadsCount } 项正在下载 (${ downloadProgress }%)"
+      ],
+      "${ activeUploadsCount } uploading (${ uploadProgress }%)": [
+        "${ activeUploadsCount } 项正在上传 (${ uploadProgress }%)"
+      ],
+      "${ addressCount } email address": [
+        "${ addressCount } 个电子邮件地址"
+      ],
+      "${ appName } needs your permission to ${ enableDesktopNotifications }.": [
+        "${ appName } 需要您的权限来${ enableDesktopNotifications }"
+      ],
+      "${ calendarsToBeCreatedCount } new calendar": [
+        "${ calendarsToBeCreatedCount } 个新日历"
+      ],
+      "${ calendarsToBeMerged } merged calendar": [
+        "${ calendarsToBeMerged } 个合并日历"
+      ],
+      "${ calendarsToBeMergedCount } merged calendar": [
+        "${ calendarsToBeMergedCount } 个合并日历"
+      ],
+      "${ canceledCount } canceled": [
+        "${ canceledCount } 项已取消"
+      ],
+      "${ contactCount } contact contains multiple email addresses.": [
+        ""
+      ],
+      "${ contactEmailsLength } Member": [
+        "${ contactEmailsLength } 位成员"
+      ],
+      "${ contactName } contains multiple email addresses.": [
+        ""
+      ],
+      "${ contactsCount } contact found": [
+        "找到 ${ contactsCount } 位联系人"
+      ],
+      "${ doneCount } finished": [
+        "${ doneCount } 项已完成"
+      ],
+      "${ doneDownloadsCount } downloaded": [
+        "${ doneDownloadsCount } 项已下载"
+      ],
+      "${ doneUploadsCount } uploaded": [
+        "${ doneUploadsCount } 项已上传"
+      ],
+      "${ errorCount } failed": [
+        "${ errorCount } 项传输失败"
+      ],
+      "${ groupCounts } group found": [
+        "找到 ${ groupCounts } 个群组"
+      ],
+      "${ numContactGroups } contact group": [
+        "${ numContactGroups } 个联系人群组"
+      ],
+      "${ numContacts } contact": [
+        "${ numContacts } 名联系人"
+      ],
+      "${ pausedCount } paused": [
+        "${ pausedCount } 项已暂停"
+      ],
+      "${ selectedCalendarsTotal } of ${ providerCalendars.length } calendar": [
+        "已选中 ${ providerCalendars.length } 个日历中的 ${ selectedCalendarsTotal } 个"
+      ],
+      "${ selectedFoldersCount } folder selected": [
+        "已选择 ${ selectedFoldersCount } 个文件夹"
+      ],
+      "${ selectedFoldersCount } label selected": [
+        "已选择 ${ selectedFoldersCount } 个标签"
+      ],
+      "${ speed }/s": [
+        "${ speed }/s"
+      ],
+      "${ storageSize } storage": [
+        "${ storageSize } 存储空间"
+      ],
+      "${ updated } contact updated successfully.": [
+        "已成功更新 ${ updated } 位联系人。"
+      ],
+      "${ uploadName } already exists in this location.": [
+        "${ uploadName } 已存在于该路径。"
+      ],
+      "(${ memberCount } member)": [
+        "（${ memberCount } 位成员）"
+      ],
+      "10 email addresses": [
+        ""
+      ],
+      "A number will be added to the filename": [
+        "将在文件名中添加一个编号"
+      ],
+      "A number will be added to the folder name": [
+        "将在文件夹名称中添加一个编号"
+      ],
+      "Account access restricted due to unpaid invoices. Please contact your administrator.": [
+        "账户因欠费已被限制使用，请联系机构管理员。"
+      ],
+      "Address Verification with Trusted Keys is enabled for this address. To be able to send to this address, first trust public keys that can be used for sending.": [
+        "已对此地址开启密钥验证，向对方发送邮件前需要先信任其公钥。"
+      ],
+      "All (${ totalFoldersCount } folder)": [
+        "全部（${ totalFoldersCount } 个文件夹）"
+      ],
+      "All (${ totalFoldersCount } label)": [
+        "全部（${ totalFoldersCount } 个标签）"
+      ],
+      "An active recovery file": [
+        "一个激活的恢复文件"
+      ],
+      "and": [
+        "和"
+      ],
+      "Anyone with this link can access your file.": [
+        "任何知道此链接的人都能访问您的文件。"
+      ],
+      "Anyone with this link can access your folder.": [
+        "任何知道此链接的人都能访问您的文件夹。"
+      ],
+      "Are you sure you want to empty trash and permanently delete all the items?": [
+        "您确定要清空回收站并永久删除所有项目吗？"
+      ],
+      "Are you sure you want to permanently delete \"${ itemName }\" from trash?": [
+        "确定要从回收站中永久删除“${ itemName }”吗？"
+      ],
+      "Are you sure you want to permanently delete selected items from trash?": [
+        "确定要从回收站中永久删除所选项吗？"
+      ],
+      "Because ${ appName } is end-to-end encrypted, we cannot access\nor decrypt your files for you. To unlock your drive after a password reset,\nyou must have one of the following:": [
+        "因为 ${ appName } 是端到端加密的，我们无法为您\n访问或解密您的文件。要在密码重置后解锁您的网盘，\n您必须具备以下条件之一："
+      ],
+      "Before requesting a new verification code, check your spam folder and check that ${ strong } is the correct address.": [
+        "请求新的验证码之前，请检查您的垃圾邮件并确认 ${ strong } 地址的正确性。"
+      ],
+      "Canceled": [
+        "已取消"
+      ],
+      "Cannot remember your password? We can help you clear the encrypted data of all contacts encrypted with this key and in the process dismiss the alert.": [
+        "记不住密码？我们可以帮助您清除使用此密钥加密的所有联系人的加密数据，并在此过程中忽略警告。"
+      ],
+      "Checking contact ${ progress } of ${ max }...": [
+        "正在检查联系人 ${ progress } / ${ max }..."
+      ],
+      "Checking signatures": [
+        "正在检查签名"
+      ],
+      "Clear data": [
+        "清除数据"
+      ],
+      "Clear encrypted search data": [
+        "清除加密的搜索数据"
+      ],
+      "Clearing browser data will clear the search index on this device. All files would need to be re-indexed again while using the search functionality.": [
+        "清除浏览器数据将清除此设备上的搜索索引，再次搜索时需要对所有文件进行重新索引。"
+      ],
+      "Clears browser data related to the encrypted search.": [
+        "清除与加密搜索相关的浏览器数据。"
+      ],
+      "Click \"Request new code\" to have a new verification code sent to ${ strong }. If this phone number is incorrect, click \"Edit\" to correct it.": [
+        "点击 \"请求新验证码\" 将发送到 ${ strong }。如果此电话号码不正确，请点击 \"编辑\""
+      ],
+      "Close this screen to exit.": [
+        "关闭这个窗口以退出"
+      ],
+      "Conflict": [
+        "冲突"
+      ],
+      "Continue using ${ appName } and unlock drive later": [
+        "继续使用 ${ appName } 并稍后解锁网盘"
+      ],
+      "Continue with ${ planName }": [
+        "继续使用 ${ planName }"
+      ],
+      "Create ${ calendarsToBeCreated } new calendar": [
+        "新建 ${ calendarsToBeCreated } 个日历"
+      ],
+      "Create a label for the imported messages, a time range for this import, and the folders you would like to import.": [
+        "给导入的邮件加标签，指定导入的时间范围，并选择要导入的文件夹。"
+      ],
+      "Create a label for the imported messages, a time range for this import, and the labels you would like to import.": [
+        "给导入的邮件加标签，指定导入的时间范围，并选择要导入的标签。"
+      ],
+      "Create a new contact group": [
+        "创建联系人群组"
+      ],
+      "Create in": [
+        "创建于"
+      ],
+      "Create links and share your files with others.": [
+        "创建链接然后与他人共享您的文件。"
+      ],
+      "Create your first folder and start moving your files.": [
+        "创建您的第一个文件夹并开始移动文件。"
+      ],
+      "Creating": [
+        "正在创建"
+      ],
+      "Creating link to file": [
+        "正在创建文件链接"
+      ],
+      "Creating link to folder": [
+        "正在创建文件夹链接"
+      ],
+      "Creating share": [
+        "正在创建分享"
+      ],
+      "CSV files from Outlook, Outlook Express, Yahoo! Mail, Hotmail, Eudora and some other apps as well as vCard 3.1 and 4.0 formats (UTF-8 encoding) are supported.": [
+        "支持来自 Outlook、Outlook Express、雅虎邮箱、Hotmail、Eudora 和其他一些应用程序的 CSV 文件，以及 vCard 3.1 和 4.0 格式（UTF-8 编码）。"
+      ],
+      "Delete drive": [
+        "删除网盘"
+      ],
+      "Digital signature verified. This file was securely uploaded by ${ emailAddress }.": [
+        "数字签名已验证，此文件是由 ${ emailAddress } 用户安全上传。"
+      ],
+      "Digital signature verified. This folder was securely uploaded by ${ emailAddress }.": [
+        "数字签名已验证，此文件夹是由 ${ emailAddress } 用户安全上传。"
+      ],
+      "Download of ${ downloadFileName } will be aborted": [
+        "${ downloadFileName } 的下载进程将被中止"
+      ],
+      "Downloaded": [
+        "已下载"
+      ],
+      "Downloading": [
+        "正在下载"
+      ],
+      "Downloading items ${ esProgress } out of ${ totalProgressToShow }": [
+        ""
+      ],
+      "Drag and drop a file here or choose to upload.": [
+        "拖放文件到这里上传文件."
+      ],
+      "Drop the file here to upload": [
+        "请将文件拖拽至此处进行上传"
+      ],
+      "Duplicate key updated": [
+        "重复的密钥已更新"
+      ],
+      "Enable drive search": [
+        "启用网盘搜索"
+      ],
+      "Encrypted search is here": [
+        "已推出加密搜索功能"
+      ],
+      "Enter the verification code that was sent to ${ destinationText }.": [
+        "验证码已发至 ${ destinationText }，请在下方输入。"
+      ],
+      "Estimated time remaining: ${ estimatedMinutes } minute": [
+        ""
+      ],
+      "Estimated time remaining: Less than a minute": [
+        ""
+      ],
+      "Estimating time remaining...": [
+        "正在估算剩余时间..."
+      ],
+      "Failed": [
+        "失败"
+      ],
+      "Failed to generate a secure link. Try again later.": [
+        "无法生成安全链接，请稍后再试。"
+      ],
+      "Failed to open a secure link. The reason is: ${ error }": [
+        "无法打开安全链接，原因是：${ error }"
+      ],
+      "File \"${ name }\" was deleted during download": [
+        "文件“${ name }”在下载过程中被删除"
+      ],
+      "File is missing signature. We couldn’t verify that ${ emailAddress } uploaded ${ fileName }.": [
+        "文件缺少签名，我们无法验证 ${ fileName } 由 ${ emailAddress } 上传。"
+      ],
+      "File is missing signature. We couldn’t verify who uploaded ${ fileName }.": [
+        "文件缺少签名，我们无法验证 ${ fileName } 由谁上传。"
+      ],
+      "File will not be uploaded": [
+        "将不会上传文件"
+      ],
+      "Finalizing": [
+        "即将完成"
+      ],
+      "Folder \"${ link.name }\" was deleted during download": [
+        "文件夹“${ link.name }”在下载过程中被删除"
+      ],
+      "Folder contents will merge into a single folder": [
+        "文件夹内容将合并为一个文件夹"
+      ],
+      "Folder is missing signature. We couldn’t verify that ${ emailAddress } uploaded ${ fileName }.": [
+        "文件夹缺少签名，我们无法验证 ${ fileName } 由 ${ emailAddress } 上传。"
+      ],
+      "Folder is missing signature. We couldn’t verify who uploaded ${ fileName }.": [
+        "文件夹缺少签名，我们无法验证 ${ fileName } 由谁上传。"
+      ],
+      "Folder will not be uploaded": [
+        "将不会上传文件夹"
+      ],
+      "Free up some space or add more storage space.": [
+        "释放一些空间或添加更多存储空间。"
+      ],
+      "Free up some space or contact your administrator.": [
+        "释放一些空间或与您的管理员联系。"
+      ],
+      "Go to \"My files\" and upload some files first.": [
+        "请先转到“我的文件”并上传一些文件。"
+      ],
+      "Group assignment applied": [
+        "已应用群组分配"
+      ],
+      "here": [
+        "这里"
+      ],
+      "How does encrypted search work?": [
+        "加密搜索如何工作？"
+      ],
+      "If you are having trouble creating your account, please request an invitation and we will respond within one business day.": [
+        "若您创建账户存在困难，请提交注册申请，我们将在一个工作日内回复。"
+      ],
+      "If you believe this is in error, please contact us ${ contactLink }.": [
+        "如果您坚信其中有误，请联系 ${ contactLink }。"
+      ],
+      "If you don't find the email in your inbox, please check your spam folder.": [
+        "若邮件没有出现在收件箱中，请检查其是否被归为垃圾邮件。"
+      ],
+      "If you have one of these, continue to Proton account setting to\nstart the unblock process.": [
+        "如果您有其中之一，请前往 Proton 账户设置以\n启动解锁进程。"
+      ],
+      "Import ${ contactsFragment } and ${ contactsGroupsFragment }": [
+        "导入 ${ contactsFragment }和 ${ contactsGroupsFragment }"
+      ],
+      "Import ${ selectedCalendarsCount } of ${ totalCalendarsCount } calendar": [
+        "导入 ${ selectedCalendarsCount }/${ totalCalendarsCount } 个日历"
+      ],
+      "Import from": [
+        "导入自"
+      ],
+      "Import in progress": [
+        "导入中"
+      ],
+      "Importing your data from ${ importedEmailAddress } to ${ toEmail }.": [
+        "将您的数据从${ importedEmailAddress } 导入到${ toEmail }"
+      ],
+      "Indexing search results…": [
+        "正在索引搜索结果…"
+      ],
+      "Inherited from parent folder": [
+        "与上层文件夹一致"
+      ],
+      "Initializing": [
+        "正在初始化"
+      ],
+      "Internet connection lost": [
+        "网络连接已断开"
+      ],
+      "Internet connection lost. Please check your device's connectivity.": [
+        "网络连接中断，请检查系统网络情况。"
+      ],
+      "Internet connection restored.": [
+        "网络连接已恢复。"
+      ],
+      "Just confirm your selection and we'll do the rest.": [
+        "只需确认您的选择，剩下的交由我们！"
+      ],
+      "Key fingerprint": [
+        "指纹码"
+      ],
+      "Large imports can take several days.": [
+        "大量的导入可能需要几天时间。"
+      ],
+      "Learn more": [
+        "了解详情"
+      ],
+      "Link copied to clipboard": [
+        "链接已复制到剪贴板"
+      ],
+      "Link expires: ": [
+        "链接有效期："
+      ],
+      "Loading": [
+        "加载中"
+      ],
+      "Loading ${ appName }": [
+        "正在加载 ${ appName }"
+      ],
+      "Loading preview": [
+        "正在载入预览"
+      ],
+      "Loading share": [
+        "正在加载分享"
+      ],
+      "Merged": [
+        "已合并"
+      ],
+      "More": [
+        "其他选项"
+      ],
+      "Moving files": [
+        "正在移动文件"
+      ],
+      "My Links": [
+        "我的链接"
+      ],
+      "Name your new folder and select the parent folder you want to put it in. If you do not select a parent folder, this new folder will be created as a top level folder.": [
+        "设置新文件夹的名称和位置，若不选取上层文件夹，则将创建顶层文件夹。"
+      ],
+      "Network issue": [
+        "网络问题"
+      ],
+      "New": [
+        "新建"
+      ],
+      "No": [
+        "否"
+      ],
+      "No contacts added yet": [
+        "尚未添加联系人"
+      ],
+      "No email address": [
+        "没有电子邮件地址"
+      ],
+      "No files or folders in trash": [
+        "回收站中没有文件或文件夹"
+      ],
+      "No group found": [
+        "未找到群组"
+      ],
+      "No preview available": [
+        "没有可用的预览"
+      ],
+      "No results found": [
+        "搜索无结果"
+      ],
+      "None of the uploaded keys are valid for encryption. Encryption is automatically disabled.": [
+        "所有上传的密钥都不适用于加密，加密将自动禁用。"
+      ],
+      "Not a valid URL": [
+        "非有效链接"
+      ],
+      "Note: Data may still be available locally on devices where you have installed ${ appName }.": [
+        "请注意：安装过 ${ appName } 的设备上仍可能存在本地数据。"
+      ],
+      "of": [
+        "/"
+      ],
+      "One of your encrypted drives is locked. This is most likely due to a recent password reset.": [
+        ""
+      ],
+      "One or more of your trusted keys were marked \"compromised\" by their owner. We recommend that you \"untrust\" these keys.": [
+        ""
+      ],
+      "Only ${ MAX_CUSTOM_PASSWORD_LENGTH } characters is allowed": [
+        ""
+      ],
+      "Only change these settings if you are using PGP with non-${ BRAND_NAME } recipients.": [
+        "只有在与非 ${ BRAND_NAME } 用户使用 PGP 通讯时才应更改下列选项。"
+      ],
+      "Only the people with the link and the password can access this file.": [
+        "只有同时知道链接和密码的人才能访问此文件。"
+      ],
+      "Only the people with the link and the password can access this folder.": [
+        "只有同时知道链接和密码的人才能访问此文件夹。"
+      ],
+      "Other options": [
+        "其他选项"
+      ],
+      "Paused": [
+        "已暂停"
+      ],
+      "Permanently delete all files in your drive": [
+        "永久删除网盘中的所有文件"
+      ],
+      "PGP/Inline is only compatible with Plain Text format. Please note that ${ MAIL_APP_NAME } always signs encrypted messages.": [
+        "PGP/Inline 只能用于纯文本邮件。请注意 ${ MAIL_APP_NAME } 会对所有加密邮件予以数字签名。"
+      ],
+      "PGP/MIME automatically sends the message using the current composer mode. Please note that ${ MAIL_APP_NAME } always signs encrypted messages": [
+        "PGP/MIME 可使用编辑器中指定的格式发送邮件。请注意 ${ MAIL_APP_NAME } 会对所有加密邮件予以数字签名。"
+      ],
+      "Please note that addresses assigned to this group will NOT be deleted.": [
+        "请注意，分配给此组的地址将不会被删除。"
+      ],
+      "Please note that this process may take some time depending on the size of your address book.": [
+        "请注意，该过程可能需要一些时间，具体取决于您地址簿的大小。"
+      ],
+      "Please select the folders you would like to import:": [
+        "请选择要导入的文件夹："
+      ],
+      "Please select which email address or addresses to add to ${ groupCount } group.": [
+        ""
+      ],
+      "Please select which email address or addresses to add to ${ groupName }.": [
+        ""
+      ],
+      "Please wait while we look for contacts that can be re-signed with the primary encryption key.": [
+        "请稍候，我们正在寻找可用主密钥重新签名的联系人。"
+      ],
+      "Please wait while we look for contacts that contain data encrypted with the inactive key.": [
+        "请稍候，我们正在寻找包含用非活动密钥加密数据的联系人"
+      ],
+      "Preparing link to file": [
+        "文件链接预备中"
+      ],
+      "Preparing link to folder": [
+        "正在准备文件夹链接"
+      ],
+      "Preview": [
+        "预览"
+      ],
+      "Primary": [
+        "主要"
+      ],
+      "Priority support": [
+        "优先客服支持"
+      ],
+      "Queued": [
+        "等待中"
+      ],
+      "recommended browser": [
+        "推荐浏览器"
+      ],
+      "Recovery process might take some time.": [
+        "恢复过程可能需要一些时间。"
+      ],
+      "Refreshing the page or ${ link } will automatically resolve most issues.": [
+        "大多数问题都能通过刷新页面或${link}来解决。"
+      ],
+      "Report has been sent": [
+        "报告已发送"
+      ],
+      "Search cannot be enabled in this browser": [
+        "此浏览器无法启用搜索功能"
+      ],
+      "Select an uploaded file or folder and create a link to it.": [
+        "选择一个已上传的文件（夹）并为其创建链接。"
+      ],
+      "Select the email format you want to be used by default when sending an email to this email address.": [
+        "选择向该地址发送邮件的首选格式。"
+      ],
+      "Select what you want to move from Google.": [
+        "请选择你要从 Google 账户导入的内容。"
+      ],
+      "Select which calendars to import. A new calendar will be created for each imported calendar up to the 20 calendars limit.": [
+        "请选择要导入的日历。将为每个导入的日历创建一个新日历（最多 20 个）。"
+      ],
+      "Servers are unreachable. Please try again in a few minutes": [
+        "服务器无法访问，请过几分钟后再试"
+      ],
+      "Session timed out": [
+        "会话超时"
+      ],
+      "Setting up PGP allows you to send end-to-end encrypted emails with a non-${ BRAND_NAME } user that uses a PGP compatible service.": [
+        "设置 PGP 后，您就可以向 ${ BRAND_NAME } 以外其他兼容 PGP 的邮箱发送端到端加密邮件了。"
+      ],
+      "Share files with links": [
+        "通过链接共享文件"
+      ],
+      "Signature check will be ignored": [
+        "将忽略签名校验"
+      ],
+      "Signature issue": [
+        "签名问题"
+      ],
+      "Some of your files are no longer accessible. Restore the access to your files. ${ StartRecoveryButton }": [
+        "您的某些文件无法再访问，请恢复对其的访问权限。${ StartRecoveryButton }"
+      ],
+      "Something went wrong, please try again later.": [
+        "出错了，请稍后再试。"
+      ],
+      "Storage space is shared across ${ MAIL_APP_NAME }, ${ CALENDAR_APP_NAME }, and ${ DRIVE_APP_NAME }.": [
+        "存储空间由 ${ MAIL_APP_NAME }，${ CALENDAR_APP_NAME } 和 ${ DRIVE_APP_NAME } 共享"
+      ],
+      "Support for 1 custom email domain": [
+        "支持 1 个自有域名"
+      ],
+      "support team": [
+        "客服团队"
+      ],
+      "The account may have a new key, or the following may have been tampered with: ${ items }. Only open if you trust it.": [
+        "该账户可能有一个新密钥，或是以下内容可能已被篡改：${ items }。请务必在信任的情况下打开。"
+      ],
+      "The application needs to locally decrypt your contacts before they can be exported. At the end of the process, a VCF file will be generated and you will be able to download it.": [
+        "应用程序需要在本地解密您的联系人，然后才能导出。 在进程结束时，将生成一个 VCF 文件，您将能够下载它。"
+      ],
+      "The following may have been tampered with: ${ items }. Only open if you trust it.": [
+        "以下内容可能已被篡改：${ items }，请确认后打开。"
+      ],
+      "There are files that still need to be transferred. Closing the transfer manager will end all operations.": [
+        "当前仍有待传输的文件，关闭传输管理器将中断所有操作。"
+      ],
+      "There are no files yet": [
+        "还没有文件"
+      ],
+      "This account has been suspended due to a potential policy violation.": [
+        "此帐户因可能违反用户协议而被封禁"
+      ],
+      "This address is disabled. To be able to send to this address, the owner must first enable the address.": [
+        "此地址已被停用，待其所有者予以启用后才能向该地址发送邮件。"
+      ],
+      "This browser does not support previewing PDF documents. Please download the file.": [
+        "您目前使用的浏览器不支持查看 PDF 文件，请下载后打开。"
+      ],
+      "This link leads to a website that might be trying to steal your information, such as passwords and credit card details.": [
+        "此链接指向的网站可能会窃取您的密码、信用卡等信息。"
+      ],
+      "This link may be a homograph attack and cannot be opened by Internet Explorer and Edge browsers. If you are certain the link is legitimate, please use a different browser to open it.": [
+        "此链接可能使用了欺骗性域名，Internet Explorer 和 Edge 浏览器无法打开。若您确认链接可靠，可使用其他浏览器打开。"
+      ],
+      "This link may be a homograph attack. Please verify this is the link you wish to visit, or don't open it.": [
+        "此链接可能使用了欺骗性域名，请确认可靠性后再打开。"
+      ],
+      "This link was created in\na previous version and can not be modified. Delete this link and create a\nnew one to change the settings.": [
+        "此链接是通过先前版本创建的，且无法修改。请删除此链接并创建一个新链接以更改设置。"
+      ],
+      "This link will be permanently disabled. No one with this link will be able to access your file. To reshare the file, you will need a new link.": [
+        "此链接将被永久禁用，无人再能通过此链接访问您的文件。您需要新建一个链接才能重新共享该文件。"
+      ],
+      "This link will be permanently disabled. No one with this link will be able to access your folder. To reshare the folder, you will need a new link.": [
+        "此链接将被永久禁用，无人再能通过此链接访问您的文件夹。您需要新建一个链接才能重新共享该文件夹。"
+      ],
+      "This will delete the link and remove access to your file or folder for anyone with the link.": [
+        "这将删除链接并移除任何拥有该链接的人对您文件（夹）的访问权限。"
+      ],
+      "This will overwrite the existing file": [
+        "这将覆盖现有文件"
+      ],
+      "This will overwrite the existing folder": [
+        "这将覆盖现有文件夹"
+      ],
+      "To enable truly private search ${ DRIVE_APP_NAME } needs to index your files locally.": [
+        "要启用真正的隐私搜索，${ DRIVE_APP_NAME } 需要在本地索引您的文件。"
+      ],
+      "To enable truly private search ${ DRIVE_APP_NAME } needs to index your files locally. You can still use ${ DRIVE_APP_NAME } normally - we’ll let you know when indexing is done.": [
+        "要启用真正的隐私搜索，${ DRIVE_APP_NAME } 需要在本地索引您的文件。在此期间您仍然可以正常使用 ${ DRIVE_APP_NAME } - 索引完成后我们会立即通知您。"
+      ],
+      "To fight spam and abuse, please verify you are human.": [
+        "为了防止垃圾邮件和滥用行为，请进行人机验证。"
+      ],
+      "To re-sign your contacts, we need to check every contact against the list of encryption keys available in your account. If no match is found, your contact will be re-signed with the primary encryption key.": [
+        "要给联系人重新签名，我们需要对照您账户中可用的密钥列表来检查每一位联系人。如果找不到匹配项，您的联系人将使用主密钥重新签名。"
+      ],
+      "To recover your data, you need to re-activate the contact encryption key used at the time when the data was created. This will require you to remember the password used when the key was generated.": [
+        "要想恢复数据，您需要重新激活创建数据时使用的联系人密钥。该过程需提供生成密钥时使用的密码。"
+      ],
+      "To use Address Verification, you must trust one or more available public keys, including the one you want to use for sending. This prevents the encryption keys from being faked.": [
+        "开启地址密钥验证前，您需要先信任其若干个公钥，包括您要用于发送邮件的密钥。这样可以防止其密钥被伪造。"
+      ],
+      "Transfer canceled for file \"${ name }\"": [
+        "已取消文件“${ name }”的传输"
+      ],
+      "Transfer canceled for folder \"${ name }\"": [
+        "已取消文件夹“${ name }”的传输"
+      ],
+      "Transfer skipped for file \"${ file.name }\"": [
+        "已跳过文件“${ file.name }”的传输"
+      ],
+      "Transfer skipped for folder \"${ folderName }\"": [
+        "已跳过文件夹“${ folderName }”的传输"
+      ],
+      "Trash": [
+        "回收站"
+      ],
+      "Try different keywords": [
+        "换个关键字试试"
+      ],
+      "Unlimited folders, labels, and filters": [
+        "文件夹、标签、筛选规则不限量"
+      ],
+      "Unlimited messages": [
+        "每日发送邮件不限量"
+      ],
+      "Unlock drive to recover files": [
+        "解锁网盘以恢复文件"
+      ],
+      "Unsupported file": [
+        "不支持文件"
+      ],
+      "Updating drive search...": [
+        "正在更新网盘搜索..."
+      ],
+      "Upgrade today to avoid losing the following ${ planName } benefits.": [
+        "立即升级账户即可继续享有下列 ${ planName } 权益。"
+      ],
+      "Uploaded": [
+        "已上传"
+      ],
+      "Uploading": [
+        "正在上传"
+      ],
+      "Uploading hundreds of files at once may have a performance impact.": [
+        "一次上传数百个文件可能会影响性能。"
+      ],
+      "Use this form to notify us of inappropriate, illegal,\nor otherwise malicious shared files. You are about to report:": [
+        ""
+      ],
+      "We couldn’t verify that ${ emailAddress } uploaded ${ fileName }.": [
+        "我们无法验证 ${ fileName } 由 ${ emailAddress } 上传。"
+      ],
+      "We couldn’t verify who uploaded ${ fileName }.": [
+        "无法验证 ${ fileName } 的上传者。"
+      ],
+      "We'll notify you when the import is done.": [
+        "导入完成时我们将通知您。"
+      ],
+      "We'll send a new verification code to ${ strong }": [
+        "我们将向 ${ strong } 发送新的验证码"
+      ],
+      "We're moving! Join us at our new site: ${ link }.": [
+        ""
+      ],
+      "Week": [
+        "周"
+      ],
+      "What do you want to do?": [
+        "您想要做什么？"
+      ],
+      "What would you like to do?": [
+        "您想要做些什么？"
+      ],
+      "Would you like to receive a new verification code or use an alternative verification method?": [
+        "您想重新获取验证码还是更换验证方式？"
+      ],
+      "Would you like to receive a new verification code?": [
+        "要重新发送验证码吗？"
+      ],
+      "Would you like to restore your files?": [
+        "想要恢复您的文件吗？"
+      ],
+      "Yes": [
+        "有"
+      ],
+      "You are about to open another browser tab and visit:": [
+        "您即将在新标签页中打开："
+      ],
+      "You are currently signed in as ${ user.Name } (${ user.Email }).": [
+        "您当前登录的用户为 ${ user.Name } (${ user.Email })。"
+      ],
+      "You can also merge imported calendars with existing Proton calendars.": [
+        "您也可以将导入日历与现有 Proton 日历合并。"
+      ],
+      "You can check the progress ${ importProgressLink }.": [
+        "您可以在 ${ importProgressLink } 查看导入进度。"
+      ],
+      "You can turn on notifications to get alerts when new email messages arrive in this folder.": [
+        "您可以开启通知功能，以便此文件夹有新邮件时收到提醒。"
+      ],
+      "You cannot undo this action.": [
+        "您无法撤销此操作。"
+      ],
+      "You reached ${ spaceDisplayed }% of your storage capacity. ${ freeUpMessage } ${ upgradeLink }": [
+        "您已经使用了 ${ spaceDisplayed }% 的存储空间。${ freeUpMessage } ${ upgradeLink }"
+      ],
+      "You reached 100% of your storage capacity. You cannot send or receive new emails. ${ freeUpMessage } ${ upgradeLink }": [
+        "您已达到您的存储容量的100%。您不能收发新的电子邮件。${ freeUpMessage } ${ upgradeLink }"
+      ],
+      "You will lose all unsaved changes.": [
+        "您所作的改动将丢失。"
+      ],
+      "Your account has at least one overdue invoice. Your access has been restricted. ${ payInvoiceLink }": [
+        "您的账户有逾期未支付的账单，因此功能已受限。${ payInvoiceLink }"
+      ],
+      "Your account has at least one overdue invoice. Your access will soon get restricted. ${ payInvoiceLink }": [
+        "您的账户有逾期未支付的账单，很快将被限制使用。${ payInvoiceLink }"
+      ],
+      "Your current browser does not support the downloading of large files due to the unavailability of service workers. Downloading large files may freeze or leave the browser unresponsive. Please use the latest versions of a ${ recommendedBrowser } and try again.": [
+        ""
+      ],
+      "Your data is ready to import from ${ importedEmailAddressStrong } to your Proton account.": [
+        "从 ${ importedEmailAddressStrong } 到您的 Proton 账户的导入数据已准备就绪。"
+      ],
+      "Your download has been canceled.": [
+        "您的下载已取消。"
+      ],
+      "Your email will only be used for this one-time verification.": [
+        "您的电子邮件将只会用于此一次性验证"
+      ],
+      "Your file failed to download.": [
+        "您的文件下载失败。"
+      ],
+      "Your file has finished downloading.": [
+        "您的文件已完成下载。"
+      ],
+      "Your file is being downloaded.": [
+        "正在下载您的文件。"
+      ],
+      "Your files are no longer accessible due to a password reset. Re-upload the old encryption key to regain the access. ${ KeyReactivationButton }": [
+        "由于密码重置，无法再访问您的文件。请重新上传旧的加密密钥以重新获得访问权限。${ KeyReactivationButton }"
+      ],
+      "Your files will be encrypted and then saved.": [
+        "您的文件将被加密并保存。"
+      ],
+      "Your folder failed to download.": [
+        "您的文件夹下载失败。"
+      ],
+      "Your folder has finished downloading.": [
+        "您的文件夹已完成下载。"
+      ],
+      "Your folder is being downloaded.": [
+        "正在下载您的文件夹。"
+      ],
+      "Your phone number will only be used for this one-time verification.": [
+        "您的电话号码将只会用于此一次性验证"
+      ],
+      "Your previous password": [
+        "您先前的密码"
+      ],
+      "Your previous recovery phrase": [
+        "您先前的恢复密语"
+      ],
+      "Your Proton account is currently on hold. To continue using your account, please pay any overdue invoices.": [
+        "您的 Proton 账户已欠费停用，请先支付逾期账单再继续使用。"
+      ],
+      "Your secure, shareable link for ${ boldNameText }": [
+        "${ boldNameText } 的安全、可共享链接"
+      ]
+    },
+    "Info on errors": {
+      "Click for details": [
+        "点击查看详情"
+      ]
+    },
+    "Info, no need for singular": {
+      "Multiple contacts look identical. ${ mergeAction }": [
+        "多名联系人重复。${ mergeAction }"
+      ]
+    },
+    "Item": {
+      "file attributes": [
+        ""
+      ],
+      "file data": [
+        ""
+      ],
+      "file data key": [
+        ""
+      ],
+      "keys": [
+        ""
+      ],
+      "name": [
+        ""
+      ],
+      "name hash": [
+        ""
+      ],
+      "thumbnail": [
+        ""
+      ]
+    },
+    "Key badge": {
+      "Compromised": [
+        ""
+      ],
+      "Expired": [
+        "已失效"
+      ],
+      "Obsolete": [
+        ""
+      ],
+      "Primary": [
+        "主密钥"
+      ],
+      "Revoked": [
+        "已作废"
+      ],
+      "Trusted": [
+        "已信任"
+      ],
+      "WKD": [
+        "WKD"
+      ]
+    },
+    "Label": {
+      "# of accesses": [
+        ""
+      ],
+      "(Expired)": [
+        "（已失效）"
+      ],
+      "(Temporarily unavailable. Please check back later.)": [
+        "（暂时不可用。请稍后再试。）"
+      ],
+      "Add email address": [
+        "添加邮箱地址"
+      ],
+      "Add image URL": [
+        "图像网址"
+      ],
+      "Add to group": [
+        "添加至群组"
+      ],
+      "Apply to all duplicated files": [
+        "应用于所有重复的文件"
+      ],
+      "Apply to all duplicated folders": [
+        "应用于所有重复的文件夹"
+      ],
+      "Apply to all unverified items": [
+        "适用于所有未验证的项目"
+      ],
+      "Attach screenshot(s)": [
+        "附截图"
+      ],
+      "Audio file": [
+        "音频文件"
+      ],
+      "Automatically save contacts": [
+        "自动保存联系人"
+      ],
+      "Browser": [
+        "浏览器"
+      ],
+      "Browser version": [
+        "浏览器版本"
+      ],
+      "Calendars": [
+        "日历"
+      ],
+      "Cancel download": [
+        "取消下载"
+      ],
+      "Category": [
+        "类别"
+      ],
+      "Child sexual abuse material": [
+        ""
+      ],
+      "City": [
+        "城市"
+      ],
+      "Code is 6 digits without spaces": [
+        "验证码是无空格的六位数"
+      ],
+      "Comment": [
+        ""
+      ],
+      "Contacts": [
+        "通讯录"
+      ],
+      "Copy": [
+        "复制"
+      ],
+      "Copyright infringement": [
+        ""
+      ],
+      "Country": [
+        "国家"
+      ],
+      "Created": [
+        "创建时间"
+      ],
+      "Delete": [
+        "删除"
+      ],
+      "Delete drive?": [
+        "删除网盘?"
+      ],
+      "Deleted": [
+        "已删除"
+      ],
+      "Do not ask again": [
+        "不再询问"
+      ],
+      "Download anyway": [
+        "仍要下载"
+      ],
+      "Email": [
+        ""
+      ],
+      "Email address": [
+        "邮箱地址"
+      ],
+      "Email format": [
+        "电子邮件格式"
+      ],
+      "Emails": [
+        "电子邮件"
+      ],
+      "Enable Beta Access": [
+        "启用测试版功能"
+      ],
+      "Enabling drive search": [
+        ""
+      ],
+      "Encrypt emails": [
+        "发送加密邮件"
+      ],
+      "Expired": [
+        "已失效"
+      ],
+      "Expires": [
+        "有效期至"
+      ],
+      "Export contacts": [
+        "导出联系人"
+      ],
+      "Extended address": [
+        "详细地址"
+      ],
+      "File": [
+        "文件"
+      ],
+      "File name": [
+        "文件名"
+      ],
+      "Folder": [
+        "文件夹"
+      ],
+      "Folder location": [
+        "文件夹位置"
+      ],
+      "Folder name": [
+        "文件夹名称"
+      ],
+      "From: ${ importedEmail }": [
+        "来自：${ importedEmail }"
+      ],
+      "Get your own ${ appName }": [
+        "获取您的专属 ${ appName }"
+      ],
+      "Hide password": [
+        "隐藏密码"
+      ],
+      "I understand the risk": [
+        ""
+      ],
+      "Image": [
+        "图片"
+      ],
+      "Import all messages": [
+        "导入所有邮件"
+      ],
+      "Import contacts": [
+        "导入联系人"
+      ],
+      "Import interval": [
+        "导入间隔"
+      ],
+      "Import to email address": [
+        "导入到邮箱地址"
+      ],
+      "Label messages as": [
+        "给导入的邮件加标签"
+      ],
+      "Last 12 months only": [
+        "仅过去 12 个月"
+      ],
+      "Last 3 months only": [
+        "仅过去 3 个月"
+      ],
+      "Last month only": [
+        "仅上个月"
+      ],
+      "Mailbox password": [
+        "邮箱密码"
+      ],
+      "Malware": [
+        ""
+      ],
+      "Manage folders": [
+        "管理文件夹"
+      ],
+      "Manage labels": [
+        "管理标签"
+      ],
+      "Merge a folder": [
+        "合并文件夹"
+      ],
+      "Modified": [
+        "已修改"
+      ],
+      "Name": [
+        "名称"
+      ],
+      "Never": [
+        "永不"
+      ],
+      "Notification": [
+        "通知"
+      ],
+      "Operating system": [
+        "操作系统"
+      ],
+      "Operating system version": [
+        "操作系统版本"
+      ],
+      "Other": [
+        ""
+      ],
+      "Password": [
+        "密码"
+      ],
+      "PGP scheme": [
+        "PGP 方案"
+      ],
+      "Phone number": [
+        "手机号码"
+      ],
+      "Please provide full details to help us take appropriate action": [
+        ""
+      ],
+      "Post office box": [
+        "邮局信箱"
+      ],
+      "Postal code": [
+        "邮编"
+      ],
+      "Protect with password": [
+        "密码保护"
+      ],
+      "Proton username": [
+        "Proton 用户名"
+      ],
+      "Public keys": [
+        "公钥"
+      ],
+      "Region": [
+        "区域"
+      ],
+      "Replace file": [
+        "替换文件"
+      ],
+      "Replace folder": [
+        "替换文件夹"
+      ],
+      "Report Abuse": [
+        ""
+      ],
+      "Reveal password": [
+        "显示密码"
+      ],
+      "Select type of abuse": [
+        ""
+      ],
+      "Set expiration date": [
+        "设置有效期"
+      ],
+      "Sign emails": [
+        "发信附带数字签名"
+      ],
+      "Size": [
+        "大小"
+      ],
+      "Skip file": [
+        "跳过文件"
+      ],
+      "Skip folder": [
+        "跳过文件夹"
+      ],
+      "Spam": [
+        ""
+      ],
+      "Stolen data": [
+        ""
+      ],
+      "Street address": [
+        "街道地址"
+      ],
+      "System information": [
+        "系统信息"
+      ],
+      "Text": [
+        "文本"
+      ],
+      "This will permanently delete all files in your locked drive.": [
+        "这将永久删除您的锁定网盘中的所有文件。"
+      ],
+      "To: ${ emailAddress }": [
+        "导入到：${ emailAddress }"
+      ],
+      "Two-factor authentication code": [
+        "双重验证码"
+      ],
+      "Type": [
+        "类型"
+      ],
+      "Unknown file": [
+        "未知文件格式"
+      ],
+      "Unlock drive": [
+        "解锁网盘"
+      ],
+      "Unlock drive (recommended)": [
+        "解锁网盘（推荐）"
+      ],
+      "Unlock later": [
+        "稍后解锁"
+      ],
+      "Upload anyway": [
+        "仍然上传"
+      ],
+      "Upload picture": [
+        "上传图片"
+      ],
+      "Username or ${ MAIL_APP_NAME } address": [
+        "用户名或 ${ MAIL_APP_NAME } 邮箱地址"
+      ],
+      "Verification code": [
+        "验证码"
+      ],
+      "Video file": [
+        "视频文件"
+      ],
+      "What happened?": [
+        "发生了什么？"
+      ],
+      "Yes, I want to permanently delete\nmy old files": [
+        "是的，我想永久删除\n我的旧文件"
+      ]
+    },
+    "Label for contact group color": {
+      "Color": [
+        "颜色"
+      ]
+    },
+    "Label for contact group name": {
+      "Name": [
+        "名称"
+      ]
+    },
+    "Label/folder modal": {
+      "Create folder": [
+        "创建文件夹"
+      ],
+      "Create label": [
+        "创建标签"
+      ],
+      "Edit folder": [
+        "编辑文件夹"
+      ],
+      "Edit label": [
+        "编辑标签"
+      ]
+    },
+    "label/folder notification": {
+      "${ Label.Name } created": [
+        "${ Label.Name } 标签已创建"
+      ]
+    },
+    "Link": {
+      "clearing your browser cache": [
+        "清除浏览器缓存"
+      ],
+      "Go to subscription plans": [
+        "转至订阅计划"
+      ],
+      "Learn more": [
+        "了解详情"
+      ],
+      "Pay invoice": [
+        "支付"
+      ],
+      "Request an invite": [
+        "申请注册"
+      ],
+      "Shared": [
+        "共享"
+      ],
+      "Trash": [
+        "回收站"
+      ],
+      "Upgrade": [
+        "升级"
+      ],
+      "Upgrade account": [
+        "升级账户"
+      ]
+    },
+    "Loading info": {
+      "Almost there": [
+        "即将完成"
+      ],
+      "Amount of calendars created: ${ createdCalendars } out of ${ calendarsToBeCreated }": [
+        "已创建 ${ createdCalendars }/${ calendarsToBeCreated } 个日历"
+      ],
+      "Creating new calendars": [
+        "正在创建新日历"
+      ],
+      "Gathering your data": [
+        "正在收集您的数据"
+      ],
+      "We're gathering your data from your provider": [
+        "我们正在加紧从您的提供商那里收集您的数据"
+      ],
+      "Your import is starting": [
+        "您的导入已开始"
+      ]
+    },
+    "Mail import summary": {
+      "Import all messages from ${ selectedLabelsCount } out of ${ totalLabelsCount } label since ${ periodFragment } and label them as ${ LABEL_MARKUP_PLACEHOLDER }": [
+        "导入自${ periodFragment }以来 ${ totalLabelsCount } 个标签中 ${ selectedLabelsCount } 个的所有邮件，并将其标记为${ LABEL_MARKUP_PLACEHOLDER }"
+      ],
+      "Import all messages from ${ totalLabelsCount } label since ${ periodFragment } and label them as ${ LABEL_MARKUP_PLACEHOLDER }": [
+        "导入自${ periodFragment }以来 ${ totalLabelsCount } 个标签的所有邮件，并将其标记为${ LABEL_MARKUP_PLACEHOLDER }"
+      ]
+    },
+    "Message": {
+      "Your free trial has ended. Access to your account will soon be disabled. ${ action }": [
+        ""
+      ]
+    },
+    "Message display when a new app version is available": {
+      "A new version of ${ appName } is available. ${ reloadButton }.": [
+        "${ appName } 有新版本，请${ reloadButton }。"
+      ]
+    },
+    "MIME type": {
+      "Automatic": [
+        "自动"
+      ],
+      "Plain text": [
+        "纯文本"
+      ]
+    },
+    "New Label form": {
+      "Color": [
+        "颜色"
+      ],
+      "Folder name": [
+        "文件夹名称"
+      ],
+      "Label name": [
+        "标签名称"
+      ]
+    },
+    "new_plans: action": {
+      "Switch or add account": [
+        ""
+      ]
+    },
+    "new_plans: info": {
+      "Introducing Proton’s refreshed look.${ br } Many services, one mission. Welcome to an internet where privacy is the default.": [
+        "Proton 界面现已焕然一新。${ br }服务繁多，使命不变。欢迎进入隐私优先的互联网。"
+      ]
+    },
+    "new_plans: title": {
+      "Updated Proton, unified protection": [
+        "新版 Proton，全方位的隐私保护"
+      ]
+    },
+    "Notification": {
+      "\"${ name }\" created successfully": [
+        ""
+      ],
+      "\"${ name }\" deleted permanently from trash": [
+        ""
+      ],
+      "\"${ name }\" failed to be created": [
+        ""
+      ],
+      "\"${ name }\" failed to be deleted permanently from trash": [
+        ""
+      ],
+      "\"${ name }\" failed to be moved": [
+        ""
+      ],
+      "\"${ name }\" failed to be moved to trash": [
+        ""
+      ],
+      "\"${ name }\" failed to be restored from trash": [
+        ""
+      ],
+      "\"${ name }\" moved to trash": [
+        ""
+      ],
+      "\"${ name }\" restored from trash": [
+        ""
+      ],
+      "\"${ name }\" successfully moved": [
+        ""
+      ],
+      "\"${ newName }\" failed to be renamed": [
+        ""
+      ],
+      "\"${ newName }\" renamed successfully": [
+        ""
+      ],
+      "${ count } item failed to be decrypted": [
+        ""
+      ],
+      "${ numberOfItems } item deleted permanently from trash": [
+        ""
+      ],
+      "${ numberOfItems } item failed to be deleted permanently from trash": [
+        ""
+      ],
+      "${ numberOfItems } item failed to be moved": [
+        ""
+      ],
+      "${ numberOfItems } item failed to be moved to trash": [
+        ""
+      ],
+      "${ numberOfItems } item failed to be restored from trash": [
+        ""
+      ],
+      "${ numberOfItems } item moved to trash": [
+        ""
+      ],
+      "${ numberOfItems } item restored from trash": [
+        ""
+      ],
+      "${ numberOfItems } item successfully moved": [
+        ""
+      ],
+      "${ numberOfItems } link to your item failed to be deleted": [
+        ""
+      ],
+      "${ numberOfItems } link to your item was deleted": [
+        ""
+      ],
+      "All items will soon be permanently deleted from trash": [
+        "所有项目将很快从回收站永久删除"
+      ],
+      "Contact group created": [
+        "群组已创建"
+      ],
+      "Contact group updated": [
+        "群组已更改"
+      ],
+      "Encrypted search activated": [
+        ""
+      ],
+      "Failed to download files: ${ err }": [
+        "下载文件失败：${ err }"
+      ],
+      "Failed to move, please try again": [
+        "无法移动，请重试"
+      ],
+      "Failed to upload files: ${ err }": [
+        "上传文件失败：${ err }"
+      ],
+      "File or folder \"${ filename }\" and ${ count } other are already uploading": [
+        "文件或文件夹“${ filename }”以及其他 ${ count } 项正在上传中"
+      ],
+      "File or folder \"${ filename }\" is already uploading": [
+        "文件或文件夹“${ filename }”正在上传中"
+      ],
+      "File or folder is missing a name": [
+        "文件或文件夹缺少名称"
+      ],
+      "Item failed to be verified": [
+        ""
+      ],
+      "Link failed to be loaded": [
+        "链接加载失败"
+      ],
+      "Move ${ itemsToMoveCount } file": [
+        "移动 ${ itemsToMoveCount } 个文件"
+      ],
+      "Move ${ itemsToMoveCount } folder": [
+        "移动 ${ itemsToMoveCount } 个文件夹"
+      ],
+      "Move ${ itemsToMoveCount } item": [
+        "移动 ${ itemsToMoveCount } 个文件"
+      ],
+      "Move ${ movingCount } file": [
+        "移动 ${ movingCount } 个文件"
+      ],
+      "Move ${ movingCount } folder": [
+        "移动 ${ movingCount } 个文件夹"
+      ],
+      "Move ${ movingCount } item": [
+        "移动 ${ movingCount } 个项目"
+      ],
+      "Next page failed to be loaded": [
+        ""
+      ],
+      "Not enough space to upload ${ formattedTotal }": [
+        "没有足够的空间来上传这 ${ formattedTotal }"
+      ],
+      "Root folder failed to be loaded": [
+        "加载根目录失败"
+      ],
+      "Subfolder failed to be loaded": [
+        "加载子文件夹失败"
+      ],
+      "The link to \"${ name }\" failed to be deleted": [
+        ""
+      ],
+      "The link to \"${ name }\" was deleted": [
+        ""
+      ],
+      "The link to your item failed to be deleted": [
+        ""
+      ],
+      "The link to your item was deleted": [
+        ""
+      ],
+      "Trash failed to be emptied": [
+        "未能清空回收站"
+      ],
+      "Your old files will be deleted in 72 hours": [
+        "您的旧文件将在 72 小时内删除"
+      ],
+      "Your settings failed to be saved": [
+        ""
+      ],
+      "Your settings have been changed successfully": [
+        "已成功更改您的设置"
+      ]
+    },
+    "Oauth instructions": {
+      "Next you'll need to sign in to your Google account and grant Proton access to your data.": [
+        ""
+      ]
+    },
+    "Oauth instructions video": {
+      "For the import to work, you must select all requested items as shown in the GIF.": [
+        ""
+      ]
+    },
+    "Onboarding Action": {
+      "Enable Beta Access": [
+        ""
+      ],
+      "Next": [
+        ""
+      ],
+      "Start using ${ appName }": [
+        ""
+      ],
+      "Upgrade account": [
+        ""
+      ]
+    },
+    "Onboarding Info": {
+      "${ appName } is currently in early access and only available to users with a paid plan.": [
+        ""
+      ],
+      "${ appName } is currently only available if you enable Beta Access.": [
+        ""
+      ],
+      "Your trusty online vault for vital documents and precious memories.": [
+        ""
+      ]
+    },
+    "Onboarding Proton": {
+      "Configure your organization, link your domain name, and create accounts to ensure all members of your organization are protected.": [
+        "配置您的机构信息、链接您的域名、创建账户以确保您机构的所有成员都受到保护。"
+      ],
+      "Discover all Proton services": [
+        "探索所有 Proton 系列服务"
+      ],
+      "Select a theme": [
+        "选择配色"
+      ],
+      "Set up your organization": [
+        "填写机构信息"
+      ],
+      "Use the app selector in the top left to access other Proton services, including VPN, Calendar and Drive.": [
+        "点击左上方的应用菜单即可前往其他 Proton 服务，如 VPN、日历和网盘。"
+      ],
+      "You can change this anytime in your settings.": [
+        "您可以随时在设置中更改。"
+      ]
+    },
+    "Onboarding Title": {
+      "${ appName } is in Beta": [
+        ""
+      ],
+      "Upgrade to access ${ appName }": [
+        ""
+      ],
+      "Welcome to ${ appName }": [
+        ""
+      ]
+    },
+    "Option": {
+      "Add to existing group": [
+        "添加到已有队列"
+      ],
+      "Create new group": [
+        "创建群组"
+      ],
+      "Ignore group": [
+        "忽略分组"
+      ],
+      "No parent folder": [
+        "无上层文件夹"
+      ]
+    },
+    "Option group label": {
+      "Create new calendar": [
+        "创建新日历"
+      ],
+      "Merge with calendar": [
+        "与日历合并"
+      ]
+    },
+    "PGP key encryption warning": {
+      "Key cannot be used for encryption": [
+        "此密钥不能用于加密"
+      ]
+    },
+    "PGP Key info": {
+      "${ emailAddress } has marked this key as compromised. This key cannot be used neither for encryption nor for signature verification.": [
+        ""
+      ],
+      "${ emailAddress } has marked this key as obsolete. This key can only be used for signature verification.": [
+        ""
+      ],
+      "We recommend that you \"untrust\" this key.": [
+        ""
+      ]
+    },
+    "PGP key warning": {
+      "Email address not found among user ids defined in sending key (${ keyUserIds })": [
+        "在发送密钥中定义的用户编号中找不到电子邮件地址 (${ keyUserIds })"
+      ]
+    },
+    "Placeholder": {
+      "A way to contact you": [
+        "您的联系方式"
+      ],
+      "E.g., ": [
+        "例如："
+      ],
+      "Enter a new folder name": [
+        "输入新文件夹名称"
+      ],
+      "Enter your email address": [
+        ""
+      ],
+      "Filter groups": [
+        "查找群组"
+      ],
+      "Image URL": [
+        "图片链接"
+      ],
+      "Mailbox password": [
+        "邮箱密码"
+      ],
+      "Name": [
+        "名称"
+      ],
+      "New name": [
+        "新名称"
+      ],
+      "Password": [
+        "密码"
+      ],
+      "Please describe the problem and include any error messages": [
+        "请描述问题，并附上任何错误提示"
+      ],
+      "Search for group name": [
+        "搜索群组名称"
+      ],
+      "Search for name or email": [
+        "搜索名称或邮箱地址"
+      ],
+      "Select": [
+        "选择"
+      ],
+      "Start typing an email address": [
+        "开始输入电子邮件地址"
+      ]
+    },
+    "Placeholder for contact group name": {
+      "Name": [
+        "名称"
+      ]
+    },
+    "Progress bar description": {
+      "${ contactsExported.length } out of ${ countContacts } contacts successfully exported.": [
+        "共 ${ countContacts } 名联系人，成功导出 ${ contactsExported.length } 名联系人。"
+      ],
+      "${ model.deleted.length } out of ${ totalBeDeleted } contact successfully deleted.": [
+        "${ model.deleted.length }/${ totalBeDeleted } 联系人已成功删除"
+      ],
+      "${ model.submitted.length } out of ${ totalBeMerged } contact successfully merged.": [
+        "共 ${ totalBeMerged } 名联系人，成功合并 ${ model.submitted.length } 名联系人。"
+      ],
+      "No contacts exported.": [
+        "没有导出联系人。"
+      ],
+      "No contacts merged.": [
+        "没有合并联系人。"
+      ],
+      "Progress: ${ combinedProgress }%": [
+        "进度：${ combinedProgress }%"
+      ]
+    },
+    "Property type": {
+      "Address": [
+        "地址"
+      ],
+      "Email": [
+        "邮件"
+      ],
+      "Fax": [
+        "传真"
+      ],
+      "Home": [
+        "首页"
+      ],
+      "Main": [
+        "主要"
+      ],
+      "Mobile": [
+        "手机"
+      ],
+      "Other": [
+        "其它"
+      ],
+      "Pager": [
+        "寻呼机"
+      ],
+      "Phone": [
+        "电话"
+      ],
+      "Work": [
+        "工作"
+      ]
+    },
+    "Refresh on apply warning": {
+      "Note: the service will reload after you click the Apply button.": [
+        "请注意：点击「应用」按钮后网页将重新加载。"
+      ]
+    },
+    "Select files": {
+      "Upload": [
+        "上传"
+      ]
+    },
+    "Spotlight": {
+      "Encrypted search is here": [
+        ""
+      ],
+      "Get up to 18 months of ${ planName } for free": [
+        ""
+      ],
+      "Invite friends and earn rewards!": [
+        ""
+      ],
+      "Now you can easily search Drive files while keeping your data secure.": [
+        ""
+      ]
+    },
+    "Storage": {
+      "Release notes": [
+        "版本说明"
+      ],
+      "Upgrade storage": [
+        "购买存储空间"
+      ],
+      "Your current storage:": [
+        "您当前的存储空间："
+      ]
+    },
+    "Success": {
+      "Address copied to clipboard": [
+        "地址已复制到剪贴板"
+      ],
+      "Bug reported": [
+        "问题已反馈"
+      ],
+      "Code sent to ${ methodTo }": [
+        "验证码已发至 ${ methodTo }"
+      ],
+      "Contact deleted": [
+        "联系人已删除"
+      ],
+      "Contact group deleted": [
+        "联系人群组已删除"
+      ],
+      "Contact saved": [
+        "联系人已保存"
+      ],
+      "Contacts deleted": [
+        "联系人已删除"
+      ],
+      "Email address copied to clipboard": [
+        "邮箱地址已复制到剪贴板"
+      ],
+      "Fingerprint copied to clipboard": [
+        "指纹已复制到剪贴板"
+      ],
+      "Phone number copied to clipboard": [
+        "电话号码已复制到剪贴板"
+      ],
+      "Preference saved": [
+        "设置已保存"
+      ],
+      "Preferences saved": [
+        "设置已保存"
+      ],
+      "Recovery has started": [
+        "恢复已开始。"
+      ],
+      "The link to your file was successfully copied": [
+        "已成功复制文件链接"
+      ],
+      "Verification successful": [
+        "验证成功"
+      ]
+    },
+    "Suffix for price": {
+      "/month": [
+        ""
+      ]
+    },
+    "Table header": {
+      "Action": [
+        "操作"
+      ],
+      "Actions": [
+        "操作"
+      ],
+      "Address": [
+        "地址"
+      ],
+      "Created": [
+        "创建"
+      ],
+      "Expires": [
+        "有效期至"
+      ],
+      "Fingerprint": [
+        "指纹"
+      ],
+      "Name": [
+        "姓名"
+      ],
+      "Status": [
+        "状态"
+      ],
+      "Type": [
+        "类型"
+      ]
+    },
+    "TableHeader": {
+      "# of accesses": [
+        "下载次数"
+      ],
+      "Actions": [
+        "操作"
+      ],
+      "Address": [
+        "地址"
+      ],
+      "Created": [
+        "创建时间"
+      ],
+      "CSV field": [
+        "CSV 字段"
+      ],
+      "Deleted": [
+        "已删除"
+      ],
+      "Expires": [
+        "有效期至"
+      ],
+      "Import": [
+        "导入"
+      ],
+      "Location": [
+        "位置"
+      ],
+      "Modified": [
+        "修改"
+      ],
+      "Name": [
+        "名称"
+      ],
+      "Size": [
+        "大小"
+      ],
+      "Uploaded": [
+        "已上传"
+      ],
+      "Values": [
+        "值"
+      ],
+      "vCard field": [
+        "vCard 字段"
+      ]
+    },
+    "Text": {
+      "Introducing the updated Proton.": [
+        "新版 Proton 闪亮登场。"
+      ],
+      "More services, one privacy mission.": [
+        "产品服务愈加丰富，隐私保护使命如一。"
+      ],
+      "Settings": [
+        "设置"
+      ]
+    },
+    "Time period": {
+      "account creation date": [
+        "账户创建日期"
+      ],
+      "the last 12 months": [
+        "最近 12 个月"
+      ],
+      "the last 3 months": [
+        "最近 3 个月"
+      ],
+      "the last month": [
+        "上个月"
+      ]
+    },
+    "Time unit": {
+      "${ hours } hour": [
+        "${ hours } 小时"
+      ],
+      "${ minutes } minute": [
+        "${ minutes } 分钟"
+      ]
+    },
+    "Title": {
+      "# of accesses": [
+        "下载次数"
+      ],
+      "${ emailsCount } member": [
+        "${ emailsCount } 位成员"
+      ],
+      "Account suspended": [
+        "账号已被冻结"
+      ],
+      "Active": [
+        "进行中"
+      ],
+      "Add contact group name": [
+        "添加联系人群组名称"
+      ],
+      "Add to ${ groupCount } group": [
+        "添加到 ${ groupCount } 个群组"
+      ],
+      "Add to ${ groupName }": [
+        "添加到 ${ groupName }"
+      ],
+      "Additional settings": [
+        "其他设置"
+      ],
+      "Addresses": [
+        "地址"
+      ],
+      "All": [
+        "全部"
+      ],
+      "Back": [
+        "后退"
+      ],
+      "Beta Access": [
+        "测试版功能"
+      ],
+      "Browser might run out of memory": [
+        "浏览器可能内存不足"
+      ],
+      "Change layout": [
+        "调整布局"
+      ],
+      "Clearing data": [
+        "正在清除数据"
+      ],
+      "Completed": [
+        "完成"
+      ],
+      "Contact details": [
+        "联系人详情"
+      ],
+      "Contact Details": [
+        "联系人详情"
+      ],
+      "Contact group": [
+        "联系人群组"
+      ],
+      "Contacts": [
+        "通讯录"
+      ],
+      "Create a new folder": [
+        "新建文件夹"
+      ],
+      "Create contact": [
+        "创建联系人"
+      ],
+      "Create new group": [
+        "创建新群组"
+      ],
+      "Currency": [
+        "货币"
+      ],
+      "Customize and confirm": [
+        "自定义并确认"
+      ],
+      "Customize calendar import": [
+        "自定义日历导入"
+      ],
+      "Customize your mail import": [
+        "自定义您的邮件导入"
+      ],
+      "Date": [
+        "日期"
+      ],
+      "Delete ${ count } contact": [
+        "删除 ${ count } 个联系人"
+      ],
+      "Delete ${ count } contact group": [
+        "删除 ${ count } 个联系人群组"
+      ],
+      "Delete ${ Name }": [
+        "删除 ${ Name }"
+      ],
+      "Delete permanently": [
+        "永久删除"
+      ],
+      "Deleting contacts": [
+        "删除联系人中"
+      ],
+      "Discard": [
+        "放弃"
+      ],
+      "Discard changes?": [
+        "放弃更改？"
+      ],
+      "Download canceled": [
+        "下载已取消"
+      ],
+      "Download completed": [
+        "下载完成"
+      ],
+      "Download failed": [
+        "下载失败"
+      ],
+      "Download unverified file?": [
+        "下载未经验证的文件？"
+      ],
+      "Download unverified folder?": [
+        "下载未经验证的文件夹？"
+      ],
+      "Downloading": [
+        "下載中"
+      ],
+      "Drive": [
+        "云盘"
+      ],
+      "Drop to upload": [
+        "拖拽文件并上传"
+      ],
+      "Duplicate file found": [
+        "发现重复文件"
+      ],
+      "Duplicate folder found": [
+        "发现重复文件夹"
+      ],
+      "Edit contact": [
+        "编辑联系人"
+      ],
+      "Edit contact group": [
+        "更改联系人群组"
+      ],
+      "Edit image": [
+        "更改图片"
+      ],
+      "Email addresses": [
+        "邮箱地址"
+      ],
+      "Email settings": [
+        "邮件设置"
+      ],
+      "Email settings (${ emailAddress })": [
+        "邮件设置（${ emailAddress }）"
+      ],
+      "Empty trash": [
+        "清空回收站"
+      ],
+      "Enable drive search": [
+        "启用网盘搜索"
+      ],
+      "Enter password to download": [
+        "请输入密码进行下载"
+      ],
+      "Enter your password": [
+        "输入您的密码"
+      ],
+      "Enter your username or ${ MAIL_APP_NAME } email address": [
+        "输入用户名或 ${ MAIL_APP_NAME } 邮箱地址"
+      ],
+      "Exporting contacts": [
+        "导出联系人"
+      ],
+      "Failed": [
+        "失败"
+      ],
+      "File details": [
+        "文件详细信息"
+      ],
+      "File recovery process": [
+        "文件恢复进程"
+      ],
+      "Files details": [
+        "文件详细信息"
+      ],
+      "Folder details": [
+        "文件夹详细信息"
+      ],
+      "Folders details": [
+        "文件夹详细信息"
+      ],
+      "Found ${ searchView.numberOfResults } result": [
+        "找到${ searchView.numberOfResults }条结果"
+      ],
+      "Groups": [
+        "群组"
+      ],
+      "Human verification": [
+        "身份验证"
+      ],
+      "Import contacts": [
+        "导入联系人"
+      ],
+      "Import groups": [
+        "导入分组"
+      ],
+      "Invalid verification code": [
+        "无效的验证代码"
+      ],
+      "Items details": [
+        "项目详细信息"
+      ],
+      "Link confirmation": [
+        "确认打开链接"
+      ],
+      "Location": [
+        "位置"
+      ],
+      "Manage secure link": [
+        "管理安全链接"
+      ],
+      "Manage share": [
+        "管理共享"
+      ],
+      "Merge contacts": [
+        "合并联系人"
+      ],
+      "Merging contacts": [
+        "正在合并联系人"
+      ],
+      "MIME type": [
+        "MIME 类型"
+      ],
+      "Modified": [
+        "修改"
+      ],
+      "My files": [
+        "我的文件"
+      ],
+      "My files ${ date }.zip": [
+        "我的文件 ${ date }.zip"
+      ],
+      "Name": [
+        "名称"
+      ],
+      "No results found": [
+        "未找到结果"
+      ],
+      "Number of files": [
+        "文件数"
+      ],
+      "Number of folders": [
+        "文件夹数"
+      ],
+      "Number of items": [
+        "项目数"
+      ],
+      "Open actions dropdown": [
+        "展开"
+      ],
+      "Open help menu": [
+        "打开帮助菜单"
+      ],
+      "Open settings menu": [
+        "打开设置菜单"
+      ],
+      "Other information": [
+        "其他信息"
+      ],
+      "Other names": [
+        "其他名称"
+      ],
+      "Performance might be affected": [
+        "性能可能会受到影响"
+      ],
+      "Phone numbers": [
+        "电话号码"
+      ],
+      "Re-sign all contacts": [
+        "重新签署所有联系人"
+      ],
+      "Re-signing contacts": [
+        "正在重新签署联系人"
+      ],
+      "Recover data": [
+        "恢复数据"
+      ],
+      "Rename a file": [
+        "重命名文件"
+      ],
+      "Rename a folder": [
+        "重命名文件夹"
+      ],
+      "Report a problem": [
+        "反馈问题"
+      ],
+      "Request new code": [
+        "请求新验证码"
+      ],
+      "Restore your files": [
+        "恢复您的文件"
+      ],
+      "Search results": [
+        "搜索结果"
+      ],
+      "Searching…": [
+        "搜索中……"
+      ],
+      "Select a theme": [
+        "选择配色"
+      ],
+      "Select action to take on contact group": [
+        "选择针对联系人群组的动作"
+      ],
+      "Select contact group": [
+        "选择联系人群组"
+      ],
+      "Select link expiration date": [
+        "选择链接失效日期"
+      ],
+      "Select link expiration time": [
+        "选择链接失效时间"
+      ],
+      "Settings": [
+        "设置"
+      ],
+      "Share via link": [
+        "通过链接分享"
+      ],
+      "Shared": [
+        "共享"
+      ],
+      "Show actions": [
+        "显示操作"
+      ],
+      "Sign in again to continue": [
+        "再次登录方可继续"
+      ],
+      "Sign in and grant access": [
+        "登录并授予权限"
+      ],
+      "Size": [
+        "大小"
+      ],
+      "Sort files/folders": [
+        "文件/文件夹排序"
+      ],
+      "Stop sharing": [
+        "停止分享"
+      ],
+      "Stop sharing with everyone?": [
+        "停止对所有人的分享？"
+      ],
+      "Stop transfers?": [
+        "停止传输？"
+      ],
+      "The file or folder failed to be downloaded": [
+        "文件或文件夹下载失败"
+      ],
+      "The internet connection was interrupted": [
+        "网络连接中断"
+      ],
+      "The link does not exist": [
+        "此链接不存在"
+      ],
+      "The link either does not exist or has expired": [
+        "该链接不存在或已失效"
+      ],
+      "The link failed to be loaded": [
+        "链接加载失败"
+      ],
+      "This file has a missing or invalid signature. Go to Menu (⋮) → Details for info.": [
+        "此文件的签名缺失或无效，请转至菜单 (⋮) → 详细信息以获取相关信息。"
+      ],
+      "This folder has a missing or invalid signature. Go to Menu (⋮) → Details for info.": [
+        "此文件夹的签名缺失或无效，请转至菜单 (⋮) → 详细信息以获取相关信息。"
+      ],
+      "Total size": [
+        "总大小"
+      ],
+      "Trash": [
+        "回收站"
+      ],
+      "Type": [
+        "类型"
+      ],
+      "Upgrade required": [
+        "需要升级"
+      ],
+      "Uploaded": [
+        "已上传"
+      ],
+      "Uploaded by": [
+        "上传者"
+      ],
+      "View contacts": [
+        "查看联系人"
+      ],
+      "Warning": [
+        "警告"
+      ],
+      "Warning: suspected fake website": [
+        ""
+      ],
+      "What would you like to import?": [
+        "您需要导入哪些内容？"
+      ],
+      "What's new": [
+        "更新内容"
+      ],
+      "You have inaccessible files": [
+        "存在无法访问的文件"
+      ],
+      "You have no files to share": [
+        "您没有要共享的文件"
+      ],
+      "You have no folders yet": [
+        "您尚未添加文件夹"
+      ],
+      "Your file is ready to be downloaded": [
+        "您的文件已准备就绪"
+      ],
+      "Your folder is ready to be downloaded": [
+        "您的文件夹已准备就绪"
+      ],
+      "Your free trial ends soon, on ${ formattedEndDate }": [
+        "您的免费试用期即将于 ${ formattedEndDate } 结束"
+      ]
+    },
+    "Today icon tooltip in mini calendar": {
+      "Today": [
+        "今天"
+      ]
+    },
+    "Tooltip": {
+      "Automatic indicates that the format in the composer is used to send to this user. Plain text indicates that the message will always be converted to plain text on send.": [
+        "“自动”表示使用编辑区中指定的格式，“纯文本”则表示向此人发送的邮件一律使用纯文本。"
+      ],
+      "Digitally signing emails helps authenticating that messages are sent by you": [
+        "数字签名有助于证明您的邮件真实性"
+      ],
+      "Each imported email will have this label": [
+        "每一封导入的邮件都会有这个标签"
+      ],
+      "Email encryption forces email signature to help authenticate your sent messages": [
+        "加密邮件必须予以数字签名以表明您的邮件真实性"
+      ],
+      "Encrypted data": [
+        "加密数据"
+      ],
+      "Encrypted data with verified digital signature": [
+        "已加密并验证数字签名"
+      ],
+      "Select the PGP scheme to be used when signing or encrypting to a user. Note that PGP/Inline forces plain text messages": [
+        "选择在向用户签名或加密时要使用的 PGP 方案。请注意, PGP/内嵌强制纯文本消息。"
+      ],
+      "System subfolders will show up as separate folders in ${ MAIL_APP_NAME }": [
+        ""
+      ],
+      "The import will start with the most recent messages.": [
+        "导入将从最近的信息开始。"
+      ],
+      "Upload a public key to enable sending end-to-end encrypted emails to this email": [
+        "上传公钥后方可向此地址发送端到端加密邮件"
+      ],
+      "You do not have any contacts to export": [
+        "您没有任何联系人可导出"
+      ]
+    },
+    "Validation": {
+      "Password must contain at least ${ length } character": [
+        "密码必须至少包含 ${ length } 个字符"
+      ]
+    },
+    "Validation Error": {
+      "\"${ str }\" is not a valid name": [
+        "“${ str }”不是有效名称"
+      ],
+      "Name cannot include invisible characters, / or \\.": [
+        "名称中不能包含不可见字符，/ 或 \\。"
+      ],
+      "Name must be ${ MAX_NAME_LENGTH } characters long at most": [
+        "名称长度最多为 ${ MAX_NAME_LENGTH } 个字符"
+      ],
+      "Name must not be empty": [
+        "名称不能为空"
+      ],
+      "Name must not begin with a space": [
+        "名称不能以空格开始"
+      ],
+      "Name must not end with a space": [
+        "名称不能以空格结尾"
+      ]
+    },
+    "Video control": {
+      "Click to replay the video": [
+        "点击回放视频"
+      ],
+      "Replay video": [
+        "回放视频"
+      ]
+    },
+    "Warning": {
+      "Are you sure you want to permanently delete ${ count } contact group?": [
+        "您确定要永久删除 ${ count } 联系人群组吗？"
+      ],
+      "Are you sure you want to permanently delete ${ count } contact?": [
+        "您确定要永久删除 ${ count } 联系人吗？"
+      ],
+      "Are you sure you want to permanently delete this contact group?": [
+        "您确定要永久删除此联系人群组吗？"
+      ],
+      "Are you sure you want to permanently delete this contact?": [
+        "您确认要永久删除此邮件吗？"
+      ],
+      "Contacts could not be merged": [
+        "无法合并联系人"
+      ],
+      "If you don’t remember your password, it is impossible to re-activate your key. We can help you dismiss the alert banner but in the process you will permanently lose access to all the data encrypted with that key.": [
+        "如果您忘记了密码，您将无法重新激活密钥。我们可以帮助您关闭警告横幅，但在此过程中，您将永久失去通过该密钥加密的所有数据"
+      ],
+      "Live chat is a premium feature available only to those with paid ${ VPN_APP_NAME } plans. Please open a ticket instead.": [
+        ""
+      ],
+      "Proton will merge all folders with the same name. To avoid this, change the names before import.": [
+        "Proton 将会合并所有同名的文件夹。为了避免这种情况，请在导入前更改名称。"
+      ],
+      "Reports are not end-to-end encrypted, please do not send any sensitive information.": [
+        "反馈内容不会经过端对端加密，请勿发送敏感信息。"
+      ],
+      "Some of the contacts to be merged display errors. Please review them individually": [
+        "部分需合并的联系人无法显示，请单独查看。"
+      ],
+      "The contact data is corrupted and cannot be displayed.": [
+        "联系人数据损坏，无法显示。"
+      ],
+      "The contact failed to load.": [
+        "联系人加载失败"
+      ],
+      "The date and time settings on your device are out of sync. ${ learnMore }": [
+        "您设备上的日期和时间设置未同步。${ learnMore }"
+      ],
+      "The decryption of the encrypted content failed.": [
+        "解密失败"
+      ],
+      "The verification of the contact details' signature failed.": [
+        "联系方式签名验证失败"
+      ],
+      "This action is irreversible. Please enter the word ${ boldDanger } in the field to proceed.": [
+        "此操作不可逆，请在字段中输入 ${ boldDanger } 以继续"
+      ],
+      "This feature requires a paid Proton account": [
+        "此功能仅限付费用户使用"
+      ],
+      "Unfortunately, we’re not online at the moment. Please complete the form below to describe your issue, and we will look into it and be in touch when we’re back online.": [
+        "非常抱歉，我们目前不在线。请填写下面的表格来描述您的问题，我们会进行调查并在上线后联系您。"
+      ],
+      "You will lose any customization you made so far.": [
+        "当前的导入设置将无法恢复。"
+      ],
+      "Your free trial ends on ${ textDate }. ${ action }": [
+        ""
+      ]
+    }
+  }
+}

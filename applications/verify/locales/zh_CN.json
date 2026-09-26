@@ -1,0 +1,1012 @@
+{
+  "headers": {
+    "plural-forms": "nplurals=1; plural=0;",
+    "language": "zh_CN"
+  },
+  "contexts": {
+    "Action": {
+      "Cancel": [
+        "取消"
+      ],
+      "Close": [
+        "关闭"
+      ],
+      "Close modal": [
+        "关闭"
+      ],
+      "Didn't receive the code?": [
+        ""
+      ],
+      "Edit email address": [
+        "修改邮箱地址"
+      ],
+      "Edit phone number": [
+        "修改电话号码"
+      ],
+      "Edit sign-in details": [
+        ""
+      ],
+      "Get verification code": [
+        "获取验证码"
+      ],
+      "refresh the page": [
+        "刷新页面"
+      ],
+      "Request new code": [
+        "重新发送验证码"
+      ],
+      "Submit": [
+        "提交"
+      ],
+      "Try another method": [
+        "更换验证方式"
+      ],
+      "Verify": [
+        "验证"
+      ],
+      "Verify account": [
+        ""
+      ],
+      "Verify email": [
+        ""
+      ],
+      "View invoice": [
+        "查看账单"
+      ]
+    },
+    "Country name": {
+      "Abkhazia": [
+        ""
+      ],
+      "Afghanistan": [
+        ""
+      ],
+      "Albania": [
+        ""
+      ],
+      "Algeria": [
+        ""
+      ],
+      "American Samoa": [
+        ""
+      ],
+      "Andorra": [
+        ""
+      ],
+      "Angola": [
+        ""
+      ],
+      "Anguilla": [
+        ""
+      ],
+      "Antarctica": [
+        ""
+      ],
+      "Antigua and Barbuda": [
+        ""
+      ],
+      "Argentina": [
+        ""
+      ],
+      "Armenia": [
+        ""
+      ],
+      "Aruba": [
+        ""
+      ],
+      "Ascension Island": [
+        ""
+      ],
+      "Australia": [
+        ""
+      ],
+      "Austria": [
+        ""
+      ],
+      "Azerbaijan": [
+        ""
+      ],
+      "Bahamas": [
+        ""
+      ],
+      "Bahrain": [
+        ""
+      ],
+      "Bangladesh": [
+        ""
+      ],
+      "Barbados": [
+        ""
+      ],
+      "Belarus": [
+        ""
+      ],
+      "Belgium": [
+        ""
+      ],
+      "Belize": [
+        ""
+      ],
+      "Benin": [
+        ""
+      ],
+      "Bermuda": [
+        ""
+      ],
+      "Bhutan": [
+        ""
+      ],
+      "Bolivia": [
+        ""
+      ],
+      "Bonaire, Sint Eustatius and Saba": [
+        ""
+      ],
+      "Bosnia and Herzegovina": [
+        ""
+      ],
+      "Botswana": [
+        ""
+      ],
+      "Bouvet Island": [
+        ""
+      ],
+      "Brazil": [
+        ""
+      ],
+      "British Indian Ocean Territory": [
+        ""
+      ],
+      "Brunei Darussalam": [
+        ""
+      ],
+      "Bulgaria": [
+        ""
+      ],
+      "Burkina Faso": [
+        ""
+      ],
+      "Burma": [
+        ""
+      ],
+      "Burundi": [
+        ""
+      ],
+      "Cambodia": [
+        ""
+      ],
+      "Cameroon": [
+        ""
+      ],
+      "Canada": [
+        ""
+      ],
+      "Cape Verde": [
+        ""
+      ],
+      "Cayman Islands": [
+        ""
+      ],
+      "Central African Republic": [
+        ""
+      ],
+      "Chad": [
+        ""
+      ],
+      "Chile": [
+        ""
+      ],
+      "China": [
+        ""
+      ],
+      "Christmas Island": [
+        ""
+      ],
+      "Cocos (Keeling) Islands": [
+        ""
+      ],
+      "Colombia": [
+        ""
+      ],
+      "Comoros": [
+        ""
+      ],
+      "Congo": [
+        ""
+      ],
+      "Congo, Democratic Republic of the": [
+        ""
+      ],
+      "Cook Islands": [
+        ""
+      ],
+      "Costa Rica": [
+        ""
+      ],
+      "Cote d'Ivoire\"": [
+        "Cote d'Ivoire"
+      ],
+      "Croatia": [
+        ""
+      ],
+      "Cuba": [
+        ""
+      ],
+      "Curaçao": [
+        ""
+      ],
+      "Cyprus": [
+        ""
+      ],
+      "Czech Republic": [
+        ""
+      ],
+      "Denmark": [
+        ""
+      ],
+      "Djibouti": [
+        ""
+      ],
+      "Dominica": [
+        ""
+      ],
+      "Dominican Republic": [
+        ""
+      ],
+      "Ecuador": [
+        ""
+      ],
+      "Egypt": [
+        ""
+      ],
+      "El Salvador": [
+        ""
+      ],
+      "Equatorial Guinea": [
+        ""
+      ],
+      "Eritrea": [
+        ""
+      ],
+      "Estonia": [
+        ""
+      ],
+      "Ethiopia": [
+        ""
+      ],
+      "Falkland Islands": [
+        ""
+      ],
+      "Faroe Islands": [
+        ""
+      ],
+      "Federated States of Micronesia": [
+        ""
+      ],
+      "Fiji": [
+        ""
+      ],
+      "Finland": [
+        ""
+      ],
+      "France": [
+        ""
+      ],
+      "French Guiana": [
+        ""
+      ],
+      "French Polynesia": [
+        ""
+      ],
+      "French Southern Territories": [
+        ""
+      ],
+      "Gabon": [
+        ""
+      ],
+      "Gambia": [
+        ""
+      ],
+      "Georgia": [
+        ""
+      ],
+      "Germany": [
+        ""
+      ],
+      "Ghana": [
+        ""
+      ],
+      "Gibraltar": [
+        ""
+      ],
+      "Greece": [
+        ""
+      ],
+      "Greenland": [
+        ""
+      ],
+      "Grenada": [
+        ""
+      ],
+      "Guadeloupe": [
+        ""
+      ],
+      "Guam": [
+        ""
+      ],
+      "Guatemala": [
+        ""
+      ],
+      "Guernsey": [
+        ""
+      ],
+      "Guinea": [
+        ""
+      ],
+      "Guinea-Bissau": [
+        ""
+      ],
+      "Guyana": [
+        ""
+      ],
+      "Haiti": [
+        ""
+      ],
+      "Heard Island and McDonald Islands": [
+        ""
+      ],
+      "Holy See (Vatican City State)": [
+        ""
+      ],
+      "Honduras": [
+        ""
+      ],
+      "Hong Kong": [
+        ""
+      ],
+      "Hungary": [
+        ""
+      ],
+      "Iceland": [
+        ""
+      ],
+      "India": [
+        ""
+      ],
+      "Indonesia": [
+        ""
+      ],
+      "International": [
+        ""
+      ],
+      "Iran": [
+        ""
+      ],
+      "Iraq": [
+        ""
+      ],
+      "Ireland": [
+        ""
+      ],
+      "Isle of Man": [
+        ""
+      ],
+      "Israel": [
+        ""
+      ],
+      "Italy": [
+        ""
+      ],
+      "Jamaica": [
+        ""
+      ],
+      "Japan": [
+        ""
+      ],
+      "Jersey": [
+        ""
+      ],
+      "Jordan": [
+        ""
+      ],
+      "Kazakhstan": [
+        ""
+      ],
+      "Kenya": [
+        ""
+      ],
+      "Kiribati": [
+        ""
+      ],
+      "Kosovo": [
+        ""
+      ],
+      "Kuwait": [
+        ""
+      ],
+      "Kyrgyzstan": [
+        ""
+      ],
+      "Laos": [
+        ""
+      ],
+      "Latvia": [
+        ""
+      ],
+      "Lebanon": [
+        ""
+      ],
+      "Lesotho": [
+        ""
+      ],
+      "Liberia": [
+        ""
+      ],
+      "Libya": [
+        ""
+      ],
+      "Liechtenstein": [
+        ""
+      ],
+      "Lithuania": [
+        ""
+      ],
+      "Luxembourg": [
+        ""
+      ],
+      "Macao": [
+        ""
+      ],
+      "Madagascar": [
+        ""
+      ],
+      "Malawi": [
+        ""
+      ],
+      "Malaysia": [
+        ""
+      ],
+      "Maldives": [
+        ""
+      ],
+      "Mali": [
+        ""
+      ],
+      "Malta": [
+        ""
+      ],
+      "Marshall Islands": [
+        ""
+      ],
+      "Martinique": [
+        ""
+      ],
+      "Mauritania": [
+        ""
+      ],
+      "Mauritius": [
+        ""
+      ],
+      "Mayotte": [
+        ""
+      ],
+      "Mexico": [
+        ""
+      ],
+      "Moldova": [
+        ""
+      ],
+      "Monaco": [
+        ""
+      ],
+      "Mongolia": [
+        ""
+      ],
+      "Montenegro": [
+        ""
+      ],
+      "Montserrat": [
+        ""
+      ],
+      "Morocco": [
+        ""
+      ],
+      "Mozambique": [
+        ""
+      ],
+      "Namibia": [
+        ""
+      ],
+      "Nauru": [
+        ""
+      ],
+      "Nepal": [
+        ""
+      ],
+      "Netherlands": [
+        ""
+      ],
+      "New Caledonia": [
+        ""
+      ],
+      "New Zealand": [
+        ""
+      ],
+      "Nicaragua": [
+        ""
+      ],
+      "Niger": [
+        ""
+      ],
+      "Nigeria": [
+        ""
+      ],
+      "Niue": [
+        ""
+      ],
+      "Norfolk Island": [
+        ""
+      ],
+      "North Korea": [
+        ""
+      ],
+      "North Macedonia": [
+        ""
+      ],
+      "Northern Mariana Islands": [
+        ""
+      ],
+      "Norway": [
+        ""
+      ],
+      "Oman": [
+        ""
+      ],
+      "Pakistan": [
+        ""
+      ],
+      "Palau": [
+        ""
+      ],
+      "Palestine": [
+        ""
+      ],
+      "Panama": [
+        ""
+      ],
+      "Papua New Guinea": [
+        ""
+      ],
+      "Paraguay": [
+        ""
+      ],
+      "Peru": [
+        ""
+      ],
+      "Philippines": [
+        ""
+      ],
+      "Pitcairn": [
+        ""
+      ],
+      "Poland": [
+        ""
+      ],
+      "Portugal": [
+        ""
+      ],
+      "Puerto Rico": [
+        ""
+      ],
+      "Qatar": [
+        ""
+      ],
+      "Reunion": [
+        ""
+      ],
+      "Romania": [
+        ""
+      ],
+      "Russia": [
+        ""
+      ],
+      "Rwanda": [
+        ""
+      ],
+      "Saint Barthélemy": [
+        ""
+      ],
+      "Saint Helena": [
+        ""
+      ],
+      "Saint Kitts and Nevis": [
+        ""
+      ],
+      "Saint Lucia": [
+        ""
+      ],
+      "Saint Martin (French Part)": [
+        ""
+      ],
+      "Saint Pierre and Miquelon": [
+        ""
+      ],
+      "Saint Vincent and the Grenadines": [
+        ""
+      ],
+      "Samoa": [
+        ""
+      ],
+      "San Marino": [
+        ""
+      ],
+      "Sao Tome and Principe": [
+        ""
+      ],
+      "Saudi Arabia": [
+        ""
+      ],
+      "Senegal": [
+        ""
+      ],
+      "Serbia": [
+        ""
+      ],
+      "Seychelles": [
+        ""
+      ],
+      "Sierra Leone": [
+        ""
+      ],
+      "Singapore": [
+        ""
+      ],
+      "Sint Maarten": [
+        ""
+      ],
+      "Slovakia": [
+        ""
+      ],
+      "Slovenia": [
+        ""
+      ],
+      "Solomon Islands": [
+        ""
+      ],
+      "Somalia": [
+        ""
+      ],
+      "South Africa": [
+        ""
+      ],
+      "South Georgia and the South Sandwich Islands": [
+        ""
+      ],
+      "South Korea": [
+        ""
+      ],
+      "South Ossetia": [
+        ""
+      ],
+      "South Sudan": [
+        ""
+      ],
+      "Spain": [
+        ""
+      ],
+      "Sri Lanka": [
+        ""
+      ],
+      "Sudan": [
+        ""
+      ],
+      "Suriname": [
+        ""
+      ],
+      "Svalbard and Jan Mayen": [
+        ""
+      ],
+      "Swaziland": [
+        ""
+      ],
+      "Sweden": [
+        ""
+      ],
+      "Switzerland": [
+        ""
+      ],
+      "Syria": [
+        ""
+      ],
+      "Taiwan": [
+        ""
+      ],
+      "Tajikistan": [
+        ""
+      ],
+      "Tanzania": [
+        ""
+      ],
+      "Thailand": [
+        ""
+      ],
+      "Timor-Leste": [
+        ""
+      ],
+      "Togo": [
+        ""
+      ],
+      "Tokelau": [
+        ""
+      ],
+      "Tonga": [
+        ""
+      ],
+      "Trinidad and Tobago": [
+        ""
+      ],
+      "Tristan da Cunha": [
+        ""
+      ],
+      "Tunisia": [
+        ""
+      ],
+      "Turkey": [
+        ""
+      ],
+      "Turkmenistan": [
+        ""
+      ],
+      "Turks and Caicos Islands": [
+        ""
+      ],
+      "Tuvalu": [
+        ""
+      ],
+      "Uganda": [
+        ""
+      ],
+      "Ukraine": [
+        ""
+      ],
+      "United Arab Emirates": [
+        ""
+      ],
+      "United Kingdom": [
+        ""
+      ],
+      "United States": [
+        ""
+      ],
+      "United States Minor Outlying Islands": [
+        ""
+      ],
+      "Uruguay": [
+        ""
+      ],
+      "Uzbekistan": [
+        ""
+      ],
+      "Vanuatu": [
+        ""
+      ],
+      "Venezuela": [
+        ""
+      ],
+      "Vietnam": [
+        ""
+      ],
+      "Virgin Islands, British": [
+        ""
+      ],
+      "Virgin Islands, U.S.": [
+        ""
+      ],
+      "Wallis and Futuna": [
+        ""
+      ],
+      "Western Sahara": [
+        ""
+      ],
+      "Yemen": [
+        ""
+      ],
+      "Zambia": [
+        ""
+      ],
+      "Zimbabwe": [
+        ""
+      ],
+      "Åland Islands": [
+        ""
+      ]
+    },
+    "Delinquent modal title": {
+      "Overdue invoice": [
+        "逾期账单"
+      ]
+    },
+    "Error": {
+      "Email is not valid": [
+        "邮箱地址无效"
+      ],
+      "Enter 6 digits": [
+        "请输入 6 位验证码"
+      ],
+      "Invalid verification code": [
+        "验证码无效"
+      ],
+      "Not a valid number": [
+        "电话号码无效"
+      ],
+      "Passwords do not match": [
+        "两次输入的密码不一致"
+      ],
+      "Request timed out": [
+        "请求超时"
+      ],
+      "This field is required": [
+        "此项必须填写"
+      ],
+      "This field requires a minimum of ${ minimumLength } characters.": [
+        "此项至少应填写 ${ minimumLength } 个字符。"
+      ],
+      "Unknown error": [
+        "未知错误"
+      ]
+    },
+    "Error message": {
+      "Brace yourself till we get the error fixed.": [
+        "别担心，我们会解决的。"
+      ],
+      "Error: ${ errorMessage }": [
+        "错误：${ errorMessage }"
+      ],
+      "Oops, something went wrong": [
+        "糟糕，出错了"
+      ],
+      "Please ${ refresh } or check your connection.": [
+        "请${ refresh }或检查网络连接。"
+      ],
+      "There was a problem connecting to Proton.": [
+        "连接 Proton 失败。"
+      ],
+      "You may also ${ refresh } or try again later.": [
+        "您也可以${ refresh }或稍后再试。"
+      ]
+    },
+    "Human verification method": {
+      "CAPTCHA": [
+        "验证码"
+      ],
+      "Email": [
+        "电子邮件"
+      ],
+      "Manual": [
+        "人工验证"
+      ],
+      "No verification method available": [
+        "没有可用的验证方法"
+      ],
+      "SMS": [
+        "短信"
+      ]
+    },
+    "Info": {
+      "Before requesting a new verification code, check your spam folder and check that ${ strong } is the correct address.": [
+        "请求新的验证码之前，请先检查下垃圾邮件文件夹，并确认邮箱地址 ${ strong } 是否正确。"
+      ],
+      "Click \"Request new code\" to have a new verification code sent to ${ strong }. If this phone number is incorrect, click \"Edit\" to correct it.": [
+        "点击“请求新验证码”将发送到 ${ strong }。如果此电话号码不正确，请点击“编辑”。"
+      ],
+      "Enter the verification code that was sent to ${ destinationText }.": [
+        "验证码已发至 ${ destinationText }，请在下方输入。"
+      ],
+      "If you are having trouble creating your account, please request an invitation and we will respond within one business day.": [
+        "若您创建账户存在困难，请提交注册申请，我们将在一个工作日内回复。"
+      ],
+      "If you don't find the email in your inbox, please check your spam folder.": [
+        "若邮件没有出现在收件箱中，请检查其是否被归为垃圾邮件。"
+      ],
+      "Internet connection lost": [
+        "网络连接已断开"
+      ],
+      "Loading": [
+        "加载中"
+      ],
+      "No results found": [
+        "搜索无结果"
+      ],
+      "Servers are unreachable. Please try again in a few minutes": [
+        "服务器无法访问，请过几分钟后再试"
+      ],
+      "Session timed out": [
+        "会话超时"
+      ],
+      "To fight spam and abuse, please verify you are human.": [
+        "为防止滥发邮件，请验证您是真人操作。"
+      ],
+      "We'll send a new verification code to ${ strong }": [
+        "我们将向 ${ strong } 发送新的验证码"
+      ],
+      "Would you like to receive a new verification code or use an alternative verification method?": [
+        "您想重新获取验证码还是更换验证方式？"
+      ],
+      "Would you like to receive a new verification code?": [
+        "您想要接收新的验证码吗？"
+      ],
+      "Your email will only be used for this one-time verification.": [
+        "您的邮箱地址仅用于本次验证。"
+      ],
+      "Your phone number will only be used for this one-time verification.": [
+        "您的电话号码仅用于本次验证。"
+      ],
+      "Your Proton account is currently on hold. To continue using your account, please pay any overdue invoices.": [
+        "您的 Proton 账户已欠费停用，请先支付逾期账单再继续使用。"
+      ]
+    },
+    "Label": {
+      "Code is 6 digits without spaces": [
+        ""
+      ],
+      "Email address": [
+        "邮箱地址"
+      ],
+      "Hide password": [
+        "隐藏密码"
+      ],
+      "Password": [
+        "密码"
+      ],
+      "Phone number": [
+        "电话号码"
+      ],
+      "Reveal password": [
+        "显示密码"
+      ],
+      "Verification code": [
+        "验证码"
+      ]
+    },
+    "Link": {
+      "Learn more": [
+        "了解详情"
+      ],
+      "Request an invite": [
+        "申请注册"
+      ]
+    },
+    "Placeholder": {
+      "Password": [
+        ""
+      ]
+    },
+    "Success": {
+      "Code sent to ${ methodTo }": [
+        "验证码已发至 ${ methodTo }"
+      ],
+      "Verification successful": [
+        "验证成功"
+      ]
+    },
+    "Title": {
+      "Human verification": [
+        "人机验证"
+      ],
+      "Invalid verification code": [
+        "验证码无效"
+      ],
+      "Request new code": [
+        "重新发送验证码"
+      ],
+      "Sign in again to continue": [
+        "再次登录方可继续"
+      ]
+    },
+    "Validation": {
+      "Password must contain at least ${ length } character": [
+        "密码必须至少包含 ${ length } 个字符"
+      ]
+    }
+  }
+}
