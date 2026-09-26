@@ -1,0 +1,4738 @@
+{
+  "headers": {
+    "plural-forms": "nplurals=2; plural=(n != 1);",
+    "language": "nl_NL"
+  },
+  "contexts": {
+    "Action": {
+      "${ BRAND_NAME } introduction": [
+        "${ BRAND_NAME } inleiding"
+      ],
+      "${ BRAND_NAME } shop": [
+        "${ BRAND_NAME } winkel"
+      ],
+      "Activate recovery": [
+        "Herstel activeren"
+      ],
+      "Add": [
+        "Toevoegen"
+      ],
+      "Add address": [
+        "Adres toevoegen"
+      ],
+      "Add contact": [
+        "Contactpersoon toevoegen"
+      ],
+      "Add email": [
+        "E-mailadres toevoegen"
+      ],
+      "Add group": [
+        "Groep toevoegen"
+      ],
+      "Add new contact": [
+        "Contactpersoon toevoegen"
+      ],
+      "Add new group": [
+        "Voeg nieuwe groep toe"
+      ],
+      "Add phone number": [
+        "Telefoonnummer toevoegen"
+      ],
+      "Add to group": [
+        "Toevoegen aan groep"
+      ],
+      "Apply": [
+        "Toepassen"
+      ],
+      "Attach screenshot(s)": [
+        "Schermafbeelding(en) toevoegen"
+      ],
+      "Back": [
+        "Terug"
+      ],
+      "Beta Access": [
+        "Bèta toegang"
+      ],
+      "Cancel": [
+        "Annuleren"
+      ],
+      "Cancel all": [
+        "Annuleer alle"
+      ],
+      "Cancel all downloads": [
+        "Alle downloads annuleren"
+      ],
+      "Cancel all uploads": [
+        "Alle uploads annuleren"
+      ],
+      "Cancel download": [
+        "Download annuleren"
+      ],
+      "Cancel upload": [
+        "Upload annuleren"
+      ],
+      "Chat with us": [
+        "Chat met ons"
+      ],
+      "Check import progress": [
+        "Import-voortgang checken"
+      ],
+      "Choose a file or drag it here": [
+        "Kies een bestand of sleep deze hier"
+      ],
+      "Clear": [
+        "Wissen"
+      ],
+      "Clear browser data": [
+        "Wis browsergegevens"
+      ],
+      "Clear data": [
+        "Gegevens wissen"
+      ],
+      "Clear query": [
+        "Zoekopdracht wissen"
+      ],
+      "Click here.": [
+        "Klik hier."
+      ],
+      "Close": [
+        "Sluiten"
+      ],
+      "Close modal": [
+        "Venster sluiten"
+      ],
+      "Close navigation": [
+        "Sluit navigatie"
+      ],
+      "Close this banner": [
+        "Sluit deze banner"
+      ],
+      "Close transfers": [
+        "Overdrachten sluiten"
+      ],
+      "Collapse": [
+        "Inklappen"
+      ],
+      "Collapse folder": [
+        "Map samenvouwen"
+      ],
+      "Compose": [
+        "Opstellen"
+      ],
+      "Confirm": [
+        "Bevestigen"
+      ],
+      "Confirm opening of link ${ linkToShow }": [
+        "Bevestig het openen van link ${ linkToShow }"
+      ],
+      "Contact group": [
+        "Contactgroep"
+      ],
+      "Continue": [
+        "Doorgaan"
+      ],
+      "Continue transfers": [
+        "Overdrachten voortzetten"
+      ],
+      "Continue with Google": [
+        "Ga verder met Google"
+      ],
+      "Copy email to clipboard": [
+        "E-mailadres kopiëren naar klembord"
+      ],
+      "Copy link": [
+        "Link kopiëren"
+      ],
+      "Create": [
+        "Aanmaken"
+      ],
+      "Create a new contact group": [
+        "Nieuwe contactgroep maken"
+      ],
+      "Create link": [
+        "Link aanmaken"
+      ],
+      "Create new folder": [
+        "Nieuwe map aanmaken"
+      ],
+      "Customize": [
+        "Personaliseer"
+      ],
+      "Delete": [
+        "Verwijderen"
+      ],
+      "Delete ${ selectedCount } contact": [
+        "${ selectedCount } contactpersoon verwijderen",
+        "${ selectedCount } contactpersonen verwijderen"
+      ],
+      "Delete ${ selectedCount } contact group": [
+        "${ selectedCount } contactgroep verwijderen",
+        "${ selectedCount } contactgroepen verwijderen"
+      ],
+      "Delete contact": [
+        "Contactpersoon verwijderen"
+      ],
+      "Delete contact group": [
+        "Contactgroep verwijderen"
+      ],
+      "Delete permanently": [
+        "Permanent verwijderen"
+      ],
+      "Deselect all": [
+        "Alles deselecteren"
+      ],
+      "Details": [
+        "Details"
+      ],
+      "Didn't receive the code?": [
+        "Code niet ontvangen?"
+      ],
+      "Done": [
+        "Klaar"
+      ],
+      "Download": [
+        "Downloaden"
+      ],
+      "Download anyway": [
+        "Toch downloaden"
+      ],
+      "Drive Locked": [
+        "Drive versleuteld"
+      ],
+      "Edit": [
+        "Bewerken"
+      ],
+      "Edit email address": [
+        "Wijzig e-mailadres"
+      ],
+      "Edit label": [
+        "Label bewerken"
+      ],
+      "Edit phone number": [
+        "Wijzig telefoonnummer"
+      ],
+      "Edit sign-in details": [
+        "Bewerk aanmeldgegevens"
+      ],
+      "Email settings": [
+        "E-mailinstellingen"
+      ],
+      "Empty trash": [
+        "Prullenbak leegmaken"
+      ],
+      "enable desktop notifications": [
+        "schakel desktopmeldingen in"
+      ],
+      "Enable drive search": [
+        "Drive doorzoeken inschakelen"
+      ],
+      "Expand": [
+        "Uitklappen"
+      ],
+      "Expand folder": [
+        "Map uitklappen"
+      ],
+      "Export": [
+        "Exporteren"
+      ],
+      "Export contact group": [
+        "Exporteer contactgroep"
+      ],
+      "Export contacts": [
+        "Contactgegevens exporteren"
+      ],
+      "Forward as attachment": [
+        "Doorsturen als bijlage"
+      ],
+      "Get link": [
+        "Link krijgen"
+      ],
+      "Get started": [
+        "Aan de slag"
+      ],
+      "Get verification code": [
+        "Krijg verificatie code"
+      ],
+      "Go to label": [
+        "Ga naar label"
+      ],
+      "Go to panel ${ index }": [
+        "Ga naar paneel ${ index }"
+      ],
+      "Go to parent": [
+        "Ga naar bovenliggende"
+      ],
+      "Go to settings": [
+        "Ga naar instellingen"
+      ],
+      "Got it": [
+        "Begrepen"
+      ],
+      "Hide advanced PGP settings": [
+        "Geavanceerde PGP-instellingen verbergen"
+      ],
+      "Hide folders": [
+        "Mappen verbergen"
+      ],
+      "Hide labels": [
+        "Labels verbergen"
+      ],
+      "I have a question": [
+        "Ik heb een vraag"
+      ],
+      "import": [
+        "importeren"
+      ],
+      "Import": [
+        "Importeren"
+      ],
+      "Import from .csv or vCard": [
+        "Importeer vanuit .csv of vCard"
+      ],
+      "Learn more": [
+        "Meer informatie"
+      ],
+      "Load image": [
+        "Afbeelding laden"
+      ],
+      "Log in": [
+        "Aanmelden"
+      ],
+      "Manage link": [
+        "Beheer link"
+      ],
+      "Mark for deletion": [
+        "Markeren voor verwijderen"
+      ],
+      "Maximize transfers": [
+        "Maximaliseer overdrachten"
+      ],
+      "Merge": [
+        "Samenvoegen"
+      ],
+      "Merge contacts": [
+        "Contactpersonen samenvoegen"
+      ],
+      "Minimize transfers": [
+        "Minimaliseer overdrachten"
+      ],
+      "More info: ${ safeTitle }": [
+        "Meer informatie: ${ safeTitle }"
+      ],
+      "More options": [
+        "Meer opties"
+      ],
+      "Move": [
+        "Verplaatsen"
+      ],
+      "Move to folder": [
+        "Naar map verplaatsen"
+      ],
+      "Move to trash": [
+        "Naar prullenbak verplaatsen"
+      ],
+      "New upload": [
+        "Nieuwe upload"
+      ],
+      "Next": [
+        "Volgende"
+      ],
+      "Next month": [
+        "Volgende maand"
+      ],
+      "OK": [
+        "OK"
+      ],
+      "Open navigation": [
+        "Open navigatie"
+      ],
+      "Pause all": [
+        "Pauzeer alle"
+      ],
+      "Pause download": [
+        "Download pauzeren"
+      ],
+      "Pause upload": [
+        "Uploaden pauzeren"
+      ],
+      "Preview": [
+        "Voorbeeld"
+      ],
+      "Preview contact": [
+        "Contactpersoon voorvertonen"
+      ],
+      "Previous": [
+        "Vorige"
+      ],
+      "Previous month": [
+        "Vorige maand"
+      ],
+      "Quit": [
+        "Afsluiten"
+      ],
+      "Re-sign": [
+        "Opnieuw ondertekenen"
+      ],
+      "Recover data": [
+        "Gegevens herstellen"
+      ],
+      "Refer a friend": [
+        "Verwijs een vriend door"
+      ],
+      "refresh the page": [
+        "vernieuw de pagina"
+      ],
+      "Refresh the page": [
+        "Pagina vernieuwen"
+      ],
+      "Remove": [
+        "Verwijderen"
+      ],
+      "Remove from this list": [
+        "Van deze lijst verwijderen"
+      ],
+      "Rename": [
+        "Hernoem"
+      ],
+      "Report a problem": [
+        "Meld een probleem"
+      ],
+      "Request a feature": [
+        "Vraag een functie aan"
+      ],
+      "Request new code": [
+        "Nieuwe code aanvragen"
+      ],
+      "Reset zoom": [
+        "Reset zoom"
+      ],
+      "Restart all": [
+        "Herstart alle"
+      ],
+      "Restart download": [
+        "Download herstarten"
+      ],
+      "Restart upload": [
+        "Upload herstarten"
+      ],
+      "Restore from trash": [
+        "Herstellen uit prullenbak"
+      ],
+      "Resume all": [
+        "Zet alle verder"
+      ],
+      "Resume download": [
+        "Download hervatten"
+      ],
+      "Resume upload": [
+        "Upload hervatten"
+      ],
+      "Save": [
+        "Opslaan"
+      ],
+      "Search": [
+        "Zoeken"
+      ],
+      "Search drive": [
+        "Drive doorzoeken"
+      ],
+      "Select all": [
+        "Alles selecteren"
+      ],
+      "Set recovery phrase": [
+        "Herstelzin instellen"
+      ],
+      "Share": [
+        "Delen"
+      ],
+      "Share file": [
+        "Deel Bestand"
+      ],
+      "Share item": [
+        "Deel item"
+      ],
+      "Share options": [
+        "Deelopties"
+      ],
+      "Share via link": [
+        "Deel via link"
+      ],
+      "Sharing options": [
+        "Opties voor delen"
+      ],
+      "Show advanced PGP settings": [
+        "Geavanceerde PGP-instellingen tonen"
+      ],
+      "Show folders": [
+        "Mappen weergeven"
+      ],
+      "Show labels": [
+        "Toon labels"
+      ],
+      "Show preview": [
+        "Voorbeeld tonen"
+      ],
+      "Sign out": [
+        "Uitloggen"
+      ],
+      "Signing out": [
+        "Uitloggen"
+      ],
+      "Skip": [
+        "Overslaan"
+      ],
+      "Start import": [
+        ""
+      ],
+      "Start recovering": [
+        "Herstellen starten"
+      ],
+      "Start setup": [
+        "Installatie starten"
+      ],
+      "Stay": [
+        "Blijf"
+      ],
+      "Stop sharing": [
+        "Delen stoppen"
+      ],
+      "Stop transfers": [
+        "Overdrachten stoppen"
+      ],
+      "Submit": [
+        "Versturen"
+      ],
+      "Submit report": [
+        "Rapport indienen"
+      ],
+      "Theme": [
+        "Thema"
+      ],
+      "Trust": [
+        "Vertrouwen"
+      ],
+      "Try another method": [
+        "Andere methode proberen"
+      ],
+      "Undo": [
+        "Ongedaan maken"
+      ],
+      "Unlock data": [
+        "Ontgrendel gegevens"
+      ],
+      "Unmark for deletion": [
+        "Niet markeren voor verwijderen"
+      ],
+      "Untrust": [
+        "Niet meer vertrouwen"
+      ],
+      "Update recovery file": [
+        "Herstelbestand bijwerken"
+      ],
+      "Update recovery phrase": [
+        "Herstelzin bijwerken"
+      ],
+      "Upgrade": [
+        "Upgraden"
+      ],
+      "Upload anyway": [
+        "Toch uploaden"
+      ],
+      "Upload file": [
+        "Bestand uploaden"
+      ],
+      "Upload folder": [
+        "Map uploaden"
+      ],
+      "Upload picture": [
+        "Afbeelding uploaden"
+      ],
+      "Use ${ label } theme": [
+        "Gebruik thema ${ label }"
+      ],
+      "Use for sending": [
+        "Gebruik voor verzenden"
+      ],
+      "Verify": [
+        "Verifiëer"
+      ],
+      "Verify account": [
+        "Verifieer account"
+      ],
+      "Verify email": [
+        "Verifieer e-mailadres"
+      ],
+      "View": [
+        "Bekijken"
+      ],
+      "View invoice": [
+        "Factuur bekijken"
+      ],
+      "Zoom in": [
+        "Inzoomen"
+      ],
+      "Zoom out": [
+        "Zoom uit"
+      ]
+    },
+    "Actions message": {
+      "${ addContact } or ${ importContact }.": [
+        "${ addContact } of ${ importContact }."
+      ],
+      "No results found.": [
+        "Geen resultaten gevonden."
+      ],
+      "Please try another search term.": [
+        "Probeer een andere zoekterm."
+      ],
+      "You don't have any contacts.": [
+        "U heeft geen contactpersonen."
+      ],
+      "You don't have any groups.": [
+        "U heeft geen groepen."
+      ]
+    },
+    "Alert": {
+      "By leaving now, some contacts may not be imported": [
+        "Door nu te verlaten, worden sommige contacten mogelijk niet geïmporteerd"
+      ]
+    },
+    "Apps dropdown": {
+      "Proton applications": [
+        "Proton-applicaties"
+      ]
+    },
+    "Beta access description": {
+      "Beta Access lets you use the beta version of ${ MAIL_APP_NAME }, ${ CALENDAR_APP_NAME }, and ${ DRIVE_APP_NAME } before they are released to the public. This means you can be the first to try new products, get new updates, and use new features.": [
+        "Bèta toegang laat u gebruikmaken van de bètaversie van ${ MAIL_APP_NAME }, ${ CALENDAR_APP_NAME } en ${ DRIVE_APP_NAME } voordat deze uitgebracht zijn voor het publiek. Dit betekent dat u de eerste kunt zijn om nieuwe producten te proberen, nieuwe updates te ontvangen en nieuwe functies te gebruiken."
+      ],
+      "If you encounter issues, you can always disable Beta Access.": [
+        "Als u problemen ondervindt, kunt u Bèta Toegang altijd uitschakelen."
+      ]
+    },
+    "blackfriday Action": {
+      "Get the offer": [
+        ""
+      ]
+    },
+    "blackfriday Info": {
+      "beta": [
+        "bètaversie"
+      ],
+      "Includes": [
+        "Inclusief"
+      ],
+      "Standard price: ${ regularPrice }": [
+        "Standaardprijs: ${ regularPrice }"
+      ],
+      "This subscription will automatically renew after 2 years at the same rate until it is cancelled.": [
+        "Dit abonnement wordt na twee jaar automatisch verlengd tegen dezelfde prijs totdat het wordt geannuleerd."
+      ]
+    },
+    "blackfriday Title": {
+      "Best deal": [
+        ""
+      ],
+      "Most popular": [
+        "Populairste keuze"
+      ],
+      "Save more when combining Mail and VPN": [
+        ""
+      ]
+    },
+    "blackfriday: VPNspecialoffer Action": {
+      "Get the deal": [
+        "Pak deze deal"
+      ],
+      "Get the deal now": [
+        "Pak nu deze deal"
+      ]
+    },
+    "blackfriday: VPNspecialoffer Info": {
+      "Discounts are based on standard monthly pricing of ${ standardMonthlyPricing }": [
+        ""
+      ],
+      "Save ${ percentage }%": [
+        "${ percentage } %"
+      ],
+      "Special offer Terms and Conditions": [
+        ""
+      ]
+    },
+    "blackfriday: VPNspecialoffer info": {
+      "per month": [
+        "per maand"
+      ]
+    },
+    "blackfriday: VPNspecialoffer Promo title, need to be short": {
+      "Special offer": [
+        "Speciale aanbieding"
+      ]
+    },
+    "blackfriday: VPNspecialoffer Title": {
+      "(${ notice }) Renews after 1 month at a standard monthly price of ${ amount }": [
+        ""
+      ],
+      "(${ notice }) Renews after 1 year at a standard discounted annual price of ${ amount } (20% discount)": [
+        ""
+      ],
+      "(${ notice }) Renews after 2 years at a standard discounted 2-year price of ${ amount } (33% discount)": [
+        ""
+      ],
+      "1 month": [
+        "1 maand"
+      ],
+      "12 months": [
+        "12 maanden"
+      ],
+      "24 months": [
+        "24 maanden"
+      ],
+      "Billed at ${ amount } for the first 2 years.${ supNotice }": [
+        ""
+      ],
+      "Billed at ${ amount } for the first month.${ supNotice }": [
+        ""
+      ],
+      "Billed at ${ amount } for the first year.${ supNotice }": [
+        ""
+      ],
+      "Get the special year-end offer on our Premium VPN PLUS plan": [
+        ""
+      ]
+    },
+    "Bug category": {
+      "Application problem": [
+        "Applicatie probleem"
+      ],
+      "Bridge problem": [
+        "Bridge probleem"
+      ],
+      "Calendar problem": [
+        "Probleem met agenda"
+      ],
+      "Connection problem": [
+        "Verbindingsprobleem"
+      ],
+      "Contacts problem": [
+        "Probleem met contacten"
+      ],
+      "Custom domain problem": [
+        "Probleem met eigen domeinnaam"
+      ],
+      "Drive problem": [
+        "Probleem met Drive"
+      ],
+      "Feature request": [
+        "Functie-aanvraag"
+      ],
+      "Import / export problem": [
+        "Importeer / exporteer probleem"
+      ],
+      "Installation problem": [
+        "Installatieprobleem"
+      ],
+      "Mail problem": [
+        "E-mailproblemen"
+      ],
+      "Manual setup problem": [
+        "Handmatige setup probleem"
+      ],
+      "Other": [
+        "Anders"
+      ],
+      "Payments problem": [
+        "Probleem met betalingen"
+      ],
+      "Sign in problem": [
+        "Probleem met inloggen"
+      ],
+      "Sign up problem": [
+        "Probleem met aanmelden voor Proton"
+      ],
+      "Signup problem": [
+        "Probleem met aanmelden voor Proton"
+      ],
+      "Slow speed problem": [
+        "Trage snelheid probleem"
+      ],
+      "Speed problem": [
+        "Snelheidsprobleem"
+      ],
+      "Streaming problem": [
+        "Probleem met mediastreaming"
+      ],
+      "Update problem": [
+        "Updateprobleem"
+      ],
+      "VPN problem": [
+        "VPN probleem"
+      ],
+      "Website access problem": [
+        "Probleem met toegang tot website"
+      ]
+    },
+    "Button": {
+      "Continue using ${ MAIL_APP_NAME }.": [
+        "Blijf ${ MAIL_APP_NAME } gebruiken."
+      ]
+    },
+    "Calendar status": {
+      "Not synced": [
+        "Niet gesynchroniseerd"
+      ],
+      "Syncing": [
+        "Synchroniseren"
+      ]
+    },
+    "Calendar subscription not synced error": {
+      "Calendar could not be decrypted": [
+        "Agenda kon niet ontsleuteld worden"
+      ],
+      "Calendar is syncing": [
+        "De agenda wordt gesynchroniseerd"
+      ],
+      "Calendar is too big": [
+        "De agenda is te groot"
+      ],
+      "Calendar link is not accessible": [
+        "Agendalink is niet toegankelijk"
+      ],
+      "Calendar link is temporarily inaccessible": [
+        "Agendalink is tijdelijk ontoegankelijk"
+      ],
+      "Failed to sync calendar": [
+        "Synchronisatie van de agenda is mislukt"
+      ],
+      "More than 12 hours passed since last update": [
+        "Er is meer dan 12 uur verstreken sinds de laatste update"
+      ],
+      "Unsupported calendar format": [
+        "Niet-ondersteunde agenda-indeling"
+      ]
+    },
+    "Collapsible tooltip": {
+      "Close": [
+        "Sluiten"
+      ],
+      "Open": [
+        "Openen"
+      ]
+    },
+    "Confirm modal title": {
+      "Quit import customization?": [
+        "Persoonlijke instellingen m.b.t. importeren sluiten?"
+      ]
+    },
+    "Contact field label": {
+      "Address": [
+        "Adres"
+      ],
+      "Anniversary": [
+        "Jubileum"
+      ],
+      "Birthday": [
+        "Verjaardag"
+      ],
+      "Email": [
+        "E-mail"
+      ],
+      "Gender": [
+        "Geslacht"
+      ],
+      "Geo": [
+        "Geo"
+      ],
+      "Language": [
+        "Taal"
+      ],
+      "Logo": [
+        "Logo"
+      ],
+      "Member": [
+        "Lid"
+      ],
+      "Name": [
+        "Naam"
+      ],
+      "Note": [
+        "Notitie"
+      ],
+      "Organization": [
+        "Organisatie"
+      ],
+      "Phone": [
+        "Telefoon"
+      ],
+      "Photo": [
+        "Foto"
+      ],
+      "Role": [
+        "Rol"
+      ],
+      "Timezone": [
+        "Tijdzone"
+      ],
+      "Title": [
+        "Titel"
+      ],
+      "URL": [
+        "Website"
+      ]
+    },
+    "Contact type label": {
+      "Fax": [
+        "Fax"
+      ],
+      "Main": [
+        "Algemeen"
+      ],
+      "Mobile": [
+        "Mobiel"
+      ],
+      "Other": [
+        "Anders"
+      ],
+      "Pager": [
+        "Pager"
+      ],
+      "Personal": [
+        "Privé"
+      ],
+      "Work": [
+        "Werk"
+      ],
+      "Yomi": [
+        "Yomi"
+      ]
+    },
+    "Country name": {
+      "Abkhazia": [
+        "Abchazië"
+      ],
+      "Afghanistan": [
+        "Afghanistan"
+      ],
+      "Albania": [
+        "Albanië"
+      ],
+      "Algeria": [
+        "Algerije"
+      ],
+      "American Samoa": [
+        "Amerikaans Samoa"
+      ],
+      "Andorra": [
+        "Andorra"
+      ],
+      "Angola": [
+        "Angola"
+      ],
+      "Anguilla": [
+        "Anguilla"
+      ],
+      "Antarctica": [
+        "Antarctica"
+      ],
+      "Antigua and Barbuda": [
+        "Antigua en Barbuda"
+      ],
+      "Argentina": [
+        "Argentinië"
+      ],
+      "Armenia": [
+        "Armenië"
+      ],
+      "Aruba": [
+        "Aruba"
+      ],
+      "Ascension Island": [
+        "Ascension"
+      ],
+      "Australia": [
+        "Australië"
+      ],
+      "Austria": [
+        "Oostenrijk"
+      ],
+      "Azerbaijan": [
+        "Azerbeidzjan"
+      ],
+      "Bahamas": [
+        "Bahama's"
+      ],
+      "Bahrain": [
+        "Bahrain"
+      ],
+      "Bangladesh": [
+        "Bangladesh"
+      ],
+      "Barbados": [
+        "Barbados"
+      ],
+      "Belarus": [
+        "Wit-Rusland"
+      ],
+      "Belgium": [
+        "België"
+      ],
+      "Belize": [
+        "Belize"
+      ],
+      "Benin": [
+        "Benin"
+      ],
+      "Bermuda": [
+        "Bermuda"
+      ],
+      "Bhutan": [
+        "Bhutan"
+      ],
+      "Bolivia": [
+        "Bolivia"
+      ],
+      "Bonaire, Sint Eustatius and Saba": [
+        "Bonaire, Sint Eustatius en Saba"
+      ],
+      "Bosnia and Herzegovina": [
+        "Bosnië en Herzegovina"
+      ],
+      "Botswana": [
+        "Botswana"
+      ],
+      "Bouvet Island": [
+        "Bouvet Eiland"
+      ],
+      "Brazil": [
+        "Brazilië"
+      ],
+      "British Indian Ocean Territory": [
+        "Brits Indische Oceaan Territorium"
+      ],
+      "Brunei Darussalam": [
+        "Brunei Darussalam"
+      ],
+      "Bulgaria": [
+        "Bulgarije"
+      ],
+      "Burkina Faso": [
+        "Burkina Faso"
+      ],
+      "Burma": [
+        "Myanmar"
+      ],
+      "Burundi": [
+        "Boeroendi"
+      ],
+      "Cambodia": [
+        "Cambodja"
+      ],
+      "Cameroon": [
+        "Kameroen"
+      ],
+      "Canada": [
+        "Canada"
+      ],
+      "Cape Verde": [
+        "Kaapverdië"
+      ],
+      "Cayman Islands": [
+        "Kaaiman Eilanden"
+      ],
+      "Central African Republic": [
+        "Centraal Afrikaanse Republiek"
+      ],
+      "Chad": [
+        "Tsjaad"
+      ],
+      "Chile": [
+        "Chili"
+      ],
+      "China": [
+        "China"
+      ],
+      "Christmas Island": [
+        "Kersteiland"
+      ],
+      "Cocos (Keeling) Islands": [
+        "Cocoseilanden"
+      ],
+      "Colombia": [
+        "Colombia"
+      ],
+      "Comoros": [
+        "Comoren"
+      ],
+      "Congo": [
+        "Congo"
+      ],
+      "Congo, Democratic Republic of the": [
+        "Congo, Democratische Republiek"
+      ],
+      "Cook Islands": [
+        "Cook Eilanden"
+      ],
+      "Costa Rica": [
+        "Costa Rica"
+      ],
+      "Cote d'Ivoire\"": [
+        "Ivoorkust"
+      ],
+      "Croatia": [
+        "Kroatië"
+      ],
+      "Cuba": [
+        "Cuba"
+      ],
+      "Curaçao": [
+        "Curaçao"
+      ],
+      "Cyprus": [
+        "Cyprus"
+      ],
+      "Czech Republic": [
+        "Tsjechië"
+      ],
+      "Denmark": [
+        "Denemarken"
+      ],
+      "Djibouti": [
+        "Djibouti"
+      ],
+      "Dominica": [
+        "Dominica"
+      ],
+      "Dominican Republic": [
+        "Dominicaanse Republiek"
+      ],
+      "Ecuador": [
+        "Ecuador"
+      ],
+      "Egypt": [
+        "Egypte"
+      ],
+      "El Salvador": [
+        "El Salvador"
+      ],
+      "Equatorial Guinea": [
+        "Equatoriaal Guinea"
+      ],
+      "Eritrea": [
+        "Eritrea"
+      ],
+      "Estonia": [
+        "Estland"
+      ],
+      "Ethiopia": [
+        "Ethiopië"
+      ],
+      "Falkland Islands": [
+        "Falklandeilanden"
+      ],
+      "Faroe Islands": [
+        "Faeröer Eilanden"
+      ],
+      "Federated States of Micronesia": [
+        "Federale Staten van Micronesië"
+      ],
+      "Fiji": [
+        "Fiji"
+      ],
+      "Finland": [
+        "Finland"
+      ],
+      "France": [
+        "Frankrijk"
+      ],
+      "French Guiana": [
+        "Franse Guinee"
+      ],
+      "French Polynesia": [
+        "Frans-Polynesië"
+      ],
+      "French Southern Territories": [
+        "Franse Zuidelijke en Antarctische Gebieden"
+      ],
+      "Gabon": [
+        "Gabon"
+      ],
+      "Gambia": [
+        "Gambia"
+      ],
+      "Georgia": [
+        "Georgië"
+      ],
+      "Germany": [
+        "Duitsland"
+      ],
+      "Ghana": [
+        "Ghana"
+      ],
+      "Gibraltar": [
+        "Gibraltar"
+      ],
+      "Greece": [
+        "Griekenland"
+      ],
+      "Greenland": [
+        "Groenland"
+      ],
+      "Grenada": [
+        "Grenada"
+      ],
+      "Guadeloupe": [
+        "Guadeloupe"
+      ],
+      "Guam": [
+        "Guam"
+      ],
+      "Guatemala": [
+        "Guatemala"
+      ],
+      "Guernsey": [
+        "Guernsey"
+      ],
+      "Guinea": [
+        "Guinee"
+      ],
+      "Guinea-Bissau": [
+        "Guinee-Bissau"
+      ],
+      "Guyana": [
+        "Guyana"
+      ],
+      "Haiti": [
+        "Haïti"
+      ],
+      "Heard Island and McDonald Islands": [
+        "Heard- en MacDonaldeilanden"
+      ],
+      "Holy See (Vatican City State)": [
+        "Heilige Stoel (Vaticaanstad)"
+      ],
+      "Honduras": [
+        "Honduras"
+      ],
+      "Hong Kong": [
+        "Hong Kong"
+      ],
+      "Hungary": [
+        "Hongarije"
+      ],
+      "Iceland": [
+        "IJsland"
+      ],
+      "India": [
+        "India"
+      ],
+      "Indonesia": [
+        "Indonesië"
+      ],
+      "International": [
+        "Internationaal"
+      ],
+      "Iran": [
+        "Iran"
+      ],
+      "Iraq": [
+        "Irak"
+      ],
+      "Ireland": [
+        "Ierland"
+      ],
+      "Isle of Man": [
+        "Isle of Man"
+      ],
+      "Israel": [
+        "Israël"
+      ],
+      "Italy": [
+        "Italië"
+      ],
+      "Jamaica": [
+        "Jamaica"
+      ],
+      "Japan": [
+        "Japan"
+      ],
+      "Jersey": [
+        "Jersey"
+      ],
+      "Jordan": [
+        "Jordanië"
+      ],
+      "Kazakhstan": [
+        "Kazachstan"
+      ],
+      "Kenya": [
+        "Kenia"
+      ],
+      "Kiribati": [
+        "Kiribati"
+      ],
+      "Kosovo": [
+        "Kosovo"
+      ],
+      "Kuwait": [
+        "Koeweit"
+      ],
+      "Kyrgyzstan": [
+        "Kirgizië"
+      ],
+      "Laos": [
+        "Laos"
+      ],
+      "Latvia": [
+        "Letland"
+      ],
+      "Lebanon": [
+        "Libanon"
+      ],
+      "Lesotho": [
+        "Lesotho"
+      ],
+      "Liberia": [
+        "Liberia"
+      ],
+      "Libya": [
+        "Libië"
+      ],
+      "Liechtenstein": [
+        "Liechtenstein"
+      ],
+      "Lithuania": [
+        "Litouwen"
+      ],
+      "Luxembourg": [
+        "Luxemburg"
+      ],
+      "Macao": [
+        "Macau"
+      ],
+      "Madagascar": [
+        "Madagaskar"
+      ],
+      "Malawi": [
+        "Malawi"
+      ],
+      "Malaysia": [
+        "Maleisië"
+      ],
+      "Maldives": [
+        "Malediven"
+      ],
+      "Mali": [
+        "Mali"
+      ],
+      "Malta": [
+        "Malta"
+      ],
+      "Marshall Islands": [
+        "Marshall Eilanden"
+      ],
+      "Martinique": [
+        "Martinique"
+      ],
+      "Mauritania": [
+        "Mauritanië"
+      ],
+      "Mauritius": [
+        "Mauritius"
+      ],
+      "Mayotte": [
+        "Mayotte"
+      ],
+      "Mexico": [
+        "Mexico"
+      ],
+      "Moldova": [
+        "Moldavië"
+      ],
+      "Monaco": [
+        "Monaco"
+      ],
+      "Mongolia": [
+        "Mongolië"
+      ],
+      "Montenegro": [
+        "Montenegro"
+      ],
+      "Montserrat": [
+        "Montserrat"
+      ],
+      "Morocco": [
+        "Marokko"
+      ],
+      "Mozambique": [
+        "Mozambique"
+      ],
+      "Namibia": [
+        "Namibië"
+      ],
+      "Nauru": [
+        "Nauru"
+      ],
+      "Nepal": [
+        "Nepal"
+      ],
+      "Netherlands": [
+        "Nederland"
+      ],
+      "New Caledonia": [
+        "Nieuw-Caledonië"
+      ],
+      "New Zealand": [
+        "Nieuw-Zeeland"
+      ],
+      "Nicaragua": [
+        "Nicaragua"
+      ],
+      "Niger": [
+        "Niger"
+      ],
+      "Nigeria": [
+        "Nigeria"
+      ],
+      "Niue": [
+        "Niue"
+      ],
+      "Norfolk Island": [
+        "Norfolk eiland"
+      ],
+      "North Korea": [
+        "Noord-Korea"
+      ],
+      "North Macedonia": [
+        "Noord-Macedonië"
+      ],
+      "Northern Mariana Islands": [
+        "Noordelijke Marianen"
+      ],
+      "Norway": [
+        "Noorwegen"
+      ],
+      "Oman": [
+        "Oman"
+      ],
+      "Pakistan": [
+        "Pakistan"
+      ],
+      "Palau": [
+        "Palau"
+      ],
+      "Palestine": [
+        "Palestina"
+      ],
+      "Panama": [
+        "Panama"
+      ],
+      "Papua New Guinea": [
+        "Papoea-Nieuw-Guinea"
+      ],
+      "Paraguay": [
+        "Paraguay"
+      ],
+      "Peru": [
+        "Peru"
+      ],
+      "Philippines": [
+        "Filipijnen"
+      ],
+      "Pitcairn": [
+        "Pitcairneilanden"
+      ],
+      "Poland": [
+        "Polen"
+      ],
+      "Portugal": [
+        "Portugal"
+      ],
+      "Puerto Rico": [
+        "Puerto Rico"
+      ],
+      "Qatar": [
+        "Qatar"
+      ],
+      "Reunion": [
+        "Réunion"
+      ],
+      "Romania": [
+        "Roemenië"
+      ],
+      "Russia": [
+        "Rusland"
+      ],
+      "Rwanda": [
+        "Rwanda"
+      ],
+      "Saint Barthélemy": [
+        "Sint-Bartholomeus"
+      ],
+      "Saint Helena": [
+        "Sint-Helena"
+      ],
+      "Saint Kitts and Nevis": [
+        "Saint Kitts en Nevis"
+      ],
+      "Saint Lucia": [
+        "Saint Lucia"
+      ],
+      "Saint Martin (French Part)": [
+        "Sint Maarten (Frans deel)"
+      ],
+      "Saint Pierre and Miquelon": [
+        "Saint-Pierre en Miquelon"
+      ],
+      "Saint Vincent and the Grenadines": [
+        "Saint Vincent en de Grenadines"
+      ],
+      "Samoa": [
+        "Samoa"
+      ],
+      "San Marino": [
+        "San Marino"
+      ],
+      "Sao Tome and Principe": [
+        "Sao Tomé en Principe"
+      ],
+      "Saudi Arabia": [
+        "Saudi-Arabië"
+      ],
+      "Senegal": [
+        "Senegal"
+      ],
+      "Serbia": [
+        "Servië"
+      ],
+      "Seychelles": [
+        "Seychellen"
+      ],
+      "Sierra Leone": [
+        "Sierra Leone"
+      ],
+      "Singapore": [
+        "Singapore"
+      ],
+      "Sint Maarten": [
+        "Sint Maarten"
+      ],
+      "Slovakia": [
+        "Slowakije"
+      ],
+      "Slovenia": [
+        "Slovenië"
+      ],
+      "Solomon Islands": [
+        "Salomonseilanden"
+      ],
+      "Somalia": [
+        "Somalië"
+      ],
+      "South Africa": [
+        "Zuid-Afrika"
+      ],
+      "South Georgia and the South Sandwich Islands": [
+        "Zuid-Georgië en de Zuidelijke Sandwicheilanden"
+      ],
+      "South Korea": [
+        "Zuid-Korea"
+      ],
+      "South Ossetia": [
+        "Zuid-Ossetië"
+      ],
+      "South Sudan": [
+        "Zuid-Soedan"
+      ],
+      "Spain": [
+        "Spanje"
+      ],
+      "Sri Lanka": [
+        "Sri Lanka"
+      ],
+      "Sudan": [
+        "Soedan"
+      ],
+      "Suriname": [
+        "Suriname"
+      ],
+      "Svalbard and Jan Mayen": [
+        "Spitsbergen en Jan Mayen"
+      ],
+      "Swaziland": [
+        "Swaziland"
+      ],
+      "Sweden": [
+        "Zweden"
+      ],
+      "Switzerland": [
+        "Zwitserland"
+      ],
+      "Syria": [
+        "Syrië"
+      ],
+      "Taiwan": [
+        "Taiwan"
+      ],
+      "Tajikistan": [
+        "Tadjikistan"
+      ],
+      "Tanzania": [
+        "Tanzania"
+      ],
+      "Thailand": [
+        "Thailand"
+      ],
+      "Timor-Leste": [
+        "Oost-Timor"
+      ],
+      "Togo": [
+        "Togo"
+      ],
+      "Tokelau": [
+        "Tokelau"
+      ],
+      "Tonga": [
+        "Tonga"
+      ],
+      "Trinidad and Tobago": [
+        "Trinidad en Tobago"
+      ],
+      "Tristan da Cunha": [
+        "Tristan da Cunha"
+      ],
+      "Tunisia": [
+        "Tunesië"
+      ],
+      "Turkey": [
+        "Turkije"
+      ],
+      "Turkmenistan": [
+        "Turkmenistan"
+      ],
+      "Turks and Caicos Islands": [
+        "De Turks- en Caicoseilanden"
+      ],
+      "Tuvalu": [
+        "Tuvalu"
+      ],
+      "Uganda": [
+        "Oeganda"
+      ],
+      "Ukraine": [
+        "Oekraïne"
+      ],
+      "United Arab Emirates": [
+        "Verenigde Arabische Emiraten"
+      ],
+      "United Kingdom": [
+        "Verenigd Koninkrijk"
+      ],
+      "United States": [
+        "Verenigde Staten"
+      ],
+      "United States Minor Outlying Islands": [
+        "Amerikaanse ondergeschikte afgelegen eilanden"
+      ],
+      "Uruguay": [
+        "Uruguay"
+      ],
+      "Uzbekistan": [
+        "Oezbekistan"
+      ],
+      "Vanuatu": [
+        "Vanuatu"
+      ],
+      "Venezuela": [
+        "Venezuela"
+      ],
+      "Vietnam": [
+        "Vietnam"
+      ],
+      "Virgin Islands, British": [
+        "Maagdeneilanden, Verenigd Koninkrijk"
+      ],
+      "Virgin Islands, U.S.": [
+        "Maagdeneilanden, Verenigde Staten."
+      ],
+      "Wallis and Futuna": [
+        "Wallis en Futuna"
+      ],
+      "Western Sahara": [
+        "Westelijke Sahara"
+      ],
+      "Yemen": [
+        "Jemen"
+      ],
+      "Zambia": [
+        "Zambia"
+      ],
+      "Zimbabwe": [
+        "Zimbabwe"
+      ],
+      "Åland Islands": [
+        "Aland Eilanden"
+      ]
+    },
+    "Default display name vcard": {
+      "Unknown": [
+        "Onbekend"
+      ]
+    },
+    "Default encryption scheme": {
+      "Use global default (${ defaultValueText })": [
+        "Gebruik globale standaardwaarde (${ defaultValueText })"
+      ]
+    },
+    "Delinquent modal title": {
+      "Overdue invoice": [
+        "Onbetaalde factuur"
+      ]
+    },
+    "Description": {
+      "Decrypting contacts... This may take a few minutes. When the process is completed, you will be able to download the file with all your contacts exported.": [
+        "Contacten decoderen... Dit kan enkele minuten duren. Wanneer het proces is voltooid, kunt u het bestand downloaden met al uw contacten geëxporteerd."
+      ],
+      "Deleting contacts... This may take a few minutes. When the process is completed, you can close this modal.": [
+        "Contactpersonen verwijderen... Dit kan enkele minuten duren. Wanneer het proces is voltooid, kunt u dit venster sluiten."
+      ],
+      "Encrypting and importing contacts... This may take a few minutes. When the process is completed, you can close this modal.": [
+        "Versleutelen en importeren van contacten... Dit kan enkele minuten duren. Wanneer het proces is voltooid, kunt u dit venster sluiten."
+      ],
+      "It looks like the contact list you are importing contains some groups. Please review how these groups should be imported.": [
+        "Het lijkt erop dat de contactenlijst die u importeert enkele groepen bevat. Bekijk hoe deze groepen moeten worden geïmporteerd."
+      ],
+      "Merging contacts... This may take a few minutes. When the process is completed, you can close this modal.": [
+        "Contacten samenvoegen... Dit kan enkele minuten duren. Wanneer het proces is voltooid, kunt u dit venster sluiten."
+      ],
+      "The file should have a maximum size of ${ MAX_IMPORT_FILE_SIZE_STRING } and have up to ${ MAX_IMPORT_CONTACTS_STRING } contact. If your file is bigger, please split it into smaller files.": [
+        "Het bestand moet een maximale grootte hebben van ${ MAX_IMPORT_FILE_SIZE_STRING } en\ntot ${ MAX_IMPORT_CONTACTS_STRING } contact hebben. Als uw bestand groter is, splitst u het dan in kleinere bestanden.",
+        "Het bestand moet een maximale grootte hebben van ${ MAX_IMPORT_FILE_SIZE_STRING } en\ntot ${ MAX_IMPORT_CONTACTS_STRING } contacten hebben. Als uw bestand groter is, splitst u het dan in kleinere bestanden."
+      ],
+      "Use Drag and Drop to rank merging priority between contacts. Uncheck the contacts you do not want to merge.": [
+        "Gebruik Sleep en Drop om prioriteit te ranken tussen samenvoegende contacten. Vink de contacten die u niet wilt samenvoegen."
+      ],
+      "You can mark for deletion the contacts that you do not want neither to merge nor to keep. Deletion will only take place after the merge button is clicked": [
+        "U kunt contactpersonen markeren die u niet wilt samenvoegen of behouden. Contactpersonen worden pas verwijderd na het klikken op 'samenvoegen'"
+      ]
+    },
+    "Description of the purpose of the import CSV modal": {
+      "Also, we have automatically matched CSV fields with vCard fields. You can review and change this matching manually.": [
+        "Ook hebben we automatisch de CSV velden geëvenaard met vCard velden. U kunt deze overeenkomende overeenkomstigheid handmatig bekijken en wijzigen."
+      ],
+      "We have detected the following fields in the CSV file you uploaded. Check the ones you want to import.": [
+        "We hebben de volgende velden gedetecteerd in het CSV-bestand dat u heeft geüpload. Controleer de velden die u wilt importeren."
+      ]
+    },
+    "Early Access Disabled": {
+      "Off": [
+        "Uit"
+      ]
+    },
+    "Early Access Enabled": {
+      "On": [
+        "Aan"
+      ]
+    },
+    "Error": {
+      "A group with this name already exists": [
+        "Er bestaat al een groep met deze naam"
+      ],
+      "A problem occurred, please try again": [
+        "Er is een probleem opgetreden, probeer het opnieuw"
+      ],
+      "Authentication canceled.": [
+        "Authenticatie geannuleerd."
+      ],
+      "Authentication error.": [
+        "Verificatiefout."
+      ],
+      "Calendar limit reached": [
+        "Agendalimiet bereikt"
+      ],
+      "Can't create new calendars for all imported calendars due to the personal calendar limit.": [
+        "Kan geen nieuwe agenda's maken voor alle geïmporteerde agenda's vanwege de limiet voor persoonlijke agenda's."
+      ],
+      "Contact could not be saved": [
+        "Contact kon niet worden opgeslagen"
+      ],
+      "Contact signature not verified": [
+        "Handtekening van contact niet geverifieerd"
+      ],
+      "Content search cannot be enabled in this browser. Please quit private browsing mode or use another browser.": [
+        "Zoeken op inhoud kan niet worden ingeschakeld in deze browser. Gelieve de private browsing modus te verlaten of een andere browser te gebruiken."
+      ],
+      "Deselect at least ${ calendarToFixCount } calendar": [
+        "Deselecteer tenminste één agenda",
+        "Deselecteer tenminste ${ calendarToFixCount } agenda's"
+      ],
+      "Deselect at least ${ calendarToFixCount } calendar or": [
+        "Ten minste ${ calendarToFixCount } agenda deselecteren of",
+        "Ten minste ${ calendarToFixCount } agenda's deselecteren of"
+      ],
+      "Email address invalid": [
+        "E-mailadres ongeldig"
+      ],
+      "Email is not valid": [
+        "E-mailadres is ongeldig"
+      ],
+      "Enter 6 digits": [
+        "Voer 6 cijfers in"
+      ],
+      "File \"${ item.name }\" cannot be uploaded due to \"${ error }\" error": [
+        "Bestand \"${ item.name }\" kan niet worden geüpload vanwege \"${ error }\" fout"
+      ],
+      "File \"${ name }\" is already downloading": [
+        "Bestand \"${ name }\" wordt reeds gedownload"
+      ],
+      "File cannot be merged with folder": [
+        "Bestand kan niet worden samengevoegd met map"
+      ],
+      "File selection is already downloading": [
+        "Geselecteerde bestanden worden reeds gedownload"
+      ],
+      "Folder \"${ name }\" is already downloading": [
+        "Map \"${ name }\" wordt reeds gedownload"
+      ],
+      "Folder name cannot be empty.": [
+        "Mapnaam mag niet leeg zijn."
+      ],
+      "Image upload failed": [
+        "Uploaden van afbeelding is mislukt"
+      ],
+      "Incorrect login credentials. Please try again.": [
+        "Onjuiste inloggegevens. Gelieve opnieuw te proberen."
+      ],
+      "Incorrect mailbox password. Please try again.": [
+        "Onjuist mailbox-wachtwoord. Probeer het opnieuw."
+      ],
+      "Incorrect password. Please try again.": [
+        "Onjuist wachtwoord. Probeer het opnieuw."
+      ],
+      "Invalid name": [
+        "Ongeldige naam"
+      ],
+      "Invalid public key file": [
+        "Ongeldig publieke-sleutelbestand"
+      ],
+      "Invalid verification code": [
+        "Ongeldige verificatiecode"
+      ],
+      "Label name cannot be empty.": [
+        "Labelnaam mag niet leeg zijn."
+      ],
+      "Merge at least ${ calendarToFixCount } calendar with an existing Proton calendar": [
+        "Minstens ${ calendarToFixCount } agenda samenvoegen met een bestaande Proton-agenda",
+        "Minstens ${ calendarToFixCount } agenda's samenvoegen met bestaande Proton-agenda's"
+      ],
+      "Missing key packet": [
+        "Ontbrekend sleutelpakket"
+      ],
+      "Missing signature": [
+        "Handtekening ontbreekt"
+      ],
+      "No data to import": [
+        "Geen gegevens om te importeren"
+      ],
+      "No valid address found": [
+        "Geen geldig adres gevonden"
+      ],
+      "Not a valid number": [
+        "Geen geldig getal"
+      ],
+      "One of the contacts has no email address: ${ noEmailsContactNamesList }": [
+        "Eén van de contacten heeft geen e-mailadres: ${ noEmailsContactNamesList }",
+        "Sommige contactpersonen hebben geen e-mailadres: ${ noEmailsContactNamesList } "
+      ],
+      "One of the groups has no contacts: ${ noContactGroupList }": [
+        "Eén van de groepen heeft geen contacten: ${ noContactGroupList }",
+        "Sommige groepen hebben geen contacten: ${ noContactGroupList } "
+      ],
+      "Passwords do not match": [
+        "Wachtwoorden komen niet overeen"
+      ],
+      "Please activate your content search again": [
+        "Activeer het zoeken naar inhoud opnieuw"
+      ],
+      "Please fix the highlighted conflict to proceed.": [
+        "Los het gemarkeerde conflict op om verder te gaan.",
+        "Los de gemarkeerde conflicten op om verder te gaan."
+      ],
+      "Preferences could not be saved": [
+        "Voorkeuren konden niet worden opgeslagen"
+      ],
+      "Primary address key is not decrypted": [
+        "Primaire adressleutel is niet ontsleuteld"
+      ],
+      "Primary address key is not decrypted.": [
+        "Primaire adressleutel is niet gedecodeerd."
+      ],
+      "Report failed to be sent": [
+        "Rapport kon niet verzonden worden"
+      ],
+      "Request timed out": [
+        "Reactietijd verzoek overschreden"
+      ],
+      "Search failed": [
+        "Zoeken mislukt"
+      ],
+      "Signature not verified": [
+        "Handtekening niet geverifieerd"
+      ],
+      "Signature verification failed": [
+        "Controle van handtekening mislukt"
+      ],
+      "Some contacts could not be deleted": [
+        "Sommige contacten konden niet gewist worden"
+      ],
+      "Some groups could not be deleted": [
+        "Sommige groepen konden niet worden verwijderd"
+      ],
+      "Some of your label names are unavailable. Please customize the import to edit these names.": [
+        "Sommige labelnamen zijn niet beschikbaar. Pas de import aan om deze namen te bewerken."
+      ],
+      "Some of your label names exceed ${ MAIL_APP_NAME }'s maximum character limit. Please customize the import to edit these names.": [
+        "Sommige van uw labelnamen overschrijden de maximum tekenlimiet van ${ MAIL_APP_NAME }. Pas de import aan om deze namen te bewerken."
+      ],
+      "Something went wrong, please ${ refresh } in order to proceed. If you still see this error message please contact our ${ supportTeam }.": [
+        "Er ging iets mis, gelieve ${ refresh } om door te gaan. Als je dit foutbericht nog steeds ziet, neem dan contact op met onze ${ supportTeam }."
+      ],
+      "The folder name is invalid. Please choose a different name.": [
+        "De mapnaam is ongeldig. Kies een andere naam."
+      ],
+      "The folder name is too long. Please choose a different name.": [
+        "De mapnaam is te lang. Kies een andere naam."
+      ],
+      "The label name is invalid. Please choose a different name.": [
+        "De naam van het label is ongeldig. Kies een andere naam."
+      ],
+      "The label name is too long. Please choose a different name.": [
+        "De naam van het label is te lang. Kies een andere naam."
+      ],
+      "The new revision of original file is not uploaded yet, please try again later": [
+        "De nieuwe revisie van het originele bestand is nog niet geüpload, probeer het later nog eens"
+      ],
+      "The original file has missing active revision": [
+        "Het originele bestand heeft geen actieve revisie"
+      ],
+      "The original file has missing hash key": [
+        "Het originele bestand heeft geen hash sleutel"
+      ],
+      "The original file has missing session key": [
+        "In het originele bestand ontbreekt de sessiesleutel"
+      ],
+      "The original file is not uploaded yet, please try again later": [
+        "Het originele bestand is nog niet geüpload, probeer het later nog eens"
+      ],
+      "The original folder not found": [
+        "De originele map niet gevonden"
+      ],
+      "The original folder or file not found": [
+        "De originele map of bestand niet gevonden"
+      ],
+      "There are too many folders in your external account. Please customize the import to delete some folders.": [
+        "Er zijn te veel mappen op uw externe account. Pas de import aan om enkele mappen te verwijderen."
+      ],
+      "There was an error when exporting the contacts vCards": [
+        "Er is een fout opgetreden bij het exporteren van de contacten vCards"
+      ],
+      "This field is required": [
+        "Dit veld is verplicht"
+      ],
+      "This field requires a minimum of ${ minimumLength } characters.": [
+        "Dit veld vereist een minimum van ${ minimumLength } tekens."
+      ],
+      "This folder name is not available. Please choose a different name.": [
+        "Deze mapnaam is niet beschikbaar. Kies een andere naam."
+      ],
+      "This label name is not available. Please choose a different name.": [
+        "Deze labelnaam is niet beschikbaar. Kies een andere naam."
+      ],
+      "This message may contain some link's URL that cannot be properly opened by your current browser": [
+        "Dit bericht kan links bevatten die niet op de juiste wijze geopend worden door uw huidige browser"
+      ],
+      "Unknown error": [
+        "Onbekende fout"
+      ],
+      "You can't send a mail to more than 100 recipients": [
+        "U kunt geen e-mail verzenden naar meer dan 100 ontvangers"
+      ],
+      "You can't send vCards of more than 10 contacts": [
+        "U kunt geen vCards van meer dan 10 contacten verzenden"
+      ],
+      "You must set a name": [
+        "U moet een naam instellen"
+      ],
+      "Your browser does not support uploading folders": [
+        "Uw browser heeft geen ondersteuning voor het uploaden van mappen"
+      ],
+      "Your import will not be processed.": [
+        "Uw import zal niet worden verwerkt."
+      ]
+    },
+    "Error importing calendar": {
+      "An unexpected error occurred. Import must be restarted.": [
+        "Er is een onverwachte fout opgetreden. Importeren moet opnieuw gestart worden."
+      ]
+    },
+    "Error importing contact": {
+      "Encryption failed": [
+        "Versleutelen is mislukt"
+      ],
+      "vCard versions < 3.0 not supported": [
+        "vCard-versies < 3.0 niet ondersteund"
+      ]
+    },
+    "Error importing contacts": {
+      "An error occurred reading your file ${ formattedFilename }. File doesn't have the right format.": [
+        "Er is een fout opgetreden tijdens het lezen van uw bestand ${ formattedFilename }. Bestand heeft niet de juiste indeling."
+      ],
+      "An error occurred uploading your file ${ formattedFilename }. Maximum file size is ${ MAX_IMPORT_FILE_SIZE_STRING }.": [
+        "Er is een fout opgetreden bij het uploaden van uw bestand ${ formattedFilename }. Maximale bestandsgrootte is ${ MAX_IMPORT_FILE_SIZE_STRING }."
+      ],
+      "An error occurred uploading your file ${ formattedFilename }. No .csv or .vcf file selected": [
+        "Er is een fout opgetreden tijdens het uploaden van uw bestand ${ formattedFilename }. Geen .csv of .vcf bestand geselecteerd"
+      ],
+      "An error occurred uploading your file. No file has been selected.": [
+        "Fout opgetreden tijdens het uploaden van uw bestand. Er is geen bestand geselecteerd."
+      ],
+      "Your file ${ formattedFilename } contains more than ${ MAX_IMPORT_CONTACTS_STRING } contacts.": [
+        "Uw bestand ${ formattedFilename } bevat meer dan ${ MAX_IMPORT_CONTACTS_STRING } contacten."
+      ],
+      "Your file ${ formattedFilename } has no contacts to be imported.": [
+        "Uw bestand ${ formattedFilename } heeft geen contactpersonen om te importeren."
+      ],
+      "Your file ${ formattedFilename } is empty.": [
+        "Uw bestand ${ formattedFilename } is leeg."
+      ]
+    },
+    "Error message": {
+      "Access denied": [
+        "Toegang geweigerd"
+      ],
+      "Brace yourself till we get the error fixed.": [
+        "Wacht rustig af terwijl wij de fout herstellen."
+      ],
+      "Error: ${ errorMessage }": [
+        "Fout: ${ errorMessage }"
+      ],
+      "Internal server error": [
+        "Interne serverfout"
+      ],
+      "Not found": [
+        "Niet gevonden"
+      ],
+      "Oops, something went wrong": [
+        "Oeps, er is iets misgegaan"
+      ],
+      "Please ${ refresh } or check your connection.": [
+        "${ refresh } alstublieft of controleer uw verbinding."
+      ],
+      "There was a problem connecting to Proton.": [
+        "Fout tijdens het verbinden met Proton."
+      ],
+      "You may also ${ refresh } or try again later.": [
+        "U kunt ook ${ refresh } of probeer het later opnieuw."
+      ],
+      "You may also refresh the page or try again later.": [
+        "Vernieuw de pagina of probeer het later opnieuw."
+      ]
+    },
+    "Error notification": {
+      "First name and last name cannot be unchecked at the same time": [
+        "Voornaam en achternaam kunnen niet tegelijkertijd worden uitgeschakeld"
+      ]
+    },
+    "Error notification in the bug report modal when the user upload file": {
+      "No image selected": [
+        "Geen afbeelding geselecteerd"
+      ]
+    },
+    "file size format": {
+      "bytes": [
+        "bytes"
+      ],
+      "GB": [
+        "GB"
+      ],
+      "KB": [
+        "KB"
+      ],
+      "MB": [
+        "MB"
+      ]
+    },
+    "file size format, long": {
+      "Bytes": [
+        "Bytes"
+      ],
+      "Gigabytes": [
+        "Gigabytes"
+      ],
+      "Kilobytes": [
+        "Kilobytes"
+      ],
+      "Megabytes": [
+        "Megabytes"
+      ]
+    },
+    "Filter notification": {
+      "${ Label.Name } updated": [
+        "${ Label.Name } bijgewerkt"
+      ]
+    },
+    "Group": {
+      "Account": [
+        "Account"
+      ],
+      "Apps": [
+        "Apps"
+      ],
+      "Network": [
+        "Netwerk"
+      ],
+      "Other category": [
+        "Categorie"
+      ],
+      "Services": [
+        "Diensten"
+      ]
+    },
+    "Header": {
+      "Contacts": [
+        "Contactpersonen"
+      ],
+      "Contacts, groups and settings": [
+        "Contacten, groepen en instellingen"
+      ],
+      "Get help": [
+        "Krijg hulp"
+      ]
+    },
+    "Hint": {
+      "Found ${ items.length } suggestion, use keyboard to navigate.": [
+        "${ items.length } suggestie gevonden, gebruik het toetsenbord om te navigeren.",
+        "${ items.length } suggesties gevonden, gebruik het toetsenbord om te navigeren."
+      ],
+      "Use Up and Down keys to access and browse suggestions after input. Press Enter to confirm your choice, or Escape to close the suggestions box.": [
+        "Gebruik omhoog- en omlaagknoppen om suggesties te openen en te bladeren na invoer. Druk op Enter om uw keuze te bevestigen, of op Escape om het suggestievak te sluiten."
+      ]
+    },
+    "Human verification method": {
+      "CAPTCHA": [
+        "CAPTCHA"
+      ],
+      "Email": [
+        "E-mail"
+      ],
+      "Manual": [
+        "Handmatig"
+      ],
+      "No verification method available": [
+        "Geen verificatiemethode beschikbaar"
+      ],
+      "SMS": [
+        "SMS"
+      ]
+    },
+    "Import calendar": {
+      "Encrypting and adding contacts: ${ totalImported }/${ totalToImport }": [
+        "Versleutelen en toevoegen van contacten: ${ totalImported }/${ totalToImport }"
+      ]
+    },
+    "Import calendar warning": {
+      "vCard versions < 3.0": [
+        "vCard-versies < 3.0"
+      ]
+    },
+    "Import contact": {
+      "${ totalImported }/${ totalToImport } contact encrypted and added to your contact list": [
+        "${ totalImported }/${ totalToImport } contactpersoon versleuteld en toegevoegd aan uw contactenlijst",
+        "${ totalImported }/${ totalToImport } contactpersonen versleuteld en toegevoegd aan uw contactenlijst"
+      ],
+      "An error occurred while encrypting and adding your contact. No contact could be imported.": [
+        "Er is een fout opgetreden tijdens het versleutelen en toevoegen van uw contacten. Er konden geen contacten worden geïmporteerd.",
+        "Er is een fout opgetreden tijdens het versleutelen en toevoegen van uw contacten. Er kon geen contact worden geïmporteerd."
+      ]
+    },
+    "Import contact error": {
+      "Contact ${ contactId }: ": [
+        "Contact ${ contactId }: "
+      ]
+    },
+    "Import contact groups info": {
+      "${ totalContacts } contact": [
+        "${ totalContacts } contactpersoon",
+        "${ totalContacts } contactpersonen"
+      ]
+    },
+    "Import contact. Contact identifier": {
+      "unknown": [
+        "onbekend"
+      ]
+    },
+    "Import contacts": {
+      "An error occurred while encrypting and adding your contacts. ${ totalImported } out of ${ totalToImport } contacts successfully imported.": [
+        "Er is een fout opgetreden tijdens het versleutelen en toevoegen van uw contacten. ${ totalImported } van ${ totalToImport } contacten succesvol geïmporteerd."
+      ],
+      "Contact successfully imported. The imported contact will now appear in your contact list.": [
+        "Contact succesvol geïmporteerd. Het geïmporteerde contact zal nu in uw adresboek verschijnen.",
+        "Contactpersonen succesvol geïmporteerd. De geïmporteerde contacten verschijnen nu in uw contactlijst."
+      ]
+    },
+    "Import contacts warning": {
+      "for now": [
+        "momenteel"
+      ],
+      "ProtonContacts does not support ${ forNow }:": [
+        "ProtonContacten ondersteunt geen ${ forNow }:"
+      ]
+    },
+    "Import warning": {
+      "${ totalContactsDiscarded } out of ${ totalContacts } contacts will not be imported. Click for details": [
+        "${ totalContactsDiscarded } van de ${ totalContacts } contacten worden niet geïmporteerd. Klik voor details"
+      ],
+      "No contact can be imported. Click for details": [
+        "Er kan geen contact worden geïmporteerd. Klik voor meer informatie"
+      ]
+    },
+    "Info": {
+      "${ activeDownloadsCount } downloading": [
+        "${ activeDownloadsCount } downloaden",
+        "${ activeDownloadsCount } downloaden"
+      ],
+      "${ activeDownloadsCount } downloading (${ downloadProgress }%)": [
+        "${ activeDownloadsCount } downloaden (${ downloadProgress }%)",
+        "${ activeDownloadsCount } downloaden (${ downloadProgress }%)"
+      ],
+      "${ activeUploadsCount } uploading (${ uploadProgress }%)": [
+        "${ activeUploadsCount } uploaden (${ uploadProgress }%)",
+        "${ activeUploadsCount } uploaden (${ uploadProgress }%)"
+      ],
+      "${ addressCount } email address": [
+        "${ addressCount } e-mailadres",
+        "${ addressCount } e-mailadressen"
+      ],
+      "${ appName } needs your permission to ${ enableDesktopNotifications }.": [
+        "${ appName } heeft uw toestemming tot ${ enableDesktopNotifications } nodig."
+      ],
+      "${ calendarsToBeCreatedCount } new calendar": [
+        "${ calendarsToBeCreatedCount } nieuwe agenda",
+        "${ calendarsToBeCreatedCount } nieuwe agenda's"
+      ],
+      "${ calendarsToBeMerged } merged calendar": [
+        "Éen samengevoegde agenda",
+        "${ calendarsToBeMerged } samengevoegde agenda's"
+      ],
+      "${ calendarsToBeMergedCount } merged calendar": [
+        "${ calendarsToBeMergedCount } samengevoegde agenda",
+        "${ calendarsToBeMergedCount } samengevoegde agenda's"
+      ],
+      "${ canceledCount } canceled": [
+        "${ canceledCount } geannuleerd",
+        "${ canceledCount } geannuleerd"
+      ],
+      "${ contactCount } contact contains multiple email addresses.": [
+        "${ contactCount } contact bevat meerdere e-mailadressen.",
+        "${ contactCount } contacten bevatten meerdere e-mailadressen."
+      ],
+      "${ contactEmailsLength } Member": [
+        "${ contactEmailsLength } Lid",
+        "${ contactEmailsLength } Leden"
+      ],
+      "${ contactName } contains multiple email addresses.": [
+        "${ contactName } bevat meerdere e-mailadressen."
+      ],
+      "${ contactsCount } contact found": [
+        "${ contactsCount } contactpersoon gevonden",
+        "${ contactsCount } contactpersonen gevonden"
+      ],
+      "${ doneCount } finished": [
+        "${ doneCount } voltooid",
+        "${ doneCount } voltooid"
+      ],
+      "${ doneDownloadsCount } downloaded": [
+        "${ doneDownloadsCount } gedownload",
+        "${ doneDownloadsCount } gedownload"
+      ],
+      "${ doneUploadsCount } uploaded": [
+        "${ doneUploadsCount } geüpload",
+        "${ doneUploadsCount } geüpload"
+      ],
+      "${ errorCount } failed": [
+        "${ errorCount } mislukt",
+        "${ errorCount } mislukt"
+      ],
+      "${ groupCounts } group found": [
+        "${ groupCounts } groep gevonden",
+        "${ groupCounts } groepen gevonden"
+      ],
+      "${ numContactGroups } contact group": [
+        "Één contactgroep",
+        "${ numContactGroups } contactgroepen"
+      ],
+      "${ numContacts } contact": [
+        "Één contactpersoon",
+        "${ numContacts } contactpersonen"
+      ],
+      "${ pausedCount } paused": [
+        "${ pausedCount } onderbroken",
+        "${ pausedCount } onderbroken"
+      ],
+      "${ selectedCalendarsTotal } of ${ providerCalendars.length } calendar": [
+        "${ selectedCalendarsTotal } van ${ providerCalendars.length } agenda",
+        "${ selectedCalendarsTotal } van ${ providerCalendars.length } agenda's"
+      ],
+      "${ selectedFoldersCount } folder selected": [
+        "${ selectedFoldersCount } map geselecteerd",
+        "${ selectedFoldersCount } mappen geselecteerd"
+      ],
+      "${ selectedFoldersCount } label selected": [
+        "${ selectedFoldersCount } label geselecteerd",
+        "${ selectedFoldersCount } labels geselecteerd"
+      ],
+      "${ speed }/s": [
+        "${ speed }/s"
+      ],
+      "${ storageSize } storage": [
+        "${ storageSize } opslagruimte"
+      ],
+      "${ updated } contact updated successfully.": [
+        "${ updated } contact bijgewerkt.",
+        "${ updated } contacten bijgewerkt."
+      ],
+      "${ uploadName } already exists in this location.": [
+        "${ uploadName } bestaat al op deze plaats."
+      ],
+      "(${ memberCount } member)": [
+        "(${ memberCount } lid)",
+        "(${ memberCount } leden)"
+      ],
+      "10 email addresses": [
+        "10 e-mailadressen"
+      ],
+      "A number will be added to the filename": [
+        "Een nummer wordt toegevoegd aan de bestandsnaam"
+      ],
+      "A number will be added to the folder name": [
+        "Een nummer wordt toegevoegd aan de foldernaam"
+      ],
+      "Account access restricted due to unpaid invoices. Please contact your administrator.": [
+        "Accounttoegang beperkt vanwege onbetaalde facturen. Neem contact op met uw beheerder."
+      ],
+      "Address Verification with Trusted Keys is enabled for this address. To be able to send to this address, first trust public keys that can be used for sending.": [
+        "Adresverificatie met vertrouwde sleutels is voor dit adres ingeschakeld. Vertrouw eerst een aantal openbare sleutels om berichten te kunnen versturen naar deze ontvanger."
+      ],
+      "All (${ totalFoldersCount } folder)": [
+        "Alles (${ totalFoldersCount } map)",
+        "Alle (${ totalFoldersCount } mappen)"
+      ],
+      "All (${ totalFoldersCount } label)": [
+        "Alle (${ totalFoldersCount } label)",
+        "Alle (${ totalFoldersCount } labels)"
+      ],
+      "An active recovery file": [
+        "Een actief herstelbestand"
+      ],
+      "and": [
+        "en"
+      ],
+      "Anyone with this link can access your file.": [
+        "Iedereen met deze link heeft toegang tot dit bestand."
+      ],
+      "Anyone with this link can access your folder.": [
+        "Iedereen met deze link heeft toegang tot deze map."
+      ],
+      "Are you sure you want to empty trash and permanently delete all the items?": [
+        "Weet u zeker dat u de prullenbak wilt leegmaken en alle items permanent wilt verwijderen?"
+      ],
+      "Are you sure you want to permanently delete \"${ itemName }\" from trash?": [
+        "Weet u zeker dat u \"${ itemName }\" permanent wilt verwijderen uit prullenbak?"
+      ],
+      "Are you sure you want to permanently delete selected items from trash?": [
+        "Weet u zeker dat u de geselecteerde items permanent wilt verwijderen uit de prullenbak?"
+      ],
+      "Because ${ appName } is end-to-end encrypted, we cannot access\nor decrypt your files for you. To unlock your drive after a password reset,\nyou must have one of the following:": [
+        "Omdat ${ appName } end-to-end versleuteld is, kunnen we geen toegang krijgen\nof uw bestanden voor u decoderen. Om uw schijf te ontgrendelen na een wachtwoord reset,\nmoet u een van de volgende dingen hebben:"
+      ],
+      "Before requesting a new verification code, check your spam folder and check that ${ strong } is the correct address.": [
+        "Controleer uw spammap en of ${ strong } het correcte e-mailadres is voordat u een nieuwe verificatiecode aanvraagt."
+      ],
+      "Canceled": [
+        "Geannuleerd"
+      ],
+      "Cannot remember your password? We can help you clear the encrypted data of all contacts encrypted with this key and in the process dismiss the alert.": [
+        "Weet u uw wachtwoord niet? We kunnen u helpen de versleutelde gegevens van alle contactpersonen te wissen die versleuteld zijn met deze sleutel en in het proces kunt u de melding negeren."
+      ],
+      "Checking contact ${ progress } of ${ max }...": [
+        "Controle van contact ${ progress } van ${ max }..."
+      ],
+      "Checking signatures": [
+        "Handtekeningen controleren"
+      ],
+      "Clear data": [
+        "Gegevens wissen"
+      ],
+      "Clear encrypted search data": [
+        "Versleutelde zoekgegevens wissen"
+      ],
+      "Clearing browser data will clear the search index on this device. All files would need to be re-indexed again while using the search functionality.": [
+        "Browsergegevens wissen, zal de zoekindex op dit apparaat wissen. Alle bestanden zullen opnieuw geïndexeerd moeten worden terwijl u de zoekfunctie gebruikt."
+      ],
+      "Clears browser data related to the encrypted search.": [
+        "Wist browsergegevens gerelateerd aan het versleuteld zoeken."
+      ],
+      "Click \"Request new code\" to have a new verification code sent to ${ strong }. If this phone number is incorrect, click \"Edit\" to correct it.": [
+        "Klik op \"Vraag nieuwe code aan\" om een nieuwe verificatiecode te sturen naar ${ strong }. Als dit telefoonnummer onjuist is, klik op \"Bewerken\" om het te corrigeren."
+      ],
+      "Close this screen to exit.": [
+        "Sluit dit scherm om af te sluiten."
+      ],
+      "Conflict": [
+        "Probleem"
+      ],
+      "Continue using ${ appName } and unlock drive later": [
+        "Blijf ${ appName } gebruiken en ontgrendel de schijf later"
+      ],
+      "Continue with ${ planName }": [
+        "Ga door met ${ planName }"
+      ],
+      "Create ${ calendarsToBeCreated } new calendar": [
+        "Maak één nieuwe agenda",
+        "Maak ${ calendarsToBeCreated } nieuwe agenda's"
+      ],
+      "Create a label for the imported messages, a time range for this import, and the folders you would like to import.": [
+        "Maak een label voor de geïmporteerde berichten, een tijdbereik voor deze import, en de mappen die u wilt importeren."
+      ],
+      "Create a label for the imported messages, a time range for this import, and the labels you would like to import.": [
+        "Maak een label aan voor de geïmporteerde berichten, een tijdbereik voor deze import, en de labels die je wilt importeren."
+      ],
+      "Create a new contact group": [
+        "Nieuwe contactgroep maken"
+      ],
+      "Create in": [
+        "Maak in"
+      ],
+      "Create links and share your files with others.": [
+        "Maak links en deel uw bestanden met anderen."
+      ],
+      "Create your first folder and start moving your files.": [
+        "Maak uw eerste map aan en begin uw bestanden te verplaatsen."
+      ],
+      "Creating": [
+        "Aanmaken"
+      ],
+      "Creating link to file": [
+        "Link naar bestand maken"
+      ],
+      "Creating link to folder": [
+        "Link naar map maken"
+      ],
+      "Creating share": [
+        "Maak share"
+      ],
+      "CSV files from Outlook, Outlook Express, Yahoo! Mail, Hotmail, Eudora and some other apps as well as vCard 3.1 and 4.0 formats (UTF-8 encoding) are supported.": [
+        "CSV bestanden van Outlook, Outlook Express, Yahoo! Mail, Hotmail, Eudora en enkele andere apps, alsmede vCard 3.1 en 4.0 formaten (UTF-8 encoding) worden ondersteund."
+      ],
+      "Delete drive": [
+        "Verwijder drive",
+        "Verwijder drives"
+      ],
+      "Digital signature verified. This file was securely uploaded by ${ emailAddress }.": [
+        "Digitale handtekening geverifieerd. Dit bestand werd veilig geüpload door ${ emailAddress }."
+      ],
+      "Digital signature verified. This folder was securely uploaded by ${ emailAddress }.": [
+        "Digitale handtekening geverifieerd. Deze map werd veilig geüpload door ${ emailAddress }."
+      ],
+      "Download of ${ downloadFileName } will be aborted": [
+        "Download van ${ downloadFileName } zal afgebroken worden"
+      ],
+      "Downloaded": [
+        "Gedownload"
+      ],
+      "Downloading": [
+        "Downloaden"
+      ],
+      "Downloading items ${ esProgress } out of ${ totalProgressToShow }": [
+        "Item ${ esProgress } van ${ totalProgressToShow } aan het downloaden"
+      ],
+      "Drag and drop a file here or choose to upload.": [
+        "Sleep een bestand hierheen of kies om te uploaden."
+      ],
+      "Drop the file here to upload": [
+        "Sleep het bestand om te uploaden"
+      ],
+      "Duplicate key updated": [
+        "Dubbele sleutel bijgewerkt"
+      ],
+      "Enable drive search": [
+        "Drive doorzoeken inschakelen"
+      ],
+      "Encrypted search is here": [
+        "Versleuteld zoeken is hier"
+      ],
+      "Enter the verification code that was sent to ${ destinationText }.": [
+        "Voer de verificatiecode in die is verzonden naar ${ destinationText }."
+      ],
+      "Estimated time remaining: ${ estimatedMinutes } minute": [
+        "Geschatte resterende tijd: ${ estimatedMinutes } minuut",
+        "Geschatte resterende tijd: ${ estimatedMinutes } minuten"
+      ],
+      "Estimated time remaining: Less than a minute": [
+        "Geschatte resterende tijd: minder dan een minuut"
+      ],
+      "Estimating time remaining...": [
+        "Resterende tijd inschatten..."
+      ],
+      "Failed": [
+        "Mislukt"
+      ],
+      "Failed to generate a secure link. Try again later.": [
+        "Genereren van beveiligde koppeling mislukt. Probeer het later opnieuw."
+      ],
+      "Failed to open a secure link. The reason is: ${ error }": [
+        "Het is niet gelukt om een beveiligde link te openen. De reden is: ${ error }"
+      ],
+      "File \"${ name }\" was deleted during download": [
+        "Bestand \"${ name }\" werd verwijderd tijdens downloaden"
+      ],
+      "File is missing signature. We couldn’t verify that ${ emailAddress } uploaded ${ fileName }.": [
+        "Handtekening van bestand ontbreekt. We konden niet verifiëren dat ${ emailAddress } ${ fileName } heeft geüpload."
+      ],
+      "File is missing signature. We couldn’t verify who uploaded ${ fileName }.": [
+        "Handtekening van bestand ontbreekt. We konden niet verifiëren wie ${ fileName } heeft geüpload."
+      ],
+      "File will not be uploaded": [
+        "Bestand zal niet worden geüpload"
+      ],
+      "Finalizing": [
+        "Afronden"
+      ],
+      "Folder \"${ link.name }\" was deleted during download": [
+        "Map \"${ link.name }\" werd verwijderd tijdens downloaden"
+      ],
+      "Folder contents will merge into a single folder": [
+        "De inhoud van de mappen wordt samengevoegd tot één enkele map"
+      ],
+      "Folder is missing signature. We couldn’t verify that ${ emailAddress } uploaded ${ fileName }.": [
+        "Handtekening van map ontbreekt. We konden niet verifiëren dat ${ emailAddress } ${ fileName } heeft geüpload."
+      ],
+      "Folder is missing signature. We couldn’t verify who uploaded ${ fileName }.": [
+        "Handtekening van map ontbreekt. We konden niet verifiëren wie ${ fileName } heeft geüpload."
+      ],
+      "Folder will not be uploaded": [
+        "Folder zal niet worden ge-upload"
+      ],
+      "Free up some space or add more storage space.": [
+        "Maak ruimte vrij of voeg meer opslagruimte toe."
+      ],
+      "Free up some space or contact your administrator.": [
+        "Maak ruimte vrij of neem contact op met uw beheerder."
+      ],
+      "Go to \"My files\" and upload some files first.": [
+        "Ga naar \"Mijn bestanden\" en upload eerst enkele bestanden."
+      ],
+      "Group assignment applied": [
+        "Groepstoewijzing toegepast"
+      ],
+      "here": [
+        "hier"
+      ],
+      "How does encrypted search work?": [
+        "Hoe werkt versleuteld zoeken?"
+      ],
+      "If you are having trouble creating your account, please request an invitation and we will respond within one business day.": [
+        "Als u problemen ondervindt met het aanmaken van uw account, vraag dan een uitnodiging aan. Wij reageren op uw verzoek binnen een werkdag."
+      ],
+      "If you believe this is in error, please contact us ${ contactLink }.": [
+        "Als u denkt dat dit een fout is, neem dan contact met ons op via ${ contactLink }."
+      ],
+      "If you don't find the email in your inbox, please check your spam folder.": [
+        "Als u de mail niet kunt vinden in uw inbox, check dan eerst de map 'Spam'."
+      ],
+      "If you have one of these, continue to Proton account setting to\nstart the unblock process.": [
+        "Als u een van deze heeft, ga dan verder naar Proton account instelling om\nhet deblokkeerproces voort te zetten."
+      ],
+      "Import ${ contactsFragment } and ${ contactsGroupsFragment }": [
+        "Importeer ${ contactsFragment } en ${ contactsGroupsFragment }"
+      ],
+      "Import ${ selectedCalendarsCount } of ${ totalCalendarsCount } calendar": [
+        "Importeer ${ selectedCalendarsCount } van ${ totalCalendarsCount } agenda",
+        "Importeer ${ selectedCalendarsCount } van ${ totalCalendarsCount } agenda's"
+      ],
+      "Import from": [
+        "Importeren van"
+      ],
+      "Import in progress": [
+        "Bezig met importeren"
+      ],
+      "Importing your data from ${ importedEmailAddress } to ${ toEmail }.": [
+        "Het importeren van uw gegevens van ${ importedEmailAddress } naar ${ toEmail }."
+      ],
+      "Indexing search results…": [
+        "Zoekresultaten indexeren…"
+      ],
+      "Inherited from parent folder": [
+        "Overgenomen van bovenliggende map"
+      ],
+      "Initializing": [
+        "Initialiseren"
+      ],
+      "Internet connection lost": [
+        "Internetverbinding verbroken"
+      ],
+      "Internet connection lost. Please check your device's connectivity.": [
+        "Internetverbinding verbroken. Controleer uw internetverbinding."
+      ],
+      "Internet connection restored.": [
+        "Internetverbinding hersteld."
+      ],
+      "Just confirm your selection and we'll do the rest.": [
+        "Bevestig uw keuze en wij doen de rest."
+      ],
+      "Key fingerprint": [
+        "Vingerafdruk van sleutel"
+      ],
+      "Large imports can take several days.": [
+        "Grote importen kunnen meerdere dagen duren."
+      ],
+      "Learn more": [
+        "Meer informatie"
+      ],
+      "Link copied to clipboard": [
+        "Link gekopieerd naar klembord"
+      ],
+      "Link expires: ": [
+        "Link verloopt: "
+      ],
+      "Loading": [
+        "Laden"
+      ],
+      "Loading ${ appName }": [
+        "${ appName } aan het laden"
+      ],
+      "Loading preview": [
+        "Voorbeeld laden"
+      ],
+      "Loading share": [
+        "Share laden"
+      ],
+      "Merged": [
+        "Samengevoegd"
+      ],
+      "More": [
+        "Meer"
+      ],
+      "Moving files": [
+        "Bestanden verplaatsen"
+      ],
+      "My Links": [
+        "Mijn linken"
+      ],
+      "Name your new folder and select the parent folder you want to put it in. If you do not select a parent folder, this new folder will be created as a top level folder.": [
+        "Benoem uw nieuwe map en selecteer de bovenliggende map waarin u deze wilt plaatsen. Als u geen bovenliggende map selecteert, wordt deze als hoofdmap gemaakt."
+      ],
+      "Network issue": [
+        "Netwerk probleem"
+      ],
+      "New": [
+        "Nieuw"
+      ],
+      "No": [
+        "Nee"
+      ],
+      "No contacts added yet": [
+        "Nog geen contacten toegevoegd"
+      ],
+      "No email address": [
+        "Geen e-mailadres"
+      ],
+      "No files or folders in trash": [
+        "Geen bestanden of mappen in de prullenbak"
+      ],
+      "No group found": [
+        "Geen groep gevonden"
+      ],
+      "No preview available": [
+        "Geen voorbeeld beschikbaar"
+      ],
+      "No results found": [
+        "Geen resultaten gevonden"
+      ],
+      "None of the uploaded keys are valid for encryption. Encryption is automatically disabled.": [
+        "Geen van de geüploade sleutels zijn geldig voor versleuteling. Encryptie wordt automatisch uitgeschakeld."
+      ],
+      "Not a valid URL": [
+        "Geen geldige URL"
+      ],
+      "Note: Data may still be available locally on devices where you have installed ${ appName }.": [
+        "Opmerking: Gegevens kunnen nog steeds lokaal beschikbaar zijn op apparaten waarop u ${ appName } hebt geïnstalleerd."
+      ],
+      "of": [
+        "van"
+      ],
+      "One of your encrypted drives is locked. This is most likely due to a recent password reset.": [
+        "Eén van uw versleutelde drives is vergrendeld. Dit is waarschijnlijk het gevolg van een recente wachtwoordwijziging."
+      ],
+      "One or more of your trusted keys were marked \"compromised\" by their owner. We recommend that you \"untrust\" these keys.": [
+        "Eén of meerdere van uw vertrouwde sleutels zijn gemarkeerd als \"gecompromitteerd\" door hun eigenaars. We adviseren je deze sleutel niet meer de vertrouwen."
+      ],
+      "Only ${ MAX_CUSTOM_PASSWORD_LENGTH } characters is allowed": [
+        ""
+      ],
+      "Only change these settings if you are using PGP with non-${ BRAND_NAME } recipients.": [
+        "Wijzig deze instellingen alleen als u PGP met niet-${ BRAND_NAME }-ontvangers gebruikt."
+      ],
+      "Only the people with the link and the password can access this file.": [
+        "Alleen de mensen met de link en het wachtwoord hebben toegang tot dit bestand."
+      ],
+      "Only the people with the link and the password can access this folder.": [
+        "Alleen de mensen met de link en het wachtwoord hebben toegang tot deze map."
+      ],
+      "Other options": [
+        "Andere opties"
+      ],
+      "Paused": [
+        "Gepauzeerd"
+      ],
+      "Permanently delete all files in your drive": [
+        "Verwijder permanent alle bestanden op uw schijf"
+      ],
+      "PGP/Inline is only compatible with Plain Text format. Please note that ${ MAIL_APP_NAME } always signs encrypted messages.": [
+        "PGP/Inline is alleen compatibel met tekst zonder opmaak. Houd er rekening mee dat ${ MAIL_APP_NAME } altijd versleutelde berichten tekent."
+      ],
+      "PGP/MIME automatically sends the message using the current composer mode. Please note that ${ MAIL_APP_NAME } always signs encrypted messages": [
+        "PGP/MIME stuurt de berichten automatisch aan de hand van de opmaak in het opstelvenster. Denk eraan dat ${ MAIL_APP_NAME } versleutelde berichten ook altijd ondertekent"
+      ],
+      "Please note that addresses assigned to this group will NOT be deleted.": [
+        "Houd er rekening mee dat de adressen die aan deze groep zijn toegewezen NIET zullen worden verwijderd."
+      ],
+      "Please note that this process may take some time depending on the size of your address book.": [
+        "Houd er rekening mee dat dit proces enige tijd in beslag kan nemen, afhankelijk van de grootte van uw adresboek."
+      ],
+      "Please select the folders you would like to import:": [
+        "Selecteer de mappen die u wilt importeren:"
+      ],
+      "Please select which email address or addresses to add to ${ groupCount } group.": [
+        "Selecteer welk(e) e-mailadres(sen) u wilt toevoegen aan ${ groupCount } groep.",
+        "Selecteer welk(e) e-mailadres(sen) u wilt toevoegen aan ${ groupCount } groepen."
+      ],
+      "Please select which email address or addresses to add to ${ groupName }.": [
+        "Selecteer welk(e) e-mailadres(sen) u wilt toevoegen aan ${ groupName }."
+      ],
+      "Please wait while we look for contacts that can be re-signed with the primary encryption key.": [
+        "Een moment geduld, we zijn op zoek naar contacten die opnieuw ondertekend kunnen worden met de primaire versleutelingssleutel."
+      ],
+      "Please wait while we look for contacts that contain data encrypted with the inactive key.": [
+        "Een ogenblik geduld, we zoeken naar contactpersonen die gegevens bevatten die versleuteld zijn met de inactieve sleutel."
+      ],
+      "Preparing link to file": [
+        "Link naar bestand wordt voorbereid"
+      ],
+      "Preparing link to folder": [
+        "Link naar map wordt voorbereid"
+      ],
+      "Preview": [
+        "Voorbeeld"
+      ],
+      "Primary": [
+        "Primair"
+      ],
+      "Priority support": [
+        "Prioriteitsondersteuning"
+      ],
+      "Queued": [
+        "In wachtrij"
+      ],
+      "recommended browser": [
+        "aanbevolen browser"
+      ],
+      "Recovery process might take some time.": [
+        "Het herstelproces kan enige tijd in beslag nemen."
+      ],
+      "Refreshing the page or ${ link } will automatically resolve most issues.": [
+        "Vernieuwen van de pagina of ${ link } zal automatisch de meeste problemen oplossen."
+      ],
+      "Report has been sent": [
+        "Rapport werd verzonden"
+      ],
+      "Search cannot be enabled in this browser": [
+        "Zoeken kan niet ingeschakeld worden in deze browser"
+      ],
+      "Select an uploaded file or folder and create a link to it.": [
+        "Selecteer een geüpload bestand of map en maak er een link naartoe."
+      ],
+      "Select the email format you want to be used by default when sending an email to this email address.": [
+        "Selecteer het e-mailformaat dat u standaard wilt gebruiken bij het verzenden van dit e-mailadres."
+      ],
+      "Select what you want to move from Google.": [
+        "Selecteer wat u wil importeren vanaf Google."
+      ],
+      "Select which calendars to import. A new calendar will be created for each imported calendar up to the 20 calendars limit.": [
+        "Selecteer welke agenda's u wilt importeren. Voor elke geïmporteerde agenda wordt een nieuwe agenda aangemaakt, tot de limiet van 20 agenda's is bereikt."
+      ],
+      "Servers are unreachable. Please try again in a few minutes": [
+        "De servers zijn onbereikbaar, probeer het over enkele minuten opnieuw"
+      ],
+      "Session timed out": [
+        "Sessie verlopen"
+      ],
+      "Setting up PGP allows you to send end-to-end encrypted emails with a non-${ BRAND_NAME } user that uses a PGP compatible service.": [
+        "Met het instellen van PGP kunt u versleutelde e-mails verzenden met een niet-${ BRAND_NAME } gebruiker die een PGP compatibele dienst gebruikt."
+      ],
+      "Share files with links": [
+        "Bestanden delen met links"
+      ],
+      "Signature check will be ignored": [
+        "Handtekeningcontrole zal genegeerd worden"
+      ],
+      "Signature issue": [
+        "Handtekening probleem"
+      ],
+      "Some of your files are no longer accessible. Restore the access to your files. ${ StartRecoveryButton }": [
+        "Sommige bestanden zijn niet meer toegankelijk. Herstel de toegang tot uw bestanden. ${ StartRecoveryButton }"
+      ],
+      "Something went wrong, please try again later.": [
+        "Er ging iets mis. Probeer het later nog eens."
+      ],
+      "Storage space is shared across ${ MAIL_APP_NAME }, ${ CALENDAR_APP_NAME }, and ${ DRIVE_APP_NAME }.": [
+        "Opslagruimte is gedeeld doorheen ${ MAIL_APP_NAME }, ${ CALENDAR_APP_NAME }, en ${ DRIVE_APP_NAME }."
+      ],
+      "Support for 1 custom email domain": [
+        "Ondersteuning voor 1 aangepast e-mail domein"
+      ],
+      "support team": [
+        "ondersteuningsteam"
+      ],
+      "The account may have a new key, or the following may have been tampered with: ${ items }. Only open if you trust it.": [
+        "Het account heeft mogelijk een nieuwe sleutel of het volgende werd mogelijk onrechtmatig bewerkt: ${ items }. Open alleen als u het vertrouwt."
+      ],
+      "The application needs to locally decrypt your contacts before they can be exported. At the end of the process, a VCF file will be generated and you will be able to download it.": [
+        "De applicatie moet uw contacten lokaal decoderen voordat ze kunnen worden geëxporteerd. Aan het einde van het proces zal een VCF-bestand worden gegenereerd en kan u het downloaden."
+      ],
+      "The following may have been tampered with: ${ items }. Only open if you trust it.": [
+        "Het volgende werd mogelijk onrechtmatig bewerkt: ${ items }. Open alleen als u het vertrouwt."
+      ],
+      "There are files that still need to be transferred. Closing the transfer manager will end all operations.": [
+        "Er zijn bestanden die nog overgedragen moeten worden. Het overdrachtsbeheer sluiten zal alle handelingen stopzetten."
+      ],
+      "There are no files yet": [
+        "Er zijn nog geen bestanden"
+      ],
+      "This account has been suspended due to a potential policy violation.": [
+        "Dit account is opgeschort vanwege een potentiële schending van het beleid."
+      ],
+      "This address is disabled. To be able to send to this address, the owner must first enable the address.": [
+        "Dit adres is uitgeschakeld. Om naar dit adres te kunnen verzenden, moet de eigenaar het adres eerst inschakelen."
+      ],
+      "This browser does not support previewing PDF documents. Please download the file.": [
+        "Deze browser ondersteunt geen voorbeeld PDF-documenten. Download het bestand."
+      ],
+      "This link leads to a website that might be trying to steal your information, such as passwords and credit card details.": [
+        "Deze link leidt naar een website die mogelijk uw informatie, zoals wachtwoorden en kredietkaartgegevens, tracht te stelen."
+      ],
+      "This link may be a homograph attack and cannot be opened by Internet Explorer and Edge browsers. If you are certain the link is legitimate, please use a different browser to open it.": [
+        "Deze link kan een homografie-aanval zijn en kan niet geopend worden in Internet Explorer en Edge. Als u zeker bent dat de link legitiem is, gebruik dan een andere browser om het te bezoeken."
+      ],
+      "This link may be a homograph attack. Please verify this is the link you wish to visit, or don't open it.": [
+        "Deze link kan een homografie-aanval zijn. Controleer eerst of de link juist is, of open hem niet."
+      ],
+      "This link was created in\na previous version and can not be modified. Delete this link and create a\nnew one to change the settings.": [
+        "Deze link is gemaakt in\neen vorige versie en kan niet worden gewijzigd. Verwijder deze koppeling en maak een\nnieuwe om de instellingen te wijzigen."
+      ],
+      "This link will be permanently disabled. No one with this link will be able to access your file. To reshare the file, you will need a new link.": [
+        "Deze link wordt permanent uitgeschakeld. Niemand met deze link heeft toegang tot uw bestand. Om het bestand opnieuw in te stellen heeft u een nieuwe link nodig."
+      ],
+      "This link will be permanently disabled. No one with this link will be able to access your folder. To reshare the folder, you will need a new link.": [
+        "Deze link wordt permanent uitgeschakeld. Niemand met deze link heeft toegang tot uw map. Om de map opnieuw in te delen heeft u een nieuwe link nodig."
+      ],
+      "This will delete the link and remove access to your file or folder for anyone with the link.": [
+        "Dit zal de link verwijderen en de toegang tot uw bestand of map voor iedereen met de link verwijderen.",
+        "Dit zal de links verwijderen en de toegang tot uw bestanden en mappen voor iedereen met de links verwijderen."
+      ],
+      "This will overwrite the existing file": [
+        "Dit zal het bestaande bestand overschrijven"
+      ],
+      "This will overwrite the existing folder": [
+        "Dit zal de bestaande map overschrijven"
+      ],
+      "To enable truly private search ${ DRIVE_APP_NAME } needs to index your files locally.": [
+        "Om echt privé zoeken in te schakelen moet ${ DRIVE_APP_NAME } uw bestanden lokaal indexeren."
+      ],
+      "To enable truly private search ${ DRIVE_APP_NAME } needs to index your files locally. You can still use ${ DRIVE_APP_NAME } normally - we’ll let you know when indexing is done.": [
+        "Om echt privé zoeken in te schakelen moet ${ DRIVE_APP_NAME } uw bestanden lokaal indexeren. U kan ${ DRIVE_APP_NAME } normaal blijven gebruiken - we laten u weten wanneer het indexeren klaar is."
+      ],
+      "To fight spam and abuse, please verify you are human.": [
+        "Bevestig dat u een natuurlijk persoon bent, om spam en misbruik tegen te gaan."
+      ],
+      "To re-sign your contacts, we need to check every contact against the list of encryption keys available in your account. If no match is found, your contact will be re-signed with the primary encryption key.": [
+        "Om uw contacten opnieuw te ondertekenen, moeten we elk contactpersoon controleren op de lijst met versleutelingssleutels die beschikbaar zijn in uw account. Als er geen overeenkomst is gevonden, zal uw contactpersoon opnieuw worden ondertekend met de primaire versleutelingssleutel."
+      ],
+      "To recover your data, you need to re-activate the contact encryption key used at the time when the data was created. This will require you to remember the password used when the key was generated.": [
+        "Om uw gegevens terug te krijgen, moet u de contactsleutel die wordt gebruikt op het moment dat de gegevens werden aangemaakt opnieuw activeren. Dit vereist dat u het wachtwoord weet die u gebruikte toen de sleutel werd gegenereerd."
+      ],
+      "To use Address Verification, you must trust one or more available public keys, including the one you want to use for sending. This prevents the encryption keys from being faked.": [
+        "Om adresverificatie te gebruiken, moet u één of meer beschikbare openbare sleutels vertrouwen, inclusief de openbare sleutel die u wilt gebruiken voor het verzenden. Dit voorkomt dat de versleutelingssleutels worden vervalst."
+      ],
+      "Transfer canceled for file \"${ name }\"": [
+        "Overdracht geannuleerd voor bestand \"${ name }\""
+      ],
+      "Transfer canceled for folder \"${ name }\"": [
+        "Overdracht geannuleerd voor map \"${ name }\""
+      ],
+      "Transfer skipped for file \"${ file.name }\"": [
+        "Overdracht overgeslagen voor bestand \"${ file.name }\""
+      ],
+      "Transfer skipped for folder \"${ folderName }\"": [
+        "Overdracht overgeslagen voor map \"${ folderName }\""
+      ],
+      "Trash": [
+        "Prullenbak"
+      ],
+      "Try different keywords": [
+        "Probeer verschillende trefwoorden"
+      ],
+      "Unlimited folders, labels, and filters": [
+        "Ongelimiteerde mappen, labels en filters"
+      ],
+      "Unlimited messages": [
+        "Onbeperkt aantal berichten"
+      ],
+      "Unlock drive to recover files": [
+        "Ontgrendel schijf om bestanden te herstellen"
+      ],
+      "Unsupported file": [
+        "Niet-ondersteund bestand"
+      ],
+      "Updating drive search...": [
+        "Drive doorzoeken updaten..."
+      ],
+      "Upgrade today to avoid losing the following ${ planName } benefits.": [
+        "Upgrade vandaag om geen van volgende ${ planName } voordelen te verliezen."
+      ],
+      "Uploaded": [
+        "Geüpload"
+      ],
+      "Uploading": [
+        "Aan het uploaden"
+      ],
+      "Uploading hundreds of files at once may have a performance impact.": [
+        "Het uploaden van honderden bestanden in één keer kan een prestatieeffect hebben."
+      ],
+      "Use this form to notify us of inappropriate, illegal,\nor otherwise malicious shared files. You are about to report:": [
+        "Gebruik dit formulier om ons in te lichten over ongepaste, illegale of op een andere manier schadelijke bestanden. U staat op het punt om te melden:"
+      ],
+      "We couldn’t verify that ${ emailAddress } uploaded ${ fileName }.": [
+        "We konden niet verifiëren dat ${ emailAddress } ${ fileName } heeft geüpload."
+      ],
+      "We couldn’t verify who uploaded ${ fileName }.": [
+        "We konden niet verifiëren wie ${ fileName } heeft geüpload."
+      ],
+      "We'll notify you when the import is done.": [
+        "We laten het u weten als de import klaar is."
+      ],
+      "We'll send a new verification code to ${ strong }": [
+        "We verzenden een nieuwe verificatiecode naar ${ strong }"
+      ],
+      "We're moving! Join us at our new site: ${ link }.": [
+        "We verhuizen! Vervoeg ons op onze nieuwe website: ${ link }."
+      ],
+      "Week": [
+        "Week"
+      ],
+      "What do you want to do?": [
+        "Wat wilt u doen?"
+      ],
+      "What would you like to do?": [
+        "Wat zou u willen doen?"
+      ],
+      "Would you like to receive a new verification code or use an alternative verification method?": [
+        "Wilt u een nieuwe verificatiecode ontvangen of een alternatieve verificatiemethode gebruiken?"
+      ],
+      "Would you like to receive a new verification code?": [
+        "Wil u graag een nieuwe verificatiecode ontvangen?"
+      ],
+      "Would you like to restore your files?": [
+        "Wilt u uw bestanden herstellen?"
+      ],
+      "Yes": [
+        "Ja"
+      ],
+      "You are about to open another browser tab and visit:": [
+        "U staat het punt om een nieuw tabblad te openen en de volgende locatie te bezoeken:"
+      ],
+      "You are currently signed in as ${ user.Name } (${ user.Email }).": [
+        "U bent momenteel aangemeld als ${ user.Name } (${ user.Email })."
+      ],
+      "You can also merge imported calendars with existing Proton calendars.": [
+        "U kunt geïmporteerde agenda's ook samenvoegen met bestaande Proton-agenda's."
+      ],
+      "You can check the progress ${ importProgressLink }.": [
+        "U kunt de voortgang controleren ${ importProgressLink }."
+      ],
+      "You can turn on notifications to get alerts when new email messages arrive in this folder.": [
+        "U kunt meldingen inschakelen om meldingen te krijgen wanneer nieuwe e-mailberichten in deze map binnenkomen."
+      ],
+      "You cannot undo this action.": [
+        "U kunt deze actie niet ongedaan maken."
+      ],
+      "You reached ${ spaceDisplayed }% of your storage capacity. ${ freeUpMessage } ${ upgradeLink }": [
+        "U heeft ${ spaceDisplayed }% van uw opslagcapaciteit bereikt. ${ freeUpMessage } ${ upgradeLink }"
+      ],
+      "You reached 100% of your storage capacity. You cannot send or receive new emails. ${ freeUpMessage } ${ upgradeLink }": [
+        "U heeft 100% van uw opslagruimte bereikt. U kunt geen nieuwe e-mails verzenden of ontvangen. ${ freeUpMessage } ${ upgradeLink }"
+      ],
+      "You will lose all unsaved changes.": [
+        "U zal alle wijzigingen kwijtraken."
+      ],
+      "Your account has at least one overdue invoice. Your access has been restricted. ${ payInvoiceLink }": [
+        "Uw account heeft minstens één onbetaalde factuur. Uw toegang is beperkt. ${ payInvoiceLink }"
+      ],
+      "Your account has at least one overdue invoice. Your access will soon get restricted. ${ payInvoiceLink }": [
+        "Uw account heeft minstens één onbetaalde factuur. Uw toegang wordt binnenkort beperkt. ${ payInvoiceLink }"
+      ],
+      "Your current browser does not support the downloading of large files due to the unavailability of service workers. Downloading large files may freeze or leave the browser unresponsive. Please use the latest versions of a ${ recommendedBrowser } and try again.": [
+        "Uw huidige browser ondersteunt het downloaden van grote bestanden niet wegens de onbeschikbaarheid van service workers. Het downloaden van grote bestanden kan ervoor zorgen dat uw browser vastloopt of niet langer reageert. Gebruik de meest recente versie van een ${ recommendedBrowser } en probeer het opnieuw."
+      ],
+      "Your data is ready to import from ${ importedEmailAddressStrong } to your Proton account.": [
+        "Uw gegevens zijn klaar om te importeren van ${ importedEmailAddressStrong } naar uw Proton account."
+      ],
+      "Your download has been canceled.": [
+        "Uw download is geannuleerd."
+      ],
+      "Your email will only be used for this one-time verification.": [
+        "Uw e-mailadres wordt alleen gebruikt voor deze eenmalige verificatie."
+      ],
+      "Your file failed to download.": [
+        "Uw bestand kon niet worden gedownload."
+      ],
+      "Your file has finished downloading.": [
+        "Uw bestand is klaar met downloaden."
+      ],
+      "Your file is being downloaded.": [
+        "Uw bestand wordt gedownload."
+      ],
+      "Your files are no longer accessible due to a password reset. Re-upload the old encryption key to regain the access. ${ KeyReactivationButton }": [
+        "Uw bestanden zijn niet meer toegankelijk vanwege een wachtwoord-reset. Upload de oude versleutelingssleutel om weer toegang te krijgen. ${ KeyReactivationButton }"
+      ],
+      "Your files will be encrypted and then saved.": [
+        "Uw bestanden worden versleuteld en vervolgens opgeslagen."
+      ],
+      "Your folder failed to download.": [
+        "Uw map kon niet worden gedownload."
+      ],
+      "Your folder has finished downloading.": [
+        "Uw map is klaar met downloaden."
+      ],
+      "Your folder is being downloaded.": [
+        "Uw map wordt gedownload."
+      ],
+      "Your phone number will only be used for this one-time verification.": [
+        "Uw telefoonnummer wordt alleen gebruikt voor deze eenmalige verificatie."
+      ],
+      "Your previous password": [
+        "Uw vorige wachtwoord"
+      ],
+      "Your previous recovery phrase": [
+        "Uw vorige herstelzin"
+      ],
+      "Your Proton account is currently on hold. To continue using your account, please pay any overdue invoices.": [
+        "Uw Proton-account is bevroren. Betaal onbetaalde facturen om uw account weer te gebruiken."
+      ],
+      "Your secure, shareable link for ${ boldNameText }": [
+        "Uw veilige, deelbare link voor ${ boldNameText }"
+      ]
+    },
+    "Info on errors": {
+      "Click for details": [
+        "Klik voor details"
+      ]
+    },
+    "Info, no need for singular": {
+      "Multiple contacts look identical. ${ mergeAction }": [
+        "Meerdere contacten zien er identiek uit. ${ mergeAction }"
+      ]
+    },
+    "Item": {
+      "file attributes": [
+        "bestandsattributen"
+      ],
+      "file data": [
+        "bestandsgegevens"
+      ],
+      "file data key": [
+        "bestandsgegevenssleutel"
+      ],
+      "keys": [
+        "sleutels"
+      ],
+      "name": [
+        "naam"
+      ],
+      "name hash": [
+        "naam hash"
+      ],
+      "thumbnail": [
+        "miniatuur"
+      ]
+    },
+    "Key badge": {
+      "Compromised": [
+        "Gecompromitteerd"
+      ],
+      "Expired": [
+        "Verlopen"
+      ],
+      "Obsolete": [
+        "Verouderd"
+      ],
+      "Primary": [
+        "Primair"
+      ],
+      "Revoked": [
+        "Ingetrokken"
+      ],
+      "Trusted": [
+        "Vertrouwd"
+      ],
+      "WKD": [
+        "WKD"
+      ]
+    },
+    "Label": {
+      "# of accesses": [
+        "Aantal weergaven"
+      ],
+      "(Expired)": [
+        "(Verlopen)"
+      ],
+      "(Temporarily unavailable. Please check back later.)": [
+        "(Tijdelijk onbeschikbaar. Probeer later opnieuw.)"
+      ],
+      "Add email address": [
+        "E-mailadres toevoegen"
+      ],
+      "Add image URL": [
+        "Voeg URL van afbeelding toe"
+      ],
+      "Add to group": [
+        "Toevoegen aan groep"
+      ],
+      "Apply to all duplicated files": [
+        "Toepassen op alle gedupliceerde bestanden"
+      ],
+      "Apply to all duplicated folders": [
+        "Toepassen op alle gedupliceerde mappen"
+      ],
+      "Apply to all unverified items": [
+        "Toepassen op alle ongeverifieerde items"
+      ],
+      "Attach screenshot(s)": [
+        "Schermafbeelding(en) toevoegen"
+      ],
+      "Audio file": [
+        "Geluidsbestand"
+      ],
+      "Automatically save contacts": [
+        "Contacten automatisch opslaan"
+      ],
+      "Browser": [
+        "Browser"
+      ],
+      "Browser version": [
+        "Browserversie"
+      ],
+      "Calendars": [
+        "Agenda's"
+      ],
+      "Cancel download": [
+        "Download annuleren"
+      ],
+      "Category": [
+        "Categorie"
+      ],
+      "Child sexual abuse material": [
+        "Kinderpornografisch materiaal"
+      ],
+      "City": [
+        "Plaats"
+      ],
+      "Code is 6 digits without spaces": [
+        "Code is 6 cijfers zonder spaties"
+      ],
+      "Comment": [
+        "Reactie"
+      ],
+      "Contacts": [
+        "Contactpersonen"
+      ],
+      "Copy": [
+        "Kopieer"
+      ],
+      "Copyright infringement": [
+        "Copyrightschending"
+      ],
+      "Country": [
+        "Land"
+      ],
+      "Created": [
+        "Aangemaakt"
+      ],
+      "Delete": [
+        "Verwijderen"
+      ],
+      "Delete drive?": [
+        "Drive verwijderen?",
+        "Drives verwijderen?"
+      ],
+      "Deleted": [
+        "Verwijderd"
+      ],
+      "Do not ask again": [
+        "Vraag niet opnieuw"
+      ],
+      "Download anyway": [
+        "Toch downloaden"
+      ],
+      "Email": [
+        "E-mailadres"
+      ],
+      "Email address": [
+        "E-mailadres"
+      ],
+      "Email format": [
+        "E-mailindeling"
+      ],
+      "Emails": [
+        "E-mails"
+      ],
+      "Enable Beta Access": [
+        "Bèta-toegang inschakelen"
+      ],
+      "Enabling drive search": [
+        "Drive doorzoeken wordt ingeschakeld"
+      ],
+      "Encrypt emails": [
+        "E-mails versleutelen"
+      ],
+      "Expired": [
+        "Verlopen"
+      ],
+      "Expires": [
+        "Verloopt"
+      ],
+      "Export contacts": [
+        "Contactgegevens exporteren"
+      ],
+      "Extended address": [
+        "Adrestoevoeging"
+      ],
+      "File": [
+        "Bestand"
+      ],
+      "File name": [
+        "Bestandsnaam"
+      ],
+      "Folder": [
+        "Map"
+      ],
+      "Folder location": [
+        "Map locatie"
+      ],
+      "Folder name": [
+        "Mapnaam"
+      ],
+      "From: ${ importedEmail }": [
+        "Van: ${ importedEmail }"
+      ],
+      "Get your own ${ appName }": [
+        "Krijg uw eigen ${ appName }"
+      ],
+      "Hide password": [
+        "Wachtwoord verbergen"
+      ],
+      "I understand the risk": [
+        "Ik begrijp het risico"
+      ],
+      "Image": [
+        "Afbeelding"
+      ],
+      "Import all messages": [
+        "Alle berichten importeren"
+      ],
+      "Import contacts": [
+        "Contacten importeren"
+      ],
+      "Import interval": [
+        "Interval importeren"
+      ],
+      "Import to email address": [
+        "Importeren naar e-mailadres"
+      ],
+      "Label messages as": [
+        "Berichten labelen als"
+      ],
+      "Last 12 months only": [
+        "Alleen laatste 12 maanden"
+      ],
+      "Last 3 months only": [
+        "Alleen de laatste 3 maanden"
+      ],
+      "Last month only": [
+        "Alleen vorige maand"
+      ],
+      "Mailbox password": [
+        "Mailboxwachtwoord"
+      ],
+      "Malware": [
+        "Malware"
+      ],
+      "Manage folders": [
+        "Mappen beheren"
+      ],
+      "Manage labels": [
+        "Beheer labels"
+      ],
+      "Merge a folder": [
+        "Map samenvoegen"
+      ],
+      "Modified": [
+        "Gewijzigd"
+      ],
+      "Name": [
+        "Naam"
+      ],
+      "Never": [
+        "Nooit"
+      ],
+      "Notification": [
+        "Melding"
+      ],
+      "Operating system": [
+        "Besturingssysteem"
+      ],
+      "Operating system version": [
+        "Versie van besturingssysteem"
+      ],
+      "Other": [
+        "Overig"
+      ],
+      "Password": [
+        "Wachtwoord"
+      ],
+      "PGP scheme": [
+        "PGP-schema"
+      ],
+      "Phone number": [
+        "Telefoonnummer"
+      ],
+      "Please provide full details to help us take appropriate action": [
+        "Verstrek volledige details om ons te helpen de gepaste actie uit te voeren"
+      ],
+      "Post office box": [
+        "Postbus"
+      ],
+      "Postal code": [
+        "Postcode"
+      ],
+      "Protect with password": [
+        "Met wachtwoord beschermen"
+      ],
+      "Proton username": [
+        "Proton gebruikersnaam"
+      ],
+      "Public keys": [
+        "Publieke sleutels"
+      ],
+      "Region": [
+        "Regio"
+      ],
+      "Replace file": [
+        "Bestand vervangen"
+      ],
+      "Replace folder": [
+        "Map vervangen"
+      ],
+      "Report Abuse": [
+        "Meld misbruik"
+      ],
+      "Reveal password": [
+        "Wachtwoord tonen"
+      ],
+      "Select type of abuse": [
+        "Selecteer soort misbruik"
+      ],
+      "Set expiration date": [
+        "Vervaldatum instellen"
+      ],
+      "Sign emails": [
+        "E-mails ondertekenen"
+      ],
+      "Size": [
+        "Grootte"
+      ],
+      "Skip file": [
+        "Bestand overslaan"
+      ],
+      "Skip folder": [
+        "Sla map over"
+      ],
+      "Spam": [
+        "Spam"
+      ],
+      "Stolen data": [
+        "Gestolen gegevens"
+      ],
+      "Street address": [
+        "Straatnaam"
+      ],
+      "System information": [
+        "Systeeminformatie"
+      ],
+      "Text": [
+        "Tekst"
+      ],
+      "This will permanently delete all files in your locked drive.": [
+        "Dit zal alle bestanden op uw vergrendelde schijf permanent verwijderen."
+      ],
+      "To: ${ emailAddress }": [
+        "Naar: ${ emailAddress }"
+      ],
+      "Two-factor authentication code": [
+        "Tweestapsverificatiecode"
+      ],
+      "Type": [
+        "Type"
+      ],
+      "Unknown file": [
+        "Onbekend bestand"
+      ],
+      "Unlock drive": [
+        "Drive ontgrendelen"
+      ],
+      "Unlock drive (recommended)": [
+        "Drive ontgrendelen (aanbevolen)"
+      ],
+      "Unlock later": [
+        "Ontgrendel later"
+      ],
+      "Upload anyway": [
+        "Toch uploaden"
+      ],
+      "Upload picture": [
+        "Afbeelding uploaden"
+      ],
+      "Username or ${ MAIL_APP_NAME } address": [
+        "Gebruikersnaam op ${ MAIL_APP_NAME } adres"
+      ],
+      "Verification code": [
+        "Verificatiecode"
+      ],
+      "Video file": [
+        "Videobestand"
+      ],
+      "What happened?": [
+        "Wat is er gebeurd?"
+      ],
+      "Yes, I want to permanently delete\nmy old files": [
+        "Ja, ik wil permanent\nmijn oude bestanden verwijderen"
+      ]
+    },
+    "Label for contact group color": {
+      "Color": [
+        "Kleur"
+      ]
+    },
+    "Label for contact group name": {
+      "Name": [
+        "Naam"
+      ]
+    },
+    "Label/folder modal": {
+      "Create folder": [
+        "Map maken"
+      ],
+      "Create label": [
+        "Label aanmaken"
+      ],
+      "Edit folder": [
+        "Map bewerken"
+      ],
+      "Edit label": [
+        "Label bewerken"
+      ]
+    },
+    "label/folder notification": {
+      "${ Label.Name } created": [
+        "${ Label.Name } aangemaakt"
+      ]
+    },
+    "Link": {
+      "clearing your browser cache": [
+        "uw browser cache wissen"
+      ],
+      "Go to subscription plans": [
+        "Ga naar abonnementen"
+      ],
+      "Learn more": [
+        "Meer informatie"
+      ],
+      "Pay invoice": [
+        "Factuur betalen"
+      ],
+      "Request an invite": [
+        "Uitnodiging aanvragen"
+      ],
+      "Shared": [
+        "Gedeeld"
+      ],
+      "Trash": [
+        "Prullenbak"
+      ],
+      "Upgrade": [
+        "Upgraden"
+      ],
+      "Upgrade account": [
+        "Account upgraden"
+      ]
+    },
+    "Loading info": {
+      "Almost there": [
+        "Bijna daar"
+      ],
+      "Amount of calendars created: ${ createdCalendars } out of ${ calendarsToBeCreated }": [
+        "Aantal aangemaakte agenda's: ${ createdCalendars } van de ${ calendarsToBeCreated }"
+      ],
+      "Creating new calendars": [
+        "Nieuwe agenda's maken"
+      ],
+      "Gathering your data": [
+        "Verzamelen van uw gegevens"
+      ],
+      "We're gathering your data from your provider": [
+        "We verzamelen uw gegevens van uw provider"
+      ],
+      "Your import is starting": [
+        "Uw import begint"
+      ]
+    },
+    "Mail import summary": {
+      "Import all messages from ${ selectedLabelsCount } out of ${ totalLabelsCount } label since ${ periodFragment } and label them as ${ LABEL_MARKUP_PLACEHOLDER }": [
+        "Importeer alle berichten van ${ selectedLabelsCount } uit ${ totalLabelsCount } label sinds ${ periodFragment } en label ze als ${ LABEL_MARKUP_PLACEHOLDER }",
+        "Importeer alle berichten van ${ selectedLabelsCount } van de ${ totalLabelsCount } labels sinds ${ periodFragment } en label ze als ${ LABEL_MARKUP_PLACEHOLDER }"
+      ],
+      "Import all messages from ${ totalLabelsCount } label since ${ periodFragment } and label them as ${ LABEL_MARKUP_PLACEHOLDER }": [
+        "Importeer alle berichten van ${ totalLabelsCount } label sinds ${ periodFragment } en label ze als ${ LABEL_MARKUP_PLACEHOLDER }",
+        "Importeer alle berichten van ${ totalLabelsCount } labels sinds ${ periodFragment } en label ze als ${ LABEL_MARKUP_PLACEHOLDER }"
+      ]
+    },
+    "Message": {
+      "Your free trial has ended. Access to your account will soon be disabled. ${ action }": [
+        "Uw gratis proefversie is geëindigd. Toegang tot uw account wordt weldra uitgeschakeld. ${ action }"
+      ]
+    },
+    "Message display when a new app version is available": {
+      "A new version of ${ appName } is available. ${ reloadButton }.": [
+        "Er is een nieuwe versie van ${ appName } beschikbaar. ${ reloadButton }."
+      ]
+    },
+    "MIME type": {
+      "Automatic": [
+        "Automatisch"
+      ],
+      "Plain text": [
+        "Platte tekst"
+      ]
+    },
+    "New Label form": {
+      "Color": [
+        "Kleur"
+      ],
+      "Folder name": [
+        "Mapnaam"
+      ],
+      "Label name": [
+        "Labelnaam"
+      ]
+    },
+    "new_plans: action": {
+      "Switch or add account": [
+        "Van account wisselen of account toevoegen"
+      ]
+    },
+    "new_plans: info": {
+      "Introducing Proton’s refreshed look.${ br } Many services, one mission. Welcome to an internet where privacy is the default.": [
+        "Ontdek de nieuwe look van Proton.${ br } Veel diensten, één missie. Welkom in een internetomgeving waar privacy de standaard is."
+      ]
+    },
+    "new_plans: title": {
+      "Updated Proton, unified protection": [
+        "Vernieuwde Proton, uniforme beveiliging"
+      ]
+    },
+    "Notification": {
+      "\"${ name }\" created successfully": [
+        "\"${ name }\" succesvol aangemaakt"
+      ],
+      "\"${ name }\" deleted permanently from trash": [
+        "\"${ name }\" permanent verwijderd uit de prullenbak"
+      ],
+      "\"${ name }\" failed to be created": [
+        "\"${ name }\" kon niet aangemaakt worden"
+      ],
+      "\"${ name }\" failed to be deleted permanently from trash": [
+        "\"${ name }\" konden niet permanent verwijderd worden uit prullenbak"
+      ],
+      "\"${ name }\" failed to be moved": [
+        "\"${ name }\" kon niet verplaatst worden"
+      ],
+      "\"${ name }\" failed to be moved to trash": [
+        "\"${ name }\" kon niet verplaatst worden naar prullenbak"
+      ],
+      "\"${ name }\" failed to be restored from trash": [
+        "\"${ name }\" kon niet hersteld worden uit prullenbak"
+      ],
+      "\"${ name }\" moved to trash": [
+        "\"${ name }\" verplaatst naar de prullenbak"
+      ],
+      "\"${ name }\" restored from trash": [
+        "\"${ name }\" uit de prullenbak hersteld"
+      ],
+      "\"${ name }\" successfully moved": [
+        "\"${ name }\" succesvol verplaatst"
+      ],
+      "\"${ newName }\" failed to be renamed": [
+        "\"${ newName }\" kon niet worden hernoemd"
+      ],
+      "\"${ newName }\" renamed successfully": [
+        "\"${ newName }\" succesvol hernoemd"
+      ],
+      "${ count } item failed to be decrypted": [
+        "${ count } item kon niet worden ontsleuteld",
+        "${ count } items konden niet worden ontsleuteld"
+      ],
+      "${ numberOfItems } item deleted permanently from trash": [
+        "${ numberOfItems } item permanent verwijderd uit de prullenbak",
+        "${ numberOfItems } items permanent verwijderd uit de prullenbak"
+      ],
+      "${ numberOfItems } item failed to be deleted permanently from trash": [
+        "${ numberOfItems }\" item kon niet permanent verwijderd worden uit prullenbak",
+        "${ numberOfItems }\" items konden niet permanent verwijderd worden uit prullenbak"
+      ],
+      "${ numberOfItems } item failed to be moved": [
+        "${ numberOfItems } item kon niet verplaatst worden",
+        "${ numberOfItems } items konden niet verplaatst worden"
+      ],
+      "${ numberOfItems } item failed to be moved to trash": [
+        "${ numberOfItems } item kon niet verplaatst worden naar prullenbak",
+        "${ numberOfItems } items konden niet verplaatst worden naar prullenbak"
+      ],
+      "${ numberOfItems } item failed to be restored from trash": [
+        "${ numberOfItems } item kon niet hersteld worden uit prullenbak",
+        "${ numberOfItems } items konden niet hersteld worden uit prullenbak"
+      ],
+      "${ numberOfItems } item moved to trash": [
+        "${ numberOfItems } item verplaatst naar de prullenbak",
+        "${ numberOfItems } items verplaatst naar de prullenbak"
+      ],
+      "${ numberOfItems } item restored from trash": [
+        "${ numberOfItems } item hersteld uit prullenbak",
+        "${ numberOfItems } items hersteld uit prullenbak"
+      ],
+      "${ numberOfItems } item successfully moved": [
+        "${ numberOfItems } item succesvol verplaatst",
+        "${ numberOfItems } items succesvol verplaatst"
+      ],
+      "${ numberOfItems } link to your item failed to be deleted": [
+        "${ numberOfItems } link naar uw item kon niet worden verwijderd",
+        "${ numberOfItems } links naar uw items konden niet worden verwijderd"
+      ],
+      "${ numberOfItems } link to your item was deleted": [
+        "${ numberOfItems } link naar uw item werd verwijderd",
+        "${ numberOfItems } links naar uw items werden verwijderd"
+      ],
+      "All items will soon be permanently deleted from trash": [
+        "Alle items zullen binnenkort permanent uit de prullenbak worden verwijderd"
+      ],
+      "Contact group created": [
+        "Contactgroep aangemaakt"
+      ],
+      "Contact group updated": [
+        "Contactgroep bijgewerkt"
+      ],
+      "Encrypted search activated": [
+        "Versleuteld zoeken geactiveerd"
+      ],
+      "Failed to download files: ${ err }": [
+        "Bestanden downloaden mislukt: ${ err }"
+      ],
+      "Failed to move, please try again": [
+        "Verplaatsen mislukt, probeer het opnieuw"
+      ],
+      "Failed to upload files: ${ err }": [
+        "Het uploaden van bestanden is mislukt: ${ err }"
+      ],
+      "File or folder \"${ filename }\" and ${ count } other are already uploading": [
+        "Bestand of map \"${ filename }\" en ${ count } andere zijn al aan het uploaden",
+        "Bestand of map \"${ filename }\" en ${ count } andere zijn al aan het uploaden"
+      ],
+      "File or folder \"${ filename }\" is already uploading": [
+        "Bestand of map \"${ filename }\" is al aan het uploaden"
+      ],
+      "File or folder is missing a name": [
+        "Bestand of map heeft geen naam"
+      ],
+      "Item failed to be verified": [
+        "Item kon niet worden geverifieerd"
+      ],
+      "Link failed to be loaded": [
+        "Link kon niet geladen worden"
+      ],
+      "Move ${ itemsToMoveCount } file": [
+        "Verplaats ${ itemsToMoveCount } bestand",
+        "Verplaats ${ itemsToMoveCount } bestanden"
+      ],
+      "Move ${ itemsToMoveCount } folder": [
+        "Verplaats ${ itemsToMoveCount } map",
+        "Verplaats ${ itemsToMoveCount } mappen"
+      ],
+      "Move ${ itemsToMoveCount } item": [
+        "Verplaats ${ itemsToMoveCount } item",
+        "Verplaats ${ itemsToMoveCount } items"
+      ],
+      "Move ${ movingCount } file": [
+        "Verplaats ${ movingCount } bestand",
+        "Verplaats ${ movingCount } bestanden"
+      ],
+      "Move ${ movingCount } folder": [
+        "Verplaats ${ movingCount } map",
+        "Verplaats ${ movingCount } mappen"
+      ],
+      "Move ${ movingCount } item": [
+        "Verplaats ${ movingCount } item",
+        "Verplaats ${ movingCount } items"
+      ],
+      "Next page failed to be loaded": [
+        "Volgende pagina kon niet geladen worden"
+      ],
+      "Not enough space to upload ${ formattedTotal }": [
+        "Onvoldoende ruimte om ${ formattedTotal } te uploaden"
+      ],
+      "Root folder failed to be loaded": [
+        "Hoofdmap kon niet geladen worden"
+      ],
+      "Subfolder failed to be loaded": [
+        "Submap kon niet geladen worden"
+      ],
+      "The link to \"${ name }\" failed to be deleted": [
+        "De link naar \"${ name }\" kon niet worden verwijderd"
+      ],
+      "The link to \"${ name }\" was deleted": [
+        "De link naar \"${ name }\" werd verwijderd"
+      ],
+      "The link to your item failed to be deleted": [
+        "De link naar uw item kon niet worden verwijderd"
+      ],
+      "The link to your item was deleted": [
+        "De link naar uw item werd verwijderd"
+      ],
+      "Trash failed to be emptied": [
+        "Prullenbak legen mislukt"
+      ],
+      "Your old files will be deleted in 72 hours": [
+        "Uw oude bestanden worden binnen 72 uur verwijderd"
+      ],
+      "Your settings failed to be saved": [
+        "Uw instellingen konden niet worden bewaard"
+      ],
+      "Your settings have been changed successfully": [
+        "Uw instellingen zijn succesvol gewijzigd"
+      ]
+    },
+    "Oauth instructions": {
+      "Next you'll need to sign in to your Google account and grant Proton access to your data.": [
+        "Vervolgens moet u zich aanmelden bij uw Google-account en ons toegang geven tot uw gegevens."
+      ]
+    },
+    "Oauth instructions video": {
+      "For the import to work, you must select all requested items as shown in the GIF.": [
+        "Selecteer alle gewenste items, zoals weergegeven in de GIF, om de import te doen slagen."
+      ]
+    },
+    "Onboarding Action": {
+      "Enable Beta Access": [
+        "Bèta-toegang inschakelen"
+      ],
+      "Next": [
+        "Volgende"
+      ],
+      "Start using ${ appName }": [
+        "Begin met ${ appName }"
+      ],
+      "Upgrade account": [
+        "Account upgraden"
+      ]
+    },
+    "Onboarding Info": {
+      "${ appName } is currently in early access and only available to users with a paid plan.": [
+        "${ appName } is alleen beschikbaar voor betalende gebruikers met vroegtijdige toegang."
+      ],
+      "${ appName } is currently only available if you enable Beta Access.": [
+        "${ appName } is momenteel alleen beschikbaar als je Bèta Toegang inschakelt."
+      ],
+      "Your trusty online vault for vital documents and precious memories.": [
+        "Uw vertrouwde online kluis voor vitale documenten en te koesteren herinneringen."
+      ]
+    },
+    "Onboarding Proton": {
+      "Configure your organization, link your domain name, and create accounts to ensure all members of your organization are protected.": [
+        "Configureer uw organisatie, koppel uw domeinnaam, en maak accounts aan om ervoor te zorgen dat alle leden van uw organisatie beveiligd zijn."
+      ],
+      "Discover all Proton services": [
+        "Ontdek alle Proton-diensten"
+      ],
+      "Select a theme": [
+        "Kies een thema"
+      ],
+      "Set up your organization": [
+        "Stel uw organisatie in"
+      ],
+      "Use the app selector in the top left to access other Proton services, including VPN, Calendar and Drive.": [
+        "Gebruik het app-menu linksboven om toegang te krijgen tot andere Proton-diensten, waaronder VPN, Calendar en Drive."
+      ],
+      "You can change this anytime in your settings.": [
+        "U kunt dit op elk gewenst moment wijzigen in uw instellingen."
+      ]
+    },
+    "Onboarding Title": {
+      "${ appName } is in Beta": [
+        "${ appName } is in bèta"
+      ],
+      "Upgrade to access ${ appName }": [
+        "Upgrade om toegang te krijgen tot ${ appName }"
+      ],
+      "Welcome to ${ appName }": [
+        "Welkom bij ${ appName }"
+      ]
+    },
+    "Option": {
+      "Add to existing group": [
+        "Toevoegen aan bestaande groep"
+      ],
+      "Create new group": [
+        "Nieuwe groep maken"
+      ],
+      "Ignore group": [
+        "Groep negeren"
+      ],
+      "No parent folder": [
+        "Geen bovenliggende map"
+      ]
+    },
+    "Option group label": {
+      "Create new calendar": [
+        "Nieuwe agenda maken"
+      ],
+      "Merge with calendar": [
+        "Samenvoegen met agenda"
+      ]
+    },
+    "PGP key encryption warning": {
+      "Key cannot be used for encryption": [
+        "Sleutel kan niet worden gebruikt voor versleuteling"
+      ]
+    },
+    "PGP Key info": {
+      "${ emailAddress } has marked this key as compromised. This key cannot be used neither for encryption nor for signature verification.": [
+        "${ emailAddress } heeft deze sleutel gemarkeerd als gecompromitteerd. Deze sleutel kan niet worden gebruikt voor versleuteling of ter verificatie."
+      ],
+      "${ emailAddress } has marked this key as obsolete. This key can only be used for signature verification.": [
+        "${ emailAddress } heeft deze sleutel gemarkeerd als verouderd. Deze sleutel kan alleen nog gebruikt worden voor de verificatie van handtekeningen."
+      ],
+      "We recommend that you \"untrust\" this key.": [
+        "We adviseren je deze sleutel niet meer te vertrouwen."
+      ]
+    },
+    "PGP key warning": {
+      "Email address not found among user ids defined in sending key (${ keyUserIds })": [
+        "E-mailadres is niet gevonden in de user id's van verzendsleutel (${ keyUserIds })"
+      ]
+    },
+    "Placeholder": {
+      "A way to contact you": [
+        "Een manier om contact met u op te nemen"
+      ],
+      "E.g., ": [
+        "Bijv., "
+      ],
+      "Enter a new folder name": [
+        "Voer een nieuwe naam in"
+      ],
+      "Enter your email address": [
+        "Voer uw e-mailadres in"
+      ],
+      "Filter groups": [
+        "Groepen filteren"
+      ],
+      "Image URL": [
+        "Afbeeldings-URL"
+      ],
+      "Mailbox password": [
+        "Mailboxwachtwoord"
+      ],
+      "Name": [
+        "Naam"
+      ],
+      "New name": [
+        "Nieuwe naam"
+      ],
+      "Password": [
+        "Wachtwoord"
+      ],
+      "Please describe the problem and include any error messages": [
+        "Beschrijf het probleem en voeg alle foutmeldingen toe"
+      ],
+      "Search for group name": [
+        "Zoeken naar groepsnaam"
+      ],
+      "Search for name or email": [
+        "Naam of e-mail zoeken"
+      ],
+      "Select": [
+        "Selecteren"
+      ],
+      "Start typing an email address": [
+        "Voer een e-mailadres in"
+      ]
+    },
+    "Placeholder for contact group name": {
+      "Name": [
+        "Naam"
+      ]
+    },
+    "Progress bar description": {
+      "${ contactsExported.length } out of ${ countContacts } contacts successfully exported.": [
+        "${ contactsExported.length } van de ${ countContacts } contacten succesvol geëxporteerd."
+      ],
+      "${ model.deleted.length } out of ${ totalBeDeleted } contact successfully deleted.": [
+        "${ model.deleted.length } van de ${ totalBeDeleted } contact succesvol verwijderd.",
+        "${ model.deleted.length } van de ${ totalBeDeleted } contactpersonen zijn succesvol verwijderd."
+      ],
+      "${ model.submitted.length } out of ${ totalBeMerged } contact successfully merged.": [
+        "${ model.submitted.length } van de ${ totalBeMerged } contact succesvol samengevoegd.",
+        "${ model.submitted.length } van de ${ totalBeMerged } contacten zijn succesvol samengevoegd."
+      ],
+      "No contacts exported.": [
+        "Geen contactpersonen geëxporteerd."
+      ],
+      "No contacts merged.": [
+        "Geen contacten samengevoegd."
+      ],
+      "Progress: ${ combinedProgress }%": [
+        "Voortgang: ${ combinedProgress }%"
+      ]
+    },
+    "Property type": {
+      "Address": [
+        "Adres"
+      ],
+      "Email": [
+        "E-mail"
+      ],
+      "Fax": [
+        "Fax"
+      ],
+      "Home": [
+        "Thuis"
+      ],
+      "Main": [
+        "Algemeen"
+      ],
+      "Mobile": [
+        "Mobiel"
+      ],
+      "Other": [
+        "Anders"
+      ],
+      "Pager": [
+        "Pager"
+      ],
+      "Phone": [
+        "Telefoon"
+      ],
+      "Work": [
+        "Werk"
+      ]
+    },
+    "Refresh on apply warning": {
+      "Note: the service will reload after you click the Apply button.": [
+        "Opmerking: de service wordt herladen nadat u op de knop Toepassen klikt."
+      ]
+    },
+    "Select files": {
+      "Upload": [
+        "Uploaden"
+      ]
+    },
+    "Spotlight": {
+      "Encrypted search is here": [
+        "Versleuteld zoeken is hier"
+      ],
+      "Get up to 18 months of ${ planName } for free": [
+        "Krijg tot 18 maanden ${ planName } gratis"
+      ],
+      "Invite friends and earn rewards!": [
+        "Nodig vrienden uit en verdien bonussen!"
+      ],
+      "Now you can easily search Drive files while keeping your data secure.": [
+        "U kan nu eenvoudig Drive-bestanden zoeken terwijl u uw gegevens veilig houdt."
+      ]
+    },
+    "Storage": {
+      "Release notes": [
+        "Belangrijkste wijzigingen"
+      ],
+      "Upgrade storage": [
+        "Opslag upgraden"
+      ],
+      "Your current storage:": [
+        "Uw huidige opslag:"
+      ]
+    },
+    "Success": {
+      "Address copied to clipboard": [
+        "Adres naar klembord gekopieerd"
+      ],
+      "Bug reported": [
+        "Bug gemeld"
+      ],
+      "Code sent to ${ methodTo }": [
+        "Code verzonden naar ${ methodTo }"
+      ],
+      "Contact deleted": [
+        "Contactpersoon verwijderd",
+        "Contactpersonen verwijderd"
+      ],
+      "Contact group deleted": [
+        "Contactpersonen groep verwijderd",
+        "Contactgroepen verwijderd"
+      ],
+      "Contact saved": [
+        "Contact opgeslagen"
+      ],
+      "Contacts deleted": [
+        "Contactpersoon verwijderd"
+      ],
+      "Email address copied to clipboard": [
+        "E-mailadres naar klembord gekopieerd"
+      ],
+      "Fingerprint copied to clipboard": [
+        "Vingerafdruk gekopieerd naar klembord"
+      ],
+      "Phone number copied to clipboard": [
+        "Telefoonnummer naar klembord gekopieerd"
+      ],
+      "Preference saved": [
+        "Voorkeur opgeslagen"
+      ],
+      "Preferences saved": [
+        "Voorkeuren opgeslagen"
+      ],
+      "Recovery has started": [
+        "Herstel is gestart"
+      ],
+      "The link to your file was successfully copied": [
+        "De link naar uw bestand is succesvol gekopieerd"
+      ],
+      "Verification successful": [
+        "Verificatie gelukt"
+      ]
+    },
+    "Suffix for price": {
+      "/month": [
+        "/maand"
+      ]
+    },
+    "Table header": {
+      "Action": [
+        "Actie"
+      ],
+      "Actions": [
+        "Acties"
+      ],
+      "Address": [
+        "Adres"
+      ],
+      "Created": [
+        "Aangemaakt"
+      ],
+      "Expires": [
+        "Verloopt"
+      ],
+      "Fingerprint": [
+        "Vingerafdruk"
+      ],
+      "Name": [
+        "Naam"
+      ],
+      "Status": [
+        "Status"
+      ],
+      "Type": [
+        "Type"
+      ]
+    },
+    "TableHeader": {
+      "# of accesses": [
+        "Aantal weergaven"
+      ],
+      "Actions": [
+        "Acties"
+      ],
+      "Address": [
+        "Adres"
+      ],
+      "Created": [
+        "Aangemaakt"
+      ],
+      "CSV field": [
+        "CSV-veld"
+      ],
+      "Deleted": [
+        "Verwijderd"
+      ],
+      "Expires": [
+        "Verloopt"
+      ],
+      "Import": [
+        "Importeren"
+      ],
+      "Location": [
+        "Locatie"
+      ],
+      "Modified": [
+        "Gewijzigd"
+      ],
+      "Name": [
+        "Naam"
+      ],
+      "Size": [
+        "Grootte"
+      ],
+      "Uploaded": [
+        "Geüpload"
+      ],
+      "Values": [
+        "Waarden"
+      ],
+      "vCard field": [
+        "vCard-veld"
+      ]
+    },
+    "Text": {
+      "Introducing the updated Proton.": [
+        "Maak kennis met de vernieuwde Proton."
+      ],
+      "More services, one privacy mission.": [
+        "Meer diensten, één privacymissie."
+      ],
+      "Settings": [
+        "Instellingen"
+      ]
+    },
+    "Time period": {
+      "account creation date": [
+        "aanmaakdatum van account"
+      ],
+      "the last 12 months": [
+        "de laatste 12 maanden"
+      ],
+      "the last 3 months": [
+        "de laatste 3 maanden"
+      ],
+      "the last month": [
+        "de laatste maand"
+      ]
+    },
+    "Time unit": {
+      "${ hours } hour": [
+        "${ hours } uur",
+        "${ hours } uren"
+      ],
+      "${ minutes } minute": [
+        "${ minutes } minuut",
+        "${ minutes } minuten"
+      ]
+    },
+    "Title": {
+      "# of accesses": [
+        "Aantal weergaven"
+      ],
+      "${ emailsCount } member": [
+        "${ emailsCount } lid",
+        "${ emailsCount } leden"
+      ],
+      "Account suspended": [
+        "Account opgeschort"
+      ],
+      "Active": [
+        "Actief"
+      ],
+      "Add contact group name": [
+        "Naam toevoegen aan contactgroep"
+      ],
+      "Add to ${ groupCount } group": [
+        "Toevoegen aan ${ groupCount } groep",
+        "Toevoegen aan ${ groupCount } groepen"
+      ],
+      "Add to ${ groupName }": [
+        "Toevoegen aan ${ groupName }"
+      ],
+      "Additional settings": [
+        "Aanvullende instellingen"
+      ],
+      "Addresses": [
+        "Adressen"
+      ],
+      "All": [
+        "Alle"
+      ],
+      "Back": [
+        "Vorige"
+      ],
+      "Beta Access": [
+        "Bèta toegang"
+      ],
+      "Browser might run out of memory": [
+        "Browser valt mogelijk zonder geheugen"
+      ],
+      "Change layout": [
+        "Layout aanpassen"
+      ],
+      "Clearing data": [
+        "Gegevens aan het wissen"
+      ],
+      "Completed": [
+        "Voltooid"
+      ],
+      "Contact details": [
+        "Contactgegevens"
+      ],
+      "Contact Details": [
+        "Contactgegevens"
+      ],
+      "Contact group": [
+        "Contactgroep"
+      ],
+      "Contacts": [
+        "Contacten"
+      ],
+      "Create a new folder": [
+        "Nieuwe map aanmaken"
+      ],
+      "Create contact": [
+        "Contact aanmaken"
+      ],
+      "Create new group": [
+        "Nieuwe groep maken"
+      ],
+      "Currency": [
+        "Valuta"
+      ],
+      "Customize and confirm": [
+        "Aanpassen en bevestigen"
+      ],
+      "Customize calendar import": [
+        "Agenda-import aanpassen"
+      ],
+      "Customize your mail import": [
+        "Uw e-mailimport aanpassen"
+      ],
+      "Date": [
+        "Date"
+      ],
+      "Delete ${ count } contact": [
+        "Verwijder ${ count } contact",
+        "${ count } contacten verwijderen"
+      ],
+      "Delete ${ count } contact group": [
+        "${ count } contactgroep verwijderen",
+        "${ count } contactgroepen verwijderen"
+      ],
+      "Delete ${ Name }": [
+        "Verwijder ${ Name }"
+      ],
+      "Delete permanently": [
+        "Permanent verwijderen"
+      ],
+      "Deleting contacts": [
+        "Contacten aan het verwijderen"
+      ],
+      "Discard": [
+        "Weggooien"
+      ],
+      "Discard changes?": [
+        "Wijzigingen annuleren?"
+      ],
+      "Download canceled": [
+        "Download geannuleerd"
+      ],
+      "Download completed": [
+        "Download compleet"
+      ],
+      "Download failed": [
+        "Downloaden mislukt"
+      ],
+      "Download unverified file?": [
+        "Ongeverifieerd bestand downloaden?"
+      ],
+      "Download unverified folder?": [
+        "Ongeverifieerde map downloaden?"
+      ],
+      "Downloading": [
+        "Downloaden"
+      ],
+      "Drive": [
+        "Drive"
+      ],
+      "Drop to upload": [
+        "Sleep hier om te uploaden"
+      ],
+      "Duplicate file found": [
+        "Duplicaat bestand gevonden"
+      ],
+      "Duplicate folder found": [
+        "Duplicate map gevonden"
+      ],
+      "Edit contact": [
+        "Contactpersoon bewerken"
+      ],
+      "Edit contact group": [
+        "Contactgroep bewerken"
+      ],
+      "Edit image": [
+        "Afbeelding bewerken"
+      ],
+      "Email addresses": [
+        "E-mailadressen"
+      ],
+      "Email settings": [
+        "E-mail instellingen"
+      ],
+      "Email settings (${ emailAddress })": [
+        "E-mailinstellingen (${ emailAddress })"
+      ],
+      "Empty trash": [
+        "Prullenbak leegmaken"
+      ],
+      "Enable drive search": [
+        "Drive doorzoeken inschakelen"
+      ],
+      "Enter password to download": [
+        "Voer wachtwoord in om te downloaden"
+      ],
+      "Enter your password": [
+        "Voer uw wachtwoord in"
+      ],
+      "Enter your username or ${ MAIL_APP_NAME } email address": [
+        "Voer uw gebruikersnaam in of uw ${ MAIL_APP_NAME } e-mailadres"
+      ],
+      "Exporting contacts": [
+        "Contactpersonen exporteren"
+      ],
+      "Failed": [
+        "Mislukt"
+      ],
+      "File details": [
+        "Bestandsdetails"
+      ],
+      "File recovery process": [
+        "Herstelproces van bestanden"
+      ],
+      "Files details": [
+        "Bestandsdetails"
+      ],
+      "Folder details": [
+        "Map details"
+      ],
+      "Folders details": [
+        "Details mappen"
+      ],
+      "Found ${ searchView.numberOfResults } result": [
+        "${ searchView.numberOfResults } zoekresultaat",
+        "${ searchView.numberOfResults } zoekresultaten"
+      ],
+      "Groups": [
+        "Groepen"
+      ],
+      "Human verification": [
+        "Persoonsverificatie"
+      ],
+      "Import contacts": [
+        "Contactpersonen importeren"
+      ],
+      "Import groups": [
+        "Importeer groepen"
+      ],
+      "Invalid verification code": [
+        "De ingevoerde code is ongeldig"
+      ],
+      "Items details": [
+        "Details items"
+      ],
+      "Link confirmation": [
+        "Link bevestigen"
+      ],
+      "Location": [
+        "Locatie"
+      ],
+      "Manage secure link": [
+        "Beveiligde link beheren"
+      ],
+      "Manage share": [
+        "Delen beheren"
+      ],
+      "Merge contacts": [
+        "Contacten samenvoegen"
+      ],
+      "Merging contacts": [
+        "Contactpersonen samenvoegen"
+      ],
+      "MIME type": [
+        "MIME type"
+      ],
+      "Modified": [
+        "Gewijzigd"
+      ],
+      "My files": [
+        "Mijn bestanden"
+      ],
+      "My files ${ date }.zip": [
+        "Mijn bestanden ${ date }.zip"
+      ],
+      "Name": [
+        "Naam"
+      ],
+      "No results found": [
+        "Geen resultaten gevonden"
+      ],
+      "Number of files": [
+        "Aantal bestanden"
+      ],
+      "Number of folders": [
+        "Aantal mappen"
+      ],
+      "Number of items": [
+        "Aantal items"
+      ],
+      "Open actions dropdown": [
+        "Open acties dropdownmenu"
+      ],
+      "Open help menu": [
+        "Open help-menu"
+      ],
+      "Open settings menu": [
+        "Open instellingen-menu"
+      ],
+      "Other information": [
+        "Overige informatie"
+      ],
+      "Other names": [
+        "Andere namen"
+      ],
+      "Performance might be affected": [
+        "Prestaties kunnen beïnvloed zijn"
+      ],
+      "Phone numbers": [
+        "Telefoonnummers"
+      ],
+      "Re-sign all contacts": [
+        "Alle contacten opnieuw ondertekenen"
+      ],
+      "Re-signing contacts": [
+        "Contacten opnieuw ondertekenen"
+      ],
+      "Recover data": [
+        "Gegevens herstellen"
+      ],
+      "Rename a file": [
+        "Hernoem een bestand"
+      ],
+      "Rename a folder": [
+        "Een map hernoemen"
+      ],
+      "Report a problem": [
+        "Meld een probleem"
+      ],
+      "Request new code": [
+        "Nieuwe code aanvragen"
+      ],
+      "Restore your files": [
+        "Herstel uw bestanden"
+      ],
+      "Search results": [
+        "Zoekresultaten"
+      ],
+      "Searching…": [
+        "Zoeken…"
+      ],
+      "Select a theme": [
+        "Kies een thema"
+      ],
+      "Select action to take on contact group": [
+        "Selecteer actie voor de contactgroep"
+      ],
+      "Select contact group": [
+        "Contactgroep selecteren"
+      ],
+      "Select link expiration date": [
+        "Selecteer vervaldatum link"
+      ],
+      "Select link expiration time": [
+        "Selecteer vervaltijd link"
+      ],
+      "Settings": [
+        "Instellingen"
+      ],
+      "Share via link": [
+        "Deel via link"
+      ],
+      "Shared": [
+        "Gedeeld"
+      ],
+      "Show actions": [
+        "Actie weergeven"
+      ],
+      "Sign in again to continue": [
+        "Log opnieuw in om door te gaan"
+      ],
+      "Sign in and grant access": [
+        "Inloggen en toegang verlenen"
+      ],
+      "Size": [
+        "Grootte"
+      ],
+      "Sort files/folders": [
+        "Sorteer bestanden/mappen"
+      ],
+      "Stop sharing": [
+        "Delen stoppen"
+      ],
+      "Stop sharing with everyone?": [
+        "Stop het delen met iedereen?"
+      ],
+      "Stop transfers?": [
+        "Overdrachten stoppen?"
+      ],
+      "The file or folder failed to be downloaded": [
+        "Het bestand of de map kon niet worden gedownload"
+      ],
+      "The internet connection was interrupted": [
+        "De internetverbinding werd onderbroken"
+      ],
+      "The link does not exist": [
+        "De link bestaat niet"
+      ],
+      "The link either does not exist or has expired": [
+        "De link bestaat niet of is verlopen"
+      ],
+      "The link failed to be loaded": [
+        "De link kon niet worden geladen"
+      ],
+      "This file has a missing or invalid signature. Go to Menu (⋮) → Details for info.": [
+        "Het bestand heeft een ontbrekende of ongeldige handtekening. Ga naar Menu (⋮) → Details voor info."
+      ],
+      "This folder has a missing or invalid signature. Go to Menu (⋮) → Details for info.": [
+        "De map heeft een ontbrekende of ongeldige handtekening. Ga naar Menu (⋮) → Details voor info."
+      ],
+      "Total size": [
+        "Totale grootte"
+      ],
+      "Trash": [
+        "Prullenbak"
+      ],
+      "Type": [
+        "Soort"
+      ],
+      "Upgrade required": [
+        "Upgrade vereist"
+      ],
+      "Uploaded": [
+        "Geüpload"
+      ],
+      "Uploaded by": [
+        "Geüpload door"
+      ],
+      "View contacts": [
+        "Contactpersonen weergeven"
+      ],
+      "Warning": [
+        "Waarschuwing"
+      ],
+      "Warning: suspected fake website": [
+        "Waarschuwing: vermoedelijk valse website"
+      ],
+      "What would you like to import?": [
+        "Wat zou u willen importeren?"
+      ],
+      "What's new": [
+        "Wat is er nieuw"
+      ],
+      "You have inaccessible files": [
+        "U hebt ontoegankelijke bestanden"
+      ],
+      "You have no files to share": [
+        "U heeft geen bestanden om te delen"
+      ],
+      "You have no folders yet": [
+        "U hebt nog geen mappen"
+      ],
+      "Your file is ready to be downloaded": [
+        "Uw bestand is klaar om te worden gedownload"
+      ],
+      "Your folder is ready to be downloaded": [
+        "Uw map is klaar om te worden gedownload"
+      ],
+      "Your free trial ends soon, on ${ formattedEndDate }": [
+        "Uw gratis proefversie eindigt weldra, op ${ formattedEndDate }"
+      ]
+    },
+    "Today icon tooltip in mini calendar": {
+      "Today": [
+        "Vandaag"
+      ]
+    },
+    "Tooltip": {
+      "Automatic indicates that the format in the composer is used to send to this user. Plain text indicates that the message will always be converted to plain text on send.": [
+        "Automatisch betekent dat tekst met rijke opmaak gebruikt wordt, zoals in het opstelvenster. Platte tekst geeft aan dat het bericht altijd wordt omgezet naar tekst zonder opmaak voordat het wordt verzonden."
+      ],
+      "Digitally signing emails helps authenticating that messages are sent by you": [
+        "Digitaal ondertekenen van e-mails helpt bij het verifiëren van berichten die door u worden verzonden"
+      ],
+      "Each imported email will have this label": [
+        "Elke geïmporteerde e-mail heeft dit label"
+      ],
+      "Email encryption forces email signature to help authenticate your sent messages": [
+        "E-mail encryptie dwingt e-mail handtekening om uw verzonden berichten te verifiëren"
+      ],
+      "Encrypted data": [
+        "Versleutelde gegevens"
+      ],
+      "Encrypted data with verified digital signature": [
+        "Versleutelde gegevens met geverifieerde digitale ondertekening"
+      ],
+      "Select the PGP scheme to be used when signing or encrypting to a user. Note that PGP/Inline forces plain text messages": [
+        "Selecteer het PGP-schema dat wordt gebruikt bij het ondertekenen of versleutelen naar een gebruiker. Merk op dat PGP/Inline berichten zonder opmaak forceert"
+      ],
+      "System subfolders will show up as separate folders in ${ MAIL_APP_NAME }": [
+        "Systeemsubmappen worden weergegeven als aparte mappen in ${ MAIL_APP_NAME }"
+      ],
+      "The import will start with the most recent messages.": [
+        "Het importeren begint met de meest recente berichten."
+      ],
+      "Upload a public key to enable sending end-to-end encrypted emails to this email": [
+        "Upload een publieke sleutel om het verzenden van versleutelde end-to-end e-mails naar dit e-mailadres mogelijk te maken"
+      ],
+      "You do not have any contacts to export": [
+        "U heeft geen contactpersonen om te exporteren"
+      ]
+    },
+    "Validation": {
+      "Password must contain at least ${ length } character": [
+        "Wachtwoord moet ten minste ${ length } teken bevatten",
+        "Wachtwoord moet ten minste ${ length } tekens bevatten"
+      ]
+    },
+    "Validation Error": {
+      "\"${ str }\" is not a valid name": [
+        "\"${ str }\" is geen geldige naam"
+      ],
+      "Name cannot include invisible characters, / or \\.": [
+        "Naam mag niet onzichtbare tekens bevatten, / of \\."
+      ],
+      "Name must be ${ MAX_NAME_LENGTH } characters long at most": [
+        "Naam mag maximaal ${ MAX_NAME_LENGTH } tekens lang zijn"
+      ],
+      "Name must not be empty": [
+        "Naam mag niet leeg zijn"
+      ],
+      "Name must not begin with a space": [
+        "Naam mag niet beginnen met een spatie"
+      ],
+      "Name must not end with a space": [
+        "Naam mag niet eindigen met een spatie"
+      ]
+    },
+    "Video control": {
+      "Click to replay the video": [
+        "Klik om de video opnieuw af te spelen"
+      ],
+      "Replay video": [
+        "Video opnieuw afspelen"
+      ]
+    },
+    "Warning": {
+      "Are you sure you want to permanently delete ${ count } contact group?": [
+        "Weet u zeker dat u ${ count } contactgroep permanent wilt verwijderen?",
+        "Weet u zeker dat u ${ count } contactgroepen permanent wilt verwijderen?"
+      ],
+      "Are you sure you want to permanently delete ${ count } contact?": [
+        "Weet u zeker dat u ${ count } contactpersoon permanent wil verwijderen?",
+        "Weet u zeker dat u ${ count } contactpersonen permanent wil verwijderen?"
+      ],
+      "Are you sure you want to permanently delete this contact group?": [
+        "Weet u zeker dat u deze contactgroep permanent wilt verwijderen?"
+      ],
+      "Are you sure you want to permanently delete this contact?": [
+        "Weet u zeker dat u dit contact permanent wilt verwijderen?"
+      ],
+      "Contacts could not be merged": [
+        "Contacten konden niet samengevoegd worden"
+      ],
+      "If you don’t remember your password, it is impossible to re-activate your key. We can help you dismiss the alert banner but in the process you will permanently lose access to all the data encrypted with that key.": [
+        "Als u uw wachtwoord niet meer weet, is het onmogelijk om uw sleutel opnieuw te activeren. We kunnen u helpen om de waarschuwingsbanner te verwijderen, maar in het proces zult u permanent toegang verliezen tot alle gegevens die versleuteld zijn met die sleutel."
+      ],
+      "Live chat is a premium feature available only to those with paid ${ VPN_APP_NAME } plans. Please open a ticket instead.": [
+        "Live chat is een premium functie alleen beschikbaar voor degenen met betaalde ${ VPN_APP_NAME } abonnementen. Gelieve in plaats daarvan een ticket te openen."
+      ],
+      "Proton will merge all folders with the same name. To avoid this, change the names before import.": [
+        "Proton zal alle mappen met dezelfde naam samenvoegen. Om dit te voorkomen, verander de namen voordat ze geïmporteerd worden."
+      ],
+      "Reports are not end-to-end encrypted, please do not send any sensitive information.": [
+        "Rapporten zijn niet versleuteld met end-to-end-versleuteling, stuur geen gevoelige informatie."
+      ],
+      "Some of the contacts to be merged display errors. Please review them individually": [
+        "Sommige van de contacten die moeten worden samengevoegd tonen fouten. Controleer ze individueel"
+      ],
+      "The contact data is corrupted and cannot be displayed.": [
+        "De gegevens van de contactpersoon zijn beschadigd en kunnen niet worden weergegeven."
+      ],
+      "The contact failed to load.": [
+        "Het laden van het contactpersoon is mislukt."
+      ],
+      "The date and time settings on your device are out of sync. ${ learnMore }": [
+        "De datum- en tijdinstellingen op uw apparaat zijn niet meer gesynchroniseerd. ${ learnMore }"
+      ],
+      "The decryption of the encrypted content failed.": [
+        "Decoderen van de versleutelde inhoud is mislukt."
+      ],
+      "The verification of the contact details' signature failed.": [
+        "De verificatie van de handtekening van de contactgegevens is mislukt."
+      ],
+      "This action is irreversible. Please enter the word ${ boldDanger } in the field to proceed.": [
+        "Deze actie is onomkeerbaar. Voer het woord ${ boldDanger } in het veld in om door te gaan."
+      ],
+      "This feature requires a paid Proton account": [
+        "Deze functie vereist een betaald Proton-account"
+      ],
+      "Unfortunately, we’re not online at the moment. Please complete the form below to describe your issue, and we will look into it and be in touch when we’re back online.": [
+        "Helaas zijn wij op dit moment niet online. Beschrijf uw probleem in onderstaand formulier en we kijken ernaar en nemen contact met u op zodra we weer online zijn."
+      ],
+      "You will lose any customization you made so far.": [
+        "U verliest elke aanpassing die u tot nu toe hebt gemaakt."
+      ],
+      "Your free trial ends on ${ textDate }. ${ action }": [
+        "Uw gratis proefversie eindigt op ${ textDate }. ${ action }"
+      ]
+    }
+  }
+}
