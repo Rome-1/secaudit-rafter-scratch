@@ -1,0 +1,144 @@
+name: Integration Tests
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+  workflow_dispatch:
+
+env:
+  GO_VERSION: "1.22"
+  DAGGER_VERSION: "0.13.3"
+
+concurrency:
+  group: "${{ github.workflow }}-${{ github.head_ref || github.ref }}"
+  cancel-in-progress: true
+
+jobs:
+  cli:
+    name: CLI Integration Tests
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Free Disk Space
+        uses: jlumbroso/free-disk-space@v1.3.1
+        with:
+          # Runs quick, run rm in background
+          tool-cache: true
+
+          # These run slower as use apt to uninstall packages
+          # Turned on by default, so we disable them
+          android: false
+          dotnet: false
+          haskell: false
+          large-packages: false
+          docker-images: false
+          swap-storage: false
+
+      - name: Run CLI Tests
+        uses: dagger/dagger-for-github@v6
+        with:
+          verb: call
+          version: ${{ env.DAGGER_VERSION }}
+          args: test --source .:default cli
+          cloud-token: ${{ secrets.DAGGER_CLOUD_TOKEN }}
+
+  test:
+    name: Integration Tests
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    strategy:
+      fail-fast: false
+      matrix:
+        test:
+          [
+            "api/sqlite",
+            "api/libsql",
+            "api/postgres",
+            "api/mysql",
+            "api/cockroach",
+            "api/cache",
+            "api/cachetls",
+            "api/snapshot",
+            "api/ofrep",
+            "fs/git",
+            "fs/local",
+            "fs/s3",
+            "fs/oci",
+            "fs/azblob",
+            "fs/gcs",
+            "import/export",
+            "authn",
+            "authz",
+            "audit/webhook",
+            "audit/webhooktmpl",
+          ]
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Free Disk Space
+        uses: jlumbroso/free-disk-space@v1.3.1
+        with:
+          # Runs quick, run rm in background
+          tool-cache: true
+
+          # These run slower as use apt to uninstall packages
+          # Turned on by default, so we disable them
+          android: false
+          dotnet: false
+          haskell: false
+          large-packages: false
+          docker-images: false
+          swap-storage: false
+
+      - run: echo "INTEGRATION_TEST_NAME=${{ matrix.test }}" | tr '/' '-' >> $GITHUB_ENV
+
+      - name: Run Integration Tests
+        uses: dagger/dagger-for-github@v6
+        with:
+          verb: call
+          version: ${{ env.DAGGER_VERSION }}
+          args: test --source .:default integration --cases ${{ matrix.test }}
+          cloud-token: ${{ secrets.DAGGER_CLOUD_TOKEN }}
+
+      - name: Upload Flipt Service Logs
+        uses: actions/upload-artifact@v4
+        if: ${{ always() }}
+        with:
+          name: "build-logs-${{ env.INTEGRATION_TEST_NAME }}"
+          path: "build/logs"
+          retention-days: 5
+
+  ui:
+    name: UI Integration Tests
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Free Disk Space
+        uses: jlumbroso/free-disk-space@v1.3.1
+        with:
+          # Runs quick, run rm in background
+          tool-cache: true
+
+          # These run slower as use apt to uninstall packages
+          # Turned on by default, so we disable them
+          android: false
+          dotnet: false
+          haskell: false
+          large-packages: false
+          docker-images: false
+          swap-storage: false
+
+      - name: Run UI Tests
+        uses: dagger/dagger-for-github@v6
+        with:
+          verb: call
+          version: ${{ env.DAGGER_VERSION }}
+          args: test --source .:default ui
+          cloud-token: ${{ secrets.DAGGER_CLOUD_TOKEN }}
