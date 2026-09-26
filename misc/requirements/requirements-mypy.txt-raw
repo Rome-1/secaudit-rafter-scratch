@@ -1,0 +1,10 @@
+mypy
+lxml  # For HTML reports
+diff-cover
+
+PyQt5-stubs
+types-PyYAML
+
+# So stubs are available even on newer Python versions
+importlib_resources
+importlib_metadata
