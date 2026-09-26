@@ -1,0 +1,11 @@
+@import '~@proton/styles/scss/config';
+
+.settings-layout {
+	display: flex;
+	flex-wrap: nowrap;
+	margin-block-end: 1em;
+
+	@include media('<=small') {
+		flex-direction: column;
+	}
+}

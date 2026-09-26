@@ -1,0 +1,25 @@
+import { c } from 'ttag';
+
+import { DecryptedLink, useActions } from '../../../../store';
+import { ContextMenuButton } from '../../ContextMenu';
+
+interface Props {
+    selectedLinks: DecryptedLink[];
+    close: () => void;
+}
+
+const MoveToTrashButton = ({ selectedLinks, close }: Props) => {
+    const { trashLinks } = useActions();
+
+    return (
+        <ContextMenuButton
+            name={c('Action').t`Move to trash`}
+            icon="trash"
+            testId="context-menu-trash"
+            action={() => trashLinks(new AbortController().signal, selectedLinks)}
+            close={close}
+        />
+    );
+};
+
+export default MoveToTrashButton;

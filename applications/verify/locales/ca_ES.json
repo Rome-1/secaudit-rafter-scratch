@@ -1,0 +1,1075 @@
+{
+  "headers": {
+    "plural-forms": "nplurals=2; plural=(n != 1);",
+    "language": "ca_ES"
+  },
+  "contexts": {
+    "Action": {
+      "Authenticate": [
+        "Autenticar"
+      ],
+      "Back": [
+        "Torna"
+      ],
+      "Cancel": [
+        "Cancel·la"
+      ],
+      "Close": [
+        "Tanca"
+      ],
+      "Continue": [
+        "Continua"
+      ],
+      "Edit email address": [
+        "Edita l'adreça de correu"
+      ],
+      "Edit phone number": [
+        "Edita el número de telèfon"
+      ],
+      "Edit sign-in details": [
+        "Edita detalls d'inici de sessió"
+      ],
+      "Get verification code": [
+        "Obtenir codi de verificació"
+      ],
+      "More info: ${ safeTitle }": [
+        "Més informació: ${ safeTitle }"
+      ],
+      "refresh the page": [
+        "refresqueu la pàgina"
+      ],
+      "Request new code": [
+        "Demana un nou codi"
+      ],
+      "Resend code": [
+        "Reenvia codi"
+      ],
+      "Search countries": [
+        "Cerca països"
+      ],
+      "Submit": [
+        "Envia"
+      ],
+      "Try another method": [
+        "Proveu amb un altre mètode"
+      ],
+      "Use authentication code": [
+        "Utilitzar el codi d'autenticació"
+      ],
+      "Use recovery code": [
+        "Utilitzar un codi de recuperació"
+      ],
+      "Verify": [
+        "Verifica"
+      ],
+      "Verify account": [
+        "Verifiqueu el compte"
+      ],
+      "View invoice": [
+        "Mostra la factura"
+      ]
+    },
+    "Country name": {
+      "Abkhazia": [
+        "Abkhàzia"
+      ],
+      "Afghanistan": [
+        "Afganistan"
+      ],
+      "Albania": [
+        "Albània"
+      ],
+      "Algeria": [
+        "Algèria"
+      ],
+      "American Samoa": [
+        "Samoa Americana"
+      ],
+      "Andorra": [
+        "Andorra"
+      ],
+      "Angola": [
+        "Angola"
+      ],
+      "Anguilla": [
+        "Anguila"
+      ],
+      "Antarctica": [
+        "Antàrtida"
+      ],
+      "Antigua and Barbuda": [
+        "Antigua i Barbuda"
+      ],
+      "Argentina": [
+        "Argentina"
+      ],
+      "Armenia": [
+        "Armènia"
+      ],
+      "Aruba": [
+        "Aruba"
+      ],
+      "Ascension Island": [
+        "Illa de l'Ascensió"
+      ],
+      "Australia": [
+        "Austràlia"
+      ],
+      "Austria": [
+        "Àustria"
+      ],
+      "Azerbaijan": [
+        "Azerbaidjan"
+      ],
+      "Bahamas": [
+        "Bahames"
+      ],
+      "Bahrain": [
+        "Bahrain"
+      ],
+      "Bangladesh": [
+        "Bangladesh"
+      ],
+      "Barbados": [
+        "Barbados"
+      ],
+      "Belarus": [
+        "Belarús"
+      ],
+      "Belgium": [
+        "Bèlgica"
+      ],
+      "Belize": [
+        "Belize"
+      ],
+      "Benin": [
+        "Benín"
+      ],
+      "Bermuda": [
+        "Bermudes"
+      ],
+      "Bhutan": [
+        "Bhutan"
+      ],
+      "Bolivia": [
+        "Bolívia"
+      ],
+      "Bonaire, Sint Eustatius and Saba": [
+        "Bonaire, Sint Eustatius i Saba"
+      ],
+      "Bosnia and Herzegovina": [
+        "Bòsnia i Hercegovina"
+      ],
+      "Botswana": [
+        "Botswana"
+      ],
+      "Bouvet Island": [
+        "Illa Bouvet"
+      ],
+      "Brazil": [
+        "Brasil"
+      ],
+      "British Indian Ocean Territory": [
+        "Territori Britànic de l'Oceà Índic"
+      ],
+      "Brunei Darussalam": [
+        "Brunei Darussalam"
+      ],
+      "Bulgaria": [
+        "Bulgària"
+      ],
+      "Burkina Faso": [
+        "Burkina Faso"
+      ],
+      "Burundi": [
+        "Burundi"
+      ],
+      "Cambodia": [
+        "Cambodja"
+      ],
+      "Cameroon": [
+        "Camerun"
+      ],
+      "Canada": [
+        "Canadà"
+      ],
+      "Cape Verde": [
+        "Cap Verd"
+      ],
+      "Cayman Islands": [
+        "Illes Caimà"
+      ],
+      "Central African Republic": [
+        "República Centreafricana"
+      ],
+      "Chad": [
+        "Txad"
+      ],
+      "Chile": [
+        "Xile"
+      ],
+      "China": [
+        "Xina"
+      ],
+      "Christmas Island": [
+        "Illa Christmas"
+      ],
+      "Cocos (Keeling) Islands": [
+        "Illes Cocos (Keeling)"
+      ],
+      "Colombia": [
+        "Colòmbia"
+      ],
+      "Comoros": [
+        "Les Comores"
+      ],
+      "Congo": [
+        "Congo"
+      ],
+      "Congo, Democratic Republic of the": [
+        "Congo, República Democràtica del"
+      ],
+      "Cook Islands": [
+        "Illes Cook"
+      ],
+      "Costa Rica": [
+        "Costa Rica"
+      ],
+      "Croatia": [
+        "Croàcia"
+      ],
+      "Cuba": [
+        "Cuba"
+      ],
+      "Curaçao": [
+        "Curaçao"
+      ],
+      "Cyprus": [
+        "Xipre"
+      ],
+      "Czech Republic": [
+        "República Txeca"
+      ],
+      "Côte d'Ivoire": [
+        "Costa d'Ivori"
+      ],
+      "Denmark": [
+        "Dinamarca"
+      ],
+      "Djibouti": [
+        "Djibouti"
+      ],
+      "Dominica": [
+        "Dominica"
+      ],
+      "Dominican Republic": [
+        "República Dominicana"
+      ],
+      "Ecuador": [
+        "Equador"
+      ],
+      "Egypt": [
+        "Egipte"
+      ],
+      "El Salvador": [
+        "El Salvador"
+      ],
+      "Equatorial Guinea": [
+        "Guinea Equatorial"
+      ],
+      "Eritrea": [
+        "Eritrea"
+      ],
+      "Estonia": [
+        "Estònia"
+      ],
+      "Eswatini": [
+        "Eswatini"
+      ],
+      "Ethiopia": [
+        "Etiòpia"
+      ],
+      "Falkland Islands": [
+        "Illes Flkland"
+      ],
+      "Faroe Islands": [
+        "Illes Fèroe"
+      ],
+      "Federated States of Micronesia": [
+        "Estats Federats de Micronèsia"
+      ],
+      "Fiji": [
+        "Fiji"
+      ],
+      "Finland": [
+        "Finlàndia"
+      ],
+      "France": [
+        "França"
+      ],
+      "French Guiana": [
+        "Guaiana Francesa"
+      ],
+      "French Polynesia": [
+        "Polinèsia Francesa"
+      ],
+      "French Southern Territories": [
+        "Territoris Francesos del Sud"
+      ],
+      "Gabon": [
+        "Gabon"
+      ],
+      "Gambia": [
+        "Gàmbia"
+      ],
+      "Georgia": [
+        "Geòrgia"
+      ],
+      "Germany": [
+        "Alemanya"
+      ],
+      "Ghana": [
+        "Ghana"
+      ],
+      "Gibraltar": [
+        "Gibraltar"
+      ],
+      "Greece": [
+        "Grècia"
+      ],
+      "Greenland": [
+        "Groenlàndia"
+      ],
+      "Grenada": [
+        "Granada"
+      ],
+      "Guadeloupe": [
+        "Guadalupe"
+      ],
+      "Guam": [
+        "Guam"
+      ],
+      "Guatemala": [
+        "Guatemala"
+      ],
+      "Guernsey": [
+        "Guernsey"
+      ],
+      "Guinea": [
+        "Guinea"
+      ],
+      "Guinea-Bissau": [
+        "Guinea-Bissau"
+      ],
+      "Guyana": [
+        "Guyana"
+      ],
+      "Haiti": [
+        "Haití"
+      ],
+      "Heard Island and McDonald Islands": [
+        "Illa Heard i Illes McDonald"
+      ],
+      "Holy See (Vatican City State)": [
+        "Santa Seu (Estat de la Ciutat del Vaticà)"
+      ],
+      "Honduras": [
+        "Hondures"
+      ],
+      "Hong Kong": [
+        "Hong Kong"
+      ],
+      "Hungary": [
+        "Hongria"
+      ],
+      "Iceland": [
+        "Islàndia"
+      ],
+      "India": [
+        "Índia"
+      ],
+      "Indonesia": [
+        "Indonèsia"
+      ],
+      "International": [
+        "Internacional"
+      ],
+      "Iran": [
+        "Iran"
+      ],
+      "Iraq": [
+        "Iraq"
+      ],
+      "Ireland": [
+        "Irlanda"
+      ],
+      "Isle of Man": [
+        "Illa de Man"
+      ],
+      "Israel": [
+        "Israel"
+      ],
+      "Italy": [
+        "Itàlia"
+      ],
+      "Jamaica": [
+        "Jamaica"
+      ],
+      "Japan": [
+        "Japó"
+      ],
+      "Jersey": [
+        "Jersey"
+      ],
+      "Jordan": [
+        "Jordània"
+      ],
+      "Kazakhstan": [
+        "Kazakhstan"
+      ],
+      "Kenya": [
+        "Kènia"
+      ],
+      "Kiribati": [
+        "Kiribati"
+      ],
+      "Kosovo": [
+        "Kosovo"
+      ],
+      "Kuwait": [
+        "Kuwait"
+      ],
+      "Kyrgyzstan": [
+        "Kirguizstan"
+      ],
+      "Laos": [
+        "Laos"
+      ],
+      "Latvia": [
+        "Letònia"
+      ],
+      "Lebanon": [
+        "Líban"
+      ],
+      "Lesotho": [
+        "Lesotho"
+      ],
+      "Liberia": [
+        "Libèria"
+      ],
+      "Libya": [
+        "Líbia"
+      ],
+      "Liechtenstein": [
+        "Liechtenstein"
+      ],
+      "Lithuania": [
+        "Lituània"
+      ],
+      "Luxembourg": [
+        "Luxemburg"
+      ],
+      "Macao": [
+        "Macau"
+      ],
+      "Madagascar": [
+        "Madagascar"
+      ],
+      "Malawi": [
+        "Malawi"
+      ],
+      "Malaysia": [
+        "Malàisia"
+      ],
+      "Maldives": [
+        "Illes Maldives"
+      ],
+      "Mali": [
+        "Mali"
+      ],
+      "Malta": [
+        "Malta"
+      ],
+      "Marshall Islands": [
+        "Illes Marshall"
+      ],
+      "Martinique": [
+        "Martinica"
+      ],
+      "Mauritania": [
+        "Mauritània"
+      ],
+      "Mauritius": [
+        "Illes Maurici"
+      ],
+      "Mayotte": [
+        "Mayotte"
+      ],
+      "Mexico": [
+        "Mèxic"
+      ],
+      "Moldova": [
+        "Moldàvia"
+      ],
+      "Monaco": [
+        "Mònaco"
+      ],
+      "Mongolia": [
+        "Mongòlia"
+      ],
+      "Montenegro": [
+        "Montenegro"
+      ],
+      "Montserrat": [
+        "Montserrat"
+      ],
+      "Morocco": [
+        "Marroc"
+      ],
+      "Mozambique": [
+        "Moçambic"
+      ],
+      "Myanmar": [
+        "Myanmar"
+      ],
+      "Namibia": [
+        "Namíbia"
+      ],
+      "Nauru": [
+        "Nauru"
+      ],
+      "Nepal": [
+        "Nepal"
+      ],
+      "Netherlands": [
+        "Països Baixos"
+      ],
+      "New Caledonia": [
+        "Nova Caledònia"
+      ],
+      "New Zealand": [
+        "Nova Zelanda"
+      ],
+      "Nicaragua": [
+        "Nicaragua"
+      ],
+      "Niger": [
+        "Níger"
+      ],
+      "Nigeria": [
+        "Nigèria"
+      ],
+      "Niue": [
+        "Niue"
+      ],
+      "Norfolk Island": [
+        "Illa Norfolk"
+      ],
+      "North Korea": [
+        "Corea del Nord"
+      ],
+      "North Macedonia": [
+        "Macedònia del Nord"
+      ],
+      "Northern Mariana Islands": [
+        "Illes Marianes del Nord"
+      ],
+      "Norway": [
+        "Noruega"
+      ],
+      "Oman": [
+        "Oman"
+      ],
+      "Pakistan": [
+        "Pakistan"
+      ],
+      "Palau": [
+        "Palau"
+      ],
+      "Palestine": [
+        "Palestina"
+      ],
+      "Panama": [
+        "Panamà"
+      ],
+      "Papua New Guinea": [
+        "Papua Nova Guinea"
+      ],
+      "Paraguay": [
+        "Paraguai"
+      ],
+      "Peru": [
+        "Perú"
+      ],
+      "Philippines": [
+        "Illes Filipines"
+      ],
+      "Pitcairn": [
+        "Illes Pitcairn"
+      ],
+      "Poland": [
+        "Polònia"
+      ],
+      "Portugal": [
+        "Portugal"
+      ],
+      "Puerto Rico": [
+        "Puerto Rico"
+      ],
+      "Qatar": [
+        "Qatar"
+      ],
+      "Reunion": [
+        "Illa de la Reunió"
+      ],
+      "Romania": [
+        "Romania"
+      ],
+      "Russia": [
+        "Rússia"
+      ],
+      "Rwanda": [
+        "Ruanda"
+      ],
+      "Saint Barthélemy": [
+        "Sant Bartomeu"
+      ],
+      "Saint Helena": [
+        "Santa Helena"
+      ],
+      "Saint Kitts and Nevis": [
+        "Illa de Sant Christopher i Nevis"
+      ],
+      "Saint Lucia": [
+        "Saint Lucia"
+      ],
+      "Saint Martin (French Part)": [
+        "Saint Martin (Part Francesa)"
+      ],
+      "Saint Pierre and Miquelon": [
+        "Sant Pere i Miquelon"
+      ],
+      "Saint Vincent and the Grenadines": [
+        "Saint Vincent i les Grenadines"
+      ],
+      "Samoa": [
+        "Samoa"
+      ],
+      "San Marino": [
+        "San Marino"
+      ],
+      "Sao Tome and Principe": [
+        "São Tomé i Príncipe"
+      ],
+      "Saudi Arabia": [
+        "Aràbia Saudita"
+      ],
+      "Senegal": [
+        "Senegal"
+      ],
+      "Serbia": [
+        "Sèrbia"
+      ],
+      "Seychelles": [
+        "Seychelles"
+      ],
+      "Sierra Leone": [
+        "Sierra Leone"
+      ],
+      "Singapore": [
+        "Singapur"
+      ],
+      "Sint Maarten": [
+        "Saint-Martin"
+      ],
+      "Slovakia": [
+        "Eslovàquia"
+      ],
+      "Slovenia": [
+        "Eslovènia"
+      ],
+      "Solomon Islands": [
+        "Illes Salomó"
+      ],
+      "Somalia": [
+        "Somàlia"
+      ],
+      "South Africa": [
+        "Sud-àfrica"
+      ],
+      "South Georgia and the South Sandwich Islands": [
+        "Illes Geòrgia del Sud i Sandwich del Sud"
+      ],
+      "South Korea": [
+        "Corea del Sud"
+      ],
+      "South Ossetia": [
+        "Ossètia del Sud"
+      ],
+      "South Sudan": [
+        "Sudan del Sud"
+      ],
+      "Spain": [
+        "Espanya"
+      ],
+      "Sri Lanka": [
+        "Sri Lanka"
+      ],
+      "Sudan": [
+        "Sudan"
+      ],
+      "Suriname": [
+        "Surinam"
+      ],
+      "Svalbard and Jan Mayen": [
+        "Svalbard i Jan Mayen"
+      ],
+      "Sweden": [
+        "Suècia"
+      ],
+      "Switzerland": [
+        "Suïssa"
+      ],
+      "Syria": [
+        "Síria"
+      ],
+      "Taiwan": [
+        "Taiwan"
+      ],
+      "Tajikistan": [
+        "Tadjikistan"
+      ],
+      "Tanzania": [
+        "Tanzània"
+      ],
+      "Thailand": [
+        "Tailàndia"
+      ],
+      "Timor-Leste": [
+        "Timor-Leste"
+      ],
+      "Togo": [
+        "Togo"
+      ],
+      "Tokelau": [
+        "Tokelau"
+      ],
+      "Tonga": [
+        "Tonga"
+      ],
+      "Trinidad and Tobago": [
+        "Trinitat i Tobago"
+      ],
+      "Tristan da Cunha": [
+        "Tristan da Cunha"
+      ],
+      "Tunisia": [
+        "Tunísia"
+      ],
+      "Turkey": [
+        "Turquia"
+      ],
+      "Turkmenistan": [
+        "Turkmenistan"
+      ],
+      "Turks and Caicos Islands": [
+        "Illes Turks i Caicos"
+      ],
+      "Tuvalu": [
+        "Tuvalu"
+      ],
+      "Uganda": [
+        "Uganda"
+      ],
+      "Ukraine": [
+        "Ucraïna"
+      ],
+      "United Arab Emirates": [
+        "Emirats Àrabs Units"
+      ],
+      "United Kingdom": [
+        "Regne Unit"
+      ],
+      "United States": [
+        "Estats Units"
+      ],
+      "United States Minor Outlying Islands": [
+        "Illes Menors dels Estats Units"
+      ],
+      "Uruguay": [
+        "Uruguai"
+      ],
+      "Uzbekistan": [
+        "Uzbekistan"
+      ],
+      "Vanuatu": [
+        "Vanuatu"
+      ],
+      "Venezuela": [
+        "Veneçuela"
+      ],
+      "Vietnam": [
+        "Vietnam"
+      ],
+      "Virgin Islands, British": [
+        "Illes Verges, Britàniques"
+      ],
+      "Virgin Islands, U.S.": [
+        "Illes Verges, Americanes"
+      ],
+      "Wallis and Futuna": [
+        "Wallis i Futuna"
+      ],
+      "Western Sahara": [
+        "Sàhara Occidental"
+      ],
+      "Yemen": [
+        "Iemen"
+      ],
+      "Zambia": [
+        "Zàmbia"
+      ],
+      "Zimbabwe": [
+        "Zimbàbue"
+      ],
+      "Åland Islands": [
+        "Illes Aland"
+      ]
+    },
+    "Delinquent modal title": {
+      "Overdue invoice": [
+        "Factura vençuda"
+      ]
+    },
+    "Error": {
+      "Email is not valid": [
+        "El correu electrònic no és vàlid"
+      ],
+      "Enter 6 digits": [
+        "Introduïu 6 dígits"
+      ],
+      "Invalid verification code": [
+        "Codi de verificació no vàlid"
+      ],
+      "Not a valid number": [
+        "Número no vàlid"
+      ],
+      "Passwords do not match": [
+        "Les contrasenyes no coincideixen"
+      ],
+      "Request timed out": [
+        "S'ha esgotat el temps d'espera"
+      ],
+      "This field is required": [
+        "Aquest camp és obligatori"
+      ],
+      "This field requires a minimum of ${ minimumLength } characters.": [
+        "Aquest camp requereix un mínim de ${ minimumLength } caràcters."
+      ],
+      "Try using only letters, numerals, and _.-": [
+        "Intenteu utilitzant només lletres, numèrics, i _.-"
+      ],
+      "Unknown error": [
+        "Error desconegut"
+      ]
+    },
+    "Error message": {
+      "Error: ${ errorMessage }": [
+        "Error: ${ errorMessage }"
+      ],
+      "Oops, something went wrong": [
+        "Vaja, alguna cosa ha anat malament"
+      ],
+      "Please ${ refresh } or check your connection.": [
+        "Si us play, ${ refresh } o comproveu la vostra connexió."
+      ],
+      "Something went wrong. Please refresh the page or try again later.": [
+        "Alguna cosa ha anat malament. Actualitzeu la pàgina o torneu-ho a provar més tard."
+      ],
+      "There was a problem connecting to ${ BRAND_NAME }.": [
+        "S'ha produït un problema en connectar amb ${ BRAND_NAME }."
+      ],
+      "You may also ${ refresh } or try again later.": [
+        "També podeu ${ refresh } o tornar-ho a intentar més tard."
+      ]
+    },
+    "fido2: Info": {
+      "Security key": [
+        "Clau de seguretat"
+      ]
+    },
+    "fido2: Label": {
+      "Security key": [
+        "Clau de seguretat"
+      ]
+    },
+    "Human verification method": {
+      "CAPTCHA": [
+        "CAPTCHA"
+      ],
+      "Email": [
+        "Correu electrònic"
+      ],
+      "Manual": [
+        "Manual"
+      ],
+      "No verification method available": [
+        "Cap mètode de verificació disponible"
+      ],
+      "SMS": [
+        "SMS"
+      ]
+    },
+    "Info": {
+      "Before requesting a new verification code, check your spam folder and check that ${ strong } is the correct address.": [
+        "Abans de sol·licitar un nou codi de verificació, reviseu la carpeta de correu brossa i si ${ strong } és l'adreça correcta."
+      ],
+      "Click \"Request new code\" to have a new verification code sent to ${ strong }. If this phone number is incorrect, click \"Edit\" to correct it.": [
+        "Feu clic a \"Sol·licitar un nou codi\" per rebre un codi de verificació nou a ${ strong }. Si aquest número de telèfon és incorrecte, feu clic a \"Editar\" per corregir-lo."
+      ],
+      "Each code can only be used once": [
+        "Cada codi només es pot utilitzar una vegada."
+      ],
+      "Enter the code from your authenticator app": [
+        "Introduïu el codi de la vostra app d'autenticació."
+      ],
+      "Enter the verification code that was sent to ${ destinationText }.": [
+        "Introduïu el codi de verificació que s’ha enviat a ${ destinationText }."
+      ],
+      "Enter verification code. Digit ${ digit }.": [
+        "Entreu el codi de verificació. Dígit ${ digit }."
+      ],
+      "Enter your own password (as organization admin).": [
+        "Introduïu la vostra contrasenya (com a administrador d'organització)."
+      ],
+      "If you are having trouble creating your account, please request an invitation and we will respond within one business day.": [
+        "Si teniu problemes per crear el vostre compte, sol·liciteu una invitació i us respondrem en un dia laborable."
+      ],
+      "If you don't find the email in your inbox, please check your spam folder.": [
+        "Si no trobeu el correu electrònic a la safata d'entrada, comproveu la vostra carpeta de correu brossa."
+      ],
+      "Internet connection lost": [
+        "S'ha perdut la connexió a Internet"
+      ],
+      "Learn more": [
+        "Més informació"
+      ],
+      "Loading": [
+        "Carregant"
+      ],
+      "No results found": [
+        "No s'han trobat resultats"
+      ],
+      "Servers are unreachable. Please try again in a few minutes": [
+        "Servidors inaccessibles. Torneu a provar-ho en uns minuts"
+      ],
+      "Session timed out": [
+        "S'ha esgotat el temps de sessió"
+      ],
+      "To fight spam and abuse, please verify you are human.": [
+        "Per combatre el correu brossa, si us plau verifiqueu que sou humà."
+      ],
+      "We'll send a new verification code to ${ strong }": [
+        "Enviarem un codi de verificació nou a ${ strong }"
+      ],
+      "When you set up two-factor authentication, we provide recovery codes which you can use to sign in if you lose access to your authenticator app.": [
+        "Quan configures l'autenticació de doble factor, se't proporcionen codis de recuperació que podeu fer servir per iniciar sessió en cas que perdeu accés a l'aplicació d'autenticació."
+      ],
+      "Would you like to receive a new verification code or use an alternative verification method?": [
+        "Voleu rebre un codi de verificació nou o utilitzar un mètode de verificació alternatiu?"
+      ],
+      "Would you like to receive a new verification code?": [
+        "Voleu rebre un codi de verificació nou?"
+      ],
+      "Your ${ BRAND_NAME } account is currently suspended. After 28 days, emails will no longer be delivered to your inbox, your Drive sharing links will be blocked, and you will not be able to upload new files. To resume normal service, please pay any overdue invoices.": [
+        "El vostre compte ${ BRAND_NAME } actualment està suspès. Passats 28 dies, els correus electrònics deixaran de lliurar-se a la vostra safata d'entrada, els vostres enllaços compartits de Drive es bloquejaran, i no podreu carregar-hi nous fitxers. Per a restablir el servei normal pagueu qualsevol factura vençuda."
+      ],
+      "Your ${ BRAND_NAME } account is currently suspended. Emails are no longer being delivered to your inbox. Your Drive sharing links are no longer active, and you cannot upload new files. To continue using your account, please pay any overdue invoices.": [
+        "El vostre compte ${ BRAND_NAME } actualment està suspès. Els correus electrònics ja no es lliuraren a la vostra safata d'entrada. Els vostres enllaços compartits de Drive ja no estan actius, i no podeu carregar-hi nous fitxers. Per a continuar utilitzant el vostre compte pagueu qualsevol factura vençuda."
+      ],
+      "Your email will only be used for this one-time verification.": [
+        "El vostre correu electrònic només s’utilitzarà per a aquesta única verificació."
+      ],
+      "Your phone number will only be used for this one-time verification.": [
+        "El vostre número de telèfon només s’utilitzarà per a aquesta única verificació."
+      ]
+    },
+    "Label": {
+      "Authenticator app": [
+        "Aplicació d'autenticació"
+      ],
+      "Code is 6 digits without spaces": [
+        "El codi consta de 6 dígits sense espais"
+      ],
+      "Email address": [
+        "Adreça de correu electrònic"
+      ],
+      "Hide password": [
+        "Amaga la contrasenya"
+      ],
+      "Password": [
+        "Contrasenya"
+      ],
+      "Phone number": [
+        "Número de telèfon"
+      ],
+      "Reveal password": [
+        "Mostra la contrasenya"
+      ],
+      "Verification code": [
+        "Codi de verificació"
+      ],
+      "Your password (admin)": [
+        "La seva contrasenya (admin)"
+      ]
+    },
+    "Link": {
+      "Learn more": [
+        "Més informació"
+      ],
+      "Request an invite": [
+        "Demana una invitació"
+      ]
+    },
+    "Placeholder": {
+      "Password": [
+        "Contrasenya"
+      ]
+    },
+    "Success": {
+      "Code sent to ${ methodTo }": [
+        "Codi enviat a ${ methodTo }"
+      ],
+      "Verification successful": [
+        "Èxit de verificació"
+      ]
+    },
+    "Title": {
+      "Enter your password": [
+        "Introdueix la teva contrasenya"
+      ],
+      "Human verification": [
+        "Verificació humana"
+      ],
+      "Invalid verification code": [
+        "Codi de verificació no vàlid"
+      ],
+      "Request new code": [
+        "Demanar un codi nou"
+      ],
+      "Two-factor authentication": [
+        "Autenticació de dos factors"
+      ]
+    },
+    "Validation": {
+      "Password must contain at least ${ length } character": [
+        "La contrasenya ha de tenir com a mínim ${ length } caràcter",
+        "La contrasenya ha de tenir com a mínim ${ length } caràcters"
+      ],
+      "Try a shorter username (${ n } character max)": [
+        "Intenteu un nom d'usuari més curt (${ n } caràcter màx.)",
+        "Intenteu un nom d'usuari més curt (${ n } caràcters màx.)"
+      ]
+    }
+  }
+}

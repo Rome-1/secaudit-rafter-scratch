@@ -1,0 +1,31 @@
+.editable-section-container {
+	grid-template-columns: min-content minmax(5em, 1fr);
+
+	& > .border-bottom {
+		padding-block-end: 1em;
+	}
+
+	& > :not(.border-bottom) {
+		margin-block-start: 1em;
+	}
+
+	// not enough place
+	&--size-tablet {
+		@include media('<=#{em(780, 16)}') {
+			--label-width: 15em;
+		}
+	}
+
+	@include media('<=small') {
+		grid-template-columns: auto;
+		gap: 0.5em;
+
+		& > .on-mobile-pb0 {
+			padding-block-end: 0;
+		}
+
+		& > :not(.border-bottom) {
+			margin-block-start: 0;
+		}
+	}
+}

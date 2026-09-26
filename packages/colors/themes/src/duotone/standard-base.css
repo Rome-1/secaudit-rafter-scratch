@@ -1,0 +1,67 @@
+:root,
+.ui-standard {
+    --primary: #6d4aff;
+    --primary-contrast: white;
+
+    --signal-danger: #dc3251;
+
+    --signal-warning: #ff9900;
+
+    --signal-success: #1ea885;
+
+    --signal-info: #239ece;
+
+    --interaction-norm: #6d4aff;
+
+    --interaction-weak: #eae7e4;
+
+    --text-norm: #0c0c14;
+    --text-weak: #706d6b;
+    --text-hint: #8f8d8a;
+    --text-disabled: #c2bfbc;
+    --text-invert: white;
+
+    --field-norm: #adaba8;
+    --field-hover: #8f8d8a;
+    --field-disabled: #d1cfcd;
+
+    --focus-outline: #6d4aff;
+    --focus-ring: rgb(109 74 255 / 0.2);
+
+    --border-norm: #d1cfcd;
+    --border-weak: #eae7e4;
+
+    --background-norm: white;
+    --background-weak: #f5f4f2;
+    --background-strong: #e5e4e1;
+    --background-invert: #0C0C14;
+
+    --interaction-default: transparent;
+    --interaction-default-hover: rgb(194 193 192 / 0.2);
+    --interaction-default-active: rgb(194 192 190 / 0.35);
+
+    --shadow-norm-opacity: 0.1;
+    --shadow-lifted-opacity: 0.16;
+
+    --backdrop-norm: rgb(38 42 51 / 0.48);
+
+    /* Optional colors */
+
+    --optional-scrollbar-thumb-color: #d1cfcd;
+    --optional-scrollbar-thumb-hover-color: #c2bfbc;
+
+    --optional-main-border-color: transparent;
+
+    --optional-email-item-read-background-color: #F8F8F6;
+    --optional-email-item-read-text-color: #474544;
+    --optional-email-item-selected-background-color: var(--interaction-norm-major-1);
+    --optional-email-item-selected-icon-background-color: var(--interaction-norm-major-3);
+
+    /* Reset because prominent part overrides those colors */
+    --optional-link-norm: initial;
+    --optional-link-hover: initial;
+    --optional-link-active: initial;
+    --optional-mini-calendar-today-color: initial;
+    --optional-logo-text-proton-color: initial;
+    --optional-logo-text-product-color: initial;
+}
