@@ -1,0 +1,4900 @@
+{
+  "headers": {
+    "plural-forms": "nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));",
+    "language": "ru_RU"
+  },
+  "contexts": {
+    "Action": {
+      "${ BRAND_NAME } introduction": [
+        "Введение в ${ BRAND_NAME }"
+      ],
+      "${ BRAND_NAME } shop": [
+        "Магазин «${ BRAND_NAME }»"
+      ],
+      "Activate recovery": [
+        "Активировать восстановление"
+      ],
+      "Add": [
+        "Добавить"
+      ],
+      "Add address": [
+        "Добавить адрес"
+      ],
+      "Add contact": [
+        "Добавить контакт"
+      ],
+      "Add email": [
+        "Добавить эл. почту"
+      ],
+      "Add group": [
+        "Добавить группу"
+      ],
+      "Add new contact": [
+        "Добавить новый контакт"
+      ],
+      "Add new group": [
+        "Добавить новую группу"
+      ],
+      "Add phone number": [
+        "Добавить номер телефона"
+      ],
+      "Add to group": [
+        "Добавить в группу"
+      ],
+      "Apply": [
+        "Применить"
+      ],
+      "Attach screenshot(s)": [
+        "Вложить снимок(ки) экрана"
+      ],
+      "Back": [
+        "Назад"
+      ],
+      "Beta Access": [
+        "Бета-доступ"
+      ],
+      "Cancel": [
+        "Отменить"
+      ],
+      "Cancel all": [
+        "Отменить все"
+      ],
+      "Cancel all downloads": [
+        "Отменить все скачивания"
+      ],
+      "Cancel all uploads": [
+        "Отменить все загрузки"
+      ],
+      "Cancel download": [
+        "Отменить скачивание"
+      ],
+      "Cancel upload": [
+        "Отменить загрузку"
+      ],
+      "Chat with us": [
+        "Переписывайтесь с нами"
+      ],
+      "Check import progress": [
+        "Проверить хода импорта"
+      ],
+      "Choose a file or drag it here": [
+        "Выберите файл или перетащите его сюда"
+      ],
+      "Clear": [
+        "Очистить"
+      ],
+      "Clear browser data": [
+        "Очистить данные браузера"
+      ],
+      "Clear data": [
+        "Стереть данные"
+      ],
+      "Clear query": [
+        "Очистить запрос"
+      ],
+      "Click here.": [
+        "Нажмите здесь."
+      ],
+      "Close": [
+        "Закрыть"
+      ],
+      "Close modal": [
+        "Закрыть окно"
+      ],
+      "Close navigation": [
+        "Cкрыть панель навигации"
+      ],
+      "Close this banner": [
+        "Закрыть этот баннер"
+      ],
+      "Close transfers": [
+        "Закрыть окно с загрузками"
+      ],
+      "Collapse": [
+        "Свернуть"
+      ],
+      "Collapse folder": [
+        "Свернуть папку"
+      ],
+      "Compose": [
+        "Написать"
+      ],
+      "Confirm": [
+        "Подтвердить"
+      ],
+      "Confirm opening of link ${ linkToShow }": [
+        "Подтвердите открытие ссылки ${ linkToShow }"
+      ],
+      "Contact group": [
+        "Группа контактов"
+      ],
+      "Continue": [
+        "Продолжить"
+      ],
+      "Continue transfers": [
+        "Продолжить перенос"
+      ],
+      "Continue with Google": [
+        "Продолжить с Google"
+      ],
+      "Copy email to clipboard": [
+        "Скопировать адрес эл. почты в буфер обмена"
+      ],
+      "Copy link": [
+        "Копировать ссылку"
+      ],
+      "Create": [
+        "Создать"
+      ],
+      "Create a new contact group": [
+        "Создать новую группу контактов"
+      ],
+      "Create link": [
+        "Создать ссылку"
+      ],
+      "Create new folder": [
+        "Создать новую папку"
+      ],
+      "Customize": [
+        "Настроить"
+      ],
+      "Delete": [
+        "Удалить"
+      ],
+      "Delete ${ selectedCount } contact": [
+        "Удалить ${ selectedCount } контакт",
+        "Удалить ${ selectedCount } контакта",
+        "Удалить ${ selectedCount } контактов",
+        "Удалить ${ selectedCount } контакта"
+      ],
+      "Delete ${ selectedCount } contact group": [
+        "Удалить ${ selectedCount } группу контактов",
+        "Удалить ${ selectedCount } группы контактов",
+        "Удалить ${ selectedCount } групп контактов",
+        "Удалить ${ selectedCount } группы контактов"
+      ],
+      "Delete contact": [
+        "Удалить контакт"
+      ],
+      "Delete contact group": [
+        "Удалить группу контактов"
+      ],
+      "Delete permanently": [
+        "Удалить навсегда"
+      ],
+      "Deselect all": [
+        "Снять выделение"
+      ],
+      "Details": [
+        "Подробности"
+      ],
+      "Didn't receive the code?": [
+        "Не получили код?"
+      ],
+      "Done": [
+        "Готово"
+      ],
+      "Download": [
+        "Скачать"
+      ],
+      "Download anyway": [
+        "Все равно скачать"
+      ],
+      "Drive Locked": [
+        "Хранилище заблокировано"
+      ],
+      "Edit": [
+        "Изменить"
+      ],
+      "Edit email address": [
+        "Изменить адрес эл. почты"
+      ],
+      "Edit label": [
+        "Изменить ярлык"
+      ],
+      "Edit phone number": [
+        "Изменить номер телефона"
+      ],
+      "Edit sign-in details": [
+        "Изменить информацию о входе в систему"
+      ],
+      "Email settings": [
+        "Настройки эл. почты"
+      ],
+      "Empty trash": [
+        "Очистить корзину"
+      ],
+      "enable desktop notifications": [
+        "включить уведомления на рабочем столе"
+      ],
+      "Enable drive search": [
+        "Включить поиск по хранилищу"
+      ],
+      "Expand": [
+        "Развернуть"
+      ],
+      "Expand folder": [
+        "Развернуть папку"
+      ],
+      "Export": [
+        "Экспорт"
+      ],
+      "Export contact group": [
+        "Экспортировать группу контактов"
+      ],
+      "Export contacts": [
+        "Экспортировать контакты"
+      ],
+      "Forward as attachment": [
+        "Переслать как вложение"
+      ],
+      "Get link": [
+        "Получить ссылку"
+      ],
+      "Get started": [
+        "Приступить к работе"
+      ],
+      "Get verification code": [
+        "Получить проверочный код"
+      ],
+      "Go to label": [
+        "Перейти к ярлыку"
+      ],
+      "Go to panel ${ index }": [
+        "Перейти к панели ${ index }"
+      ],
+      "Go to parent": [
+        "На уровень выше"
+      ],
+      "Go to settings": [
+        "Открыть настройки"
+      ],
+      "Got it": [
+        "Понятно"
+      ],
+      "Hide advanced PGP settings": [
+        "Скрыть расширенные настройки PGP"
+      ],
+      "Hide folders": [
+        "Скрыть папки"
+      ],
+      "Hide labels": [
+        "Скрыть ярлыки"
+      ],
+      "I have a question": [
+        "У меня есть вопрос"
+      ],
+      "import": [
+        "импортировать"
+      ],
+      "Import": [
+        "Импортировать"
+      ],
+      "Import from .csv or vCard": [
+        "Импорт из .csv или vCard"
+      ],
+      "Learn more": [
+        "Подробнее"
+      ],
+      "Load image": [
+        "Загрузить изображение"
+      ],
+      "Log in": [
+        "Войти"
+      ],
+      "Manage link": [
+        "Управлять ссылкой"
+      ],
+      "Mark for deletion": [
+        "Пометить для удаления"
+      ],
+      "Maximize transfers": [
+        "Развернуть окно скачиваний"
+      ],
+      "Merge": [
+        "Объединить"
+      ],
+      "Merge contacts": [
+        "Объединить контакты"
+      ],
+      "Minimize transfers": [
+        "Свернуть окно с загрузками"
+      ],
+      "More info: ${ safeTitle }": [
+        "Больше информации: ${ safeTitle }"
+      ],
+      "More options": [
+        "Больше настроек"
+      ],
+      "Move": [
+        "Переместить"
+      ],
+      "Move to folder": [
+        "Переместить в папку"
+      ],
+      "Move to trash": [
+        "Переместить в Корзину"
+      ],
+      "New upload": [
+        "Новая загрузка"
+      ],
+      "Next": [
+        "Далее"
+      ],
+      "Next month": [
+        "Следующий месяц"
+      ],
+      "OK": [
+        "OK"
+      ],
+      "Open navigation": [
+        "Показать панель навигации"
+      ],
+      "Pause all": [
+        "Приостановить все"
+      ],
+      "Pause download": [
+        "Приостановить скачивание"
+      ],
+      "Pause upload": [
+        "Приостановить загрузку"
+      ],
+      "Preview": [
+        "Предпросмотр"
+      ],
+      "Preview contact": [
+        "Открыть предпросмотр контакта"
+      ],
+      "Previous": [
+        "Назад"
+      ],
+      "Previous month": [
+        "Предыдущий месяц"
+      ],
+      "Quit": [
+        "Выйти"
+      ],
+      "Re-sign": [
+        "Подписать повторно"
+      ],
+      "Recover data": [
+        "Восстановить данные"
+      ],
+      "Refer a friend": [
+        "Порекомендуйте другу"
+      ],
+      "refresh the page": [
+        "обновить страницу"
+      ],
+      "Refresh the page": [
+        "Обновить страницу"
+      ],
+      "Remove": [
+        "Удалить"
+      ],
+      "Remove from this list": [
+        "Удалить из этого списка"
+      ],
+      "Rename": [
+        "Переименовать"
+      ],
+      "Report a problem": [
+        "Сообщить о проблеме"
+      ],
+      "Request a feature": [
+        "Предложить идею"
+      ],
+      "Request new code": [
+        "Запросить новый код"
+      ],
+      "Reset zoom": [
+        "Сбросить масштабирование"
+      ],
+      "Restart all": [
+        "Перезапустить все"
+      ],
+      "Restart download": [
+        "Перезапустить скачивание"
+      ],
+      "Restart upload": [
+        "Перезапустить загрузку"
+      ],
+      "Restore from trash": [
+        "Восстановить из корзины"
+      ],
+      "Resume all": [
+        "Продолжить все"
+      ],
+      "Resume download": [
+        "Возобновить скачивание"
+      ],
+      "Resume upload": [
+        "Возобновить загрузку"
+      ],
+      "Save": [
+        "Сохранить"
+      ],
+      "Search": [
+        "Поиск"
+      ],
+      "Search drive": [
+        "Искать в Drive"
+      ],
+      "Select all": [
+        "Выделить всё"
+      ],
+      "Set recovery phrase": [
+        "Установить фразу для восстановления"
+      ],
+      "Share": [
+        "Поделиться"
+      ],
+      "Share file": [
+        "Поделиться файлом"
+      ],
+      "Share item": [
+        "Поделиться файлом"
+      ],
+      "Share options": [
+        "Параметры совместного доступа"
+      ],
+      "Share via link": [
+        "Поделиться с помощью ссылки"
+      ],
+      "Sharing options": [
+        "Параметры совместного доступа"
+      ],
+      "Show advanced PGP settings": [
+        "Показать расширенные настройки PGP"
+      ],
+      "Show folders": [
+        "Показать папки"
+      ],
+      "Show labels": [
+        "Показать ярлыки"
+      ],
+      "Show preview": [
+        "Показать предпросмотр"
+      ],
+      "Sign out": [
+        "Выйти из учетной записи"
+      ],
+      "Signing out": [
+        "Выход"
+      ],
+      "Skip": [
+        "Пропустить"
+      ],
+      "Start import": [
+        ""
+      ],
+      "Start recovering": [
+        "Начать восстановление"
+      ],
+      "Start setup": [
+        "Приступить к настройке"
+      ],
+      "Stay": [
+        "Остаться"
+      ],
+      "Stop sharing": [
+        "Закрыть доступ"
+      ],
+      "Stop transfers": [
+        "Остановить перенос"
+      ],
+      "Submit": [
+        "Отправить"
+      ],
+      "Submit report": [
+        "Отправить отчет"
+      ],
+      "Theme": [
+        "Тема"
+      ],
+      "Trust": [
+        "Доверять"
+      ],
+      "Try another method": [
+        "Попробуйте другой способ"
+      ],
+      "Undo": [
+        "Отменить"
+      ],
+      "Unlock data": [
+        "Разблокировать данные"
+      ],
+      "Unmark for deletion": [
+        "Снять отметку для удаления"
+      ],
+      "Untrust": [
+        "Не доверять"
+      ],
+      "Update recovery file": [
+        "Обновить файл восстановления"
+      ],
+      "Update recovery phrase": [
+        "Обновить фразу для восстановления"
+      ],
+      "Upgrade": [
+        "Улучшить"
+      ],
+      "Upload anyway": [
+        "Все равно загрузить"
+      ],
+      "Upload file": [
+        "Загрузить файл"
+      ],
+      "Upload folder": [
+        "Загрузить папку"
+      ],
+      "Upload picture": [
+        "Загрузить картинку"
+      ],
+      "Use ${ label } theme": [
+        "Использовать тему ${ label }"
+      ],
+      "Use for sending": [
+        "Использовать для отправки"
+      ],
+      "Verify": [
+        "Проверить"
+      ],
+      "Verify account": [
+        "Подтвердить аккаунт"
+      ],
+      "Verify email": [
+        "Подтвердить эл. почту"
+      ],
+      "View": [
+        "Посмотреть"
+      ],
+      "View invoice": [
+        "Просмотр счета"
+      ],
+      "Zoom in": [
+        "Увеличить масштаб"
+      ],
+      "Zoom out": [
+        "Уменьшить масштаб"
+      ]
+    },
+    "Actions message": {
+      "${ addContact } or ${ importContact }.": [
+        "${ addContact } или ${ importContact }."
+      ],
+      "No results found.": [
+        "Результаты не найдены."
+      ],
+      "Please try another search term.": [
+        "Измените параметры поиска."
+      ],
+      "You don't have any contacts.": [
+        "У вас нет контактов."
+      ],
+      "You don't have any groups.": [
+        "У вас нет групп."
+      ]
+    },
+    "Alert": {
+      "By leaving now, some contacts may not be imported": [
+        "Если выйти сейчас, импорт некоторых контактов не завершится"
+      ]
+    },
+    "Apps dropdown": {
+      "Proton applications": [
+        "Приложения Proton"
+      ]
+    },
+    "Beta access description": {
+      "Beta Access lets you use the beta version of ${ MAIL_APP_NAME }, ${ CALENDAR_APP_NAME }, and ${ DRIVE_APP_NAME } before they are released to the public. This means you can be the first to try new products, get new updates, and use new features.": [
+        "Доступ к бета-версии позволит вам использовать бета-версию ${ MAIL_APP_NAME }, ${ CALENDAR_APP_NAME } и ${ DRIVE_APP_NAME } до их публичного выпуска. Это означает, что вы сможете первыми опробовать новые продукты, получать обновления и использовать новые функции."
+      ],
+      "If you encounter issues, you can always disable Beta Access.": [
+        "Если вы столкнетесь с проблемами, то всегда можете отключить доступ к Beta-функциям."
+      ]
+    },
+    "blackfriday Action": {
+      "Get the offer": [
+        "Воспользоваться"
+      ]
+    },
+    "blackfriday Info": {
+      "beta": [
+        "бета"
+      ],
+      "Includes": [
+        "Включает"
+      ],
+      "Standard price: ${ regularPrice }": [
+        "Обычная цена: ${ regularPrice }"
+      ],
+      "This subscription will automatically renew after 2 years at the same rate until it is cancelled.": [
+        "Через 2 года подписка будет автоматически продлена по той же цене, если вы не отмените ее до этого срока."
+      ]
+    },
+    "blackfriday Title": {
+      "Best deal": [
+        "Лучшее предложение"
+      ],
+      "Most popular": [
+        "Самое популярное"
+      ],
+      "Save more when combining Mail and VPN": [
+        "Сэкономьте больше, оплачивая Mail и VPN вместе"
+      ]
+    },
+    "blackfriday: VPNspecialoffer Action": {
+      "Get the deal": [
+        "Получить скидку"
+      ],
+      "Get the deal now": [
+        "Получить скидку"
+      ]
+    },
+    "blackfriday: VPNspecialoffer Info": {
+      "Discounts are based on standard monthly pricing of ${ standardMonthlyPricing }": [
+        "Скидки рассчитываются исходя из стандартной платы за 1 месяц в размере ${ standardMonthlyPricing }"
+      ],
+      "Save ${ percentage }%": [
+        "– ${ percentage } %"
+      ],
+      "Special offer Terms and Conditions": [
+        "Условия специального предложения"
+      ]
+    },
+    "blackfriday: VPNspecialoffer info": {
+      "per month": [
+        "в месяц"
+      ]
+    },
+    "blackfriday: VPNspecialoffer Promo title, need to be short": {
+      "Special offer": [
+        "Спецпредложение"
+      ]
+    },
+    "blackfriday: VPNspecialoffer Title": {
+      "(${ notice }) Renews after 1 month at a standard monthly price of ${ amount }": [
+        "(${ notice }) Автопродление через 1 месяц по стандартной цене ${ amount } на 1 месяц"
+      ],
+      "(${ notice }) Renews after 1 year at a standard discounted annual price of ${ amount } (20% discount)": [
+        "(${ notice }) Автопродление через 1 год по сниженной цене ${ amount } на 1 год (скидка 20%)"
+      ],
+      "(${ notice }) Renews after 2 years at a standard discounted 2-year price of ${ amount } (33% discount)": [
+        "(${ notice }) Автопродление через 2 года по сниженной цене ${ amount } на 2 года (скидка 33%)"
+      ],
+      "1 month": [
+        "1 месяц"
+      ],
+      "12 months": [
+        "12 месяцев"
+      ],
+      "24 months": [
+        "24 месяца"
+      ],
+      "Billed at ${ amount } for the first 2 years.${ supNotice }": [
+        "Оплата в размере ${ amount } за первые 2 года.${ supNotice }"
+      ],
+      "Billed at ${ amount } for the first month.${ supNotice }": [
+        "Оплата в размере ${ amount } за первый месяц.${ supNotice }"
+      ],
+      "Billed at ${ amount } for the first year.${ supNotice }": [
+        "Оплата в размере ${ amount } за первый год.${ supNotice }"
+      ],
+      "Get the special year-end offer on our Premium VPN PLUS plan": [
+        "Воспользуйтесь специальным предложением в конце года для премиум-тарифа VPN PLUS"
+      ]
+    },
+    "Bug category": {
+      "Application problem": [
+        "Проблема в приложении"
+      ],
+      "Bridge problem": [
+        "Проблема Bridge"
+      ],
+      "Calendar problem": [
+        "Проблема календаря"
+      ],
+      "Connection problem": [
+        "Проблема с соединением"
+      ],
+      "Contacts problem": [
+        "Проблема контактов"
+      ],
+      "Custom domain problem": [
+        "Проблема своих доменов"
+      ],
+      "Drive problem": [
+        "Проблема Drive"
+      ],
+      "Feature request": [
+        "Запрос новой функции"
+      ],
+      "Import / export problem": [
+        "Проблема импорта / экспорта"
+      ],
+      "Installation problem": [
+        "Проблема с установкой ПО"
+      ],
+      "Mail problem": [
+        "Проблема с почтой"
+      ],
+      "Manual setup problem": [
+        "Проблема при ручной установке"
+      ],
+      "Other": [
+        "Другая"
+      ],
+      "Payments problem": [
+        "Проблема с платежами"
+      ],
+      "Sign in problem": [
+        "Проблема со входом"
+      ],
+      "Sign up problem": [
+        "Проблема при регистрации"
+      ],
+      "Signup problem": [
+        "Проблема при регистрации"
+      ],
+      "Slow speed problem": [
+        "Проблема: низкая скорость соединения"
+      ],
+      "Speed problem": [
+        "Проблема со скоростью"
+      ],
+      "Streaming problem": [
+        "Проблема стриминга"
+      ],
+      "Update problem": [
+        "Проблема с обновлением"
+      ],
+      "VPN problem": [
+        "Проблема VPN"
+      ],
+      "Website access problem": [
+        "Проблема с доступом к сайту"
+      ]
+    },
+    "Button": {
+      "Continue using ${ MAIL_APP_NAME }.": [
+        "Продолжить, используя ${ MAIL_APP_NAME }."
+      ]
+    },
+    "Calendar status": {
+      "Not synced": [
+        "Не синхронизировано"
+      ],
+      "Syncing": [
+        "Синхронизация"
+      ]
+    },
+    "Calendar subscription not synced error": {
+      "Calendar could not be decrypted": [
+        "Невозможно было расшифровать Календарь"
+      ],
+      "Calendar is syncing": [
+        "Календарь синхронизируется"
+      ],
+      "Calendar is too big": [
+        "Календарь слишком большой"
+      ],
+      "Calendar link is not accessible": [
+        "Ссылка на календарь недоступна"
+      ],
+      "Calendar link is temporarily inaccessible": [
+        "Ссылка на календарь временно недоступна"
+      ],
+      "Failed to sync calendar": [
+        "Не удалось синхронизировать календарь"
+      ],
+      "More than 12 hours passed since last update": [
+        "Более 12 часов прошло с момента последнего обновления"
+      ],
+      "Unsupported calendar format": [
+        "Неподдерживаемый формат календаря"
+      ]
+    },
+    "Collapsible tooltip": {
+      "Close": [
+        "Закрыть"
+      ],
+      "Open": [
+        "Открыть"
+      ]
+    },
+    "Confirm modal title": {
+      "Quit import customization?": [
+        "Прекратить настройку импорта?"
+      ]
+    },
+    "Contact field label": {
+      "Address": [
+        "Адрес"
+      ],
+      "Anniversary": [
+        "Годовщина"
+      ],
+      "Birthday": [
+        "День рождения"
+      ],
+      "Email": [
+        "Электронная почта"
+      ],
+      "Gender": [
+        "Пол"
+      ],
+      "Geo": [
+        "Геолокация"
+      ],
+      "Language": [
+        "Язык"
+      ],
+      "Logo": [
+        "Логотип"
+      ],
+      "Member": [
+        "Участник"
+      ],
+      "Name": [
+        "Имя"
+      ],
+      "Note": [
+        "Примечание"
+      ],
+      "Organization": [
+        "Организация"
+      ],
+      "Phone": [
+        "Телефон"
+      ],
+      "Photo": [
+        "Фотография"
+      ],
+      "Role": [
+        "Роль"
+      ],
+      "Timezone": [
+        "Часовой пояс"
+      ],
+      "Title": [
+        "Должность"
+      ],
+      "URL": [
+        "URL"
+      ]
+    },
+    "Contact type label": {
+      "Fax": [
+        "Факс"
+      ],
+      "Main": [
+        "Основной"
+      ],
+      "Mobile": [
+        "Мобильный"
+      ],
+      "Other": [
+        "Другое"
+      ],
+      "Pager": [
+        "Пейджер"
+      ],
+      "Personal": [
+        "Личный"
+      ],
+      "Work": [
+        "Рабочий"
+      ],
+      "Yomi": [
+        "Ёми"
+      ]
+    },
+    "Country name": {
+      "Abkhazia": [
+        "Абхазия"
+      ],
+      "Afghanistan": [
+        "Афганистан"
+      ],
+      "Albania": [
+        "Албания"
+      ],
+      "Algeria": [
+        "Алжир"
+      ],
+      "American Samoa": [
+        "Американское Самоа"
+      ],
+      "Andorra": [
+        "Андорра"
+      ],
+      "Angola": [
+        "Ангола"
+      ],
+      "Anguilla": [
+        "Ангилья"
+      ],
+      "Antarctica": [
+        "Антарктида"
+      ],
+      "Antigua and Barbuda": [
+        "Антигуа и Барбуда"
+      ],
+      "Argentina": [
+        "Аргентина"
+      ],
+      "Armenia": [
+        "Армения"
+      ],
+      "Aruba": [
+        "Аруба"
+      ],
+      "Ascension Island": [
+        "Остров Вознесения"
+      ],
+      "Australia": [
+        "Австралия"
+      ],
+      "Austria": [
+        "Австрия"
+      ],
+      "Azerbaijan": [
+        "Азербайджан"
+      ],
+      "Bahamas": [
+        "Багамские острова"
+      ],
+      "Bahrain": [
+        "Бахрейн"
+      ],
+      "Bangladesh": [
+        "Бангладеш"
+      ],
+      "Barbados": [
+        "Барбадос"
+      ],
+      "Belarus": [
+        "Беларусь"
+      ],
+      "Belgium": [
+        "Бельгия"
+      ],
+      "Belize": [
+        "Белиз"
+      ],
+      "Benin": [
+        "Бенин"
+      ],
+      "Bermuda": [
+        "Бермуды"
+      ],
+      "Bhutan": [
+        "Бутан"
+      ],
+      "Bolivia": [
+        "Боливия"
+      ],
+      "Bonaire, Sint Eustatius and Saba": [
+        "Бонайре, Синт-Эстатиус и Саба"
+      ],
+      "Bosnia and Herzegovina": [
+        "Босния и Герцеговина"
+      ],
+      "Botswana": [
+        "Ботсвана"
+      ],
+      "Bouvet Island": [
+        "Остров Буве"
+      ],
+      "Brazil": [
+        "Бразилия"
+      ],
+      "British Indian Ocean Territory": [
+        "Британская территория в Индийском океане"
+      ],
+      "Brunei Darussalam": [
+        "Бруней-Даруссалам"
+      ],
+      "Bulgaria": [
+        "Болгария"
+      ],
+      "Burkina Faso": [
+        "Буркина-Фасо"
+      ],
+      "Burma": [
+        "Бирма"
+      ],
+      "Burundi": [
+        "Бурунди"
+      ],
+      "Cambodia": [
+        "Камбоджа"
+      ],
+      "Cameroon": [
+        "Камерун"
+      ],
+      "Canada": [
+        "Канада"
+      ],
+      "Cape Verde": [
+        "Острова Зеленого Мыса"
+      ],
+      "Cayman Islands": [
+        "Каймановы острова"
+      ],
+      "Central African Republic": [
+        "Центральноафриканская Республика"
+      ],
+      "Chad": [
+        "Чад"
+      ],
+      "Chile": [
+        "Чили"
+      ],
+      "China": [
+        "Китай"
+      ],
+      "Christmas Island": [
+        "Остров Рождества"
+      ],
+      "Cocos (Keeling) Islands": [
+        "Кокосовые (Килинговые) острова"
+      ],
+      "Colombia": [
+        "Колумбия"
+      ],
+      "Comoros": [
+        "Коморские острова"
+      ],
+      "Congo": [
+        "Конго"
+      ],
+      "Congo, Democratic Republic of the": [
+        "Демократическая Республика Конго"
+      ],
+      "Cook Islands": [
+        "Острова Кука"
+      ],
+      "Costa Rica": [
+        "Коста-Рика"
+      ],
+      "Cote d'Ivoire\"": [
+        "Берег Слоновой Кости"
+      ],
+      "Croatia": [
+        "Хорватия"
+      ],
+      "Cuba": [
+        "Куба"
+      ],
+      "Curaçao": [
+        "Кюрасао"
+      ],
+      "Cyprus": [
+        "Кипр"
+      ],
+      "Czech Republic": [
+        "Чешская Республика"
+      ],
+      "Denmark": [
+        "Дания"
+      ],
+      "Djibouti": [
+        "Джибути"
+      ],
+      "Dominica": [
+        "Доминика"
+      ],
+      "Dominican Republic": [
+        "Доминиканская Республика"
+      ],
+      "Ecuador": [
+        "Эквадор"
+      ],
+      "Egypt": [
+        "Египет"
+      ],
+      "El Salvador": [
+        "Сальвадор"
+      ],
+      "Equatorial Guinea": [
+        "Экваториальная Гвинея"
+      ],
+      "Eritrea": [
+        "Эритрея"
+      ],
+      "Estonia": [
+        "Эстония"
+      ],
+      "Ethiopia": [
+        "Эфиопия"
+      ],
+      "Falkland Islands": [
+        "Фолклендские острова"
+      ],
+      "Faroe Islands": [
+        "Фарерские острова"
+      ],
+      "Federated States of Micronesia": [
+        "Федеративные Штаты Микронезии"
+      ],
+      "Fiji": [
+        "Фиджи"
+      ],
+      "Finland": [
+        "Финляндия"
+      ],
+      "France": [
+        "Франция"
+      ],
+      "French Guiana": [
+        "Французская Гвиана"
+      ],
+      "French Polynesia": [
+        "Французская Полинезия"
+      ],
+      "French Southern Territories": [
+        "Французские Южные территории"
+      ],
+      "Gabon": [
+        "Габон"
+      ],
+      "Gambia": [
+        "Гамбия"
+      ],
+      "Georgia": [
+        "Грузия"
+      ],
+      "Germany": [
+        "Германия"
+      ],
+      "Ghana": [
+        "Гана"
+      ],
+      "Gibraltar": [
+        "Гибралтар"
+      ],
+      "Greece": [
+        "Греция"
+      ],
+      "Greenland": [
+        "Гренландия"
+      ],
+      "Grenada": [
+        "Гренада"
+      ],
+      "Guadeloupe": [
+        "Гваделупа"
+      ],
+      "Guam": [
+        "Гуам"
+      ],
+      "Guatemala": [
+        "Гватемала"
+      ],
+      "Guernsey": [
+        "Гернси"
+      ],
+      "Guinea": [
+        "Гвинея"
+      ],
+      "Guinea-Bissau": [
+        "Гвинея-Бисау"
+      ],
+      "Guyana": [
+        "Гайана"
+      ],
+      "Haiti": [
+        "Гаити"
+      ],
+      "Heard Island and McDonald Islands": [
+        "Остров Херд и острова Макдональд"
+      ],
+      "Holy See (Vatican City State)": [
+        "Святой Престол (Государство-Город Ватикан)"
+      ],
+      "Honduras": [
+        "Гондурас"
+      ],
+      "Hong Kong": [
+        "Гонконг"
+      ],
+      "Hungary": [
+        "Венгрия"
+      ],
+      "Iceland": [
+        "Исландия"
+      ],
+      "India": [
+        "Индия"
+      ],
+      "Indonesia": [
+        "Индонезия"
+      ],
+      "International": [
+        "Международный"
+      ],
+      "Iran": [
+        "Иран"
+      ],
+      "Iraq": [
+        "Ирак"
+      ],
+      "Ireland": [
+        "Ирландия"
+      ],
+      "Isle of Man": [
+        "Остров Мэн"
+      ],
+      "Israel": [
+        "Израиль"
+      ],
+      "Italy": [
+        "Италия"
+      ],
+      "Jamaica": [
+        "Ямайка"
+      ],
+      "Japan": [
+        "Япония"
+      ],
+      "Jersey": [
+        "Джерси"
+      ],
+      "Jordan": [
+        "Иордания"
+      ],
+      "Kazakhstan": [
+        "Казахстан"
+      ],
+      "Kenya": [
+        "Кения"
+      ],
+      "Kiribati": [
+        "Кирибати"
+      ],
+      "Kosovo": [
+        "Косово"
+      ],
+      "Kuwait": [
+        "Кувейт"
+      ],
+      "Kyrgyzstan": [
+        "Кыргызстан"
+      ],
+      "Laos": [
+        "Лаос"
+      ],
+      "Latvia": [
+        "Латвия"
+      ],
+      "Lebanon": [
+        "Ливан"
+      ],
+      "Lesotho": [
+        "Лесото"
+      ],
+      "Liberia": [
+        "Либерия"
+      ],
+      "Libya": [
+        "Ливия"
+      ],
+      "Liechtenstein": [
+        "Лихтенштейн"
+      ],
+      "Lithuania": [
+        "Литва"
+      ],
+      "Luxembourg": [
+        "Люксембург"
+      ],
+      "Macao": [
+        "Макао"
+      ],
+      "Madagascar": [
+        "Мадагаскар"
+      ],
+      "Malawi": [
+        "Малави"
+      ],
+      "Malaysia": [
+        "Малайзия"
+      ],
+      "Maldives": [
+        "Мальдивы"
+      ],
+      "Mali": [
+        "Мали"
+      ],
+      "Malta": [
+        "Мальта"
+      ],
+      "Marshall Islands": [
+        "Маршалловы Острова"
+      ],
+      "Martinique": [
+        "Мартиника"
+      ],
+      "Mauritania": [
+        "Мавритания"
+      ],
+      "Mauritius": [
+        "Маврикий"
+      ],
+      "Mayotte": [
+        "Майотта"
+      ],
+      "Mexico": [
+        "Мексика"
+      ],
+      "Moldova": [
+        "Молдова"
+      ],
+      "Monaco": [
+        "Монако"
+      ],
+      "Mongolia": [
+        "Монголия"
+      ],
+      "Montenegro": [
+        "Черногория"
+      ],
+      "Montserrat": [
+        "Монтсеррат"
+      ],
+      "Morocco": [
+        "Марокко"
+      ],
+      "Mozambique": [
+        "Мозамбик"
+      ],
+      "Namibia": [
+        "Намибия"
+      ],
+      "Nauru": [
+        "Науру"
+      ],
+      "Nepal": [
+        "Непал"
+      ],
+      "Netherlands": [
+        "Нидерланды"
+      ],
+      "New Caledonia": [
+        "Новая Каледония"
+      ],
+      "New Zealand": [
+        "Новая Зеландия"
+      ],
+      "Nicaragua": [
+        "Никарагуа"
+      ],
+      "Niger": [
+        "Нигер"
+      ],
+      "Nigeria": [
+        "Нигерия"
+      ],
+      "Niue": [
+        "Ниуэ"
+      ],
+      "Norfolk Island": [
+        "Остров Норфолк"
+      ],
+      "North Korea": [
+        "Северная Корея"
+      ],
+      "North Macedonia": [
+        "Северная Македония"
+      ],
+      "Northern Mariana Islands": [
+        "Северные Марианские Острова"
+      ],
+      "Norway": [
+        "Норвегия"
+      ],
+      "Oman": [
+        "Оман"
+      ],
+      "Pakistan": [
+        "Пакистан"
+      ],
+      "Palau": [
+        "Палау"
+      ],
+      "Palestine": [
+        "Палестина"
+      ],
+      "Panama": [
+        "Панама"
+      ],
+      "Papua New Guinea": [
+        "Папуа-Новая Гвинея"
+      ],
+      "Paraguay": [
+        "Парагвай"
+      ],
+      "Peru": [
+        "Перу"
+      ],
+      "Philippines": [
+        "Филиппины"
+      ],
+      "Pitcairn": [
+        "Питкэрн"
+      ],
+      "Poland": [
+        "Польша"
+      ],
+      "Portugal": [
+        "Португалия"
+      ],
+      "Puerto Rico": [
+        "Пуэрто-Рико"
+      ],
+      "Qatar": [
+        "Катар"
+      ],
+      "Reunion": [
+        "Реюньон"
+      ],
+      "Romania": [
+        "Румыния"
+      ],
+      "Russia": [
+        "Россия"
+      ],
+      "Rwanda": [
+        "Руанда"
+      ],
+      "Saint Barthélemy": [
+        "Сен-Бартелеми"
+      ],
+      "Saint Helena": [
+        "Остров Святой Елены"
+      ],
+      "Saint Kitts and Nevis": [
+        "Сент-Китс и Невис"
+      ],
+      "Saint Lucia": [
+        "Сент-Люсия"
+      ],
+      "Saint Martin (French Part)": [
+        "Сен-Мартен (французская часть)"
+      ],
+      "Saint Pierre and Miquelon": [
+        "Сен-Пьер и Микелон"
+      ],
+      "Saint Vincent and the Grenadines": [
+        "Сент-Винсент и Гренадины"
+      ],
+      "Samoa": [
+        "Самоа"
+      ],
+      "San Marino": [
+        "Сан-Марино"
+      ],
+      "Sao Tome and Principe": [
+        "Сан-Томе и Принсипи"
+      ],
+      "Saudi Arabia": [
+        "Саудовская Аравия"
+      ],
+      "Senegal": [
+        "Сенегал"
+      ],
+      "Serbia": [
+        "Сербия"
+      ],
+      "Seychelles": [
+        "Сейшелы"
+      ],
+      "Sierra Leone": [
+        "Сьерра-Леоне"
+      ],
+      "Singapore": [
+        "Сингапур"
+      ],
+      "Sint Maarten": [
+        "Сен-Мартен"
+      ],
+      "Slovakia": [
+        "Словакия"
+      ],
+      "Slovenia": [
+        "Словения"
+      ],
+      "Solomon Islands": [
+        "Соломоновы Острова"
+      ],
+      "Somalia": [
+        "Сомали"
+      ],
+      "South Africa": [
+        "Южная Африка"
+      ],
+      "South Georgia and the South Sandwich Islands": [
+        "Южная Георгия и Южные Сандвичевы острова"
+      ],
+      "South Korea": [
+        "Южная Корея"
+      ],
+      "South Ossetia": [
+        "Южная Осетия"
+      ],
+      "South Sudan": [
+        "Южный Судан"
+      ],
+      "Spain": [
+        "Испания"
+      ],
+      "Sri Lanka": [
+        "Шри-Ланка"
+      ],
+      "Sudan": [
+        "Судан"
+      ],
+      "Suriname": [
+        "Суринам"
+      ],
+      "Svalbard and Jan Mayen": [
+        "Шпицберген и Ян-Майен"
+      ],
+      "Swaziland": [
+        "Свазиленд"
+      ],
+      "Sweden": [
+        "Швеция"
+      ],
+      "Switzerland": [
+        "Швейцария"
+      ],
+      "Syria": [
+        "Сирия"
+      ],
+      "Taiwan": [
+        "Тайвань"
+      ],
+      "Tajikistan": [
+        "Таджикистан"
+      ],
+      "Tanzania": [
+        "Танзания"
+      ],
+      "Thailand": [
+        "Таиланд"
+      ],
+      "Timor-Leste": [
+        "Восточный Тимор"
+      ],
+      "Togo": [
+        "Того"
+      ],
+      "Tokelau": [
+        "Токелау"
+      ],
+      "Tonga": [
+        "Тонга"
+      ],
+      "Trinidad and Tobago": [
+        "Тринидад и Тобаго"
+      ],
+      "Tristan da Cunha": [
+        "Тристан да Кунья"
+      ],
+      "Tunisia": [
+        "Тунис"
+      ],
+      "Turkey": [
+        "Турция"
+      ],
+      "Turkmenistan": [
+        "Туркменистан"
+      ],
+      "Turks and Caicos Islands": [
+        "Острова Теркс и Кайкос"
+      ],
+      "Tuvalu": [
+        "Тувалу"
+      ],
+      "Uganda": [
+        "Уганда"
+      ],
+      "Ukraine": [
+        "Украина"
+      ],
+      "United Arab Emirates": [
+        "Объединенные Арабские Эмираты"
+      ],
+      "United Kingdom": [
+        "Великобритания"
+      ],
+      "United States": [
+        "Соединенные Штаты Америки"
+      ],
+      "United States Minor Outlying Islands": [
+        "Внешние малые острова США"
+      ],
+      "Uruguay": [
+        "Уругвай"
+      ],
+      "Uzbekistan": [
+        "Узбекистан"
+      ],
+      "Vanuatu": [
+        "Вануату"
+      ],
+      "Venezuela": [
+        "Венесуэла"
+      ],
+      "Vietnam": [
+        "Вьетнам"
+      ],
+      "Virgin Islands, British": [
+        "Британские Виргинские острова"
+      ],
+      "Virgin Islands, U.S.": [
+        "Американские Виргинские острова"
+      ],
+      "Wallis and Futuna": [
+        "Уоллис и Футуна"
+      ],
+      "Western Sahara": [
+        "Западная Сахара"
+      ],
+      "Yemen": [
+        "Йемен"
+      ],
+      "Zambia": [
+        "Замбия"
+      ],
+      "Zimbabwe": [
+        "Зимбабве"
+      ],
+      "Åland Islands": [
+        "Аландские острова"
+      ]
+    },
+    "Default display name vcard": {
+      "Unknown": [
+        "Неизвестно"
+      ]
+    },
+    "Default encryption scheme": {
+      "Use global default (${ defaultValueText })": [
+        "Исп. глоб. знач. по умолчанию (${ defaultValueText })"
+      ]
+    },
+    "Delinquent modal title": {
+      "Overdue invoice": [
+        "Просроченный счёт"
+      ]
+    },
+    "Description": {
+      "Decrypting contacts... This may take a few minutes. When the process is completed, you will be able to download the file with all your contacts exported.": [
+        "Идет расшифровка контактов. Это может занять несколько минут. Когда процесс завершится, вы сможете скачать файл со всеми своими контактами."
+      ],
+      "Deleting contacts... This may take a few minutes. When the process is completed, you can close this modal.": [
+        "Удаление контактов... Это может занять несколько минут. Когда процесс завершится, вы можете закрыть это окно."
+      ],
+      "Encrypting and importing contacts... This may take a few minutes. When the process is completed, you can close this modal.": [
+        "Идёт шифрование и импортирование контактов. Это может занять несколько минут. Когда процесс завершится, вы сможете закрыть это сообщение."
+      ],
+      "It looks like the contact list you are importing contains some groups. Please review how these groups should be imported.": [
+        "Похоже, что список контактов, который вы импортируете, содержит группы. Пожалуйста, уточните, как их нужно импортировать."
+      ],
+      "Merging contacts... This may take a few minutes. When the process is completed, you can close this modal.": [
+        "Идёт объединение контактов. Это может занять несколько минут. Когда процесс завершится, вы сможете закрыть это сообщение."
+      ],
+      "The file should have a maximum size of ${ MAX_IMPORT_FILE_SIZE_STRING } and have up to ${ MAX_IMPORT_CONTACTS_STRING } contact. If your file is bigger, please split it into smaller files.": [
+        "Максимальный размер файла должен быть не более ${ MAX_IMPORT_FILE_SIZE_STRING } и иметь не более ${ MAX_IMPORT_CONTACTS_STRING } контакта. Если ваш файл больше, то разбейте его на файлы меньшего размера.",
+        "Максимальный размер файла должен быть не более ${ MAX_IMPORT_FILE_SIZE_STRING } и иметь не более ${ MAX_IMPORT_CONTACTS_STRING } контактов. Если ваш файл больше, то разбейте его на файлы меньшего размера.",
+        "Максимальный размер файла должен быть не более ${ MAX_IMPORT_FILE_SIZE_STRING } и иметь не более ${ MAX_IMPORT_CONTACTS_STRING } контактов. Если ваш файл больше, то разбейте его на файлы меньшего размера.",
+        "Максимальный размер файла должен быть не более ${ MAX_IMPORT_FILE_SIZE_STRING } и иметь не более ${ MAX_IMPORT_CONTACTS_STRING } контакта. Если ваш файл больше, то разбейте его на файлы меньшего размера."
+      ],
+      "Use Drag and Drop to rank merging priority between contacts. Uncheck the contacts you do not want to merge.": [
+        "Перетащите контакты, чтобы задать приоритет при объединении. Снимите галочки с контактов, которые вы не хотите объединять."
+      ],
+      "You can mark for deletion the contacts that you do not want neither to merge nor to keep. Deletion will only take place after the merge button is clicked": [
+        "Вы можете отметить для удаления те контакты, которые вы не хотите ни объединять, ни оставлять. Удаление произойдет только после нажатия кнопки «Объединить»"
+      ]
+    },
+    "Description of the purpose of the import CSV modal": {
+      "Also, we have automatically matched CSV fields with vCard fields. You can review and change this matching manually.": [
+        "Также мы автоматически сравнили поля CSV с полями vCard. Вы можете проверить и изменить это соответствие вручную."
+      ],
+      "We have detected the following fields in the CSV file you uploaded. Check the ones you want to import.": [
+        "В загруженном вами CSV-файле мы обнаружили следующие поля. Отметьте те, которые вы хотите импортировать."
+      ]
+    },
+    "Early Access Disabled": {
+      "Off": [
+        "Выкл"
+      ]
+    },
+    "Early Access Enabled": {
+      "On": [
+        "Вкл"
+      ]
+    },
+    "Error": {
+      "A group with this name already exists": [
+        "Группа с таким именем уже существует"
+      ],
+      "A problem occurred, please try again": [
+        "Возникла проблема. Попробуйте еще раз"
+      ],
+      "Authentication canceled.": [
+        "Аутентификация отменена."
+      ],
+      "Authentication error.": [
+        "Ошибка аутентификации."
+      ],
+      "Calendar limit reached": [
+        "Достигнут лимит календаря"
+      ],
+      "Can't create new calendars for all imported calendars due to the personal calendar limit.": [
+        "Невозможно создать новые календари для всех импортированных календарей из-за персонального лимита календарей."
+      ],
+      "Contact could not be saved": [
+        "Контакт не может быть сохранён"
+      ],
+      "Contact signature not verified": [
+        "Подпись контакта не проверена"
+      ],
+      "Content search cannot be enabled in this browser. Please quit private browsing mode or use another browser.": [
+        "Поиск содержимого невозможен в этом браузере. Пожалуйста, выйдите из режима приватного просмотра или используйте другой браузер."
+      ],
+      "Deselect at least ${ calendarToFixCount } calendar": [
+        "Отмените выбор по крайней мере ${ calendarToFixCount } календаря",
+        "Отмените выбор по крайней мере ${ calendarToFixCount } календарей",
+        "Отмените выбор по крайней мере ${ calendarToFixCount } календарей",
+        "Отмените выбор по крайней мере ${ calendarToFixCount } календарей"
+      ],
+      "Deselect at least ${ calendarToFixCount } calendar or": [
+        "Отмените выбор по крайней мере ${ calendarToFixCount } календарь или",
+        "Отмените выбор по крайней мере ${ calendarToFixCount } календарей или",
+        "Отмените выбор по крайней мере ${ calendarToFixCount } календарей или",
+        "Отмените выбор по крайней мере ${ calendarToFixCount } календаря(ей) или"
+      ],
+      "Email address invalid": [
+        "Неверный адрес электронной почты"
+      ],
+      "Email is not valid": [
+        "Эл. почта недействительна"
+      ],
+      "Enter 6 digits": [
+        "Введите 6 цифр"
+      ],
+      "File \"${ item.name }\" cannot be uploaded due to \"${ error }\" error": [
+        "Файл \"${ item.name }\" не может быть загружен из-за \"${ error }\" ошибки"
+      ],
+      "File \"${ name }\" is already downloading": [
+        "Файл \"${ name }\" уже скачивается"
+      ],
+      "File cannot be merged with folder": [
+        "Файл не может быть объединен с папкой"
+      ],
+      "File selection is already downloading": [
+        "Выбранные файлы уже скачиваются"
+      ],
+      "Folder \"${ name }\" is already downloading": [
+        "Папка \"${ name }\" уже скачивается"
+      ],
+      "Folder name cannot be empty.": [
+        "Название папки не может быть пустым."
+      ],
+      "Image upload failed": [
+        "Сбой загрузки изображения"
+      ],
+      "Incorrect login credentials. Please try again.": [
+        "Неверные учетные данные для входа. Пожалуйста, попробуйте снова."
+      ],
+      "Incorrect mailbox password. Please try again.": [
+        "Неверный пароль почтового ящика. Пожалуйста, попробуйте снова."
+      ],
+      "Incorrect password. Please try again.": [
+        "Неверный пароль. Пожалуйста, попробуйте еще раз."
+      ],
+      "Invalid name": [
+        "Недопустимое имя"
+      ],
+      "Invalid public key file": [
+        "Неправильный файл публичного ключа"
+      ],
+      "Invalid verification code": [
+        "Неверный проверочный код"
+      ],
+      "Label name cannot be empty.": [
+        "Название ярлыка не может быть пустым."
+      ],
+      "Merge at least ${ calendarToFixCount } calendar with an existing Proton calendar": [
+        "Объедините по крайней мере ${ calendarToFixCount } календарь с существующим календарем Proton",
+        "Объединить по крайней мере ${ calendarToFixCount } календарей с существующим календарем Proton",
+        "Объединить по крайней мере ${ calendarToFixCount } календарей с существующим календарем Proton",
+        "Объединить по крайней мере ${ calendarToFixCount } календарь(ей) с существующим календарем Proton"
+      ],
+      "Missing key packet": [
+        "Отсутствует пакет ключей"
+      ],
+      "Missing signature": [
+        "Подпись отсутствует"
+      ],
+      "No data to import": [
+        "Нет данных для импорта"
+      ],
+      "No valid address found": [
+        "Не найдено действительных адресов"
+      ],
+      "Not a valid number": [
+        "Номер недействителен"
+      ],
+      "One of the contacts has no email address: ${ noEmailsContactNamesList }": [
+        "У одного из контактов нет адреса электронной почты: ${ noEmailsContactNamesList }",
+        "У некоторых контактов нет адресов электронной почты: ${ noEmailsContactNamesList } ",
+        "У некоторых контактов нет адресов электронной почты: ${ noEmailsContactNamesList } ",
+        "У некоторых контактов нет адресов электронной почты: ${ noEmailsContactNamesList } "
+      ],
+      "One of the groups has no contacts: ${ noContactGroupList }": [
+        "В группе ${ noContactGroupList } нет контактов",
+        "В следующих группах нет контактов: ${ noContactGroupList } ",
+        "В следующих группах нет контактов: ${ noContactGroupList } ",
+        "В следующих группах нет контактов: ${ noContactGroupList } "
+      ],
+      "Passwords do not match": [
+        "Пароли не совпадают"
+      ],
+      "Please activate your content search again": [
+        "Активируйте поиск по содержимому еще раз"
+      ],
+      "Please fix the highlighted conflict to proceed.": [
+        "Пожалуйста, исправьте выделенный конфликт, чтобы продолжить.",
+        "Пожалуйста, исправьте выделенные конфликты, чтобы продолжить.",
+        "Пожалуйста, исправьте выделенные конфликты, чтобы продолжить.",
+        "Пожалуйста, исправьте выделенные конфликты, чтобы продолжить."
+      ],
+      "Preferences could not be saved": [
+        "Настройки не могут быть сохранены"
+      ],
+      "Primary address key is not decrypted": [
+        "Основной ключ адреса не расшифрован"
+      ],
+      "Primary address key is not decrypted.": [
+        "Основной ключ адреса не расшифрован."
+      ],
+      "Report failed to be sent": [
+        "Не удалось отправить отчёт"
+      ],
+      "Request timed out": [
+        "Время запроса истекло"
+      ],
+      "Search failed": [
+        "Поиск не дал результатов"
+      ],
+      "Signature not verified": [
+        "Подпись не проверена"
+      ],
+      "Signature verification failed": [
+        "Проверка подписи не удалась"
+      ],
+      "Some contacts could not be deleted": [
+        "Некоторые контакты не могут быть удалены"
+      ],
+      "Some groups could not be deleted": [
+        "Некоторые группы не могут быть удалены"
+      ],
+      "Some of your label names are unavailable. Please customize the import to edit these names.": [
+        "Некоторые имена ваших ярлыков недоступны. Пожалуйста, настройте импорт для редактирования этих имен."
+      ],
+      "Some of your label names exceed ${ MAIL_APP_NAME }'s maximum character limit. Please customize the import to edit these names.": [
+        "Некоторые из ваших имен ярлыков превышают максимальный лимит символов ${ MAIL_APP_NAME }. Пожалуйста, настройте импорт для изменения этих имен."
+      ],
+      "Something went wrong, please ${ refresh } in order to proceed. If you still see this error message please contact our ${ supportTeam }.": [
+        "Что-то пошло не так, пожалуйста ${ refresh } чтобы продолжить. Если вы все еще видите сообщение об ошибке, свяжитесь с нашей ${ supportTeam }."
+      ],
+      "The folder name is invalid. Please choose a different name.": [
+        "Недопустимое название папки. Пожалуйста, выберите другое название."
+      ],
+      "The folder name is too long. Please choose a different name.": [
+        "Название папки слишком длинное. Пожалуйста, выберите другое название."
+      ],
+      "The label name is invalid. Please choose a different name.": [
+        "Недопустимое название ярлыка. Пожалуйста, выберите другое название."
+      ],
+      "The label name is too long. Please choose a different name.": [
+        "Название ярлыка слишком длинное. Пожалуйста, выберите другое название."
+      ],
+      "The new revision of original file is not uploaded yet, please try again later": [
+        "Новая редакция исходного файла еще не выгружена, пожалуйста, повторите попытку позже"
+      ],
+      "The original file has missing active revision": [
+        "Отсутствует активная редакция исходного файла"
+      ],
+      "The original file has missing hash key": [
+        "У исходного файла отсутствует хэш-ключ"
+      ],
+      "The original file has missing session key": [
+        "В исходном файле отсутствует ключ сеанса"
+      ],
+      "The original file is not uploaded yet, please try again later": [
+        "Исходный файл еще не выгружен, пожалуйста, повторите попытку позже"
+      ],
+      "The original folder not found": [
+        "Исходная папка не найдена"
+      ],
+      "The original folder or file not found": [
+        "Исходная папка или файл не найдены"
+      ],
+      "There are too many folders in your external account. Please customize the import to delete some folders.": [
+        "В вашей внешнем аккаунте слишком много папок. Пожалуйста, настройте импорт, чтобы удалить некоторые папки."
+      ],
+      "There was an error when exporting the contacts vCards": [
+        "Произошла ошибка при экспорте визитных карточек контактов"
+      ],
+      "This field is required": [
+        "Это обязательное поле"
+      ],
+      "This field requires a minimum of ${ minimumLength } characters.": [
+        "Минимальная длина для этого поля: ${ minimumLength }."
+      ],
+      "This folder name is not available. Please choose a different name.": [
+        "Это имя папки недоступно. Пожалуйста, выберите другое название."
+      ],
+      "This label name is not available. Please choose a different name.": [
+        "Это название ярлыка недоступно. Пожалуйста, выберите другое название."
+      ],
+      "This message may contain some link's URL that cannot be properly opened by your current browser": [
+        "Это сообщение может содержать ссылки, которые не могут быть правильно открыты вашим текущим браузером"
+      ],
+      "Unknown error": [
+        "Неизвестная ошибка"
+      ],
+      "You can't send a mail to more than 100 recipients": [
+        "Нельзя отправлять письмо более чем 100 получателям"
+      ],
+      "You can't send vCards of more than 10 contacts": [
+        "Нельзя отправить визитные карточки более чем 10 контактов"
+      ],
+      "You must set a name": [
+        "Вы должны задать имя"
+      ],
+      "Your browser does not support uploading folders": [
+        "Ваш браузер не поддерживает загрузку папок"
+      ],
+      "Your import will not be processed.": [
+        "Ваш импорт не будет обработан."
+      ]
+    },
+    "Error importing calendar": {
+      "An unexpected error occurred. Import must be restarted.": [
+        "Произошла непредвиденная ошибка. Необходимо начать импорт заново."
+      ]
+    },
+    "Error importing contact": {
+      "Encryption failed": [
+        "Ошибка шифрования"
+      ],
+      "vCard versions < 3.0 not supported": [
+        "vCard версии ниже 3.0 не поддерживаются"
+      ]
+    },
+    "Error importing contacts": {
+      "An error occurred reading your file ${ formattedFilename }. File doesn't have the right format.": [
+        "Произошла ошибка при чтении файла ${ formattedFilename }. Формат файла не поддерживается."
+      ],
+      "An error occurred uploading your file ${ formattedFilename }. Maximum file size is ${ MAX_IMPORT_FILE_SIZE_STRING }.": [
+        "Произошла ошибка при загрузке файла ${ formattedFilename }. Максимальный размер: ${ MAX_IMPORT_FILE_SIZE_STRING }."
+      ],
+      "An error occurred uploading your file ${ formattedFilename }. No .csv or .vcf file selected": [
+        "Произошла ошибка при загрузке файла ${ formattedFilename }. Не выбран файл .csv или .vcf"
+      ],
+      "An error occurred uploading your file. No file has been selected.": [
+        "Произошла ошибка при загрузке файла. Ничего не было выбрано."
+      ],
+      "Your file ${ formattedFilename } contains more than ${ MAX_IMPORT_CONTACTS_STRING } contacts.": [
+        "Количество контактов в файле ${ formattedFilename } превышает ${ MAX_IMPORT_CONTACTS_STRING }."
+      ],
+      "Your file ${ formattedFilename } has no contacts to be imported.": [
+        "В файле ${ formattedFilename } нет контактов для импорта."
+      ],
+      "Your file ${ formattedFilename } is empty.": [
+        "Файл ${ formattedFilename } пуст."
+      ]
+    },
+    "Error message": {
+      "Access denied": [
+        "Доступ запрещён"
+      ],
+      "Brace yourself till we get the error fixed.": [
+        "Держитесь, пока мы исправляем ошибку."
+      ],
+      "Error: ${ errorMessage }": [
+        "Ошибка: ${ errorMessage }"
+      ],
+      "Internal server error": [
+        "Внутренняя ошибка сервера"
+      ],
+      "Not found": [
+        "Не найдено"
+      ],
+      "Oops, something went wrong": [
+        "Хм. Что-то пошло не так"
+      ],
+      "Please ${ refresh } or check your connection.": [
+        "Пожалуйста, ${ refresh } или проверьте подключение."
+      ],
+      "There was a problem connecting to Proton.": [
+        "Возникла проблема при подключении к Proton."
+      ],
+      "You may also ${ refresh } or try again later.": [
+        "Вы также можете ${ refresh } или повторить попытку позже."
+      ],
+      "You may also refresh the page or try again later.": [
+        "Также вы можете обновить страницу или повторить попытку позже."
+      ]
+    },
+    "Error notification": {
+      "First name and last name cannot be unchecked at the same time": [
+        "Пометка не может быть снята одновременно с имени и фамилии"
+      ]
+    },
+    "Error notification in the bug report modal when the user upload file": {
+      "No image selected": [
+        "Изображение не выбрано"
+      ]
+    },
+    "file size format": {
+      "bytes": [
+        "байт"
+      ],
+      "GB": [
+        "Гбайт"
+      ],
+      "KB": [
+        "Кбайт"
+      ],
+      "MB": [
+        "Мбайт"
+      ]
+    },
+    "file size format, long": {
+      "Bytes": [
+        "Байт"
+      ],
+      "Gigabytes": [
+        "Гигабайт"
+      ],
+      "Kilobytes": [
+        "Килобайт"
+      ],
+      "Megabytes": [
+        "Мегабайт"
+      ]
+    },
+    "Filter notification": {
+      "${ Label.Name } updated": [
+        "${ Label.Name } обновлён"
+      ]
+    },
+    "Group": {
+      "Account": [
+        "Учётная запись"
+      ],
+      "Apps": [
+        "Приложения"
+      ],
+      "Network": [
+        "Сеть"
+      ],
+      "Other category": [
+        "Другая категория"
+      ],
+      "Services": [
+        "Службы"
+      ]
+    },
+    "Header": {
+      "Contacts": [
+        "Контакты"
+      ],
+      "Contacts, groups and settings": [
+        "Контакты, группы и настройки"
+      ],
+      "Get help": [
+        "Получить помощь"
+      ]
+    },
+    "Hint": {
+      "Found ${ items.length } suggestion, use keyboard to navigate.": [
+        "Найдено ${ items.length } предложение. Используйте клавиатуру для навигации.",
+        "Найдено ${ items.length } предложения. Используйте клавиатуру для навигации.",
+        "Найдено ${ items.length } предложений. Используйте клавиатуру для навигации.",
+        "Найдено ${ items.length } предложения. Используйте клавиатуру для навигации."
+      ],
+      "Use Up and Down keys to access and browse suggestions after input. Press Enter to confirm your choice, or Escape to close the suggestions box.": [
+        "Чтобы получить доступ и просмотреть предложения после ввода, используйте клавиши Вверх и Вниз. Нажмите Enter для подтверждения выбора или Escape для закрытия окна предложений."
+      ]
+    },
+    "Human verification method": {
+      "CAPTCHA": [
+        "Капча"
+      ],
+      "Email": [
+        "Эл. почта"
+      ],
+      "Manual": [
+        "Вручную"
+      ],
+      "No verification method available": [
+        "Нет доступных способов проверки"
+      ],
+      "SMS": [
+        "Короткое сообщение на телефон"
+      ]
+    },
+    "Import calendar": {
+      "Encrypting and adding contacts: ${ totalImported }/${ totalToImport }": [
+        "Шифрование и добавление контактов: ${ totalImported }/${ totalToImport }"
+      ]
+    },
+    "Import calendar warning": {
+      "vCard versions < 3.0": [
+        "Версии vCard < 3.0"
+      ]
+    },
+    "Import contact": {
+      "${ totalImported }/${ totalToImport } contact encrypted and added to your contact list": [
+        "${ totalImported }/${ totalToImport } контакт зашифрован и добавлен в ваш список контактов",
+        "${ totalImported }/${ totalToImport } контакта зашифрованы и добавлены в ваш список контактов",
+        "${ totalImported }/${ totalToImport } контактов зашифровано и добавлено в ваш список контактов",
+        "${ totalImported }/${ totalToImport } контактов зашифровано и добавлено в ваш список контактов"
+      ],
+      "An error occurred while encrypting and adding your contact. No contact could be imported.": [
+        "При шифровании и добавлении контакта произошла ошибка. Контакт не может быть импортирован.",
+        "При шифровании и добавлении контактов произошла ошибка. Контакты не могут быть импортированы.",
+        "При шифровании и добавлении контактов произошла ошибка. Контакты не могут быть импортированы.",
+        "При шифровании и добавлении контактов произошла ошибка. Контакты не могут быть импортированы."
+      ]
+    },
+    "Import contact error": {
+      "Contact ${ contactId }: ": [
+        "Контакт ${ contactId }: "
+      ]
+    },
+    "Import contact groups info": {
+      "${ totalContacts } contact": [
+        "${ totalContacts } контакт",
+        "${ totalContacts } контакта",
+        "${ totalContacts } контактов",
+        "${ totalContacts } контакта"
+      ]
+    },
+    "Import contact. Contact identifier": {
+      "unknown": [
+        "неизвестно"
+      ]
+    },
+    "Import contacts": {
+      "An error occurred while encrypting and adding your contacts. ${ totalImported } out of ${ totalToImport } contacts successfully imported.": [
+        "При шифровании и добавлении ваших контактов произошла ошибка. Успешно импортировано: ${ totalImported } из ${ totalToImport }."
+      ],
+      "Contact successfully imported. The imported contact will now appear in your contact list.": [
+        "Контакт успешно импортирован. Он теперь находится в вашем списке контактов.",
+        "Контакты успешно импортированы. Они теперь находятся в вашем списке контактов.",
+        "Контакты успешно импортированы. Они теперь находятся в вашем списке контактов.",
+        "Контакты успешно импортированы. Они теперь находятся в вашем списке контактов."
+      ]
+    },
+    "Import contacts warning": {
+      "for now": [
+        "пока"
+      ],
+      "ProtonContacts does not support ${ forNow }:": [
+        "ProtonContacts не поддерживает ${ forNow }:"
+      ]
+    },
+    "Import warning": {
+      "${ totalContactsDiscarded } out of ${ totalContacts } contacts will not be imported. Click for details": [
+        "${ totalContactsDiscarded } из ${ totalContacts } контактов не будут импортированы. Нажмите, чтобы узнать подробности"
+      ],
+      "No contact can be imported. Click for details": [
+        "Не удалось импортировать контакты. Нажмите, чтобы узнать подробности"
+      ]
+    },
+    "Info": {
+      "${ activeDownloadsCount } downloading": [
+        "${ activeDownloadsCount } скачивается",
+        "${ activeDownloadsCount } скачиваются",
+        "${ activeDownloadsCount } скачиваются",
+        "${ activeDownloadsCount } скачиваются"
+      ],
+      "${ activeDownloadsCount } downloading (${ downloadProgress }%)": [
+        "${ activeDownloadsCount } скачивается (${ downloadProgress }%)",
+        "${ activeDownloadsCount } скачиваются (${ downloadProgress }%)",
+        "${ activeDownloadsCount } скачиваются (${ downloadProgress }%)",
+        "${ activeDownloadsCount } скачиваются (${ downloadProgress }%)"
+      ],
+      "${ activeUploadsCount } uploading (${ uploadProgress }%)": [
+        "${ activeUploadsCount } загружается (${ uploadProgress }%)",
+        "${ activeUploadsCount } загружаются (${ uploadProgress }%)",
+        "${ activeUploadsCount } загружаются (${ uploadProgress }%)",
+        "${ activeUploadsCount } загружаются (${ uploadProgress }%)"
+      ],
+      "${ addressCount } email address": [
+        "${ addressCount } адрес электронной почты",
+        "${ addressCount } адреса электронной почты",
+        "${ addressCount } адресов электронной почты",
+        "${ addressCount } адреса электронной почты"
+      ],
+      "${ appName } needs your permission to ${ enableDesktopNotifications }.": [
+        "${ appName } нужно ваше разрешение на ${ enableDesktopNotifications }."
+      ],
+      "${ calendarsToBeCreatedCount } new calendar": [
+        "${ calendarsToBeCreatedCount } новый календарь",
+        "${ calendarsToBeCreatedCount } новых календарей",
+        "${ calendarsToBeCreatedCount } новых календарей",
+        "${ calendarsToBeCreatedCount } новых(ый) календарь(я,ей)"
+      ],
+      "${ calendarsToBeMerged } merged calendar": [
+        "${ calendarsToBeMerged } объединенный календарь",
+        "${ calendarsToBeMerged } объединенных календарей",
+        "${ calendarsToBeMerged } объединенных календарей",
+        "${ calendarsToBeMerged } объединенный(х) календарь(я,ей)"
+      ],
+      "${ calendarsToBeMergedCount } merged calendar": [
+        "${ calendarsToBeMergedCount } объединенный календарь",
+        "${ calendarsToBeMergedCount } объединенных календарей",
+        "${ calendarsToBeMergedCount } объединенных календарей",
+        "${ calendarsToBeMergedCount } объединенный(х) календарь(я,ей)"
+      ],
+      "${ canceledCount } canceled": [
+        "${ canceledCount } отменен",
+        "${ canceledCount } отменены",
+        "${ canceledCount } отменены",
+        "${ canceledCount } отменены"
+      ],
+      "${ contactCount } contact contains multiple email addresses.": [
+        "${ contactCount } контакт содержит несколько адресов электронной почты.",
+        "${ contactCount } контакта содержат несколько адресов электронной почты.",
+        "${ contactCount } контактов содержат несколько адресов электронной почты.",
+        "${ contactCount } контакта содержит несколько адресов электронной почты."
+      ],
+      "${ contactEmailsLength } Member": [
+        "${ contactEmailsLength } участник",
+        "${ contactEmailsLength } участника",
+        "${ contactEmailsLength } участников",
+        "${ contactEmailsLength } участника"
+      ],
+      "${ contactName } contains multiple email addresses.": [
+        "${ contactName } содержит несколько адресов электронной почты."
+      ],
+      "${ contactsCount } contact found": [
+        "Найден ${ contactsCount } контакт",
+        "Найдено ${ contactsCount } контакта",
+        "Найдено ${ contactsCount } контактов",
+        "Найдено ${ contactsCount } контактов"
+      ],
+      "${ doneCount } finished": [
+        "${ doneCount } завершён",
+        "${ doneCount } завершены",
+        "${ doneCount } завершены",
+        "${ doneCount } завершены"
+      ],
+      "${ doneDownloadsCount } downloaded": [
+        "${ doneDownloadsCount } скачан",
+        "${ doneDownloadsCount } скачаны",
+        "${ doneDownloadsCount } скачано",
+        "${ doneDownloadsCount } скачано"
+      ],
+      "${ doneUploadsCount } uploaded": [
+        "${ doneUploadsCount } загружен",
+        "${ doneUploadsCount } загружены",
+        "${ doneUploadsCount } загружены",
+        "${ doneUploadsCount } загружены"
+      ],
+      "${ errorCount } failed": [
+        "${ errorCount } не удался",
+        "${ errorCount } не удались",
+        "${ errorCount } не удались",
+        "${ errorCount } не удались"
+      ],
+      "${ groupCounts } group found": [
+        "Найдена ${ groupCounts } группа",
+        "Найдено ${ groupCounts } группы",
+        "Найдено ${ groupCounts } групп",
+        "Найдено ${ groupCounts } групп"
+      ],
+      "${ numContactGroups } contact group": [
+        "${ numContactGroups } группа контактов",
+        "${ numContactGroups } групп контактов",
+        "${ numContactGroups } групп контактов",
+        "${ numContactGroups } групп(а,ы) контактов"
+      ],
+      "${ numContacts } contact": [
+        "${ numContacts } контакт",
+        "${ numContacts } контактов",
+        "${ numContacts } контактов",
+        "${ numContacts } контакт(а,ов)"
+      ],
+      "${ pausedCount } paused": [
+        "${ pausedCount } приостановлен",
+        "${ pausedCount } приостановлены",
+        "${ pausedCount } приостановлены",
+        "${ pausedCount } приостановлены"
+      ],
+      "${ selectedCalendarsTotal } of ${ providerCalendars.length } calendar": [
+        "${ selectedCalendarsTotal } из ${ providerCalendars.length } календаря",
+        "${ selectedCalendarsTotal } из ${ providerCalendars.length } календарей",
+        "${ selectedCalendarsTotal } из ${ providerCalendars.length } календарей",
+        "${ selectedCalendarsTotal } из ${ providerCalendars.length } календаря(ей)"
+      ],
+      "${ selectedFoldersCount } folder selected": [
+        "${ selectedFoldersCount } папка выбрана",
+        "${ selectedFoldersCount } папок выбрано",
+        "${ selectedFoldersCount } папок выбрано",
+        "${ selectedFoldersCount } папок(а,и) выбрано(на)"
+      ],
+      "${ selectedFoldersCount } label selected": [
+        "${ selectedFoldersCount } ярлык выбран",
+        "${ selectedFoldersCount } ярлыков выбрано",
+        "${ selectedFoldersCount } ярлыков выбрано",
+        "${ selectedFoldersCount } ярлык(а,ов) выбран(о)"
+      ],
+      "${ speed }/s": [
+        "${ speed }/с"
+      ],
+      "${ storageSize } storage": [
+        "${ storageSize } хранилища"
+      ],
+      "${ updated } contact updated successfully.": [
+        "${ updated } контакт успешно обновлен.",
+        "${ updated } контакта успешно обновлено.",
+        "${ updated } контактов успешно обновлено.",
+        "${ updated } контакта успешно обновлено."
+      ],
+      "${ uploadName } already exists in this location.": [
+        "${ uploadName } уже существует в этой папке."
+      ],
+      "(${ memberCount } member)": [
+        "(${ memberCount } учасник)",
+        "(${ memberCount } учасники)",
+        "(${ memberCount } учасники)",
+        "(${ memberCount } учасники)"
+      ],
+      "10 email addresses": [
+        "10 адресов электронной почты"
+      ],
+      "A number will be added to the filename": [
+        "К имени файла будет добавлен номер"
+      ],
+      "A number will be added to the folder name": [
+        "К имени папки будет добавлен номер"
+      ],
+      "Account access restricted due to unpaid invoices. Please contact your administrator.": [
+        "Доступ к учётной записи ограничен из-за неоплаченных счетов. Пожалуйста, обратитесь к вашему администратору."
+      ],
+      "Address Verification with Trusted Keys is enabled for this address. To be able to send to this address, first trust public keys that can be used for sending.": [
+        "Для этого адреса включена проверка доверенными ключами. Чтобы получить возможность отправки на этот адрес, сначала включите режим доверия публичным ключам, которые можно применять для отправки."
+      ],
+      "All (${ totalFoldersCount } folder)": [
+        "Вся (${ totalFoldersCount } папка)",
+        "Все (${ totalFoldersCount } папок)",
+        "Все (${ totalFoldersCount } папок)",
+        "Все (${ totalFoldersCount } папки(ок))"
+      ],
+      "All (${ totalFoldersCount } label)": [
+        "Все (${ totalFoldersCount } ярлык)",
+        "Все (${ totalFoldersCount } ярлыков)",
+        "Все (${ totalFoldersCount } ярлыков)",
+        "Все (${ totalFoldersCount } ярлыка(ов)"
+      ],
+      "An active recovery file": [
+        "Активный файл восстановления"
+      ],
+      "and": [
+        "и"
+      ],
+      "Anyone with this link can access your file.": [
+        "Доступ к файлу разрешен всем, у кого есть ссылка."
+      ],
+      "Anyone with this link can access your folder.": [
+        "Доступ к вашей папке разрешен всем, у кого есть эта ссылка."
+      ],
+      "Are you sure you want to empty trash and permanently delete all the items?": [
+        "Вы уверены, что хотите очистить корзину и безвозвратно удалить все элементы?"
+      ],
+      "Are you sure you want to permanently delete \"${ itemName }\" from trash?": [
+        "Вы уверены, что хотите навсегда удалить \"${ itemName }\" из корзины?"
+      ],
+      "Are you sure you want to permanently delete selected items from trash?": [
+        "Вы уверены, что хотите безвозвратно удалить выбранные элементы из корзины?"
+      ],
+      "Because ${ appName } is end-to-end encrypted, we cannot access\nor decrypt your files for you. To unlock your drive after a password reset,\nyou must have one of the following:": [
+        "Поскольку ${ appName } зашифрован из конца в конец, мы не можем получить доступ\nили расшифровать ваши файлы. Чтобы разблокировать диск после сброса пароля,\nвы должны иметь одно из следующих устройств:"
+      ],
+      "Before requesting a new verification code, check your spam folder and check that ${ strong } is the correct address.": [
+        "Прежде чем запросить новый код подтверждения, проверьте свою папку спама и убедитесь, что ${ strong } - это корректный адрес."
+      ],
+      "Canceled": [
+        "Отменено"
+      ],
+      "Cannot remember your password? We can help you clear the encrypted data of all contacts encrypted with this key and in the process dismiss the alert.": [
+        "Не помните ваш пароль? Мы можем помочь вам удалить данные зашифрованные этим ключом для всех контактов и таким образом убрать это оповещение."
+      ],
+      "Checking contact ${ progress } of ${ max }...": [
+        "Проверка контакта ${ progress } из ${ max }…"
+      ],
+      "Checking signatures": [
+        "Проверка подписей"
+      ],
+      "Clear data": [
+        "Очистить данные"
+      ],
+      "Clear encrypted search data": [
+        "Очистить зашифрованные данные поиска"
+      ],
+      "Clearing browser data will clear the search index on this device. All files would need to be re-indexed again while using the search functionality.": [
+        "Очистка данных браузера очистит поисковый индекс на этом устройстве. При использовании функции поиска все файлы необходимо будет заново проиндексировать."
+      ],
+      "Clears browser data related to the encrypted search.": [
+        "Очищает данные браузера, связанные с зашифрованным поиском."
+      ],
+      "Click \"Request new code\" to have a new verification code sent to ${ strong }. If this phone number is incorrect, click \"Edit\" to correct it.": [
+        "Нажмите «Запросить новый код», и мы отправим новый проверочный код на ${ strong }. Если этот номер телефона недействителен, выберите «Изменить» и обновите его."
+      ],
+      "Close this screen to exit.": [
+        "Закройте этот экран, чтобы выйти."
+      ],
+      "Conflict": [
+        "Конфликт"
+      ],
+      "Continue using ${ appName } and unlock drive later": [
+        "Продолжить использование ${ appName } и разблокировать хранилище позже"
+      ],
+      "Continue with ${ planName }": [
+        "Продолжить с ${ planName }"
+      ],
+      "Create ${ calendarsToBeCreated } new calendar": [
+        "Создать ${ calendarsToBeCreated } новый календарь",
+        "Создать ${ calendarsToBeCreated } новых календарей",
+        "Создать ${ calendarsToBeCreated } новых календарей",
+        "Создать ${ calendarsToBeCreated } новых(ый) календарь(я,ей)"
+      ],
+      "Create a label for the imported messages, a time range for this import, and the folders you would like to import.": [
+        "Создайте ярлык для импортированных сообщений, укажите диапазон времени для этого импорта и папки, которые вы хотите импортировать."
+      ],
+      "Create a label for the imported messages, a time range for this import, and the labels you would like to import.": [
+        "Создайте ярлык для импортированных сообщений, укажите диапазон времени для этого импорта и ярлыки, которые вы хотите импортировать."
+      ],
+      "Create a new contact group": [
+        "Создать новую группу контактов"
+      ],
+      "Create in": [
+        "Создать в"
+      ],
+      "Create links and share your files with others.": [
+        "Создавайте ссылки и делитесь файлами с другими."
+      ],
+      "Create your first folder and start moving your files.": [
+        "Создайте свою первую папку и начните загружать ваши файлы."
+      ],
+      "Creating": [
+        "Создание"
+      ],
+      "Creating link to file": [
+        "Создание ссылки на файл"
+      ],
+      "Creating link to folder": [
+        "Создание ссылки на папку"
+      ],
+      "Creating share": [
+        "Создается совместное содержимое"
+      ],
+      "CSV files from Outlook, Outlook Express, Yahoo! Mail, Hotmail, Eudora and some other apps as well as vCard 3.1 and 4.0 formats (UTF-8 encoding) are supported.": [
+        "Поддерживаются файлы CSV из Outlook, Outlook Express, Yahoo! Mail, Hotmail, Eudora и некоторых других приложений, а также форматы vCard 3.1 и 4.0 (кодировка UTF-8)."
+      ],
+      "Delete drive": [
+        "Удалить хранилище",
+        "Удалить хранилища",
+        "Удалить хранилища",
+        "Удалить хранилища"
+      ],
+      "Digital signature verified. This file was securely uploaded by ${ emailAddress }.": [
+        "ЭЦП проверена. Этот файл был безопасно загружен ${ emailAddress }."
+      ],
+      "Digital signature verified. This folder was securely uploaded by ${ emailAddress }.": [
+        "ЭЦП проверена. Эта папка была безопасно загружена ${ emailAddress }."
+      ],
+      "Download of ${ downloadFileName } will be aborted": [
+        "Скачивание ${ downloadFileName } будет прервано"
+      ],
+      "Downloaded": [
+        "Скачано"
+      ],
+      "Downloading": [
+        "Скачивание"
+      ],
+      "Downloading items ${ esProgress } out of ${ totalProgressToShow }": [
+        "Загрузка элементов ${ esProgress } из ${ totalProgressToShow }"
+      ],
+      "Drag and drop a file here or choose to upload.": [
+        "Для загрузки файлов перетащите их сюда или выберите через диалоговое окно."
+      ],
+      "Drop the file here to upload": [
+        "Для загрузки файла перетащите его сюда"
+      ],
+      "Duplicate key updated": [
+        "Дубликат ключа обновлён"
+      ],
+      "Enable drive search": [
+        "Включить поиск по хранилищу"
+      ],
+      "Encrypted search is here": [
+        "Зашифрованный поиск тут"
+      ],
+      "Enter the verification code that was sent to ${ destinationText }.": [
+        "Введите код подтверждения, отправленный на ${ destinationText }."
+      ],
+      "Estimated time remaining: ${ estimatedMinutes } minute": [
+        "Оставшееся время: ${ estimatedMinutes } минута",
+        "Оставшееся время: ${ estimatedMinutes } минуты",
+        "Оставшееся время: ${ estimatedMinutes } минут",
+        "Оставшееся время: ${ estimatedMinutes } минут"
+      ],
+      "Estimated time remaining: Less than a minute": [
+        "Оставшееся время: меньше минуты"
+      ],
+      "Estimating time remaining...": [
+        "Оценка оставшегося времени..."
+      ],
+      "Failed": [
+        "Завершено с ошибкой"
+      ],
+      "Failed to generate a secure link. Try again later.": [
+        "Не удалось создать безопасную ссылку. Повторите попытку позже."
+      ],
+      "Failed to open a secure link. The reason is: ${ error }": [
+        "Не удалось открыть защищенную ссылку. Причина: ${ error }"
+      ],
+      "File \"${ name }\" was deleted during download": [
+        "Файл \"${ name }\" был удален во время загрузки"
+      ],
+      "File is missing signature. We couldn’t verify that ${ emailAddress } uploaded ${ fileName }.": [
+        "У файла отсутствует подпись. Мы не смогли проверить, что ${ emailAddress } загрузил ${ fileName }."
+      ],
+      "File is missing signature. We couldn’t verify who uploaded ${ fileName }.": [
+        "У файла отсутствует подпись. Мы не смогли проверить, кто загрузил ${ fileName }."
+      ],
+      "File will not be uploaded": [
+        "Файл не будет загружен"
+      ],
+      "Finalizing": [
+        "Завершение"
+      ],
+      "Folder \"${ link.name }\" was deleted during download": [
+        "Папка \"${ link.name }\" была удалена во время загрузки"
+      ],
+      "Folder contents will merge into a single folder": [
+        "Содержимое папки объединяется в одну папку"
+      ],
+      "Folder is missing signature. We couldn’t verify that ${ emailAddress } uploaded ${ fileName }.": [
+        "У папки отсутствует подпись. Мы не смогли проверить, что ${ emailAddress } загрузил ${ fileName }."
+      ],
+      "Folder is missing signature. We couldn’t verify who uploaded ${ fileName }.": [
+        "У папки отсутствует подпись. Мы не смогли проверить, кто загрузил ${ fileName }."
+      ],
+      "Folder will not be uploaded": [
+        "Папка не будет загружена"
+      ],
+      "Free up some space or add more storage space.": [
+        "Освободите место или добавьте больше места."
+      ],
+      "Free up some space or contact your administrator.": [
+        "Освободите место или свяжитесь с вашим администратором."
+      ],
+      "Go to \"My files\" and upload some files first.": [
+        "Сначала загрузите что-нибудь в «Мои файлы»."
+      ],
+      "Group assignment applied": [
+        "Группа применена"
+      ],
+      "here": [
+        "здесь"
+      ],
+      "How does encrypted search work?": [
+        "Как работает зашифрованный поиск?"
+      ],
+      "If you are having trouble creating your account, please request an invitation and we will respond within one business day.": [
+        "Если у вас возникли проблемы с созданием учетной записи, пожалуйста, запросите приглашение и мы ответим в течение одного рабочего дня."
+      ],
+      "If you believe this is in error, please contact us ${ contactLink }.": [
+        "Если вы считаете, что это ошибка, пожалуйста, свяжитесь с нами ${ contactLink }."
+      ],
+      "If you don't find the email in your inbox, please check your spam folder.": [
+        "Если сообщения нет в папке \"Входящие\" — проверьте, не попало ли оно в папку «спам»."
+      ],
+      "If you have one of these, continue to Proton account setting to\nstart the unblock process.": [
+        "Если у вас есть один из них, перейдите к настройкам учетной записи Proton, чтобы\nначать процесс разблокировки."
+      ],
+      "Import ${ contactsFragment } and ${ contactsGroupsFragment }": [
+        "Импорт ${ contactsFragment } и ${ contactsGroupsFragment }"
+      ],
+      "Import ${ selectedCalendarsCount } of ${ totalCalendarsCount } calendar": [
+        "Импортируйте ${ selectedCalendarsCount } из ${ totalCalendarsCount } календаря",
+        "Импортируйте ${ selectedCalendarsCount } из ${ totalCalendarsCount } календарей",
+        "Импортируйте ${ selectedCalendarsCount } из ${ totalCalendarsCount } календарей",
+        "Импортируйте ${ selectedCalendarsCount } из ${ totalCalendarsCount } календаря(я,ей)"
+      ],
+      "Import from": [
+        "Импортировать из"
+      ],
+      "Import in progress": [
+        "Выполняется импорт"
+      ],
+      "Importing your data from ${ importedEmailAddress } to ${ toEmail }.": [
+        "Импорт ваших данных из ${ importedEmailAddress } в ${ toEmail }."
+      ],
+      "Indexing search results…": [
+        "Индексирование результатов поиска…"
+      ],
+      "Inherited from parent folder": [
+        "Унаследовано от родительской папки"
+      ],
+      "Initializing": [
+        "Инициализация"
+      ],
+      "Internet connection lost": [
+        "Подключение к Интернету потеряно"
+      ],
+      "Internet connection lost. Please check your device's connectivity.": [
+        "Интернет-соединение потеряно. Пожалуйста, проверьте возможность подключения устройства."
+      ],
+      "Internet connection restored.": [
+        "Соединение с интернет восстановлено."
+      ],
+      "Just confirm your selection and we'll do the rest.": [
+        "Просто подтвердите свой выбор, а остальное мы сделаем сами."
+      ],
+      "Key fingerprint": [
+        "Отпечаток ключа"
+      ],
+      "Large imports can take several days.": [
+        "Большой импорт может занять несколько дней."
+      ],
+      "Learn more": [
+        "Подробнее"
+      ],
+      "Link copied to clipboard": [
+        "Ссылка скопирована в буфер обмена"
+      ],
+      "Link expires: ": [
+        "Срок действия ссылки: "
+      ],
+      "Loading": [
+        "Загружаем"
+      ],
+      "Loading ${ appName }": [
+        "Загрузка ${ appName }"
+      ],
+      "Loading preview": [
+        "Загрузка предпросмотра"
+      ],
+      "Loading share": [
+        "Загружается совместное содержимое"
+      ],
+      "Merged": [
+        "Объединённые"
+      ],
+      "More": [
+        "Ещё"
+      ],
+      "Moving files": [
+        "Перемещение файлов"
+      ],
+      "My Links": [
+        "Мои ссылки"
+      ],
+      "Name your new folder and select the parent folder you want to put it in. If you do not select a parent folder, this new folder will be created as a top level folder.": [
+        "Назовите новую папку и выберите родительскую папку, в которую вы хотите ее поместить. Если вы не выберете родительскую папку, то эта новая папка будет создана как папка верхнего уровня."
+      ],
+      "Network issue": [
+        "Проблема с сетью"
+      ],
+      "New": [
+        "Новый"
+      ],
+      "No": [
+        "Нет"
+      ],
+      "No contacts added yet": [
+        "Контакты еще не добавлены"
+      ],
+      "No email address": [
+        "Нет адреса эл. почты"
+      ],
+      "No files or folders in trash": [
+        "В корзине нет ни папок, ни файлов"
+      ],
+      "No group found": [
+        "Группа не найдена"
+      ],
+      "No preview available": [
+        "Предпросмотр недоступен"
+      ],
+      "No results found": [
+        "Результаты не найдены"
+      ],
+      "None of the uploaded keys are valid for encryption. Encryption is automatically disabled.": [
+        "Ни один из загруженных ключей не подходит для шифрования. Шифрование автоматически отключено."
+      ],
+      "Not a valid URL": [
+        "Не является действительным URL"
+      ],
+      "Note: Data may still be available locally on devices where you have installed ${ appName }.": [
+        "Примечание: Данные могут быть все еще доступны локально на устройствах, на которых вы установили ${ appName }."
+      ],
+      "of": [
+        "из"
+      ],
+      "One of your encrypted drives is locked. This is most likely due to a recent password reset.": [
+        "Один из ваших зашифрованных дисков заблокирован. Скорее всего, это вызвано недавним сбросом пароля."
+      ],
+      "One or more of your trusted keys were marked \"compromised\" by their owner. We recommend that you \"untrust\" these keys.": [
+        "Один или несколько ваших доверенных ключей были отмечены их владельцем как «раскрытые». Мы рекомендуем вам «отозвать доверие» у этих ключей."
+      ],
+      "Only ${ MAX_CUSTOM_PASSWORD_LENGTH } characters is allowed": [
+        ""
+      ],
+      "Only change these settings if you are using PGP with non-${ BRAND_NAME } recipients.": [
+        "Изменяйте эти настройки только в том случае, если используете PGP для переписки с получателями вне ${ BRAND_NAME }."
+      ],
+      "Only the people with the link and the password can access this file.": [
+        "Только люди со ссылкой и паролем могут получить доступ к этому файлу."
+      ],
+      "Only the people with the link and the password can access this folder.": [
+        "Только люди со ссылкой и паролем могут получить доступ к этой папке."
+      ],
+      "Other options": [
+        "Другие возможности"
+      ],
+      "Paused": [
+        "Приостановлено"
+      ],
+      "Permanently delete all files in your drive": [
+        "Окончательно удалить все файлы в вашем хранилище"
+      ],
+      "PGP/Inline is only compatible with Plain Text format. Please note that ${ MAIL_APP_NAME } always signs encrypted messages.": [
+        "PGP/Inline совместим только с форматом Обычного текста. Обратите внимание, что ${ MAIL_APP_NAME } всегда подписывает зашифрованные сообщения."
+      ],
+      "PGP/MIME automatically sends the message using the current composer mode. Please note that ${ MAIL_APP_NAME } always signs encrypted messages": [
+        "PGP/MIME автоматически отправляет сообщение, используя текущий режим редактора писем. Обратите внимание, что ${ MAIL_APP_NAME } всегда подписывает зашифрованные сообщения"
+      ],
+      "Please note that addresses assigned to this group will NOT be deleted.": [
+        "Обратите внимание, что адреса, назначенные этой группе, НЕ будут удалены."
+      ],
+      "Please note that this process may take some time depending on the size of your address book.": [
+        "Пожалуйста, обратите внимание, что этот процесс может занять некоторое время в зависимости от размера вашей адресной книги."
+      ],
+      "Please select the folders you would like to import:": [
+        "Пожалуйста, выберите папки для импорта:"
+      ],
+      "Please select which email address or addresses to add to ${ groupCount } group.": [
+        "Пожалуйста, выберите, какой или какие адреса электронной почты нужно добавить в ${ groupCount } группу.",
+        "Пожалуйста, выберите, какой или какие адреса электронной почты нужно добавить в ${ groupCount } группы.",
+        "Пожалуйста, выберите, какой или какие адреса электронной почты нужно добавить в ${ groupCount } групп.",
+        "Пожалуйста, выберите, какой или какие адреса электронной почты нужно добавить в ${ groupCount } группы."
+      ],
+      "Please select which email address or addresses to add to ${ groupName }.": [
+        "Пожалуйста, выберите, какой или какие адреса электронной почты нужно добавить в ${ groupName }."
+      ],
+      "Please wait while we look for contacts that can be re-signed with the primary encryption key.": [
+        "Пожалуйста, подождите, пока мы ищем контакты, которые можно повторно подписать с помощью основного ключа шифрования."
+      ],
+      "Please wait while we look for contacts that contain data encrypted with the inactive key.": [
+        "Пожалуйста, подождите, пока мы ищем контакты с зашифрованными неактивным ключом данными."
+      ],
+      "Preparing link to file": [
+        "Подготовка ссылки на файл"
+      ],
+      "Preparing link to folder": [
+        "Подготовка ссылки на папку"
+      ],
+      "Preview": [
+        "Предпросмотр"
+      ],
+      "Primary": [
+        "Основной"
+      ],
+      "Priority support": [
+        "Приоритетная поддержка"
+      ],
+      "Queued": [
+        "Поставлено в очередь"
+      ],
+      "recommended browser": [
+        "рекомендуемый браузер"
+      ],
+      "Recovery process might take some time.": [
+        "Восстановление может занять некоторое время."
+      ],
+      "Refreshing the page or ${ link } will automatically resolve most issues.": [
+        "Обновление страницы или ${ link } автоматически решит большую часть проблем."
+      ],
+      "Report has been sent": [
+        "Отчет был отправлен"
+      ],
+      "Search cannot be enabled in this browser": [
+        "Поиск не может быть включен в этом браузере"
+      ],
+      "Select an uploaded file or folder and create a link to it.": [
+        "Выберите загруженный файл или папку и создайте ссылку на них."
+      ],
+      "Select the email format you want to be used by default when sending an email to this email address.": [
+        "Выберите формат письма, который вы хотите использовать по умолчанию при отправке почты на этот адрес."
+      ],
+      "Select what you want to move from Google.": [
+        "Выберите, что вы хотите перенести из Google."
+      ],
+      "Select which calendars to import. A new calendar will be created for each imported calendar up to the 20 calendars limit.": [
+        "Выберите, какие календари необходимо импортировать. Для каждого импортированного календаря будет создан новый календарь, не превышающий лимит в 20 календарей."
+      ],
+      "Servers are unreachable. Please try again in a few minutes": [
+        "Серверы недоступны. Попробуйте снова через несколько минут"
+      ],
+      "Session timed out": [
+        "Время сеанса истекло"
+      ],
+      "Setting up PGP allows you to send end-to-end encrypted emails with a non-${ BRAND_NAME } user that uses a PGP compatible service.": [
+        "Настройка PGP позволяет отправлять электронную почту, защифрованную сквозным метом с пользователем, не являющимся ${ BRAND_NAME }, который использует службу, совместимую с PGP."
+      ],
+      "Share files with links": [
+        "Делитесь файлами с помощью ссылок"
+      ],
+      "Signature check will be ignored": [
+        "Проверка подписи будет проигнорирована"
+      ],
+      "Signature issue": [
+        "Проблема с подписью"
+      ],
+      "Some of your files are no longer accessible. Restore the access to your files. ${ StartRecoveryButton }": [
+        "Некоторые из ваших файлов больше недоступны. Восстановите доступ к своим файлам. ${ StartRecoveryButton }"
+      ],
+      "Something went wrong, please try again later.": [
+        "Что-то пошло не так. Пожалуйста, повторите попытку позже."
+      ],
+      "Storage space is shared across ${ MAIL_APP_NAME }, ${ CALENDAR_APP_NAME }, and ${ DRIVE_APP_NAME }.": [
+        "Место для хранения совместно используется ${ MAIL_APP_NAME }, ${ CALENDAR_APP_NAME } и ${ DRIVE_APP_NAME }."
+      ],
+      "Support for 1 custom email domain": [
+        "Поддержка 1 пользовательского домена электронной почты"
+      ],
+      "support team": [
+        "служба поддержки"
+      ],
+      "The account may have a new key, or the following may have been tampered with: ${ items }. Only open if you trust it.": [
+        "Учетная запись может иметь новый ключ, или могли быть взломаны следующие элементы: ${ items }. Открывайте только в том случае, если им доверяете."
+      ],
+      "The application needs to locally decrypt your contacts before they can be exported. At the end of the process, a VCF file will be generated and you will be able to download it.": [
+        "Приложению необходимо расшифровать ваши контакты, прежде чем экспортировать их. В итоге будет сгенерирован VCF-файл, и вы сможете его скачать."
+      ],
+      "The following may have been tampered with: ${ items }. Only open if you trust it.": [
+        "Возможно, следующие элементы были взломаны: ${ items }. Открывайте их только в том случае, если вы им доверяете."
+      ],
+      "There are files that still need to be transferred. Closing the transfer manager will end all operations.": [
+        "Всё ещё остались файлы для передачи. Закрытие менеджера передачи завершит все операции."
+      ],
+      "There are no files yet": [
+        "Пока здесь пусто"
+      ],
+      "This account has been suspended due to a potential policy violation.": [
+        "Этот аккаунт был приостановлен из-за потенциального нарушения политики."
+      ],
+      "This address is disabled. To be able to send to this address, the owner must first enable the address.": [
+        "Этот адрес отключён. Чтобы иметь возможность отправки на этот адрес, сначала он должен быть включён его владельцем."
+      ],
+      "This browser does not support previewing PDF documents. Please download the file.": [
+        "Браузер не поддерживает предпросмотр PDF-документов. Пожалуйста, скачайте файл."
+      ],
+      "This link leads to a website that might be trying to steal your information, such as passwords and credit card details.": [
+        "Эта ссылка ведет на сайт, который может пытаться украсть вашу информацию, например, пароли и данные кредитной карты."
+      ],
+      "This link may be a homograph attack and cannot be opened by Internet Explorer and Edge browsers. If you are certain the link is legitimate, please use a different browser to open it.": [
+        "Эта ссылка может быть омографической атакой, при которой символы одного алфавита подменяются похожими символами из другого, и не может быть открыта браузерами Internet Explorer и Edge. Если вы уверены, что ссылка безопасна, то, пожалуйста, воспользуйтесь другим браузером для её открытия."
+      ],
+      "This link may be a homograph attack. Please verify this is the link you wish to visit, or don't open it.": [
+        "Эта ссылка может быть омографической атакой, при которой символы одного алфавита подменяются похожими символами из другого. Пожалуйста, проверьте, что это именно та ссылка, которую вы хотите посетить, или не переходите по ней."
+      ],
+      "This link was created in\na previous version and can not be modified. Delete this link and create a\nnew one to change the settings.": [
+        "Эта ссылка была создана в\nпредыдущей версии и не может быть изменена. Удалите эту ссылку и создайте\nновую, чтобы изменить настройки."
+      ],
+      "This link will be permanently disabled. No one with this link will be able to access your file. To reshare the file, you will need a new link.": [
+        "Доступ к файлу по этой ссылке будет закрыт. Чтобы поделиться файлом, нужно будет создать новую ссылку."
+      ],
+      "This link will be permanently disabled. No one with this link will be able to access your folder. To reshare the folder, you will need a new link.": [
+        "Эта ссылка будет навсегда отключена. Никто с этой ссылкой не сможет получить доступ к вашей папке. Чтобы повторно поделиться папкой, вам потребуется новая ссылка."
+      ],
+      "This will delete the link and remove access to your file or folder for anyone with the link.": [
+        "Это удалит ссылку и лишит доступа к вашему файлу или папке всех, у кого есть ссылка.",
+        "Это удалит ссылки и лишит доступа к вашим файлам или папкам всех, у кого есть ссылка.",
+        "Это удалит ссылки и лишит доступа к вашим файлам или папкам всех, у кого есть ссылка.",
+        "Это удалит ссылки и лишит доступа к вашим файлам или папкам всех, у кого есть ссылка."
+      ],
+      "This will overwrite the existing file": [
+        "Существующий файл будет перезаписан"
+      ],
+      "This will overwrite the existing folder": [
+        "Это перезапишет существующую папку"
+      ],
+      "To enable truly private search ${ DRIVE_APP_NAME } needs to index your files locally.": [
+        "Чтобы включить действительно конфиденциальный поиск, ${ DRIVE_APP_NAME } должен индексировать ваши файлы локально."
+      ],
+      "To enable truly private search ${ DRIVE_APP_NAME } needs to index your files locally. You can still use ${ DRIVE_APP_NAME } normally - we’ll let you know when indexing is done.": [
+        "Чтобы включить действительно конфиденциальный поиск, ${ DRIVE_APP_NAME } должен проиндексировать ваши файлы локально. Вы по-прежнему можете использовать ${ DRIVE_APP_NAME } в обычном режиме - мы сообщим вам, когда индексирование будет завершено."
+      ],
+      "To fight spam and abuse, please verify you are human.": [
+        "Для предотвращения распространения спама и иных злоупотреблений нашим сервисом, нам нужно убедиться, что вы человек."
+      ],
+      "To re-sign your contacts, we need to check every contact against the list of encryption keys available in your account. If no match is found, your contact will be re-signed with the primary encryption key.": [
+        "Для повторной подписи контактов нам необходимо проверить каждый контакт с помощью списка ключей шифрования, доступных в вашей учетной записи. Если совпадение не найдено, ваш контакт будет повторно подписан основным ключом шифрования."
+      ],
+      "To recover your data, you need to re-activate the contact encryption key used at the time when the data was created. This will require you to remember the password used when the key was generated.": [
+        "Для восстановления данных необходимо повторно активировать ключ шифрования контактов, использованный в момент создания данных. Для этого понадобится, чтобы вы вспомнили пароль, использованный при создании ключа."
+      ],
+      "To use Address Verification, you must trust one or more available public keys, including the one you want to use for sending. This prevents the encryption keys from being faked.": [
+        "Чтобы использовать проверку адреса, вы должны доверять одному или нескольким из доступных публичных ключей, включая тот, который вы хотите использовать для отправки. Это предотвращает подделку ключей шифрования."
+      ],
+      "Transfer canceled for file \"${ name }\"": [
+        "Отменена передача файла \"${ name }\""
+      ],
+      "Transfer canceled for folder \"${ name }\"": [
+        "Отменена передача паки \"${ name }\""
+      ],
+      "Transfer skipped for file \"${ file.name }\"": [
+        "Пропущена передача файла \"${ file.name }\""
+      ],
+      "Transfer skipped for folder \"${ folderName }\"": [
+        "Пропущена передача папки \"${ folderName }\""
+      ],
+      "Trash": [
+        "Корзина"
+      ],
+      "Try different keywords": [
+        "Попробуйте другие ключевые слова"
+      ],
+      "Unlimited folders, labels, and filters": [
+        "Неограниченное количество папок, меток и фильтров"
+      ],
+      "Unlimited messages": [
+        "Неограниченное количество сообщений"
+      ],
+      "Unlock drive to recover files": [
+        "Разблокировать хранилище чтобы восстановить файлы"
+      ],
+      "Unsupported file": [
+        "Неподдерживаемый файл"
+      ],
+      "Updating drive search...": [
+        "Обновляем поиск по хранилищу..."
+      ],
+      "Upgrade today to avoid losing the following ${ planName } benefits.": [
+        "Улучшите сегодня, чтобы не потерять следующие преимущества ${ planName }."
+      ],
+      "Uploaded": [
+        "Загружено"
+      ],
+      "Uploading": [
+        "Загрузка"
+      ],
+      "Uploading hundreds of files at once may have a performance impact.": [
+        "Загрузка сотен файлов сразу может повлиять на производительность."
+      ],
+      "Use this form to notify us of inappropriate, illegal,\nor otherwise malicious shared files. You are about to report:": [
+        "Используйте эту форму, чтобы уведомить нас о неприемлемых, незаконных,\nили других вредоносных файлах общего доступа. Вы собираетесь сообщить:"
+      ],
+      "We couldn’t verify that ${ emailAddress } uploaded ${ fileName }.": [
+        "Мы не смогли проверить, что ${ emailAddress } загрузил ${ fileName }."
+      ],
+      "We couldn’t verify who uploaded ${ fileName }.": [
+        "Мы не смогли проверить, кто загрузил ${ fileName }."
+      ],
+      "We'll notify you when the import is done.": [
+        "Мы уведомим вас, когда импорт будет завершен."
+      ],
+      "We'll send a new verification code to ${ strong }": [
+        "Мы отправим новый код подтверждения на ${ strong }"
+      ],
+      "We're moving! Join us at our new site: ${ link }.": [
+        "Мы переезжаем! Присоединяйтесь к нам на нашем новом сайте: ${ link }."
+      ],
+      "Week": [
+        "Неделя"
+      ],
+      "What do you want to do?": [
+        "Что вы хотите сделать?"
+      ],
+      "What would you like to do?": [
+        "Что вы хотели бы сделать?"
+      ],
+      "Would you like to receive a new verification code or use an alternative verification method?": [
+        "Вы хотите получить новый проверочный код или использовать другой метод проверки?"
+      ],
+      "Would you like to receive a new verification code?": [
+        "Хотите ли вы получить новый код подтверждения?"
+      ],
+      "Would you like to restore your files?": [
+        "Хотите восстановить свои файлы?"
+      ],
+      "Yes": [
+        "Да"
+      ],
+      "You are about to open another browser tab and visit:": [
+        "Вы собираетесь открыть другую вкладку браузера и посетить:"
+      ],
+      "You are currently signed in as ${ user.Name } (${ user.Email }).": [
+        "В настоящее время вы вошли как ${ user.Name } (${ user.Email })."
+      ],
+      "You can also merge imported calendars with existing Proton calendars.": [
+        "Вы также можете объединить импортированные календари с существующими календарями Proton."
+      ],
+      "You can check the progress ${ importProgressLink }.": [
+        "Вы можете проверить процесс ${ importProgressLink }."
+      ],
+      "You can turn on notifications to get alerts when new email messages arrive in this folder.": [
+        "Вы можете включить уведомления, чтобы получать оповещения при появлении новых сообщений в этой папке."
+      ],
+      "You cannot undo this action.": [
+        "Это действие нельзя отменить."
+      ],
+      "You reached ${ spaceDisplayed }% of your storage capacity. ${ freeUpMessage } ${ upgradeLink }": [
+        "Вы достигли ${ spaceDisplayed }% емкости Вашего хранилища. ${ freeUpMessage } ${ upgradeLink }"
+      ],
+      "You reached 100% of your storage capacity. You cannot send or receive new emails. ${ freeUpMessage } ${ upgradeLink }": [
+        "Вы использовали 100% доступного места. Вы не можете отправлять или получать новые сообщения. ${ freeUpMessage } ${ upgradeLink }"
+      ],
+      "You will lose all unsaved changes.": [
+        "Вы потеряете все несохраненные изменения."
+      ],
+      "Your account has at least one overdue invoice. Your access has been restricted. ${ payInvoiceLink }": [
+        "Для вашей учетной записи есть по крайней мере один просроченный счет. Ваш доступ был ограничен. ${ payInvoiceLink }"
+      ],
+      "Your account has at least one overdue invoice. Your access will soon get restricted. ${ payInvoiceLink }": [
+        "Ваша учетная запись имеет по крайней мере один просроченный счет. Ваш доступ скоро будет ограничен. ${ payInvoiceLink }"
+      ],
+      "Your current browser does not support the downloading of large files due to the unavailability of service workers. Downloading large files may freeze or leave the browser unresponsive. Please use the latest versions of a ${ recommendedBrowser } and try again.": [
+        "Ваш текущий браузер не поддерживает загрузку больших файлов из-за недоступности сервисных служб. Загрузка больших файлов может стать причиной зависания браузера. Пожалуйста, воспользуйтесь последней версией ${ recommendedBrowser } и попробуйте снова."
+      ],
+      "Your data is ready to import from ${ importedEmailAddressStrong } to your Proton account.": [
+        "Ваши данные готовы к импорту из ${ importedEmailAddressStrong } в ваш аккаунт Proton."
+      ],
+      "Your download has been canceled.": [
+        "Загрузка отменена."
+      ],
+      "Your email will only be used for this one-time verification.": [
+        "Ваш адрес электронной почты будет использован только для этой разовой проверки."
+      ],
+      "Your file failed to download.": [
+        "Не удалось загрузить файл."
+      ],
+      "Your file has finished downloading.": [
+        "Скачивание файла завершено."
+      ],
+      "Your file is being downloaded.": [
+        "Ваш файл скачивается."
+      ],
+      "Your files are no longer accessible due to a password reset. Re-upload the old encryption key to regain the access. ${ KeyReactivationButton }": [
+        "Ваши файлы больше недоступны из-за сброса пароля. Перезагрузите старый ключ шифрования, чтобы восстановить доступ. ${ KeyReactivationButton }"
+      ],
+      "Your files will be encrypted and then saved.": [
+        "Ваши файлы будут зашифрованы, а затем сохранены."
+      ],
+      "Your folder failed to download.": [
+        "Не удалось скачать вашу папку."
+      ],
+      "Your folder has finished downloading.": [
+        "Скачивание вашей папки завершено."
+      ],
+      "Your folder is being downloaded.": [
+        "Ваша папка скачивается."
+      ],
+      "Your phone number will only be used for this one-time verification.": [
+        "Ваш номер телефона будет использован только для этой разовой проверки."
+      ],
+      "Your previous password": [
+        "Ваш предыдущий пароль"
+      ],
+      "Your previous recovery phrase": [
+        "Ваша предыдущая фраза для восстановления"
+      ],
+      "Your Proton account is currently on hold. To continue using your account, please pay any overdue invoices.": [
+        "Сейчас Ваш аккаунт Proton приостановлен. Чтобы продолжить использование вашего аккаунта, пожалуйста, оплатите просроченные счета."
+      ],
+      "Your secure, shareable link for ${ boldNameText }": [
+        "Ссылка для безопасного доступа к ${ boldNameText }"
+      ]
+    },
+    "Info on errors": {
+      "Click for details": [
+        "Нажмите, чтобы узнать подробности"
+      ]
+    },
+    "Info, no need for singular": {
+      "Multiple contacts look identical. ${ mergeAction }": [
+        "Несколько контактов выглядят идентичными. ${ mergeAction }"
+      ]
+    },
+    "Item": {
+      "file attributes": [
+        "аттрибуты файла"
+      ],
+      "file data": [
+        "данные файла"
+      ],
+      "file data key": [
+        "ключ содержимого файла"
+      ],
+      "keys": [
+        "ключи"
+      ],
+      "name": [
+        "имя"
+      ],
+      "name hash": [
+        "хеш имени"
+      ],
+      "thumbnail": [
+        "значок"
+      ]
+    },
+    "Key badge": {
+      "Compromised": [
+        "Раскрытый"
+      ],
+      "Expired": [
+        "Срок действия истек"
+      ],
+      "Obsolete": [
+        "Устаревший"
+      ],
+      "Primary": [
+        "Основной"
+      ],
+      "Revoked": [
+        "Отозванный"
+      ],
+      "Trusted": [
+        "Надежный"
+      ],
+      "WKD": [
+        "WKD"
+      ]
+    },
+    "Label": {
+      "# of accesses": [
+        "Количество обращений"
+      ],
+      "(Expired)": [
+        "(Истек)"
+      ],
+      "(Temporarily unavailable. Please check back later.)": [
+        "(Временно недоступно. Пожалуйста, проверьте позже.)"
+      ],
+      "Add email address": [
+        "Добавить адрес эл. почты"
+      ],
+      "Add image URL": [
+        "Добавить ссылку на изображение"
+      ],
+      "Add to group": [
+        "Добавить в группу"
+      ],
+      "Apply to all duplicated files": [
+        "Применить ко всем повторяющимся файлам"
+      ],
+      "Apply to all duplicated folders": [
+        "Применить ко всем повторяющимся папкам"
+      ],
+      "Apply to all unverified items": [
+        "Применить ко всем непроверенным элементам"
+      ],
+      "Attach screenshot(s)": [
+        "Вложить снимок(ки) экрана"
+      ],
+      "Audio file": [
+        "Аудиофайл"
+      ],
+      "Automatically save contacts": [
+        "Автоматически сохранять контакты"
+      ],
+      "Browser": [
+        "Браузер"
+      ],
+      "Browser version": [
+        "Версия браузера"
+      ],
+      "Calendars": [
+        "Календари"
+      ],
+      "Cancel download": [
+        "Отменить скачивание"
+      ],
+      "Category": [
+        "Категория"
+      ],
+      "Child sexual abuse material": [
+        "Материалы о сексуальном насилии над детьми"
+      ],
+      "City": [
+        "Город"
+      ],
+      "Code is 6 digits without spaces": [
+        "Код состоит из 6 цифр без пробелов"
+      ],
+      "Comment": [
+        "Комментарий"
+      ],
+      "Contacts": [
+        "Контакты"
+      ],
+      "Copy": [
+        "Копировать"
+      ],
+      "Copyright infringement": [
+        "Нарушение авторских прав"
+      ],
+      "Country": [
+        "Страна"
+      ],
+      "Created": [
+        "Создано"
+      ],
+      "Delete": [
+        "Удалить"
+      ],
+      "Delete drive?": [
+        "Удалить хранилище?",
+        "Удалить хранилища?",
+        "Удалить хранилища?",
+        "Удалить хранилища?"
+      ],
+      "Deleted": [
+        "Удаленные"
+      ],
+      "Do not ask again": [
+        "Больше не спрашивать"
+      ],
+      "Download anyway": [
+        "Все равно скачать"
+      ],
+      "Email": [
+        "Электронная почта"
+      ],
+      "Email address": [
+        "Адрес электронной почты"
+      ],
+      "Email format": [
+        "Формат эл. почты"
+      ],
+      "Emails": [
+        "Электронные письма"
+      ],
+      "Enable Beta Access": [
+        "Включить доступ к бета-версии"
+      ],
+      "Enabling drive search": [
+        "Включаем поиск по хранилищу"
+      ],
+      "Encrypt emails": [
+        "Шифровать письма"
+      ],
+      "Expired": [
+        "Истёк"
+      ],
+      "Expires": [
+        "Срок действия"
+      ],
+      "Export contacts": [
+        "Экспорт контактов"
+      ],
+      "Extended address": [
+        "Расширенный адрес"
+      ],
+      "File": [
+        "Файл"
+      ],
+      "File name": [
+        "Имя файла"
+      ],
+      "Folder": [
+        "Папка"
+      ],
+      "Folder location": [
+        "Размещение папки"
+      ],
+      "Folder name": [
+        "Название папки"
+      ],
+      "From: ${ importedEmail }": [
+        "От: ${ importedEmail }"
+      ],
+      "Get your own ${ appName }": [
+        "Создайте свой собственный ${ appName }"
+      ],
+      "Hide password": [
+        "Скрыть пароль"
+      ],
+      "I understand the risk": [
+        "Я понимаю риск"
+      ],
+      "Image": [
+        "Изображение"
+      ],
+      "Import all messages": [
+        "Импортировать все сообщения"
+      ],
+      "Import contacts": [
+        "Импорт контактов"
+      ],
+      "Import interval": [
+        "Интервал импорта"
+      ],
+      "Import to email address": [
+        "Импортировать в адреса электронной почты"
+      ],
+      "Label messages as": [
+        "Отметить сообщения как"
+      ],
+      "Last 12 months only": [
+        "Только последние 12 месяцев"
+      ],
+      "Last 3 months only": [
+        "Только последние 3 месяца"
+      ],
+      "Last month only": [
+        "Только за последний месяц"
+      ],
+      "Mailbox password": [
+        "Пароль почтового ящика"
+      ],
+      "Malware": [
+        "Вредоносная программа"
+      ],
+      "Manage folders": [
+        "Управление папками"
+      ],
+      "Manage labels": [
+        "Управление метками"
+      ],
+      "Merge a folder": [
+        "Объединить папку"
+      ],
+      "Modified": [
+        "Изменено"
+      ],
+      "Name": [
+        "Имя"
+      ],
+      "Never": [
+        "Никогда"
+      ],
+      "Notification": [
+        "Уведомление"
+      ],
+      "Operating system": [
+        "Операционная система"
+      ],
+      "Operating system version": [
+        "Версия операционной системы"
+      ],
+      "Other": [
+        "Другое"
+      ],
+      "Password": [
+        "Пароль"
+      ],
+      "PGP scheme": [
+        "Схема PGP"
+      ],
+      "Phone number": [
+        "Номер телефона"
+      ],
+      "Please provide full details to help us take appropriate action": [
+        "Пожалуйста, предоставьте полную информацию, чтобы мы могли принять соответствующие меры"
+      ],
+      "Post office box": [
+        "Почтовый ящик"
+      ],
+      "Postal code": [
+        "Почтовый индекс"
+      ],
+      "Protect with password": [
+        "Защитить паролем"
+      ],
+      "Proton username": [
+        "Имя пользователя в Proton"
+      ],
+      "Public keys": [
+        "Публичные ключи"
+      ],
+      "Region": [
+        "Регион/область"
+      ],
+      "Replace file": [
+        "Заменить файл"
+      ],
+      "Replace folder": [
+        "Заменить папку"
+      ],
+      "Report Abuse": [
+        "Сообщить о нарушении"
+      ],
+      "Reveal password": [
+        "Показать пароль"
+      ],
+      "Select type of abuse": [
+        "Выберите тип злоупотребления"
+      ],
+      "Set expiration date": [
+        "Задать срок действия"
+      ],
+      "Sign emails": [
+        "Подписывать письма"
+      ],
+      "Size": [
+        "Размер"
+      ],
+      "Skip file": [
+        "Пропустить файл"
+      ],
+      "Skip folder": [
+        "Пропустить папку"
+      ],
+      "Spam": [
+        "Спам"
+      ],
+      "Stolen data": [
+        "Украденные данные"
+      ],
+      "Street address": [
+        "Адрес улицы"
+      ],
+      "System information": [
+        "Сведения о системе"
+      ],
+      "Text": [
+        "Текст"
+      ],
+      "This will permanently delete all files in your locked drive.": [
+        "Это окончательно удалит все ваши файлы в вашем закрытом хранилище."
+      ],
+      "To: ${ emailAddress }": [
+        "Кому: ${ emailAddress }"
+      ],
+      "Two-factor authentication code": [
+        "Код двухфакторной аутентификации"
+      ],
+      "Type": [
+        "Тип"
+      ],
+      "Unknown file": [
+        "Неизвестный файл"
+      ],
+      "Unlock drive": [
+        "Разблокировать хранилище"
+      ],
+      "Unlock drive (recommended)": [
+        "Разблокировать хранилище (рекомендуется)"
+      ],
+      "Unlock later": [
+        "Разблокировать позже"
+      ],
+      "Upload anyway": [
+        "Всё равно загрузить"
+      ],
+      "Upload picture": [
+        "Загрузить картинку"
+      ],
+      "Username or ${ MAIL_APP_NAME } address": [
+        "Имя пользователя или адрес ${ MAIL_APP_NAME }"
+      ],
+      "Verification code": [
+        "Проверочный код"
+      ],
+      "Video file": [
+        "Видео файл"
+      ],
+      "What happened?": [
+        "Что случилось?"
+      ],
+      "Yes, I want to permanently delete\nmy old files": [
+        "Да, я хочу окончательно удалить все мои старые файлы"
+      ]
+    },
+    "Label for contact group color": {
+      "Color": [
+        "Цвет"
+      ]
+    },
+    "Label for contact group name": {
+      "Name": [
+        "Имя"
+      ]
+    },
+    "Label/folder modal": {
+      "Create folder": [
+        "Создать папку"
+      ],
+      "Create label": [
+        "Создать ярлык"
+      ],
+      "Edit folder": [
+        "Изменить папку"
+      ],
+      "Edit label": [
+        "Изменить ярлык"
+      ]
+    },
+    "label/folder notification": {
+      "${ Label.Name } created": [
+        "${ Label.Name } создан"
+      ]
+    },
+    "Link": {
+      "clearing your browser cache": [
+        "очистка кэша браузера"
+      ],
+      "Go to subscription plans": [
+        "Перейти на страницу подписки"
+      ],
+      "Learn more": [
+        "Узнать больше"
+      ],
+      "Pay invoice": [
+        "Оплатить счёт"
+      ],
+      "Request an invite": [
+        "Запросить приглашение"
+      ],
+      "Shared": [
+        "В общем доступе"
+      ],
+      "Trash": [
+        "Корзина"
+      ],
+      "Upgrade": [
+        "Улучшить"
+      ],
+      "Upgrade account": [
+        "Повысить учётную запись"
+      ]
+    },
+    "Loading info": {
+      "Almost there": [
+        "Почти там"
+      ],
+      "Amount of calendars created: ${ createdCalendars } out of ${ calendarsToBeCreated }": [
+        "Количество созданных календарей: ${ createdCalendars } из ${ calendarsToBeCreated }"
+      ],
+      "Creating new calendars": [
+        "Создание новых календарей"
+      ],
+      "Gathering your data": [
+        "Сбираются ваши данные"
+      ],
+      "We're gathering your data from your provider": [
+        "Мы собираем ваши данные у вашего поставщика услуг"
+      ],
+      "Your import is starting": [
+        "Ваш импорт начался"
+      ]
+    },
+    "Mail import summary": {
+      "Import all messages from ${ selectedLabelsCount } out of ${ totalLabelsCount } label since ${ periodFragment } and label them as ${ LABEL_MARKUP_PLACEHOLDER }": [
+        "Импортируйте все сообщения из ${ selectedLabelsCount } из ${ totalLabelsCount } ярлыка с ${ periodFragment } и пометьте их как ${ LABEL_MARKUP_PLACEHOLDER }",
+        "Импортируйте все сообщения из ${ selectedLabelsCount } из ${ totalLabelsCount } ярлыков с ${ periodFragment } и пометьте их как ${ LABEL_MARKUP_PLACEHOLDER }",
+        "Импортируйте все сообщения из ${ selectedLabelsCount } из ${ totalLabelsCount } ярлыков с ${ periodFragment } и пометьте их как ${ LABEL_MARKUP_PLACEHOLDER }",
+        "Импортируйте все сообщения из ${ selectedLabelsCount } из ${ totalLabelsCount } ярлыков с ${ periodFragment } и пометьте их как ${ LABEL_MARKUP_PLACEHOLDER }"
+      ],
+      "Import all messages from ${ totalLabelsCount } label since ${ periodFragment } and label them as ${ LABEL_MARKUP_PLACEHOLDER }": [
+        "Импортируйте все сообщения из ярлыка ${ totalLabelsCount } с ${ periodFragment } и пометьте их как ${ LABEL_MARKUP_PLACEHOLDER }",
+        "Импортируйте все сообщения из ярлыков ${ totalLabelsCount } с ${ periodFragment } и пометьте их как ${ LABEL_MARKUP_PLACEHOLDER }",
+        "Импортируйте все сообщения из ярлыков ${ totalLabelsCount } с ${ periodFragment } и пометьте их как ${ LABEL_MARKUP_PLACEHOLDER }",
+        "Импортируйте все сообщения из ярлыков ${ totalLabelsCount } с ${ periodFragment } и пометьте их как ${ LABEL_MARKUP_PLACEHOLDER }"
+      ]
+    },
+    "Message": {
+      "Your free trial has ended. Access to your account will soon be disabled. ${ action }": [
+        "Ваша бесплатный пробный период закончился. Доступ к вашему аккаунту скоро будет отключен. ${ action }"
+      ]
+    },
+    "Message display when a new app version is available": {
+      "A new version of ${ appName } is available. ${ reloadButton }.": [
+        "Доступна новая версия ${ appName } . ${ reloadButton }."
+      ]
+    },
+    "MIME type": {
+      "Automatic": [
+        "Автоматический"
+      ],
+      "Plain text": [
+        "Текст без форматирования"
+      ]
+    },
+    "New Label form": {
+      "Color": [
+        "Цвет"
+      ],
+      "Folder name": [
+        "Название папки"
+      ],
+      "Label name": [
+        "Название ярлыка"
+      ]
+    },
+    "new_plans: action": {
+      "Switch or add account": [
+        "Изменить или добавить аккаунт"
+      ]
+    },
+    "new_plans: info": {
+      "Introducing Proton’s refreshed look.${ br } Many services, one mission. Welcome to an internet where privacy is the default.": [
+        "Представляем обновленный вид Proton.${ br } Много служб, одна миссия. Добро пожаловать в Интернет, конфиденциальный по умолчанию."
+      ]
+    },
+    "new_plans: title": {
+      "Updated Proton, unified protection": [
+        "Обновленный Proton, комплексная защита"
+      ]
+    },
+    "Notification": {
+      "\"${ name }\" created successfully": [
+        "\"${ name }\" успешно создано"
+      ],
+      "\"${ name }\" deleted permanently from trash": [
+        "\"${ name }\" безвозвратно удалено из корзины"
+      ],
+      "\"${ name }\" failed to be created": [
+        "Не удалось создать \"${ name }\""
+      ],
+      "\"${ name }\" failed to be deleted permanently from trash": [
+        "\"${ name }\" не удалось окончательно удалить из корзины"
+      ],
+      "\"${ name }\" failed to be moved": [
+        "Не удалось переместить \"${ name }\""
+      ],
+      "\"${ name }\" failed to be moved to trash": [
+        "Не удалось переместить в корзину \"${ name }\""
+      ],
+      "\"${ name }\" failed to be restored from trash": [
+        "Не удалось восстановить из корзины \"${ name }\""
+      ],
+      "\"${ name }\" moved to trash": [
+        "\"${ name }\" перемещено в корзину"
+      ],
+      "\"${ name }\" restored from trash": [
+        "\"${ name }\" восстановлено из корзины"
+      ],
+      "\"${ name }\" successfully moved": [
+        "\"${ name }\" успешно перемещено"
+      ],
+      "\"${ newName }\" failed to be renamed": [
+        "Не удалось переименовать \"${ newName }\""
+      ],
+      "\"${ newName }\" renamed successfully": [
+        "\"${ newName }\" успешно переименовано"
+      ],
+      "${ count } item failed to be decrypted": [
+        "${ count } элемент не удалось расшифровать",
+        "${ count } элемента не удалось расшифровать",
+        "${ count } элементов не удалось расшифровать",
+        "${ count } элементов не удалось расшифровать"
+      ],
+      "${ numberOfItems } item deleted permanently from trash": [
+        "${ numberOfItems } элемент окончательно удален из корзины",
+        "${ numberOfItems } элемента окончательно удалены из корзины",
+        "${ numberOfItems } элементов окончательно удалены из корзины",
+        "${ numberOfItems } элементов окончательно удалены из корзины"
+      ],
+      "${ numberOfItems } item failed to be deleted permanently from trash": [
+        "${ numberOfItems } элемент не удалось окончательно удалить из корзины",
+        "${ numberOfItems } элемента не удалось окончательно удалить из корзины",
+        "${ numberOfItems } элементов не удалось окончательно удалить из корзины",
+        "${ numberOfItems } элементов не удалось окончательно удалить из корзины"
+      ],
+      "${ numberOfItems } item failed to be moved": [
+        "${ numberOfItems } элемент не удалось переместить",
+        "${ numberOfItems } элемента не удалось переместить",
+        "${ numberOfItems } элементов не удалось переместить",
+        "${ numberOfItems } элементов не удалось переместить"
+      ],
+      "${ numberOfItems } item failed to be moved to trash": [
+        "${ numberOfItems } элемент не удалось переместить в корзину",
+        "${ numberOfItems } элемента не удалось переместить в корзину",
+        "${ numberOfItems } элементов не удалось переместить в корзину",
+        "${ numberOfItems } элементов не удалось переместить в корзину"
+      ],
+      "${ numberOfItems } item failed to be restored from trash": [
+        "${ numberOfItems } элемент не удалось восстановить из корзины",
+        "${ numberOfItems } элемента не удалось восстановить из корзины",
+        "${ numberOfItems } элементов не удалось восстановить из корзины",
+        "${ numberOfItems } элементов не удалось восстановить из корзины"
+      ],
+      "${ numberOfItems } item moved to trash": [
+        "${ numberOfItems } элемент перемещен в корзину",
+        "${ numberOfItems } элемента перемещено в корзину",
+        "${ numberOfItems } элементов перемещено в корзину",
+        "${ numberOfItems } элементов перемещено в корзину"
+      ],
+      "${ numberOfItems } item restored from trash": [
+        "${ numberOfItems } элемент восстановлен из корзины",
+        "${ numberOfItems } элемента восстановлены из корзины",
+        "${ numberOfItems } элемента восстановлены из корзины",
+        "${ numberOfItems } элемента восстановлены из корзины"
+      ],
+      "${ numberOfItems } item successfully moved": [
+        "${ numberOfItems } элемент успешно перемещен",
+        "${ numberOfItems } элемента успешно перемещены",
+        "${ numberOfItems } элемента успешно перемещены",
+        "${ numberOfItems } элемента успешно перемещены"
+      ],
+      "${ numberOfItems } link to your item failed to be deleted": [
+        "${ numberOfItems } ссылку на ваш элемент не удалось удалить",
+        "${ numberOfItems } ссылки на ваши элементы не удалось удалить",
+        "${ numberOfItems } ссылок на ваши элементы не удалось удалить",
+        "${ numberOfItems } ссылок на ваши элементы не удалось удалить"
+      ],
+      "${ numberOfItems } link to your item was deleted": [
+        "${ numberOfItems } ссылка на ваш элемент была удалена",
+        "${ numberOfItems } ссылки на ваши элементы были удалены",
+        "${ numberOfItems } ссылок на ваши элементы были удалены",
+        "${ numberOfItems } ссылок на ваши элементы были удалены"
+      ],
+      "All items will soon be permanently deleted from trash": [
+        "Все элементы скоро будут окончательно удалены из корзины"
+      ],
+      "Contact group created": [
+        "Группа контактов создана"
+      ],
+      "Contact group updated": [
+        "Группа контактов обновлена"
+      ],
+      "Encrypted search activated": [
+        "Зашифрованный поиск активирован"
+      ],
+      "Failed to download files: ${ err }": [
+        "Не удалось скачать файлы: ${ err }"
+      ],
+      "Failed to move, please try again": [
+        "Не удалось переместить, попробуйте еще раз"
+      ],
+      "Failed to upload files: ${ err }": [
+        "Не удалось загрузить файлы: ${ err }"
+      ],
+      "File or folder \"${ filename }\" and ${ count } other are already uploading": [
+        "Файл или папка \"${ filename }\" и ${ count } других уже загружаются",
+        "Файл или папка \"${ filename }\" и ${ count } других уже загружаются",
+        "Файл или папка \"${ filename }\" и ${ count } других уже загружаются",
+        "Файл или папка \"${ filename }\" и ${ count } других уже загружаются"
+      ],
+      "File or folder \"${ filename }\" is already uploading": [
+        "Файл или папка \"${ filename }\" уже загружается"
+      ],
+      "File or folder is missing a name": [
+        "У папки или файла отсутствует имя"
+      ],
+      "Item failed to be verified": [
+        "Не удалось проверить элемент"
+      ],
+      "Link failed to be loaded": [
+        "Не удалось загрузить ссылку"
+      ],
+      "Move ${ itemsToMoveCount } file": [
+        "Переместить ${ itemsToMoveCount } файл",
+        "Переместить ${ itemsToMoveCount } файла",
+        "Переместить ${ itemsToMoveCount } файлов",
+        "Переместить ${ itemsToMoveCount } файлов"
+      ],
+      "Move ${ itemsToMoveCount } folder": [
+        "Переместить ${ itemsToMoveCount } папку",
+        "Переместить ${ itemsToMoveCount } папки",
+        "Переместить ${ itemsToMoveCount } папок",
+        "Переместить ${ itemsToMoveCount } папок"
+      ],
+      "Move ${ itemsToMoveCount } item": [
+        "Переместить ${ itemsToMoveCount } элемент",
+        "Переместить ${ itemsToMoveCount } элемента",
+        "Переместить ${ itemsToMoveCount } элементов",
+        "Переместить ${ itemsToMoveCount } элементов"
+      ],
+      "Move ${ movingCount } file": [
+        "Переместить ${ movingCount } файл",
+        "Переместить ${ movingCount } файла",
+        "Переместить ${ movingCount } файлов",
+        "Переместить ${ movingCount } файлов"
+      ],
+      "Move ${ movingCount } folder": [
+        "Переместить ${ movingCount } папку",
+        "Переместить ${ movingCount } папки",
+        "Переместить ${ movingCount } папок",
+        "Переместить ${ movingCount } папок"
+      ],
+      "Move ${ movingCount } item": [
+        "Переместить ${ movingCount } элемент",
+        "Переместить ${ movingCount } элемента",
+        "Переместить ${ movingCount } элементов",
+        "Переместить ${ movingCount } элементов"
+      ],
+      "Next page failed to be loaded": [
+        "Не удалось загрузить следующую страницу"
+      ],
+      "Not enough space to upload ${ formattedTotal }": [
+        "Недостаточно места для загрузки ${ formattedTotal }"
+      ],
+      "Root folder failed to be loaded": [
+        "Не удалось загрузить корневую папку"
+      ],
+      "Subfolder failed to be loaded": [
+        "Не удалось загрузить подпапку"
+      ],
+      "The link to \"${ name }\" failed to be deleted": [
+        "Не удалось удалить ссылку на \"${ name }\""
+      ],
+      "The link to \"${ name }\" was deleted": [
+        "Ссылка на \"${ name }\" была удалена"
+      ],
+      "The link to your item failed to be deleted": [
+        "Не удалось удалить ссылку на ваш элемент"
+      ],
+      "The link to your item was deleted": [
+        "Ссылка на ваш элемент удалена"
+      ],
+      "Trash failed to be emptied": [
+        "Не удалось очистить корзину"
+      ],
+      "Your old files will be deleted in 72 hours": [
+        "Ваши старые файлы будут удалены в течение 72 часов"
+      ],
+      "Your settings failed to be saved": [
+        "Не удалось сохранить настройки"
+      ],
+      "Your settings have been changed successfully": [
+        "Ваши настройки были успешно изменены"
+      ]
+    },
+    "Oauth instructions": {
+      "Next you'll need to sign in to your Google account and grant Proton access to your data.": [
+        "Затем вам нужно будет войти в свой аккаунт Google и предоставить Proton доступ к вашим данным."
+      ]
+    },
+    "Oauth instructions video": {
+      "For the import to work, you must select all requested items as shown in the GIF.": [
+        "Чтобы импорт сработал, необходимо выбрать все требуемые элементы, как показано в GIF."
+      ]
+    },
+    "Onboarding Action": {
+      "Enable Beta Access": [
+        "Включить доступ к бета-версии"
+      ],
+      "Next": [
+        "Далее"
+      ],
+      "Start using ${ appName }": [
+        "Начните использовать ${ appName }"
+      ],
+      "Upgrade account": [
+        "Улучшить аккаунт"
+      ]
+    },
+    "Onboarding Info": {
+      "${ appName } is currently in early access and only available to users with a paid plan.": [
+        "Ранний доступ к ${ appName } можно получить только в рамках платного тарифа."
+      ],
+      "${ appName } is currently only available if you enable Beta Access.": [
+        "Доступ к ${ appName } возможен, только если вы включите доступ к бета-версии."
+      ],
+      "Your trusty online vault for vital documents and precious memories.": [
+        "Ваше надежное онлайн-хранилище для жизненно важных документов и драгоценных воспоминаний."
+      ]
+    },
+    "Onboarding Proton": {
+      "Configure your organization, link your domain name, and create accounts to ensure all members of your organization are protected.": [
+        "Настройте свою организацию, привяжите свое доменное имя и создайте учетные записи, чтобы обеспечить защиту всех членов организации."
+      ],
+      "Discover all Proton services": [
+        "Откройте для себя все сервисы Proton"
+      ],
+      "Select a theme": [
+        "Выберите тему"
+      ],
+      "Set up your organization": [
+        "Настройка организации"
+      ],
+      "Use the app selector in the top left to access other Proton services, including VPN, Calendar and Drive.": [
+        "Для доступа к другим службам Proton, включая VPN, Calendar и Drive, используйте меню приложений в левом верхнем углу экрана."
+      ],
+      "You can change this anytime in your settings.": [
+        "Вы можете изменить это в любой момент в настройках."
+      ]
+    },
+    "Onboarding Title": {
+      "${ appName } is in Beta": [
+        "${ appName } в бета-версии"
+      ],
+      "Upgrade to access ${ appName }": [
+        "Чтобы получить доступ к ${ appName }, смените тариф"
+      ],
+      "Welcome to ${ appName }": [
+        "Добро пожаловать в ${ appName }"
+      ]
+    },
+    "Option": {
+      "Add to existing group": [
+        "Добавить в существующую группу"
+      ],
+      "Create new group": [
+        "Создать новую группу"
+      ],
+      "Ignore group": [
+        "Игнорировать группу"
+      ],
+      "No parent folder": [
+        "Без родительской папки"
+      ]
+    },
+    "Option group label": {
+      "Create new calendar": [
+        "Создать календарь"
+      ],
+      "Merge with calendar": [
+        "Объединение с календарем"
+      ]
+    },
+    "PGP key encryption warning": {
+      "Key cannot be used for encryption": [
+        "Ключ не может быть зашифрован"
+      ]
+    },
+    "PGP Key info": {
+      "${ emailAddress } has marked this key as compromised. This key cannot be used neither for encryption nor for signature verification.": [
+        "${ emailAddress } пометил этот ключ как раскрытый. Этот ключ нельзя использовать ни для шифрования, ни для проверки подписи."
+      ],
+      "${ emailAddress } has marked this key as obsolete. This key can only be used for signature verification.": [
+        "${ emailAddress } пометил этот ключ как раскрытый. Этот ключ может быть использован для проверки подписи."
+      ],
+      "We recommend that you \"untrust\" this key.": [
+        "Мы рекомендуем вам \"отозвать доверие\" у этого ключа."
+      ]
+    },
+    "PGP key warning": {
+      "Email address not found among user ids defined in sending key (${ keyUserIds })": [
+        "Среди идентификаторов пользователей, определенных в ключе отправки (${ keyUserIds }), адрес электронной почты не найден"
+      ]
+    },
+    "Placeholder": {
+      "A way to contact you": [
+        "Способ связаться с вами"
+      ],
+      "E.g., ": [
+        "То есть, "
+      ],
+      "Enter a new folder name": [
+        "Введите имя новой папки"
+      ],
+      "Enter your email address": [
+        "Введите адрес вашей электронной почты"
+      ],
+      "Filter groups": [
+        "Фильтр групп"
+      ],
+      "Image URL": [
+        "URL изображения"
+      ],
+      "Mailbox password": [
+        "Пароль почтового ящика"
+      ],
+      "Name": [
+        "Имя"
+      ],
+      "New name": [
+        "Новое имя"
+      ],
+      "Password": [
+        "Пароль"
+      ],
+      "Please describe the problem and include any error messages": [
+        "Пожалуйста, опишите проблему и добавьте все возникавшие сообщения об ошибках"
+      ],
+      "Search for group name": [
+        "Поиск по названию группы"
+      ],
+      "Search for name or email": [
+        "Поиск имени или эл. почты"
+      ],
+      "Select": [
+        "Выбрать"
+      ],
+      "Start typing an email address": [
+        "Начните вводить адрес эл. почты"
+      ]
+    },
+    "Placeholder for contact group name": {
+      "Name": [
+        "Имя"
+      ]
+    },
+    "Progress bar description": {
+      "${ contactsExported.length } out of ${ countContacts } contacts successfully exported.": [
+        "${ contactsExported.length } из ${ countContacts } контактов успешно экспортировано."
+      ],
+      "${ model.deleted.length } out of ${ totalBeDeleted } contact successfully deleted.": [
+        "Успешно удален ${ model.deleted.length } из ${ totalBeDeleted }.",
+        "Успешно удалены ${ model.deleted.length } из ${ totalBeDeleted }.",
+        "Успешно удалены ${ model.deleted.length } из ${ totalBeDeleted }.",
+        "Успешно удалено ${ model.deleted.length } из ${ totalBeDeleted }."
+      ],
+      "${ model.submitted.length } out of ${ totalBeMerged } contact successfully merged.": [
+        "${ model.submitted.length } из ${ totalBeMerged } контактов успешно объединен.",
+        "${ model.submitted.length } из ${ totalBeMerged } контакта успешно объединены.",
+        "${ model.submitted.length } из ${ totalBeMerged } контактов успешно объединено.",
+        "${ model.submitted.length } из ${ totalBeMerged } контактов успешно объединено."
+      ],
+      "No contacts exported.": [
+        "Никакие контакты не были экспортированы."
+      ],
+      "No contacts merged.": [
+        "Никакие контакты не были объединены."
+      ],
+      "Progress: ${ combinedProgress }%": [
+        "Прогресс: ${ combinedProgress } %"
+      ]
+    },
+    "Property type": {
+      "Address": [
+        "Адрес"
+      ],
+      "Email": [
+        "Электронная почта"
+      ],
+      "Fax": [
+        "Факс"
+      ],
+      "Home": [
+        "Домашний"
+      ],
+      "Main": [
+        "Основной"
+      ],
+      "Mobile": [
+        "Мобильный"
+      ],
+      "Other": [
+        "Другое"
+      ],
+      "Pager": [
+        "Пейджер"
+      ],
+      "Phone": [
+        "Телефон"
+      ],
+      "Work": [
+        "Рабочий"
+      ]
+    },
+    "Refresh on apply warning": {
+      "Note: the service will reload after you click the Apply button.": [
+        "Примечание. После нажатия кнопки «Применить» сервис перезагрузится."
+      ]
+    },
+    "Select files": {
+      "Upload": [
+        "Загрузить"
+      ]
+    },
+    "Spotlight": {
+      "Encrypted search is here": [
+        "Зашифрованный поиск тут"
+      ],
+      "Get up to 18 months of ${ planName } for free": [
+        "Получите до 18 месяцев ${ planName } бесплатно"
+      ],
+      "Invite friends and earn rewards!": [
+        "Приглашайте друзей и получайте вознаграждения!"
+      ],
+      "Now you can easily search Drive files while keeping your data secure.": [
+        "Теперь вы легко можете искать файлы в хранилище, сохраняя при этом свои данные в безопасности."
+      ]
+    },
+    "Storage": {
+      "Release notes": [
+        "Примечания к выпуску"
+      ],
+      "Upgrade storage": [
+        "Увеличить дисковое пространство"
+      ],
+      "Your current storage:": [
+        "Текущее хранилище:"
+      ]
+    },
+    "Success": {
+      "Address copied to clipboard": [
+        "Адрес скопирован в буфер обмена"
+      ],
+      "Bug reported": [
+        "Отчёт об ошибке отправлен"
+      ],
+      "Code sent to ${ methodTo }": [
+        "Код отправлен на ${ methodTo }"
+      ],
+      "Contact deleted": [
+        "Контакт удален",
+        "Контакты удалены",
+        "Контакты удалены",
+        "Контакты удалены"
+      ],
+      "Contact group deleted": [
+        "Группа контактов удалена",
+        "Группы контактов удалены",
+        "Группы контактов удалены",
+        "Группы контактов удалены"
+      ],
+      "Contact saved": [
+        "Контакт сохранён"
+      ],
+      "Contacts deleted": [
+        "Контакты удалены"
+      ],
+      "Email address copied to clipboard": [
+        "Адрес скопирован в буфер обмена"
+      ],
+      "Fingerprint copied to clipboard": [
+        "Отпечаток скопирован в буфер обмена"
+      ],
+      "Phone number copied to clipboard": [
+        "Номер телефона скопирован в буфер обмена"
+      ],
+      "Preference saved": [
+        "Настройки сохранены"
+      ],
+      "Preferences saved": [
+        "Настройки сохранены"
+      ],
+      "Recovery has started": [
+        "Восстановление началось"
+      ],
+      "The link to your file was successfully copied": [
+        "Ссылка на файл была успешно скопирована"
+      ],
+      "Verification successful": [
+        "Проверка прошла успешно"
+      ]
+    },
+    "Suffix for price": {
+      "/month": [
+        "/месяц"
+      ]
+    },
+    "Table header": {
+      "Action": [
+        "Действие"
+      ],
+      "Actions": [
+        "Действия"
+      ],
+      "Address": [
+        "Адрес"
+      ],
+      "Created": [
+        "Создано"
+      ],
+      "Expires": [
+        "Действие истекает"
+      ],
+      "Fingerprint": [
+        "Отпечаток"
+      ],
+      "Name": [
+        "Название"
+      ],
+      "Status": [
+        "Статус"
+      ],
+      "Type": [
+        "Тип"
+      ]
+    },
+    "TableHeader": {
+      "# of accesses": [
+        "Количество обращений"
+      ],
+      "Actions": [
+        "Действия"
+      ],
+      "Address": [
+        "Адрес"
+      ],
+      "Created": [
+        "Создан"
+      ],
+      "CSV field": [
+        "Поле CSV-файла"
+      ],
+      "Deleted": [
+        "Удалено"
+      ],
+      "Expires": [
+        "Истекает"
+      ],
+      "Import": [
+        "Импорт"
+      ],
+      "Location": [
+        "Местоположение"
+      ],
+      "Modified": [
+        "Изменено"
+      ],
+      "Name": [
+        "Имя"
+      ],
+      "Size": [
+        "Размер"
+      ],
+      "Uploaded": [
+        "Загружено"
+      ],
+      "Values": [
+        "Значения"
+      ],
+      "vCard field": [
+        "Поле vCard файла"
+      ]
+    },
+    "Text": {
+      "Introducing the updated Proton.": [
+        "Представляем обновленный Proton."
+      ],
+      "More services, one privacy mission.": [
+        "Больше сервисов, одна миссия по обеспечению конфиденциальности."
+      ],
+      "Settings": [
+        "Настройки"
+      ]
+    },
+    "Time period": {
+      "account creation date": [
+        "дата создания аккаунта"
+      ],
+      "the last 12 months": [
+        "последние 12 месяцев"
+      ],
+      "the last 3 months": [
+        "последние 3 месяца"
+      ],
+      "the last month": [
+        "последний месяц"
+      ]
+    },
+    "Time unit": {
+      "${ hours } hour": [
+        "${ hours } час",
+        "${ hours } часа",
+        "${ hours } часов",
+        "${ hours } часов"
+      ],
+      "${ minutes } minute": [
+        "${ minutes } минута",
+        "${ minutes } минуты",
+        "${ minutes } минут",
+        "${ minutes } минут"
+      ]
+    },
+    "Title": {
+      "# of accesses": [
+        "Количество обращений"
+      ],
+      "${ emailsCount } member": [
+        "${ emailsCount } участник",
+        "${ emailsCount } участника",
+        "${ emailsCount } участников",
+        "${ emailsCount } участника"
+      ],
+      "Account suspended": [
+        "Учетная запись приостановлена"
+      ],
+      "Active": [
+        "Активный"
+      ],
+      "Add contact group name": [
+        "Добавление имени для группы контактов"
+      ],
+      "Add to ${ groupCount } group": [
+        "Добавление в ${ groupCount } группу",
+        "Добавление в ${ groupCount } группы",
+        "Добавление в ${ groupCount } групп",
+        "Добавление в ${ groupCount } группы"
+      ],
+      "Add to ${ groupName }": [
+        "Добавить в ${ groupName }"
+      ],
+      "Additional settings": [
+        "Дополнительные параметры"
+      ],
+      "Addresses": [
+        "Адреса"
+      ],
+      "All": [
+        "Все"
+      ],
+      "Back": [
+        "Назад"
+      ],
+      "Beta Access": [
+        "Бета-доступ"
+      ],
+      "Browser might run out of memory": [
+        "У браузера могла закончиться память"
+      ],
+      "Change layout": [
+        "Изменить отображение"
+      ],
+      "Clearing data": [
+        "Очистка данных"
+      ],
+      "Completed": [
+        "Завершено"
+      ],
+      "Contact details": [
+        "Информация контакта"
+      ],
+      "Contact Details": [
+        "Контактные данные"
+      ],
+      "Contact group": [
+        "Группа контактов"
+      ],
+      "Contacts": [
+        "Контакты"
+      ],
+      "Create a new folder": [
+        "Создать новую папку"
+      ],
+      "Create contact": [
+        "Создание контакта"
+      ],
+      "Create new group": [
+        "Создание новой группы"
+      ],
+      "Currency": [
+        "Валюта"
+      ],
+      "Customize and confirm": [
+        "Настройте и подтвердите"
+      ],
+      "Customize calendar import": [
+        "Настройка импорта календаря"
+      ],
+      "Customize your mail import": [
+        "Настройка импорта вашей почты"
+      ],
+      "Date": [
+        "Дата"
+      ],
+      "Delete ${ count } contact": [
+        "Удалить ${ count } контакт",
+        "Удалить ${ count } контакта",
+        "Удалить ${ count } контактов",
+        "Удалить ${ count } контакта"
+      ],
+      "Delete ${ count } contact group": [
+        "Удаление ${ count } группы контактов",
+        "Удаление ${ count } групп контактов",
+        "Удаление ${ count } групп контактов",
+        "Удаление ${ count } группы контактов"
+      ],
+      "Delete ${ Name }": [
+        "Удаление группы «${ Name }»"
+      ],
+      "Delete permanently": [
+        "Удалить безвозвратно"
+      ],
+      "Deleting contacts": [
+        "Удаление контактов"
+      ],
+      "Discard": [
+        "Отменить"
+      ],
+      "Discard changes?": [
+        "Отменить изменения?"
+      ],
+      "Download canceled": [
+        "Скачивание отменено"
+      ],
+      "Download completed": [
+        "Скачивание завершено"
+      ],
+      "Download failed": [
+        "Сбой скачивания"
+      ],
+      "Download unverified file?": [
+        "Скачать непроверенный файл?"
+      ],
+      "Download unverified folder?": [
+        "Скачать непроверенную папку?"
+      ],
+      "Downloading": [
+        "Скачивание"
+      ],
+      "Drive": [
+        "Диск"
+      ],
+      "Drop to upload": [
+        "Перетащите для загрузки"
+      ],
+      "Duplicate file found": [
+        "Найден дубликат файла"
+      ],
+      "Duplicate folder found": [
+        "Найден дубликат папки"
+      ],
+      "Edit contact": [
+        "Изменение контакта"
+      ],
+      "Edit contact group": [
+        "Изменение группы контактов"
+      ],
+      "Edit image": [
+        "Изменение изображения"
+      ],
+      "Email addresses": [
+        "Адреса электронной почты"
+      ],
+      "Email settings": [
+        "Настройки эл. почты"
+      ],
+      "Email settings (${ emailAddress })": [
+        "Настройки эл. почты (${ emailAddress })"
+      ],
+      "Empty trash": [
+        "Очистить корзину"
+      ],
+      "Enable drive search": [
+        "Включить поиск по хранилищу"
+      ],
+      "Enter password to download": [
+        "Введите пароль для скачивания"
+      ],
+      "Enter your password": [
+        "Введите свой пароль"
+      ],
+      "Enter your username or ${ MAIL_APP_NAME } email address": [
+        "Введите свое имя пользователя или адрес электронной почты ${ MAIL_APP_NAME }"
+      ],
+      "Exporting contacts": [
+        "Экспортирование контактов"
+      ],
+      "Failed": [
+        "Не удалось"
+      ],
+      "File details": [
+        "Информация о файле"
+      ],
+      "File recovery process": [
+        "Процесс восстановления файлов"
+      ],
+      "Files details": [
+        "Информация о файлах"
+      ],
+      "Folder details": [
+        "Информация о папке"
+      ],
+      "Folders details": [
+        "Информация о папке"
+      ],
+      "Found ${ searchView.numberOfResults } result": [
+        "Найден ${ searchView.numberOfResults } результат",
+        "Найдено ${ searchView.numberOfResults } результата",
+        "Найдено ${ searchView.numberOfResults } результатов",
+        "Найдено ${ searchView.numberOfResults } результата"
+      ],
+      "Groups": [
+        "Группы"
+      ],
+      "Human verification": [
+        "Проверка \"Я не робот\""
+      ],
+      "Import contacts": [
+        "Импорт контактов"
+      ],
+      "Import groups": [
+        "Импорт групп"
+      ],
+      "Invalid verification code": [
+        "Неверный проверочный код"
+      ],
+      "Items details": [
+        "Информация о папке"
+      ],
+      "Link confirmation": [
+        "Подтверждение ссылки"
+      ],
+      "Location": [
+        "Местоположение"
+      ],
+      "Manage secure link": [
+        "Управление безопасной ссылкой"
+      ],
+      "Manage share": [
+        "Управлять совместным содержимым"
+      ],
+      "Merge contacts": [
+        "Объединение контактов"
+      ],
+      "Merging contacts": [
+        "Идет объединение контактов"
+      ],
+      "MIME type": [
+        "MIME-тип"
+      ],
+      "Modified": [
+        "Изменено"
+      ],
+      "My files": [
+        "Мои файлы"
+      ],
+      "My files ${ date }.zip": [
+        "Мои файлы ${ date }.zip"
+      ],
+      "Name": [
+        "Имя"
+      ],
+      "No results found": [
+        "Ничего не найдено"
+      ],
+      "Number of files": [
+        "Количество файлов"
+      ],
+      "Number of folders": [
+        "Количество папок"
+      ],
+      "Number of items": [
+        "Количество файлов"
+      ],
+      "Open actions dropdown": [
+        "Показать список доступных действий"
+      ],
+      "Open help menu": [
+        "Открыть меню справки"
+      ],
+      "Open settings menu": [
+        "Открыть меню настроек"
+      ],
+      "Other information": [
+        "Дополнительная информация"
+      ],
+      "Other names": [
+        "Другие имена"
+      ],
+      "Performance might be affected": [
+        "Это может отразиться на производительности"
+      ],
+      "Phone numbers": [
+        "Телефонные номера"
+      ],
+      "Re-sign all contacts": [
+        "Переподписать все контакты"
+      ],
+      "Re-signing contacts": [
+        "Переподписание контактов"
+      ],
+      "Recover data": [
+        "Восстановление данных"
+      ],
+      "Rename a file": [
+        "Переименовать файл"
+      ],
+      "Rename a folder": [
+        "Переименовать папку"
+      ],
+      "Report a problem": [
+        "Сообщить о проблеме"
+      ],
+      "Request new code": [
+        "Запросить новый код"
+      ],
+      "Restore your files": [
+        "Восстановить файлы"
+      ],
+      "Search results": [
+        "Результаты поиска"
+      ],
+      "Searching…": [
+        "Поиск…"
+      ],
+      "Select a theme": [
+        "Выбор темы"
+      ],
+      "Select action to take on contact group": [
+        "Выберите действие для группы контактов"
+      ],
+      "Select contact group": [
+        "Выбор группы контактов"
+      ],
+      "Select link expiration date": [
+        "Выберите дату окончания действия ссылки"
+      ],
+      "Select link expiration time": [
+        "Выберите время окончания действия ссылки"
+      ],
+      "Settings": [
+        "Настройки"
+      ],
+      "Share via link": [
+        "Поделиться с помощью ссылки"
+      ],
+      "Shared": [
+        "В общем доступе"
+      ],
+      "Show actions": [
+        "Показать действия"
+      ],
+      "Sign in again to continue": [
+        "Войдите снова, чтобы продолжить"
+      ],
+      "Sign in and grant access": [
+        "Войдите и предоставьте доступ"
+      ],
+      "Size": [
+        "Размер"
+      ],
+      "Sort files/folders": [
+        "Сортировка файлов/папок"
+      ],
+      "Stop sharing": [
+        "Закрыть доступ"
+      ],
+      "Stop sharing with everyone?": [
+        "Закрыть доступ всем?"
+      ],
+      "Stop transfers?": [
+        "Остановить перенос?"
+      ],
+      "The file or folder failed to be downloaded": [
+        "Не удалось скачать файл или папку"
+      ],
+      "The internet connection was interrupted": [
+        "Подключение к Интернету было прервано"
+      ],
+      "The link does not exist": [
+        "Ссылка не существует"
+      ],
+      "The link either does not exist or has expired": [
+        "Ссылка не существует или просрочена"
+      ],
+      "The link failed to be loaded": [
+        "Не удалось скачать ссылку"
+      ],
+      "This file has a missing or invalid signature. Go to Menu (⋮) → Details for info.": [
+        "У этого файла отсутствует или недействительна подпись. Перейдите в Меню (⋮) → Подробности для получения дополнительной информации."
+      ],
+      "This folder has a missing or invalid signature. Go to Menu (⋮) → Details for info.": [
+        "У этой папки отсутствует или недействительна подпись. Перейдите в Меню (⋮) → Подробности для получения дополнительной информации."
+      ],
+      "Total size": [
+        "Общий размер"
+      ],
+      "Trash": [
+        "Корзина"
+      ],
+      "Type": [
+        "Тип"
+      ],
+      "Upgrade required": [
+        "Требуется повышение тарифа"
+      ],
+      "Uploaded": [
+        "Загружено"
+      ],
+      "Uploaded by": [
+        "Загружено"
+      ],
+      "View contacts": [
+        "Просмотр контактов"
+      ],
+      "Warning": [
+        "Предупреждение"
+      ],
+      "Warning: suspected fake website": [
+        "Предупреждение: предполагаемый поддельный сайт"
+      ],
+      "What would you like to import?": [
+        "Что бы вы хотели импортировать?"
+      ],
+      "What's new": [
+        "Список изменений"
+      ],
+      "You have inaccessible files": [
+        "Имеются недоступные файлы"
+      ],
+      "You have no files to share": [
+        "У вас нет файлов"
+      ],
+      "You have no folders yet": [
+        "У вас пока что нет папок"
+      ],
+      "Your file is ready to be downloaded": [
+        "Ваш файл готов к скачиванию"
+      ],
+      "Your folder is ready to be downloaded": [
+        "Ваша папка готова к скачиванию"
+      ],
+      "Your free trial ends soon, on ${ formattedEndDate }": [
+        "Ваша бесплатная пробная версия скоро заканчивается, ${ formattedEndDate }"
+      ]
+    },
+    "Today icon tooltip in mini calendar": {
+      "Today": [
+        "Сегодня"
+      ]
+    },
+    "Tooltip": {
+      "Automatic indicates that the format in the composer is used to send to this user. Plain text indicates that the message will always be converted to plain text on send.": [
+        "Значение \"Автоматический\" обозначает формат содержимого редактора, применяемый при отправке этому пользователю. \"Простой текст\" означает, что при отправке сообщение всегда будет преобразовываться в простой текст."
+      ],
+      "Digitally signing emails helps authenticating that messages are sent by you": [
+        "Цифровая подпись позволяет убедиться, что сообщения отправляются вами."
+      ],
+      "Each imported email will have this label": [
+        "У каждого импортированного письма будет этот ярлык"
+      ],
+      "Email encryption forces email signature to help authenticate your sent messages": [
+        "Шифрование почты всегда подразумевает применение цифровой подписи, что позволяет подтверждать подлинность отправленных сообщений."
+      ],
+      "Encrypted data": [
+        "Зашифрованные данные"
+      ],
+      "Encrypted data with verified digital signature": [
+        "Зашифрованные данные с подтверждённой цифровой подписью"
+      ],
+      "Select the PGP scheme to be used when signing or encrypting to a user. Note that PGP/Inline forces plain text messages": [
+        "Выберите схему PGP, которая будет использоваться при подписи или шифровании сообщений пользователю. Учтите, что PGP/Inline работает с неформатированным текстом."
+      ],
+      "System subfolders will show up as separate folders in ${ MAIL_APP_NAME }": [
+        "Системные подпапки будут отображаться как отдельные папки в ${ MAIL_APP_NAME }"
+      ],
+      "The import will start with the most recent messages.": [
+        "Импорт начнется с самых последних сообщений."
+      ],
+      "Upload a public key to enable sending end-to-end encrypted emails to this email": [
+        "Загрузите публичный ключ, чтобы включить отправку зашифрованных писем на этот адрес."
+      ],
+      "You do not have any contacts to export": [
+        "У вас нет контактов для экспорта"
+      ]
+    },
+    "Validation": {
+      "Password must contain at least ${ length } character": [
+        "Пароль должен содержать хотя бы ${ length } символ",
+        "Пароль должен содержать хотя бы ${ length } символа",
+        "Пароль должен содержать хотя бы ${ length } символов",
+        "Пароль должен содержать хотя бы ${ length } символа"
+      ]
+    },
+    "Validation Error": {
+      "\"${ str }\" is not a valid name": [
+        "Недопустимое имя \"${ str }\""
+      ],
+      "Name cannot include invisible characters, / or \\.": [
+        "Имя не может включать невидимые символы, / или \\."
+      ],
+      "Name must be ${ MAX_NAME_LENGTH } characters long at most": [
+        "Имя не может быть более ${ MAX_NAME_LENGTH } символов"
+      ],
+      "Name must not be empty": [
+        "Имя не может быть пустым"
+      ],
+      "Name must not begin with a space": [
+        "Имя не может начинаться с пробела"
+      ],
+      "Name must not end with a space": [
+        "Имя не может заканчиваться пробелом"
+      ]
+    },
+    "Video control": {
+      "Click to replay the video": [
+        "Нажмите, чтобы воспроизвести видео"
+      ],
+      "Replay video": [
+        "Воспроизвести видео"
+      ]
+    },
+    "Warning": {
+      "Are you sure you want to permanently delete ${ count } contact group?": [
+        "Вы уверены, что хотите удалить ${ count } группу контактов?",
+        "Вы уверены, что хотите удалить ${ count } группы контактов?",
+        "Вы уверены, что хотите удалить ${ count } групп контактов?",
+        "Вы уверены, что хотите удалить ${ count } групп контактов?"
+      ],
+      "Are you sure you want to permanently delete ${ count } contact?": [
+        "Вы уверены, что хотите безвозвратно удалить ${ count } контакт?",
+        "Вы уверены, что хотите безвозвратно удалить ${ count } контакта?",
+        "Вы уверены, что хотите безвозвратно удалить ${ count } контактов?",
+        "Вы уверены, что хотите безвозвратно удалить ${ count } контакта?"
+      ],
+      "Are you sure you want to permanently delete this contact group?": [
+        "Вы уверены, что хотите удалить эту группу контактов?"
+      ],
+      "Are you sure you want to permanently delete this contact?": [
+        "Вы уверены, что хотите безвозвратно удалить этот контакт?"
+      ],
+      "Contacts could not be merged": [
+        "Контакты не могут быть объединены"
+      ],
+      "If you don’t remember your password, it is impossible to re-activate your key. We can help you dismiss the alert banner but in the process you will permanently lose access to all the data encrypted with that key.": [
+        "Если вы не помните свой пароль, повторно активировать ключ невозможно. Мы можем помочь вам отключить предупреждение, но в процессе вы навсегда потеряете доступ ко всем данным, зашифрованным с помощью этого ключа."
+      ],
+      "Live chat is a premium feature available only to those with paid ${ VPN_APP_NAME } plans. Please open a ticket instead.": [
+        "Живой чат – это платная функция, доступная только для платных тарифов ${ VPN_APP_NAME }. Пожалуйста, вместо этого откройте билет."
+      ],
+      "Proton will merge all folders with the same name. To avoid this, change the names before import.": [
+        "Proton объединит все папки с одинаковым названием. Чтобы избежать этого, измените названия перед импортом."
+      ],
+      "Reports are not end-to-end encrypted, please do not send any sensitive information.": [
+        "Отчеты отправляются без сквозного шифрования. Пожалуйста, не указывайте никакой конфиденциальной информации."
+      ],
+      "Some of the contacts to be merged display errors. Please review them individually": [
+        "Некоторые из планируемых к объединению контактов имеют ошибки. Проверьте каждый их них."
+      ],
+      "The contact data is corrupted and cannot be displayed.": [
+        "Данные контакта повреждены и не могут быть отображены."
+      ],
+      "The contact failed to load.": [
+        "Контакт не загрузился."
+      ],
+      "The date and time settings on your device are out of sync. ${ learnMore }": [
+        "Настройки даты и времени на вашем устройстве не синхронизированы. ${ learnMore }"
+      ],
+      "The decryption of the encrypted content failed.": [
+        "Не удалось расшифровать зашифрованный контент."
+      ],
+      "The verification of the contact details' signature failed.": [
+        "Не удалось проверить подпись контактных данных."
+      ],
+      "This action is irreversible. Please enter the word ${ boldDanger } in the field to proceed.": [
+        "Это действие необратимо. Пожалуйста, введите слово «${ boldDanger }» в поле для продолжения."
+      ],
+      "This feature requires a paid Proton account": [
+        "Для этой функции требуется платная учётная запись Proton"
+      ],
+      "Unfortunately, we’re not online at the moment. Please complete the form below to describe your issue, and we will look into it and be in touch when we’re back online.": [
+        "К сожалению, в данный момент мы не работаем в режиме онлайн. Пожалуйста, заполните форму ниже, чтобы описать вашу проблему, мы рассмотрим ее и свяжемся с вами, когда вернемся к работе."
+      ],
+      "You will lose any customization you made so far.": [
+        "Вы потеряете все сделанные вами до этого настройки."
+      ],
+      "Your free trial ends on ${ textDate }. ${ action }": [
+        "Ваша бесплатная пробная версия заканчивается ${ textDate }. ${ action }"
+      ]
+    }
+  }
+}

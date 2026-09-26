@@ -1,0 +1,46 @@
+import { useState } from 'react';
+import { Route, Switch } from 'react-router-dom';
+
+import sentry from '@proton/shared/lib/helpers/sentry';
+import { LoaderPage, ProtonApp, ErrorBoundary, StandardErrorPage, getSessionTrackingEnabled } from '@proton/components';
+import { initLocales } from '@proton/shared/lib/i18n/locales';
+import { newVersionUpdater } from '@proton/shared/lib/busy';
+import { G_OAUTH_REDIRECT_PATH } from '@proton/components/containers/easySwitch/constants';
+import { getProdId, setVcalProdId } from '@proton/shared/lib/calendar/vcalConfig';
+import authentication from '@proton/shared/lib/authentication/authentication';
+import { initMainHost } from '@proton/cross-storage';
+
+import * as config from './config';
+import Setup from './Setup';
+
+import './app.scss';
+
+initLocales(require.context('../../locales', true, /.json$/, 'lazy'));
+
+initMainHost();
+newVersionUpdater(config);
+sentry({ config, uid: authentication.getUID(), sessionTracking: getSessionTrackingEnabled() });
+setVcalProdId(getProdId(config));
+
+const App = () => {
+    const [hasInitialAuth] = useState(() => {
+        return !window.location.pathname.startsWith(G_OAUTH_REDIRECT_PATH);
+    });
+
+    return (
+        <ProtonApp authentication={authentication} config={config} hasInitialAuth={hasInitialAuth}>
+            <ErrorBoundary component={<StandardErrorPage />}>
+                <Switch>
+                    <Route path={G_OAUTH_REDIRECT_PATH}>
+                        <LoaderPage />
+                    </Route>
+                    <Route path="*">
+                        <Setup />
+                    </Route>
+                </Switch>
+            </ErrorBoundary>
+        </ProtonApp>
+    );
+};
+
+export default App;
