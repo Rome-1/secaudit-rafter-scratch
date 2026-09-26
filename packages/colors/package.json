@@ -1,0 +1,33 @@
+{
+    "name": "@proton/colors",
+    "description": "Package containing the logic for Proton's design system color computations",
+    "scripts": {
+        "build": "webpack-cli",
+        "check-types": "tsc",
+        "generate": "ts-node --skipProject gen-themes-cli",
+        "lint": "eslint . --ext ts --quiet --cache",
+        "test": "NODE_OPTIONS=--experimental-vm-modules jest",
+        "test:ci": "NODE_OPTIONS=--experimental-vm-modules jest --coverage --runInBand --ci",
+        "test:watch": "jest --watch"
+    },
+    "dependencies": {
+        "@types/node": "^20.14.15",
+        "css-tree": "^2.3.1",
+        "prettier": "^3.3.3",
+        "tinycolor2": "^1.6.0"
+    },
+    "devDependencies": {
+        "@proton/eslint-config-proton": "workspace:^",
+        "@types/css-tree": "^2.3.8",
+        "@types/jest": "^29.5.12",
+        "@types/tinycolor2": "^1.4.6",
+        "eslint": "^8.57.0",
+        "jest": "^29.7.0",
+        "ts-jest": "^29.2.4",
+        "ts-loader": "^9.5.1",
+        "ts-node": "^10.9.2",
+        "typescript": "^5.5.4",
+        "webpack": "^5.93.0",
+        "webpack-cli": "^5.1.4"
+    }
+}

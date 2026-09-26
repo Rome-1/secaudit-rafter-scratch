@@ -1,0 +1,69 @@
+@use 'sass:math';
+@import '~@proton/styles/scss/lib';
+
+.button-promotion {
+	--upgrade-color-stop-1: #fd4baf;
+	--upgrade-color-stop-2: #22d8ff;
+	--upgrade-background-color: var(--background-norm);
+
+	position: relative;
+	block-size: rem(36);
+	border: 1px solid transparent;
+
+	> span {
+		z-index: 2;
+	}
+
+	&.button-small {
+		block-size: rem(28);
+	}
+
+	&.button-large {
+		block-size: rem(44);
+	}
+
+	&:not([class*='ghost']),
+	&.button-for-icon:hover,
+	&.button-for-icon:focus-visible {
+		background:
+			linear-gradient(var(--upgrade-background-color), var(--upgrade-background-color)) padding-box,
+			linear-gradient(var(--background-norm), var(--background-norm)) padding-box,
+			linear-gradient(to right, var(--upgrade-color-stop-1), var(--upgrade-color-stop-2)) border-box;
+		color: var(--text-norm);
+		border: 1px solid transparent;
+	}
+
+	&:hover,
+	&:focus-visible {
+		--upgrade-background-color: var(--button-hover-background-color);
+	}
+
+	&--upgrade {
+		block-size: rem(20);
+		padding-inline: rem(6);
+		padding-block: rem(3);
+		border-radius: var(--border-radius-sm);
+	}
+
+	&--icon-gradient {
+		linearGradient {
+			--color-stop-1: var(--upgrade-color-stop-1);
+			--color-stop-2: var(--upgrade-color-stop-2);
+		}
+	}
+
+	&--pinkblue {
+		// used for some promotions
+		&#{&} {
+			&,
+			&:hover,
+			&:focus {
+				background: linear-gradient(86.26deg, #da30ea 0%, #6d4aff 51.44%, #4ab8f6 100%);
+
+				--text-norm: white;
+
+				border: 0;
+			}
+		}
+	}
+}
