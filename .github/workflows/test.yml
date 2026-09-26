@@ -1,0 +1,103 @@
+name: Unit Tests
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+  workflow_dispatch:
+
+env:
+  GO_VERSION: "1.21"
+  DAGGER_VERSION: "0.8.3"
+
+jobs:
+  test:
+    name: "Tests (Go)"
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        database: ["mysql", "postgres", "cockroachdb", "sqlite", "libsql"]
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-go@v4
+        with:
+          go-version: ${{ env.GO_VERSION }}
+          check-latest: true
+          cache: true
+
+      - name: Install Dagger
+        run: |
+          cd /usr/local
+          curl -L https://dl.dagger.io/dagger/install.sh | DAGGER_VERSION=$DAGGER_VERSION sh
+
+      - name: Install Mage
+        uses: magefile/mage-action@v3
+        with:
+          install-only: true
+
+      - name: Unit Test ${{ matrix.database }}
+        run: mage dagger:run "test:database ${{ matrix.database }}"
+
+      - name: Upload Coverage
+        uses: codecov/codecov-action@v3.1.4
+
+  test-darwin:
+    name: "Tests (Go - Darwin)"
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-go@v4
+        with:
+          go-version: ${{ env.GO_VERSION }}
+          check-latest: true
+          cache: true
+
+      - name: Unit Test SQLite
+        env:
+          FLIPT_TEST_SHORT: "true"
+        run: go test -v -count=1 -timeout=60s -short ./...
+
+  ui:
+    name: "Tests (UI)"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "18"
+          cache: "npm"
+          cache-dependency-path: ui/package-lock.json
+
+      - name: Unit Test
+        run: |
+          npm ci
+          npm run test
+        working-directory: ui
+
+  migration:
+    name: "Tests (Migration)"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-go@v4
+        with:
+          go-version: ${{ env.GO_VERSION }}
+          check-latest: true
+          cache: true
+
+      - name: Install Dagger
+        run: |
+          cd /usr/local
+          curl -L https://dl.dagger.io/dagger/install.sh | DAGGER_VERSION=$DAGGER_VERSION sh
+
+      - name: Install Mage
+        uses: magefile/mage-action@v3
+        with:
+          install-only: true
+
+      - name: Run UI Tests
+        run: mage dagger:run test:migration
