@@ -1,0 +1,41 @@
+run:
+  build-tags:
+    - netgo
+
+linters:
+  enable:
+    - asasalint
+    - asciicheck
+    - bidichk
+    - bodyclose
+    - copyloopvar
+    - dogsled
+    - durationcheck
+    - errcheck
+    - errorlint
+    - gocyclo
+    - goprintffuncname
+    - gosec
+    - gosimple
+    - govet
+    - ineffassign
+    - misspell
+    - nakedret
+    - nilerr
+    - rowserrcheck
+    - staticcheck
+    - typecheck
+    - unconvert
+    - unused
+    - whitespace
+
+linters-settings:
+  govet:
+    enable:
+      - nilness
+  gosec:
+    excludes:
+      - G501
+      - G401
+      - G505
+      - G115 # Can't check context, where the warning is clearly a false positive. See discussion in https://github.com/securego/gosec/pull/1149
