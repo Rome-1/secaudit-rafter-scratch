@@ -1,0 +1,4 @@
+breaking_changes:
+  - The minimum supported Python version on the controller is now Python 3.12.
+  - Removed Python 3.10 and 3.11 compatibility code and workarounds.
+  - Simplified importlib resource loading to use native Python 3.12+ features.
