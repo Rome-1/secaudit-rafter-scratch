@@ -1,0 +1,5236 @@
+{
+  "headers": {
+    "plural-forms": "nplurals=1; plural=0;",
+    "language": "zh_CN"
+  },
+  "contexts": {
+    "Action": {
+      "${ BRAND_NAME } introduction": [
+        "${ BRAND_NAME } 简介"
+      ],
+      "${ BRAND_NAME } shop": [
+        "${ BRAND_NAME } 商店"
+      ],
+      "Activate recovery": [
+        "激活恢复"
+      ],
+      "Add": [
+        "添加"
+      ],
+      "Add address": [
+        "添加地址"
+      ],
+      "Add contact": [
+        "添加联系人"
+      ],
+      "Add email": [
+        "添加邮箱"
+      ],
+      "Add group": [
+        "添加群组"
+      ],
+      "Add new contact": [
+        "添加新联系人"
+      ],
+      "Add new group": [
+        "添加新群组"
+      ],
+      "Add notification": [
+        "添加通知"
+      ],
+      "Add phone number": [
+        "添加电话号码"
+      ],
+      "Add to group": [
+        "添加至群组"
+      ],
+      "Apply": [
+        "应用"
+      ],
+      "Attach screenshot(s)": [
+        ""
+      ],
+      "Back": [
+        "返回"
+      ],
+      "Beta Access": [
+        "测试版功能"
+      ],
+      "Cancel": [
+        "取消"
+      ],
+      "Chat with us": [
+        "联系我们"
+      ],
+      "Check import progress": [
+        "查看导入进度"
+      ],
+      "Choose a file or drag it here": [
+        "选择一个文件或将其拖到此处"
+      ],
+      "Clear data": [
+        "清除数据"
+      ],
+      "Clear query": [
+        "清除查询记录"
+      ],
+      "Click here.": [
+        "点击此处"
+      ],
+      "Close": [
+        "关闭"
+      ],
+      "Close event popover": [
+        "关闭事件弹出框"
+      ],
+      "Close modal": [
+        "关闭"
+      ],
+      "Close navigation": [
+        "关闭导航栏"
+      ],
+      "Close this banner": [
+        "关闭此横幅"
+      ],
+      "Compose": [
+        "撰写"
+      ],
+      "Confirm": [
+        "确认"
+      ],
+      "Confirm opening of link ${ linkToShow }": [
+        "确认打开链接 ${ linkToShow }"
+      ],
+      "Contact group": [
+        "联系人群组"
+      ],
+      "Continue": [
+        "继续"
+      ],
+      "Continue import": [
+        "继续导入"
+      ],
+      "Continue with Google": [
+        "使用 Google 帐号登录"
+      ],
+      "Copy email to clipboard": [
+        "复制邮箱地址"
+      ],
+      "Create a new contact group": [
+        ""
+      ],
+      "Create calendar": [
+        "创建日历"
+      ],
+      "Create event": [
+        "创建事件"
+      ],
+      "Customize": [
+        "定制"
+      ],
+      "Delete": [
+        "删除"
+      ],
+      "Delete ${ selectedCount } contact": [
+        "删除 ${ selectedCount } 个联系人"
+      ],
+      "Delete ${ selectedCount } contact group": [
+        "删除 ${ selectedCount } 个联系人群组"
+      ],
+      "Delete contact": [
+        "删除联系人"
+      ],
+      "Delete contact group": [
+        "删除联系人群组"
+      ],
+      "Deselect all": [
+        "取消全选"
+      ],
+      "Didn't receive the code?": [
+        "未收到验证码？"
+      ],
+      "Discard": [
+        "舍弃"
+      ],
+      "Done": [
+        "完成"
+      ],
+      "Download": [
+        "下载"
+      ],
+      "Edit": [
+        "编辑"
+      ],
+      "Edit email address": [
+        "编辑邮箱地址"
+      ],
+      "Edit label": [
+        "编辑标签"
+      ],
+      "Edit phone number": [
+        "编辑电话号码"
+      ],
+      "Edit sign-in details": [
+        "编辑登录信息"
+      ],
+      "Email settings": [
+        "邮件设置"
+      ],
+      "enable desktop notifications": [
+        "启用桌面通知"
+      ],
+      "Export": [
+        "导出"
+      ],
+      "Export contact group": [
+        "导出联系人群组"
+      ],
+      "Export contacts": [
+        "导出联系人"
+      ],
+      "Forward as attachment": [
+        "作为附件转发"
+      ],
+      "Get started": [
+        "入门"
+      ],
+      "Get verification code": [
+        "获取验证码"
+      ],
+      "Go to label": [
+        "转至标签"
+      ],
+      "Go to panel ${ index }": [
+        "转到面板 ${ index }"
+      ],
+      "Go to settings": [
+        "前往设置"
+      ],
+      "Got it": [
+        ""
+      ],
+      "Hide advanced PGP settings": [
+        "隐藏高级 PGP 设置"
+      ],
+      "Hide folders": [
+        "隐藏文件夹"
+      ],
+      "Hide labels": [
+        "隐藏标签"
+      ],
+      "Hide time zones": [
+        "隐藏时区"
+      ],
+      "I have a question": [
+        "我有疑问"
+      ],
+      "import": [
+        "导入"
+      ],
+      "Import": [
+        "导入"
+      ],
+      "Import events": [
+        "导入事件"
+      ],
+      "Import from .csv or vCard": [
+        "从 .csv 或 vCard 导入"
+      ],
+      "Load image": [
+        "加载图片"
+      ],
+      "Log in": [
+        "登录"
+      ],
+      "Make this participant optional": [
+        "可选择包含此参与者"
+      ],
+      "Make this participant required": [
+        "必须包含此参与者"
+      ],
+      "Mark for deletion": [
+        "标记为待删除"
+      ],
+      "Maybe": [
+        "可能"
+      ],
+      "Maybe I'll attend": [
+        "可能参加"
+      ],
+      "Merge": [
+        "合并"
+      ],
+      "Merge contacts": [
+        "合并联系人"
+      ],
+      "More info: ${ safeTitle }": [
+        "更多信息：${ safeTitle }"
+      ],
+      "More options": [
+        "更多选项"
+      ],
+      "New event": [
+        "新日程"
+      ],
+      "Next": [
+        "下一步"
+      ],
+      "Next day": [
+        "后一天"
+      ],
+      "Next month": [
+        "下个月"
+      ],
+      "Next week": [
+        "下一周"
+      ],
+      "Next year": [
+        "下一年"
+      ],
+      "No": [
+        "否"
+      ],
+      "No, I won't attend": [
+        "不，我不会参加"
+      ],
+      "OK": [
+        "确定"
+      ],
+      "Open navigation": [
+        "打开导航栏"
+      ],
+      "Preview contact": [
+        "预览联系人"
+      ],
+      "Previous day": [
+        "前一天"
+      ],
+      "Previous month": [
+        "上个月"
+      ],
+      "Previous week": [
+        "前一周"
+      ],
+      "Previous year": [
+        "上一年"
+      ],
+      "Quit": [
+        "退出"
+      ],
+      "Re-sign": [
+        "重新签名"
+      ],
+      "Recover data": [
+        "恢复数据"
+      ],
+      "Refer a friend": [
+        "邀请好友"
+      ],
+      "refresh the page": [
+        "刷新页面"
+      ],
+      "Refresh the page": [
+        "刷新此页"
+      ],
+      "Remove": [
+        "移除"
+      ],
+      "Remove this notification": [
+        "移除这个通知？"
+      ],
+      "Remove this participant": [
+        "移除此参与者"
+      ],
+      "Rename": [
+        "重命名"
+      ],
+      "Report a problem": [
+        "反馈问题"
+      ],
+      "Request a feature": [
+        "功能建议"
+      ],
+      "Request new code": [
+        "请求新验证码"
+      ],
+      "Save": [
+        "保存"
+      ],
+      "Select all": [
+        "全选"
+      ],
+      "Select timezone": [
+        "选择时区"
+      ],
+      "Send": [
+        "发送​​"
+      ],
+      "Set recovery phrase": [
+        "设置恢复密语"
+      ],
+      "Share": [
+        "分享"
+      ],
+      "Show advanced PGP settings": [
+        "显示高级 PGP 设置"
+      ],
+      "Show folders": [
+        "显示文件夹"
+      ],
+      "Show labels": [
+        "显示标签"
+      ],
+      "Show less": [
+        "显示更少"
+      ],
+      "Show more": [
+        "显示更多"
+      ],
+      "Show time zones": [
+        "显示时区"
+      ],
+      "Sign out": [
+        "退出"
+      ],
+      "Signing out": [
+        "退出"
+      ],
+      "Skip": [
+        "跳过"
+      ],
+      "Start import": [
+        ""
+      ],
+      "Start setup": [
+        "开始设置"
+      ],
+      "Stay": [
+        "留在此页"
+      ],
+      "Submit": [
+        "提交"
+      ],
+      "Theme": [
+        "主題"
+      ],
+      "Today": [
+        "今天"
+      ],
+      "Trust": [
+        "信任"
+      ],
+      "Try another method": [
+        "更换验证方式"
+      ],
+      "Unlock data": [
+        "解锁数据"
+      ],
+      "Unmark for deletion": [
+        "取消待删除标记"
+      ],
+      "Untrust": [
+        "取消信任"
+      ],
+      "Update": [
+        "更改"
+      ],
+      "Update recovery file": [
+        "更新恢复文件"
+      ],
+      "Update recovery phrase": [
+        "更新恢复密语"
+      ],
+      "Upgrade": [
+        "升级账户"
+      ],
+      "Upload picture": [
+        "上传图片"
+      ],
+      "Use ${ label } theme": [
+        "使用${ label }主题"
+      ],
+      "Use for sending": [
+        "用于发送邮件"
+      ],
+      "Verify": [
+        "验证"
+      ],
+      "Verify account": [
+        "验证账户"
+      ],
+      "Verify email": [
+        "验证邮箱"
+      ],
+      "View": [
+        "查看"
+      ],
+      "View invoice": [
+        "查看账单"
+      ],
+      "Yes": [
+        "是"
+      ],
+      "Yes, I'll attend": [
+        "是，我将参加"
+      ]
+    },
+    "Actions message": {
+      "${ addContact } or ${ importContact }.": [
+        "${ addContact } 或者 ${ importContact }"
+      ],
+      "No results found.": [
+        "未找到结果"
+      ],
+      "Please try another search term.": [
+        "请试下其他搜索词"
+      ],
+      "You don't have any contacts.": [
+        "您没有任何联系人"
+      ],
+      "You don't have any groups.": [
+        "您没有任何群组"
+      ]
+    },
+    "Alarm notification": {
+      "${ title } started at ${ formattedHour }": [
+        "${ title } 以${ formattedHour } 开始"
+      ],
+      "${ title } started on ${ _formattedDate }": [
+        "${ title } 开始于 ${ _formattedDate }"
+      ],
+      "${ title } started on ${ _formattedDate } at ${ formattedHour }": [
+        "${ title } ${ _formattedDate } ${ formattedHour } 开始"
+      ],
+      "${ title } started on ${ _formattedDateWithTime }": [
+        "${ title } 开始于 ${ _formattedDateWithTime }"
+      ],
+      "${ title } started on ${ formattedDate }": [
+        "${ title } 开始于 ${ formattedDate }"
+      ],
+      "${ title } started on ${ formattedDate } at ${ formattedHour }": [
+        "${ title } ${ formattedDate } 开始, ${ formattedHour }"
+      ],
+      "${ title } started on ${ formattedDateWithoutTime }": [
+        "${ title } 开始于 ${ formattedDateWithoutTime }"
+      ],
+      "${ title } started yesterday": [
+        "${ title } 于昨天开始"
+      ],
+      "${ title } started yesterday at ${ formattedHour }": [
+        "${ title } 昨天${ formattedHour } 开始"
+      ],
+      "${ title } starts at ${ formattedHour }": [
+        ""
+      ],
+      "${ title } starts now": [
+        "${ title } 现在开始"
+      ],
+      "${ title } starts on ${ _formattedDate2 }": [
+        ""
+      ],
+      "${ title } starts on ${ _formattedDate2 } at ${ formattedHour }": [
+        ""
+      ],
+      "${ title } starts on ${ _formattedDate3 }": [
+        ""
+      ],
+      "${ title } starts on ${ _formattedDate3 } at ${ formattedHour }": [
+        ""
+      ],
+      "${ title } starts on ${ _formattedDateWithoutTime }": [
+        ""
+      ],
+      "${ title } starts on ${ formattedDateWithTime }": [
+        ""
+      ],
+      "${ title } starts today": [
+        "${ title } 今天开始"
+      ],
+      "${ title } starts tomorrow": [
+        ""
+      ],
+      "${ title } starts tomorrow at ${ formattedHour }": [
+        ""
+      ]
+    },
+    "Alert": {
+      "By leaving now, some contacts may not be imported": [
+        "如果现在离开，一些联系人可能无法导入"
+      ],
+      "By leaving now, some events may not be imported": [
+        ""
+      ],
+      "By leaving now, you will lose your event.": [
+        "如果现在退出，该日程将不会被保存。"
+      ]
+    },
+    "Apps dropdown": {
+      "Proton applications": [
+        "Proton 应用"
+      ]
+    },
+    "Attached ics file error": {
+      "Empty ICS file": [
+        "ICS 文件为空"
+      ],
+      "Invalid event": [
+        "无效的日程"
+      ],
+      "Invalid ICS file": [
+        "无效的 ICS 文件"
+      ],
+      "Invalid method": [
+        ""
+      ],
+      "Unsupported calendar component": [
+        "不受支持的日历组件"
+      ],
+      "Unsupported event": [
+        "不支持的日程"
+      ]
+    },
+    "Attendee role": {
+      "Optional": [
+        "选填"
+      ]
+    },
+    "Beta access description": {
+      "Beta Access lets you use the beta version of ${ MAIL_APP_NAME }, ${ CALENDAR_APP_NAME }, and ${ DRIVE_APP_NAME } before they are released to the public. This means you can be the first to try new products, get new updates, and use new features.": [
+        ""
+      ],
+      "If you encounter issues, you can always disable Beta Access.": [
+        "如果您在使用过程中遇到问题，您可以随时禁用该选项"
+      ]
+    },
+    "blackfriday Action": {
+      "Get the offer": [
+        ""
+      ]
+    },
+    "blackfriday Info": {
+      "beta": [
+        ""
+      ],
+      "Includes": [
+        "包含"
+      ],
+      "Standard price: ${ regularPrice }": [
+        "原价：${ regularPrice }"
+      ],
+      "This subscription will automatically renew after 2 years at the same rate until it is cancelled.": [
+        "此订阅将在两年后自动续订，价格不变，直至取消。"
+      ]
+    },
+    "blackfriday Title": {
+      "Best deal": [
+        ""
+      ],
+      "Most popular": [
+        "人气最高"
+      ],
+      "Save more when combining Mail and VPN": [
+        ""
+      ]
+    },
+    "blackfriday: VPNspecialoffer Action": {
+      "Get the deal": [
+        "立即享受优惠"
+      ],
+      "Get the deal now": [
+        "立即享受优惠"
+      ]
+    },
+    "blackfriday: VPNspecialoffer Info": {
+      "Discounts are based on standard monthly pricing of ${ standardMonthlyPricing }": [
+        ""
+      ],
+      "Save ${ percentage }%": [
+        "${ percentage }%"
+      ],
+      "Special offer Terms and Conditions": [
+        ""
+      ]
+    },
+    "blackfriday: VPNspecialoffer info": {
+      "per month": [
+        "每月"
+      ]
+    },
+    "blackfriday: VPNspecialoffer Promo title, need to be short": {
+      "Special offer": [
+        "特价"
+      ]
+    },
+    "blackfriday: VPNspecialoffer Title": {
+      "(${ notice }) Renews after 1 month at a standard monthly price of ${ amount }": [
+        ""
+      ],
+      "(${ notice }) Renews after 1 year at a standard discounted annual price of ${ amount } (20% discount)": [
+        ""
+      ],
+      "(${ notice }) Renews after 2 years at a standard discounted 2-year price of ${ amount } (33% discount)": [
+        ""
+      ],
+      "1 month": [
+        "1 个月"
+      ],
+      "12 months": [
+        "12 个月"
+      ],
+      "24 months": [
+        "24 个月"
+      ],
+      "Billed at ${ amount } for the first 2 years.${ supNotice }": [
+        ""
+      ],
+      "Billed at ${ amount } for the first month.${ supNotice }": [
+        ""
+      ],
+      "Billed at ${ amount } for the first year.${ supNotice }": [
+        ""
+      ],
+      "Get the special year-end offer on our Premium VPN PLUS plan": [
+        ""
+      ]
+    },
+    "Bug category": {
+      "Application problem": [
+        "应用程序问题"
+      ],
+      "Bridge problem": [
+        "Bridge 问题"
+      ],
+      "Calendar problem": [
+        "日历问题"
+      ],
+      "Connection problem": [
+        "连接问题"
+      ],
+      "Contacts problem": [
+        "通讯录问题"
+      ],
+      "Custom domain problem": [
+        "自定义域问题"
+      ],
+      "Drive problem": [
+        "网盘问题"
+      ],
+      "Feature request": [
+        "功能建议"
+      ],
+      "Import / export problem": [
+        "导入/导出问题"
+      ],
+      "Installation problem": [
+        "安装问题"
+      ],
+      "Mail problem": [
+        "邮件问题"
+      ],
+      "Manual setup problem": [
+        "手动配置问题"
+      ],
+      "Other": [
+        "其他"
+      ],
+      "Payments problem": [
+        "支付问题"
+      ],
+      "Sign in problem": [
+        "登录问题"
+      ],
+      "Sign up problem": [
+        "注册问题"
+      ],
+      "Signup problem": [
+        "注册问题"
+      ],
+      "Slow speed problem": [
+        "速度缓慢"
+      ],
+      "Speed problem": [
+        "速度问题"
+      ],
+      "Streaming problem": [
+        "视频播放问题"
+      ],
+      "Update problem": [
+        "更新问题"
+      ],
+      "VPN problem": [
+        "VPN 问题"
+      ],
+      "Website access problem": [
+        "网站连接问题"
+      ]
+    },
+    "Button": {
+      "Continue using ${ MAIL_APP_NAME }.": [
+        ""
+      ]
+    },
+    "Calendar invite buttons label": {
+      "Attending?": [
+        "是否出席？"
+      ]
+    },
+    "Calendar invite info": {
+      "${ name } accepted the invitation": [
+        "${ name } 接受邀请"
+      ],
+      "${ name } declined the invitation": [
+        "${ name } 拒绝了邀请"
+      ],
+      "${ name } hasn't answered the invitation yet": [
+        "${ name } 尚未回复邀请"
+      ],
+      "${ name } tentatively accepted the invitation": [
+        "${ name } 暂时接受邀请"
+      ],
+      "This event has been canceled": [
+        ""
+      ],
+      "You accepted the invitation": [
+        "您接受了邀请"
+      ],
+      "You declined the invitation": [
+        "您拒绝了邀请"
+      ],
+      "You haven't answered the invitation yet": [
+        "您尚未回复邀请函"
+      ],
+      "You tentatively accepted the invitation": [
+        "您暂时接受了邀请"
+      ]
+    },
+    "Calendar sidebar dropdown item": {
+      "Add calendar from URL": [
+        "通过链接添加日历"
+      ],
+      "More options": [
+        "更多选项"
+      ]
+    },
+    "Calendar status": {
+      "Not synced": [
+        "未同步"
+      ],
+      "Syncing": [
+        "正在同步"
+      ]
+    },
+    "Calendar subscription not synced error": {
+      "Calendar could not be decrypted": [
+        "未能解密日历"
+      ],
+      "Calendar is syncing": [
+        "日历正在同步中"
+      ],
+      "Calendar is too big": [
+        ""
+      ],
+      "Calendar link is not accessible": [
+        "日历链接无法访问"
+      ],
+      "Calendar link is temporarily inaccessible": [
+        "日历链接暂时无法访问"
+      ],
+      "Failed to sync calendar": [
+        "同步日历失败"
+      ],
+      "More than 12 hours passed since last update": [
+        "距离上次更新已超过了 12 个小时"
+      ],
+      "Unsupported calendar format": [
+        ""
+      ]
+    },
+    "Calendar view": {
+      "Day": [
+        "天"
+      ],
+      "Month": [
+        "月"
+      ],
+      "Week": [
+        "周"
+      ]
+    },
+    "Calendar view selector": {
+      "Change time range to": [
+        ""
+      ]
+    },
+    "Collapsible tooltip": {
+      "Close": [
+        "关闭"
+      ],
+      "Open": [
+        "打开"
+      ]
+    },
+    "colon": {
+      ": ": [
+        ""
+      ]
+    },
+    "Confirm modal title": {
+      "Quit import customization?": [
+        ""
+      ]
+    },
+    "Contact field label": {
+      "Address": [
+        "地址"
+      ],
+      "Anniversary": [
+        "周年纪念日"
+      ],
+      "Birthday": [
+        "生日"
+      ],
+      "Email": [
+        "电子邮件"
+      ],
+      "Gender": [
+        "性别"
+      ],
+      "Geo": [
+        "坐标"
+      ],
+      "Language": [
+        "语言"
+      ],
+      "Logo": [
+        "Logo"
+      ],
+      "Member": [
+        "成员"
+      ],
+      "Name": [
+        "姓名"
+      ],
+      "Note": [
+        "备注"
+      ],
+      "Organization": [
+        "单位"
+      ],
+      "Phone": [
+        "电话"
+      ],
+      "Photo": [
+        "照片"
+      ],
+      "Role": [
+        "角色"
+      ],
+      "Timezone": [
+        "时区"
+      ],
+      "Title": [
+        "职衔"
+      ],
+      "URL": [
+        "网址"
+      ]
+    },
+    "Contact type label": {
+      "Fax": [
+        "传真"
+      ],
+      "Main": [
+        "主要"
+      ],
+      "Mobile": [
+        "手机"
+      ],
+      "Other": [
+        "其他"
+      ],
+      "Pager": [
+        "寻呼机"
+      ],
+      "Personal": [
+        "私人"
+      ],
+      "Work": [
+        "工作"
+      ],
+      "Yomi": [
+        "读音"
+      ]
+    },
+    "Country name": {
+      "Abkhazia": [
+        ""
+      ],
+      "Afghanistan": [
+        ""
+      ],
+      "Albania": [
+        ""
+      ],
+      "Algeria": [
+        ""
+      ],
+      "American Samoa": [
+        ""
+      ],
+      "Andorra": [
+        ""
+      ],
+      "Angola": [
+        ""
+      ],
+      "Anguilla": [
+        ""
+      ],
+      "Antarctica": [
+        ""
+      ],
+      "Antigua and Barbuda": [
+        ""
+      ],
+      "Argentina": [
+        ""
+      ],
+      "Armenia": [
+        ""
+      ],
+      "Aruba": [
+        ""
+      ],
+      "Ascension Island": [
+        ""
+      ],
+      "Australia": [
+        ""
+      ],
+      "Austria": [
+        ""
+      ],
+      "Azerbaijan": [
+        ""
+      ],
+      "Bahamas": [
+        ""
+      ],
+      "Bahrain": [
+        ""
+      ],
+      "Bangladesh": [
+        ""
+      ],
+      "Barbados": [
+        ""
+      ],
+      "Belarus": [
+        ""
+      ],
+      "Belgium": [
+        ""
+      ],
+      "Belize": [
+        ""
+      ],
+      "Benin": [
+        ""
+      ],
+      "Bermuda": [
+        ""
+      ],
+      "Bhutan": [
+        ""
+      ],
+      "Bolivia": [
+        ""
+      ],
+      "Bonaire, Sint Eustatius and Saba": [
+        ""
+      ],
+      "Bosnia and Herzegovina": [
+        ""
+      ],
+      "Botswana": [
+        ""
+      ],
+      "Bouvet Island": [
+        ""
+      ],
+      "Brazil": [
+        ""
+      ],
+      "British Indian Ocean Territory": [
+        ""
+      ],
+      "Brunei Darussalam": [
+        ""
+      ],
+      "Bulgaria": [
+        ""
+      ],
+      "Burkina Faso": [
+        ""
+      ],
+      "Burma": [
+        ""
+      ],
+      "Burundi": [
+        ""
+      ],
+      "Cambodia": [
+        ""
+      ],
+      "Cameroon": [
+        ""
+      ],
+      "Canada": [
+        ""
+      ],
+      "Cape Verde": [
+        ""
+      ],
+      "Cayman Islands": [
+        ""
+      ],
+      "Central African Republic": [
+        ""
+      ],
+      "Chad": [
+        ""
+      ],
+      "Chile": [
+        ""
+      ],
+      "China": [
+        ""
+      ],
+      "Christmas Island": [
+        ""
+      ],
+      "Cocos (Keeling) Islands": [
+        ""
+      ],
+      "Colombia": [
+        ""
+      ],
+      "Comoros": [
+        ""
+      ],
+      "Congo": [
+        ""
+      ],
+      "Congo, Democratic Republic of the": [
+        ""
+      ],
+      "Cook Islands": [
+        ""
+      ],
+      "Costa Rica": [
+        ""
+      ],
+      "Cote d'Ivoire\"": [
+        ""
+      ],
+      "Croatia": [
+        ""
+      ],
+      "Cuba": [
+        ""
+      ],
+      "Curaçao": [
+        ""
+      ],
+      "Cyprus": [
+        ""
+      ],
+      "Czech Republic": [
+        ""
+      ],
+      "Denmark": [
+        ""
+      ],
+      "Djibouti": [
+        ""
+      ],
+      "Dominica": [
+        ""
+      ],
+      "Dominican Republic": [
+        ""
+      ],
+      "Ecuador": [
+        ""
+      ],
+      "Egypt": [
+        ""
+      ],
+      "El Salvador": [
+        ""
+      ],
+      "Equatorial Guinea": [
+        ""
+      ],
+      "Eritrea": [
+        ""
+      ],
+      "Estonia": [
+        ""
+      ],
+      "Ethiopia": [
+        ""
+      ],
+      "Falkland Islands": [
+        ""
+      ],
+      "Faroe Islands": [
+        ""
+      ],
+      "Federated States of Micronesia": [
+        ""
+      ],
+      "Fiji": [
+        ""
+      ],
+      "Finland": [
+        ""
+      ],
+      "France": [
+        ""
+      ],
+      "French Guiana": [
+        ""
+      ],
+      "French Polynesia": [
+        ""
+      ],
+      "French Southern Territories": [
+        ""
+      ],
+      "Gabon": [
+        ""
+      ],
+      "Gambia": [
+        ""
+      ],
+      "Georgia": [
+        ""
+      ],
+      "Germany": [
+        ""
+      ],
+      "Ghana": [
+        ""
+      ],
+      "Gibraltar": [
+        ""
+      ],
+      "Greece": [
+        ""
+      ],
+      "Greenland": [
+        ""
+      ],
+      "Grenada": [
+        ""
+      ],
+      "Guadeloupe": [
+        ""
+      ],
+      "Guam": [
+        ""
+      ],
+      "Guatemala": [
+        ""
+      ],
+      "Guernsey": [
+        ""
+      ],
+      "Guinea": [
+        ""
+      ],
+      "Guinea-Bissau": [
+        ""
+      ],
+      "Guyana": [
+        ""
+      ],
+      "Haiti": [
+        ""
+      ],
+      "Heard Island and McDonald Islands": [
+        ""
+      ],
+      "Holy See (Vatican City State)": [
+        ""
+      ],
+      "Honduras": [
+        ""
+      ],
+      "Hong Kong": [
+        ""
+      ],
+      "Hungary": [
+        ""
+      ],
+      "Iceland": [
+        ""
+      ],
+      "India": [
+        ""
+      ],
+      "Indonesia": [
+        ""
+      ],
+      "International": [
+        ""
+      ],
+      "Iran": [
+        ""
+      ],
+      "Iraq": [
+        ""
+      ],
+      "Ireland": [
+        ""
+      ],
+      "Isle of Man": [
+        ""
+      ],
+      "Israel": [
+        ""
+      ],
+      "Italy": [
+        ""
+      ],
+      "Jamaica": [
+        ""
+      ],
+      "Japan": [
+        ""
+      ],
+      "Jersey": [
+        ""
+      ],
+      "Jordan": [
+        ""
+      ],
+      "Kazakhstan": [
+        ""
+      ],
+      "Kenya": [
+        ""
+      ],
+      "Kiribati": [
+        ""
+      ],
+      "Kosovo": [
+        ""
+      ],
+      "Kuwait": [
+        ""
+      ],
+      "Kyrgyzstan": [
+        ""
+      ],
+      "Laos": [
+        ""
+      ],
+      "Latvia": [
+        ""
+      ],
+      "Lebanon": [
+        ""
+      ],
+      "Lesotho": [
+        ""
+      ],
+      "Liberia": [
+        ""
+      ],
+      "Libya": [
+        ""
+      ],
+      "Liechtenstein": [
+        ""
+      ],
+      "Lithuania": [
+        ""
+      ],
+      "Luxembourg": [
+        ""
+      ],
+      "Macao": [
+        ""
+      ],
+      "Madagascar": [
+        ""
+      ],
+      "Malawi": [
+        ""
+      ],
+      "Malaysia": [
+        ""
+      ],
+      "Maldives": [
+        ""
+      ],
+      "Mali": [
+        ""
+      ],
+      "Malta": [
+        ""
+      ],
+      "Marshall Islands": [
+        ""
+      ],
+      "Martinique": [
+        ""
+      ],
+      "Mauritania": [
+        ""
+      ],
+      "Mauritius": [
+        ""
+      ],
+      "Mayotte": [
+        ""
+      ],
+      "Mexico": [
+        ""
+      ],
+      "Moldova": [
+        ""
+      ],
+      "Monaco": [
+        ""
+      ],
+      "Mongolia": [
+        ""
+      ],
+      "Montenegro": [
+        ""
+      ],
+      "Montserrat": [
+        ""
+      ],
+      "Morocco": [
+        ""
+      ],
+      "Mozambique": [
+        ""
+      ],
+      "Namibia": [
+        ""
+      ],
+      "Nauru": [
+        ""
+      ],
+      "Nepal": [
+        ""
+      ],
+      "Netherlands": [
+        ""
+      ],
+      "New Caledonia": [
+        ""
+      ],
+      "New Zealand": [
+        ""
+      ],
+      "Nicaragua": [
+        ""
+      ],
+      "Niger": [
+        ""
+      ],
+      "Nigeria": [
+        ""
+      ],
+      "Niue": [
+        ""
+      ],
+      "Norfolk Island": [
+        ""
+      ],
+      "North Korea": [
+        ""
+      ],
+      "North Macedonia": [
+        ""
+      ],
+      "Northern Mariana Islands": [
+        ""
+      ],
+      "Norway": [
+        ""
+      ],
+      "Oman": [
+        ""
+      ],
+      "Pakistan": [
+        ""
+      ],
+      "Palau": [
+        ""
+      ],
+      "Palestine": [
+        ""
+      ],
+      "Panama": [
+        ""
+      ],
+      "Papua New Guinea": [
+        ""
+      ],
+      "Paraguay": [
+        ""
+      ],
+      "Peru": [
+        ""
+      ],
+      "Philippines": [
+        ""
+      ],
+      "Pitcairn": [
+        ""
+      ],
+      "Poland": [
+        ""
+      ],
+      "Portugal": [
+        ""
+      ],
+      "Puerto Rico": [
+        ""
+      ],
+      "Qatar": [
+        ""
+      ],
+      "Reunion": [
+        ""
+      ],
+      "Romania": [
+        ""
+      ],
+      "Russia": [
+        ""
+      ],
+      "Rwanda": [
+        ""
+      ],
+      "Saint Barthélemy": [
+        ""
+      ],
+      "Saint Helena": [
+        ""
+      ],
+      "Saint Kitts and Nevis": [
+        ""
+      ],
+      "Saint Lucia": [
+        ""
+      ],
+      "Saint Martin (French Part)": [
+        ""
+      ],
+      "Saint Pierre and Miquelon": [
+        ""
+      ],
+      "Saint Vincent and the Grenadines": [
+        ""
+      ],
+      "Samoa": [
+        ""
+      ],
+      "San Marino": [
+        ""
+      ],
+      "Sao Tome and Principe": [
+        ""
+      ],
+      "Saudi Arabia": [
+        ""
+      ],
+      "Senegal": [
+        ""
+      ],
+      "Serbia": [
+        ""
+      ],
+      "Seychelles": [
+        ""
+      ],
+      "Sierra Leone": [
+        ""
+      ],
+      "Singapore": [
+        ""
+      ],
+      "Sint Maarten": [
+        ""
+      ],
+      "Slovakia": [
+        ""
+      ],
+      "Slovenia": [
+        ""
+      ],
+      "Solomon Islands": [
+        ""
+      ],
+      "Somalia": [
+        ""
+      ],
+      "South Africa": [
+        ""
+      ],
+      "South Georgia and the South Sandwich Islands": [
+        ""
+      ],
+      "South Korea": [
+        ""
+      ],
+      "South Ossetia": [
+        ""
+      ],
+      "South Sudan": [
+        ""
+      ],
+      "Spain": [
+        ""
+      ],
+      "Sri Lanka": [
+        ""
+      ],
+      "Sudan": [
+        ""
+      ],
+      "Suriname": [
+        ""
+      ],
+      "Svalbard and Jan Mayen": [
+        ""
+      ],
+      "Swaziland": [
+        ""
+      ],
+      "Sweden": [
+        ""
+      ],
+      "Switzerland": [
+        ""
+      ],
+      "Syria": [
+        ""
+      ],
+      "Taiwan": [
+        ""
+      ],
+      "Tajikistan": [
+        ""
+      ],
+      "Tanzania": [
+        ""
+      ],
+      "Thailand": [
+        ""
+      ],
+      "Timor-Leste": [
+        ""
+      ],
+      "Togo": [
+        ""
+      ],
+      "Tokelau": [
+        ""
+      ],
+      "Tonga": [
+        ""
+      ],
+      "Trinidad and Tobago": [
+        ""
+      ],
+      "Tristan da Cunha": [
+        ""
+      ],
+      "Tunisia": [
+        ""
+      ],
+      "Turkey": [
+        ""
+      ],
+      "Turkmenistan": [
+        ""
+      ],
+      "Turks and Caicos Islands": [
+        ""
+      ],
+      "Tuvalu": [
+        ""
+      ],
+      "Uganda": [
+        ""
+      ],
+      "Ukraine": [
+        ""
+      ],
+      "United Arab Emirates": [
+        ""
+      ],
+      "United Kingdom": [
+        ""
+      ],
+      "United States": [
+        ""
+      ],
+      "United States Minor Outlying Islands": [
+        ""
+      ],
+      "Uruguay": [
+        ""
+      ],
+      "Uzbekistan": [
+        ""
+      ],
+      "Vanuatu": [
+        ""
+      ],
+      "Venezuela": [
+        ""
+      ],
+      "Vietnam": [
+        ""
+      ],
+      "Virgin Islands, British": [
+        ""
+      ],
+      "Virgin Islands, U.S.": [
+        ""
+      ],
+      "Wallis and Futuna": [
+        ""
+      ],
+      "Western Sahara": [
+        ""
+      ],
+      "Yemen": [
+        ""
+      ],
+      "Zambia": [
+        ""
+      ],
+      "Zimbabwe": [
+        ""
+      ],
+      "Åland Islands": [
+        ""
+      ]
+    },
+    "Custom frequency option": {
+      "After repeating…": [
+        "重复…"
+      ],
+      "Never": [
+        "从不"
+      ],
+      "On date…": [
+        "日期…"
+      ],
+      "time": [
+        "次"
+      ]
+    },
+    "Daily recurring event, frequency": {
+      "${ count } time": [
+        "${ count } 次"
+      ],
+      "Daily": [
+        "每天"
+      ],
+      "Daily, ${ timesString }": [
+        "每天, ${ timesString }"
+      ],
+      "Daily, ${ untilString }": [
+        "每天, 直到${ untilString }"
+      ],
+      "Every ${ interval } day": [
+        "每 ${ interval } 天"
+      ],
+      "Every ${ interval } day, ${ timesString }": [
+        "每 ${ interval } 天，${ timesString }"
+      ],
+      "Every ${ interval } day, ${ untilString }": [
+        "每 ${ interval } 天，${ untilString }"
+      ],
+      "until ${ dateString }": [
+        "直到${ dateString }"
+      ]
+    },
+    "Default display name vcard": {
+      "Unknown": [
+        "未知"
+      ]
+    },
+    "Default encryption scheme": {
+      "Use global default (${ defaultValueText })": [
+        "遵循系统设置 (${ defaultValueText })"
+      ]
+    },
+    "Delinquent modal title": {
+      "Overdue invoice": [
+        "逾期账单"
+      ]
+    },
+    "Description": {
+      "Decrypting contacts... This may take a few minutes. When the process is completed, you will be able to download the file with all your contacts exported.": [
+        "正在解密联系人... 该过程可能需要几分钟，完成后您就可以下载导出的联系人了"
+      ],
+      "Deleting contacts... This may take a few minutes. When the process is completed, you can close this modal.": [
+        "正在删除联系人... 该过程可能需要几分钟，完成后您就可以关闭此对话框了"
+      ],
+      "Encrypting and importing contacts... This may take a few minutes. When the process is completed, you can close this modal.": [
+        "正在加密并导入联系人... 该过程可能需要几分钟，完成后您就可以关闭此对话框了"
+      ],
+      "It looks like the contact list you are importing contains some groups. Please review how these groups should be imported.": [
+        "您正在导入的联系人列表似乎包含一些群组，请查看并选择应如何导入这些群组"
+      ],
+      "Merging contacts... This may take a few minutes. When the process is completed, you can close this modal.": [
+        "正在合并联系人... 该过程可能需要几分钟，完成后您就可以关闭此对话框了"
+      ],
+      "The file should have a maximum size of ${ MAX_IMPORT_FILE_SIZE_STRING } and have up to ${ MAX_IMPORT_CONTACTS_STRING } contact. If your file is bigger, please split it into smaller files.": [
+        "文件大小不应超过 ${ MAX_IMPORT_FILE_SIZE_STRING }，且联系人总数不应超过 ${ MAX_IMPORT_CONTACTS_STRING }。若您的文件超出此限，请将其拆分成较小的文件"
+      ],
+      "Use Drag and Drop to rank merging priority between contacts. Uncheck the contacts you do not want to merge.": [
+        "通过拖放可调整联系人合并优先级，未勾选的联系人不会被合并"
+      ],
+      "You can import events in iCal format (ICS file). The file should have a maximum size of ${ MAX_IMPORT_FILE_SIZE_STRING } and have up to ${ MAX_IMPORT_EVENTS_STRING } events. If your file is bigger, please split it into smaller files.": [
+        ""
+      ],
+      "You can mark for deletion the contacts that you do not want neither to merge nor to keep. Deletion will only take place after the merge button is clicked": [
+        "您可以选择稍后删除既不想合并也不想保留的联系人，点击合并按钮后他们就会被删除"
+      ]
+    },
+    "Description of the purpose of the import CSV modal": {
+      "Also, we have automatically matched CSV fields with vCard fields. You can review and change this matching manually.": [
+        "另外，我们已将 CSV 内容自动转换成 vCard 信息，您可以查看并修改对应关系"
+      ],
+      "We have detected the following fields in the CSV file you uploaded. Check the ones you want to import.": [
+        "我们从您选择的 CSV 文件中检测到了以下信息，请选择要导入的内容"
+      ]
+    },
+    "Disabled calendar": {
+      "Disabled": [
+        "停用"
+      ]
+    },
+    "Disabled calendar name suffix": {
+      "Disabled": [
+        ""
+      ]
+    },
+    "Disabled calendar tooltip": {
+      "The event belongs to a disabled calendar.": [
+        "此为已停用日历中的事件"
+      ]
+    },
+    "Dropdown action icon tooltip": {
+      "Add calendar": [
+        ""
+      ]
+    },
+    "Duration": {
+      "120 minutes": [
+        "120 分钟"
+      ],
+      "30 minutes": [
+        "30 分钟"
+      ],
+      "60 minutes": [
+        "60 分钟"
+      ],
+      "90 minutes": [
+        "90 分钟"
+      ]
+    },
+    "Early Access Disabled": {
+      "Off": [
+        "关"
+      ]
+    },
+    "Early Access Enabled": {
+      "On": [
+        "开"
+      ]
+    },
+    "Email body for description (description part)": {
+      "Description: ${ eventDescription }": [
+        "描述：${ eventDescription }"
+      ]
+    },
+    "Email body for invitation": {
+      "${ eventTitle } has been canceled.": [
+        ""
+      ],
+      "${ eventTitle } has been updated.\n${ eventDetailsText }": [
+        "${ eventTitle } 已更新。\n${ eventDetailsText }"
+      ],
+      "You are invited to ${ eventTitle }\n${ eventDetailsText }": [
+        "您受邀参加 ${ eventTitle }\n${ eventDetailsText }"
+      ]
+    },
+    "Email body for invitation (date part)": {
+      "When: ${ formattedStart }": [
+        "时间：${ formattedStart }"
+      ],
+      "When: ${ formattedStart } (all day)": [
+        "时间：${ formattedStart } (全天)"
+      ],
+      "When: ${ formattedStart } - ${ formattedEnd }": [
+        "时间：${ formattedStart } - ${ formattedEnd }"
+      ]
+    },
+    "Email body for invitation (location part)": {
+      "Where: ${ eventLocation }": [
+        "地点：${ eventLocation }"
+      ]
+    },
+    "Email body for response to invitation": {
+      "${ emailAddress } has accepted your invitation to ${ eventTitle }": [
+        "${ emailAddress } 接受了参加 ${ eventTitle } 的邀请"
+      ],
+      "${ emailAddress } has declined your invitation to ${ eventTitle }": [
+        "${ emailAddress } 拒绝了参加 ${ eventTitle } 的邀请"
+      ],
+      "${ emailAddress } has tentatively accepted your invitation to ${ eventTitle }": [
+        "${ emailAddress } 暂时接受了参加 ${ eventTitle } 的邀请"
+      ]
+    },
+    "Email subject": {
+      "Cancellation of an event on ${ formattedStart }": [
+        "取消 ${ formattedStart } 的活动"
+      ],
+      "Cancellation of an event starting on ${ formattedStart }": [
+        "取消开始于 ${ formattedStart } 的活动"
+      ],
+      "Invitation for an event on ${ formattedStart }": [
+        "${ formattedStart } 的活动邀请函"
+      ],
+      "Invitation for an event starting on ${ formattedStart }": [
+        "开始于 ${ formattedStart } 的活动邀请函"
+      ],
+      "Update for an event on ${ formattedStart }": [
+        "更新 ${ formattedStart } 的活动"
+      ],
+      "Update for an event starting on ${ formattedStart }": [
+        "更新开始于 ${ formattedStart } 的活动"
+      ]
+    },
+    "Error": {
+      "${ _list } doesn't have an email address": [
+        "某个/些联系人没有电子邮件地址: ${ _list }"
+      ],
+      "${ _list2 } has no contacts": [
+        "某个/些群组没有联系人: ${ _list2 }"
+      ],
+      "${ list } doesn't have a valid email address": [
+        "某个/些联系人没有有效的电子邮件地址: ${ list }"
+      ],
+      "${ list } has invalid emails": [
+        "某个/些群组存在无效的电子邮件地址: ${ list }"
+      ],
+      "A group with this name already exists": [
+        "已存在同名群组"
+      ],
+      "A maximum of 10 notifications is allowed": [
+        "最多允许10个通知"
+      ],
+      "Address primary private key not found": [
+        "找不到地址主私钥"
+      ],
+      "Answer failed to be sent": [
+        "答复发送失败"
+      ],
+      "Authentication canceled.": [
+        "验证被取消"
+      ],
+      "Authentication error.": [
+        "验证错误"
+      ],
+      "Calendar limit reached": [
+        "日历数量达到上限"
+      ],
+      "Can't create new calendars for all imported calendars due to the personal calendar limit.": [
+        "由于个人日历限制，无法为所有导入的日历创建新日历。"
+      ],
+      "Cancellation failed to be sent": [
+        "活动取消发送失败"
+      ],
+      "Contact could not be saved": [
+        "无法保存联系人"
+      ],
+      "Contact signature could not be verified": [
+        "无法验证联系人签名"
+      ],
+      "Contact signature not verified": [
+        "未验证联系人签名"
+      ],
+      "Decryption error: Decryption of this event's content failed.": [
+        "解密失败：无法解密此日程的内容。"
+      ],
+      "Deselect at least ${ calendarToFixCount } calendar": [
+        ""
+      ],
+      "Deselect at least ${ calendarToFixCount } calendar or": [
+        "取消选择至少 ${ calendarToFixCount } 个日历或者"
+      ],
+      "Email address disabled": [
+        "Email 地址已禁用"
+      ],
+      "Email address invalid": [
+        "电子邮箱地址无效"
+      ],
+      "Email is not valid": [
+        "无效邮箱"
+      ],
+      "Ends on date cannot be empty": [
+        "结束日期不能为空"
+      ],
+      "Ends on date must be after start time": [
+        "结束日期不能早于起始日期"
+      ],
+      "Enter 6 digits": [
+        "请输入 6 位验证码"
+      ],
+      "Error": [
+        "错误"
+      ],
+      "Error: ${ errorMessage }": [
+        "错误：${ errorMessage }"
+      ],
+      "Failed to get original occurrence in series": [
+        "无法获取序列中的原始事件"
+      ],
+      "Folder name cannot be empty.": [
+        ""
+      ],
+      "Image upload failed": [
+        "图片上传失败"
+      ],
+      "Incorrect login credentials. Please try again.": [
+        ""
+      ],
+      "Incorrect mailbox password. Please try again.": [
+        ""
+      ],
+      "Interval cannot be empty": [
+        "重复周期不能为空"
+      ],
+      "Invalid email address": [
+        "无效的邮件地址"
+      ],
+      "Invalid link to the event": [
+        "无效的日程链接"
+      ],
+      "Invalid name": [
+        "无效的名称"
+      ],
+      "Invalid public key file": [
+        "公钥文件无效"
+      ],
+      "Invalid verification code": [
+        "无效的验证代码"
+      ],
+      "Invitation failed to be sent": [
+        "邀请发送失败"
+      ],
+      "It is only possible to create events between ${ minDateString } - ${ maxDateString }": [
+        "只能在${ minDateString }到${ maxDateString }之间创建日程"
+      ],
+      "It is only possible to move events between ${ minDateString } - ${ maxDateString }": [
+        "只能在${ minDateString }到${ maxDateString }之间移动日程"
+      ],
+      "Label name cannot be empty.": [
+        ""
+      ],
+      "Merge at least ${ calendarToFixCount } calendar with an existing Proton calendar": [
+        "将至少 ${ calendarToFixCount } 个日历与现有的 Proton 日历合并"
+      ],
+      "Missing key packet": [
+        ""
+      ],
+      "Missing signature": [
+        "缺少签名"
+      ],
+      "Name required": [
+        "姓名 (必填)"
+      ],
+      "No data to import": [
+        ""
+      ],
+      "No keys retrieved for internal user": [
+        "没有为内部用户检索到密钥"
+      ],
+      "No valid address found": [
+        "未找到有效地址"
+      ],
+      "No WKD key retrieved for user is valid for sending": [
+        "没有为内部用户检索到的密钥用于发送"
+      ],
+      "Not a valid number": [
+        "无效号码"
+      ],
+      "Number of occurrences cannot be empty": [
+        "重复次数不能为空"
+      ],
+      "One of the contacts has no email address: ${ noEmailsContactNamesList }": [
+        "某个/些联系人没有电子邮件地址: ${ noEmailsContactNamesList } "
+      ],
+      "One of the groups has no contacts: ${ noContactGroupList }": [
+        "某个/些群组没有联系人: ${ noContactGroupList } "
+      ],
+      "Passwords do not match": [
+        "密码不匹配"
+      ],
+      "Please create an address first.": [
+        "请先创建地址。"
+      ],
+      "Please fix the highlighted conflict to proceed.": [
+        "请修复高亮的冲突以继续。"
+      ],
+      "Preferences could not be saved": [
+        "无法保存偏好设置"
+      ],
+      "Primary address key is not decrypted": [
+        "主密钥尚未解密。"
+      ],
+      "Primary address key is not decrypted.": [
+        "主密钥尚未解密。"
+      ],
+      "Primary key is not valid for sending": [
+        ""
+      ],
+      "Primary key retrieved for internal user is valid for sending": [
+        ""
+      ],
+      "Request timed out": [
+        ""
+      ],
+      "Self invitation not allowed": [
+        "不能自我邀请"
+      ],
+      "Signature not verified": [
+        "签名未验证"
+      ],
+      "Signature verification failed": [
+        "签名验证失败"
+      ],
+      "Some contacts could not be deleted": [
+        "部分联系人无法删除"
+      ],
+      "Some groups could not be deleted": [
+        "部分群组无法删除"
+      ],
+      "Some of your label names are unavailable. Please customize the import to edit these names.": [
+        "部分标签名称不可用，请自定导入内容并予以更改。"
+      ],
+      "Some of your label names exceed ${ MAIL_APP_NAME }'s maximum character limit. Please customize the import to edit these names.": [
+        ""
+      ],
+      "Something went wrong, please ${ refresh } in order to proceed. If you still see this error message please contact our ${ supportTeam }.": [
+        "出错了，请${ refresh }以继续。若仍出现此错误，请联系我们的${ supportTeam }"
+      ],
+      "Start time must be before end time": [
+        "起始时间必须早于结束时间"
+      ],
+      "The folder name is invalid. Please choose a different name.": [
+        ""
+      ],
+      "The folder name is too long. Please choose a different name.": [
+        "文件夹名称过长，请重新填写。"
+      ],
+      "The label name is invalid. Please choose a different name.": [
+        ""
+      ],
+      "The label name is too long. Please choose a different name.": [
+        "标签名称过长，请重新填写。"
+      ],
+      "The sending key is not valid": [
+        "发送密钥无效"
+      ],
+      "There are too many folders in your external account. Please customize the import to delete some folders.": [
+        "待导入账户的文件夹过多，请自定义导入内容并删除部分文件夹。"
+      ],
+      "There was an error when exporting the contacts vCards": [
+        "导出联系人 vCards 时出错"
+      ],
+      "This field is required": [
+        "此项必须填写"
+      ],
+      "This field requires a minimum of ${ minimumLength } characters.": [
+        "此字段至少需要 ${ minimumLength } 个字符。"
+      ],
+      "This folder name is not available. Please choose a different name.": [
+        ""
+      ],
+      "This label name is not available. Please choose a different name.": [
+        ""
+      ],
+      "This message may contain some link's URL that cannot be properly opened by your current browser": [
+        "此邮件含有浏览器不能打开的链接"
+      ],
+      "Trusted keys are not valid for sending": [
+        "已信任的密钥对发送无效"
+      ],
+      "Unknown error": [
+        "未知错误"
+      ],
+      "You can't send a mail to more than 100 recipients": [
+        "您不能给100 位以上收件人发送邮件"
+      ],
+      "You can't send vCards of more than 10 contacts": [
+        "您不能发送超过 10 个联系人的 vCard"
+      ],
+      "You must set a name": [
+        "请输入名称 (必填)"
+      ],
+      "Your import will not be processed.": [
+        "此次导入将不会进行"
+      ]
+    },
+    "Error importing calendar": {
+      "An error occurred reading your file ${ formattedFilename }. File does not have the right format.": [
+        ""
+      ],
+      "An error occurred uploading your file ${ formattedFilename }. Maximum file size is ${ MAX_IMPORT_FILE_SIZE_STRING }.": [
+        ""
+      ],
+      "An error occurred uploading your file ${ formattedFilename }. Only ICS file formats are allowed.": [
+        "文件 ${ formattedFilename } 上传失败，我们只接受 ICS 文件格式。"
+      ],
+      "An error occurred uploading your file. No file has been selected.": [
+        "文件上传失败，尚未选择文件。"
+      ],
+      "An unexpected error occurred. Import must be restarted.": [
+        "发生未知错误，需重新导入"
+      ],
+      "Your file ${ formattedFilename } contains more than ${ MAX_IMPORT_EVENTS_STRING } events.": [
+        ""
+      ],
+      "Your file ${ formattedFilename } has an invalid method and cannot be imported.": [
+        ""
+      ],
+      "Your file ${ formattedFilename } has no events to be imported.": [
+        ""
+      ],
+      "Your file ${ formattedFilename } is empty.": [
+        "文件 ${ formattedFilename } 为空。"
+      ],
+      "Your file ${ formattedFilename } is not a calendar.": [
+        ""
+      ]
+    },
+    "Error importing contact": {
+      "Encryption failed": [
+        "加密失败"
+      ],
+      "vCard versions < 3.0 not supported": [
+        "不支持 vCard 3.0 以下版本"
+      ]
+    },
+    "Error importing contacts": {
+      "An error occurred reading your file ${ formattedFilename }. File doesn't have the right format.": [
+        "读取文件 ${ formattedFilename } 出错，文件格式不对"
+      ],
+      "An error occurred uploading your file ${ formattedFilename }. Maximum file size is ${ MAX_IMPORT_FILE_SIZE_STRING }.": [
+        "上传文件 ${ formattedFilename } 出错，文件大小上限为 ${ MAX_IMPORT_FILE_SIZE_STRING }"
+      ],
+      "An error occurred uploading your file ${ formattedFilename }. No .csv or .vcf file selected": [
+        "上传文件 ${ formattedFilename } 出错，未选择 .csv 或 .vcf 文件"
+      ],
+      "An error occurred uploading your file. No file has been selected.": [
+        "上传文件出错，尚未选择文件"
+      ],
+      "Your file ${ formattedFilename } contains more than ${ MAX_IMPORT_CONTACTS_STRING } contacts.": [
+        "文件 ${ formattedFilename } 中的联系人数已超过 ${ MAX_IMPORT_CONTACTS_STRING }"
+      ],
+      "Your file ${ formattedFilename } has no contacts to be imported.": [
+        "文件 ${ formattedFilename } 中没有可导入的联系人"
+      ],
+      "Your file ${ formattedFilename } is empty.": [
+        "文件 ${ formattedFilename } 为空"
+      ]
+    },
+    "Error importing event": {
+      "Bad format. Component cannot be read.": [
+        "格式错误，组件无法读取。"
+      ],
+      "Calendar": [
+        "日历"
+      ],
+      "Calendar timezone not supported": [
+        ""
+      ],
+      "Component with wrong format": [
+        ""
+      ],
+      "Custom timezone": [
+        "自定义时区"
+      ],
+      "Edited event not supported": [
+        ""
+      ],
+      "Element": [
+        "元素"
+      ],
+      "Encryption failed": [
+        ""
+      ],
+      "End time out of bounds": [
+        ""
+      ],
+      "Event": [
+        "事件"
+      ],
+      "Event validation failed": [
+        ""
+      ],
+      "Floating times not supported": [
+        ""
+      ],
+      "Free-busy time information": [
+        ""
+      ],
+      "Invalid event": [
+        ""
+      ],
+      "Journal entry": [
+        ""
+      ],
+      "Malformed all-day event": [
+        ""
+      ],
+      "Malformed end time": [
+        ""
+      ],
+      "Malformed recurring event": [
+        ""
+      ],
+      "Malformed start time": [
+        ""
+      ],
+      "Missing start time": [
+        ""
+      ],
+      "No UID, title or start time": [
+        ""
+      ],
+      "Non-Gregorian": [
+        ""
+      ],
+      "Notification out of bounds": [
+        ""
+      ],
+      "Original recurring event could not be found": [
+        ""
+      ],
+      "Recurring event has no occurrences": [
+        ""
+      ],
+      "Recurring rule not supported": [
+        ""
+      ],
+      "Start time out of bounds": [
+        ""
+      ],
+      "Timezone": [
+        "时区"
+      ],
+      "Timezone not supported": [
+        ""
+      ],
+      "To-do entry": [
+        ""
+      ],
+      "Unknown": [
+        "未知"
+      ],
+      "Unsupported event": [
+        ""
+      ]
+    },
+    "Error message": {
+      "Brace yourself till we get the error fixed.": [
+        "别担心，我们会解决的。"
+      ],
+      "Error: ${ errorMessage }": [
+        "错误：${ errorMessage }"
+      ],
+      "Invalid URL": [
+        ""
+      ],
+      "Oops, something went wrong": [
+        "糟糕，出错了"
+      ],
+      "Please ${ refresh } or check your connection.": [
+        "请 ${ refresh } 或检查您的连接。"
+      ],
+      "There was a problem connecting to Proton.": [
+        "无法联系 Proton"
+      ],
+      "You may also ${ refresh } or try again later.": [
+        "您也可以${ refresh }页面或稍后再试"
+      ],
+      "You need an active personal calendar to import events": [
+        ""
+      ]
+    },
+    "Error notification": {
+      "First name and last name cannot be unchecked at the same time": [
+        "姓氏和名字至少应勾选一个"
+      ]
+    },
+    "Error notification in the bug report modal when the user upload file": {
+      "No image selected": [
+        "没有选择图像"
+      ]
+    },
+    "Error notification when score is missing in user feedback form modal": {
+      "Score is required": [
+        "分数 (必填)"
+      ]
+    },
+    "Event canceled status badge": {
+      "canceled": [
+        ""
+      ]
+    },
+    "Event delete button tooltip": {
+      "Delete event": [
+        "删除日程"
+      ]
+    },
+    "Event duplicate button tooltip": {
+      "Duplicate event": [
+        ""
+      ]
+    },
+    "Event edit button tooltip": {
+      "Edit event": [
+        "编辑日程"
+      ]
+    },
+    "Event form": {
+      "${ numberOfParticipants } participant": [
+        "${ numberOfParticipants } 个参与者"
+      ]
+    },
+    "Event info. Organizer name": {
+      "You": [
+        "你"
+      ]
+    },
+    "Event invitation error": {
+      "Attached ICS file could not be decrypted": [
+        ""
+      ],
+      "Attached ICS file could not be read": [
+        ""
+      ],
+      "Invalid invitation": [
+        ""
+      ],
+      "Invalid response": [
+        ""
+      ],
+      "The event could not be added to your calendar. No answer was sent": [
+        ""
+      ],
+      "The event could not be updated in your calendar. No answer was sent": [
+        ""
+      ],
+      "Unexpected error": [
+        ""
+      ],
+      "Unsupported invitation": [
+        ""
+      ],
+      "Unsupported response": [
+        ""
+      ],
+      "We could not cancel the event in your calendar": [
+        ""
+      ],
+      "We could not retrieve the event from your calendar": [
+        ""
+      ],
+      "We could not update the event in your calendar": [
+        ""
+      ],
+      "Your answer was sent, but the event could not be added to your calendar": [
+        ""
+      ],
+      "Your answer was sent, but the event could not be updated in your calendar": [
+        ""
+      ]
+    },
+    "Event popover close button": {
+      "Close popover": [
+        "关闭弹出框"
+      ]
+    },
+    "Event reply": {
+      "maybe": [
+        "可能"
+      ],
+      "no": [
+        "否"
+      ],
+      "pending": [
+        ""
+      ],
+      "yes": [
+        "是"
+      ]
+    },
+    "Event title": {
+      "(no title)": [
+        "(无标题)"
+      ]
+    },
+    "file size format": {
+      "bytes": [
+        "字节"
+      ],
+      "GB": [
+        "GB"
+      ],
+      "KB": [
+        "KB"
+      ],
+      "MB": [
+        "MB"
+      ]
+    },
+    "file size format, long": {
+      "Bytes": [
+        ""
+      ],
+      "Gigabytes": [
+        ""
+      ],
+      "Kilobytes": [
+        ""
+      ],
+      "Megabytes": [
+        ""
+      ]
+    },
+    "Filter notification": {
+      "${ Label.Name } updated": [
+        "${ Label.Name } 标签已更改"
+      ]
+    },
+    "Group": {
+      "Account": [
+        "账户"
+      ],
+      "Apps": [
+        "应用"
+      ],
+      "Network": [
+        "网络"
+      ],
+      "Other category": [
+        "其他类别"
+      ],
+      "Services": [
+        "服务"
+      ]
+    },
+    "Header": {
+      "Contacts": [
+        "通讯录"
+      ],
+      "Contacts, groups and settings": [
+        "联系人、群组和设置"
+      ],
+      "Get help": [
+        "获取帮助"
+      ],
+      "Name": [
+        "名称"
+      ]
+    },
+    "Hint": {
+      "Found ${ items.length } suggestion, use keyboard to navigate.": [
+        "找到 ${ items.length } 个建议，请使用键盘导航"
+      ],
+      "Use Up and Down keys to access and browse suggestions after input. Press Enter to confirm your choice, or Escape to close the suggestions box.": [
+        "使用向上和向下键进入并浏览输入后的建议。按 Enter 键确认您的选择，或按 Escape 键关闭建议框"
+      ]
+    },
+    "Human verification method": {
+      "CAPTCHA": [
+        "验证码"
+      ],
+      "Email": [
+        "邮件"
+      ],
+      "Manual": [
+        "手动"
+      ],
+      "No verification method available": [
+        "没有可用的验证方法"
+      ],
+      "SMS": [
+        "短信"
+      ]
+    },
+    "Import calendar": {
+      "${ totalImported }/${ totalToImport } event encrypted and added to your calendar": [
+        ""
+      ],
+      "An error occurred while encrypting and adding your event. ${ totalImported } out of ${ totalToImport } event successfully imported.": [
+        ""
+      ],
+      "An error occurred while encrypting and adding your event. No event could be imported.": [
+        ""
+      ],
+      "Encrypting and adding contacts: ${ totalImported }/${ totalToImport }": [
+        "正在加密并添加联系人：已完成 ${ totalImported }/${ totalToImport }"
+      ],
+      "Encrypting and adding events to your calendar: ${ totalImported }/${ totalToImport }": [
+        ""
+      ],
+      "Event successfully imported. The imported event will now appear in your calendar.": [
+        ""
+      ],
+      "Please don't close the tab before the importing process is finished.": [
+        ""
+      ]
+    },
+    "Import calendar warning": {
+      "${ CALENDAR_APP_NAME } currently does not support certain event types, details and formats.": [
+        ""
+      ],
+      "vCard versions < 3.0": [
+        "vCard 版本低于 3.0"
+      ]
+    },
+    "Import calendar; import invitation": {
+      "Imported invitations appear in ${ CALENDAR_APP_NAME } as simple events without organizer and participant details. To get event updates and see participants, ask organizers to invite you using your Proton email address.": [
+        ""
+      ],
+      "This file contains an event invitation:": [
+        ""
+      ],
+      "This file contains an invitation response:": [
+        ""
+      ],
+      "This file contains some data that we cannot import:": [
+        ""
+      ]
+    },
+    "Import contact": {
+      "${ totalImported }/${ totalToImport } contact encrypted and added to your contact list": [
+        "${ totalImported }/${ totalToImport } 联系人已加密并添至您的联系人列表"
+      ],
+      "An error occurred while encrypting and adding your contact. No contact could be imported.": [
+        "加密并添加联系人时出错，未能导入任何联系人"
+      ]
+    },
+    "Import contact error": {
+      "Contact ${ contactId }: ": [
+        "联系人 ${ contactId }: "
+      ]
+    },
+    "Import contact groups info": {
+      "${ totalContacts } contact": [
+        "${ totalContacts } 个联系人"
+      ]
+    },
+    "Import contact. Contact identifier": {
+      "unknown": [
+        "未知"
+      ]
+    },
+    "Import contacts": {
+      "An error occurred while encrypting and adding your contacts. ${ totalImported } out of ${ totalToImport } contacts successfully imported.": [
+        "加密并添加联系人时出错，${ totalImported }/${ totalToImport } 联系人已成功导入"
+      ],
+      "Contact successfully imported. The imported contact will now appear in your contact list.": [
+        "联系人导入成功，已显示在您的通讯录中"
+      ]
+    },
+    "Import contacts warning": {
+      "for now": [
+        "暂时"
+      ],
+      "ProtonContacts does not support ${ forNow }:": [
+        "ProtonContacts ${ forNow }不支持："
+      ]
+    },
+    "Import warning": {
+      "${ totalContactsDiscarded } out of ${ totalContacts } contacts will not be imported. Click for details": [
+        "${ totalContactsDiscarded }/${ totalContacts } 联系人将不会被导入，点击查看详情"
+      ],
+      "${ totalEventsDiscarded } out of ${ totalEvents } event will not be imported. Expand for details.": [
+        ""
+      ],
+      "No contact can be imported. Click for details": [
+        "没有联系人可供导入，点击查看详情"
+      ],
+      "No event can be imported. Expand for details.": [
+        ""
+      ],
+      "Part of your calendar content is not supported and will not be imported.": [
+        ""
+      ]
+    },
+    "Info": {
+      "${ addressCount } email address": [
+        "${ addressCount } 个电子邮件地址"
+      ],
+      "${ appName } needs your permission to ${ enableDesktopNotifications }.": [
+        "${ appName } 需要您的权限来${ enableDesktopNotifications }"
+      ],
+      "${ calendarAppName } has been added to the Proton suite. We would love to hear what you think about it!": [
+        "${ calendarAppName } 已被添加到 Proton 套装中，我们很乐意倾听你对其的看法！"
+      ],
+      "${ calendarsToBeCreatedCount } new calendar": [
+        "${ calendarsToBeCreatedCount } 个新日历"
+      ],
+      "${ calendarsToBeMerged } merged calendar": [
+        ""
+      ],
+      "${ calendarsToBeMergedCount } merged calendar": [
+        "${ calendarsToBeMergedCount } 个合并日历"
+      ],
+      "${ contactCount } contact contains multiple email addresses.": [
+        ""
+      ],
+      "${ contactEmailsLength } Member": [
+        "${ contactEmailsLength } 成员"
+      ],
+      "${ contactName } contains multiple email addresses.": [
+        ""
+      ],
+      "${ contactsCount } contact found": [
+        "找到 ${ contactsCount } 位联系人"
+      ],
+      "${ groupCounts } group found": [
+        "找到 ${ groupCounts } 个群组"
+      ],
+      "${ numContactGroups } contact group": [
+        "${ numContactGroups } 个联系人群组"
+      ],
+      "${ numContacts } contact": [
+        "${ numContacts } 名联系人"
+      ],
+      "${ selectedCalendarsTotal } of ${ providerCalendars.length } calendar": [
+        "已选中 ${ providerCalendars.length } 个日历中的 ${ selectedCalendarsTotal } 个"
+      ],
+      "${ selectedFoldersCount } folder selected": [
+        "已选择 ${ selectedFoldersCount } 个文件夹"
+      ],
+      "${ selectedFoldersCount } label selected": [
+        "已选择 ${ selectedFoldersCount } 个标签"
+      ],
+      "${ storageSize } storage": [
+        ""
+      ],
+      "${ updated } contact updated successfully.": [
+        "${ updated } 位联系人更新成功"
+      ],
+      "(${ memberCount } member)": [
+        "(${ memberCount } 位成员)"
+      ],
+      "10 email addresses": [
+        ""
+      ],
+      "A cancellation email will be sent to removed participants.": [
+        "活动取消邮件将发送至已移除的参与者"
+      ],
+      "A cancellation email will be sent to the event participants. Would you like to delete all events in this series?": [
+        "将向活动参与者们发送取消邮件，您想要删除该系列活动中的所有活动吗？"
+      ],
+      "A cancellation email will be sent to the event participants. Would you like to delete this event?": [
+        "您将向活动参与者发送一封取消邮件。您确定想要删除此日程吗？"
+      ],
+      "Account access restricted due to unpaid invoices. Please contact your administrator.": [
+        "由于有未支付的账单，账户已受限。请联系您的账户管理员。"
+      ],
+      "Added and removed participants will be notified about all the events in this series.": [
+        "添加和移除的参与者将收到关于该系列中所有活动的通知"
+      ],
+      "Added and removed participants will be notified.": [
+        "添加和移除的参与者将收到通知"
+      ],
+      "Address Verification with Trusted Keys is enabled for this address. To be able to send to this address, first trust public keys that can be used for sending.": [
+        "已对此地址开启密钥验证，向其发送邮件前需要先信任其公钥"
+      ],
+      "All (${ totalFoldersCount } folder)": [
+        "全部（${ totalFoldersCount } 个文件夹）"
+      ],
+      "All (${ totalFoldersCount } label)": [
+        "全部（${ totalFoldersCount } 个标签）"
+      ],
+      "An invitation will be sent to added participants.": [
+        "邀请函将发送至所有已添加的参与者"
+      ],
+      "An invitation will be sent to the event participants.": [
+        "邀请函将发送至所有的活动参与者"
+      ],
+      "and": [
+        ""
+      ],
+      "At most 100 participants are allowed per invitation": [
+        "每次邀请的上限是 100 人"
+      ],
+      "Before requesting a new verification code, check your spam folder and check that ${ strong } is the correct address.": [
+        ""
+      ],
+      "Cannot remember your password? We can help you clear the encrypted data of all contacts encrypted with this key and in the process dismiss the alert.": [
+        "记不住密码？我们可以帮助您清除使用此密钥加密的所有联系人的加密数据，并在此过程中忽略警告"
+      ],
+      "Checking contact ${ progress } of ${ max }...": [
+        "正在检查联系人 ${ progress } / ${ max }..."
+      ],
+      "Click \"Request new code\" to have a new verification code sent to ${ strong }. If this phone number is incorrect, click \"Edit\" to correct it.": [
+        "点击 \"请求新验证码\" 将发送到 ${ strong }。如果此电话号码不正确，请点击 \"编辑\""
+      ],
+      "Close this screen to exit.": [
+        "关闭此窗口以退出。"
+      ],
+      "Continue with ${ planName }": [
+        ""
+      ],
+      "Create ${ calendarsToBeCreated } new calendar": [
+        "新建 ${ calendarsToBeCreated } 个日历"
+      ],
+      "Create a label for the imported messages, a time range for this import, and the folders you would like to import.": [
+        "给导入的邮件加标签，指定导入的时间范围，并选择要导入的文件夹。"
+      ],
+      "Create a label for the imported messages, a time range for this import, and the labels you would like to import.": [
+        "给导入的邮件加标签，指定导入的时间范围，并选择要导入的标签。"
+      ],
+      "Create a new contact group": [
+        "创建联系人群组"
+      ],
+      "Create in": [
+        ""
+      ],
+      "CSV files from Outlook, Outlook Express, Yahoo! Mail, Hotmail, Eudora and some other apps as well as vCard 3.1 and 4.0 formats (UTF-8 encoding) are supported.": [
+        "支持来自 Outlook、Outlook Express、雅虎邮箱、Hotmail、Eudora 和其他一些应用程序的 CSV 文件，以及 vCard 3.1 和 4.0 格式（UTF-8 编码）。"
+      ],
+      "Custom": [
+        "自定义"
+      ],
+      "Custom daily": [
+        "个人每日计划。"
+      ],
+      "Custom monthly": [
+        "个人月计划。"
+      ],
+      "Custom weekly": [
+        "个人周计划。"
+      ],
+      "Custom yearly": [
+        "个人年计划。"
+      ],
+      "Daily": [
+        "每天"
+      ],
+      "Discard changes?": [
+        "舍弃更改？"
+      ],
+      "Drop the file here to upload": [
+        "请将文件拖拽至此处进行上传"
+      ],
+      "Duplicate key updated": [
+        "重复的密钥已更新"
+      ],
+      "Enter the verification code that was sent to ${ destinationText }.": [
+        "验证码已发至 ${ destinationText }，请在下方输入。"
+      ],
+      "Existent and added participants will be notified.": [
+        "现有和添加的参与者将收到通知"
+      ],
+      "Existent and removed participants will be notified.": [
+        "现有和移除的参与者将收到通知"
+      ],
+      "Existent, added and removed participants will be notified.": [
+        "现有、添加和移除的参与者将收到通知"
+      ],
+      "Free up some space or add more storage space.": [
+        "释放一些空间或添加更多存储空间。"
+      ],
+      "Free up some space or contact your administrator.": [
+        "释放一些空间或与您的管理员联系。"
+      ],
+      "Frequency modifications will be lost.": [
+        "频率修改将丢失"
+      ],
+      "Group assignment applied": [
+        "已应用群组分配"
+      ],
+      "here": [
+        "这里"
+      ],
+      "If you are having trouble creating your account, please request an invitation and we will respond within one business day.": [
+        "若您创建账户存在困难，请提交注册申请，我们将在一个工作日内回复。"
+      ],
+      "If you believe this is in error, please contact us ${ contactLink }.": [
+        "如果您坚信其中有误，请联系 ${ contactLink }"
+      ],
+      "If you don't find the email in your inbox, please check your spam folder.": [
+        "若邮件没有出现在收件箱中，请检查其是否被归为垃圾邮件。"
+      ],
+      "Import ${ contactsFragment } and ${ contactsGroupsFragment }": [
+        "导入 ${ contactsFragment }和 ${ contactsGroupsFragment }"
+      ],
+      "Import ${ selectedCalendarsCount } of ${ totalCalendarsCount } calendar": [
+        "导入 ${ selectedCalendarsCount }/${ totalCalendarsCount } 个日历"
+      ],
+      "Import from": [
+        "导入自"
+      ],
+      "Import in progress": [
+        "导入进行中"
+      ],
+      "Importing your data from ${ importedEmailAddress } to ${ toEmail }.": [
+        "正在将您的数据从 ${ importedEmailAddress } 导入到 ${ toEmail }。"
+      ],
+      "Inherited from parent folder": [
+        "继承自父文件夹"
+      ],
+      "Internet connection lost": [
+        ""
+      ],
+      "Internet connection lost. Please check your device's connectivity.": [
+        "网络连接已丢失。请检查您设备的连接性。"
+      ],
+      "Internet connection restored.": [
+        "互联网连接已恢复。"
+      ],
+      "Just confirm your selection and we'll do the rest.": [
+        "只需确认您的选择，剩下的交由我们！"
+      ],
+      "Key fingerprint": [
+        "指纹码"
+      ],
+      "Large imports can take several days.": [
+        "大批量的导入可能需要几天才能完成。"
+      ],
+      "Learn more": [
+        "了解详情"
+      ],
+      "Loading": [
+        "加载中"
+      ],
+      "Loading ${ appName }": [
+        "正在加载 ${ appName }"
+      ],
+      "Loading event": [
+        "日程加载中"
+      ],
+      "Loading events": [
+        "日程加载中"
+      ],
+      "Manage your calendars": [
+        "管理您的日历"
+      ],
+      "Merged": [
+        "已合并"
+      ],
+      "Monthly ${ onDayString }": [
+        "每月 ${ onDayString }"
+      ],
+      "Name your new folder and select the parent folder you want to put it in. If you do not select a parent folder, this new folder will be created as a top level folder.": [
+        "设置新文件夹的名称和位置，若不选取父文件夹，则将创建顶层文件夹。"
+      ],
+      "New": [
+        ""
+      ],
+      "No contacts added yet": [
+        "尚未添加联系人"
+      ],
+      "No email address": [
+        "没有电子邮件地址"
+      ],
+      "No group found": [
+        "未找到群组"
+      ],
+      "No results found": [
+        "未找到结果"
+      ],
+      "None of the participants can be notified about your changes:": [
+        "任何参与者都不能收到您的更改通知："
+      ],
+      "None of the uploaded keys are valid for encryption. Encryption is automatically disabled.": [
+        "所有上传的密钥都不适用于加密，加密将自动禁用"
+      ],
+      "Not a valid URL": [
+        ""
+      ],
+      "Occurrences previously updated by the organizer will be kept, but some of your answers will be lost.": [
+        "组织者先前更新的事件将予保留，但您的一些答复将会丢失"
+      ],
+      "Occurrences previously updated by the organizer will be kept.": [
+        "组织者先前更新的事件将予保留"
+      ],
+      "One or more of your trusted keys were marked \"compromised\" by their owner. We recommend that you \"untrust\" these keys.": [
+        ""
+      ],
+      "Only change these settings if you are using PGP with non-${ BRAND_NAME } recipients.": [
+        ""
+      ],
+      "Other options": [
+        ""
+      ],
+      "PGP/Inline is only compatible with Plain Text format. Please note that ${ MAIL_APP_NAME } always signs encrypted messages.": [
+        ""
+      ],
+      "PGP/MIME automatically sends the message using the current composer mode. Please note that ${ MAIL_APP_NAME } always signs encrypted messages": [
+        ""
+      ],
+      "Please note that addresses assigned to this group will NOT be deleted.": [
+        "请注意，分配给此组的地址将不会被删除"
+      ],
+      "Please note that this process may take some time depending on the size of your address book.": [
+        "请注意，该过程可能需要一些时间，具体取决于您地址簿的大小"
+      ],
+      "Please remove the duplicates and try again.": [
+        "请移除重复项后重试"
+      ],
+      "Please select the folders you would like to import:": [
+        "请选择要导入的文件夹："
+      ],
+      "Please select which email address or addresses to add to ${ groupCount } group.": [
+        ""
+      ],
+      "Please select which email address or addresses to add to ${ groupName }.": [
+        ""
+      ],
+      "Please wait while we look for contacts that can be re-signed with the primary encryption key.": [
+        "请稍候，我们正在寻找可用主密钥重新签名的联系人"
+      ],
+      "Please wait while we look for contacts that contain data encrypted with the inactive key.": [
+        "请稍候，我们正在寻找包含用非活动密钥加密数据的联系人"
+      ],
+      "Previous modifications on this series will be lost.": [
+        "此系列先前的修改将丢失"
+      ],
+      "Primary": [
+        "主密钥"
+      ],
+      "Priority support": [
+        ""
+      ],
+      "Refreshing the page or ${ link } will automatically resolve most issues.": [
+        "大多数问题都能通过刷新页面或${link}来解决。"
+      ],
+      "Removed participants will be notified.": [
+        "移除的参与者将收到通知"
+      ],
+      "Select the email format you want to be used by default when sending an email to this email address.": [
+        "选择向该地址发送邮件的首选格式"
+      ],
+      "Select what you want to move from Google.": [
+        "Select what you want to import from Google."
+      ],
+      "Select which calendars to import. A new calendar will be created for each imported calendar up to the 20 calendars limit.": [
+        ""
+      ],
+      "Servers are unreachable. Please try again in a few minutes": [
+        "服务器无法访问，请过几分钟后再试"
+      ],
+      "Session timed out": [
+        ""
+      ],
+      "Setting up PGP allows you to send end-to-end encrypted emails with a non-${ BRAND_NAME } user that uses a PGP compatible service.": [
+        ""
+      ],
+      "Some of your answers to occurrences previously updated by the organizer will be lost.": [
+        "您对先前由组织者更新过的事件的一些答复将会丢失"
+      ],
+      "Storage space is shared across ${ MAIL_APP_NAME }, ${ CALENDAR_APP_NAME }, and ${ DRIVE_APP_NAME }.": [
+        ""
+      ],
+      "Support for 1 custom email domain": [
+        ""
+      ],
+      "support team": [
+        "客服团队"
+      ],
+      "The application needs to locally decrypt your contacts before they can be exported. At the end of the process, a VCF file will be generated and you will be able to download it.": [
+        "导出联系人之前应用程序需在本地将其解密。在该过程结束时，将生成一个可供下载的 VCF 文件"
+      ],
+      "The following participants cannot be notified about your changes:": [
+        "以下参与者不能收到您的更改通知："
+      ],
+      "The organizer cannot be notified that you decline the invitation:": [
+        "无法通知组织者您已拒绝邀请:"
+      ],
+      "The organizer cannot be notified that you want to change your answer:": [
+        "无法通知组织者您想要更改答案："
+      ],
+      "The organizer could not be notified that you changed your answer:": [
+        "未能通知组织者您更改了答案："
+      ],
+      "The organizer has updated some of the events in this series. Changing the calendar is not supported yet for this type of recurring events.": [
+        "主办方已经更新了该系列活动中的部分活动，此类重复性活动尚不支持更改日历"
+      ],
+      "The organizer of this event will be notified that you decline the invitation. Would you like to delete this event?": [
+        "本活动的组织者将被通知您拒绝邀请，您想删除本次活动吗？"
+      ],
+      "The organizer of this event will not be notified that you decline the invitation as you can't send emails from the invited address. Would you like to delete this event anyway?": [
+        "本活动的组织者将不会收到您拒绝邀请的通知，因为您不能从受邀地址发送邮件。仍要删除此活动吗？"
+      ],
+      "The organizer of this series of events will be notified that you decline the invitation. Would you like to delete all the events in this series?": [
+        "本系列活动的组织者将收到您拒绝邀请的通知，您想要删除该系列活动中的所有活动吗？"
+      ],
+      "The organizer of this series of events will not be notified that you decline the invitation as you can't send emails from the invited address. Would you like to delete all the events in this series anyway?": [
+        "本系列活动的组织者将不会收到您拒绝邀请的通知，因为您不能从受邀地址发送邮件。仍要删除该系列活动中的所有活动吗？"
+      ],
+      "This account has been suspended due to a potential policy violation.": [
+        "此帐户因可能违反用户协议而被封禁"
+      ],
+      "This address is disabled. To be able to send to this address, the owner must first enable the address.": [
+        "此地址已被停用，必须待其所有者启用此地址后才能向其发送邮件"
+      ],
+      "This event has been updated by the organizer. Would you like to change your answer only for this occurrence in this series?": [
+        "主办方已更新此活动，您想要仅为本次活动更改答复吗？"
+      ],
+      "This event has been updated by the organizer. Would you like to delete this event?": [
+        "此活动已由主办方更新。您想删除本次活动吗？"
+      ],
+      "This event has been updated. The organizer will be notified that you decline the invitation. Would you like to delete this event?": [
+        "此活动已更新，主办方将被通知您拒绝邀请。您想删除本次活动吗？"
+      ],
+      "This event has been updated. The organizer will not be notified that you decline the invitation as you can't send emails from the invited address. Would you like to delete this event anyway?": [
+        "本活动已更新，主办方将不会收到您拒绝邀请的通知，因为您不能从受邀地址发送邮件。仍要删除此活动吗？"
+      ],
+      "This link leads to a website that might be trying to steal your information, such as passwords and credit card details.": [
+        ""
+      ],
+      "This link may be a homograph attack and cannot be opened by Internet Explorer and Edge browsers. If you are certain the link is legitimate, please use a different browser to open it.": [
+        "此链接可能使用了欺骗性域名，IE 和 Edge 浏览器无法打开。若您确认链接可靠，请使用其他浏览器打开"
+      ],
+      "This link may be a homograph attack. Please verify this is the link you wish to visit, or don't open it.": [
+        "此链接可能使用了欺骗性域名，请确认其可靠性后再打开"
+      ],
+      "To fight spam and abuse, please verify you are human.": [
+        "为了防止垃圾邮件和滥用，请验证您是人类。"
+      ],
+      "To re-sign your contacts, we need to check every contact against the list of encryption keys available in your account. If no match is found, your contact will be re-signed with the primary encryption key.": [
+        "要给联系人重新签名，我们需要对照您账户中可用的密钥列表来检查每一位联系人。如果找不到匹配项，您的联系人将使用主密钥重新签名"
+      ],
+      "To recover your data, you need to re-activate the contact encryption key used at the time when the data was created. This will require you to remember the password used when the key was generated.": [
+        "要想恢复数据，您需要重新激活创建数据时使用的联系人密钥。该过程需提供生成密钥时使用的密码"
+      ],
+      "To use Address Verification, you must trust one or more available public keys, including the one you want to use for sending. This prevents the encryption keys from being faked.": [
+        "开启地址密钥验证前，您需要先信任其若干个公钥，包括您要用于发送邮件的密钥。这样可以防止其密钥被伪造"
+      ],
+      "Unlimited folders, labels, and filters": [
+        ""
+      ],
+      "Unlimited messages": [
+        ""
+      ],
+      "Update recurring event": [
+        "更新循环周期性日程"
+      ],
+      "Upgrade today to avoid losing the following ${ planName } benefits.": [
+        ""
+      ],
+      "We'll notify you when the import is done.": [
+        "导入完成时我们将通知您。"
+      ],
+      "We'll send a new verification code to ${ strong }": [
+        ""
+      ],
+      "We're moving! Join us at our new site: ${ link }.": [
+        ""
+      ],
+      "Week": [
+        "周"
+      ],
+      "Which event would you like to delete?": [
+        "您要删除哪些日程？"
+      ],
+      "Which event would you like to update?": [
+        "您要更新哪些日程？"
+      ],
+      "Would you like to change your answer for all the events in this series?": [
+        "您想要更改您对该系列活动中的所有活动的答复吗？"
+      ],
+      "Would you like to continue anyway?": [
+        "仍要继续吗？"
+      ],
+      "Would you like to delete all the events in this series?": [
+        "您想要删除该系列活动中的所有活动吗？"
+      ],
+      "Would you like to delete the event anyway?": [
+        "您仍然要删除该日程吗？"
+      ],
+      "Would you like to delete this event?": [
+        "您确定要删除日程吗？"
+      ],
+      "Would you like to receive a new verification code or use an alternative verification method?": [
+        "您想重新获取验证码还是更换验证方式？"
+      ],
+      "Would you like to receive a new verification code?": [
+        ""
+      ],
+      "Would you like to update all events in this series?": [
+        "您想要更新该系列活动中的所有活动吗？"
+      ],
+      "Would you like to update this event?": [
+        "确定要更新日程吗？"
+      ],
+      "Yearly": [
+        "按年付费"
+      ],
+      "You are about to open another browser tab and visit:": [
+        "您即将在新标签页中打开："
+      ],
+      "You are currently signed in as ${ user.Name } (${ user.Email }).": [
+        ""
+      ],
+      "You can also merge imported calendars with existing Proton calendars.": [
+        ""
+      ],
+      "You can check the progress ${ importProgressLink }.": [
+        "您可以在 ${ importProgressLink } 查看导入进度。"
+      ],
+      "You can only modify personal event properties as you can't send emails from the organizer address.": [
+        "您只能修改个人活动属性，因为您无法从组织者地址发送电子邮件"
+      ],
+      "You can turn on notifications to get alerts when new email messages arrive in this folder.": [
+        "您可以开启通知功能，以便此文件夹有新邮件时收到提醒。"
+      ],
+      "You have reactivated your keys and events linked to the following calendars can now be decrypted.": [
+        "您已重新激活密钥，可以解密下列分类中的日程了。"
+      ],
+      "You have reset your password and events linked to the following calendars couldn't be decrypted.\nAny shared calendar links you created previously will no longer work.\nAny active subscribed calendars will synchronize again after a few minutes.": [
+        "您已重置了密码，无法解密链接到以下日历的事件。\n您之前创建的任何共享日历链接将不再有效。\n任何激活的订阅日历将在几分钟后再次同步。"
+      ],
+      "You reached ${ spaceDisplayed }% of your storage capacity. ${ freeUpMessage } ${ upgradeLink }": [
+        "您已经使用了 ${ spaceDisplayed }% 的存储空间。${ freeUpMessage } ${ upgradeLink }"
+      ],
+      "You reached 100% of your storage capacity. You cannot send or receive new emails. ${ freeUpMessage } ${ upgradeLink }": [
+        "您的存储空间已用尽，不能继续收发邮件。${ freeUpMessage }${ upgradeLink }"
+      ],
+      "You will lose all unsaved changes.": [
+        "您所作的改动将丢失。"
+      ],
+      "You will update all the events in this series. Added and removed participants will be notified.": [
+        "您将更新该系列活动中的所有活动，添加和移除的参与者将收到通知"
+      ],
+      "You will update all the events in this series. An invitation will be sent to the event participants.": [
+        "您将更新该系列活动中的所有活动，将向活动参与者发送邀请"
+      ],
+      "You will update all the events in this series. Existent and added participants will be notified.": [
+        "您将更新该系列活动中的所有活动，现有和添加的参与者将收到通知"
+      ],
+      "You will update all the events in this series. Existent and removed participants will be notified.": [
+        "您将更新该系列活动中的所有活动，现有和移除的参与者将收到通知"
+      ],
+      "You will update all the events in this series. Existent, added and removed participants will be notified.": [
+        "您将更新该系列活动中的所有活动，现有、添加和移除的参与者将收到通知"
+      ],
+      "You will update all the events in this series. Removed participants will be notified.": [
+        "您将更新该系列活动中的所有活动，移除的参与者将收到通知"
+      ],
+      "Your account has at least one overdue invoice. Your access has been restricted. ${ payInvoiceLink }": [
+        "您的账户至少有一张逾期发票。 您的存取权限已被限制。 ${ payInvoiceLink }"
+      ],
+      "Your account has at least one overdue invoice. Your access will soon get restricted. ${ payInvoiceLink }": [
+        "您的账户有逾期未支付的账单，很快将被限制使用。${ payInvoiceLink }"
+      ],
+      "Your address is disabled. A cancellation email cannot be sent to the event participants. Would you like to delete all events in this series anyway?": [
+        "您的地址被禁用，无法向活动参与者发送活动取消邮件。仍要删除该系列活动中的所有活动吗？"
+      ],
+      "Your address is disabled. A cancellation email cannot be sent to the event participants. Would you like to delete this event anyway?": [
+        "您的地址被禁用，无法向活动参与者发送活动取消邮件。仍要删除此日程吗？"
+      ],
+      "Your data is ready to import from ${ importedEmailAddressStrong } to your Proton account.": [
+        "从 ${ importedEmailAddressStrong } 到您的 Proton 账户的导入数据已准备就绪。"
+      ],
+      "Your email will only be used for this one-time verification.": [
+        "您的电子邮件将只会用于此一次性验证"
+      ],
+      "Your events will be encrypted and then saved.": [
+        ""
+      ],
+      "Your phone number will only be used for this one-time verification.": [
+        "您的电话号码将只会用于此一次性验证"
+      ],
+      "Your Proton account is currently on hold. To continue using your account, please pay any overdue invoices.": [
+        "您的 Proton 账户已欠费停用，请先支付逾期账单再继续使用。"
+      ],
+      "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
+        "您的系统时区似乎已更改为 ${ timezone }。您想要更新您的时区偏好吗？"
+      ]
+    },
+    "Info on errors": {
+      "Click for details": [
+        "点击查看详情"
+      ]
+    },
+    "Info, no need for singular": {
+      "Multiple contacts look identical. ${ mergeAction }": [
+        "多名联系人重复。${ mergeAction }"
+      ]
+    },
+    "Key badge": {
+      "Compromised": [
+        ""
+      ],
+      "Expired": [
+        "已过期"
+      ],
+      "Obsolete": [
+        ""
+      ],
+      "Primary": [
+        "主密钥"
+      ],
+      "Revoked": [
+        "已吊销"
+      ],
+      "Trusted": [
+        "受信"
+      ],
+      "WKD": [
+        "WKD"
+      ]
+    },
+    "Label": {
+      "(Temporarily unavailable. Please check back later.)": [
+        ""
+      ],
+      "0 - Not likely": [
+        "0 - 不可能"
+      ],
+      "10 - Extremely likely": [
+        "10 - 极有可能"
+      ],
+      "Add email address": [
+        "添加邮箱地址"
+      ],
+      "Add image URL": [
+        "添加图片链接"
+      ],
+      "Add to group": [
+        "添加至群组"
+      ],
+      "All day": [
+        "全天事件"
+      ],
+      "Attach screenshot(s)": [
+        ""
+      ],
+      "Automatically save contacts": [
+        "自动保存联系人"
+      ],
+      "Browser": [
+        "浏览器"
+      ],
+      "Browser version": [
+        "浏览器版本"
+      ],
+      "Calendar": [
+        ""
+      ],
+      "Calendars": [
+        ""
+      ],
+      "Category": [
+        "类别"
+      ],
+      "City": [
+        "城市"
+      ],
+      "Code is 6 digits without spaces": [
+        ""
+      ],
+      "Color": [
+        ""
+      ],
+      "Contacts": [
+        "通讯录"
+      ],
+      "Copy": [
+        "复制"
+      ],
+      "Country": [
+        "国家"
+      ],
+      "Date and time": [
+        ""
+      ],
+      "Default email address": [
+        ""
+      ],
+      "Default event duration": [
+        ""
+      ],
+      "Default full day notifications": [
+        ""
+      ],
+      "Default notifications": [
+        ""
+      ],
+      "Delete": [
+        ""
+      ],
+      "Description": [
+        "说明："
+      ],
+      "Display": [
+        "显示"
+      ],
+      "Do not ask again": [
+        "不再询问"
+      ],
+      "Email address": [
+        "电子邮件地址"
+      ],
+      "Email format": [
+        "邮件格式"
+      ],
+      "Emails": [
+        "电子邮件"
+      ],
+      "Enable Beta Access": [
+        "启用测试版功能"
+      ],
+      "Encrypt emails": [
+        "发送加密邮件"
+      ],
+      "Ends": [
+        "结束"
+      ],
+      "Event title": [
+        "日程名称"
+      ],
+      "Export contacts": [
+        "导出联系人"
+      ],
+      "Extended address": [
+        "详细地址"
+      ],
+      "Folder location": [
+        "文件夹位置"
+      ],
+      "Frequency": [
+        ""
+      ],
+      "From: ${ importedEmail }": [
+        "来自：${ importedEmail }"
+      ],
+      "Hide password": [
+        "隐藏密码"
+      ],
+      "How likely are you to recommend ${ calendarAppName } to a friend or colleague?": [
+        "您有多大可能向朋友或同事推荐 ${ calendarAppName }？"
+      ],
+      "I understand the risk": [
+        ""
+      ],
+      "Import all messages": [
+        "导入所有邮件"
+      ],
+      "Import contacts": [
+        "导入联系人"
+      ],
+      "Import interval": [
+        "导入间隔"
+      ],
+      "Import to email address": [
+        "导入到邮箱地址"
+      ],
+      "Import to:": [
+        ""
+      ],
+      "Label messages as": [
+        ""
+      ],
+      "Last 12 months only": [
+        "仅过去 12 个月"
+      ],
+      "Last 3 months only": [
+        "仅过去 3 个月"
+      ],
+      "Last month only": [
+        "仅上个月"
+      ],
+      "Location": [
+        ""
+      ],
+      "Mailbox password": [
+        "邮箱密码"
+      ],
+      "Manage folders": [
+        "管理文件夹"
+      ],
+      "Manage labels": [
+        "管理标签"
+      ],
+      "Name": [
+        "姓名"
+      ],
+      "Notification": [
+        "通知"
+      ],
+      "Notifications": [
+        ""
+      ],
+      "Operating system": [
+        "操作系统"
+      ],
+      "Operating system version": [
+        "操作系统版本"
+      ],
+      "Optional": [
+        "选填"
+      ],
+      "Organizer": [
+        "组织者"
+      ],
+      "participant": [
+        "参与者"
+      ],
+      "Participants": [
+        "参与者"
+      ],
+      "Password": [
+        "密码"
+      ],
+      "PGP scheme": [
+        "PGP 方案"
+      ],
+      "Phone number": [
+        "电话号码"
+      ],
+      "Post office box": [
+        "邮局信箱"
+      ],
+      "Postal code": [
+        "邮编"
+      ],
+      "Proton username": [
+        "Proton 用户名"
+      ],
+      "Public keys": [
+        "公钥"
+      ],
+      "Region": [
+        "地区"
+      ],
+      "Repeat every": [
+        "重复间隔"
+      ],
+      "Repeat on": [
+        "重复于"
+      ],
+      "Reveal password": [
+        "显示密码"
+      ],
+      "Sign emails": [
+        "附签名发送"
+      ],
+      "Street address": [
+        "街道地址"
+      ],
+      "System information": [
+        "系统信息"
+      ],
+      "To: ${ emailAddress }": [
+        "导入到：${ emailAddress }"
+      ],
+      "Two-factor authentication code": [
+        "双重认证验证码"
+      ],
+      "Upload picture": [
+        "上传图片"
+      ],
+      "URL": [
+        "网址"
+      ],
+      "Username or ${ MAIL_APP_NAME } address": [
+        ""
+      ],
+      "Verification code": [
+        "验证码"
+      ],
+      "What happened?": [
+        "发生了什么？"
+      ]
+    },
+    "Label for contact group color": {
+      "Color": [
+        "颜色"
+      ]
+    },
+    "Label for contact group name": {
+      "Name": [
+        "名称"
+      ]
+    },
+    "Label/folder modal": {
+      "Create folder": [
+        "创建文件夹"
+      ],
+      "Create label": [
+        "创建标签"
+      ],
+      "Edit folder": [
+        "编辑文件夹"
+      ],
+      "Edit label": [
+        "编辑标签"
+      ]
+    },
+    "label/folder notification": {
+      "${ Label.Name } created": [
+        "${ Label.Name } 标签已创建"
+      ]
+    },
+    "Link": {
+      "Calendars": [
+        "日历"
+      ],
+      "clearing your browser cache": [
+        "清除浏览器缓存"
+      ],
+      "Go to subscription plans": [
+        "转至订阅计划"
+      ],
+      "Learn more": [
+        "了解更多"
+      ],
+      "My calendars": [
+        "我的日历"
+      ],
+      "Pay invoice": [
+        "支付"
+      ],
+      "Request an invite": [
+        "请求邀请"
+      ],
+      "Subscribed calendars": [
+        "已订阅日历"
+      ],
+      "Upgrade": [
+        "升级"
+      ],
+      "Upgrade account": [
+        "升级账户"
+      ]
+    },
+    "Loading info": {
+      "Almost there": [
+        "就快好了"
+      ],
+      "Amount of calendars created: ${ createdCalendars } out of ${ calendarsToBeCreated }": [
+        ""
+      ],
+      "Creating new calendars": [
+        "正在创建新日历"
+      ],
+      "Gathering your data": [
+        "正在收集您的数据"
+      ],
+      "We're gathering your data from your provider": [
+        ""
+      ],
+      "Your import is starting": [
+        "您的导入正在开始"
+      ]
+    },
+    "Mail import summary": {
+      "Import all messages from ${ selectedLabelsCount } out of ${ totalLabelsCount } label since ${ periodFragment } and label them as ${ LABEL_MARKUP_PLACEHOLDER }": [
+        ""
+      ],
+      "Import all messages from ${ totalLabelsCount } label since ${ periodFragment } and label them as ${ LABEL_MARKUP_PLACEHOLDER }": [
+        ""
+      ]
+    },
+    "Message": {
+      "Fw:": [
+        "转发："
+      ],
+      "Re:": [
+        "回复："
+      ],
+      "Your free trial has ended. Access to your account will soon be disabled. ${ action }": [
+        ""
+      ]
+    },
+    "Message display when a new app version is available": {
+      "A new version of ${ appName } is available. ${ reloadButton }.": [
+        "${ appName } 有新版本，请${ reloadButton }。"
+      ]
+    },
+    "MIME type": {
+      "Automatic": [
+        "自动"
+      ],
+      "Plain text": [
+        "纯文本"
+      ]
+    },
+    "Modal action": {
+      "Close": [
+        "关闭"
+      ],
+      "Manage calendars": [
+        "管理日历"
+      ]
+    },
+    "Modal title": {
+      "Time zone changed": [
+        "时区已更改"
+      ],
+      "Unable to add more calendars": [
+        "无法添加更多日历"
+      ]
+    },
+    "Modal title and action": {
+      "Add calendar": [
+        "新建日历"
+      ]
+    },
+    "Monthly recurring event, frequency": {
+      "Every ${ interval } month ${ onDayString }": [
+        "每 ${ interval } 个月的${ onDayString }"
+      ],
+      "Every ${ interval } month ${ onDayString }, ${ timesString }": [
+        "每 ${ interval } 月的${ onDayString }，${ timesString }"
+      ],
+      "Every ${ interval } month ${ onDayString }, ${ untilString }": [
+        "每 ${ interval } 月的${ onDayString }，${ untilString }"
+      ],
+      "Monthly ${ onDayString }": [
+        "每月${ onDayString }"
+      ],
+      "Monthly ${ onDayString }, ${ timesString }": [
+        "每月${ onDayString }，${ timesString }"
+      ],
+      "Monthly ${ onDayString }, ${ untilString }": [
+        "每月${ onDayString }，直到${ untilString }"
+      ]
+    },
+    "Monthly recurring event, repeats on": {
+      "on day ${ dayOfMonth }": [
+        "按日 ${ dayOfMonth }"
+      ],
+      "on the first Friday": [
+        "第一个星期五"
+      ],
+      "on the first Monday": [
+        "第一个星期一"
+      ],
+      "on the first Saturday": [
+        "第一个星期六"
+      ],
+      "on the first Sunday": [
+        "第一个星期日"
+      ],
+      "on the first Thursday": [
+        "第一个星期四"
+      ],
+      "on the first Tuesday": [
+        "第一个星期二"
+      ],
+      "on the first Wednesday": [
+        "第一个星期三"
+      ],
+      "on the fourth Friday": [
+        "第四个星期五"
+      ],
+      "on the fourth Monday": [
+        "第四个星期一"
+      ],
+      "on the fourth Saturday": [
+        "第四个星期六"
+      ],
+      "on the fourth Sunday": [
+        "第四个星期日"
+      ],
+      "on the fourth Thursday": [
+        "第四个星期四"
+      ],
+      "on the fourth Tuesday": [
+        "第四个星期二"
+      ],
+      "on the fourth Wednesday": [
+        "第四个星期三"
+      ],
+      "on the last Friday": [
+        "最后一个星期五"
+      ],
+      "on the last Monday": [
+        "最后一个星期一"
+      ],
+      "on the last Saturday": [
+        "最后一个星期六"
+      ],
+      "on the last Sunday": [
+        "最后一个星期日"
+      ],
+      "on the last Thursday": [
+        "最后一个星期四"
+      ],
+      "on the last Tuesday": [
+        "最后一个星期二"
+      ],
+      "on the last Wednesday": [
+        "最后一个星期三"
+      ],
+      "on the second Friday": [
+        "第二个星期五"
+      ],
+      "on the second Monday": [
+        "第二个星期一"
+      ],
+      "on the second Saturday": [
+        "第二个星期六"
+      ],
+      "on the second Sunday": [
+        "第二个星期日"
+      ],
+      "on the second Thursday": [
+        "第二个星期四"
+      ],
+      "on the second Tuesday": [
+        "第二个星期二"
+      ],
+      "on the second Wednesday": [
+        "第二个星期三"
+      ],
+      "on the third Friday": [
+        "第三个星期五"
+      ],
+      "on the third Monday": [
+        "第三个星期一"
+      ],
+      "on the third Saturday": [
+        "第三个星期六"
+      ],
+      "on the third Sunday": [
+        "第三个星期日"
+      ],
+      "on the third Thursday": [
+        "第三个星期四"
+      ],
+      "on the third Tuesday": [
+        "第三个星期二"
+      ],
+      "on the third Wednesday": [
+        "第三个星期三"
+      ]
+    },
+    "New Label form": {
+      "Color": [
+        "颜色"
+      ],
+      "Folder name": [
+        "文件夹名称"
+      ],
+      "Label name": [
+        "标签名称"
+      ]
+    },
+    "new_plans: action": {
+      "Switch or add account": [
+        ""
+      ]
+    },
+    "new_plans: info": {
+      "Introducing Proton’s refreshed look.${ br } Many services, one mission. Welcome to an internet where privacy is the default.": [
+        ""
+      ]
+    },
+    "new_plans: label": {
+      "Tell us about your experience (Optional)": [
+        ""
+      ]
+    },
+    "new_plans: placeholder": {
+      "Feedback": [
+        ""
+      ]
+    },
+    "new_plans: title": {
+      "Give feedback": [
+        ""
+      ],
+      "Updated Proton, unified protection": [
+        ""
+      ]
+    },
+    "Notification": {
+      "Contact group created": [
+        "群组已创建"
+      ],
+      "Contact group updated": [
+        "群组已更改"
+      ]
+    },
+    "Notification suffix": {
+      "by email": [
+        "按电子邮件"
+      ]
+    },
+    "Notification time input": {
+      "at": [
+        "在"
+      ]
+    },
+    "Notification type": {
+      "email": [
+        "邮箱"
+      ],
+      "notification": [
+        "通知"
+      ]
+    },
+    "Notification when": {
+      "at time of event": [
+        "日程时间"
+      ],
+      "day before": [
+        "天前"
+      ],
+      "hour before": [
+        "小时前"
+      ],
+      "minute before": [
+        "分钟前"
+      ],
+      "on the same day": [
+        "当天"
+      ],
+      "week before": [
+        "周前"
+      ]
+    },
+    "Notifications": {
+      "${ value } day after": [
+        "${ value } 天后"
+      ],
+      "${ value } day after at ${ time }": [
+        "${ value } 天后 ${ time }"
+      ],
+      "${ value } day before": [
+        "${ value } 天前"
+      ],
+      "${ value } day before at ${ time }": [
+        "${ value } 天前 ${ time }"
+      ],
+      "${ value } hour after": [
+        "${ value } 小时后"
+      ],
+      "${ value } hour after at ${ time }": [
+        "${ value } 小时后 ${ time }"
+      ],
+      "${ value } hour before": [
+        "${ value } 小时前"
+      ],
+      "${ value } hour before at ${ time }": [
+        "${ value } 小时前 ${ time }"
+      ],
+      "${ value } minute after": [
+        "${ value } 分钟后"
+      ],
+      "${ value } minute after at ${ time }": [
+        "${ value } 分钟后 ${ time }"
+      ],
+      "${ value } minute before": [
+        "${ value } 分钟前"
+      ],
+      "${ value } minute before at ${ time }": [
+        "${ value } 分钟前 ${ time }"
+      ],
+      "${ value } week after": [
+        "${ value } 周后"
+      ],
+      "${ value } week after at ${ time }": [
+        "${ value } 周后 ${ time }"
+      ],
+      "${ value } week before": [
+        "${ value } 周前"
+      ],
+      "${ value } week before at ${ time }": [
+        "${ value } 周前 ${ time }"
+      ],
+      "At time of event": [
+        "事件发生时"
+      ],
+      "On the same day at ${ time }": [
+        "当天 ${ time }"
+      ],
+      "Unknown": [
+        "未知"
+      ]
+    },
+    "Oauth instructions": {
+      "Next you'll need to sign in to your Google account and grant Proton access to your data.": [
+        ""
+      ]
+    },
+    "Oauth instructions video": {
+      "For the import to work, you must select all requested items as shown in the GIF.": [
+        ""
+      ]
+    },
+    "Onboarding": {
+      "Welcome to ${ appName }": [
+        ""
+      ],
+      "Where you can take control of your time and your data.": [
+        ""
+      ]
+    },
+    "Onboarding Action": {
+      "Next": [
+        ""
+      ],
+      "Start using ${ appName }": [
+        ""
+      ]
+    },
+    "Onboarding Proton": {
+      "Configure your organization, link your domain name, and create accounts to ensure all members of your organization are protected.": [
+        "配置您的机构信息、链接您的域名、创建账户以确保您机构的所有成员都受到保护"
+      ],
+      "Discover all Proton services": [
+        "探索所有 Proton 系列服务"
+      ],
+      "Select a theme": [
+        "选择主题"
+      ],
+      "Set up your organization": [
+        "填写机构信息"
+      ],
+      "Use the app selector in the top left to access other Proton services, including VPN, Calendar and Drive.": [
+        "使用左上角的应用选择器访问其他 Proton 服务，包括 VPN, 日历和云盘"
+      ],
+      "You can change this anytime in your settings.": [
+        "您可以随时在设置中更改"
+      ]
+    },
+    "Option": {
+      "Add to existing group": [
+        "添加到现有群组"
+      ],
+      "All events": [
+        "所有日程"
+      ],
+      "Create new group": [
+        "创建群组"
+      ],
+      "Custom": [
+        "自定义"
+      ],
+      "Day": [
+        "天"
+      ],
+      "Does not repeat": [
+        "不重复"
+      ],
+      "Every day": [
+        "每天"
+      ],
+      "Every month": [
+        "每月"
+      ],
+      "Every week": [
+        "每周"
+      ],
+      "Every year": [
+        "每年"
+      ],
+      "Ignore group": [
+        "忽略分组"
+      ],
+      "Month": [
+        "月"
+      ],
+      "No parent folder": [
+        ""
+      ],
+      "This and future events": [
+        "当前和后续的周期性日程"
+      ],
+      "This event": [
+        "此活动"
+      ],
+      "Week": [
+        "周"
+      ],
+      "Year": [
+        "年"
+      ]
+    },
+    "Option group label": {
+      "Create new calendar": [
+        "创建新日历"
+      ],
+      "Merge with calendar": [
+        ""
+      ]
+    },
+    "Participant name": {
+      "You": [
+        "你"
+      ]
+    },
+    "Participants expand button label": {
+      "Collapse participants list": [
+        "收起参与者名单"
+      ],
+      "Expand participants list": [
+        "展开参与者列表"
+      ]
+    },
+    "Personal calendar limit reached modal body": {
+      "Unable to create more calendars. You have reached the maximum of personal calendars within your plan.": [
+        ""
+      ]
+    },
+    "PGP key encryption warning": {
+      "Key cannot be used for encryption": [
+        "此密钥不能用于加密"
+      ]
+    },
+    "PGP Key info": {
+      "${ emailAddress } has marked this key as compromised. This key cannot be used neither for encryption nor for signature verification.": [
+        ""
+      ],
+      "${ emailAddress } has marked this key as obsolete. This key can only be used for signature verification.": [
+        ""
+      ],
+      "We recommend that you \"untrust\" this key.": [
+        ""
+      ]
+    },
+    "PGP key warning": {
+      "Email address not found among user ids defined in sending key (${ keyUserIds })": [
+        "在发送密钥中定义的用户编号中找不到电子邮件地址 (${ keyUserIds })"
+      ]
+    },
+    "Placeholder": {
+      "A way to contact you": [
+        "您的联系方式"
+      ],
+      "Add a calendar description": [
+        "填写分类描述"
+      ],
+      "Add a calendar name": [
+        "填写分类名称"
+      ],
+      "Add description": [
+        "添加描述"
+      ],
+      "Add location": [
+        "添加地点"
+      ],
+      "Add participants": [
+        "添加参与者"
+      ],
+      "Add title": [
+        "添加标题"
+      ],
+      "E.g., ": [
+        "例如： "
+      ],
+      "Filter groups": [
+        "筛选群组"
+      ],
+      "Image URL": [
+        "图片链接"
+      ],
+      "Mailbox password": [
+        "邮箱密码"
+      ],
+      "Name": [
+        "名称"
+      ],
+      "Password": [
+        ""
+      ],
+      "Please describe the problem and include any error messages": [
+        "请描述问题并包含任何错误信息"
+      ],
+      "Search for group name": [
+        "搜索群组名称"
+      ],
+      "Search for name or email": [
+        "搜索名称或邮箱地址"
+      ],
+      "Select": [
+        ""
+      ],
+      "Start typing an email address": [
+        "开始输入电子邮件地址"
+      ]
+    },
+    "Placeholder for contact group name": {
+      "Name": [
+        "名称"
+      ]
+    },
+    "Placeholder for contact with no name": {
+      "(No name)": [
+        "(无姓名)"
+      ]
+    },
+    "Progress bar description": {
+      "${ contactsExported.length } out of ${ countContacts } contacts successfully exported.": [
+        "${ contactsExported.length }/${ countContacts } 联系人已成功导出"
+      ],
+      "${ model.deleted.length } out of ${ totalBeDeleted } contact successfully deleted.": [
+        "${ model.deleted.length }/${ totalBeDeleted } 联系人已成功删除"
+      ],
+      "${ model.submitted.length } out of ${ totalBeMerged } contact successfully merged.": [
+        "${ model.submitted.length }/${ totalBeMerged } 联系人已成功合并"
+      ],
+      "No contacts exported.": [
+        "没有导出联系人"
+      ],
+      "No contacts merged.": [
+        "没有合并联系人"
+      ],
+      "Progress: ${ combinedProgress }%": [
+        "进度：${ combinedProgress }%"
+      ]
+    },
+    "Property type": {
+      "Address": [
+        "地址"
+      ],
+      "Email": [
+        "电子邮件"
+      ],
+      "Fax": [
+        "传真"
+      ],
+      "Home": [
+        "家庭"
+      ],
+      "Main": [
+        "主要"
+      ],
+      "Mobile": [
+        "手机"
+      ],
+      "Other": [
+        "其他"
+      ],
+      "Pager": [
+        "寻呼机"
+      ],
+      "Phone": [
+        "电话"
+      ],
+      "Work": [
+        "工作"
+      ]
+    },
+    "Refresh on apply warning": {
+      "Note: the service will reload after you click the Apply button.": [
+        "请注意：点击 \"应用\" 按钮后，服务将重新加载"
+      ]
+    },
+    "Select files": {
+      "Upload": [
+        "上传"
+      ]
+    },
+    "Select search results": {
+      "No results found": [
+        "未找到结果"
+      ]
+    },
+    "Settings update growler warning": {
+      "Failed to update settings": [
+        ""
+      ]
+    },
+    "Sidebar calendar edit tooltip": {
+      "Manage calendar": [
+        "管理日历"
+      ]
+    },
+    "Spotlight": {
+      "Get up to 18 months of ${ planName } for free": [
+        ""
+      ],
+      "Invite friends and earn rewards!": [
+        ""
+      ],
+      "No more missed appointments": [
+        ""
+      ],
+      "With email notifications, you decide which events to be notified about and when.": [
+        ""
+      ]
+    },
+    "Storage": {
+      "Release notes": [
+        "版本说明"
+      ],
+      "Upgrade storage": [
+        "升级存储空间"
+      ],
+      "Your current storage:": [
+        "您当前的存储空间："
+      ]
+    },
+    "Subscribe to calendar modal": {
+      "Calendar URL": [
+        "日历链接"
+      ],
+      "To subscribe to an external or public calendar and its updates, enter the URL. A read-only version of the calendar will be added to your Subscribed calendars.\n${ kbLink }": [
+        "要订阅外部或公共日历及其更新，请输入相应链接。一个只读版日历将添加到您订阅的日历中。\n${ kbLink }"
+      ]
+    },
+    "Subscribe to calendar modal description": {
+      "Learn how to get a private calendar link.": [
+        "了解如何获取私人日历链接。"
+      ]
+    },
+    "Subscribed calendar extension warning": {
+      "By using this link, Google will make the calendar you are subscribing to public": [
+        "通过使用此链接，Google 会将您订阅的日历设为公开"
+      ],
+      "This link might be wrong": [
+        "此链接可能有误"
+      ]
+    },
+    "Subscribed calendar feature unavailable error": {
+      "Subscribing to a calendar is unavailable at the moment": [
+        ""
+      ]
+    },
+    "Subscribed calendar limit reached modal body": {
+      "Unable to add more calendars. You have reached the maximum of subscribed calendars within your plan.": [
+        ""
+      ]
+    },
+    "Subscribed calendar URL length warning": {
+      "URL is too long": [
+        ""
+      ]
+    },
+    "Success": {
+      "A cancellation email will be sent to removed participants for all the events in this series.": [
+        "将向该系列活动中的所有活动删除的参与者发送取消邮件"
+      ],
+      "Address copied to clipboard": [
+        "地址已复制到剪贴板"
+      ],
+      "All events deleted": [
+        "已删除所有事件"
+      ],
+      "All events updated": [
+        "所有事件已更新"
+      ],
+      "An invitation will be sent to added participants for all the events in this series.": [
+        "将向本系列所有活动添加的与会者发送邀请"
+      ],
+      "Answer sent and all events deleted": [
+        "答复已发送且所有日程已删除"
+      ],
+      "Answer sent and event deleted": [
+        "答复已发送且日程已删除"
+      ],
+      "Bug reported": [
+        "问题已反馈"
+      ],
+      "Calendar added. It might take a few minutes to sync.": [
+        "已新增日历，可能需要几分钟才能同步"
+      ],
+      "Calendar created": [
+        "日历已创建"
+      ],
+      "Calendar updated": [
+        "日历已更新"
+      ],
+      "Cancellation sent and all events deleted": [
+        "取消邮件已发送，所有日程已删除"
+      ],
+      "Cancellation sent and event deleted": [
+        "取消邮件已发送，日程已删除"
+      ],
+      "Cancellation sent and participants removed": [
+        "取消邮件已发送且参与者已移除"
+      ],
+      "Cancellation sent and participants removed from all events": [
+        "取消邮件已发送，所有日程中的参与者已被移除"
+      ],
+      "Code sent to ${ methodTo }": [
+        "代码已发送到 ${ methodTo }"
+      ],
+      "Contact deleted": [
+        "联系人已删除"
+      ],
+      "Contact group deleted": [
+        "联系人群组已删除"
+      ],
+      "Contact saved": [
+        "联系人已保存"
+      ],
+      "Contacts deleted": [
+        "联系人已删除"
+      ],
+      "Email address copied to clipboard": [
+        "邮箱地址已复制到剪贴板"
+      ],
+      "Event created": [
+        "活动已创建"
+      ],
+      "Event deleted": [
+        "活动已删除"
+      ],
+      "Event updated": [
+        "活动已更新"
+      ],
+      "Events created": [
+        "事件已创建"
+      ],
+      "Fingerprint copied to clipboard": [
+        "指纹已复制到剪贴板"
+      ],
+      "Future events deleted": [
+        "未来事件已删除"
+      ],
+      "Future events updated": [
+        "未来事件已更新"
+      ],
+      "Invitation sent and all events updated": [
+        "邀请已发送，所有日程已更新"
+      ],
+      "Invitation sent and event created": [
+        "邀请已发送且日程已创建"
+      ],
+      "Invitation sent and events created": [
+        "邀请已发送，日程已创建"
+      ],
+      "Invitation sent and participants added": [
+        "邀请已发送且参与者已添加"
+      ],
+      "Invitation sent and participants added to all events": [
+        "邀请已发送，活动参与者已被加入所有日程中"
+      ],
+      "Participants notified and all events updated": [
+        "已向参与者发送通知，所有日程已更新"
+      ],
+      "Participants notified and changes saved": [
+        "已通知参与者且更改已保存"
+      ],
+      "Participants notified and event updated": [
+        "已通知参与者且日程已更新"
+      ],
+      "Participation status updated": [
+        "参与状态已更新"
+      ],
+      "Participation status updated for all events": [
+        "所有活动的参与状态已更新"
+      ],
+      "Phone number copied to clipboard": [
+        "电话号码已复制到剪贴板"
+      ],
+      "Preference saved": [
+        "设置已保存"
+      ],
+      "Preferences saved": [
+        "设置已保存"
+      ],
+      "Verification successful": [
+        "验证成功"
+      ]
+    },
+    "Success notification when user send feedback": {
+      "Feedback sent": [
+        "反馈已发送"
+      ]
+    },
+    "Suffix for price": {
+      "/month": [
+        ""
+      ]
+    },
+    "Table header": {
+      "Action": [
+        "操作"
+      ],
+      "Actions": [
+        "操作"
+      ],
+      "Address": [
+        "地址"
+      ],
+      "Created": [
+        "创建时间"
+      ],
+      "Expires": [
+        "有效期至"
+      ],
+      "Fingerprint": [
+        "指纹"
+      ],
+      "Name": [
+        "名称"
+      ],
+      "Status": [
+        "状态"
+      ],
+      "Type": [
+        "类型"
+      ]
+    },
+    "TableHeader": {
+      "Actions": [
+        "操作"
+      ],
+      "Address": [
+        "地址"
+      ],
+      "CSV field": [
+        "CSV 字段"
+      ],
+      "Import": [
+        "导入"
+      ],
+      "Name": [
+        "名称"
+      ],
+      "Values": [
+        "值"
+      ],
+      "vCard field": [
+        "vCard 字段"
+      ]
+    },
+    "Text": {
+      "Introducing the updated Proton.": [
+        ""
+      ],
+      "More services, one privacy mission.": [
+        ""
+      ],
+      "Settings": [
+        "设置"
+      ]
+    },
+    "Time period": {
+      "account creation date": [
+        ""
+      ],
+      "the last 12 months": [
+        "最近 12 个月"
+      ],
+      "the last 3 months": [
+        "最近 3 个月"
+      ],
+      "the last month": [
+        "上个月"
+      ]
+    },
+    "Time unit": {
+      "${ hours } hour": [
+        "${ hours } 小时"
+      ],
+      "${ minutes } minute": [
+        "${ minutes } 分钟"
+      ]
+    },
+    "Timezone search placeholder": {
+      "Search timezones": [
+        "搜索时区"
+      ]
+    },
+    "Title": {
+      "${ emailsCount } member": [
+        "${ emailsCount } 位成员"
+      ],
+      "Account suspended": [
+        "帐号已被停用"
+      ],
+      "Add another notification to remind you of this event": [
+        "添加另一个提醒您此日程的通知"
+      ],
+      "Add contact group name": [
+        "添加联系人群组名称"
+      ],
+      "Add event location": [
+        "添加事件位置"
+      ],
+      "Add event title": [
+        "添加日程标题"
+      ],
+      "Add more information related to this event": [
+        "添加更多与此事件相关的信息"
+      ],
+      "Add participants": [
+        "添加成员"
+      ],
+      "Add to ${ groupCount } group": [
+        "添加到 ${ groupCount } 个群组"
+      ],
+      "Add to ${ groupName }": [
+        "添加到 ${ groupName }"
+      ],
+      "Addresses": [
+        "地址"
+      ],
+      "Back": [
+        "返回"
+      ],
+      "Beta Access": [
+        "测试版功能"
+      ],
+      "Calendar": [
+        "日历"
+      ],
+      "Calendar alarm": [
+        "日历闹钟"
+      ],
+      "Change my answer": [
+        "更改答复"
+      ],
+      "Choose how many times this event will repeat": [
+        "选择该日程的重复次数"
+      ],
+      "Choose how often this event repeats": [
+        "选择此日程重复的频率"
+      ],
+      "Clearing data": [
+        "正在清除数据"
+      ],
+      "Contact details": [
+        ""
+      ],
+      "Contact Details": [
+        "联系人详情"
+      ],
+      "Contact group": [
+        "联系人群组"
+      ],
+      "Contacts": [
+        "联系人"
+      ],
+      "Continue with partial import?": [
+        "继续以部分导入进行吗？"
+      ],
+      "Create calendar": [
+        "创建日历"
+      ],
+      "Create contact": [
+        "创建联系人"
+      ],
+      "Create new group": [
+        "创建新群组"
+      ],
+      "Currency": [
+        "货币"
+      ],
+      "Customize and confirm": [
+        "自定义并确认"
+      ],
+      "Customize calendar import": [
+        "自定义日历导入"
+      ],
+      "Customize your mail import": [
+        "自定义您的邮件导入"
+      ],
+      "Delete ${ count } contact": [
+        "删除 ${ count } 个联系人"
+      ],
+      "Delete ${ count } contact group": [
+        "删除 ${ count } 个联系人群组"
+      ],
+      "Delete ${ Name }": [
+        "删除 ${ Name }"
+      ],
+      "Delete event": [
+        "删除日程"
+      ],
+      "Delete recurring event": [
+        "删除周期性活动"
+      ],
+      "Deleting contacts": [
+        "删除联系人中"
+      ],
+      "Drop to upload": [
+        ""
+      ],
+      "Edit calendar": [
+        ""
+      ],
+      "Edit contact": [
+        "编辑联系人"
+      ],
+      "Edit contact group": [
+        "更改联系人群组"
+      ],
+      "Edit image": [
+        "编辑图片"
+      ],
+      "Email addresses": [
+        "邮箱地址"
+      ],
+      "Email settings": [
+        "邮件设置"
+      ],
+      "Email settings (${ emailAddress })": [
+        "邮件设置 (${ emailAddress })"
+      ],
+      "Enter your password": [
+        "输入密码"
+      ],
+      "Enter your username or ${ MAIL_APP_NAME } email address": [
+        ""
+      ],
+      "Error": [
+        "错误"
+      ],
+      "Event is happening all day": [
+        "日程正在全天进行"
+      ],
+      "Event is happening on defined time slot": [
+        "事件在指定的时间段发生"
+      ],
+      "Exporting contacts": [
+        "正在导出联系人"
+      ],
+      "Feedback": [
+        "用户反馈"
+      ],
+      "Groups": [
+        "群组"
+      ],
+      "Hide time zones for event start and end times": [
+        "隐藏事件开始和结束时间的时区"
+      ],
+      "Human verification": [
+        "身份验证"
+      ],
+      "Import as simple event?": [
+        "导入为简单活动？"
+      ],
+      "Import contacts": [
+        "导入联系人"
+      ],
+      "Import events": [
+        "导入事件"
+      ],
+      "Import failed": [
+        "导入失败"
+      ],
+      "Import groups": [
+        "导入群组"
+      ],
+      "Invalid verification code": [
+        "无效的验证代码"
+      ],
+      "Link confirmation": [
+        "确认打开链接"
+      ],
+      "Merge contacts": [
+        "合并联系人"
+      ],
+      "Merging contacts": [
+        "正在合并联系人"
+      ],
+      "Open actions dropdown": [
+        "展开操作菜单"
+      ],
+      "Open help menu": [
+        "打开帮助菜单"
+      ],
+      "Open settings menu": [
+        "打开设置菜单"
+      ],
+      "Organizer cannot be notified": [
+        "无法通知组织者"
+      ],
+      "Other information": [
+        "其他信息"
+      ],
+      "Other names": [
+        "其他名称"
+      ],
+      "Participants cannot be notified": [
+        "无法通知参与者"
+      ],
+      "Phone numbers": [
+        "电话号码"
+      ],
+      "Re-sign all contacts": [
+        "重新签署所有联系人"
+      ],
+      "Re-signing contacts": [
+        "正在重新签署联系人"
+      ],
+      "Reactivate calendar keys": [
+        "激活日历密钥"
+      ],
+      "Recover data": [
+        "恢复数据"
+      ],
+      "Remove participants": [
+        "移除参与者"
+      ],
+      "Report a problem": [
+        "反馈问题"
+      ],
+      "Request new code": [
+        ""
+      ],
+      "Reset calendar keys": [
+        "重置日历密钥"
+      ],
+      "Save changes": [
+        "保存更改"
+      ],
+      "Select a day in the month": [
+        "选择一个月中的某一天"
+      ],
+      "Select a theme": [
+        "选择主题"
+      ],
+      "Select action to take on contact group": [
+        "选择针对联系人群组的动作"
+      ],
+      "Select contact group": [
+        "选择联系人群组"
+      ],
+      "Select event end date": [
+        "选择日程结束日期"
+      ],
+      "Select event end time": [
+        "选择日程结束时间"
+      ],
+      "Select event frequency": [
+        "选择事件频率"
+      ],
+      "Select event frequency interval": [
+        "选择日程的频率间隔"
+      ],
+      "Select event start date": [
+        "选择日程开始日期"
+      ],
+      "Select event start time": [
+        "选择日程开始时间"
+      ],
+      "Select event's last date": [
+        "选择日程的结束日期"
+      ],
+      "Select the time to send this notification": [
+        "选择发送该通知的时间"
+      ],
+      "Select the time zone for the event end time": [
+        "选择日程结束时间的时区"
+      ],
+      "Select the time zone for the event start time": [
+        "选择事件开始时间的时区"
+      ],
+      "Select the way to send this notification": [
+        "选择发送该通知的方式"
+      ],
+      "Select when this event will stop happening": [
+        "选择日程停止该事件"
+      ],
+      "Select when you want this notification to be sent": [
+        "选择您希望发送该通知的时间"
+      ],
+      "Select which calendar to add this event to": [
+        "选择要将此事件添加到哪个日历"
+      ],
+      "Send feedback": [
+        "发送反馈"
+      ],
+      "Send invitation": [
+        "发送邀请"
+      ],
+      "Settings": [
+        "设置"
+      ],
+      "Show time zones for event start and end times": [
+        "显示日程开始和结束时间的时区"
+      ],
+      "Sign in again to continue": [
+        "此操作需要重新登录"
+      ],
+      "Sign in and grant access": [
+        ""
+      ],
+      "Update event": [
+        "更新日程"
+      ],
+      "Update recurring event": [
+        "更新周期性活动"
+      ],
+      "Upgrade required": [
+        "需要升级"
+      ],
+      "View contacts": [
+        "查看联系人"
+      ],
+      "Warning": [
+        "警告"
+      ],
+      "Warning: suspected fake website": [
+        ""
+      ],
+      "What would you like to import?": [
+        ""
+      ],
+      "What's new": [
+        "更新内容"
+      ],
+      "You have invited participants with equivalent emails": [
+        "您已通过相同的邮件邀请了参与者"
+      ],
+      "Your free trial ends soon, on ${ formattedEndDate }": [
+        ""
+      ]
+    },
+    "Title (number of minutes/hours/days/weeks)": {
+      "Choose a number": [
+        "选择一个数字"
+      ]
+    },
+    "Today icon tooltip in mini calendar": {
+      "Today": [
+        "今天"
+      ]
+    },
+    "Tooltip": {
+      "Automatic indicates that the format in the composer is used to send to this user. Plain text indicates that the message will always be converted to plain text on send.": [
+        "\"自动\" 表示使用编辑区中指定的格式，\"纯文本\" 则表示向此人发送的邮件将一律转换为纯文本"
+      ],
+      "Digitally signing emails helps authenticating that messages are sent by you": [
+        "数字签名有助于佐证您的邮件的真实性"
+      ],
+      "Each imported email will have this label": [
+        ""
+      ],
+      "Email encryption forces email signature to help authenticate your sent messages": [
+        "邮件加密实现强制数字签名以佐证您发送的邮件的真实性"
+      ],
+      "Encrypted data": [
+        ""
+      ],
+      "Encrypted data with verified digital signature": [
+        "已通过数字签名验证的加密数据"
+      ],
+      "Select the PGP scheme to be used when signing or encrypting to a user. Note that PGP/Inline forces plain text messages": [
+        "选择加密和数字签名的 PGP 格式，请注意 PGP/Inline 只能用于纯文本邮件"
+      ],
+      "System subfolders will show up as separate folders in ${ MAIL_APP_NAME }": [
+        ""
+      ],
+      "The import will start with the most recent messages.": [
+        ""
+      ],
+      "Upload a public key to enable sending end-to-end encrypted emails to this email": [
+        "上传公钥后方可向其发送端到端加密的邮件"
+      ],
+      "You do not have any contacts to export": [
+        "没有任何联系人可供导出"
+      ]
+    },
+    "Validation": {
+      "Password must contain at least ${ length } character": [
+        "密码必须至少包含 ${ length } 个字符"
+      ]
+    },
+    "Video control": {
+      "Click to replay the video": [
+        ""
+      ],
+      "Replay video": [
+        ""
+      ]
+    },
+    "Warning": {
+      "Are you sure you want to permanently delete ${ count } contact group?": [
+        "您确定要永久删除 ${ count } 联系人群组吗？"
+      ],
+      "Are you sure you want to permanently delete ${ count } contact?": [
+        "您确定要永久删除 ${ count } 联系人吗？"
+      ],
+      "Are you sure you want to permanently delete this contact group?": [
+        "您确定要永久删除此联系人群组吗？"
+      ],
+      "Are you sure you want to permanently delete this contact?": [
+        "您确认要永久删除此联系人吗？"
+      ],
+      "Contacts could not be merged": [
+        "无法合并联系人"
+      ],
+      "If you don’t remember your password, it is impossible to re-activate your key. We can help you dismiss the alert banner but in the process you will permanently lose access to all the data encrypted with that key.": [
+        "如果您忘记了密码，您将无法重新激活密钥。我们可以帮助您关闭警告横幅，但在此过程中，您将永久失去通过该密钥加密的所有数据"
+      ],
+      "Live chat is a premium feature available only to those with paid ${ VPN_APP_NAME } plans. Please open a ticket instead.": [
+        ""
+      ],
+      "Proton will merge all folders with the same name. To avoid this, change the names before import.": [
+        ""
+      ],
+      "Reports are not end-to-end encrypted, please do not send any sensitive information.": [
+        "反馈内容不会经过端对端加密，请勿发送敏感信息"
+      ],
+      "Some of the contacts to be merged display errors. Please review them individually": [
+        "部分需合并的联系人无法显示，请单独查看"
+      ],
+      "The contact data is corrupted and cannot be displayed.": [
+        "联系人数据损坏，无法显示。"
+      ],
+      "The contact failed to load.": [
+        "联系人加载失败"
+      ],
+      "The date and time settings on your device are out of sync. ${ learnMore }": [
+        ""
+      ],
+      "The decryption of the encrypted content failed.": [
+        "解密失败"
+      ],
+      "The verification of the contact details' signature failed.": [
+        "联系方式签名验证失败"
+      ],
+      "This action is irreversible. Please enter the word ${ boldDanger } in the field to proceed.": [
+        "此操作不可逆，请在字段中输入 ${ boldDanger } 以继续"
+      ],
+      "This feature requires a paid Proton account": [
+        "此功能仅限付费用户使用"
+      ],
+      "Unfortunately, we’re not online at the moment. Please complete the form below to describe your issue, and we will look into it and be in touch when we’re back online.": [
+        "非常抱歉，我们目前不在线。请填写下面的表格来描述您的问题，我们会进行调查并在上线后联系您。"
+      ],
+      "You will lose any customization you made so far.": [
+        ""
+      ],
+      "Your free trial ends on ${ textDate }. ${ action }": [
+        ""
+      ]
+    },
+    "Weekly recurring event, frequency": {
+      "Every ${ interval } week on ${ multipleDaysString }": [
+        "每 ${ interval } 周的${ multipleDaysString }"
+      ],
+      "Every ${ interval } week on ${ multipleDaysString }, ${ timesString }": [
+        "每${ interval } 周的${ multipleDaysString }，${ timesString }"
+      ],
+      "Every ${ interval } week on ${ multipleDaysString }, ${ untilString }": [
+        "每${ interval } 周的${ multipleDaysString }，${ untilString }"
+      ],
+      "Every ${ interval } week on all days": [
+        "每 ${ interval } 周整周"
+      ],
+      "Every ${ interval } week on all days, ${ timesString }": [
+        "每 ${ interval } 周整周，${ timesString }"
+      ],
+      "Every ${ interval } week on all days, ${ untilString }": [
+        "每 ${ interval } 周整周，${ untilString }"
+      ],
+      "Every ${ interval } week on Friday": [
+        "每 ${ interval } 周的星期五"
+      ],
+      "Every ${ interval } week on Friday, ${ timesString }": [
+        "每 ${ interval } 周星期五，${ timesString }"
+      ],
+      "Every ${ interval } week on Friday, ${ untilString }": [
+        "每 ${ interval } 周星期五，${ untilString }"
+      ],
+      "Every ${ interval } week on Monday": [
+        "每 ${ interval } 周的星期一"
+      ],
+      "Every ${ interval } week on Monday, ${ timesString }": [
+        "每 ${ interval } 周星期一，${ timesString }"
+      ],
+      "Every ${ interval } week on Monday, ${ untilString }": [
+        "每 ${ interval } 周星期一，${ untilString }"
+      ],
+      "Every ${ interval } week on Saturday": [
+        "每 ${ interval } 周的星期六"
+      ],
+      "Every ${ interval } week on Saturday, ${ timesString }": [
+        "每 ${ interval } 周星期六，${ timesString }"
+      ],
+      "Every ${ interval } week on Saturday, ${ untilString }": [
+        "每 ${ interval } 周星期六，${ untilString }"
+      ],
+      "Every ${ interval } week on Sunday": [
+        "每 ${ interval } 周的星期日"
+      ],
+      "Every ${ interval } week on Sunday, ${ timesString }": [
+        "每 ${ interval } 周星期日，${ timesString }"
+      ],
+      "Every ${ interval } week on Sunday, ${ untilString }": [
+        "每 ${ interval } 周星期日，${ untilString }"
+      ],
+      "Every ${ interval } week on Thursday": [
+        "每 ${ interval } 周的星期四"
+      ],
+      "Every ${ interval } week on Thursday, ${ timesString }": [
+        "每 ${ interval } 周星期四，${ timesString }"
+      ],
+      "Every ${ interval } week on Thursday, ${ untilString }": [
+        "每 ${ interval } 周星期四，${ untilString }"
+      ],
+      "Every ${ interval } week on Tuesday": [
+        "每 ${ interval } 周的星期二"
+      ],
+      "Every ${ interval } week on Tuesday, ${ timesString }": [
+        "每 ${ interval } 周星期二，${ timesString }"
+      ],
+      "Every ${ interval } week on Tuesday, ${ untilString }": [
+        "每 ${ interval } 周星期二，${ untilString }"
+      ],
+      "Every ${ interval } week on Wednesday": [
+        "每 ${ interval } 周的星期三"
+      ],
+      "Every ${ interval } week on Wednesday, ${ timesString }": [
+        "每 ${ interval } 周星期三，${ timesString }"
+      ],
+      "Every ${ interval } week on Wednesday, ${ untilString }": [
+        "每 ${ interval } 周星期三，${ untilString }"
+      ],
+      "Weekly on ${ multipleDaysString }": [
+        "每周的 ${ multipleDaysString }"
+      ],
+      "Weekly on ${ multipleDaysString }, ${ timesString }": [
+        "每周${ multipleDaysString }，${ timesString }"
+      ],
+      "Weekly on ${ multipleDaysString }, ${ untilString }": [
+        "每周${ multipleDaysString }，${ untilString }"
+      ],
+      "Weekly on all days": [
+        "每周所有天"
+      ],
+      "Weekly on all days, ${ timesString }": [
+        "每周所有天数，${ timesString }。"
+      ],
+      "Weekly on all days, ${ untilString }": [
+        "每周所有天数，直到${ untilString }。"
+      ],
+      "Weekly on Friday": [
+        "每周星期五"
+      ],
+      "Weekly on Friday, ${ timesString }": [
+        "每周星期五，${ timesString }"
+      ],
+      "Weekly on Friday, ${ untilString }": [
+        "每周星期五，直到${ untilString }"
+      ],
+      "Weekly on Monday": [
+        "每周星期一"
+      ],
+      "Weekly on Monday, ${ timesString }": [
+        "每周星期一，${ timesString }"
+      ],
+      "Weekly on Monday, ${ untilString }": [
+        "每周星期一，直到${ untilString }"
+      ],
+      "Weekly on Saturday": [
+        "每周星期六"
+      ],
+      "Weekly on Saturday, ${ timesString }": [
+        "每周星期六，${ timesString }"
+      ],
+      "Weekly on Saturday, ${ untilString }": [
+        "每周星期六，直到${ untilString }"
+      ],
+      "Weekly on Sunday": [
+        "每周星期日"
+      ],
+      "Weekly on Sunday, ${ timesString }": [
+        "每周星期日，${ timesString }"
+      ],
+      "Weekly on Sunday, ${ untilString }": [
+        "每周星期日，直到${ untilString }"
+      ],
+      "Weekly on Thursday": [
+        "每周星期四"
+      ],
+      "Weekly on Thursday, ${ timesString }": [
+        "每周星期四，${ timesString }"
+      ],
+      "Weekly on Thursday, ${ untilString }": [
+        "每周星期四，直到${ untilString }"
+      ],
+      "Weekly on Tuesday": [
+        "每周星期二"
+      ],
+      "Weekly on Tuesday, ${ timesString }": [
+        "每周星期二，${ timesString }"
+      ],
+      "Weekly on Tuesday, ${ untilString }": [
+        "每周星期二，直到${ untilString }"
+      ],
+      "Weekly on Wednesday": [
+        "每周星期三"
+      ],
+      "Weekly on Wednesday, ${ timesString }": [
+        "每周星期三，${ timesString }"
+      ],
+      "Weekly on Wednesday, ${ untilString }": [
+        "每周星期三，直到${ untilString }"
+      ]
+    },
+    "Weekly recurring event, repeats on (multiple days), frequency": {
+      "Friday": [
+        "星期五"
+      ],
+      "Monday": [
+        "星期一"
+      ],
+      "Saturday": [
+        "星期六"
+      ],
+      "Sunday": [
+        "星期日"
+      ],
+      "Thursday": [
+        "星期四"
+      ],
+      "Tuesday": [
+        "星期二"
+      ],
+      "Wednesday": [
+        "星期三"
+      ]
+    },
+    "Yearly recurring event, frequency": {
+      "Every ${ interval } year": [
+        "每 ${ interval } 年"
+      ],
+      "Every ${ interval } year, ${ timesString }": [
+        "每 ${ interval } 年，${ timesString }"
+      ],
+      "Every ${ interval } year, ${ untilString }": [
+        "每 ${ interval } 年，${ untilString }"
+      ],
+      "Yearly": [
+        "每年"
+      ],
+      "Yearly, ${ timesString }": [
+        "每年, ${ timesString }"
+      ],
+      "Yearly, ${ untilString }": [
+        "每年，直到${ untilString }"
+      ]
+    }
+  }
+}

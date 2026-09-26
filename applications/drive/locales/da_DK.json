@@ -1,0 +1,4738 @@
+{
+  "headers": {
+    "plural-forms": "nplurals=2; plural=(n != 1);",
+    "language": "da_DK"
+  },
+  "contexts": {
+    "Action": {
+      "${ BRAND_NAME } introduction": [
+        "${ BRAND_NAME } introduktion"
+      ],
+      "${ BRAND_NAME } shop": [
+        "${ BRAND_NAME } butik"
+      ],
+      "Activate recovery": [
+        "Aktiver gendannelse"
+      ],
+      "Add": [
+        "Tilføj"
+      ],
+      "Add address": [
+        "Tilføj adresse"
+      ],
+      "Add contact": [
+        "Tilføj kontakt"
+      ],
+      "Add email": [
+        "Tilføj e-mail"
+      ],
+      "Add group": [
+        "Tilføj gruppe"
+      ],
+      "Add new contact": [
+        "Tilføj ny kontakt"
+      ],
+      "Add new group": [
+        "Tilføj ny gruppe"
+      ],
+      "Add phone number": [
+        "Tilføj telefonnummer"
+      ],
+      "Add to group": [
+        "Føj til gruppe"
+      ],
+      "Apply": [
+        "Anvend"
+      ],
+      "Attach screenshot(s)": [
+        "Vedhæft skærmbillede(r)"
+      ],
+      "Back": [
+        "Tilbage"
+      ],
+      "Beta Access": [
+        "Beta-adgang"
+      ],
+      "Cancel": [
+        "Annullér"
+      ],
+      "Cancel all": [
+        "Stop alle"
+      ],
+      "Cancel all downloads": [
+        "Afbryd alle downloads"
+      ],
+      "Cancel all uploads": [
+        "Annullér alle uploads"
+      ],
+      "Cancel download": [
+        "Annullér download"
+      ],
+      "Cancel upload": [
+        "Annullér overførsel"
+      ],
+      "Chat with us": [
+        "Chat med os"
+      ],
+      "Check import progress": [
+        "Kontroller importforløbet"
+      ],
+      "Choose a file or drag it here": [
+        "Vælg en fil eller træk den hertil"
+      ],
+      "Clear": [
+        "Ryd"
+      ],
+      "Clear browser data": [
+        "Ryd browserdata"
+      ],
+      "Clear data": [
+        "Ryd data"
+      ],
+      "Clear query": [
+        "Ryd forespørgsel"
+      ],
+      "Click here.": [
+        "Klik her."
+      ],
+      "Close": [
+        "Luk"
+      ],
+      "Close modal": [
+        "Luk dialog"
+      ],
+      "Close navigation": [
+        "Luk navigation"
+      ],
+      "Close this banner": [
+        "Luk denne banner"
+      ],
+      "Close transfers": [
+        "Luk overførsel"
+      ],
+      "Collapse": [
+        "Fold sammen"
+      ],
+      "Collapse folder": [
+        "Luk mappe sammen"
+      ],
+      "Compose": [
+        "Skriv"
+      ],
+      "Confirm": [
+        "Bekræft"
+      ],
+      "Confirm opening of link ${ linkToShow }": [
+        "Bekræft åbning af link ${ linkToShow }"
+      ],
+      "Contact group": [
+        "Kontaktgruppe"
+      ],
+      "Continue": [
+        "Fortsæt"
+      ],
+      "Continue transfers": [
+        "Fortsæt overførsler"
+      ],
+      "Continue with Google": [
+        "Fortsæt med Google"
+      ],
+      "Copy email to clipboard": [
+        "Kopiér e-mail til upklipsholder"
+      ],
+      "Copy link": [
+        "Kopiér link"
+      ],
+      "Create": [
+        "Opret"
+      ],
+      "Create a new contact group": [
+        "Opret en ny kontaktgruppe"
+      ],
+      "Create link": [
+        "Opret link"
+      ],
+      "Create new folder": [
+        "Opret ny mappe"
+      ],
+      "Customize": [
+        "Tilpas"
+      ],
+      "Delete": [
+        "Slet"
+      ],
+      "Delete ${ selectedCount } contact": [
+        "Slet ${ selectedCount } kontakt",
+        "Slet ${ selectedCount } kontakter"
+      ],
+      "Delete ${ selectedCount } contact group": [
+        "Slet ${ selectedCount } kontaktgruppe",
+        "Slet ${ selectedCount } kontaktgrupper"
+      ],
+      "Delete contact": [
+        "Slet kontakt"
+      ],
+      "Delete contact group": [
+        "Slet kontaktgruppe"
+      ],
+      "Delete permanently": [
+        "Slet permanent"
+      ],
+      "Deselect all": [
+        "Fravælg alle"
+      ],
+      "Details": [
+        "Detaljer"
+      ],
+      "Didn't receive the code?": [
+        "Ikke modtaget koden?"
+      ],
+      "Done": [
+        "Færdig"
+      ],
+      "Download": [
+        "Hent"
+      ],
+      "Download anyway": [
+        "Download alligevel"
+      ],
+      "Drive Locked": [
+        "Drev låst"
+      ],
+      "Edit": [
+        "Redigér"
+      ],
+      "Edit email address": [
+        "Rediger e-mailadresse"
+      ],
+      "Edit label": [
+        "Redigér etikette"
+      ],
+      "Edit phone number": [
+        "Rediger telefonnummer"
+      ],
+      "Edit sign-in details": [
+        "Rediger login-detaljer"
+      ],
+      "Email settings": [
+        "E-mailindstillinger"
+      ],
+      "Empty trash": [
+        "Tøm Papirkurv"
+      ],
+      "enable desktop notifications": [
+        "aktivér skrivebordsmeddelelser"
+      ],
+      "Enable drive search": [
+        "Aktiver søgning på drev"
+      ],
+      "Expand": [
+        "Udvid"
+      ],
+      "Expand folder": [
+        "Udvid mappe"
+      ],
+      "Export": [
+        "Exportér"
+      ],
+      "Export contact group": [
+        "Eksporter kontaktgruppe"
+      ],
+      "Export contacts": [
+        "Eksportér kontakter"
+      ],
+      "Forward as attachment": [
+        "Videresend som vedhæftning"
+      ],
+      "Get link": [
+        "Få link"
+      ],
+      "Get started": [
+        "Kom godt i gang"
+      ],
+      "Get verification code": [
+        "Få bekræftelseskode"
+      ],
+      "Go to label": [
+        "Gå til etikette"
+      ],
+      "Go to panel ${ index }": [
+        "Gå til panel ${ index }"
+      ],
+      "Go to parent": [
+        "Gå til overordnet"
+      ],
+      "Go to settings": [
+        "Gå til indstillinger"
+      ],
+      "Got it": [
+        "Forstået"
+      ],
+      "Hide advanced PGP settings": [
+        "Skjul avancerede PGP-indstillinger"
+      ],
+      "Hide folders": [
+        "Skjul mapper"
+      ],
+      "Hide labels": [
+        "Skjul etiketter"
+      ],
+      "I have a question": [
+        "Jeg har et spørgsmål"
+      ],
+      "import": [
+        "importér"
+      ],
+      "Import": [
+        "Import"
+      ],
+      "Import from .csv or vCard": [
+        "Importer fra .csv eller vCard"
+      ],
+      "Learn more": [
+        "Få mere at vide"
+      ],
+      "Load image": [
+        "Indlæs billede"
+      ],
+      "Log in": [
+        "Log ind"
+      ],
+      "Manage link": [
+        "Håndter link"
+      ],
+      "Mark for deletion": [
+        "Markér til sletning"
+      ],
+      "Maximize transfers": [
+        "Maksimér overførsler"
+      ],
+      "Merge": [
+        "Flet"
+      ],
+      "Merge contacts": [
+        "Flet kontakter"
+      ],
+      "Minimize transfers": [
+        "Minimer overførsler"
+      ],
+      "More info: ${ safeTitle }": [
+        "Mere information: ${ safeTitle }"
+      ],
+      "More options": [
+        "Flere muligheder"
+      ],
+      "Move": [
+        "Flyt"
+      ],
+      "Move to folder": [
+        "Flyt til mappe"
+      ],
+      "Move to trash": [
+        "Flyt til papirkurv"
+      ],
+      "New upload": [
+        "Nyt upload"
+      ],
+      "Next": [
+        "Næste"
+      ],
+      "Next month": [
+        "Næste måned"
+      ],
+      "OK": [
+        "Ok"
+      ],
+      "Open navigation": [
+        "Åbn navigation"
+      ],
+      "Pause all": [
+        "Pause alle"
+      ],
+      "Pause download": [
+        "Sæt download på pause"
+      ],
+      "Pause upload": [
+        "Sæt upload på pause"
+      ],
+      "Preview": [
+        "Forhåndsvisning"
+      ],
+      "Preview contact": [
+        "Forhåndsvis kontakt"
+      ],
+      "Previous": [
+        "Foregående"
+      ],
+      "Previous month": [
+        "Forrige måned"
+      ],
+      "Quit": [
+        "Afslut"
+      ],
+      "Re-sign": [
+        "Gensignér"
+      ],
+      "Recover data": [
+        "Gendan data"
+      ],
+      "Refer a friend": [
+        "Henvis en ven"
+      ],
+      "refresh the page": [
+        "opdater siden"
+      ],
+      "Refresh the page": [
+        "Opdater siden"
+      ],
+      "Remove": [
+        "Fjern"
+      ],
+      "Remove from this list": [
+        "Fjern fra denne liste"
+      ],
+      "Rename": [
+        "Omdøb"
+      ],
+      "Report a problem": [
+        "Anmeld et problem"
+      ],
+      "Request a feature": [
+        "Anmod om funktion"
+      ],
+      "Request new code": [
+        "Anmod om ny kode"
+      ],
+      "Reset zoom": [
+        "Nulstil zoom"
+      ],
+      "Restart all": [
+        "Genstart alle"
+      ],
+      "Restart download": [
+        "Genstart download"
+      ],
+      "Restart upload": [
+        "Genstart overførsel"
+      ],
+      "Restore from trash": [
+        "Gendan fra papirkurven"
+      ],
+      "Resume all": [
+        "Genoptag alle"
+      ],
+      "Resume download": [
+        "Genoptag download"
+      ],
+      "Resume upload": [
+        "Genoptag overførsel"
+      ],
+      "Save": [
+        "Gem"
+      ],
+      "Search": [
+        "Søg"
+      ],
+      "Search drive": [
+        "Søg på drev"
+      ],
+      "Select all": [
+        "Vælg alle"
+      ],
+      "Set recovery phrase": [
+        "Opsæt gendannelsessætning"
+      ],
+      "Share": [
+        "Del"
+      ],
+      "Share file": [
+        "Del fil"
+      ],
+      "Share item": [
+        "Del element"
+      ],
+      "Share options": [
+        "Delemuligheder"
+      ],
+      "Share via link": [
+        "Del via link"
+      ],
+      "Sharing options": [
+        "Indstillinger for deling"
+      ],
+      "Show advanced PGP settings": [
+        "Vis avancerede PGP-indstillinger"
+      ],
+      "Show folders": [
+        "Vis mapper"
+      ],
+      "Show labels": [
+        "Vis etiketter"
+      ],
+      "Show preview": [
+        "Vis forhåndsvisning"
+      ],
+      "Sign out": [
+        "Log ud"
+      ],
+      "Signing out": [
+        "Logger ud"
+      ],
+      "Skip": [
+        "Spring over"
+      ],
+      "Start import": [
+        ""
+      ],
+      "Start recovering": [
+        "Start gendannelse"
+      ],
+      "Start setup": [
+        "Start opsætning"
+      ],
+      "Stay": [
+        "Bliv her"
+      ],
+      "Stop sharing": [
+        "Stop deling"
+      ],
+      "Stop transfers": [
+        "Stop overførsler"
+      ],
+      "Submit": [
+        "Indsend"
+      ],
+      "Submit report": [
+        "Indsend rapport"
+      ],
+      "Theme": [
+        "Tema"
+      ],
+      "Trust": [
+        "Gør betroet"
+      ],
+      "Try another method": [
+        "Prøv en anden metode"
+      ],
+      "Undo": [
+        "Fortryd"
+      ],
+      "Unlock data": [
+        "Lås op for data"
+      ],
+      "Unmark for deletion": [
+        "Afmarkér fra sletning"
+      ],
+      "Untrust": [
+        "Ikke længere betroet"
+      ],
+      "Update recovery file": [
+        "Opdater gendannelsesfil"
+      ],
+      "Update recovery phrase": [
+        "Opdater gendannelsessætning"
+      ],
+      "Upgrade": [
+        "Opgradér"
+      ],
+      "Upload anyway": [
+        "Upload alligevel"
+      ],
+      "Upload file": [
+        "Upload fil"
+      ],
+      "Upload folder": [
+        "Upload mappe"
+      ],
+      "Upload picture": [
+        "Overfør billede"
+      ],
+      "Use ${ label } theme": [
+        "Brug temaet “${ label }”"
+      ],
+      "Use for sending": [
+        "Brug til afsendelse"
+      ],
+      "Verify": [
+        "Verificer"
+      ],
+      "Verify account": [
+        "Verificer konto"
+      ],
+      "Verify email": [
+        "Verificer e-mail"
+      ],
+      "View": [
+        "Vis"
+      ],
+      "View invoice": [
+        "Vis faktura"
+      ],
+      "Zoom in": [
+        "Zoom ind"
+      ],
+      "Zoom out": [
+        "Zoom ud"
+      ]
+    },
+    "Actions message": {
+      "${ addContact } or ${ importContact }.": [
+        "${ addContact } eller ${ importContact }."
+      ],
+      "No results found.": [
+        "Ingen resultater fundet."
+      ],
+      "Please try another search term.": [
+        "Prøv venligst et andet søgeord."
+      ],
+      "You don't have any contacts.": [
+        "Du har ingen kontakter."
+      ],
+      "You don't have any groups.": [
+        "Du har ikke nogen grupper."
+      ]
+    },
+    "Alert": {
+      "By leaving now, some contacts may not be imported": [
+        "Ved at afslutte nu vil nogle kontakter måske ikke blive importeret"
+      ]
+    },
+    "Apps dropdown": {
+      "Proton applications": [
+        "Proton-applikationer"
+      ]
+    },
+    "Beta access description": {
+      "Beta Access lets you use the beta version of ${ MAIL_APP_NAME }, ${ CALENDAR_APP_NAME }, and ${ DRIVE_APP_NAME } before they are released to the public. This means you can be the first to try new products, get new updates, and use new features.": [
+        "Beta-adgang giver dig mulighed for at bruge betaversionen af ${ MAIL_APP_NAME }, ${ CALENDAR_APP_NAME } og ${ DRIVE_APP_NAME }, før de frigives til offentligheden. Det betyder, at du kan være den første til at prøve nye produkter, få nye opdateringer og bruge nye funktioner."
+      ],
+      "If you encounter issues, you can always disable Beta Access.": [
+        "Hvis du støder på problemer, kan du altid deaktivere beta-adgang."
+      ]
+    },
+    "blackfriday Action": {
+      "Get the offer": [
+        ""
+      ]
+    },
+    "blackfriday Info": {
+      "beta": [
+        "beta"
+      ],
+      "Includes": [
+        "Inkluderer"
+      ],
+      "Standard price: ${ regularPrice }": [
+        ""
+      ],
+      "This subscription will automatically renew after 2 years at the same rate until it is cancelled.": [
+        ""
+      ]
+    },
+    "blackfriday Title": {
+      "Best deal": [
+        ""
+      ],
+      "Most popular": [
+        "Mest populært"
+      ],
+      "Save more when combining Mail and VPN": [
+        ""
+      ]
+    },
+    "blackfriday: VPNspecialoffer Action": {
+      "Get the deal": [
+        "Få tilbuddet"
+      ],
+      "Get the deal now": [
+        "Gør brug af tilduddet nu"
+      ]
+    },
+    "blackfriday: VPNspecialoffer Info": {
+      "Discounts are based on standard monthly pricing of ${ standardMonthlyPricing }": [
+        ""
+      ],
+      "Save ${ percentage }%": [
+        "Spar ${ percentage }%"
+      ],
+      "Special offer Terms and Conditions": [
+        ""
+      ]
+    },
+    "blackfriday: VPNspecialoffer info": {
+      "per month": [
+        "pr. måned"
+      ]
+    },
+    "blackfriday: VPNspecialoffer Promo title, need to be short": {
+      "Special offer": [
+        "Særtilbud"
+      ]
+    },
+    "blackfriday: VPNspecialoffer Title": {
+      "(${ notice }) Renews after 1 month at a standard monthly price of ${ amount }": [
+        ""
+      ],
+      "(${ notice }) Renews after 1 year at a standard discounted annual price of ${ amount } (20% discount)": [
+        ""
+      ],
+      "(${ notice }) Renews after 2 years at a standard discounted 2-year price of ${ amount } (33% discount)": [
+        ""
+      ],
+      "1 month": [
+        "1 måned"
+      ],
+      "12 months": [
+        "12 måneder"
+      ],
+      "24 months": [
+        "24 måneder"
+      ],
+      "Billed at ${ amount } for the first 2 years.${ supNotice }": [
+        ""
+      ],
+      "Billed at ${ amount } for the first month.${ supNotice }": [
+        ""
+      ],
+      "Billed at ${ amount } for the first year.${ supNotice }": [
+        ""
+      ],
+      "Get the special year-end offer on our Premium VPN PLUS plan": [
+        ""
+      ]
+    },
+    "Bug category": {
+      "Application problem": [
+        "Applikationsproblem"
+      ],
+      "Bridge problem": [
+        "Bridge-problem"
+      ],
+      "Calendar problem": [
+        "Kalender-problem"
+      ],
+      "Connection problem": [
+        "Forbindelsesproblem"
+      ],
+      "Contacts problem": [
+        "Kontakter-problem"
+      ],
+      "Custom domain problem": [
+        "Brugerdomæne-problem"
+      ],
+      "Drive problem": [
+        "Drive-problem"
+      ],
+      "Feature request": [
+        "Funktionsanmodning"
+      ],
+      "Import / export problem": [
+        "Problem med import / eksport"
+      ],
+      "Installation problem": [
+        "Installationsproblem"
+      ],
+      "Mail problem": [
+        "Mail-problem"
+      ],
+      "Manual setup problem": [
+        "Problem ifm. manual opsætning"
+      ],
+      "Other": [
+        "Andet"
+      ],
+      "Payments problem": [
+        "Betalingsproblem"
+      ],
+      "Sign in problem": [
+        "Log ind-problem"
+      ],
+      "Sign up problem": [
+        "Tilmeldingsproblem"
+      ],
+      "Signup problem": [
+        "Tilmeldingsproblem"
+      ],
+      "Slow speed problem": [
+        "Problem med lav hastighed"
+      ],
+      "Speed problem": [
+        "Hastighedsproblem"
+      ],
+      "Streaming problem": [
+        "Streaming-problem"
+      ],
+      "Update problem": [
+        "Opdateringsproblem"
+      ],
+      "VPN problem": [
+        "VPN-problem"
+      ],
+      "Website access problem": [
+        "Problemer med adgang til hjemmesiden"
+      ]
+    },
+    "Button": {
+      "Continue using ${ MAIL_APP_NAME }.": [
+        "Fortsæt med at bruge ${ MAIL_APP_NAME }."
+      ]
+    },
+    "Calendar status": {
+      "Not synced": [
+        "Ikke synkroniseret"
+      ],
+      "Syncing": [
+        "Synkroniserer"
+      ]
+    },
+    "Calendar subscription not synced error": {
+      "Calendar could not be decrypted": [
+        "Kalender kunne ikke dekrypteres"
+      ],
+      "Calendar is syncing": [
+        "Kalender synkroniserer"
+      ],
+      "Calendar is too big": [
+        "Kalender er for stor"
+      ],
+      "Calendar link is not accessible": [
+        "Kalenderlink er ikke tilgængeligt"
+      ],
+      "Calendar link is temporarily inaccessible": [
+        "Kalenderlink er midlertidig ikke tilgængeligt"
+      ],
+      "Failed to sync calendar": [
+        "Kunne ikke synkronisere kalender"
+      ],
+      "More than 12 hours passed since last update": [
+        "Der er gået mere end 12 timer siden seneste opdatering"
+      ],
+      "Unsupported calendar format": [
+        "Kalenderformat understøttes ikke"
+      ]
+    },
+    "Collapsible tooltip": {
+      "Close": [
+        "Luk"
+      ],
+      "Open": [
+        "Åbn"
+      ]
+    },
+    "Confirm modal title": {
+      "Quit import customization?": [
+        "Afslut importtilpasning?"
+      ]
+    },
+    "Contact field label": {
+      "Address": [
+        "Adresse"
+      ],
+      "Anniversary": [
+        "Årsdag"
+      ],
+      "Birthday": [
+        "Fødselsdag"
+      ],
+      "Email": [
+        "E-mail"
+      ],
+      "Gender": [
+        "Køn"
+      ],
+      "Geo": [
+        "Geo"
+      ],
+      "Language": [
+        "Sprog"
+      ],
+      "Logo": [
+        "Logo"
+      ],
+      "Member": [
+        "Medlem"
+      ],
+      "Name": [
+        "Navn"
+      ],
+      "Note": [
+        "Notat"
+      ],
+      "Organization": [
+        "Organisation"
+      ],
+      "Phone": [
+        "Telefon"
+      ],
+      "Photo": [
+        "Foto"
+      ],
+      "Role": [
+        "Rolle"
+      ],
+      "Timezone": [
+        "Tidszone"
+      ],
+      "Title": [
+        "Titel"
+      ],
+      "URL": [
+        "URL"
+      ]
+    },
+    "Contact type label": {
+      "Fax": [
+        "Fax"
+      ],
+      "Main": [
+        "Primær"
+      ],
+      "Mobile": [
+        "Mobil"
+      ],
+      "Other": [
+        "Andet"
+      ],
+      "Pager": [
+        "Personsøger"
+      ],
+      "Personal": [
+        "Personlig"
+      ],
+      "Work": [
+        "Arbejde"
+      ],
+      "Yomi": [
+        "Yomi"
+      ]
+    },
+    "Country name": {
+      "Abkhazia": [
+        "Abkhasien"
+      ],
+      "Afghanistan": [
+        "Afghanistan"
+      ],
+      "Albania": [
+        "Albanien"
+      ],
+      "Algeria": [
+        "Algeriet"
+      ],
+      "American Samoa": [
+        "Amerikansk Samoa"
+      ],
+      "Andorra": [
+        "Andorra"
+      ],
+      "Angola": [
+        "Angola"
+      ],
+      "Anguilla": [
+        "Anguilla"
+      ],
+      "Antarctica": [
+        "Antarktis"
+      ],
+      "Antigua and Barbuda": [
+        "Antigua og Barbudas"
+      ],
+      "Argentina": [
+        "Argentina"
+      ],
+      "Armenia": [
+        "Armenien"
+      ],
+      "Aruba": [
+        "Aruba"
+      ],
+      "Ascension Island": [
+        "Ascension"
+      ],
+      "Australia": [
+        "Australien"
+      ],
+      "Austria": [
+        "Østrig"
+      ],
+      "Azerbaijan": [
+        "Aserbajdsjan"
+      ],
+      "Bahamas": [
+        "Bahamas"
+      ],
+      "Bahrain": [
+        "Bahrain"
+      ],
+      "Bangladesh": [
+        "Bangladesh"
+      ],
+      "Barbados": [
+        "Barbados"
+      ],
+      "Belarus": [
+        "Hviderusland"
+      ],
+      "Belgium": [
+        "Belgien"
+      ],
+      "Belize": [
+        "Belize"
+      ],
+      "Benin": [
+        "Benin"
+      ],
+      "Bermuda": [
+        "Bermuda"
+      ],
+      "Bhutan": [
+        "Bhutan"
+      ],
+      "Bolivia": [
+        "Bolivia"
+      ],
+      "Bonaire, Sint Eustatius and Saba": [
+        "Bonaire, Sint Eustatius og Saba"
+      ],
+      "Bosnia and Herzegovina": [
+        "Bosnien-Hercegovina"
+      ],
+      "Botswana": [
+        "Botswana"
+      ],
+      "Bouvet Island": [
+        "Bouvetøen"
+      ],
+      "Brazil": [
+        "Brasilien"
+      ],
+      "British Indian Ocean Territory": [
+        "Britiske territorium i Det Indiske Ocean"
+      ],
+      "Brunei Darussalam": [
+        "Brunei Darussalam"
+      ],
+      "Bulgaria": [
+        "Bulgarien"
+      ],
+      "Burkina Faso": [
+        "Burkina Faso"
+      ],
+      "Burma": [
+        "Burma"
+      ],
+      "Burundi": [
+        "Burundi"
+      ],
+      "Cambodia": [
+        "Cambodja"
+      ],
+      "Cameroon": [
+        "Cameroon"
+      ],
+      "Canada": [
+        "Canada"
+      ],
+      "Cape Verde": [
+        "Kap Verde"
+      ],
+      "Cayman Islands": [
+        "Caymanøerne"
+      ],
+      "Central African Republic": [
+        "Den Centralafrikanske Republik"
+      ],
+      "Chad": [
+        "Tchad"
+      ],
+      "Chile": [
+        "Chile"
+      ],
+      "China": [
+        "Kina"
+      ],
+      "Christmas Island": [
+        "Christmas Island"
+      ],
+      "Cocos (Keeling) Islands": [
+        "Cocosøerne"
+      ],
+      "Colombia": [
+        "Colombia"
+      ],
+      "Comoros": [
+        "Comorerne"
+      ],
+      "Congo": [
+        "Congo"
+      ],
+      "Congo, Democratic Republic of the": [
+        "Congo, Demokratiske Republik"
+      ],
+      "Cook Islands": [
+        "Cookøerne"
+      ],
+      "Costa Rica": [
+        "Costa Rica"
+      ],
+      "Cote d'Ivoire\"": [
+        "Elfenbenskysten"
+      ],
+      "Croatia": [
+        "Kroatien"
+      ],
+      "Cuba": [
+        "Cuba"
+      ],
+      "Curaçao": [
+        "Curaçao"
+      ],
+      "Cyprus": [
+        "Cypern"
+      ],
+      "Czech Republic": [
+        "Tjekkiet"
+      ],
+      "Denmark": [
+        "Danmark"
+      ],
+      "Djibouti": [
+        "Djibouti"
+      ],
+      "Dominica": [
+        "Dominica"
+      ],
+      "Dominican Republic": [
+        "Dominikanske Republik"
+      ],
+      "Ecuador": [
+        "Ecuador"
+      ],
+      "Egypt": [
+        "Egypten"
+      ],
+      "El Salvador": [
+        "El Salvador"
+      ],
+      "Equatorial Guinea": [
+        "Ækvatorialguinea"
+      ],
+      "Eritrea": [
+        "Eritrea"
+      ],
+      "Estonia": [
+        "Estland"
+      ],
+      "Ethiopia": [
+        "Etiopien"
+      ],
+      "Falkland Islands": [
+        "Falklandsøerne"
+      ],
+      "Faroe Islands": [
+        "Færøerne"
+      ],
+      "Federated States of Micronesia": [
+        "Mikronesien"
+      ],
+      "Fiji": [
+        "Fiji"
+      ],
+      "Finland": [
+        "Finland"
+      ],
+      "France": [
+        "Frankrig"
+      ],
+      "French Guiana": [
+        "Fransk Guyana"
+      ],
+      "French Polynesia": [
+        "Fransk Polynesien"
+      ],
+      "French Southern Territories": [
+        "Franske sydlige territorier"
+      ],
+      "Gabon": [
+        "Gabon"
+      ],
+      "Gambia": [
+        "Gambia"
+      ],
+      "Georgia": [
+        "Georgien"
+      ],
+      "Germany": [
+        "Tyskland"
+      ],
+      "Ghana": [
+        "Ghana"
+      ],
+      "Gibraltar": [
+        "Gibraltar"
+      ],
+      "Greece": [
+        "Grækenland"
+      ],
+      "Greenland": [
+        "Grønland"
+      ],
+      "Grenada": [
+        "Grenada"
+      ],
+      "Guadeloupe": [
+        "Guadeloupe"
+      ],
+      "Guam": [
+        "Guam"
+      ],
+      "Guatemala": [
+        "Guatemala"
+      ],
+      "Guernsey": [
+        "Guernsey"
+      ],
+      "Guinea": [
+        "Guinea"
+      ],
+      "Guinea-Bissau": [
+        "Guinea-Bissau"
+      ],
+      "Guyana": [
+        "Guyana"
+      ],
+      "Haiti": [
+        "Haiti"
+      ],
+      "Heard Island and McDonald Islands": [
+        "Heard Island og McDonald Islands"
+      ],
+      "Holy See (Vatican City State)": [
+        "Den Hellige Stol (Vatikanstaten)"
+      ],
+      "Honduras": [
+        "Honduras"
+      ],
+      "Hong Kong": [
+        "Hong Kong"
+      ],
+      "Hungary": [
+        "Ungarn"
+      ],
+      "Iceland": [
+        "Island"
+      ],
+      "India": [
+        "Indien"
+      ],
+      "Indonesia": [
+        "Indonesien"
+      ],
+      "International": [
+        "International"
+      ],
+      "Iran": [
+        "Iran"
+      ],
+      "Iraq": [
+        "Irak"
+      ],
+      "Ireland": [
+        "Irland"
+      ],
+      "Isle of Man": [
+        "Isle of Man"
+      ],
+      "Israel": [
+        "Israel"
+      ],
+      "Italy": [
+        "Italien"
+      ],
+      "Jamaica": [
+        "Jamaica"
+      ],
+      "Japan": [
+        "Japan"
+      ],
+      "Jersey": [
+        "Jersey"
+      ],
+      "Jordan": [
+        "Jordan"
+      ],
+      "Kazakhstan": [
+        "Kasakhstan"
+      ],
+      "Kenya": [
+        "Kenya"
+      ],
+      "Kiribati": [
+        "Kiribati"
+      ],
+      "Kosovo": [
+        "Kosovo"
+      ],
+      "Kuwait": [
+        "Kuwait"
+      ],
+      "Kyrgyzstan": [
+        "Kirgisistan"
+      ],
+      "Laos": [
+        "Laos"
+      ],
+      "Latvia": [
+        "Letland"
+      ],
+      "Lebanon": [
+        "Libanon"
+      ],
+      "Lesotho": [
+        "Lesotho"
+      ],
+      "Liberia": [
+        "Liberia"
+      ],
+      "Libya": [
+        "Libyen"
+      ],
+      "Liechtenstein": [
+        "Liechtenstein"
+      ],
+      "Lithuania": [
+        "Litauen"
+      ],
+      "Luxembourg": [
+        "Luxembourg"
+      ],
+      "Macao": [
+        "Macau"
+      ],
+      "Madagascar": [
+        "Madagaskar"
+      ],
+      "Malawi": [
+        "Malawi"
+      ],
+      "Malaysia": [
+        "Malaysia"
+      ],
+      "Maldives": [
+        "Maldiverne"
+      ],
+      "Mali": [
+        "Mali"
+      ],
+      "Malta": [
+        "Malta"
+      ],
+      "Marshall Islands": [
+        "Marshalløerne"
+      ],
+      "Martinique": [
+        "Martinique"
+      ],
+      "Mauritania": [
+        "Mauretanien"
+      ],
+      "Mauritius": [
+        "Mauritius"
+      ],
+      "Mayotte": [
+        "Mayotte"
+      ],
+      "Mexico": [
+        "Mexico"
+      ],
+      "Moldova": [
+        "Moldova"
+      ],
+      "Monaco": [
+        "Monaco"
+      ],
+      "Mongolia": [
+        "Mongoliet"
+      ],
+      "Montenegro": [
+        "Montenegro"
+      ],
+      "Montserrat": [
+        "Montserrat"
+      ],
+      "Morocco": [
+        "Marokko"
+      ],
+      "Mozambique": [
+        "Mozambique"
+      ],
+      "Namibia": [
+        "Namibia"
+      ],
+      "Nauru": [
+        "Nauru"
+      ],
+      "Nepal": [
+        "Nepal"
+      ],
+      "Netherlands": [
+        "Nederlandene"
+      ],
+      "New Caledonia": [
+        "Ny Kaledonien"
+      ],
+      "New Zealand": [
+        "New Zealand"
+      ],
+      "Nicaragua": [
+        "Nicaragua"
+      ],
+      "Niger": [
+        "Niger"
+      ],
+      "Nigeria": [
+        "Nigeria"
+      ],
+      "Niue": [
+        "Niue"
+      ],
+      "Norfolk Island": [
+        "Norfolk Island"
+      ],
+      "North Korea": [
+        "Nordkorea"
+      ],
+      "North Macedonia": [
+        "Nordmakedonien"
+      ],
+      "Northern Mariana Islands": [
+        "Nordmarianerne"
+      ],
+      "Norway": [
+        "Norge"
+      ],
+      "Oman": [
+        "Oman"
+      ],
+      "Pakistan": [
+        "Pakistan"
+      ],
+      "Palau": [
+        "Palau"
+      ],
+      "Palestine": [
+        "Palæstina"
+      ],
+      "Panama": [
+        "Panama"
+      ],
+      "Papua New Guinea": [
+        "Papua Ny Guinea"
+      ],
+      "Paraguay": [
+        "Paraguay"
+      ],
+      "Peru": [
+        "Peru"
+      ],
+      "Philippines": [
+        "Filippinerne"
+      ],
+      "Pitcairn": [
+        "Pitcairn"
+      ],
+      "Poland": [
+        "Polen"
+      ],
+      "Portugal": [
+        "Portugal"
+      ],
+      "Puerto Rico": [
+        "Puerto Rico"
+      ],
+      "Qatar": [
+        "Qatar"
+      ],
+      "Reunion": [
+        "Reunion"
+      ],
+      "Romania": [
+        "Rumænien"
+      ],
+      "Russia": [
+        "Rusland"
+      ],
+      "Rwanda": [
+        "Rwanda"
+      ],
+      "Saint Barthélemy": [
+        "Skt. Barthélemy"
+      ],
+      "Saint Helena": [
+        "Sankt Helena"
+      ],
+      "Saint Kitts and Nevis": [
+        "Saint Kitts og Nevis"
+      ],
+      "Saint Lucia": [
+        "Saint Lucia"
+      ],
+      "Saint Martin (French Part)": [
+        "Saint Martin (franske del)"
+      ],
+      "Saint Pierre and Miquelon": [
+        "Saint Pierre og Miquelon"
+      ],
+      "Saint Vincent and the Grenadines": [
+        "Saint Vincent og Grenadinerne"
+      ],
+      "Samoa": [
+        "Samoa"
+      ],
+      "San Marino": [
+        "San Marino"
+      ],
+      "Sao Tome and Principe": [
+        "Sao Tome og Principe"
+      ],
+      "Saudi Arabia": [
+        "Saudi-Arabien"
+      ],
+      "Senegal": [
+        "Senegal"
+      ],
+      "Serbia": [
+        "Serbien"
+      ],
+      "Seychelles": [
+        "Seychellerne"
+      ],
+      "Sierra Leone": [
+        "Sierra Leone"
+      ],
+      "Singapore": [
+        "Singapore"
+      ],
+      "Sint Maarten": [
+        "Sint Maarten"
+      ],
+      "Slovakia": [
+        "Slovakiet"
+      ],
+      "Slovenia": [
+        "Slovenien"
+      ],
+      "Solomon Islands": [
+        "Salomon-øerne"
+      ],
+      "Somalia": [
+        "Somalia"
+      ],
+      "South Africa": [
+        "Sydafrika"
+      ],
+      "South Georgia and the South Sandwich Islands": [
+        "Sydgeorgien og de sydlige Sandwichøer"
+      ],
+      "South Korea": [
+        "Sydkorea"
+      ],
+      "South Ossetia": [
+        "Sydossetien"
+      ],
+      "South Sudan": [
+        "Sydsudan"
+      ],
+      "Spain": [
+        "Spanien"
+      ],
+      "Sri Lanka": [
+        "Sri Lanka"
+      ],
+      "Sudan": [
+        "Sudan"
+      ],
+      "Suriname": [
+        "Surinam"
+      ],
+      "Svalbard and Jan Mayen": [
+        "Svalbard og Jan Mayen"
+      ],
+      "Swaziland": [
+        "Swaziland"
+      ],
+      "Sweden": [
+        "Sverige"
+      ],
+      "Switzerland": [
+        "Schweiz"
+      ],
+      "Syria": [
+        "Syrien"
+      ],
+      "Taiwan": [
+        "Taiwan"
+      ],
+      "Tajikistan": [
+        "Tadsjikistan"
+      ],
+      "Tanzania": [
+        "Tanzania"
+      ],
+      "Thailand": [
+        "Thailand"
+      ],
+      "Timor-Leste": [
+        "Timor-Leste"
+      ],
+      "Togo": [
+        "Togo"
+      ],
+      "Tokelau": [
+        "Tokelau"
+      ],
+      "Tonga": [
+        "Tonga"
+      ],
+      "Trinidad and Tobago": [
+        "Trinidad og Tobago"
+      ],
+      "Tristan da Cunha": [
+        "Tristan da Cunha"
+      ],
+      "Tunisia": [
+        "Tunesien"
+      ],
+      "Turkey": [
+        "Tyrkiet"
+      ],
+      "Turkmenistan": [
+        "Turkmenistan"
+      ],
+      "Turks and Caicos Islands": [
+        "Turks- og Caicosøerne"
+      ],
+      "Tuvalu": [
+        "Tuvalu"
+      ],
+      "Uganda": [
+        "Uganda"
+      ],
+      "Ukraine": [
+        "Ukraine"
+      ],
+      "United Arab Emirates": [
+        "Forenede Arabiske Emirater"
+      ],
+      "United Kingdom": [
+        "Storbritannien"
+      ],
+      "United States": [
+        "USA"
+      ],
+      "United States Minor Outlying Islands": [
+        "USA's ydre småøer"
+      ],
+      "Uruguay": [
+        "Uruguay"
+      ],
+      "Uzbekistan": [
+        "Uzbekistan"
+      ],
+      "Vanuatu": [
+        "Vanuatu"
+      ],
+      "Venezuela": [
+        "Venezuela"
+      ],
+      "Vietnam": [
+        "Vietnam"
+      ],
+      "Virgin Islands, British": [
+        "Jomfruøerne, britiske"
+      ],
+      "Virgin Islands, U.S.": [
+        "Jomfruøerne, USA"
+      ],
+      "Wallis and Futuna": [
+        "Wallis og Futuna"
+      ],
+      "Western Sahara": [
+        "Vestsahara"
+      ],
+      "Yemen": [
+        "Yemen"
+      ],
+      "Zambia": [
+        "Zambia"
+      ],
+      "Zimbabwe": [
+        "Zimbabwe"
+      ],
+      "Åland Islands": [
+        "Ålandsøerne"
+      ]
+    },
+    "Default display name vcard": {
+      "Unknown": [
+        "Ukendt"
+      ]
+    },
+    "Default encryption scheme": {
+      "Use global default (${ defaultValueText })": [
+        "Benyt global standard (${ defaultValueText })"
+      ]
+    },
+    "Delinquent modal title": {
+      "Overdue invoice": [
+        "Forfalden faktura"
+      ]
+    },
+    "Description": {
+      "Decrypting contacts... This may take a few minutes. When the process is completed, you will be able to download the file with all your contacts exported.": [
+        "Dekrypterer kontakter... Dette kan tage et par minutter. Når processen er afsluttet, vil du kunne downloade filen med alle dine eksporterede kontakter."
+      ],
+      "Deleting contacts... This may take a few minutes. When the process is completed, you can close this modal.": [
+        "Sletter kontakter... Dette kan tage et par minutter. Når processen er afsluttet, kan du lukke dette vindue."
+      ],
+      "Encrypting and importing contacts... This may take a few minutes. When the process is completed, you can close this modal.": [
+        "Krypterer og importerer kontakter... Dette kan tage et par minutter. Når processen er afsluttet, kan du lukke dette vindue."
+      ],
+      "It looks like the contact list you are importing contains some groups. Please review how these groups should be imported.": [
+        "Det ser ud til at kontaktlisten du importerer indeholder nogle grupper. Gennemgå hvordan disse grupper skal importeres."
+      ],
+      "Merging contacts... This may take a few minutes. When the process is completed, you can close this modal.": [
+        "Fletter kontakter... Dette kan tage et par minutter. Når processen er afsluttet, kan du lukke dette vindue."
+      ],
+      "The file should have a maximum size of ${ MAX_IMPORT_FILE_SIZE_STRING } and have up to ${ MAX_IMPORT_CONTACTS_STRING } contact. If your file is bigger, please split it into smaller files.": [
+        "Filen skal have en maksimal størrelse på ${ MAX_IMPORT_FILE_SIZE_STRING } og have\nop til ${ MAX_IMPORT_CONTACTS_STRING } kontakt. Hvis din fil er større, bedes du opdele den i mindre filer.",
+        "Filen skal have en maksimal størrelse på ${ MAX_IMPORT_FILE_SIZE_STRING } og have\nop til ${ MAX_IMPORT_CONTACTS_STRING } kontakter. Hvis din fil er større, bedes du opdele den i mindre filer."
+      ],
+      "Use Drag and Drop to rank merging priority between contacts. Uncheck the contacts you do not want to merge.": [
+        "Benyt Træk og Slip for at rangordne fletningsprioritet mellem kontakter. Afmarkér de kontakter du ikke vil sammenflette."
+      ],
+      "You can mark for deletion the contacts that you do not want neither to merge nor to keep. Deletion will only take place after the merge button is clicked": [
+        "Du kan markere de kontakter til sletning, som du hverken ønsker at flette eller beholde.\nSletning vil først ske efter der er klikket på fletningsknappen"
+      ]
+    },
+    "Description of the purpose of the import CSV modal": {
+      "Also, we have automatically matched CSV fields with vCard fields. You can review and change this matching manually.": [
+        "Vi har også automatisk matchet CSV-felter med vCard-felter. Du kan gennemgå og ændre denne matchning manuelt."
+      ],
+      "We have detected the following fields in the CSV file you uploaded. Check the ones you want to import.": [
+        "Følgende felter er fundet i den CSV-fil, du uploadede. Afkryds dem, du vil importere."
+      ]
+    },
+    "Early Access Disabled": {
+      "Off": [
+        "Fra"
+      ]
+    },
+    "Early Access Enabled": {
+      "On": [
+        "Til"
+      ]
+    },
+    "Error": {
+      "A group with this name already exists": [
+        "En gruppe med dette navn findes allerede"
+      ],
+      "A problem occurred, please try again": [
+        "Der opstod et problem. Prøv venligst igen"
+      ],
+      "Authentication canceled.": [
+        "Godkendelse annulleret."
+      ],
+      "Authentication error.": [
+        "Godkendelsesfejl."
+      ],
+      "Calendar limit reached": [
+        "Kalendergrænse nået"
+      ],
+      "Can't create new calendars for all imported calendars due to the personal calendar limit.": [
+        "Kan ikke oprette nye kalendere for alle importerede kalendere på grund af begrænsningen for personlige kalendere."
+      ],
+      "Contact could not be saved": [
+        "Kontakt kunne ikke gemmes"
+      ],
+      "Contact signature not verified": [
+        "Kontaktsignatur ikke bekræftet"
+      ],
+      "Content search cannot be enabled in this browser. Please quit private browsing mode or use another browser.": [
+        "Indholdssøgning kan ikke aktiveres i denne browser. Afslut privat browsing eller brug en anden browser."
+      ],
+      "Deselect at least ${ calendarToFixCount } calendar": [
+        "Fravælg mindst ${ calendarToFixCount } kalender",
+        "Fravælg mindst ${ calendarToFixCount } kalendere"
+      ],
+      "Deselect at least ${ calendarToFixCount } calendar or": [
+        "Fravælg mindst ${ calendarToFixCount } kalender eller",
+        "Fravælg mindst ${ calendarToFixCount } kalendere eller"
+      ],
+      "Email address invalid": [
+        "E-mailadresse ugyldig"
+      ],
+      "Email is not valid": [
+        "E-mail er ikke gyldig"
+      ],
+      "Enter 6 digits": [
+        "Indtast 6 cifre"
+      ],
+      "File \"${ item.name }\" cannot be uploaded due to \"${ error }\" error": [
+        "Filen \"${ item.name }\" kan ikke uploades på grund af \"${ error }\" fejl"
+      ],
+      "File \"${ name }\" is already downloading": [
+        "Filen \"${ name }\" er allerede ved at blive hentet"
+      ],
+      "File cannot be merged with folder": [
+        "Fil kan ikke flettes med mappe"
+      ],
+      "File selection is already downloading": [
+        "Valgte filer er allerede ved at blive hentet"
+      ],
+      "Folder \"${ name }\" is already downloading": [
+        "Mappen \"${ name }\" er allerede ved at blive hentet"
+      ],
+      "Folder name cannot be empty.": [
+        "Mappenavn må ikke være tomt."
+      ],
+      "Image upload failed": [
+        "Billed-upload mislykkedes"
+      ],
+      "Incorrect login credentials. Please try again.": [
+        "Forkerte loginoplysninger. Prøv venligst igen."
+      ],
+      "Incorrect mailbox password. Please try again.": [
+        "Forkert adgangskode til postkasse. Prøv venligst igen."
+      ],
+      "Incorrect password. Please try again.": [
+        "Forkert adgangskode, prøv venligst igen."
+      ],
+      "Invalid name": [
+        "Ugyldigt navn"
+      ],
+      "Invalid public key file": [
+        "Ugyldig offentlig nøglefil"
+      ],
+      "Invalid verification code": [
+        "Ugyldig bekræftelseskode"
+      ],
+      "Label name cannot be empty.": [
+        "Etikettenavn må ikke være tomt."
+      ],
+      "Merge at least ${ calendarToFixCount } calendar with an existing Proton calendar": [
+        "Flet mindst ${ calendarToFixCount } kalender med en eksisterende Proton-kalender",
+        "Flet mindst ${ calendarToFixCount } kalendere med eksisterende Proton-kalendere"
+      ],
+      "Missing key packet": [
+        "Manglende nøglepakke"
+      ],
+      "Missing signature": [
+        "Manglende signatur"
+      ],
+      "No data to import": [
+        "Ingen data at importere"
+      ],
+      "No valid address found": [
+        "Ingen gyldig adresse fundet"
+      ],
+      "Not a valid number": [
+        "Ikke et gyldigt nummer"
+      ],
+      "One of the contacts has no email address: ${ noEmailsContactNamesList }": [
+        "En af kontakterne har ingen e-mailadresse: ${ noEmailsContactNamesList }",
+        "Nogle kontakter har ingen e-mailadresse: ${ noEmailsContactNamesList } "
+      ],
+      "One of the groups has no contacts: ${ noContactGroupList }": [
+        "En af grupperne har ingen kontakter: ${ noContactGroupList }",
+        "Nogle grupper har ingen kontakter: ${ noContactGroupList } "
+      ],
+      "Passwords do not match": [
+        "Adgangskoder matcher ikke"
+      ],
+      "Please activate your content search again": [
+        "Aktiver venligst din indholdssøgning igen"
+      ],
+      "Please fix the highlighted conflict to proceed.": [
+        "Løs venligst den fremhævede konflikt for at fortsætte.",
+        "Løs venligst de fremhævede konflikter for at fortsætte."
+      ],
+      "Preferences could not be saved": [
+        "Præferencer kunne ikke gemmes"
+      ],
+      "Primary address key is not decrypted": [
+        "Primære adressenøgle er ikke dekrypteret"
+      ],
+      "Primary address key is not decrypted.": [
+        "Primære adressenøgle er ikke dekrypteret."
+      ],
+      "Report failed to be sent": [
+        "Anmeldelse kunne ikke sendes"
+      ],
+      "Request timed out": [
+        "Forespørgsel fik timeout"
+      ],
+      "Search failed": [
+        "Søgning mislykkedes"
+      ],
+      "Signature not verified": [
+        "Signatur ikke bekræftet"
+      ],
+      "Signature verification failed": [
+        "Signaturbekræftelse mislykkedes"
+      ],
+      "Some contacts could not be deleted": [
+        "Nogle kontakter kunne ikke slettes"
+      ],
+      "Some groups could not be deleted": [
+        "Nogle grupper kunne ikke slettes"
+      ],
+      "Some of your label names are unavailable. Please customize the import to edit these names.": [
+        "Nogle af dine etikettenavne er ikke tilgængelige. Tilpas venligst importen for at redigere disse navne."
+      ],
+      "Some of your label names exceed ${ MAIL_APP_NAME }'s maximum character limit. Please customize the import to edit these names.": [
+        "Nogle af dine etikettenavne overskrider ${ MAIL_APP_NAME }'s maksimale tegngrænse. Tilpas venligst importen for at ændre disse navne."
+      ],
+      "Something went wrong, please ${ refresh } in order to proceed. If you still see this error message please contact our ${ supportTeam }.": [
+        "Noget gik galt. ${ refresh } siden for at fortsætte. Ser du stadig denne fejlmeddelelse, bedes du kontakte vores ${ supportTeam }."
+      ],
+      "The folder name is invalid. Please choose a different name.": [
+        "Mappenavnet er ikke gyldigt. Vælg venligst et andet navn."
+      ],
+      "The folder name is too long. Please choose a different name.": [
+        "Mappenavnet er for langt. Vælg venligst et andet navn."
+      ],
+      "The label name is invalid. Please choose a different name.": [
+        "Etikettenavnet er ikke gyldigt. Vælg venligst et andet navn."
+      ],
+      "The label name is too long. Please choose a different name.": [
+        "Etikettenavnet er for langt. Vælg venligst et andet navn."
+      ],
+      "The new revision of original file is not uploaded yet, please try again later": [
+        "Den nye version af den oprindelige fil er ikke uploadet endnu, prøv igen senere"
+      ],
+      "The original file has missing active revision": [
+        "Den originale fil har manglende aktiv revision"
+      ],
+      "The original file has missing hash key": [
+        "Den originale fil har manglende hash-nøgle"
+      ],
+      "The original file has missing session key": [
+        "Den originale fil har manglende sessions-nøgle"
+      ],
+      "The original file is not uploaded yet, please try again later": [
+        "Den oprindelige fil er ikke uploadet endnu, prøv igen senere"
+      ],
+      "The original folder not found": [
+        "Den oprindelige mappe ikke fundet"
+      ],
+      "The original folder or file not found": [
+        "Den oprindelige mappe eller fil ikke fundet"
+      ],
+      "There are too many folders in your external account. Please customize the import to delete some folders.": [
+        "Der er for mange mapper i din eksterne konto. Rediger venligst importen for at slette nogle mapper."
+      ],
+      "There was an error when exporting the contacts vCards": [
+        "Der opstod en fejl under eksport af kontakternes vCards"
+      ],
+      "This field is required": [
+        "Dette felt skal udfyldes"
+      ],
+      "This field requires a minimum of ${ minimumLength } characters.": [
+        "Dette felt kræver minimum ${ minimumLength } tegn."
+      ],
+      "This folder name is not available. Please choose a different name.": [
+        "Dette mappenavn er ikke tilgængeligt. Vælg venligst et andet navn."
+      ],
+      "This label name is not available. Please choose a different name.": [
+        "Dette etikettenavn er ikke tilgængeligt. Vælg venligst et andet navn."
+      ],
+      "This message may contain some link's URL that cannot be properly opened by your current browser": [
+        "Denne besked kan indeholde links, som ikke kan åbnes korrekt af din aktuelle browser"
+      ],
+      "Unknown error": [
+        "Ukendt fejl"
+      ],
+      "You can't send a mail to more than 100 recipients": [
+        "Du kan ikke sende en mail til mere end 100 modtagere"
+      ],
+      "You can't send vCards of more than 10 contacts": [
+        "Du kan ikke sende vCards med mere end 10 kontakter"
+      ],
+      "You must set a name": [
+        "Du skal angive et navn"
+      ],
+      "Your browser does not support uploading folders": [
+        "Din browser understøtter ikke upload af mapper"
+      ],
+      "Your import will not be processed.": [
+        "Din import vil ikke blive behandlet."
+      ]
+    },
+    "Error importing calendar": {
+      "An unexpected error occurred. Import must be restarted.": [
+        "En uventet fejl opstod. Import skal genstartes."
+      ]
+    },
+    "Error importing contact": {
+      "Encryption failed": [
+        "Kryptering mislykkedes"
+      ],
+      "vCard versions < 3.0 not supported": [
+        "vCard-versioner < 3.0 understøttes ikke"
+      ]
+    },
+    "Error importing contacts": {
+      "An error occurred reading your file ${ formattedFilename }. File doesn't have the right format.": [
+        "Der opstod en fejl ved læsning af din fil ${ formattedFilename }. Filen har ikke det rigtige format."
+      ],
+      "An error occurred uploading your file ${ formattedFilename }. Maximum file size is ${ MAX_IMPORT_FILE_SIZE_STRING }.": [
+        "Der opstod en fejl under upload af din fil ${ formattedFilename }. Maksimal filstørrelse er ${ MAX_IMPORT_FILE_SIZE_STRING }."
+      ],
+      "An error occurred uploading your file ${ formattedFilename }. No .csv or .vcf file selected": [
+        "Der opstod en fejl under upload af din fil ${ formattedFilename }. Ingen .csv eller .vcf-fil er valgt"
+      ],
+      "An error occurred uploading your file. No file has been selected.": [
+        "Der opstod en fejl under upload af din fil. Ingen fil er blevet valgt."
+      ],
+      "Your file ${ formattedFilename } contains more than ${ MAX_IMPORT_CONTACTS_STRING } contacts.": [
+        "Din fil ${ formattedFilename } indeholder mere end ${ MAX_IMPORT_CONTACTS_STRING } kontakter."
+      ],
+      "Your file ${ formattedFilename } has no contacts to be imported.": [
+        "Din fil ${ formattedFilename } har ingen kontakter til import."
+      ],
+      "Your file ${ formattedFilename } is empty.": [
+        "Din fil ${ formattedFilename } er tom."
+      ]
+    },
+    "Error message": {
+      "Access denied": [
+        "Adgang nægtet"
+      ],
+      "Brace yourself till we get the error fixed.": [
+        "Fejlen rettes hurtigst muligt, Tak for din tålmodighed."
+      ],
+      "Error: ${ errorMessage }": [
+        "Fejl: ${ errorMessage }"
+      ],
+      "Internal server error": [
+        "Intern serverfejl"
+      ],
+      "Not found": [
+        "Ikke fundet"
+      ],
+      "Oops, something went wrong": [
+        "Ups, noget gik galt"
+      ],
+      "Please ${ refresh } or check your connection.": [
+        "${ refresh } eller tjek din forbindelse."
+      ],
+      "There was a problem connecting to Proton.": [
+        "Der opstod et problem med at oprette forbindelse til Proton."
+      ],
+      "You may also ${ refresh } or try again later.": [
+        "Du kan også ${ refresh }, eller forsøge igen senere."
+      ],
+      "You may also refresh the page or try again later.": [
+        "Du kan også opfriske siden, eller forsøge igen senere."
+      ]
+    },
+    "Error notification": {
+      "First name and last name cannot be unchecked at the same time": [
+        "For- og efternavn kan ikke afmarkeres samtidig"
+      ]
+    },
+    "Error notification in the bug report modal when the user upload file": {
+      "No image selected": [
+        "Intet billede valgt"
+      ]
+    },
+    "file size format": {
+      "bytes": [
+        "bytes"
+      ],
+      "GB": [
+        "GB"
+      ],
+      "KB": [
+        "KB"
+      ],
+      "MB": [
+        "MB"
+      ]
+    },
+    "file size format, long": {
+      "Bytes": [
+        "Bytes"
+      ],
+      "Gigabytes": [
+        "Gigabytes"
+      ],
+      "Kilobytes": [
+        "Kilobytes"
+      ],
+      "Megabytes": [
+        "Megabytes"
+      ]
+    },
+    "Filter notification": {
+      "${ Label.Name } updated": [
+        "${ Label.Name } opdateret"
+      ]
+    },
+    "Group": {
+      "Account": [
+        "Konto"
+      ],
+      "Apps": [
+        "Apps"
+      ],
+      "Network": [
+        "Netværk"
+      ],
+      "Other category": [
+        "Anden kategori"
+      ],
+      "Services": [
+        "Tjenester"
+      ]
+    },
+    "Header": {
+      "Contacts": [
+        "Kontakter"
+      ],
+      "Contacts, groups and settings": [
+        "Kontakter, grupper og indstillinger"
+      ],
+      "Get help": [
+        "Få hjælp"
+      ]
+    },
+    "Hint": {
+      "Found ${ items.length } suggestion, use keyboard to navigate.": [
+        "Fandt ${ items.length } forslag, brug tastatur til navigation.",
+        "Fandt ${ items.length } forslag, brug tastatur til navigation."
+      ],
+      "Use Up and Down keys to access and browse suggestions after input. Press Enter to confirm your choice, or Escape to close the suggestions box.": [
+        "Brug op- og ned-tasterne til at få adgang til og gennemse forslag efter input. Tryk på Enter for at bekræfte dit valg eller Escape for at lukke forslagsfeltet."
+      ]
+    },
+    "Human verification method": {
+      "CAPTCHA": [
+        "CAPTCHA"
+      ],
+      "Email": [
+        "E-mail"
+      ],
+      "Manual": [
+        "Manuel"
+      ],
+      "No verification method available": [
+        "Ingen bekræftelsesmetode tilgængelig"
+      ],
+      "SMS": [
+        "SMS"
+      ]
+    },
+    "Import calendar": {
+      "Encrypting and adding contacts: ${ totalImported }/${ totalToImport }": [
+        "Kryptering og tilføjelse af kontakter: ${ totalImported }/${ totalToImport }"
+      ]
+    },
+    "Import calendar warning": {
+      "vCard versions < 3.0": [
+        "vCard versioner < 3.0"
+      ]
+    },
+    "Import contact": {
+      "${ totalImported }/${ totalToImport } contact encrypted and added to your contact list": [
+        "${ totalImported }/${ totalToImport } kontakt krypteret og føjet til din kontaktliste",
+        "${ totalImported }/${ totalToImport } kontakter krypteret og føjet til din kontaktliste"
+      ],
+      "An error occurred while encrypting and adding your contact. No contact could be imported.": [
+        "Der opstod en fejl under kryptering og tilføjelse af din kontakt. Ingen kontakt kunne importeres.",
+        "Der opstod en fejl under kryptering og tilføjelse af dine kontakter. Ingen kontakt kunne importeres."
+      ]
+    },
+    "Import contact error": {
+      "Contact ${ contactId }: ": [
+        "Kontakt ${ contactId }: "
+      ]
+    },
+    "Import contact groups info": {
+      "${ totalContacts } contact": [
+        "${ totalContacts } kontakt",
+        "${ totalContacts } kontakter"
+      ]
+    },
+    "Import contact. Contact identifier": {
+      "unknown": [
+        "ukendt"
+      ]
+    },
+    "Import contacts": {
+      "An error occurred while encrypting and adding your contacts. ${ totalImported } out of ${ totalToImport } contacts successfully imported.": [
+        "Der opstod en fejl under kryptering og tilføjelse af dine kontakter. ${ totalImported } ud af ${ totalToImport } kontakter blev importeret."
+      ],
+      "Contact successfully imported. The imported contact will now appear in your contact list.": [
+        "Kontakt importeret. Den importerede kontakt vises nu på din kontaktliste.",
+        "Kontakter importeret. De importerede kontakter vises nu på din kontaktliste."
+      ]
+    },
+    "Import contacts warning": {
+      "for now": [
+        "indtil videre"
+      ],
+      "ProtonContacts does not support ${ forNow }:": [
+        "ProtonKontakter understøtter ikke ${ forNow }:"
+      ]
+    },
+    "Import warning": {
+      "${ totalContactsDiscarded } out of ${ totalContacts } contacts will not be imported. Click for details": [
+        "${ totalContactsDiscarded } ud af ${ totalContacts } kontakter vil ikke blive importeret. Klik for detaljer"
+      ],
+      "No contact can be imported. Click for details": [
+        "Ingen kontakt kan importeres. Klik for detaljer"
+      ]
+    },
+    "Info": {
+      "${ activeDownloadsCount } downloading": [
+        "${ activeDownloadsCount } downloader",
+        "${ activeDownloadsCount } downloader"
+      ],
+      "${ activeDownloadsCount } downloading (${ downloadProgress }%)": [
+        "${ activeDownloadsCount } downloader (${ downloadProgress }%)",
+        "${ activeDownloadsCount } downloader (${ downloadProgress }%)"
+      ],
+      "${ activeUploadsCount } uploading (${ uploadProgress }%)": [
+        "${ activeUploadsCount } uploader (${ uploadProgress }%)",
+        "${ activeUploadsCount } uploader (${ uploadProgress }%)"
+      ],
+      "${ addressCount } email address": [
+        "${ addressCount } e-mailadresse",
+        "${ addressCount } e-mailadresser"
+      ],
+      "${ appName } needs your permission to ${ enableDesktopNotifications }.": [
+        "${ appName } har brug for din tilladelse til ${ enableDesktopNotifications }."
+      ],
+      "${ calendarsToBeCreatedCount } new calendar": [
+        "${ calendarsToBeCreatedCount } ny kalender",
+        "${ calendarsToBeCreatedCount } nye kalendere"
+      ],
+      "${ calendarsToBeMerged } merged calendar": [
+        "${ calendarsToBeMerged } flettet kalender",
+        "${ calendarsToBeMerged } flettede kalendere"
+      ],
+      "${ calendarsToBeMergedCount } merged calendar": [
+        "${ calendarsToBeMergedCount } flettet kalender",
+        "${ calendarsToBeMergedCount } flettede kalendere"
+      ],
+      "${ canceledCount } canceled": [
+        "${ canceledCount } annulleret",
+        "${ canceledCount } annulleret"
+      ],
+      "${ contactCount } contact contains multiple email addresses.": [
+        "${ contactCount } indeholder adskillige e-mailadresser.",
+        "${ contactCount } indeholder adskillige e-mailadresser."
+      ],
+      "${ contactEmailsLength } Member": [
+        "${ contactEmailsLength } medlem",
+        "${ contactEmailsLength } medlemmer"
+      ],
+      "${ contactName } contains multiple email addresses.": [
+        "${ contactName } indeholder adskillige e-mailadresser."
+      ],
+      "${ contactsCount } contact found": [
+        "${ contactsCount } kontakt fundet",
+        "${ contactsCount } kontakter fundet"
+      ],
+      "${ doneCount } finished": [
+        "${ doneCount } færdig",
+        "${ doneCount } færdig"
+      ],
+      "${ doneDownloadsCount } downloaded": [
+        "${ doneDownloadsCount } downloadet",
+        "${ doneDownloadsCount } downloadet"
+      ],
+      "${ doneUploadsCount } uploaded": [
+        "${ doneUploadsCount } uploadet",
+        "${ doneUploadsCount } uploadet"
+      ],
+      "${ errorCount } failed": [
+        "${ errorCount } mislykkedes",
+        "${ errorCount } mislykkedes"
+      ],
+      "${ groupCounts } group found": [
+        "${ groupCounts } gruppe fundet",
+        "${ groupCounts } grupper fundet"
+      ],
+      "${ numContactGroups } contact group": [
+        "${ numContactGroups } kontaktgruppe",
+        "${ numContactGroups } kontaktgrupper"
+      ],
+      "${ numContacts } contact": [
+        "${ numContacts } kontakt",
+        "${ numContacts } kontakter"
+      ],
+      "${ pausedCount } paused": [
+        "${ pausedCount } sat på pause",
+        "${ pausedCount } sat på pause"
+      ],
+      "${ selectedCalendarsTotal } of ${ providerCalendars.length } calendar": [
+        "${ selectedCalendarsTotal } af ${ providerCalendars.length } kalender",
+        "${ selectedCalendarsTotal } af ${ providerCalendars.length } kalendere"
+      ],
+      "${ selectedFoldersCount } folder selected": [
+        "${ selectedFoldersCount } mappe valgt",
+        "${ selectedFoldersCount } mapper valgt"
+      ],
+      "${ selectedFoldersCount } label selected": [
+        "${ selectedFoldersCount } etikette valgt",
+        "${ selectedFoldersCount } etiketter valgt"
+      ],
+      "${ speed }/s": [
+        "${ speed }/s"
+      ],
+      "${ storageSize } storage": [
+        "${ storageSize } lagerplads"
+      ],
+      "${ updated } contact updated successfully.": [
+        "${ updated } kontakt blev opdateret.",
+        "${ updated } kontakter blev opdateret."
+      ],
+      "${ uploadName } already exists in this location.": [
+        "${ uploadName } findes allerede på denne placering."
+      ],
+      "(${ memberCount } member)": [
+        "(${ memberCount } medlem)",
+        "(${ memberCount } medlemmer)"
+      ],
+      "10 email addresses": [
+        "10 e-mailadresser"
+      ],
+      "A number will be added to the filename": [
+        "Et nummer vil blive tilføjet filnavnet"
+      ],
+      "A number will be added to the folder name": [
+        "Et nummer vil blive tilføjet mappens navn"
+      ],
+      "Account access restricted due to unpaid invoices. Please contact your administrator.": [
+        "Kontoadgang begrænset grundet manglende betaling. Kontakt din administrator."
+      ],
+      "Address Verification with Trusted Keys is enabled for this address. To be able to send to this address, first trust public keys that can be used for sending.": [
+        "Adressebekræftelse med Betroede nøgler er aktiv for denne e-mail. For at kunne sende til denne adresse skal de offentlige nøgler, som kan benyttes hertil, først gøres betroede."
+      ],
+      "All (${ totalFoldersCount } folder)": [
+        "Alle (${ totalFoldersCount } mappe)",
+        "Alle (${ totalFoldersCount } mapper)"
+      ],
+      "All (${ totalFoldersCount } label)": [
+        "Alle (${ totalFoldersCount } etiket)",
+        "Alle (${ totalFoldersCount } etiketter)"
+      ],
+      "An active recovery file": [
+        "En aktiv gendannelsesfil"
+      ],
+      "and": [
+        "og"
+      ],
+      "Anyone with this link can access your file.": [
+        "Alle med dette link kan få adgang til din fil."
+      ],
+      "Anyone with this link can access your folder.": [
+        "Alle med dette link kan få adgang til din mappe."
+      ],
+      "Are you sure you want to empty trash and permanently delete all the items?": [
+        "Er du sikker på, at du vil tømme papirkurven og slette alt indholdet permanent?"
+      ],
+      "Are you sure you want to permanently delete \"${ itemName }\" from trash?": [
+        "Er du sikker på, at du vil slette \"${ itemName }\" permanent fra papirkurv?"
+      ],
+      "Are you sure you want to permanently delete selected items from trash?": [
+        "Er du sikker på, at du ønsker at slette de valgte elementer permanent fra papirkurven?"
+      ],
+      "Because ${ appName } is end-to-end encrypted, we cannot access\nor decrypt your files for you. To unlock your drive after a password reset,\nyou must have one of the following:": [
+        "Fordi ${ appName } er end-to-end krypteret, kan vi ikke få adgang til eller dekryptere dine filer for dig. For at låse dit drev op efter en nulstilling af adgangskode, skal du have en af følgende:"
+      ],
+      "Before requesting a new verification code, check your spam folder and check that ${ strong } is the correct address.": [
+        "Før du anmoder om en ny bekræftelseskode, bør du tjekke din spam-mappe samt kontrollere, at ${ strong } er den korrekte adresse."
+      ],
+      "Canceled": [
+        "Annulleret"
+      ],
+      "Cannot remember your password? We can help you clear the encrypted data of all contacts encrypted with this key and in the process dismiss the alert.": [
+        "Kan du ikke huske din adgangskode? Vi kan hjælpe dig med at rydde de krypterede data for alle kontakter krypteret med denne nøgle og samtidig afmelde advarslen."
+      ],
+      "Checking contact ${ progress } of ${ max }...": [
+        "Tjekker kontakt ${ progress } af ${ max }..."
+      ],
+      "Checking signatures": [
+        "Kontrollerer signaturer"
+      ],
+      "Clear data": [
+        "Ryd data"
+      ],
+      "Clear encrypted search data": [
+        "Ryd krypterede søgedata"
+      ],
+      "Clearing browser data will clear the search index on this device. All files would need to be re-indexed again while using the search functionality.": [
+        "Ryddes browserdata, ryddes søgeindekset på denne enhed. Alle filer skal indekseres igen, når du bruger søgefunktionen."
+      ],
+      "Clears browser data related to the encrypted search.": [
+        "Rydder browserdata relateret til den krypterede søgning."
+      ],
+      "Click \"Request new code\" to have a new verification code sent to ${ strong }. If this phone number is incorrect, click \"Edit\" to correct it.": [
+        "Klik på \"Anmod om ny kode\" for at få en ny bekræftelseskode sendt til ${ strong }. Hvis dette telefonnummer er forkert, skal du klikke på \"Redigér\" for at rette det."
+      ],
+      "Close this screen to exit.": [
+        "Luk denne skærm for at afslutte."
+      ],
+      "Conflict": [
+        "Konflikt"
+      ],
+      "Continue using ${ appName } and unlock drive later": [
+        "Fortsæt med at bruge ${ appName } og lås op for drev senere"
+      ],
+      "Continue with ${ planName }": [
+        "Fortsæt med ${ planName }"
+      ],
+      "Create ${ calendarsToBeCreated } new calendar": [
+        "Opret ${ calendarsToBeCreated } ny kalender",
+        "Opret ${ calendarsToBeCreated } nye kalendere"
+      ],
+      "Create a label for the imported messages, a time range for this import, and the folders you would like to import.": [
+        "Opret et mærkat til de importerede beskeder, et tidsinterval for importen og de mapper du gerne vil importere."
+      ],
+      "Create a label for the imported messages, a time range for this import, and the labels you would like to import.": [
+        "Opret en etikette til de importerede beskeder, et tidsinterval for denne import og de etiketter, du gerne vil importere."
+      ],
+      "Create a new contact group": [
+        "Opret ny kontaktgruppe"
+      ],
+      "Create in": [
+        "Opret i"
+      ],
+      "Create links and share your files with others.": [
+        "Opret links og del dine filer med andre."
+      ],
+      "Create your first folder and start moving your files.": [
+        "Opret din første mappe og begynd at flytte dine filer."
+      ],
+      "Creating": [
+        "Opretter"
+      ],
+      "Creating link to file": [
+        "Opretter link til fil"
+      ],
+      "Creating link to folder": [
+        "Opretter link til mappe"
+      ],
+      "Creating share": [
+        "Opretter deling"
+      ],
+      "CSV files from Outlook, Outlook Express, Yahoo! Mail, Hotmail, Eudora and some other apps as well as vCard 3.1 and 4.0 formats (UTF-8 encoding) are supported.": [
+        "CSV-filer fra Outlook, Outlook Express, Yahoo! Mail, Hotmail, Eudora og nogle andre apps samt vCard 3.1 og 4.0-formater (UTF-8-kodning) understøttes."
+      ],
+      "Delete drive": [
+        "Slet drev",
+        "Slet drev"
+      ],
+      "Digital signature verified. This file was securely uploaded by ${ emailAddress }.": [
+        "Digital signatur verificeret. Denne fil blev uploaded sikkert af ${ emailAddress }."
+      ],
+      "Digital signature verified. This folder was securely uploaded by ${ emailAddress }.": [
+        "Digital signatur verificeret. Denne mappe blev uploaded sikkert af ${ emailAddress }."
+      ],
+      "Download of ${ downloadFileName } will be aborted": [
+        "Hentning af ${ downloadFileName } vil blive afbrudt"
+      ],
+      "Downloaded": [
+        "Downloadet"
+      ],
+      "Downloading": [
+        "Downloader"
+      ],
+      "Downloading items ${ esProgress } out of ${ totalProgressToShow }": [
+        "Downloader elementer ${ esProgress } ud af ${ totalProgressToShow }"
+      ],
+      "Drag and drop a file here or choose to upload.": [
+        "Træk og slip en fil her eller vælg at uploade."
+      ],
+      "Drop the file here to upload": [
+        "Slip filen her for at uploade"
+      ],
+      "Duplicate key updated": [
+        "Duplikeret nøgle opdateret"
+      ],
+      "Enable drive search": [
+        "Aktivér søgning på drev"
+      ],
+      "Encrypted search is here": [
+        "Nu med krypteret søgning"
+      ],
+      "Enter the verification code that was sent to ${ destinationText }.": [
+        "Indtast den bekræftelseskode, der blev sendt til ${ destinationText }."
+      ],
+      "Estimated time remaining: ${ estimatedMinutes } minute": [
+        "Anslået resterende tid: ${ estimatedMinutes } minut",
+        "Anslået resterende tid: ${ estimatedMinutes } minutter"
+      ],
+      "Estimated time remaining: Less than a minute": [
+        "Anslået resterende tid: Mindre end et minut"
+      ],
+      "Estimating time remaining...": [
+        "Estimerer resterende tid..."
+      ],
+      "Failed": [
+        "Mislykkedes"
+      ],
+      "Failed to generate a secure link. Try again later.": [
+        "Kunne ikke skabe et sikkert link. Prøv igen senere."
+      ],
+      "Failed to open a secure link. The reason is: ${ error }": [
+        "Kunne ikke åbne et sikkert link. Årsagen er: ${ error }"
+      ],
+      "File \"${ name }\" was deleted during download": [
+        "Filen \"${ name }\" blev slettet under download"
+      ],
+      "File is missing signature. We couldn’t verify that ${ emailAddress } uploaded ${ fileName }.": [
+        "Filen mangler sin signatur. Vi kunne ikke verficere at ${ emailAddress } uploadede ${ fileName }."
+      ],
+      "File is missing signature. We couldn’t verify who uploaded ${ fileName }.": [
+        "Filen mangler sin signatur. Vi kunne ikke verificere, hvem der uploadede ${ fileName }."
+      ],
+      "File will not be uploaded": [
+        "Fil vil ikke blive uploadet"
+      ],
+      "Finalizing": [
+        "Færdiggører"
+      ],
+      "Folder \"${ link.name }\" was deleted during download": [
+        "Mappe \"${ link.name }\" blev slettet under download"
+      ],
+      "Folder contents will merge into a single folder": [
+        "Mappeindhold vil blive flettet sammen til én enkelt mappe"
+      ],
+      "Folder is missing signature. We couldn’t verify that ${ emailAddress } uploaded ${ fileName }.": [
+        "Mappen mangler sin signatur. Vi kunne ikke verficere at ${ emailAddress } uploadede ${ fileName }."
+      ],
+      "Folder is missing signature. We couldn’t verify who uploaded ${ fileName }.": [
+        "Mappen mangler sin signatur. Vi kunne ikke verificere, hvem der uploadede ${ fileName }."
+      ],
+      "Folder will not be uploaded": [
+        "Mappen vil ikke blive uploadet"
+      ],
+      "Free up some space or add more storage space.": [
+        "Frigør noget plads eller tilføj mere lagerplads."
+      ],
+      "Free up some space or contact your administrator.": [
+        "Frigør noget plads eller kontakt din administrator."
+      ],
+      "Go to \"My files\" and upload some files first.": [
+        "Gå til \"Mine filer\" og upload nogle filer først."
+      ],
+      "Group assignment applied": [
+        "Gruppetildeling anvendt"
+      ],
+      "here": [
+        "her"
+      ],
+      "How does encrypted search work?": [
+        "Hvordan fungerer krypteret søgning?"
+      ],
+      "If you are having trouble creating your account, please request an invitation and we will respond within one business day.": [
+        "Hvis du har problemer med at oprette din konto, bedes du anmode om en invitation. Så vil vi svare inden for en arbejdsdag."
+      ],
+      "If you believe this is in error, please contact us ${ contactLink }.": [
+        "Hvis du mener dette er en fejltagelse, bedes du kontakte os ${ contactLink }."
+      ],
+      "If you don't find the email in your inbox, please check your spam folder.": [
+        "Hvis du ikke kan se e-mailen i din indbakke, bedes du tjekke din spammappe."
+      ],
+      "If you have one of these, continue to Proton account setting to\nstart the unblock process.": [
+        "Hvis du har en af disse, skal du fortsætte til Proton-kontoindstillingerne for at\nfortsætte processen med at fjerne spærringen."
+      ],
+      "Import ${ contactsFragment } and ${ contactsGroupsFragment }": [
+        "Importer ${ contactsFragment } og ${ contactsGroupsFragment }"
+      ],
+      "Import ${ selectedCalendarsCount } of ${ totalCalendarsCount } calendar": [
+        "Importer ${ selectedCalendarsCount } af ${ totalCalendarsCount } kalender",
+        "Importer ${ selectedCalendarsCount } af ${ totalCalendarsCount } kalendere"
+      ],
+      "Import from": [
+        "Importer fra"
+      ],
+      "Import in progress": [
+        "Import i gang"
+      ],
+      "Importing your data from ${ importedEmailAddress } to ${ toEmail }.": [
+        "Importerer dine data fra ${ importedEmailAddress } til ${ toEmail }."
+      ],
+      "Indexing search results…": [
+        "Indexerer søgeresultater…"
+      ],
+      "Inherited from parent folder": [
+        "Nedarvet fra overordnet mappe"
+      ],
+      "Initializing": [
+        "Initialiserer"
+      ],
+      "Internet connection lost": [
+        "Internetforbindelse mistet"
+      ],
+      "Internet connection lost. Please check your device's connectivity.": [
+        "Internetforbindelse tabt. Kontroller venligst din enheds forbindelse."
+      ],
+      "Internet connection restored.": [
+        "Internetforbindelse genoprettet."
+      ],
+      "Just confirm your selection and we'll do the rest.": [
+        "Du skal blot bekræfte dit valg, og så klarer vi resten."
+      ],
+      "Key fingerprint": [
+        "Nøglefingeraftryk"
+      ],
+      "Large imports can take several days.": [
+        "Store importer kan tage adskillige dage."
+      ],
+      "Learn more": [
+        "Få mere at vide"
+      ],
+      "Link copied to clipboard": [
+        "Link kopieret til udklipsholder"
+      ],
+      "Link expires: ": [
+        "Link udløber: "
+      ],
+      "Loading": [
+        "Indlæser"
+      ],
+      "Loading ${ appName }": [
+        "Indlæser ${ appName }"
+      ],
+      "Loading preview": [
+        "Indlæser forhåndsvisning"
+      ],
+      "Loading share": [
+        "Indlæser deling"
+      ],
+      "Merged": [
+        "Flettet"
+      ],
+      "More": [
+        "Flere"
+      ],
+      "Moving files": [
+        "Flytter filer"
+      ],
+      "My Links": [
+        "Mine Links"
+      ],
+      "Name your new folder and select the parent folder you want to put it in. If you do not select a parent folder, this new folder will be created as a top level folder.": [
+        "Navngiv din nye mappe og vælg den overordnede mappe, du vil placere den i. Hvis du ikke vælger en overordnet mappe, vil denne nye mappe blive oprettet som en topniveau-mappe."
+      ],
+      "Network issue": [
+        "Netværksproblem"
+      ],
+      "New": [
+        "Ny"
+      ],
+      "No": [
+        "Nej"
+      ],
+      "No contacts added yet": [
+        "Ingen kontakter tilføjet endnu"
+      ],
+      "No email address": [
+        "Ingen e-mailaddresse"
+      ],
+      "No files or folders in trash": [
+        "Ingen filer eller mapper i papirkurven"
+      ],
+      "No group found": [
+        "Ingen gruppe fundet"
+      ],
+      "No preview available": [
+        "Ingen forhåndsvisning tilgængelig"
+      ],
+      "No results found": [
+        "Ingen resultater fundet"
+      ],
+      "None of the uploaded keys are valid for encryption. Encryption is automatically disabled.": [
+        "Ingen af de uploadede nøgler er gyldige til kryptering. Kryptering er automatisk deaktiveret."
+      ],
+      "Not a valid URL": [
+        "Ikke en gyldig URL"
+      ],
+      "Note: Data may still be available locally on devices where you have installed ${ appName }.": [
+        "Bemærk: Data kan stadig være tilgængelige lokalt på enheder, hvor du har installeret ${ appName }."
+      ],
+      "of": [
+        "af"
+      ],
+      "One of your encrypted drives is locked. This is most likely due to a recent password reset.": [
+        "Et af dine krypterede drev er låst. Det skyldes sandsynligvis, at adgangskoden for nylig er blevet nulstillet."
+      ],
+      "One or more of your trusted keys were marked \"compromised\" by their owner. We recommend that you \"untrust\" these keys.": [
+        "En eller flere af dine betroede nøgler er blevet markeret som \"kompromitteret\" af deres ejer. Vi anbefaler, at du ikke længere har tillid til disse nøgler."
+      ],
+      "Only ${ MAX_CUSTOM_PASSWORD_LENGTH } characters is allowed": [
+        ""
+      ],
+      "Only change these settings if you are using PGP with non-${ BRAND_NAME } recipients.": [
+        "Ændr kun disse indstillinger, hvis du benytter PGP ifm. ikke-${ BRAND_NAME }-modtagere."
+      ],
+      "Only the people with the link and the password can access this file.": [
+        "Kun personer med linket og adgangskoden kan få adgang til denne fil."
+      ],
+      "Only the people with the link and the password can access this folder.": [
+        "Kun personer med linket og adgangskoden kan få adgang til denne mappe."
+      ],
+      "Other options": [
+        "Andre muligheder"
+      ],
+      "Paused": [
+        "Sat på pause"
+      ],
+      "Permanently delete all files in your drive": [
+        "Slet alle filer på dit drev permanent"
+      ],
+      "PGP/Inline is only compatible with Plain Text format. Please note that ${ MAIL_APP_NAME } always signs encrypted messages.": [
+        "PGP/Inline er kun kompatibelt med simpelt tekstformat. Bemærk at ${ MAIL_APP_NAME } altid signerer krypterede beskeder."
+      ],
+      "PGP/MIME automatically sends the message using the current composer mode. Please note that ${ MAIL_APP_NAME } always signs encrypted messages": [
+        "PGP/MIME sender automatisk beskeden vha. den aktuelle skrivetilstand. Bemærk at ${ MAIL_APP_NAME } altid signerer krypterede beskeder"
+      ],
+      "Please note that addresses assigned to this group will NOT be deleted.": [
+        "Bemærk venligst at adresser tildelt til denne gruppe IKKE vil blive slettet."
+      ],
+      "Please note that this process may take some time depending on the size of your address book.": [
+        "Bemærk at denne proces kan tage lidt tid afhængigt af størrelsen af din adressebog."
+      ],
+      "Please select the folders you would like to import:": [
+        "Vælg venligst de mapper, du ønsker at importere:"
+      ],
+      "Please select which email address or addresses to add to ${ groupCount } group.": [
+        "Vælg hvilken eller hvilke e-mail-adresser der skal tilføjes til ${ groupCount } gruppe.",
+        "Vælg hvilken eller hvilke e-mail-adresser der skal tilføjes til ${ groupCount } grupper."
+      ],
+      "Please select which email address or addresses to add to ${ groupName }.": [
+        "Vælg hvilken eller hvilke e-mail-adresser der skal føjes til ${ groupName }."
+      ],
+      "Please wait while we look for contacts that can be re-signed with the primary encryption key.": [
+        "Vent venligst mens vi leder efter kontakter, der kan gensigneres med den primære krypteringsnøgle."
+      ],
+      "Please wait while we look for contacts that contain data encrypted with the inactive key.": [
+        "Vent venligst mens vi leder efter kontakter, der indeholder data krypteret med den inaktive nøgle."
+      ],
+      "Preparing link to file": [
+        "Forbereder link til fil"
+      ],
+      "Preparing link to folder": [
+        "Forbereder link til mappe"
+      ],
+      "Preview": [
+        "Forhåndsvisning"
+      ],
+      "Primary": [
+        "Primær"
+      ],
+      "Priority support": [
+        "Prioriteret support"
+      ],
+      "Queued": [
+        "Sat i kø"
+      ],
+      "recommended browser": [
+        "anbefalet browser"
+      ],
+      "Recovery process might take some time.": [
+        "Gendannelsesprocessen kan tage noget tid."
+      ],
+      "Refreshing the page or ${ link } will automatically resolve most issues.": [
+        "Opfriskning af siden eller ${ link } vil automatisk løse de fleste problemer."
+      ],
+      "Report has been sent": [
+        "Anmeldelse sendt"
+      ],
+      "Search cannot be enabled in this browser": [
+        "Søgning kan ikke aktiveres i denne browser"
+      ],
+      "Select an uploaded file or folder and create a link to it.": [
+        "Vælg en uploadet fil eller mappe og opret et link til den."
+      ],
+      "Select the email format you want to be used by default when sending an email to this email address.": [
+        "Vælg det e-mail-format, der som standard skal benyttes, når du sender en e-mail til denne e-mailadresse."
+      ],
+      "Select what you want to move from Google.": [
+        "Vælg, hvad du vil overflytte fra Google."
+      ],
+      "Select which calendars to import. A new calendar will be created for each imported calendar up to the 20 calendars limit.": [
+        "Vælg, hvilke kalendere der skal importeres. Der oprettes en ny kalender for hver importeret kalender op til grænsen på 20 kalendere."
+      ],
+      "Servers are unreachable. Please try again in a few minutes": [
+        "Servere er utilgængelige. Prøv igen om nogle få minutter"
+      ],
+      "Session timed out": [
+        "Session er udløbet"
+      ],
+      "Setting up PGP allows you to send end-to-end encrypted emails with a non-${ BRAND_NAME } user that uses a PGP compatible service.": [
+        "Opsætning af PGP giver dig mulighed for at sende end-to-end krypterede e-mails til en ikke-${ BRAND_NAME } bruger, der benytter en PGP-kompatibel tjeneste."
+      ],
+      "Share files with links": [
+        "Del filer med links"
+      ],
+      "Signature check will be ignored": [
+        "Tjek af signatur ignoreres"
+      ],
+      "Signature issue": [
+        "Signatur problem"
+      ],
+      "Some of your files are no longer accessible. Restore the access to your files. ${ StartRecoveryButton }": [
+        "Nogle af dine filer er ikke længere tilgængelige. Gendan adgangen til dine filer. ${ StartRecoveryButton }"
+      ],
+      "Something went wrong, please try again later.": [
+        "Noget gik galt. Prøv igen senere."
+      ],
+      "Storage space is shared across ${ MAIL_APP_NAME }, ${ CALENDAR_APP_NAME }, and ${ DRIVE_APP_NAME }.": [
+        "Lagerplads er delt mellem ${ MAIL_APP_NAME }, ${ CALENDAR_APP_NAME }, og ${ DRIVE_APP_NAME }."
+      ],
+      "Support for 1 custom email domain": [
+        "Understøttelse af 1 brugerdefineret e-mail-domæne"
+      ],
+      "support team": [
+        "supportteam"
+      ],
+      "The account may have a new key, or the following may have been tampered with: ${ items }. Only open if you trust it.": [
+        "Kontoen kan have fået en ny nøgle, eller følgende kan være blevet manipuleret: ${ items }. Åbn kun, hvis du har tillid til den."
+      ],
+      "The application needs to locally decrypt your contacts before they can be exported. At the end of the process, a VCF file will be generated and you will be able to download it.": [
+        "Applikationen skal dekryptere dine kontakter lokalt, før de kan eksporteres. Ved afslutningen af processen vil en VCF-fil blive genereret, og du har mulighed for at downloade denne."
+      ],
+      "The following may have been tampered with: ${ items }. Only open if you trust it.": [
+        "Der kan være blevet manipuleret med følgende: ${ items }. Åbn kun, hvis du har tillid til den."
+      ],
+      "There are files that still need to be transferred. Closing the transfer manager will end all operations.": [
+        "Der er stadig filer, der skal overføres. Ved at lukke overførselsadministratoren afsluttes alle operationer."
+      ],
+      "There are no files yet": [
+        "Der er ingen filer endnu"
+      ],
+      "This account has been suspended due to a potential policy violation.": [
+        "Denne konto er blevet suspenderet på grund af en potentiel overtrædelse af politik."
+      ],
+      "This address is disabled. To be able to send to this address, the owner must first enable the address.": [
+        "Denne adresse er deaktiveret. Vil du kunne sende til denne adresse, skal ejeren først aktivere den."
+      ],
+      "This browser does not support previewing PDF documents. Please download the file.": [
+        "Denne browser understøtter ikke forhåndsvisning af PDF-dokumenter. Download venligst filen."
+      ],
+      "This link leads to a website that might be trying to steal your information, such as passwords and credit card details.": [
+        "Dette link fører til et websted, som måske forsøger at stjæle dine oplysninger, f.eks. adgangskoder og kreditkortoplysninger."
+      ],
+      "This link may be a homograph attack and cannot be opened by Internet Explorer and Edge browsers. If you are certain the link is legitimate, please use a different browser to open it.": [
+        "Dette link kan være et homografisk angreb og kan ikke åbnes af Internet Explorer og Edge browsere. Er du sikker på, at linket er legitimt, så benyt en anden browser til at åbne det."
+      ],
+      "This link may be a homograph attack. Please verify this is the link you wish to visit, or don't open it.": [
+        "Dette link kan være et homografisk angreb og kan ikke åbnes af Internet Explorer og Edge browsere. Tjek at dette faktisk er det link, du ønsker at besøge, eller undlad at åbne det."
+      ],
+      "This link was created in\na previous version and can not be modified. Delete this link and create a\nnew one to change the settings.": [
+        "Dette link blev oprettet i \nen tidligere version og kan ikke ændres. Slet dette link og opret et \nnyt for at ændre indstillingerne."
+      ],
+      "This link will be permanently disabled. No one with this link will be able to access your file. To reshare the file, you will need a new link.": [
+        "Dette link vil blive permanent deaktiveret. Ingen med dette link vil kunne tilgå din fil. For at gendele filen, skal du bruge et nyt link."
+      ],
+      "This link will be permanently disabled. No one with this link will be able to access your folder. To reshare the folder, you will need a new link.": [
+        "Dette link vil blive permanent deaktiveret. Ingen med dette link vil kunne tilgå din mappe. For at gendele mappen, skal du bruge et nyt link."
+      ],
+      "This will delete the link and remove access to your file or folder for anyone with the link.": [
+        "Dette vil slette linket og fjerne adgangen til din fil eller mappe for alle, der har linket.",
+        "Dette vil slette linkene og fjerne adgangen til dine file eller mapper for alle, der har linkene."
+      ],
+      "This will overwrite the existing file": [
+        "Dette vil overskrive den eksisterende fil"
+      ],
+      "This will overwrite the existing folder": [
+        "Dette vil overskrive den eksisterende mappe"
+      ],
+      "To enable truly private search ${ DRIVE_APP_NAME } needs to index your files locally.": [
+        "For at aktivere rigtig privat søgning skal ${ DRIVE_APP_NAME } indeksere dine filer lokalt."
+      ],
+      "To enable truly private search ${ DRIVE_APP_NAME } needs to index your files locally. You can still use ${ DRIVE_APP_NAME } normally - we’ll let you know when indexing is done.": [
+        "For at aktivere ægte privat søgning skal ${ DRIVE_APP_NAME } indeksere dine filer lokalt. Du kan stadig bruge ${ DRIVE_APP_NAME } som normalt - vi giver dig besked, når indekseringen er færdig."
+      ],
+      "To fight spam and abuse, please verify you are human.": [
+        "For at bekæmpe spam og misbrug bedes du bekræfte, at du er et menneske."
+      ],
+      "To re-sign your contacts, we need to check every contact against the list of encryption keys available in your account. If no match is found, your contact will be re-signed with the primary encryption key.": [
+        "For at gensignere dine kontaktpersoner, skal vi kontrollere alle kontaktpersoner mod listen over krypteringsnøgler på din konto. Hvis der ikke findes nogen match, vil din kontakt blive gensigneret med den primære krypteringsnøgle."
+      ],
+      "To recover your data, you need to re-activate the contact encryption key used at the time when the data was created. This will require you to remember the password used when the key was generated.": [
+        "For at gendanne dine data skal du genaktivere den kontakt-krypteringsnøgle, der anvendtes på det tidspunkt, hvor dataene blev oprettet. Dette vil kræve, at du husker den adgangskode, der blev brugt, da nøglen blev genereret."
+      ],
+      "To use Address Verification, you must trust one or more available public keys, including the one you want to use for sending. This prevents the encryption keys from being faked.": [
+        "For at bruge adressebekræftelse skal mindst én offentlig nøgle være betroet, herunder dén, der ønskes brugt til afsendelse. Dette forhindrer forfalskning af de kryptererede nøgler."
+      ],
+      "Transfer canceled for file \"${ name }\"": [
+        "Overførsel annulleret for fil \"${ name }\""
+      ],
+      "Transfer canceled for folder \"${ name }\"": [
+        "Overførsel annulleret for mappe \"${ name }\""
+      ],
+      "Transfer skipped for file \"${ file.name }\"": [
+        "Overførsel sprunget over for fil \"${ file.name }\""
+      ],
+      "Transfer skipped for folder \"${ folderName }\"": [
+        "Overførsel sprunget over for mappe \"${ folderName }\""
+      ],
+      "Trash": [
+        "Papirkurv"
+      ],
+      "Try different keywords": [
+        "Prøv forskellige nøgleord"
+      ],
+      "Unlimited folders, labels, and filters": [
+        "Ubegrænsede mapper, etiketter og filtre"
+      ],
+      "Unlimited messages": [
+        "Ubegrænset antal beskeder"
+      ],
+      "Unlock drive to recover files": [
+        "Lås drev op for at gendanne filer"
+      ],
+      "Unsupported file": [
+        "Ikke-understøttet fil"
+      ],
+      "Updating drive search...": [
+        "Opdaterer drevsøgning..."
+      ],
+      "Upgrade today to avoid losing the following ${ planName } benefits.": [
+        "Opgradér i dag for at undgå at miste følgende ${ planName }-fordele."
+      ],
+      "Uploaded": [
+        "Uploadet"
+      ],
+      "Uploading": [
+        "Uploader"
+      ],
+      "Uploading hundreds of files at once may have a performance impact.": [
+        "Upload af hundredvis af filer på én gang kan have en effekt på ydeevnen."
+      ],
+      "Use this form to notify us of inappropriate, illegal,\nor otherwise malicious shared files. You are about to report:": [
+        "Brug denne formular til at give os besked om upassende, ulovlige,\neller på anden måde skadelige delte filer. Du er ved at anmelde:"
+      ],
+      "We couldn’t verify that ${ emailAddress } uploaded ${ fileName }.": [
+        "Vi kunne ikke verficere at ${ emailAddress } uploadede ${ fileName }."
+      ],
+      "We couldn’t verify who uploaded ${ fileName }.": [
+        "Vi kunne ikke bekræfte, hvem der uploadede ${ fileName }."
+      ],
+      "We'll notify you when the import is done.": [
+        "Vi giver dig besked, når importen er færdig."
+      ],
+      "We'll send a new verification code to ${ strong }": [
+        "Vi vil sende en ny verifikationskode til ${ strong }"
+      ],
+      "We're moving! Join us at our new site: ${ link }.": [
+        "Vi flytter! Følg med os til vores nye hjemmeside: ${ link }."
+      ],
+      "Week": [
+        "Uge"
+      ],
+      "What do you want to do?": [
+        "Hvad vil du gøre?"
+      ],
+      "What would you like to do?": [
+        "Hvad vil du gerne gøre?"
+      ],
+      "Would you like to receive a new verification code or use an alternative verification method?": [
+        "Vil du gerne modtage en ny bekræftelseskode eller bruge en alternativ bekræftelsesmetode?"
+      ],
+      "Would you like to receive a new verification code?": [
+        "Ønsker du at modtage en ny verifikationskode?"
+      ],
+      "Would you like to restore your files?": [
+        "Ønsker du at gendanne dine filer?"
+      ],
+      "Yes": [
+        "Ja"
+      ],
+      "You are about to open another browser tab and visit:": [
+        "Du er ved at åbne en ny browserfane og besøge:"
+      ],
+      "You are currently signed in as ${ user.Name } (${ user.Email }).": [
+        "Du er i øjeblikket logget ind som ${ user.Name } (${ user.Email })."
+      ],
+      "You can also merge imported calendars with existing Proton calendars.": [
+        "Du kan også flette importerede kalendere med eksisterende Proton-kalendere."
+      ],
+      "You can check the progress ${ importProgressLink }.": [
+        "Du kan tjekke fremskridtet ${ importProgressLink }."
+      ],
+      "You can turn on notifications to get alerts when new email messages arrive in this folder.": [
+        "Du kan aktivere notifikationer for at blive underrettet, når nye e-mails ankommer i denne mappe."
+      ],
+      "You cannot undo this action.": [
+        "Du kan ikke fortryde denne handling."
+      ],
+      "You reached ${ spaceDisplayed }% of your storage capacity. ${ freeUpMessage } ${ upgradeLink }": [
+        "Du nåede ${ spaceDisplayed }% af din lagerkapacitet. ${ freeUpMessage } ${ upgradeLink }"
+      ],
+      "You reached 100% of your storage capacity. You cannot send or receive new emails. ${ freeUpMessage } ${ upgradeLink }": [
+        "Du har brugt 100% af din lagerkapacitet. Du kan ikke sende eller modtage nye e-mails. ${ freeUpMessage } ${ upgradeLink }"
+      ],
+      "You will lose all unsaved changes.": [
+        "Du vil miste alle ikke-gemte ændringer."
+      ],
+      "Your account has at least one overdue invoice. Your access has been restricted. ${ payInvoiceLink }": [
+        "Din konto har mindst én forfalden faktura. Din adgang er blevet begrænset. ${ payInvoiceLink }"
+      ],
+      "Your account has at least one overdue invoice. Your access will soon get restricted. ${ payInvoiceLink }": [
+        "Din konto har mindst én forfalden faktura. Din adgang vil snart blive begrænset. ${ payInvoiceLink }"
+      ],
+      "Your current browser does not support the downloading of large files due to the unavailability of service workers. Downloading large files may freeze or leave the browser unresponsive. Please use the latest versions of a ${ recommendedBrowser } and try again.": [
+        "Din nuværende browser understøtter ikke hentning af store filer på grund af manglende adgang til såkaldte service workers. Ved hentning af store filer kan browseren fryse eller holde op med at svare. Brug venligst de nyeste versioner af en ${ recommendedBrowser } og prøv igen."
+      ],
+      "Your data is ready to import from ${ importedEmailAddressStrong } to your Proton account.": [
+        "Dine data er klar til at blive importeret fra ${ importedEmailAddressStrong } til din Proton-konto."
+      ],
+      "Your download has been canceled.": [
+        "Dit download er blevet annulleret."
+      ],
+      "Your email will only be used for this one-time verification.": [
+        "Din e-mail vil kun blive brugt til denne engangsbekræftelse."
+      ],
+      "Your file failed to download.": [
+        "Din fil kunne ikke downloades."
+      ],
+      "Your file has finished downloading.": [
+        "Din fil er færdig med at downloade."
+      ],
+      "Your file is being downloaded.": [
+        "Din fil bliver downloadet."
+      ],
+      "Your files are no longer accessible due to a password reset. Re-upload the old encryption key to regain the access. ${ KeyReactivationButton }": [
+        "Dine filer er ikke længere tilgængelige på grund af en nulstilling af adgangskoden. Gen-upload den gamle krypteringsnøgle for at få adgang igen. ${ KeyReactivationButton }"
+      ],
+      "Your files will be encrypted and then saved.": [
+        "Dine filer vil blive krypteret og derefter gemt."
+      ],
+      "Your folder failed to download.": [
+        "Din mappe kunne ikke downloades."
+      ],
+      "Your folder has finished downloading.": [
+        "Din mappe er færdig med at downloade."
+      ],
+      "Your folder is being downloaded.": [
+        "Din mappe bliver downloadet."
+      ],
+      "Your phone number will only be used for this one-time verification.": [
+        "Dit telefonnummer vil kun blive anvendt til denne engangsbekræftelse."
+      ],
+      "Your previous password": [
+        "Din tidligere adgangskode"
+      ],
+      "Your previous recovery phrase": [
+        "Din tidligere gendannelsessætning"
+      ],
+      "Your Proton account is currently on hold. To continue using your account, please pay any overdue invoices.": [
+        "Din Proton-konto er i øjeblikket suspenderet. For at fortsætte med at bruge din konto bedes du betale eventuelle forfaldne fakturaer."
+      ],
+      "Your secure, shareable link for ${ boldNameText }": [
+        "Dit sikre, delbare link for ${ boldNameText }"
+      ]
+    },
+    "Info on errors": {
+      "Click for details": [
+        "Klik for detaljer"
+      ]
+    },
+    "Info, no need for singular": {
+      "Multiple contacts look identical. ${ mergeAction }": [
+        "Flere kontakter ser identiske ud. ${ mergeAction }"
+      ]
+    },
+    "Item": {
+      "file attributes": [
+        "filegenskaber"
+      ],
+      "file data": [
+        "fildata"
+      ],
+      "file data key": [
+        "fildatanøgle"
+      ],
+      "keys": [
+        "nøgler"
+      ],
+      "name": [
+        "navn"
+      ],
+      "name hash": [
+        "navne hash"
+      ],
+      "thumbnail": [
+        "miniature"
+      ]
+    },
+    "Key badge": {
+      "Compromised": [
+        "Kompromitteret"
+      ],
+      "Expired": [
+        "Udløbet"
+      ],
+      "Obsolete": [
+        "Forældet"
+      ],
+      "Primary": [
+        "Primær"
+      ],
+      "Revoked": [
+        "Tilbagekaldt"
+      ],
+      "Trusted": [
+        "Betroet"
+      ],
+      "WKD": [
+        "WKD"
+      ]
+    },
+    "Label": {
+      "# of accesses": [
+        "# af adgange"
+      ],
+      "(Expired)": [
+        "(Udløbet)"
+      ],
+      "(Temporarily unavailable. Please check back later.)": [
+        "(Midlertidigt utilgængelig. Tjek igen senere.)"
+      ],
+      "Add email address": [
+        "Tilføj e-mailadresse"
+      ],
+      "Add image URL": [
+        "Tilføj billed-URL"
+      ],
+      "Add to group": [
+        "Føj til gruppe"
+      ],
+      "Apply to all duplicated files": [
+        "Anvend på alle fildubletter"
+      ],
+      "Apply to all duplicated folders": [
+        "Anvend på alle dubletmapper"
+      ],
+      "Apply to all unverified items": [
+        "Anvend på alle uverificerede elementer"
+      ],
+      "Attach screenshot(s)": [
+        "Vedhæft skærmbillede(r)"
+      ],
+      "Audio file": [
+        "Lydfil"
+      ],
+      "Automatically save contacts": [
+        "Gem automatisk kontakter"
+      ],
+      "Browser": [
+        "Browser"
+      ],
+      "Browser version": [
+        "Browser-version"
+      ],
+      "Calendars": [
+        "Kalendere"
+      ],
+      "Cancel download": [
+        "Afbryd download"
+      ],
+      "Category": [
+        "Kategori"
+      ],
+      "Child sexual abuse material": [
+        "Indhold med seksuelt misbrug af børn"
+      ],
+      "City": [
+        "By"
+      ],
+      "Code is 6 digits without spaces": [
+        "Kode er på 6 cifre uden mellemrum"
+      ],
+      "Comment": [
+        "Kommentar"
+      ],
+      "Contacts": [
+        "Kontakter"
+      ],
+      "Copy": [
+        "Kopiér"
+      ],
+      "Copyright infringement": [
+        "Krænkelse af ophavsret"
+      ],
+      "Country": [
+        "Land"
+      ],
+      "Created": [
+        "Oprettet"
+      ],
+      "Delete": [
+        "Slet"
+      ],
+      "Delete drive?": [
+        "Slet drev?",
+        "Slet drev?"
+      ],
+      "Deleted": [
+        "Slettet"
+      ],
+      "Do not ask again": [
+        "Spørg ikke igen"
+      ],
+      "Download anyway": [
+        "Download alligevel"
+      ],
+      "Email": [
+        "E-mail"
+      ],
+      "Email address": [
+        "E-mailadresse"
+      ],
+      "Email format": [
+        "E-mailformattering"
+      ],
+      "Emails": [
+        "E-mails"
+      ],
+      "Enable Beta Access": [
+        "Aktivér beta-adgang"
+      ],
+      "Enabling drive search": [
+        "Aktivér søgning på drev"
+      ],
+      "Encrypt emails": [
+        "Kryptér e-mails"
+      ],
+      "Expired": [
+        "Udløbet"
+      ],
+      "Expires": [
+        "Udløber"
+      ],
+      "Export contacts": [
+        "Eksportér kontakter"
+      ],
+      "Extended address": [
+        "Udvidet adresse"
+      ],
+      "File": [
+        "Fil"
+      ],
+      "File name": [
+        "Filnavn"
+      ],
+      "Folder": [
+        "Mappe"
+      ],
+      "Folder location": [
+        "Mappeplacering"
+      ],
+      "Folder name": [
+        "Mappenavn"
+      ],
+      "From: ${ importedEmail }": [
+        "Fra: ${ importedEmail }"
+      ],
+      "Get your own ${ appName }": [
+        "Få din egen ${ appName }"
+      ],
+      "Hide password": [
+        "Skjul adgangskode"
+      ],
+      "I understand the risk": [
+        "Jeg er indforstået med risikoen"
+      ],
+      "Image": [
+        "Billede"
+      ],
+      "Import all messages": [
+        "Importer alle beskeder"
+      ],
+      "Import contacts": [
+        "Importér kontakter"
+      ],
+      "Import interval": [
+        "Importinterval"
+      ],
+      "Import to email address": [
+        "Importer til e-mailadresse"
+      ],
+      "Label messages as": [
+        "Giv beskeder etiketten"
+      ],
+      "Last 12 months only": [
+        "Kun seneste 12 måneder"
+      ],
+      "Last 3 months only": [
+        "Kun seneste 3 måneder"
+      ],
+      "Last month only": [
+        "Kun seneste måned"
+      ],
+      "Mailbox password": [
+        "Postkasseadgangskode"
+      ],
+      "Malware": [
+        "Malware"
+      ],
+      "Manage folders": [
+        "Administrer mapper"
+      ],
+      "Manage labels": [
+        "Administrer etiketter"
+      ],
+      "Merge a folder": [
+        "Flet en mappe"
+      ],
+      "Modified": [
+        "Ændret"
+      ],
+      "Name": [
+        "Navn"
+      ],
+      "Never": [
+        "Aldrig"
+      ],
+      "Notification": [
+        "Notifikation"
+      ],
+      "Operating system": [
+        "Operativsystem"
+      ],
+      "Operating system version": [
+        "Operativsystemversion"
+      ],
+      "Other": [
+        "Andet"
+      ],
+      "Password": [
+        "Adgangskode"
+      ],
+      "PGP scheme": [
+        "PGP-metode"
+      ],
+      "Phone number": [
+        "Telefonnummer"
+      ],
+      "Please provide full details to help us take appropriate action": [
+        "Angiv venligst alle oplysninger for at hjælpe os med at træffe passende foranstaltninger"
+      ],
+      "Post office box": [
+        "Postboks"
+      ],
+      "Postal code": [
+        "Postnummer"
+      ],
+      "Protect with password": [
+        "Beskyt med adgangskode"
+      ],
+      "Proton username": [
+        "Proton-brugernavn"
+      ],
+      "Public keys": [
+        "Offentlige nøgler"
+      ],
+      "Region": [
+        "Region"
+      ],
+      "Replace file": [
+        "Erstat fil"
+      ],
+      "Replace folder": [
+        "Erstat mappe"
+      ],
+      "Report Abuse": [
+        "Anmeld misbrug"
+      ],
+      "Reveal password": [
+        "Afslør adgangskode"
+      ],
+      "Select type of abuse": [
+        "Vælg type af misbrug"
+      ],
+      "Set expiration date": [
+        "Angiv en udløbsdato"
+      ],
+      "Sign emails": [
+        "Signér e-mails"
+      ],
+      "Size": [
+        "Størrelse"
+      ],
+      "Skip file": [
+        "Spring fil over"
+      ],
+      "Skip folder": [
+        "Spring mappe over"
+      ],
+      "Spam": [
+        "Spam"
+      ],
+      "Stolen data": [
+        "Stjålne data"
+      ],
+      "Street address": [
+        "Adresse"
+      ],
+      "System information": [
+        "Systemoplysninger"
+      ],
+      "Text": [
+        "Tekst"
+      ],
+      "This will permanently delete all files in your locked drive.": [
+        "Dette vil slette alle filer på dit låste drev permanent."
+      ],
+      "To: ${ emailAddress }": [
+        "Til: ${ emailAddress }"
+      ],
+      "Two-factor authentication code": [
+        "To-faktor-godkendelseskode"
+      ],
+      "Type": [
+        "Type"
+      ],
+      "Unknown file": [
+        "Ukendt fil"
+      ],
+      "Unlock drive": [
+        "Lås drev op"
+      ],
+      "Unlock drive (recommended)": [
+        "Lås drev op (anbefales)"
+      ],
+      "Unlock later": [
+        "Lås op senere"
+      ],
+      "Upload anyway": [
+        "Upload alligevel"
+      ],
+      "Upload picture": [
+        "Upload billed"
+      ],
+      "Username or ${ MAIL_APP_NAME } address": [
+        "Brugernavn eller ${ MAIL_APP_NAME } adresse"
+      ],
+      "Verification code": [
+        "Bekræftelseskode"
+      ],
+      "Video file": [
+        "Videofil"
+      ],
+      "What happened?": [
+        "Hvad skete der?"
+      ],
+      "Yes, I want to permanently delete\nmy old files": [
+        "Ja, jeg ønsker at slette\nmine gamle filer permanent"
+      ]
+    },
+    "Label for contact group color": {
+      "Color": [
+        "Farve"
+      ]
+    },
+    "Label for contact group name": {
+      "Name": [
+        "Navn"
+      ]
+    },
+    "Label/folder modal": {
+      "Create folder": [
+        "Opret mappe"
+      ],
+      "Create label": [
+        "Opret etikette"
+      ],
+      "Edit folder": [
+        "Redigér mappe"
+      ],
+      "Edit label": [
+        "Redigér etikette"
+      ]
+    },
+    "label/folder notification": {
+      "${ Label.Name } created": [
+        "${ Label.Name } oprettet"
+      ]
+    },
+    "Link": {
+      "clearing your browser cache": [
+        "rydder din browser-cache"
+      ],
+      "Go to subscription plans": [
+        "Gå til abonnementer"
+      ],
+      "Learn more": [
+        "Få mere at vide"
+      ],
+      "Pay invoice": [
+        "Betal faktura"
+      ],
+      "Request an invite": [
+        "Anmod om en invitation"
+      ],
+      "Shared": [
+        "Delt"
+      ],
+      "Trash": [
+        "Papirkurv"
+      ],
+      "Upgrade": [
+        "Opgradér"
+      ],
+      "Upgrade account": [
+        "Opgradér konto"
+      ]
+    },
+    "Loading info": {
+      "Almost there": [
+        "Næsten færdig"
+      ],
+      "Amount of calendars created: ${ createdCalendars } out of ${ calendarsToBeCreated }": [
+        "Antal oprettede kalendere: ${ createdCalendars } ud af ${ calendarsToBeCreated }"
+      ],
+      "Creating new calendars": [
+        "Opretter nye kalendere"
+      ],
+      "Gathering your data": [
+        "Indsamler dine data"
+      ],
+      "We're gathering your data from your provider": [
+        "Vi indsamler dine data fra din udbyder"
+      ],
+      "Your import is starting": [
+        "Din import starter"
+      ]
+    },
+    "Mail import summary": {
+      "Import all messages from ${ selectedLabelsCount } out of ${ totalLabelsCount } label since ${ periodFragment } and label them as ${ LABEL_MARKUP_PLACEHOLDER }": [
+        "Importer alle beskeder fra ${ selectedLabelsCount } ud af ${ totalLabelsCount } etikette siden ${ periodFragment } og giv dem etiketten ${ LABEL_MARKUP_PLACEHOLDER }",
+        "Importer alle beskeder fra ${ selectedLabelsCount } ud af ${ totalLabelsCount } etiketter siden ${ periodFragment } og giv dem etiketten ${ LABEL_MARKUP_PLACEHOLDER }"
+      ],
+      "Import all messages from ${ totalLabelsCount } label since ${ periodFragment } and label them as ${ LABEL_MARKUP_PLACEHOLDER }": [
+        "Importer alle beskeder fra ${ totalLabelsCount } etiketten siden ${ periodFragment } og giv dem etiketten ${ LABEL_MARKUP_PLACEHOLDER }",
+        "Importer alle beskeder fra ${ totalLabelsCount } etiketter siden ${ periodFragment } og giv dem etiketten ${ LABEL_MARKUP_PLACEHOLDER }"
+      ]
+    },
+    "Message": {
+      "Your free trial has ended. Access to your account will soon be disabled. ${ action }": [
+        "Din gratis prøveperiode er afsluttet. Adgang til din konto vil snart blive deaktiveret. ${ action }"
+      ]
+    },
+    "Message display when a new app version is available": {
+      "A new version of ${ appName } is available. ${ reloadButton }.": [
+        "En ny version af ${ appName } er tilgængelig. ${ reloadButton }."
+      ]
+    },
+    "MIME type": {
+      "Automatic": [
+        "Automatisk"
+      ],
+      "Plain text": [
+        "Simpel tekst"
+      ]
+    },
+    "New Label form": {
+      "Color": [
+        "Farve"
+      ],
+      "Folder name": [
+        "Mappenavn"
+      ],
+      "Label name": [
+        "Etikettenavn"
+      ]
+    },
+    "new_plans: action": {
+      "Switch or add account": [
+        "Skift eller tilføj konto"
+      ]
+    },
+    "new_plans: info": {
+      "Introducing Proton’s refreshed look.${ br } Many services, one mission. Welcome to an internet where privacy is the default.": [
+        "Vi præsenterer Proton's nye udseende.${ br } Mange tjenester, én mission. Velkommen til et internet, hvor privatlivsbeskyttelse er standard."
+      ]
+    },
+    "new_plans: title": {
+      "Updated Proton, unified protection": [
+        "Opdateret Proton, forenet beskyttelse"
+      ]
+    },
+    "Notification": {
+      "\"${ name }\" created successfully": [
+        "\"${ name }\" oprettet"
+      ],
+      "\"${ name }\" deleted permanently from trash": [
+        "\"${ name }\" permanent slettet fra papirkurven"
+      ],
+      "\"${ name }\" failed to be created": [
+        "\"${ name }\" kunne ikke oprettes"
+      ],
+      "\"${ name }\" failed to be deleted permanently from trash": [
+        "\"${ name }\" kunne ikke slettes permanent fra papirkurven"
+      ],
+      "\"${ name }\" failed to be moved": [
+        "\"${ name }\" kunne ikke flyttes"
+      ],
+      "\"${ name }\" failed to be moved to trash": [
+        "\"${ name }\" kunne ikke flyttes til papirkurv"
+      ],
+      "\"${ name }\" failed to be restored from trash": [
+        "\"${ name }\" kunne ikke gendannes fra papirkurv"
+      ],
+      "\"${ name }\" moved to trash": [
+        "\"${ name }\" flyttet til papirkurv"
+      ],
+      "\"${ name }\" restored from trash": [
+        "\"${ name }\" gendannet fra papirkurv"
+      ],
+      "\"${ name }\" successfully moved": [
+        "\"${ name }\" blev flyttet"
+      ],
+      "\"${ newName }\" failed to be renamed": [
+        "\"${ newName }\" kunne ikke omdøbes"
+      ],
+      "\"${ newName }\" renamed successfully": [
+        "\"${ newName }\" omdøbt"
+      ],
+      "${ count } item failed to be decrypted": [
+        "${ count } element kunne ikke dekrypteres",
+        "${ count } elementer kunne ikke dekrypteres"
+      ],
+      "${ numberOfItems } item deleted permanently from trash": [
+        "${ numberOfItems } element permanent slettet fra papirkurven",
+        "${ numberOfItems } elementer permanent slettet fra papirkurven"
+      ],
+      "${ numberOfItems } item failed to be deleted permanently from trash": [
+        "${ numberOfItems } element kunne ikke fjernes permanent fra papirkurven",
+        "${ numberOfItems } elementer kunne ikke fjernes permanent fra papirkurven"
+      ],
+      "${ numberOfItems } item failed to be moved": [
+        "${ numberOfItems } element kunne ikke flyttes",
+        "${ numberOfItems } elementer kunne ikke flyttes"
+      ],
+      "${ numberOfItems } item failed to be moved to trash": [
+        "${ numberOfItems } element kunne ikke flyttes til papirkurven",
+        "${ numberOfItems } elementer kunne ikke flyttes til papirkurven"
+      ],
+      "${ numberOfItems } item failed to be restored from trash": [
+        "${ numberOfItems } element kunne ikke gendannes fra papirkurv",
+        "${ numberOfItems } elementer kunne ikke gendannes fra papirkurv"
+      ],
+      "${ numberOfItems } item moved to trash": [
+        "${ numberOfItems } element flyttet til papirkurv",
+        "${ numberOfItems } elementer flyttet til papirkurv"
+      ],
+      "${ numberOfItems } item restored from trash": [
+        "${ numberOfItems } element gendannet fra papirkurv",
+        "${ numberOfItems } elementer gendannet fra papirkurv"
+      ],
+      "${ numberOfItems } item successfully moved": [
+        "${ numberOfItems } element flyttet",
+        "${ numberOfItems } elementer flyttet"
+      ],
+      "${ numberOfItems } link to your item failed to be deleted": [
+        "${ numberOfItems } link til dit element kunne ikke slettes",
+        "${ numberOfItems } links til dine elementer kunne ikke slettes"
+      ],
+      "${ numberOfItems } link to your item was deleted": [
+        "${ numberOfItems } link til dit element blev slettet",
+        "${ numberOfItems } links til dine elementer blev slettet"
+      ],
+      "All items will soon be permanently deleted from trash": [
+        "Alle elementer slettes snart permanent fra papirkurven"
+      ],
+      "Contact group created": [
+        "Kontaktgruppe oprettet"
+      ],
+      "Contact group updated": [
+        "Kontaktgruppe opdateret"
+      ],
+      "Encrypted search activated": [
+        "Krypteret søgning aktiveret"
+      ],
+      "Failed to download files: ${ err }": [
+        "Kunne ikke uploade filer: ${ err }"
+      ],
+      "Failed to move, please try again": [
+        "Flytning mislykkedes. Forsøg venligst igen"
+      ],
+      "Failed to upload files: ${ err }": [
+        "Kunne ikke uploade filer: ${ err }"
+      ],
+      "File or folder \"${ filename }\" and ${ count } other are already uploading": [
+        "Fil eller mappe \"${ filename }\" og ${ count } anden uploader allerede",
+        "Fil eller mappe \"${ filename }\" og ${ count } andre uploader allerede"
+      ],
+      "File or folder \"${ filename }\" is already uploading": [
+        "Fil eller mappe \"${ filename }\" uploader allerede"
+      ],
+      "File or folder is missing a name": [
+        "Der mangler et navn på en fil eller mappe"
+      ],
+      "Item failed to be verified": [
+        "Element kunne ikke verificeres"
+      ],
+      "Link failed to be loaded": [
+        "Link kunne ikke indlæses"
+      ],
+      "Move ${ itemsToMoveCount } file": [
+        "Flyt ${ itemsToMoveCount } fil",
+        "Flyt ${ itemsToMoveCount } filer"
+      ],
+      "Move ${ itemsToMoveCount } folder": [
+        "Flyt ${ itemsToMoveCount } mappe",
+        "Flyt ${ itemsToMoveCount } mapper"
+      ],
+      "Move ${ itemsToMoveCount } item": [
+        "Flyt ${ itemsToMoveCount } element",
+        "Flyt ${ itemsToMoveCount } elementer"
+      ],
+      "Move ${ movingCount } file": [
+        "Flyt ${ movingCount } fil",
+        "Flyt ${ movingCount } filer"
+      ],
+      "Move ${ movingCount } folder": [
+        "Flyt ${ movingCount } mappe",
+        "Flyt ${ movingCount } mapper"
+      ],
+      "Move ${ movingCount } item": [
+        "Flyt ${ movingCount } element",
+        "Flyt ${ movingCount } elementer"
+      ],
+      "Next page failed to be loaded": [
+        "Næste side kunne ikke indlæses"
+      ],
+      "Not enough space to upload ${ formattedTotal }": [
+        "Ikke nok plads til at uploade ${ formattedTotal }"
+      ],
+      "Root folder failed to be loaded": [
+        "Rodmappe kunne ikke indlæses"
+      ],
+      "Subfolder failed to be loaded": [
+        "Undermappe kunne ikke indlæses"
+      ],
+      "The link to \"${ name }\" failed to be deleted": [
+        "Linket til \"${ name }\" kune ikke slettes"
+      ],
+      "The link to \"${ name }\" was deleted": [
+        "Linket til \"${ name }\" blev slettet"
+      ],
+      "The link to your item failed to be deleted": [
+        "Linket til dit element kunne ikke slettes"
+      ],
+      "The link to your item was deleted": [
+        "Linket til dit element blev slettet"
+      ],
+      "Trash failed to be emptied": [
+        "Papirkurv kunne ikke tømmes"
+      ],
+      "Your old files will be deleted in 72 hours": [
+        "Dine gamle filer vil blive slettet om 72 timer"
+      ],
+      "Your settings failed to be saved": [
+        "Dine indstillinger kunne ikke gemmes"
+      ],
+      "Your settings have been changed successfully": [
+        "Dine indstillinger er blevet ændret"
+      ]
+    },
+    "Oauth instructions": {
+      "Next you'll need to sign in to your Google account and grant Proton access to your data.": [
+        "Derefter skal du logge ind på din Google-konto og give Proton adgang til dine data."
+      ]
+    },
+    "Oauth instructions video": {
+      "For the import to work, you must select all requested items as shown in the GIF.": [
+        "For at importen kan fungere, skal du vælge alle de ønskede elementer som vist i GIF-illustrationen."
+      ]
+    },
+    "Onboarding Action": {
+      "Enable Beta Access": [
+        "Aktiver Betaadgang"
+      ],
+      "Next": [
+        "Næste"
+      ],
+      "Start using ${ appName }": [
+        "Begynd at bruge ${ appName }"
+      ],
+      "Upgrade account": [
+        "Opgrader konto"
+      ]
+    },
+    "Onboarding Info": {
+      "${ appName } is currently in early access and only available to users with a paid plan.": [
+        "${ appName } er i øjeblikket i 'tidlig adgang' og er kun tilgængelig for brugere med et betalt abonnement."
+      ],
+      "${ appName } is currently only available if you enable Beta Access.": [
+        "${ appName } er i øjeblikket kun tilgængelig, hvis du aktiverer betaadgang."
+      ],
+      "Your trusty online vault for vital documents and precious memories.": [
+        "Din pålidelige online boks til vigtige dokumenter og dyrebare minder."
+      ]
+    },
+    "Onboarding Proton": {
+      "Configure your organization, link your domain name, and create accounts to ensure all members of your organization are protected.": [
+        "Konfigurer din organisation, link dit domænenavn og opret konti for at sikre, at alle medlemmer af din organisation er beskyttet."
+      ],
+      "Discover all Proton services": [
+        "Udforsk alle Proton-tjenester"
+      ],
+      "Select a theme": [
+        "Vælg et tema"
+      ],
+      "Set up your organization": [
+        "Konfigurer din organisation"
+      ],
+      "Use the app selector in the top left to access other Proton services, including VPN, Calendar and Drive.": [
+        "Brug app-vælgeren øverst til venstre for at få adgang til andre Proton-tjenester, herunder VPN, kalender og drev."
+      ],
+      "You can change this anytime in your settings.": [
+        "Du kan altid ændre dette i dine indstillingerne."
+      ]
+    },
+    "Onboarding Title": {
+      "${ appName } is in Beta": [
+        "${ appName } er i Beta"
+      ],
+      "Upgrade to access ${ appName }": [
+        "Opgrader for at få adgang til ${ appName }"
+      ],
+      "Welcome to ${ appName }": [
+        "Velkommen til ${ appName }"
+      ]
+    },
+    "Option": {
+      "Add to existing group": [
+        "Føj til eksisterende gruppe"
+      ],
+      "Create new group": [
+        "Opret ny gruppe"
+      ],
+      "Ignore group": [
+        "Ignorer gruppe"
+      ],
+      "No parent folder": [
+        "Ingen overordnet mappe"
+      ]
+    },
+    "Option group label": {
+      "Create new calendar": [
+        "Opret ny kalender"
+      ],
+      "Merge with calendar": [
+        "Flet med kalender"
+      ]
+    },
+    "PGP key encryption warning": {
+      "Key cannot be used for encryption": [
+        "Nøgle kan ikke benyttes til kryptering"
+      ]
+    },
+    "PGP Key info": {
+      "${ emailAddress } has marked this key as compromised. This key cannot be used neither for encryption nor for signature verification.": [
+        "${ emailAddress } har markeret denne nøgle som kompromitteret. Denne nøgle kan ikke bruges hverken til kryptering eller til signaturkontrol."
+      ],
+      "${ emailAddress } has marked this key as obsolete. This key can only be used for signature verification.": [
+        "${ emailAddress } har markeret denne nøgle som forældet. Denne nøgle kan kun bruges til signaturkontrol."
+      ],
+      "We recommend that you \"untrust\" this key.": [
+        "Vi anbefaler, at du ikke længere har tillid til denne nøgle."
+      ]
+    },
+    "PGP key warning": {
+      "Email address not found among user ids defined in sending key (${ keyUserIds })": [
+        "E-mailadresse ikke fundet blandt bruger-id'er defineret i afsendelsesnøgle (${ keyUserIds })"
+      ]
+    },
+    "Placeholder": {
+      "A way to contact you": [
+        "En måde at kontakte dig på"
+      ],
+      "E.g., ": [
+        "F.eks., "
+      ],
+      "Enter a new folder name": [
+        "Indtast et nyt mappenavn"
+      ],
+      "Enter your email address": [
+        "Indtast din e-mailadresse"
+      ],
+      "Filter groups": [
+        "Filtrér grupper"
+      ],
+      "Image URL": [
+        "Billed-URL"
+      ],
+      "Mailbox password": [
+        "Postkasseadgangskode"
+      ],
+      "Name": [
+        "Navn"
+      ],
+      "New name": [
+        "Nyt navn"
+      ],
+      "Password": [
+        "Adgangskode"
+      ],
+      "Please describe the problem and include any error messages": [
+        "Beskriv problemet og medtag evt. fejlmeddelelser"
+      ],
+      "Search for group name": [
+        "Søg efter gruppenavn"
+      ],
+      "Search for name or email": [
+        "Søg efter navn eller e-mail"
+      ],
+      "Select": [
+        "Vælg"
+      ],
+      "Start typing an email address": [
+        "Begynd at indtaste en e-mailadresse"
+      ]
+    },
+    "Placeholder for contact group name": {
+      "Name": [
+        "Navn"
+      ]
+    },
+    "Progress bar description": {
+      "${ contactsExported.length } out of ${ countContacts } contacts successfully exported.": [
+        "${ contactsExported.length } af i alt ${ countContacts } kontakter blev eksporteret."
+      ],
+      "${ model.deleted.length } out of ${ totalBeDeleted } contact successfully deleted.": [
+        "${ model.deleted.length } af i alt ${ totalBeDeleted } kontakt blev slettet.",
+        "${ model.deleted.length } af i alt ${ totalBeDeleted } kontakter blev slettet."
+      ],
+      "${ model.submitted.length } out of ${ totalBeMerged } contact successfully merged.": [
+        "${ model.submitted.length } af i alt ${ totalBeMerged } kontakt blev flettet.",
+        "${ model.submitted.length } af i alt ${ totalBeMerged } kontakter blev flettet."
+      ],
+      "No contacts exported.": [
+        "Ingen kontakter eksporteret."
+      ],
+      "No contacts merged.": [
+        "Ingen kontakter flettet."
+      ],
+      "Progress: ${ combinedProgress }%": [
+        "Fremskridt: ${ combinedProgress }%"
+      ]
+    },
+    "Property type": {
+      "Address": [
+        "Adresse"
+      ],
+      "Email": [
+        "E-mail"
+      ],
+      "Fax": [
+        "Fax"
+      ],
+      "Home": [
+        "Privat"
+      ],
+      "Main": [
+        "Primær"
+      ],
+      "Mobile": [
+        "Mobil"
+      ],
+      "Other": [
+        "Andet"
+      ],
+      "Pager": [
+        "Personsøger"
+      ],
+      "Phone": [
+        "Telefon"
+      ],
+      "Work": [
+        "Arbejde"
+      ]
+    },
+    "Refresh on apply warning": {
+      "Note: the service will reload after you click the Apply button.": [
+        "Bemærk: Tjenesten vil genindlæse, når du klikker på Anvend-knappen."
+      ]
+    },
+    "Select files": {
+      "Upload": [
+        "Upload"
+      ]
+    },
+    "Spotlight": {
+      "Encrypted search is here": [
+        "Nu med krypteret søgning"
+      ],
+      "Get up to 18 months of ${ planName } for free": [
+        "Få op til 18 måneder med ${ planName } gratis"
+      ],
+      "Invite friends and earn rewards!": [
+        "Inviter venner, og optjen belønninger!"
+      ],
+      "Now you can easily search Drive files while keeping your data secure.": [
+        "Nu kan du nemt søge i Drive-filer, mens dine data forbliver sikre."
+      ]
+    },
+    "Storage": {
+      "Release notes": [
+        "Udgivelsesnoter"
+      ],
+      "Upgrade storage": [
+        "Opgradér lagerplads"
+      ],
+      "Your current storage:": [
+        "Din aktuelle lagerplads:"
+      ]
+    },
+    "Success": {
+      "Address copied to clipboard": [
+        "Adresse kopieret til udklipsholder"
+      ],
+      "Bug reported": [
+        "Fejl anmeldt"
+      ],
+      "Code sent to ${ methodTo }": [
+        "Kode sendt til ${ methodTo }"
+      ],
+      "Contact deleted": [
+        "Kontakt slettet",
+        "Kontakter slettet"
+      ],
+      "Contact group deleted": [
+        "Kontaktgruppe slettet",
+        "Kontaktgrupper slettet"
+      ],
+      "Contact saved": [
+        "Kontakt er gemt"
+      ],
+      "Contacts deleted": [
+        "Kontakter slettet"
+      ],
+      "Email address copied to clipboard": [
+        "E-mailadresse kopieret til udklipsholder"
+      ],
+      "Fingerprint copied to clipboard": [
+        "Fingeraftryk kopieret til udklipsholder"
+      ],
+      "Phone number copied to clipboard": [
+        "Telefonnummer kopieret til udklipsholder"
+      ],
+      "Preference saved": [
+        "Præferencer gemt"
+      ],
+      "Preferences saved": [
+        "Præferencer gemt"
+      ],
+      "Recovery has started": [
+        "Gendannelse er påbegyndt"
+      ],
+      "The link to your file was successfully copied": [
+        "Linket til din fil blev kopieret korrekt"
+      ],
+      "Verification successful": [
+        "Bekræftelse gennemført"
+      ]
+    },
+    "Suffix for price": {
+      "/month": [
+        "/måned"
+      ]
+    },
+    "Table header": {
+      "Action": [
+        "Handling"
+      ],
+      "Actions": [
+        "Handlinger"
+      ],
+      "Address": [
+        "Adresse"
+      ],
+      "Created": [
+        "Oprettet"
+      ],
+      "Expires": [
+        "Udløber"
+      ],
+      "Fingerprint": [
+        "Fingeraftryk"
+      ],
+      "Name": [
+        "Navn"
+      ],
+      "Status": [
+        "Status"
+      ],
+      "Type": [
+        "Type"
+      ]
+    },
+    "TableHeader": {
+      "# of accesses": [
+        "# af adgange"
+      ],
+      "Actions": [
+        "Handlinger"
+      ],
+      "Address": [
+        "E-mail"
+      ],
+      "Created": [
+        "Oprettet"
+      ],
+      "CSV field": [
+        "CSV-felt"
+      ],
+      "Deleted": [
+        "Slettet"
+      ],
+      "Expires": [
+        "Udløber"
+      ],
+      "Import": [
+        "Import"
+      ],
+      "Location": [
+        "Placering"
+      ],
+      "Modified": [
+        "Ændret"
+      ],
+      "Name": [
+        "Navn"
+      ],
+      "Size": [
+        "Størrelse"
+      ],
+      "Uploaded": [
+        "Uploadet"
+      ],
+      "Values": [
+        "Værdier"
+      ],
+      "vCard field": [
+        "vCard-felt"
+      ]
+    },
+    "Text": {
+      "Introducing the updated Proton.": [
+        "Vi præsenterer det opdaterede Proton."
+      ],
+      "More services, one privacy mission.": [
+        "Flere tjenester, én mission om privatlivsbeskyttelse."
+      ],
+      "Settings": [
+        "Indstillinger"
+      ]
+    },
+    "Time period": {
+      "account creation date": [
+        "oprettelsesdato for konto"
+      ],
+      "the last 12 months": [
+        "de sidste 12 måneder"
+      ],
+      "the last 3 months": [
+        "de sidste 3 måneder"
+      ],
+      "the last month": [
+        "den sidste måned"
+      ]
+    },
+    "Time unit": {
+      "${ hours } hour": [
+        "${ hours } time",
+        "${ hours } timer"
+      ],
+      "${ minutes } minute": [
+        "${ minutes } minut",
+        "${ minutes } minutter"
+      ]
+    },
+    "Title": {
+      "# of accesses": [
+        "# af adgange"
+      ],
+      "${ emailsCount } member": [
+        "${ emailsCount } medlem",
+        "${ emailsCount } medlemmer"
+      ],
+      "Account suspended": [
+        "Konto suspenderet"
+      ],
+      "Active": [
+        "Aktiv"
+      ],
+      "Add contact group name": [
+        "Tilføj kontaktgruppenavn"
+      ],
+      "Add to ${ groupCount } group": [
+        "Føj til ${ groupCount } gruppe",
+        "Føj til ${ groupCount } grupper"
+      ],
+      "Add to ${ groupName }": [
+        "Føj til ${ groupName }"
+      ],
+      "Additional settings": [
+        "Yderligere indstillinger"
+      ],
+      "Addresses": [
+        "Adresser"
+      ],
+      "All": [
+        "Alle"
+      ],
+      "Back": [
+        "Tilbage"
+      ],
+      "Beta Access": [
+        "Beta-adgang"
+      ],
+      "Browser might run out of memory": [
+        "Browseren løber måske tør for hukommelse"
+      ],
+      "Change layout": [
+        "Skift layout"
+      ],
+      "Clearing data": [
+        "Rydder data"
+      ],
+      "Completed": [
+        "Fuldført"
+      ],
+      "Contact details": [
+        "Kontaktdetaljer"
+      ],
+      "Contact Details": [
+        "Kontaktoplysninger"
+      ],
+      "Contact group": [
+        "Kontaktgruppe"
+      ],
+      "Contacts": [
+        "Kontakter"
+      ],
+      "Create a new folder": [
+        "Opret ny mappe"
+      ],
+      "Create contact": [
+        "Opret kontakt"
+      ],
+      "Create new group": [
+        "Opret ny gruppe"
+      ],
+      "Currency": [
+        "Valuta"
+      ],
+      "Customize and confirm": [
+        "Tilpas og bekræft"
+      ],
+      "Customize calendar import": [
+        "Tilpas kalender-import"
+      ],
+      "Customize your mail import": [
+        "Tilpas din mail-import"
+      ],
+      "Date": [
+        "Date"
+      ],
+      "Delete ${ count } contact": [
+        "Slet ${ count } kontakt",
+        "Slet ${ count } kontakter"
+      ],
+      "Delete ${ count } contact group": [
+        "Slet ${ count } kontaktgruppe",
+        "Slet ${ count } kontaktgrupper"
+      ],
+      "Delete ${ Name }": [
+        "Slet ${ Name }"
+      ],
+      "Delete permanently": [
+        "Slet permanent"
+      ],
+      "Deleting contacts": [
+        "Sletter kontakter"
+      ],
+      "Discard": [
+        "Kassér"
+      ],
+      "Discard changes?": [
+        "Kassér ændringer?"
+      ],
+      "Download canceled": [
+        "Download annulleret"
+      ],
+      "Download completed": [
+        "Download fuldført"
+      ],
+      "Download failed": [
+        "Download mislykkedes"
+      ],
+      "Download unverified file?": [
+        "Hent ubekræftet fil?"
+      ],
+      "Download unverified folder?": [
+        "Hent ubekræftet mappe?"
+      ],
+      "Downloading": [
+        "Downloader"
+      ],
+      "Drive": [
+        "Drev"
+      ],
+      "Drop to upload": [
+        "Slip for at uploade"
+      ],
+      "Duplicate file found": [
+        "Dublet af fil fundet"
+      ],
+      "Duplicate folder found": [
+        "Dublet af mappe fundet"
+      ],
+      "Edit contact": [
+        "Redigér kontakt"
+      ],
+      "Edit contact group": [
+        "Redigér kontaktgruppe"
+      ],
+      "Edit image": [
+        "Redigér billede"
+      ],
+      "Email addresses": [
+        "E-mailadresser"
+      ],
+      "Email settings": [
+        "E-mailindstillinger"
+      ],
+      "Email settings (${ emailAddress })": [
+        "E-mailindstillinger (${ emailAddress })"
+      ],
+      "Empty trash": [
+        "Tøm Papirkurv"
+      ],
+      "Enable drive search": [
+        "Aktiver søgning på drev"
+      ],
+      "Enter password to download": [
+        "Indtast adgangskode for at downloade"
+      ],
+      "Enter your password": [
+        "Indtast din adgangskode"
+      ],
+      "Enter your username or ${ MAIL_APP_NAME } email address": [
+        "Indtast dit brugernavn eller ${ MAIL_APP_NAME } e-mailadresse"
+      ],
+      "Exporting contacts": [
+        "Eksporterer kontakter"
+      ],
+      "Failed": [
+        "Mislykkedes"
+      ],
+      "File details": [
+        "Fildetaljer"
+      ],
+      "File recovery process": [
+        "Filgendannelse fremskridt"
+      ],
+      "Files details": [
+        "Filens detaljer"
+      ],
+      "Folder details": [
+        "Mappedetaljer"
+      ],
+      "Folders details": [
+        "Mappedetaljer"
+      ],
+      "Found ${ searchView.numberOfResults } result": [
+        "Fandt ${ searchView.numberOfResults } resultat",
+        "Fandt ${ searchView.numberOfResults } resultater"
+      ],
+      "Groups": [
+        "Grupper"
+      ],
+      "Human verification": [
+        "Menneskelig bekræftelse"
+      ],
+      "Import contacts": [
+        "Importér kontakter"
+      ],
+      "Import groups": [
+        "Importer grupper"
+      ],
+      "Invalid verification code": [
+        "Ugyldig bekræftelseskode"
+      ],
+      "Items details": [
+        "Elementdetaljer"
+      ],
+      "Link confirmation": [
+        "Linkbekræftelse"
+      ],
+      "Location": [
+        "Placering"
+      ],
+      "Manage secure link": [
+        "Administrer sikkert link"
+      ],
+      "Manage share": [
+        "Administrer deling"
+      ],
+      "Merge contacts": [
+        "Flet kontakter"
+      ],
+      "Merging contacts": [
+        "Fletter kontakter"
+      ],
+      "MIME type": [
+        "MIME-type"
+      ],
+      "Modified": [
+        "Ændret"
+      ],
+      "My files": [
+        "Mine filer"
+      ],
+      "My files ${ date }.zip": [
+        "Mine filer ${ date }.zip"
+      ],
+      "Name": [
+        "Navn"
+      ],
+      "No results found": [
+        "Ingen resultater fundet"
+      ],
+      "Number of files": [
+        "Antal filer"
+      ],
+      "Number of folders": [
+        "Antal mapper"
+      ],
+      "Number of items": [
+        "Antal elementer"
+      ],
+      "Open actions dropdown": [
+        "Åbn handlingsrullemenu"
+      ],
+      "Open help menu": [
+        "Åbn hjælpemenu"
+      ],
+      "Open settings menu": [
+        "Åbn indstillingsmenu"
+      ],
+      "Other information": [
+        "Anden information"
+      ],
+      "Other names": [
+        "Andre navne"
+      ],
+      "Performance might be affected": [
+        "Ydeevnen kan blive påvirket"
+      ],
+      "Phone numbers": [
+        "Telefonnumre"
+      ],
+      "Re-sign all contacts": [
+        "Gensignér alle kontakter"
+      ],
+      "Re-signing contacts": [
+        "Gensignering af kontakter"
+      ],
+      "Recover data": [
+        "Gendan data"
+      ],
+      "Rename a file": [
+        "Omdøb en fil"
+      ],
+      "Rename a folder": [
+        "Omdøb en mappe"
+      ],
+      "Report a problem": [
+        "Anmeld et problem"
+      ],
+      "Request new code": [
+        "Anmod om ny kode"
+      ],
+      "Restore your files": [
+        "Gendan dine filer"
+      ],
+      "Search results": [
+        "Søgeresultater"
+      ],
+      "Searching…": [
+        "Søger…"
+      ],
+      "Select a theme": [
+        "Vælg et tema"
+      ],
+      "Select action to take on contact group": [
+        "Vælg handling for kontaktgruppe"
+      ],
+      "Select contact group": [
+        "Vælg kontaktgruppe"
+      ],
+      "Select link expiration date": [
+        "Vælg link-udløbsdato"
+      ],
+      "Select link expiration time": [
+        "Vælg link-udløbstid"
+      ],
+      "Settings": [
+        "Indstillinger"
+      ],
+      "Share via link": [
+        "Del via link"
+      ],
+      "Shared": [
+        "Delt"
+      ],
+      "Show actions": [
+        "Vis handlinger"
+      ],
+      "Sign in again to continue": [
+        "Log ind igen for at fortsætte"
+      ],
+      "Sign in and grant access": [
+        "Log ind og giv adgang"
+      ],
+      "Size": [
+        "Størrelse"
+      ],
+      "Sort files/folders": [
+        "Sorter filer/mapper"
+      ],
+      "Stop sharing": [
+        "Stop deling"
+      ],
+      "Stop sharing with everyone?": [
+        "Stop deling med alle?"
+      ],
+      "Stop transfers?": [
+        "Stop overførsler?"
+      ],
+      "The file or folder failed to be downloaded": [
+        "Filen eller mappen kunne ikke downloades"
+      ],
+      "The internet connection was interrupted": [
+        "Internetforbindelsen blev afbrudt"
+      ],
+      "The link does not exist": [
+        "Linket eksisterer ikke"
+      ],
+      "The link either does not exist or has expired": [
+        "Linket findes enten ikke eller er udløbet"
+      ],
+      "The link failed to be loaded": [
+        "Linket kunne ikke indlæses"
+      ],
+      "This file has a missing or invalid signature. Go to Menu (⋮) → Details for info.": [
+        "Denne fil har en manglende eller ugyldig signatur. Gå til Menu (⋮) → Detaljer for info."
+      ],
+      "This folder has a missing or invalid signature. Go to Menu (⋮) → Details for info.": [
+        "Denne mappe har en manglende eller ugyldig signatur. Gå til Menu (⋮) → Detaljer for info."
+      ],
+      "Total size": [
+        "Samlet størrelse"
+      ],
+      "Trash": [
+        "Papirkurv"
+      ],
+      "Type": [
+        "Type"
+      ],
+      "Upgrade required": [
+        "Opgradering påkrævet"
+      ],
+      "Uploaded": [
+        "Uploadet"
+      ],
+      "Uploaded by": [
+        "Uploadet af"
+      ],
+      "View contacts": [
+        "Vis kontakter"
+      ],
+      "Warning": [
+        "Advarsel"
+      ],
+      "Warning: suspected fake website": [
+        "Advarsel: mistanke om falsk websted"
+      ],
+      "What would you like to import?": [
+        "Hvad ønsker du at importere?"
+      ],
+      "What's new": [
+        "Nyheder"
+      ],
+      "You have inaccessible files": [
+        "Du har utilgængelige filer"
+      ],
+      "You have no files to share": [
+        "Du har ingen filer at dele"
+      ],
+      "You have no folders yet": [
+        "Du har ingen mapper endnu"
+      ],
+      "Your file is ready to be downloaded": [
+        "Din fil er klar til download"
+      ],
+      "Your folder is ready to be downloaded": [
+        "Din mappe er klar til download"
+      ],
+      "Your free trial ends soon, on ${ formattedEndDate }": [
+        "Din gratis prøveperiode udløber snart, ${ formattedEndDate }"
+      ]
+    },
+    "Today icon tooltip in mini calendar": {
+      "Today": [
+        "I dag"
+      ]
+    },
+    "Tooltip": {
+      "Automatic indicates that the format in the composer is used to send to this user. Plain text indicates that the message will always be converted to plain text on send.": [
+        "Automatisk betyder, at formatet i skrivevinduet benyttes ved afsendelse til denne bruger. Simpel tekst indikerer, at beskeden altid konverteres til simpel tekst ved afsendelsen."
+      ],
+      "Digitally signing emails helps authenticating that messages are sent by you": [
+        "Digital signering af e-mails hjælper med at bekræfte, at beskeder er sendt af dig"
+      ],
+      "Each imported email will have this label": [
+        "Hver importeret e-mail vil have denne etiket"
+      ],
+      "Email encryption forces email signature to help authenticate your sent messages": [
+        "E-mailkryptering gennemtvinger e-mailsignatur som hjælp til godkendelse af dine sendte beskeder"
+      ],
+      "Encrypted data": [
+        "Krypterede data"
+      ],
+      "Encrypted data with verified digital signature": [
+        "Krypterede data med bekræftet digital underskrift"
+      ],
+      "Select the PGP scheme to be used when signing or encrypting to a user. Note that PGP/Inline forces plain text messages": [
+        "Vælg den PGP-metode, der skal benyttes, når du signerer eller krypterer til en bruger. Bemærk at PGP/Inline gennemtvinger beskeder i simpel tekst"
+      ],
+      "System subfolders will show up as separate folders in ${ MAIL_APP_NAME }": [
+        "Systemundermapper vises som separate mapper i ${ MAIL_APP_NAME }"
+      ],
+      "The import will start with the most recent messages.": [
+        "Importen vil starte med de seneste beskeder."
+      ],
+      "Upload a public key to enable sending end-to-end encrypted emails to this email": [
+        "Upload en offentlig nøgle for at aktivere afsendelse af end-to-end krypterede e-mails til denne e-mail"
+      ],
+      "You do not have any contacts to export": [
+        "Du har ingen kontakter at eksportere"
+      ]
+    },
+    "Validation": {
+      "Password must contain at least ${ length } character": [
+        "Adgangskode skal indeholde mindst ${ length } tegn",
+        "Adgangskode skal indeholde mindst ${ length } tegn"
+      ]
+    },
+    "Validation Error": {
+      "\"${ str }\" is not a valid name": [
+        "\"${ str }\" er ikke et gyldigt navn"
+      ],
+      "Name cannot include invisible characters, / or \\.": [
+        "Navn kan ikke indeholde usynlige tegn, / eller \\."
+      ],
+      "Name must be ${ MAX_NAME_LENGTH } characters long at most": [
+        "Navnet skal være på højst ${ MAX_NAME_LENGTH } tegn"
+      ],
+      "Name must not be empty": [
+        "Navn må ikke være tomt"
+      ],
+      "Name must not begin with a space": [
+        "Navn må ikke begynde med et mellemrum"
+      ],
+      "Name must not end with a space": [
+        "Navn må ikke slutte med et mellemrum"
+      ]
+    },
+    "Video control": {
+      "Click to replay the video": [
+        "Klik for at afspille videoen"
+      ],
+      "Replay video": [
+        "Afspil video"
+      ]
+    },
+    "Warning": {
+      "Are you sure you want to permanently delete ${ count } contact group?": [
+        "Er du sikker på, at du vil slette ${ count } kontaktgruppe permanent?",
+        "Er du sikker på, at du vil slette ${ count } kontaktgrupper permanent?"
+      ],
+      "Are you sure you want to permanently delete ${ count } contact?": [
+        "Er du sikker på, at du vil slette ${ count } kontakt permanent?",
+        "Er du sikker på, at du vil slette ${ count } kontakter permanent?"
+      ],
+      "Are you sure you want to permanently delete this contact group?": [
+        "Er du sikker på, at du vil slette denne kontaktgruppe permanent?"
+      ],
+      "Are you sure you want to permanently delete this contact?": [
+        "Er du sikker på, at du vil slette denne kontakt permanent?"
+      ],
+      "Contacts could not be merged": [
+        "Kontakter kunne ikke flettes"
+      ],
+      "If you don’t remember your password, it is impossible to re-activate your key. We can help you dismiss the alert banner but in the process you will permanently lose access to all the data encrypted with that key.": [
+        "Hvis du ikke kan huske din adgangskode, er det umuligt at genaktivere din nøgle. Vi kan hjælpe dig med at afvise advarselsbanneret, men i processen vil du permanent miste adgang til alle de data, der er krypteret med den nøgle."
+      ],
+      "Live chat is a premium feature available only to those with paid ${ VPN_APP_NAME } plans. Please open a ticket instead.": [
+        "Live chat er en premium-funktion, der kun er tilgængelig for dem, der har betalte ${ VPN_APP_NAME }-abonnementer. Åbn venligst en sag i stedet."
+      ],
+      "Proton will merge all folders with the same name. To avoid this, change the names before import.": [
+        "Proton vil sammenflette alle mapper med det samme navn. For at undgå dette, skal du ændre navnene før importen."
+      ],
+      "Reports are not end-to-end encrypted, please do not send any sensitive information.": [
+        "Fejlrapporter er ikke end-to-end krypterede. Send derfor ikke følsomme oplysninger."
+      ],
+      "Some of the contacts to be merged display errors. Please review them individually": [
+        "Nogle af de kontakter, som skal flettes, udviser fejl. Gennemgå dem individuelt"
+      ],
+      "The contact data is corrupted and cannot be displayed.": [
+        "Kontaktdata er beskadiget og kan ikke vises."
+      ],
+      "The contact failed to load.": [
+        "Kontakten kunne ikke indlæses."
+      ],
+      "The date and time settings on your device are out of sync. ${ learnMore }": [
+        "Dato- og tidsindstillingerne på din enhed er ikke synkroniseret. ${ learnMore }"
+      ],
+      "The decryption of the encrypted content failed.": [
+        "Dekrypteringen af det krypterede indhold mislykkedes."
+      ],
+      "The verification of the contact details' signature failed.": [
+        "Verifikationen af kontaktdetaljernes signatur mislykkedes."
+      ],
+      "This action is irreversible. Please enter the word ${ boldDanger } in the field to proceed.": [
+        "Denne handling er irreversibel. Indtast ordet ${ boldDanger } i feltet for at fortsætte."
+      ],
+      "This feature requires a paid Proton account": [
+        "Denne funktion kræver en betalt Proton-konto"
+      ],
+      "Unfortunately, we’re not online at the moment. Please complete the form below to describe your issue, and we will look into it and be in touch when we’re back online.": [
+        "Vi er desværre ikke online i øjeblikket. Udfyld venligst formularen nedenfor for at beskrive dit problem. Så vil vi se på det og vende tilbage, når vi er tilbage online."
+      ],
+      "You will lose any customization you made so far.": [
+        "Du vil miste enhver tilpasning, du har foretaget indtil videre."
+      ],
+      "Your free trial ends on ${ textDate }. ${ action }": [
+        "Din gratis prøveperiode udløber den ${ textDate }. ${ action }"
+      ]
+    }
+  }
+}
