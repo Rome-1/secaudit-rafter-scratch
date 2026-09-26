@@ -1,0 +1,75 @@
+$def with (page)
+
+$var title: $page.name
+
+$ can_add_tag = ctx.user and (ctx.user.is_admin())
+$ has_tag = 'tag' in page
+$ q = query_param('q')
+
+<div id="scrollHere"></div>
+<div class="page-heading-search-box">
+    $if can_add_tag:
+      <div class="subjectTagEdit">
+        $ link_url = "%s/-/edit?redir=%s" % (page.tag.key, ctx.path) if has_tag else "/tag/add?name=%s&redir=%s&tag_type=%s" % (page.name, ctx.path, page.subject_type)
+        $ link_cta = _("Edit")
+        $ elem_title = _("Edit tag for this subject") if has_tag else _("Create tag for this subject")
+        $ link_track = "CTAClick|SubjectPageTagEdit"
+        <a
+          class="editTagButton"
+          href="$link_url"
+          title="$elem_title"
+          data-ol-link-track="$link_track"
+          accesskey="e"
+          rel="nofollow"
+        >$link_cta</a>
+      </div>
+    <h1 class="inline">
+        $page.name
+    </h1>
+    <span class="heading">
+        <span class="count" id="coversCount">
+            <strong><span><a href="/search?$page.subject_type=$page.name.replace('&','%26')" title="$_('See all works')">$ungettext("%(count)d work", "%(count)d works", page.work_count, count=page.work_count)</a></span></strong>
+        </span>
+    </span>
+    $if has_tag:
+      <p class="tag-description" itemprop="description">
+        $:format(sanitize(page.tag['tag_description']))
+      </p>
+    <a href="#search" class="shift">$_("Search for books with subject %(name)s.", name=page.name)</a>
+
+    <form action="/search" class="olform pagesearchbox">
+      $:render_template("search/searchbox", q=q)
+      <input type="hidden" name="${page.subject_type}_facet" value="$page.name"/>
+    </form>
+    $if 'disambiguations' in page:
+        <div class="disambiguations">
+            <h3>$_("Disambiguations")</h3>
+            <ul>
+                $for i in page.disambiguations:
+                    <li>
+                        <a href="$i.subject_key">$i.name ($i.tag_type)</a>
+                    </li>
+            </ul>
+        </div>
+</div>
+<div class="contentBody">
+    $if has_tag:
+      $:format(sanitize(page.tag.body))
+    $code:
+      load_more = {
+        "q": page.key,
+        "queryType": "SUBJECTS",
+        "limit": len(page.works)
+      }
+    $:render_template("books/custom_carousel", books=page.works, load_more=load_more)
+    $:macros.PublishingHistory(page.publishing_history)
+
+    <div class="clearfix"></div>
+    $:macros.RelatedSubjects(page)
+
+    <div class="clearfix"></div>
+    $:macros.ProlificAuthors(page.authors)
+
+    <div class="spacer"></div>
+    <div class="section clearfix"></div>
+</div>
