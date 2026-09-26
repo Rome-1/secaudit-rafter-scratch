@@ -1,0 +1,5361 @@
+{
+  "headers": {
+    "plural-forms": "nplurals=2; plural=(n != 1);",
+    "language": "tr_TR"
+  },
+  "contexts": {
+    "Action": {
+      "${ BRAND_NAME } introduction": [
+        "${ BRAND_NAME } tanıtımı"
+      ],
+      "${ BRAND_NAME } shop": [
+        "${ BRAND_NAME } mağazası"
+      ],
+      "Activate recovery": [
+        "Kurtarmayı etkinleştir"
+      ],
+      "Add": [
+        "Ekle"
+      ],
+      "Add address": [
+        "Adres ekle"
+      ],
+      "Add contact": [
+        "Kişi ekle"
+      ],
+      "Add email": [
+        "E-posta ekle"
+      ],
+      "Add group": [
+        "Grup ekle"
+      ],
+      "Add new contact": [
+        "Yeni kişi ekle"
+      ],
+      "Add new group": [
+        "Yeni grup ekle"
+      ],
+      "Add notification": [
+        "Bildirim ekle"
+      ],
+      "Add phone number": [
+        "Telefon numarası ekle"
+      ],
+      "Add to group": [
+        "Gruba ekle"
+      ],
+      "Apply": [
+        "Uygula"
+      ],
+      "Attach screenshot(s)": [
+        "Ekran görüntüsü ekle"
+      ],
+      "Back": [
+        "Geri"
+      ],
+      "Beta Access": [
+        "Beta erişimi"
+      ],
+      "Cancel": [
+        "İptal"
+      ],
+      "Chat with us": [
+        "Bizimle canlı görüşün"
+      ],
+      "Check import progress": [
+        "İçe aktarma ilerlemesine bakın"
+      ],
+      "Choose a file or drag it here": [
+        "Bir dosya seçin ya da sürükleyip buraya bırakın"
+      ],
+      "Clear data": [
+        "Verileri temizle"
+      ],
+      "Clear query": [
+        "Sorguyu temizle"
+      ],
+      "Click here.": [
+        "Buraya tıklayın."
+      ],
+      "Close": [
+        "Kapat"
+      ],
+      "Close event popover": [
+        "Etkinlik açılan penceresini kapat"
+      ],
+      "Close modal": [
+        "Pencereyi kapat"
+      ],
+      "Close navigation": [
+        "Gezinmeyi kapat"
+      ],
+      "Close this banner": [
+        "Bu uyarıyı kapat"
+      ],
+      "Compose": [
+        "Oluştur"
+      ],
+      "Confirm": [
+        "Onayla"
+      ],
+      "Confirm opening of link ${ linkToShow }": [
+        "${ linkToShow } bağlantısını açmayı onaylayın"
+      ],
+      "Contact group": [
+        "Kişi grubu"
+      ],
+      "Continue": [
+        "Devam et"
+      ],
+      "Continue import": [
+        "İçe aktarmaya devam et"
+      ],
+      "Continue with Google": [
+        "Google ile devam et"
+      ],
+      "Copy email to clipboard": [
+        "E-postayı panoya kopyala"
+      ],
+      "Create a new contact group": [
+        "Yeni bir kişi grubu oluştur"
+      ],
+      "Create calendar": [
+        "Takvim oluştur"
+      ],
+      "Create event": [
+        "Etkinlik oluştur"
+      ],
+      "Customize": [
+        "Özelleştir"
+      ],
+      "Delete": [
+        "Sil"
+      ],
+      "Delete ${ selectedCount } contact": [
+        "${ selectedCount } kişiyi sil",
+        "${ selectedCount } kişiyi sil"
+      ],
+      "Delete ${ selectedCount } contact group": [
+        "${ selectedCount } kişi grubunu sil",
+        "${ selectedCount } kişi grubunu sil"
+      ],
+      "Delete contact": [
+        "Kişiyi sil"
+      ],
+      "Delete contact group": [
+        "Kişi grubunu sil"
+      ],
+      "Deselect all": [
+        "Tümünü bırak"
+      ],
+      "Didn't receive the code?": [
+        "Doğrulama kodunu almadınız mı?"
+      ],
+      "Discard": [
+        "Yok say"
+      ],
+      "Done": [
+        "Tamam"
+      ],
+      "Download": [
+        "İndir"
+      ],
+      "Edit": [
+        "Düzenle"
+      ],
+      "Edit email address": [
+        "E-posta adresini düzenle"
+      ],
+      "Edit label": [
+        "Etiketi düzenle"
+      ],
+      "Edit phone number": [
+        "Telefon numarasını düzenle"
+      ],
+      "Edit sign-in details": [
+        "Oturum açma bilgilerini düzenle"
+      ],
+      "Email settings": [
+        "E-posta ayarları"
+      ],
+      "enable desktop notifications": [
+        "masaüstü bildirimlerini etkinleştir"
+      ],
+      "Export": [
+        "Dışa aktar"
+      ],
+      "Export contact group": [
+        "Kişi grubunu dışa aktar"
+      ],
+      "Export contacts": [
+        "Kişileri dışa aktar"
+      ],
+      "Forward as attachment": [
+        "Ek olarak ilet"
+      ],
+      "Get started": [
+        "Başlayalım"
+      ],
+      "Get verification code": [
+        "Doğrulama kodu al"
+      ],
+      "Go to label": [
+        "Etikete git"
+      ],
+      "Go to panel ${ index }": [
+        "${ index } panosuna git"
+      ],
+      "Go to settings": [
+        "Ayarlara git"
+      ],
+      "Got it": [
+        "Anladım"
+      ],
+      "Hide advanced PGP settings": [
+        "Gelişmiş PGP ayarlarını gizle"
+      ],
+      "Hide folders": [
+        "Klasörleri gizle"
+      ],
+      "Hide labels": [
+        "Etiketleri gizle"
+      ],
+      "Hide time zones": [
+        "Saat dilimlerini gizle"
+      ],
+      "I have a question": [
+        "Bir sorum var"
+      ],
+      "import": [
+        "içe aktar"
+      ],
+      "Import": [
+        "İçe aktar"
+      ],
+      "Import events": [
+        "Etkinlikleri içe aktar"
+      ],
+      "Import from .csv or vCard": [
+        ".csv ya da vCard dosyasından içe aktar"
+      ],
+      "Load image": [
+        "Görsel yükle"
+      ],
+      "Log in": [
+        "Oturum aç"
+      ],
+      "Make this participant optional": [
+        "Bu katılımcı isteğe bağlı olsun"
+      ],
+      "Make this participant required": [
+        "Bu katılımcı zorunlu olsun"
+      ],
+      "Mark for deletion": [
+        "Silmek için işaretle"
+      ],
+      "Maybe": [
+        "Belki"
+      ],
+      "Maybe I'll attend": [
+        "Belki katılacağım"
+      ],
+      "Merge": [
+        "Birleştir"
+      ],
+      "Merge contacts": [
+        "Kişileri birleştir"
+      ],
+      "More info: ${ safeTitle }": [
+        "Ayrıntılı bilgi: ${ safeTitle }"
+      ],
+      "More options": [
+        "Diğer seçenekler"
+      ],
+      "New event": [
+        "Yeni etkinlik"
+      ],
+      "Next": [
+        "İleri"
+      ],
+      "Next day": [
+        "Sonraki gün"
+      ],
+      "Next month": [
+        "Sonraki ay"
+      ],
+      "Next week": [
+        "Sonraki hafta"
+      ],
+      "Next year": [
+        "Sonraki yıl"
+      ],
+      "No": [
+        "Hayır"
+      ],
+      "No, I won't attend": [
+        "Hayır, katılmayacağım"
+      ],
+      "OK": [
+        "Tamam"
+      ],
+      "Open navigation": [
+        "Gezinmeyi aç"
+      ],
+      "Preview contact": [
+        "Kişiyi ön izle"
+      ],
+      "Previous day": [
+        "Önceki gün"
+      ],
+      "Previous month": [
+        "Önceki ay"
+      ],
+      "Previous week": [
+        "Önceki hafta"
+      ],
+      "Previous year": [
+        "Önceki yıl"
+      ],
+      "Quit": [
+        "Çıkış"
+      ],
+      "Re-sign": [
+        "Yeniden imzala"
+      ],
+      "Recover data": [
+        "Verileri kurtar"
+      ],
+      "Refer a friend": [
+        "Arkadaşınıza önerin"
+      ],
+      "refresh the page": [
+        "sayfayı yenile"
+      ],
+      "Refresh the page": [
+        "Sayfayı yenile"
+      ],
+      "Remove": [
+        "Sil"
+      ],
+      "Remove this notification": [
+        "Bu bildirimi kaldır"
+      ],
+      "Remove this participant": [
+        "Bu katılımcıyı kaldır"
+      ],
+      "Rename": [
+        "Yeniden adlandır"
+      ],
+      "Report a problem": [
+        "Bir sorun bildireceğim"
+      ],
+      "Request a feature": [
+        "Bir özellik istiyorum"
+      ],
+      "Request new code": [
+        "Yeni kod iste"
+      ],
+      "Save": [
+        "Kaydet"
+      ],
+      "Select all": [
+        "Tümünü seç"
+      ],
+      "Select timezone": [
+        "Saat dilimini seçin"
+      ],
+      "Send": [
+        "Gönder"
+      ],
+      "Set recovery phrase": [
+        "Kurtarma ifadesini ayarla"
+      ],
+      "Share": [
+        "Paylaş"
+      ],
+      "Show advanced PGP settings": [
+        "Gelişmiş PGP ayarlarını göster"
+      ],
+      "Show folders": [
+        "Klasörleri göster"
+      ],
+      "Show labels": [
+        "Etiketleri göster"
+      ],
+      "Show less": [
+        "Daha az göster"
+      ],
+      "Show more": [
+        "Daha fazla göster"
+      ],
+      "Show time zones": [
+        "Saat dilimlerini göster"
+      ],
+      "Sign out": [
+        "Oturumu kapat"
+      ],
+      "Signing out": [
+        "Oturum kapatılıyor"
+      ],
+      "Skip": [
+        "Atla"
+      ],
+      "Start import": [
+        "İçe aktarmayı başlat"
+      ],
+      "Start setup": [
+        "Kurulumu başlat"
+      ],
+      "Stay": [
+        "Kal"
+      ],
+      "Submit": [
+        "Gönder"
+      ],
+      "Theme": [
+        "Tema"
+      ],
+      "Today": [
+        "Bugün"
+      ],
+      "Trust": [
+        "Güven"
+      ],
+      "Try another method": [
+        "Başka bir yöntem deneyin"
+      ],
+      "Unlock data": [
+        "Verilerin kilidini aç"
+      ],
+      "Unmark for deletion": [
+        "Silmek için işareti kaldır"
+      ],
+      "Untrust": [
+        "Güvenme"
+      ],
+      "Update": [
+        "Güncelle"
+      ],
+      "Update recovery file": [
+        "Kurtarma dosyasını güncelle"
+      ],
+      "Update recovery phrase": [
+        "Kurtarma ifadesini güncelle"
+      ],
+      "Upgrade": [
+        "Yükselt"
+      ],
+      "Upload picture": [
+        "Görsel yükle"
+      ],
+      "Use ${ label } theme": [
+        "${ label } teması kullanılsın"
+      ],
+      "Use for sending": [
+        "Gönderim için kullan"
+      ],
+      "Verify": [
+        "Doğrula"
+      ],
+      "Verify account": [
+        "Hesabı doğrula"
+      ],
+      "Verify email": [
+        "E-posta adresini doğrula"
+      ],
+      "View": [
+        "Görüntüle"
+      ],
+      "View invoice": [
+        "Faturayı görüntüle"
+      ],
+      "Yes": [
+        "Evet"
+      ],
+      "Yes, I'll attend": [
+        "Evet, katılacağım"
+      ]
+    },
+    "Actions message": {
+      "${ addContact } or ${ importContact }.": [
+        "${ addContact } ya da ${ importContact }."
+      ],
+      "No results found.": [
+        "Herhangi bir sonuç bulunamadı."
+      ],
+      "Please try another search term.": [
+        "Lütfen başka bir ifade aramayı deneyin."
+      ],
+      "You don't have any contacts.": [
+        "Herhangi bir kişiniz yok."
+      ],
+      "You don't have any groups.": [
+        "Herhangi bir grubunuz yok."
+      ]
+    },
+    "Alarm notification": {
+      "${ title } started at ${ formattedHour }": [
+        "${ title }, ${ formattedHour } saatinde başladı"
+      ],
+      "${ title } started on ${ _formattedDate }": [
+        "${ title } ${ _formattedDate } tarihinde başladı"
+      ],
+      "${ title } started on ${ _formattedDate } at ${ formattedHour }": [
+        "${ title }, ${ _formattedDate } tarihinde ${ formattedHour } saatinde başladı"
+      ],
+      "${ title } started on ${ _formattedDateWithTime }": [
+        "${ title }, ${ _formattedDateWithTime } zamanında başladı"
+      ],
+      "${ title } started on ${ formattedDate }": [
+        "${ title }, ${ formattedDate } tarihinde başladı"
+      ],
+      "${ title } started on ${ formattedDate } at ${ formattedHour }": [
+        "${ title }, ${ formattedDate } tarihinde ${ formattedHour } saatinde başladı"
+      ],
+      "${ title } started on ${ formattedDateWithoutTime }": [
+        "${ title }, ${ formattedDateWithoutTime } tarihinde başladı"
+      ],
+      "${ title } started yesterday": [
+        "${ title } dün başladı"
+      ],
+      "${ title } started yesterday at ${ formattedHour }": [
+        "${ title }, dün ${ formattedHour } saatinde başladı"
+      ],
+      "${ title } starts at ${ formattedHour }": [
+        "${ title }, ${ formattedHour } saatinde başlayacak"
+      ],
+      "${ title } starts now": [
+        "${ title } şimdi başlıyor"
+      ],
+      "${ title } starts on ${ _formattedDate2 }": [
+        "${ title }, ${ _formattedDate2 } tarihinde başlayacak"
+      ],
+      "${ title } starts on ${ _formattedDate2 } at ${ formattedHour }": [
+        "${ title }, ${ _formattedDate2 } tarihinde ${ formattedHour } saatinde başlayacak"
+      ],
+      "${ title } starts on ${ _formattedDate3 }": [
+        "${ title }, ${ _formattedDate3 } tarihinde başlayacak"
+      ],
+      "${ title } starts on ${ _formattedDate3 } at ${ formattedHour }": [
+        "${ title }, ${ _formattedDate3 } tarihinde ${ formattedHour } saatinde başlayacak"
+      ],
+      "${ title } starts on ${ _formattedDateWithoutTime }": [
+        "${ title }, ${ _formattedDateWithoutTime } tarihinde başlayacak"
+      ],
+      "${ title } starts on ${ formattedDateWithTime }": [
+        "${ title }, ${ formattedDateWithTime } zamanında başlayacak"
+      ],
+      "${ title } starts today": [
+        "${ title } bugün başlıyor"
+      ],
+      "${ title } starts tomorrow": [
+        "${ title } yarın başlayacak"
+      ],
+      "${ title } starts tomorrow at ${ formattedHour }": [
+        "${ title }, yarın ${ formattedHour } saatinde başlayacak"
+      ]
+    },
+    "Alert": {
+      "By leaving now, some contacts may not be imported": [
+        "Şimdi ayrılırsanız, bazı kişiler içe aktarılamayabilir"
+      ],
+      "By leaving now, some events may not be imported": [
+        "Şimdi ayrılırsanız, bazı etkinlikler içe aktarılamayabilir"
+      ],
+      "By leaving now, you will lose your event.": [
+        "Şimdi ayrılırsanız, etkinliğinizi kaybedeceksiniz."
+      ]
+    },
+    "Apps dropdown": {
+      "Proton applications": [
+        "Proton uygulamaları"
+      ]
+    },
+    "Attached ics file error": {
+      "Empty ICS file": [
+        "ICS dosyası boş"
+      ],
+      "Invalid event": [
+        "Etkinlik geçersiz"
+      ],
+      "Invalid ICS file": [
+        "ICS dosyası geçersiz"
+      ],
+      "Invalid method": [
+        "Yöntem geçersiz"
+      ],
+      "Unsupported calendar component": [
+        "Takvim bileşeni desteklenmiyor"
+      ],
+      "Unsupported event": [
+        "Etkinlik desteklenmiyor"
+      ]
+    },
+    "Attendee role": {
+      "Optional": [
+        "İsteğe bağlı"
+      ]
+    },
+    "Beta access description": {
+      "Beta Access lets you use the beta version of ${ MAIL_APP_NAME }, ${ CALENDAR_APP_NAME }, and ${ DRIVE_APP_NAME } before they are released to the public. This means you can be the first to try new products, get new updates, and use new features.": [
+        "Beta erişimi, ${ MAIL_APP_NAME }, ${ CALENDAR_APP_NAME } ve ${ DRIVE_APP_NAME } beta sürümlerini herkese sunulmadan önce kullanmanızı sağlar. Böylece, yeni ürünleri ilk deneyen, yeni güncellemeleri ilk alan ve yeni özellikleri kullanan ilk kişilerden olabilirsiniz."
+      ],
+      "If you encounter issues, you can always disable Beta Access.": [
+        "Sorunlarla karşılaşırsanız, istediğiniz zaman Beta erişimini devre dışı bırakabilirsiniz."
+      ]
+    },
+    "blackfriday Action": {
+      "Get the offer": [
+        ""
+      ]
+    },
+    "blackfriday Info": {
+      "beta": [
+        "beta"
+      ],
+      "Includes": [
+        "İçerdikleri"
+      ],
+      "Standard price: ${ regularPrice }": [
+        "Standart fiyat: ${ regularPrice }"
+      ],
+      "This subscription will automatically renew after 2 years at the same rate until it is cancelled.": [
+        "Bu abonelik, iptal edilene kadar 2 yıllık bir dönem sonrasında aynı fiyattan otomatik olarak yenilenecektir."
+      ]
+    },
+    "blackfriday Title": {
+      "Best deal": [
+        ""
+      ],
+      "Most popular": [
+        "En popüler olanlar"
+      ],
+      "Save more when combining Mail and VPN": [
+        ""
+      ]
+    },
+    "blackfriday: VPNspecialoffer Action": {
+      "Get the deal": [
+        "Tekliften yararlan"
+      ],
+      "Get the deal now": [
+        "Tekliften şimdi yararlan"
+      ]
+    },
+    "blackfriday: VPNspecialoffer Info": {
+      "Discounts are based on standard monthly pricing of ${ standardMonthlyPricing }": [
+        ""
+      ],
+      "Save ${ percentage }%": [
+        "- %${ percentage }"
+      ],
+      "Special offer Terms and Conditions": [
+        ""
+      ]
+    },
+    "blackfriday: VPNspecialoffer info": {
+      "per month": [
+        "aylık"
+      ]
+    },
+    "blackfriday: VPNspecialoffer Promo title, need to be short": {
+      "Special offer": [
+        "Özel teklif"
+      ]
+    },
+    "blackfriday: VPNspecialoffer Title": {
+      "(${ notice }) Renews after 1 month at a standard monthly price of ${ amount }": [
+        ""
+      ],
+      "(${ notice }) Renews after 1 year at a standard discounted annual price of ${ amount } (20% discount)": [
+        ""
+      ],
+      "(${ notice }) Renews after 2 years at a standard discounted 2-year price of ${ amount } (33% discount)": [
+        ""
+      ],
+      "1 month": [
+        "1 ay"
+      ],
+      "12 months": [
+        "12 ay"
+      ],
+      "24 months": [
+        "24 ay"
+      ],
+      "Billed at ${ amount } for the first 2 years.${ supNotice }": [
+        ""
+      ],
+      "Billed at ${ amount } for the first month.${ supNotice }": [
+        ""
+      ],
+      "Billed at ${ amount } for the first year.${ supNotice }": [
+        ""
+      ],
+      "Get the special year-end offer on our Premium VPN PLUS plan": [
+        ""
+      ]
+    },
+    "Bug category": {
+      "Application problem": [
+        "Uygulama sorunu"
+      ],
+      "Bridge problem": [
+        "Bridge sorunu"
+      ],
+      "Calendar problem": [
+        "Calendar sorunu"
+      ],
+      "Connection problem": [
+        "Bağlantı sorunu"
+      ],
+      "Contacts problem": [
+        "Contacts sorunu"
+      ],
+      "Custom domain problem": [
+        "Özel etki alanı sorunu"
+      ],
+      "Drive problem": [
+        "Drive sorunu"
+      ],
+      "Feature request": [
+        "Özellik isteği"
+      ],
+      "Import / export problem": [
+        "İçe / dışa aktarma sorunu"
+      ],
+      "Installation problem": [
+        "Kurulum sorunu"
+      ],
+      "Mail problem": [
+        "Mail sorunu"
+      ],
+      "Manual setup problem": [
+        "El ile kurulum sorunu"
+      ],
+      "Other": [
+        "Diğer"
+      ],
+      "Payments problem": [
+        "Ödemeler sorunu"
+      ],
+      "Sign in problem": [
+        "Oturum açma sorunu"
+      ],
+      "Sign up problem": [
+        "Hesap açma sorunu"
+      ],
+      "Signup problem": [
+        "Hesap açma sorunu"
+      ],
+      "Slow speed problem": [
+        "Hız yavaşlığı sorunu"
+      ],
+      "Speed problem": [
+        "Hız sorunu"
+      ],
+      "Streaming problem": [
+        "Yayın akışı sorunu"
+      ],
+      "Update problem": [
+        "Güncelleme sorunu"
+      ],
+      "VPN problem": [
+        "VPN sorunu"
+      ],
+      "Website access problem": [
+        "Web sitesine erişim sorunu"
+      ]
+    },
+    "Button": {
+      "Continue using ${ MAIL_APP_NAME }.": [
+        "${ MAIL_APP_NAME } kullanmayı sürdürün."
+      ]
+    },
+    "Calendar invite buttons label": {
+      "Attending?": [
+        "Katılıyor mu?"
+      ]
+    },
+    "Calendar invite info": {
+      "${ name } accepted the invitation": [
+        "${ name } daveti kabul etti"
+      ],
+      "${ name } declined the invitation": [
+        "${ name } daveti reddetti"
+      ],
+      "${ name } hasn't answered the invitation yet": [
+        "${ name } daveti henüz yanıtlamadı"
+      ],
+      "${ name } tentatively accepted the invitation": [
+        "${ name } daveti belirsiz olarak kabul etti"
+      ],
+      "This event has been canceled": [
+        "Bu etkinlik iptal edildi"
+      ],
+      "You accepted the invitation": [
+        "Daveti kabul ettiniz"
+      ],
+      "You declined the invitation": [
+        "Daveti reddettiniz"
+      ],
+      "You haven't answered the invitation yet": [
+        "Daveti henüz yanıtlamadınız"
+      ],
+      "You tentatively accepted the invitation": [
+        "Daveti belirsiz olarak kabul ettiniz"
+      ]
+    },
+    "Calendar sidebar dropdown item": {
+      "Add calendar from URL": [
+        "Adresten takvim ekle"
+      ],
+      "More options": [
+        "Diğer seçenekler"
+      ]
+    },
+    "Calendar status": {
+      "Not synced": [
+        "Eşitlenmemiş"
+      ],
+      "Syncing": [
+        "Eşitleniyor"
+      ]
+    },
+    "Calendar subscription not synced error": {
+      "Calendar could not be decrypted": [
+        "Takvimin şifresi çözülemedi"
+      ],
+      "Calendar is syncing": [
+        "Takvim eşitleniyor"
+      ],
+      "Calendar is too big": [
+        "Takvim çok büyük"
+      ],
+      "Calendar link is not accessible": [
+        "Takvim bağlantısına erişilemiyor"
+      ],
+      "Calendar link is temporarily inaccessible": [
+        "Takvim bağlantısına geçici olarak erişilemiyor"
+      ],
+      "Failed to sync calendar": [
+        "Takvim eşitlenemedi"
+      ],
+      "More than 12 hours passed since last update": [
+        "Son güncellemeden bu yana 12 saatten fazla zaman geçti"
+      ],
+      "Unsupported calendar format": [
+        "Takvim biçimi desteklenmiyor"
+      ]
+    },
+    "Calendar view": {
+      "Day": [
+        "Gün"
+      ],
+      "Month": [
+        "Ay"
+      ],
+      "Week": [
+        "Hafta"
+      ]
+    },
+    "Calendar view selector": {
+      "Change time range to": [
+        "Zaman aralığını şuna değiştir"
+      ]
+    },
+    "Collapsible tooltip": {
+      "Close": [
+        "Kapat"
+      ],
+      "Open": [
+        "Aç"
+      ]
+    },
+    "colon": {
+      ": ": [
+        ": "
+      ]
+    },
+    "Confirm modal title": {
+      "Quit import customization?": [
+        "İçe aktarma özelleştirmesinden çıkmak istiyor musunuz?"
+      ]
+    },
+    "Contact field label": {
+      "Address": [
+        "Adres"
+      ],
+      "Anniversary": [
+        "Yıl dönümü"
+      ],
+      "Birthday": [
+        "Doğum günü"
+      ],
+      "Email": [
+        "E-posta"
+      ],
+      "Gender": [
+        "Cinsiyet"
+      ],
+      "Geo": [
+        "Coğrafi konum"
+      ],
+      "Language": [
+        "Dil"
+      ],
+      "Logo": [
+        "Logo"
+      ],
+      "Member": [
+        "Üyelik"
+      ],
+      "Name": [
+        "Ad"
+      ],
+      "Note": [
+        "Not"
+      ],
+      "Organization": [
+        "Kuruluş"
+      ],
+      "Phone": [
+        "Telefon"
+      ],
+      "Photo": [
+        "Görsel"
+      ],
+      "Role": [
+        "Rol"
+      ],
+      "Timezone": [
+        "Saat dilimi"
+      ],
+      "Title": [
+        "Unvan"
+      ],
+      "URL": [
+        "İnternet adresi"
+      ]
+    },
+    "Contact type label": {
+      "Fax": [
+        "Faks"
+      ],
+      "Main": [
+        "Ana"
+      ],
+      "Mobile": [
+        "Cep telefonu"
+      ],
+      "Other": [
+        "Diğer"
+      ],
+      "Pager": [
+        "Çağrı cihazı"
+      ],
+      "Personal": [
+        "Kişisel"
+      ],
+      "Work": [
+        "İş"
+      ],
+      "Yomi": [
+        "Yomi"
+      ]
+    },
+    "Country name": {
+      "Abkhazia": [
+        "Abhazya"
+      ],
+      "Afghanistan": [
+        "Afganistan"
+      ],
+      "Albania": [
+        "Arnavutluk"
+      ],
+      "Algeria": [
+        "Cezayir"
+      ],
+      "American Samoa": [
+        "Amerikan Samoası"
+      ],
+      "Andorra": [
+        "Andorra"
+      ],
+      "Angola": [
+        "Angola"
+      ],
+      "Anguilla": [
+        "Anguilla"
+      ],
+      "Antarctica": [
+        "Antarktika"
+      ],
+      "Antigua and Barbuda": [
+        "Antigua ve Barbuda"
+      ],
+      "Argentina": [
+        "Arjantin"
+      ],
+      "Armenia": [
+        "Ermenistan"
+      ],
+      "Aruba": [
+        "Aruba"
+      ],
+      "Ascension Island": [
+        "Ascension Adası"
+      ],
+      "Australia": [
+        "Avustralya"
+      ],
+      "Austria": [
+        "Avusturya"
+      ],
+      "Azerbaijan": [
+        "Azerbaycan"
+      ],
+      "Bahamas": [
+        "Bahamalar"
+      ],
+      "Bahrain": [
+        "Bahreyn"
+      ],
+      "Bangladesh": [
+        "Bangladeş"
+      ],
+      "Barbados": [
+        "Barbados"
+      ],
+      "Belarus": [
+        "Belarus"
+      ],
+      "Belgium": [
+        "Belçika"
+      ],
+      "Belize": [
+        "Belize"
+      ],
+      "Benin": [
+        "Benin"
+      ],
+      "Bermuda": [
+        "Bermuda"
+      ],
+      "Bhutan": [
+        "Butan"
+      ],
+      "Bolivia": [
+        "Bolivya"
+      ],
+      "Bonaire, Sint Eustatius and Saba": [
+        "Karayip Hollandası"
+      ],
+      "Bosnia and Herzegovina": [
+        "Bosna Hersek"
+      ],
+      "Botswana": [
+        "Botsvana"
+      ],
+      "Bouvet Island": [
+        "Bouvet Adası"
+      ],
+      "Brazil": [
+        "Brezilya"
+      ],
+      "British Indian Ocean Territory": [
+        "Britanya Hint Okyanusu Toprakları"
+      ],
+      "Brunei Darussalam": [
+        "Brunei Darussalam"
+      ],
+      "Bulgaria": [
+        "Bulgaristan"
+      ],
+      "Burkina Faso": [
+        "Burkina Faso"
+      ],
+      "Burma": [
+        "Burma"
+      ],
+      "Burundi": [
+        "Burundi"
+      ],
+      "Cambodia": [
+        "Kamboçya"
+      ],
+      "Cameroon": [
+        "Kamerun"
+      ],
+      "Canada": [
+        "Kanada"
+      ],
+      "Cape Verde": [
+        "Yeşil Burun Adaları"
+      ],
+      "Cayman Islands": [
+        "Cayman Adaları"
+      ],
+      "Central African Republic": [
+        "Orta Afrika Cumhuriyeti"
+      ],
+      "Chad": [
+        "Çad"
+      ],
+      "Chile": [
+        "Şili"
+      ],
+      "China": [
+        "Çin"
+      ],
+      "Christmas Island": [
+        "Christmas Adası"
+      ],
+      "Cocos (Keeling) Islands": [
+        "Cocos (Keeling) Adaları"
+      ],
+      "Colombia": [
+        "Kolombiya"
+      ],
+      "Comoros": [
+        "Komorlar"
+      ],
+      "Congo": [
+        "Kongo"
+      ],
+      "Congo, Democratic Republic of the": [
+        "Kongo, Demokratik Cumhuriyeti"
+      ],
+      "Cook Islands": [
+        "Cook Adaları"
+      ],
+      "Costa Rica": [
+        "Kosta Rika"
+      ],
+      "Cote d'Ivoire\"": [
+        "Fildişi Sahili"
+      ],
+      "Croatia": [
+        "Hırvatistan"
+      ],
+      "Cuba": [
+        "Küba"
+      ],
+      "Curaçao": [
+        "Curaçao"
+      ],
+      "Cyprus": [
+        "Kıbrıs"
+      ],
+      "Czech Republic": [
+        "Çekya"
+      ],
+      "Denmark": [
+        "Danimarka"
+      ],
+      "Djibouti": [
+        "Cibuti"
+      ],
+      "Dominica": [
+        "Dominika"
+      ],
+      "Dominican Republic": [
+        "Dominik Cumhuriyeti"
+      ],
+      "Ecuador": [
+        "Ekvador"
+      ],
+      "Egypt": [
+        "Mısır"
+      ],
+      "El Salvador": [
+        "El Salvador"
+      ],
+      "Equatorial Guinea": [
+        "Ekvator Ginesi"
+      ],
+      "Eritrea": [
+        "Eritre"
+      ],
+      "Estonia": [
+        "Estonya"
+      ],
+      "Ethiopia": [
+        "Etiyopya"
+      ],
+      "Falkland Islands": [
+        "Falkland Adaları"
+      ],
+      "Faroe Islands": [
+        "Faroe Adaları"
+      ],
+      "Federated States of Micronesia": [
+        "Mikronezya Federal Devletleri"
+      ],
+      "Fiji": [
+        "Fiji"
+      ],
+      "Finland": [
+        "Finlandiya"
+      ],
+      "France": [
+        "Fransa"
+      ],
+      "French Guiana": [
+        "Fransız Guyanası"
+      ],
+      "French Polynesia": [
+        "Fransız Polinezyası"
+      ],
+      "French Southern Territories": [
+        "Fransız Güney Toprakları"
+      ],
+      "Gabon": [
+        "Gabon"
+      ],
+      "Gambia": [
+        "Gambiya"
+      ],
+      "Georgia": [
+        "Gürcistan"
+      ],
+      "Germany": [
+        "Almanya"
+      ],
+      "Ghana": [
+        "Gana"
+      ],
+      "Gibraltar": [
+        "Cebelitarık"
+      ],
+      "Greece": [
+        "Yunanistan"
+      ],
+      "Greenland": [
+        "Grönland"
+      ],
+      "Grenada": [
+        "Grenada"
+      ],
+      "Guadeloupe": [
+        "Guadeloupe"
+      ],
+      "Guam": [
+        "Guam"
+      ],
+      "Guatemala": [
+        "Guatemala"
+      ],
+      "Guernsey": [
+        "Guernsey"
+      ],
+      "Guinea": [
+        "Gine"
+      ],
+      "Guinea-Bissau": [
+        "Gine-Bissau"
+      ],
+      "Guyana": [
+        "Guyana"
+      ],
+      "Haiti": [
+        "Haiti"
+      ],
+      "Heard Island and McDonald Islands": [
+        "Heard Adası ve McDonald Adaları"
+      ],
+      "Holy See (Vatican City State)": [
+        "Vatikan"
+      ],
+      "Honduras": [
+        "Honduras"
+      ],
+      "Hong Kong": [
+        "Hong Kong"
+      ],
+      "Hungary": [
+        "Macaristan"
+      ],
+      "Iceland": [
+        "İzlanda"
+      ],
+      "India": [
+        "Hindistan"
+      ],
+      "Indonesia": [
+        "Endonezya"
+      ],
+      "International": [
+        "Uluslararası"
+      ],
+      "Iran": [
+        "İran"
+      ],
+      "Iraq": [
+        "Irak"
+      ],
+      "Ireland": [
+        "İrlanda"
+      ],
+      "Isle of Man": [
+        "Man Adası"
+      ],
+      "Israel": [
+        "İsrail"
+      ],
+      "Italy": [
+        "İtalya"
+      ],
+      "Jamaica": [
+        "Jamaika"
+      ],
+      "Japan": [
+        "Japonya"
+      ],
+      "Jersey": [
+        "Jersey"
+      ],
+      "Jordan": [
+        "Ürdün"
+      ],
+      "Kazakhstan": [
+        "Kazakistan"
+      ],
+      "Kenya": [
+        "Kenya"
+      ],
+      "Kiribati": [
+        "Kiribati"
+      ],
+      "Kosovo": [
+        "Kosova"
+      ],
+      "Kuwait": [
+        "Kuveyt"
+      ],
+      "Kyrgyzstan": [
+        "Kırgızistan"
+      ],
+      "Laos": [
+        "Laos"
+      ],
+      "Latvia": [
+        "Letonya"
+      ],
+      "Lebanon": [
+        "Lübnan"
+      ],
+      "Lesotho": [
+        "Lesotho"
+      ],
+      "Liberia": [
+        "Liberya"
+      ],
+      "Libya": [
+        "Libya"
+      ],
+      "Liechtenstein": [
+        "Lihtenştayn"
+      ],
+      "Lithuania": [
+        "Litvanya"
+      ],
+      "Luxembourg": [
+        "Lüksemburg"
+      ],
+      "Macao": [
+        "Makao"
+      ],
+      "Madagascar": [
+        "Madagaskar"
+      ],
+      "Malawi": [
+        "Malavi"
+      ],
+      "Malaysia": [
+        "Malezya"
+      ],
+      "Maldives": [
+        "Maldivler"
+      ],
+      "Mali": [
+        "Mali"
+      ],
+      "Malta": [
+        "Malta"
+      ],
+      "Marshall Islands": [
+        "Marshall Adaları"
+      ],
+      "Martinique": [
+        "Martinik"
+      ],
+      "Mauritania": [
+        "Moritanya"
+      ],
+      "Mauritius": [
+        "Mauritius"
+      ],
+      "Mayotte": [
+        "Mayotte"
+      ],
+      "Mexico": [
+        "Meksika"
+      ],
+      "Moldova": [
+        "Moldova"
+      ],
+      "Monaco": [
+        "Monako"
+      ],
+      "Mongolia": [
+        "Moğolistan"
+      ],
+      "Montenegro": [
+        "Karadağ"
+      ],
+      "Montserrat": [
+        "Montserrat"
+      ],
+      "Morocco": [
+        "Fas"
+      ],
+      "Mozambique": [
+        "Mozambik"
+      ],
+      "Namibia": [
+        "Namibya"
+      ],
+      "Nauru": [
+        "Nauru"
+      ],
+      "Nepal": [
+        "Nepal"
+      ],
+      "Netherlands": [
+        "Hollanda"
+      ],
+      "New Caledonia": [
+        "Yeni Kaledonya"
+      ],
+      "New Zealand": [
+        "Yeni Zelanda"
+      ],
+      "Nicaragua": [
+        "Nikaragua"
+      ],
+      "Niger": [
+        "Nijer"
+      ],
+      "Nigeria": [
+        "Nijerya"
+      ],
+      "Niue": [
+        "Niue"
+      ],
+      "Norfolk Island": [
+        "Norfolk Adası"
+      ],
+      "North Korea": [
+        "Kuzey Kore"
+      ],
+      "North Macedonia": [
+        "Kuzey Makedonya"
+      ],
+      "Northern Mariana Islands": [
+        "Kuzey Mariana Adaları"
+      ],
+      "Norway": [
+        "Norveç"
+      ],
+      "Oman": [
+        "Umman"
+      ],
+      "Pakistan": [
+        "Pakistan"
+      ],
+      "Palau": [
+        "Palau"
+      ],
+      "Palestine": [
+        "Filistin"
+      ],
+      "Panama": [
+        "Panama"
+      ],
+      "Papua New Guinea": [
+        "Papua Yeni Gine"
+      ],
+      "Paraguay": [
+        "Paraguay"
+      ],
+      "Peru": [
+        "Peru"
+      ],
+      "Philippines": [
+        "Filipinler"
+      ],
+      "Pitcairn": [
+        "Pitcairn"
+      ],
+      "Poland": [
+        "Polonya"
+      ],
+      "Portugal": [
+        "Portekiz"
+      ],
+      "Puerto Rico": [
+        "Porto Riko"
+      ],
+      "Qatar": [
+        "Katar"
+      ],
+      "Reunion": [
+        "Réunion"
+      ],
+      "Romania": [
+        "Romanya"
+      ],
+      "Russia": [
+        "Rusya"
+      ],
+      "Rwanda": [
+        "Ruanda"
+      ],
+      "Saint Barthélemy": [
+        "Saint Barthélemy"
+      ],
+      "Saint Helena": [
+        "Saint Helena"
+      ],
+      "Saint Kitts and Nevis": [
+        "Saint Kitts ve Nevis"
+      ],
+      "Saint Lucia": [
+        "Saint Lucia"
+      ],
+      "Saint Martin (French Part)": [
+        "Saint Martin (Fransız bölümü)"
+      ],
+      "Saint Pierre and Miquelon": [
+        "Saint Pierre ve Miquelon"
+      ],
+      "Saint Vincent and the Grenadines": [
+        "Saint Vincent ve Grenadinler"
+      ],
+      "Samoa": [
+        "Samoa"
+      ],
+      "San Marino": [
+        "San Marino"
+      ],
+      "Sao Tome and Principe": [
+        "Sao Tome ve Principe"
+      ],
+      "Saudi Arabia": [
+        "Suudi Arabistan"
+      ],
+      "Senegal": [
+        "Senegal"
+      ],
+      "Serbia": [
+        "Sırbistan"
+      ],
+      "Seychelles": [
+        "Seyşeller"
+      ],
+      "Sierra Leone": [
+        "Sierra Leone"
+      ],
+      "Singapore": [
+        "Singapur"
+      ],
+      "Sint Maarten": [
+        "Sint Maarten"
+      ],
+      "Slovakia": [
+        "Slovakya"
+      ],
+      "Slovenia": [
+        "Slovenya"
+      ],
+      "Solomon Islands": [
+        "Solomon Adaları"
+      ],
+      "Somalia": [
+        "Somali"
+      ],
+      "South Africa": [
+        "Güney Afrika"
+      ],
+      "South Georgia and the South Sandwich Islands": [
+        "Güney Georgia ve Güney Sandwich Adaları"
+      ],
+      "South Korea": [
+        "Güney Kore"
+      ],
+      "South Ossetia": [
+        "Güney Osetya"
+      ],
+      "South Sudan": [
+        "Güney Sudan"
+      ],
+      "Spain": [
+        "İspanya"
+      ],
+      "Sri Lanka": [
+        "Sri Lanka"
+      ],
+      "Sudan": [
+        "Sudan"
+      ],
+      "Suriname": [
+        "Surinam"
+      ],
+      "Svalbard and Jan Mayen": [
+        "Svalbard ve Jan Mayen"
+      ],
+      "Swaziland": [
+        "Svaziland"
+      ],
+      "Sweden": [
+        "İsveç"
+      ],
+      "Switzerland": [
+        "İsviçre"
+      ],
+      "Syria": [
+        "Suriye"
+      ],
+      "Taiwan": [
+        "Tayvan"
+      ],
+      "Tajikistan": [
+        "Tacikistan"
+      ],
+      "Tanzania": [
+        "Tanzanya"
+      ],
+      "Thailand": [
+        "Tayland"
+      ],
+      "Timor-Leste": [
+        "Doğu Timor"
+      ],
+      "Togo": [
+        "Togo"
+      ],
+      "Tokelau": [
+        "Tokelau"
+      ],
+      "Tonga": [
+        "Tonga"
+      ],
+      "Trinidad and Tobago": [
+        "Trinidad ve Tobago"
+      ],
+      "Tristan da Cunha": [
+        "Tristan da Cunha"
+      ],
+      "Tunisia": [
+        "Tunus"
+      ],
+      "Turkey": [
+        "Türkiye"
+      ],
+      "Turkmenistan": [
+        "Türkmenistan"
+      ],
+      "Turks and Caicos Islands": [
+        "Turks ve Caicos Adaları"
+      ],
+      "Tuvalu": [
+        "Tuvalu"
+      ],
+      "Uganda": [
+        "Uganda"
+      ],
+      "Ukraine": [
+        "Ukrayna"
+      ],
+      "United Arab Emirates": [
+        "Birleşik Arap Emirlikleri"
+      ],
+      "United Kingdom": [
+        "Birleşik Krallık"
+      ],
+      "United States": [
+        "Birleşik Devletler"
+      ],
+      "United States Minor Outlying Islands": [
+        "Birleşik Devletler Küçük Dış Adaları"
+      ],
+      "Uruguay": [
+        "Uruguay"
+      ],
+      "Uzbekistan": [
+        "Özbekistan"
+      ],
+      "Vanuatu": [
+        "Vanuatu"
+      ],
+      "Venezuela": [
+        "Venezuela"
+      ],
+      "Vietnam": [
+        "Vietnam"
+      ],
+      "Virgin Islands, British": [
+        "Britanya Virjin Adaları"
+      ],
+      "Virgin Islands, U.S.": [
+        "Birleşik Devletler Virjin Adaları"
+      ],
+      "Wallis and Futuna": [
+        "Wallis ve Futuna"
+      ],
+      "Western Sahara": [
+        "Batı Sahra"
+      ],
+      "Yemen": [
+        "Yemen"
+      ],
+      "Zambia": [
+        "Zambiya"
+      ],
+      "Zimbabwe": [
+        "Zimbabve"
+      ],
+      "Åland Islands": [
+        "Aland Adaları"
+      ]
+    },
+    "Custom frequency option": {
+      "After repeating…": [
+        "Şu yinelenmeden sonra…"
+      ],
+      "Never": [
+        "Asla"
+      ],
+      "On date…": [
+        "Şu tarihte…"
+      ],
+      "time": [
+        "kez",
+        "kez"
+      ]
+    },
+    "Daily recurring event, frequency": {
+      "${ count } time": [
+        "${ count } kez",
+        "${ count } kez"
+      ],
+      "Daily": [
+        "Günlük"
+      ],
+      "Daily, ${ timesString }": [
+        "Günlük olarak, ${ timesString }"
+      ],
+      "Daily, ${ untilString }": [
+        "Günlük olarak, ${ untilString }"
+      ],
+      "Every ${ interval } day": [
+        "Her ${ interval } günde",
+        "Her ${ interval } günde bir"
+      ],
+      "Every ${ interval } day, ${ timesString }": [
+        "Her ${ interval } günde bir, ${ timesString }",
+        "Her ${ interval } günde bir, ${ timesString }"
+      ],
+      "Every ${ interval } day, ${ untilString }": [
+        "Her ${ interval } günde bir, ${ untilString }",
+        "Her ${ interval } günde bir, ${ untilString }"
+      ],
+      "until ${ dateString }": [
+        "${ dateString } tarihine kadar"
+      ]
+    },
+    "Default display name vcard": {
+      "Unknown": [
+        "Bilinmiyor"
+      ]
+    },
+    "Default encryption scheme": {
+      "Use global default (${ defaultValueText })": [
+        "Genel varsayılan kullanılsın (${ defaultValueText })"
+      ]
+    },
+    "Delinquent modal title": {
+      "Overdue invoice": [
+        "Gecikmiş fatura"
+      ]
+    },
+    "Description": {
+      "Decrypting contacts... This may take a few minutes. When the process is completed, you will be able to download the file with all your contacts exported.": [
+        "Kişilerin şifresi çözülüyor... Bu işlem birkaç dakika sürebilir. İşlem tamamlandığında dışa aktardığınız tüm kişilerin bulunduğu dosyayı indirebilirsiniz."
+      ],
+      "Deleting contacts... This may take a few minutes. When the process is completed, you can close this modal.": [
+        "Kişiler siliniyor... Bu işlem birkaç dakika sürebilir. İşlem tamamlandığında, bu pencereyi kapatabilirsiniz."
+      ],
+      "Encrypting and importing contacts... This may take a few minutes. When the process is completed, you can close this modal.": [
+        "Kişiler şifreleniyor ve içe aktarılıyor... Bu işlem birkaç dakika sürebilir. İşlem tamamlandığında, bu pencereyi kapatabilirsiniz."
+      ],
+      "It looks like the contact list you are importing contains some groups. Please review how these groups should be imported.": [
+        "İçe aktardığınız kişi listesinde bazı gruplar var gibi görünüyor. Lütfen bu grupların nasıl içe aktarılması gerektiğini gözden geçirin."
+      ],
+      "Merging contacts... This may take a few minutes. When the process is completed, you can close this modal.": [
+        "Kişiler birleştiriliyor... Bu işlem birkaç dakika sürebilir. İşlem tamamlandığında, bu pencereyi kapatabilirsiniz."
+      ],
+      "The file should have a maximum size of ${ MAX_IMPORT_FILE_SIZE_STRING } and have up to ${ MAX_IMPORT_CONTACTS_STRING } contact. If your file is bigger, please split it into smaller files.": [
+        "Dosya en fazla ${ MAX_IMPORT_FILE_SIZE_STRING } bpyutunda olmalı ve en fazla ${ MAX_IMPORT_CONTACTS_STRING } kişi kaydı içermeli. Dosyanız daha büyükse, daha küçük dosyalara bölün.",
+        "Dosya en fazla ${ MAX_IMPORT_FILE_SIZE_STRING } bpyutunda olmalı ve en fazla ${ MAX_IMPORT_CONTACTS_STRING } kişi kaydı içermeli. Dosyanız daha büyükse, daha küçük dosyalara bölün."
+      ],
+      "Use Drag and Drop to rank merging priority between contacts. Uncheck the contacts you do not want to merge.": [
+        "Sürükleyip bırakarak kişiler arasında birleştirme önceliğini sıralayın. Birleştirmek istemediğiniz kişilerin işaretini kaldırın."
+      ],
+      "You can import events in iCal format (ICS file). The file should have a maximum size of ${ MAX_IMPORT_FILE_SIZE_STRING } and have up to ${ MAX_IMPORT_EVENTS_STRING } events. If your file is bigger, please split it into smaller files.": [
+        "Etkinlikleri iCal biçiminde içe aktarabilirsiniz (ICS dosyası).\nDosya en fazla ${ MAX_IMPORT_FILE_SIZE_STRING } boyutunda olmalı ve en fazla ${ MAX_IMPORT_EVENTS_STRING } etkinlik kaydı içermelidir.\nDosyanız daha büyükse, daha küçük dosyalara bölün."
+      ],
+      "You can mark for deletion the contacts that you do not want neither to merge nor to keep. Deletion will only take place after the merge button is clicked": [
+        "Birleştirmek veya saklamak istemediğiniz kişileri silinmek üzere işaretleyebilirsiniz. Silme işlemi yalnızca birleştirme düğmesine tıklandıktan sonra yapılır"
+      ]
+    },
+    "Description of the purpose of the import CSV modal": {
+      "Also, we have automatically matched CSV fields with vCard fields. You can review and change this matching manually.": [
+        "Ayrıca, CSV alanları vCard alanlarıyla otomatik olarak eşleştirildi. Bu eşleşmeyi inceleyebilir ve el ile değiştirebilirsiniz."
+      ],
+      "We have detected the following fields in the CSV file you uploaded. Check the ones you want to import.": [
+        "Yüklediğiniz CSV dosyasında aşağıdaki alanlar algılandı. İçe aktarmak istediklerinizi işaretleyin."
+      ]
+    },
+    "Disabled calendar": {
+      "Disabled": [
+        "Devre dışı"
+      ]
+    },
+    "Disabled calendar name suffix": {
+      "Disabled": [
+        "Devre dışı"
+      ]
+    },
+    "Disabled calendar tooltip": {
+      "The event belongs to a disabled calendar.": [
+        "Etkinlik, devre dışı bırakılmış bir takvime ait."
+      ]
+    },
+    "Dropdown action icon tooltip": {
+      "Add calendar": [
+        "Takvim ekle"
+      ]
+    },
+    "Duration": {
+      "120 minutes": [
+        "120 dakika"
+      ],
+      "30 minutes": [
+        "30 dakika"
+      ],
+      "60 minutes": [
+        "60 dakika"
+      ],
+      "90 minutes": [
+        "90 dakika"
+      ]
+    },
+    "Early Access Disabled": {
+      "Off": [
+        "Kapalı"
+      ]
+    },
+    "Early Access Enabled": {
+      "On": [
+        "Açık"
+      ]
+    },
+    "Email body for description (description part)": {
+      "Description: ${ eventDescription }": [
+        "Açıklama: ${ eventDescription }"
+      ]
+    },
+    "Email body for invitation": {
+      "${ eventTitle } has been canceled.": [
+        "${ eventTitle } iptal edildi."
+      ],
+      "${ eventTitle } has been updated.\n${ eventDetailsText }": [
+        "${ eventTitle } güncellendi.\n${ eventDetailsText }"
+      ],
+      "You are invited to ${ eventTitle }\n${ eventDetailsText }": [
+        "${ eventTitle } etkinliğine davet edildiniz\n${ eventDetailsText }"
+      ]
+    },
+    "Email body for invitation (date part)": {
+      "When: ${ formattedStart }": [
+        "Zaman: ${ formattedStart }"
+      ],
+      "When: ${ formattedStart } (all day)": [
+        "Zaman: ${ formattedStart } (tüm gün)"
+      ],
+      "When: ${ formattedStart } - ${ formattedEnd }": [
+        "Zaman: ${ formattedStart } - ${ formattedEnd }"
+      ]
+    },
+    "Email body for invitation (location part)": {
+      "Where: ${ eventLocation }": [
+        "Yer: ${ eventLocation }"
+      ]
+    },
+    "Email body for response to invitation": {
+      "${ emailAddress } has accepted your invitation to ${ eventTitle }": [
+        "${ eventTitle } etkinliği davetiniz ${ emailAddress } tarafından kabul edildi"
+      ],
+      "${ emailAddress } has declined your invitation to ${ eventTitle }": [
+        "${ eventTitle } etkinliği davetiniz ${ emailAddress } tarafından reddedildi"
+      ],
+      "${ emailAddress } has tentatively accepted your invitation to ${ eventTitle }": [
+        "${ eventTitle } etkinliği davetiniz ${ emailAddress } tarafından belirsiz olarak kabul edildi"
+      ]
+    },
+    "Email subject": {
+      "Cancellation of an event on ${ formattedStart }": [
+        "${ formattedStart } tarihindeki bir etkinliğin iptal bilgilendirmesi"
+      ],
+      "Cancellation of an event starting on ${ formattedStart }": [
+        "${ formattedStart } tarihinde başlayan bir etkinliğin iptal bilgilendirmesi"
+      ],
+      "Invitation for an event on ${ formattedStart }": [
+        "${ formattedStart } tarihindeki bir etkinlik için davet"
+      ],
+      "Invitation for an event starting on ${ formattedStart }": [
+        "${ formattedStart } tarihinde başlayan bir etkinlik için davet"
+      ],
+      "Update for an event on ${ formattedStart }": [
+        "${ formattedStart } tarihindeki bir etkinlik için güncelleme"
+      ],
+      "Update for an event starting on ${ formattedStart }": [
+        "${ formattedStart } tarihinde başlayan bir etkinlik için güncelleme"
+      ]
+    },
+    "Error": {
+      "${ _list } doesn't have an email address": [
+        "${ _list } içinde bir e-posta adresi yok",
+        "Bazı kişilerin e-posta adresi yok: ${ _list }"
+      ],
+      "${ _list2 } has no contacts": [
+        "${ _list2 } içinde hiçbir kişi yok",
+        "Bazı gruplarda hiçbir kişi yok: ${ _list2 }"
+      ],
+      "${ list } doesn't have a valid email address": [
+        "${ list } içinde geçerli bir e-posta adresi yok",
+        "Bazı kişilerin geçerli bir e-posta adresi yok: ${ list }"
+      ],
+      "${ list } has invalid emails": [
+        "${ list } içinde geçersiz e-posta adresleri var",
+        "Bazı gruplarda geçersiz e-posta adresleri var: ${ list }"
+      ],
+      "A group with this name already exists": [
+        "Aynı adlı bir grup zaten var"
+      ],
+      "A maximum of 10 notifications is allowed": [
+        "En fazla 10 bildirime izin verilir"
+      ],
+      "Address primary private key not found": [
+        "Adresin birincil kişisel anahtarı bulunamadı"
+      ],
+      "Answer failed to be sent": [
+        "Yanıt gönderilemedi"
+      ],
+      "Authentication canceled.": [
+        "Kimlik doğrulama iptal edildi."
+      ],
+      "Authentication error.": [
+        "Kimlik doğrulama hatası."
+      ],
+      "Calendar limit reached": [
+        "Takvim sınırına ulaşıldı"
+      ],
+      "Can't create new calendars for all imported calendars due to the personal calendar limit.": [
+        "Kişisel takvim sınırı nedeniyle içe aktarılan tüm takvimler için yeni takvimler oluşturulamıyor."
+      ],
+      "Cancellation failed to be sent": [
+        "İptal bilgilendirmesi gönderilemedi"
+      ],
+      "Contact could not be saved": [
+        "Kişi kaydedilemedi"
+      ],
+      "Contact signature could not be verified": [
+        "Kişi imzası doğrulanamadı"
+      ],
+      "Contact signature not verified": [
+        "Kişi imzası doğrulanmamış"
+      ],
+      "Decryption error: Decryption of this event's content failed.": [
+        "Şifre çözme sorunu: Bu etkinliğin içeriğinin şifresi çözülemedi."
+      ],
+      "Deselect at least ${ calendarToFixCount } calendar": [
+        "En az ${ calendarToFixCount } takvimi kaldırın",
+        "En az ${ calendarToFixCount } takvimi kaldırın"
+      ],
+      "Deselect at least ${ calendarToFixCount } calendar or": [
+        "En az ${ calendarToFixCount } takvimi kaldırın ya da",
+        "En az ${ calendarToFixCount } takvimi kaldırın ya da"
+      ],
+      "Email address disabled": [
+        "E-posta adresi devre dışı"
+      ],
+      "Email address invalid": [
+        "E-posta adresi geçersiz"
+      ],
+      "Email is not valid": [
+        "E-posta geçersiz"
+      ],
+      "Ends on date cannot be empty": [
+        "Bitiş tarihi boş olamaz"
+      ],
+      "Ends on date must be after start time": [
+        "Bitiş tarihi başlangıç tarihinden sonra olmalıdır"
+      ],
+      "Enter 6 digits": [
+        "6 rakam yazın"
+      ],
+      "Error": [
+        "Hata"
+      ],
+      "Error: ${ errorMessage }": [
+        "Hata: ${ errorMessage }"
+      ],
+      "Failed to get original occurrence in series": [
+        "Dizideki özgün yinelenme alınamadı"
+      ],
+      "Folder name cannot be empty.": [
+        "Klasör adı boş olamaz."
+      ],
+      "Image upload failed": [
+        "Görsel yüklenemedi"
+      ],
+      "Incorrect login credentials. Please try again.": [
+        "Oturum açma bilgileri yanlış. Lütfen yeniden deneyin."
+      ],
+      "Incorrect mailbox password. Please try again.": [
+        "Posta kutusu parolası yanlış. Lütfen yeniden deneyin."
+      ],
+      "Interval cannot be empty": [
+        "Aralık boş olamaz"
+      ],
+      "Invalid email address": [
+        "E-posta adresi geçersiz"
+      ],
+      "Invalid link to the event": [
+        "Etkinlik bağlantısı geçersiz"
+      ],
+      "Invalid name": [
+        "Ad geçersiz"
+      ],
+      "Invalid public key file": [
+        "Herkese açık anahtar dosyası geçersiz"
+      ],
+      "Invalid verification code": [
+        "Doğrulama kodu geçersiz"
+      ],
+      "Invitation failed to be sent": [
+        "Davet gönderilemedi"
+      ],
+      "It is only possible to create events between ${ minDateString } - ${ maxDateString }": [
+        "Yalnızca ${ minDateString } - ${ maxDateString } arasında etkinlikler oluşturulabilir"
+      ],
+      "It is only possible to move events between ${ minDateString } - ${ maxDateString }": [
+        "Yalnızca ${ minDateString } - ${ maxDateString } arasında etkinlikler taşınabilir"
+      ],
+      "Label name cannot be empty.": [
+        "Etiket adı boş olamaz."
+      ],
+      "Merge at least ${ calendarToFixCount } calendar with an existing Proton calendar": [
+        "En az ${ calendarToFixCount } takvimi var olan bir Proton takvimiyle birleştirin",
+        "En az ${ calendarToFixCount } takvimi var olan bir Proton takvimiyle birleştirin"
+      ],
+      "Missing key packet": [
+        "Anahtar paketi eksik"
+      ],
+      "Missing signature": [
+        "İmza eksik"
+      ],
+      "Name required": [
+        "Ad zorunludur"
+      ],
+      "No data to import": [
+        "İçe aktarılacak bir veri yok"
+      ],
+      "No keys retrieved for internal user": [
+        "İç kullanıcı için herhangi bir anahtar alınamadı"
+      ],
+      "No valid address found": [
+        "Geçerli bir adres bulunamadı"
+      ],
+      "No WKD key retrieved for user is valid for sending": [
+        "Kullanıcı için alınan WKD anahtarı gönderim için geçerli değil"
+      ],
+      "Not a valid number": [
+        "Numara geçerli değil"
+      ],
+      "Number of occurrences cannot be empty": [
+        "Yinelenme sayısı boş olamaz"
+      ],
+      "One of the contacts has no email address: ${ noEmailsContactNamesList }": [
+        "Kişilerden birinin e-posta adresi yok: ${ noEmailsContactNamesList }",
+        "Kişilerden bazılarının e-posta adresleri yok: ${ noEmailsContactNamesList } "
+      ],
+      "One of the groups has no contacts: ${ noContactGroupList }": [
+        "Gruplardan birinde kişi yok: ${ noContactGroupList }",
+        "Gruplardan bazılarında hiçbir kişi yok: ${ noContactGroupList } "
+      ],
+      "Passwords do not match": [
+        "Parola ile onayı aynı değil"
+      ],
+      "Please create an address first.": [
+        "Lütfen önce bir adres oluşturun."
+      ],
+      "Please fix the highlighted conflict to proceed.": [
+        "İlerlemek için lütfen vurgulanan çakışmayı düzeltin.",
+        "İlerlemek için lütfen vurgulanan çakışmaları düzeltin."
+      ],
+      "Preferences could not be saved": [
+        "Tercihler kaydedilemedi"
+      ],
+      "Primary address key is not decrypted": [
+        "Birincil adres anahtarının şifresi çözülemedi"
+      ],
+      "Primary address key is not decrypted.": [
+        "Birincil adres anahtarının şifresi çözülemedi."
+      ],
+      "Primary key is not valid for sending": [
+        "Birincil anahtar gönderim için geçerli değil"
+      ],
+      "Primary key retrieved for internal user is valid for sending": [
+        "İç kullanıcı için alınan birincil anahtar gönderim için geçerli"
+      ],
+      "Request timed out": [
+        "İstek zaman aşımına uğradı"
+      ],
+      "Self invitation not allowed": [
+        "Kendinizi davet edemezsiniz"
+      ],
+      "Signature not verified": [
+        "İmza doğrulanmamış"
+      ],
+      "Signature verification failed": [
+        "İmza doğrulanamadı"
+      ],
+      "Some contacts could not be deleted": [
+        "Bazı kişiler silinemedi"
+      ],
+      "Some groups could not be deleted": [
+        "Bazı gruplar silinemedi"
+      ],
+      "Some of your label names are unavailable. Please customize the import to edit these names.": [
+        "Bazı etiket adlarınız kullanılamıyor. Lütfen bu adları düzenlemek için içe aktarma işlemini özelleştirin."
+      ],
+      "Some of your label names exceed ${ MAIL_APP_NAME }'s maximum character limit. Please customize the import to edit these names.": [
+        "Bazı etiket adlarınız ${ MAIL_APP_NAME } tarafından izin verilen en fazla karakter sınırını aşıyor. Lütfen bu adları düzenlemek için içe aktarma işlemini özelleştirin."
+      ],
+      "Something went wrong, please ${ refresh } in order to proceed. If you still see this error message please contact our ${ supportTeam }.": [
+        "Bir şeyler ters gitti. Lütfen ilerlemek için ${ refresh }yin. Bu sorun sürerse lütfen ${ supportTeam } ile görüşün."
+      ],
+      "Start time must be before end time": [
+        "Başlangıç saati bitiş saatinden önce olmalıdır"
+      ],
+      "The folder name is invalid. Please choose a different name.": [
+        "Klasör adı geçersiz. Lütfen farklı bir ad seçin."
+      ],
+      "The folder name is too long. Please choose a different name.": [
+        "Klasör adı çok uzun. Lütfen farklı bir ad seçin."
+      ],
+      "The label name is invalid. Please choose a different name.": [
+        "Etiket adı geçersiz. Lütfen farklı bir ad seçin."
+      ],
+      "The label name is too long. Please choose a different name.": [
+        "Etiket adı çok uzun. Lütfen farklı bir ad seçin."
+      ],
+      "The sending key is not valid": [
+        "Gönderim anahtarı geçerli değil"
+      ],
+      "There are too many folders in your external account. Please customize the import to delete some folders.": [
+        "Dış hesabınızda çok fazla klasör var. Lütfen bazı klasörleri silmek için içe aktarma işlemini özelleştirin."
+      ],
+      "There was an error when exporting the contacts vCards": [
+        "Kişilerin vCard dosyaları dışa aktarılırken bir sorun çıktı"
+      ],
+      "This field is required": [
+        "Bu alan zorunludur"
+      ],
+      "This field requires a minimum of ${ minimumLength } characters.": [
+        "Bu alana en az ${ minimumLength } karakter yazılmalıdır."
+      ],
+      "This folder name is not available. Please choose a different name.": [
+        "Bu klasör adı kullanılamaz. Lütfen farklı bir ad seçin."
+      ],
+      "This label name is not available. Please choose a different name.": [
+        "Bu etiket adı kullanılamaz. Lütfen farklı bir ad seçin."
+      ],
+      "This message may contain some link's URL that cannot be properly opened by your current browser": [
+        "Bu iletide, geçerli tarayıcınızda açılamayacak bazı bağlantı adresleri bulunuyor olabilir"
+      ],
+      "Trusted keys are not valid for sending": [
+        "Güvenilir anahtarlar gönderim için geçerli değil"
+      ],
+      "Unknown error": [
+        "Bilinmeyen hata"
+      ],
+      "You can't send a mail to more than 100 recipients": [
+        "Bir iletiyi 100 üzerinde alıcıya gönderemezsiniz"
+      ],
+      "You can't send vCards of more than 10 contacts": [
+        "En fazla 10 kişinin vCard dosyasını gönderebilirsiniz"
+      ],
+      "You must set a name": [
+        "Bir ad belirtmelisiniz"
+      ],
+      "Your import will not be processed.": [
+        "İçe aktarma işleminiz yapılmayacak."
+      ]
+    },
+    "Error importing calendar": {
+      "An error occurred reading your file ${ formattedFilename }. File does not have the right format.": [
+        "${ formattedFilename } dosyanız okunurken bir sorun çıktı. Dosya doğru biçimde değil."
+      ],
+      "An error occurred uploading your file ${ formattedFilename }. Maximum file size is ${ MAX_IMPORT_FILE_SIZE_STRING }.": [
+        "${ formattedFilename } dosyanız yüklenirken bir sorun çıktı. Dosya en fazla ${ MAX_IMPORT_FILE_SIZE_STRING } boyutunda olabilir."
+      ],
+      "An error occurred uploading your file ${ formattedFilename }. Only ICS file formats are allowed.": [
+        "${ formattedFilename } dosyanız yüklenirken bir sorun çıktı. Yalnızca ICS dosya biçimleri kullanılabilir."
+      ],
+      "An error occurred uploading your file. No file has been selected.": [
+        "Dosyanız yüklenirken bir sorun çıktı. Herhangi bir dosya seçilmemiş."
+      ],
+      "An unexpected error occurred. Import must be restarted.": [
+        "Beklenmedik bir sorun çıktı. İçe aktarma işlemi yeniden başlatılmalı."
+      ],
+      "Your file ${ formattedFilename } contains more than ${ MAX_IMPORT_EVENTS_STRING } events.": [
+        "${ formattedFilename } dosyanızda ${ MAX_IMPORT_EVENTS_STRING } etkinlikten daha fazla etkinlik var."
+      ],
+      "Your file ${ formattedFilename } has an invalid method and cannot be imported.": [
+        "${ formattedFilename } dosyanız geçersiz bir yöntem içerdiğinden içe aktarılamıyor."
+      ],
+      "Your file ${ formattedFilename } has no events to be imported.": [
+        "${ formattedFilename } dosyanızda içe aktarılacak bir etkinlik yok."
+      ],
+      "Your file ${ formattedFilename } is empty.": [
+        "${ formattedFilename } dosyanız boş."
+      ],
+      "Your file ${ formattedFilename } is not a calendar.": [
+        "${ formattedFilename } dosyanız bir takvim değil."
+      ]
+    },
+    "Error importing contact": {
+      "Encryption failed": [
+        "Şifrelenemedi"
+      ],
+      "vCard versions < 3.0 not supported": [
+        "vCard 3.0 altındaki sürümler desteklenmiyor"
+      ]
+    },
+    "Error importing contacts": {
+      "An error occurred reading your file ${ formattedFilename }. File doesn't have the right format.": [
+        "${ formattedFilename } dosyanız okunurken bir sorun çıktı. Dosya doğru biçimde değil."
+      ],
+      "An error occurred uploading your file ${ formattedFilename }. Maximum file size is ${ MAX_IMPORT_FILE_SIZE_STRING }.": [
+        "${ formattedFilename } dosyanız yüklenirken bir sorun çıktı. Dosya en fazla ${ MAX_IMPORT_FILE_SIZE_STRING } boyutunda olabilir."
+      ],
+      "An error occurred uploading your file ${ formattedFilename }. No .csv or .vcf file selected": [
+        "${ formattedFilename } dosyanız yüklenirken bir sorun çıktı. Herhangi bir .csv ya da .vcf dosyası seçilmemiş"
+      ],
+      "An error occurred uploading your file. No file has been selected.": [
+        "Dosyanız yüklenirken bir sorun çıktı. Herhangi bir dosya seçilmemiş."
+      ],
+      "Your file ${ formattedFilename } contains more than ${ MAX_IMPORT_CONTACTS_STRING } contacts.": [
+        "${ formattedFilename } dosyanızda ${ MAX_IMPORT_CONTACTS_STRING } kişiden daha fazla kişi var."
+      ],
+      "Your file ${ formattedFilename } has no contacts to be imported.": [
+        "${ formattedFilename } dosyanızda içe aktarılacak bir kişi yok."
+      ],
+      "Your file ${ formattedFilename } is empty.": [
+        "${ formattedFilename } dosyanız boş."
+      ]
+    },
+    "Error importing event": {
+      "Bad format. Component cannot be read.": [
+        "Biçim bozuk. Bileşen okunamadı."
+      ],
+      "Calendar": [
+        "Takvim"
+      ],
+      "Calendar timezone not supported": [
+        "Takvimin saat dilimi desteklenmiyor"
+      ],
+      "Component with wrong format": [
+        "Bileşen biçimi yanlış"
+      ],
+      "Custom timezone": [
+        "Özel saat dilimi"
+      ],
+      "Edited event not supported": [
+        "Etkinlikleri düzenleme desteklenmiyor"
+      ],
+      "Element": [
+        "Bileşen"
+      ],
+      "Encryption failed": [
+        "Şifrelenemedi"
+      ],
+      "End time out of bounds": [
+        "Bitiş zamanı sınırların dışında"
+      ],
+      "Event": [
+        "Etkinlik"
+      ],
+      "Event validation failed": [
+        "Etkinlik doğrulanamadı"
+      ],
+      "Floating times not supported": [
+        "Göreli zamanlar desteklenmiyor"
+      ],
+      "Free-busy time information": [
+        "Serbest-meşgul zaman bilgileri"
+      ],
+      "Invalid event": [
+        "Etkinlik geçersiz"
+      ],
+      "Journal entry": [
+        "Günlük kaydı"
+      ],
+      "Malformed all-day event": [
+        "Tüm gün etkinliği bozulmuş"
+      ],
+      "Malformed end time": [
+        "Bitiş zamanı bozulmuş"
+      ],
+      "Malformed recurring event": [
+        "Yinelenen etkinlik bozulmuş"
+      ],
+      "Malformed start time": [
+        "Başlangıç zamanı bozulmuş"
+      ],
+      "Missing start time": [
+        "Başlangıç zamanı eksik"
+      ],
+      "No UID, title or start time": [
+        "UID değeri, başlık ya da başlangıç zamanı yok"
+      ],
+      "Non-Gregorian": [
+        "Miladi değil"
+      ],
+      "Notification out of bounds": [
+        "Bildirim sınırların dışında"
+      ],
+      "Original recurring event could not be found": [
+        "Özgün yinelenen etkinlik bulunamadı"
+      ],
+      "Recurring event has no occurrences": [
+        "Yinelenen etkinliğin bir yinelenmesi yok"
+      ],
+      "Recurring rule not supported": [
+        "Yinelenme kuralı desteklenmiyor"
+      ],
+      "Start time out of bounds": [
+        "Başlangıç zamanı sınırların dışında"
+      ],
+      "Timezone": [
+        "Saat dilimi"
+      ],
+      "Timezone not supported": [
+        "Saat dilimi desteklenmiyor"
+      ],
+      "To-do entry": [
+        "Yapılacak iş kaydı"
+      ],
+      "Unknown": [
+        "Bilinmiyor"
+      ],
+      "Unsupported event": [
+        "Etkinlik desteklenmiyor"
+      ]
+    },
+    "Error message": {
+      "Brace yourself till we get the error fixed.": [
+        "Lütfen biz hatayı düzeltene kadar bekleyin."
+      ],
+      "Error: ${ errorMessage }": [
+        "Hata: ${ errorMessage }"
+      ],
+      "Invalid URL": [
+        "Adres geçersiz"
+      ],
+      "Oops, something went wrong": [
+        "Bir şeyler ters gitti"
+      ],
+      "Please ${ refresh } or check your connection.": [
+        "Lütfen ${ refresh }yin ya da bağlantınızı denetleyin."
+      ],
+      "There was a problem connecting to Proton.": [
+        "Proton bağlantısı kurulurken bir sorun çıktı."
+      ],
+      "You may also ${ refresh } or try again later.": [
+        "Ayrıca sayfayı ${ refresh }yebilir ya da bir süre sonra yeniden deneyebilirsiniz."
+      ],
+      "You need an active personal calendar to import events": [
+        "Etkinlikleri içe aktarabilmek için etkin bir takviminiz olmalı"
+      ]
+    },
+    "Error notification": {
+      "First name and last name cannot be unchecked at the same time": [
+        "Ad ve soyad aynı anda işaretlenemez"
+      ]
+    },
+    "Error notification in the bug report modal when the user upload file": {
+      "No image selected": [
+        "Herhangi bir görsel seçilmemiş"
+      ]
+    },
+    "Error notification when score is missing in user feedback form modal": {
+      "Score is required": [
+        "Puan zorunludur"
+      ]
+    },
+    "Event canceled status badge": {
+      "canceled": [
+        "iptal edildi"
+      ]
+    },
+    "Event delete button tooltip": {
+      "Delete event": [
+        "Etkinliği sil"
+      ]
+    },
+    "Event duplicate button tooltip": {
+      "Duplicate event": [
+        "Etkinliği kopyala"
+      ]
+    },
+    "Event edit button tooltip": {
+      "Edit event": [
+        "Etkinliği düzenle"
+      ]
+    },
+    "Event form": {
+      "${ numberOfParticipants } participant": [
+        "${ numberOfParticipants } katılımcı",
+        "${ numberOfParticipants } katılımcı"
+      ]
+    },
+    "Event info. Organizer name": {
+      "You": [
+        "Siz"
+      ]
+    },
+    "Event invitation error": {
+      "Attached ICS file could not be decrypted": [
+        "Eklenmiş ICS dosyasının şifresi çözülemedi"
+      ],
+      "Attached ICS file could not be read": [
+        "Eklenmiş ICS dosyası okunamadı"
+      ],
+      "Invalid invitation": [
+        "Davet geçersiz"
+      ],
+      "Invalid response": [
+        "Yanıt geçersiz"
+      ],
+      "The event could not be added to your calendar. No answer was sent": [
+        "Etkinlik takviminize eklenemedi. Herhangi bir yanıt gönderilmedi"
+      ],
+      "The event could not be updated in your calendar. No answer was sent": [
+        "Etkinlik takviminizde güncellenemedi. Herhangi bir yanıt gönderilmedi"
+      ],
+      "Unexpected error": [
+        "Beklenmeyen hata"
+      ],
+      "Unsupported invitation": [
+        "Davet desteklenmiyor"
+      ],
+      "Unsupported response": [
+        "Yanıt desteklenmiyor"
+      ],
+      "We could not cancel the event in your calendar": [
+        "Takviminizdeki etkinliği iptal edemedik"
+      ],
+      "We could not retrieve the event from your calendar": [
+        "Etkinliği takviminizden alamadık"
+      ],
+      "We could not update the event in your calendar": [
+        "Takviminizdeki etkinliği güncelleyemedik"
+      ],
+      "Your answer was sent, but the event could not be added to your calendar": [
+        "Yanıtınız gönderildi, ancak etkinlik takviminize eklenemedi"
+      ],
+      "Your answer was sent, but the event could not be updated in your calendar": [
+        "Yanıtınız gönderildi, ancak etkinlik takviminizde güncellenemedi"
+      ]
+    },
+    "Event popover close button": {
+      "Close popover": [
+        "Açılan pencereyi kapat"
+      ]
+    },
+    "Event reply": {
+      "maybe": [
+        "belki"
+      ],
+      "no": [
+        "hayır"
+      ],
+      "pending": [
+        "bekliyor"
+      ],
+      "yes": [
+        "evet"
+      ]
+    },
+    "Event title": {
+      "(no title)": [
+        "(başlıksız)"
+      ]
+    },
+    "file size format": {
+      "bytes": [
+        "bayt"
+      ],
+      "GB": [
+        "GB"
+      ],
+      "KB": [
+        "KB"
+      ],
+      "MB": [
+        "MB"
+      ]
+    },
+    "file size format, long": {
+      "Bytes": [
+        "Bayt"
+      ],
+      "Gigabytes": [
+        "Gigabayt"
+      ],
+      "Kilobytes": [
+        "Kilobayt"
+      ],
+      "Megabytes": [
+        "Megabayt"
+      ]
+    },
+    "Filter notification": {
+      "${ Label.Name } updated": [
+        "${ Label.Name } güncellendi"
+      ]
+    },
+    "Group": {
+      "Account": [
+        "Hesap"
+      ],
+      "Apps": [
+        "Uygulamalar"
+      ],
+      "Network": [
+        "Ağ"
+      ],
+      "Other category": [
+        "Diğer kategori"
+      ],
+      "Services": [
+        "Hizmetler"
+      ]
+    },
+    "Header": {
+      "Contacts": [
+        "Kişiler"
+      ],
+      "Contacts, groups and settings": [
+        "Kişiler, gruplar ve ayarlar"
+      ],
+      "Get help": [
+        "Yardım alın"
+      ],
+      "Name": [
+        "Ad"
+      ]
+    },
+    "Hint": {
+      "Found ${ items.length } suggestion, use keyboard to navigate.": [
+        "${ items.length } öneri bulundu. Gezinmek için klavyeyi kullanın.",
+        "${ items.length } öneri bulundu. Gezinmek için klavyeyi kullanın."
+      ],
+      "Use Up and Down keys to access and browse suggestions after input. Press Enter to confirm your choice, or Escape to close the suggestions box.": [
+        "Oturum açtıktan sonra önerilere erişmek ve göz atmak için Yukarı ve Aşağı ok tuşlarını kullanın. Seçiminizi onaylamak için Enter tuşuna, öneriler kutusunu kapatmak için Esc tuşuna basın."
+      ]
+    },
+    "Human verification method": {
+      "CAPTCHA": [
+        "CAPTCHA"
+      ],
+      "Email": [
+        "E-posta"
+      ],
+      "Manual": [
+        "El ile"
+      ],
+      "No verification method available": [
+        "Kullanılabilecek bir doğrulama yöntemi yok"
+      ],
+      "SMS": [
+        "SMS"
+      ]
+    },
+    "Import calendar": {
+      "${ totalImported }/${ totalToImport } event encrypted and added to your calendar": [
+        "${ totalImported }/${ totalToImport } etkinlik şifrelenip takviminize eklendi",
+        "${ totalImported }/${ totalToImport } etkinlik şifrelenip takviminize eklendi"
+      ],
+      "An error occurred while encrypting and adding your event. ${ totalImported } out of ${ totalToImport } event successfully imported.": [
+        "Etkinliğiniz şifrelenip eklenirken bir sorun çıktı. ${ totalImported }/${ totalToImport } etkinlik içe aktarıldı.",
+        "Etkinlikleriniz şifrelenip eklenirken bir sorun çıktı. ${ totalImported }/${ totalToImport } etkinlik içe aktarıldı."
+      ],
+      "An error occurred while encrypting and adding your event. No event could be imported.": [
+        "Etkinliğiniz şifrelenip eklenirken bir sorun çıktı. Herhangi bir etkinlik içe aktarılamadı.",
+        "Etkinlikleriniz şifrelenip eklenirken bir sorun çıktı. Herhangi bir etkinlik içe aktarılamadı."
+      ],
+      "Encrypting and adding contacts: ${ totalImported }/${ totalToImport }": [
+        "Kişiler şifreleniyor ve ekleniyor: ${ totalImported }/${ totalToImport }"
+      ],
+      "Encrypting and adding events to your calendar: ${ totalImported }/${ totalToImport }": [
+        "Etkinlikler şifrelenip takviminze ekleniyor: ${ totalImported }/${ totalToImport }"
+      ],
+      "Event successfully imported. The imported event will now appear in your calendar.": [
+        "Etkinlik içe aktarıldı. İçe aktarılan etkinliği takviminizde görebilirsiniz.",
+        "Etkinlikler içe aktarıldı. İçe aktarılan etkinlikleri takviminizde görebilirsiniz."
+      ],
+      "Please don't close the tab before the importing process is finished.": [
+        "Lütfen içe aktarma işlemi bitmeden önce sekmeyi kapatmayın."
+      ]
+    },
+    "Import calendar warning": {
+      "${ CALENDAR_APP_NAME } currently does not support certain event types, details and formats.": [
+        "${ CALENDAR_APP_NAME } şu anda belirli etkinlik türlerini, ayrıntılarını ve biçimlerini desteklemiyor."
+      ],
+      "vCard versions < 3.0": [
+        "vCard 3.0 sürümü öncesi"
+      ]
+    },
+    "Import calendar; import invitation": {
+      "Imported invitations appear in ${ CALENDAR_APP_NAME } as simple events without organizer and participant details. To get event updates and see participants, ask organizers to invite you using your Proton email address.": [
+        "İçe aktarılan davetler ${ CALENDAR_APP_NAME } içinde düzenleyici ve katılımcı ayrıntıları olmadan sıradan etkinlikler olarak görüntülenir. Etkinlik güncellemelerini almak ve katılımcıları görmek için düzenleyicilerden Proton e-posta adresinizi kullanarak sizi davet etmelerini isteyin."
+      ],
+      "This file contains an event invitation:": [
+        "Bu dosyada bir etkinlik daveti bulunuyor:",
+        "Bu dosyada etkinlik davetleri bulunuyor:"
+      ],
+      "This file contains an invitation response:": [
+        "Bu dosyada bir davet yanıtı bulunuyor:",
+        "Bu dosyada davet yanıtları bulunuyor:"
+      ],
+      "This file contains some data that we cannot import:": [
+        "Bu dosyada içe aktaramayacağımız bazı veriler var:"
+      ]
+    },
+    "Import contact": {
+      "${ totalImported }/${ totalToImport } contact encrypted and added to your contact list": [
+        "${ totalImported }/${ totalToImport } kişi şifrelendi ve kişi listenize eklendi",
+        "${ totalImported }/${ totalToImport } kişi şifrelendi ve kişi listenize eklendi"
+      ],
+      "An error occurred while encrypting and adding your contact. No contact could be imported.": [
+        "Kişi şifrelenirken ve eklenirken bir sorun çıktı. Herhangi bir kişi içe aktarılamadı.",
+        "Kişileriniz şifrelenirken ve eklenirken bir sorun çıktı. Herhangi bir kişi içe aktarılamadı."
+      ]
+    },
+    "Import contact error": {
+      "Contact ${ contactId }: ": [
+        "Kişi ${ contactId }: "
+      ]
+    },
+    "Import contact groups info": {
+      "${ totalContacts } contact": [
+        "${ totalContacts } kişi",
+        "${ totalContacts } kişi"
+      ]
+    },
+    "Import contact. Contact identifier": {
+      "unknown": [
+        "bilinmiyor"
+      ]
+    },
+    "Import contacts": {
+      "An error occurred while encrypting and adding your contacts. ${ totalImported } out of ${ totalToImport } contacts successfully imported.": [
+        "Kişileriniz şifrelenirken ve eklenirken bir sorun çıktı. ${ totalImported }/${ totalToImport } kişi içe aktarıldı."
+      ],
+      "Contact successfully imported. The imported contact will now appear in your contact list.": [
+        "Kişi içe aktarıldı. İçe aktarılan kişiyi kişi listenizde görebilirsiniz.",
+        "Kişiler içe aktarıldı. İçe aktarılan kişileri kişi listenizde görebilirsiniz."
+      ]
+    },
+    "Import contacts warning": {
+      "for now": [
+        "şimdilik"
+      ],
+      "ProtonContacts does not support ${ forNow }:": [
+        "ProtonContacts ${ forNow } desteklemiyor:"
+      ]
+    },
+    "Import warning": {
+      "${ totalContactsDiscarded } out of ${ totalContacts } contacts will not be imported. Click for details": [
+        "${ totalContactsDiscarded }/${ totalContacts } kişi içe aktarılmayacak. Ayrıntılı bilgi almak için tıklayın"
+      ],
+      "${ totalEventsDiscarded } out of ${ totalEvents } event will not be imported. Expand for details.": [
+        "${ totalEvents } / ${ totalEventsDiscarded } etkinlik içe aktarılmayacak. Ayrıntılar için genişletin.",
+        "${ totalEvents } / ${ totalEventsDiscarded } etkinlik içe aktarılmayacak. Ayrıntılar için genişletin."
+      ],
+      "No contact can be imported. Click for details": [
+        "Herhangi bir kişi içe aktarılamadı. Ayrıntılar için tıklayın"
+      ],
+      "No event can be imported. Expand for details.": [
+        "Herhangi bir etkinlik içe aktarılamadı. Ayrıntılar için genişletin."
+      ],
+      "Part of your calendar content is not supported and will not be imported.": [
+        "Takvim içeriğinizin bir bölümü desteklenmiyor ve içe aktarılmayacak."
+      ]
+    },
+    "Info": {
+      "${ addressCount } email address": [
+        "${ addressCount } e-posta adresi",
+        "${ addressCount } e-posta adresi"
+      ],
+      "${ appName } needs your permission to ${ enableDesktopNotifications }.": [
+        "${ appName }, ${ enableDesktopNotifications } için izninizi istiyor."
+      ],
+      "${ calendarAppName } has been added to the Proton suite. We would love to hear what you think about it!": [
+        "Proton uygulama paketine ${ calendarAppName } eklendi. Hakkında ne düşündüğünüzü öğrenmek isteriz."
+      ],
+      "${ calendarsToBeCreatedCount } new calendar": [
+        "${ calendarsToBeCreatedCount } yeni takvim",
+        "${ calendarsToBeCreatedCount } yeni takvim"
+      ],
+      "${ calendarsToBeMerged } merged calendar": [
+        "${ calendarsToBeMerged } birleştirilmiş takvim",
+        "${ calendarsToBeMerged } birleştirilmiş takvim"
+      ],
+      "${ calendarsToBeMergedCount } merged calendar": [
+        "${ calendarsToBeMergedCount } birleştirilmiş takvim",
+        "${ calendarsToBeMergedCount } birleştirilmiş takvim"
+      ],
+      "${ contactCount } contact contains multiple email addresses.": [
+        "${ contactCount } kişinin birkaç e-posta adresi var.",
+        "${ contactCount } kişinin birkaç e-posta adresi var."
+      ],
+      "${ contactEmailsLength } Member": [
+        "${ contactEmailsLength } üye",
+        "${ contactEmailsLength } üye"
+      ],
+      "${ contactName } contains multiple email addresses.": [
+        "${ contactName } için birkaç e-posta adresi var."
+      ],
+      "${ contactsCount } contact found": [
+        "${ contactsCount } kişi bulundu",
+        "${ contactsCount } kişi bulundu"
+      ],
+      "${ groupCounts } group found": [
+        "${ groupCounts } grup bulundu",
+        "${ groupCounts } grup bulundu"
+      ],
+      "${ numContactGroups } contact group": [
+        "${ numContactGroups } kişi grubu",
+        "${ numContactGroups } kişi grubu"
+      ],
+      "${ numContacts } contact": [
+        "${ numContacts } kişi",
+        "${ numContacts } kişi"
+      ],
+      "${ selectedCalendarsTotal } of ${ providerCalendars.length } calendar": [
+        "${ selectedCalendarsTotal } / ${ providerCalendars.length } takvim",
+        "${ selectedCalendarsTotal } / ${ providerCalendars.length } takvim"
+      ],
+      "${ selectedFoldersCount } folder selected": [
+        "${ selectedFoldersCount } klasör seçildi",
+        "${ selectedFoldersCount } klasör seçildi"
+      ],
+      "${ selectedFoldersCount } label selected": [
+        "${ selectedFoldersCount } etiket seçildi",
+        "${ selectedFoldersCount } etiket seçildi"
+      ],
+      "${ storageSize } storage": [
+        "${ storageSize } depolama alanı"
+      ],
+      "${ updated } contact updated successfully.": [
+        "${ updated } kişi güncellendi.",
+        "${ updated } kişi güncellendi."
+      ],
+      "(${ memberCount } member)": [
+        "(${ memberCount } üye)",
+        "(${ memberCount } üye)"
+      ],
+      "10 email addresses": [
+        "10 e-posta adresi"
+      ],
+      "A cancellation email will be sent to removed participants.": [
+        "Çıkarılan katılımcılara bir iptal bilgilendirmesi e-postası gönderilecek."
+      ],
+      "A cancellation email will be sent to the event participants. Would you like to delete all events in this series?": [
+        "Etkinlik katılımcılarına bir iptal bilgilendirmesi e-postası gönderilecek. Bu dizideki tüm etkinlikleri silmek ister misiniz?"
+      ],
+      "A cancellation email will be sent to the event participants. Would you like to delete this event?": [
+        "Etkinlik katılımcılarına bir iptal bilgilendirmesi e-postası gönderilecek. Bu etkinliği silmek ister misiniz?"
+      ],
+      "Account access restricted due to unpaid invoices. Please contact your administrator.": [
+        "Ödenmemiş faturalar nedeniyle hesap erişimi kısıtlandı. Lütfen yöneticinizle görüşün."
+      ],
+      "Added and removed participants will be notified about all the events in this series.": [
+        "Bu dizideki tüm etkinlikler eklenen ve çıkarılan katılımcılara bildirilecek."
+      ],
+      "Added and removed participants will be notified.": [
+        "Eklenen ve çıkarılan katılımcılara bildirilecek."
+      ],
+      "Address Verification with Trusted Keys is enabled for this address. To be able to send to this address, first trust public keys that can be used for sending.": [
+        "Bu adres için güvenilir anahtarlar ile adres doğrulaması etkinleştirildi. Bu adrese e-posta gönderebilmek için, önce göndermek için kullanılabilecek herkese açık anahtarlara güvenin."
+      ],
+      "All (${ totalFoldersCount } folder)": [
+        "Tümü (${ totalFoldersCount } klasör)",
+        "Tümü (${ totalFoldersCount } klasör)"
+      ],
+      "All (${ totalFoldersCount } label)": [
+        "Tümü (${ totalFoldersCount } etiket)",
+        "Tümü (${ totalFoldersCount } etiket)"
+      ],
+      "An invitation will be sent to added participants.": [
+        "Eklenen katılımcılara bir davetiye gönderilecek."
+      ],
+      "An invitation will be sent to the event participants.": [
+        "Etkinlik katılımcılarına bir davet gönderilecek."
+      ],
+      "and": [
+        "ve"
+      ],
+      "At most 100 participants are allowed per invitation": [
+        "Bir davette en fazla 100 katılımcı olabilir"
+      ],
+      "Before requesting a new verification code, check your spam folder and check that ${ strong } is the correct address.": [
+        "Yeni bir doğrulama kodu istemeden önce istenmeyen e-postalar kutunuza bakın ve ${ strong } adresinin doğru olduğundan emin olun."
+      ],
+      "Cannot remember your password? We can help you clear the encrypted data of all contacts encrypted with this key and in the process dismiss the alert.": [
+        "Parolanızı hatırlayamıyor musunuz? Uyarıyı kaldırmak için bu anahtarla şifrelenmiş tüm kişilerin şifrelenmiş verilerini silmenize yardımcı olabiliriz."
+      ],
+      "Checking contact ${ progress } of ${ max }...": [
+        "Kişi denetleniyor ${ progress }/${ max }..."
+      ],
+      "Click \"Request new code\" to have a new verification code sent to ${ strong }. If this phone number is incorrect, click \"Edit\" to correct it.": [
+        "Yeni bir doğrulama kodunun ${ strong } numarasına gönderilmesi için \"Yeni kod iste\" seçeneğine tıklayın. Bu telefon numarası yanlışsa düzeltmek için \"Düzenle\" seçeneğine tıklayın."
+      ],
+      "Close this screen to exit.": [
+        "Çıkmak için bu ekranı kapatın."
+      ],
+      "Continue with ${ planName }": [
+        "${ planName } aboneliği ile devam edin"
+      ],
+      "Create ${ calendarsToBeCreated } new calendar": [
+        "${ calendarsToBeCreated } yeni takvim ekle",
+        "${ calendarsToBeCreated } yeni takvim ekle"
+      ],
+      "Create a label for the imported messages, a time range for this import, and the folders you would like to import.": [
+        "İçe aktarılan iletiler için bir etiket, bu içe aktarma için bir zaman aralığı ve içe aktarmak istediğiniz klasörler oluşturun."
+      ],
+      "Create a label for the imported messages, a time range for this import, and the labels you would like to import.": [
+        "İçe aktarılan iletiler için bir etiket, bu içe aktarma için bir zaman aralığı ve içe aktarmak istediğiniz etiketler oluşturun."
+      ],
+      "Create a new contact group": [
+        "Yeni kişi grubu oluştur"
+      ],
+      "Create in": [
+        "Şurada oluştur"
+      ],
+      "CSV files from Outlook, Outlook Express, Yahoo! Mail, Hotmail, Eudora and some other apps as well as vCard 3.1 and 4.0 formats (UTF-8 encoding) are supported.": [
+        "Outlook, Outlook Express, Yahoo! Mail, Hotmail, Eudora ve diğer bazı uygulamaların CSV dosyalarıyla birlikte vCard 3.1 ve 4.0 biçimlerindeki (UTF-8) dosyalar desteklenir."
+      ],
+      "Custom": [
+        "Özel"
+      ],
+      "Custom daily": [
+        "Günde bir, özel"
+      ],
+      "Custom monthly": [
+        "Ayda bir, özel"
+      ],
+      "Custom weekly": [
+        "Haftada bir, özel"
+      ],
+      "Custom yearly": [
+        "Yılda bir, özel"
+      ],
+      "Daily": [
+        "Günlük"
+      ],
+      "Discard changes?": [
+        "Değişiklikler yok sayılsın mı?"
+      ],
+      "Drop the file here to upload": [
+        "Yüklemek için bir dosyayı sürükleyip buraya bırakın"
+      ],
+      "Duplicate key updated": [
+        "Çift anahtar güncellendi"
+      ],
+      "Enter the verification code that was sent to ${ destinationText }.": [
+        "${ destinationText } adresine gönderilen doğrulama kodunu yazın."
+      ],
+      "Existent and added participants will be notified.": [
+        "Var olan ve eklenen katılımcılara bildirilecek."
+      ],
+      "Existent and removed participants will be notified.": [
+        "Var olan ve çıkarılan katılımcılara bildirilecek."
+      ],
+      "Existent, added and removed participants will be notified.": [
+        "Var olan, eklenen ve çıkarılan katılımcılara bildirilecek."
+      ],
+      "Free up some space or add more storage space.": [
+        "Biraz boş yer açın veya daha fazla depolama alanı ekleyin."
+      ],
+      "Free up some space or contact your administrator.": [
+        "Biraz boş yer açın veya yöneticinizle görüşün."
+      ],
+      "Frequency modifications will be lost.": [
+        "Yinelenme değişiklikleri kaybolacak."
+      ],
+      "Group assignment applied": [
+        "Grup ataması uygulandı"
+      ],
+      "here": [
+        "buraya"
+      ],
+      "If you are having trouble creating your account, please request an invitation and we will respond within one business day.": [
+        "Hesap açmakta sorun yaşıyorsanız, lütfen bir davet isteyin. Bir iş günü içinde size yanıt vereceğiz."
+      ],
+      "If you believe this is in error, please contact us ${ contactLink }.": [
+        "Bir hata olduğunu düşünüyorsanız, lütfen ${ contactLink } üzerinden bizimle görüşün."
+      ],
+      "If you don't find the email in your inbox, please check your spam folder.": [
+        "E-postayı gelen kutunuzda göremezseniz, istenmeyen kutusuna bakmayı unutmayın."
+      ],
+      "Import ${ contactsFragment } and ${ contactsGroupsFragment }": [
+        "${ contactsFragment } ve ${ contactsGroupsFragment } kayıtlarını içe aktar"
+      ],
+      "Import ${ selectedCalendarsCount } of ${ totalCalendarsCount } calendar": [
+        "${ selectedCalendarsCount } / ${ totalCalendarsCount } takvimi içe aktar",
+        "${ selectedCalendarsCount } / ${ totalCalendarsCount } takvimi içe aktar"
+      ],
+      "Import from": [
+        "Şuradan içe aktar"
+      ],
+      "Import in progress": [
+        "İçe aktarılıyor"
+      ],
+      "Importing your data from ${ importedEmailAddress } to ${ toEmail }.": [
+        "${ importedEmailAddress } verileriniz ${ toEmail } içine aktarılıyor."
+      ],
+      "Inherited from parent folder": [
+        "Üst klasörden devralındı"
+      ],
+      "Internet connection lost": [
+        "İnternet bağlantısı kesildi"
+      ],
+      "Internet connection lost. Please check your device's connectivity.": [
+        "İnternet bağlantısı kesildi. Lütfen aygıtınızın bağlantısını denetleyin."
+      ],
+      "Internet connection restored.": [
+        "İnternet bağlantısı yeniden kuruldu."
+      ],
+      "Just confirm your selection and we'll do the rest.": [
+        "Yalnızca seçiminizi onaylayın, gerisini biz halledeceğiz."
+      ],
+      "Key fingerprint": [
+        "Anahtar parmak izi"
+      ],
+      "Large imports can take several days.": [
+        "Büyük boyutlu içe aktarımların tamamlanması bir kaç gün sürebilir."
+      ],
+      "Learn more": [
+        "Ayrıntılı bilgi alın"
+      ],
+      "Loading": [
+        "Yükleniyor"
+      ],
+      "Loading ${ appName }": [
+        "${ appName } yükleniyor"
+      ],
+      "Loading event": [
+        "Etkinlik yükleniyor"
+      ],
+      "Loading events": [
+        "Etkinlikler yükleniyor"
+      ],
+      "Manage your calendars": [
+        "Takvimlerinizi yönetin"
+      ],
+      "Merged": [
+        "Birleştirilmiş"
+      ],
+      "Monthly ${ onDayString }": [
+        "Aylık ${ onDayString }"
+      ],
+      "Name your new folder and select the parent folder you want to put it in. If you do not select a parent folder, this new folder will be created as a top level folder.": [
+        "Yeni klasörünüzü adlandırın ve içine eklemek istediğiniz üst klasörü seçin. Herhangi bir üst klasör seçmezseniz, yeni klasör bir üst düzey klasör olur."
+      ],
+      "New": [
+        "Yeni"
+      ],
+      "No contacts added yet": [
+        "Henüz bir kişi eklenmemiş"
+      ],
+      "No email address": [
+        "E-posta adresi yok"
+      ],
+      "No group found": [
+        "Herhangi bir grup bulunamadı"
+      ],
+      "No results found": [
+        "Herhangi bir sonuç bulunamadı"
+      ],
+      "None of the participants can be notified about your changes:": [
+        "Katılımcıların hiçbiri değişiklikleriniz hakkında bilgilendirilemez:"
+      ],
+      "None of the uploaded keys are valid for encryption. Encryption is automatically disabled.": [
+        "Yüklenmiş anahtarlardan hiçbiri şifreleme için geçerli değil. Şifreleme otomatik olarak devre dışı bırakıldı."
+      ],
+      "Not a valid URL": [
+        "Adres geçersiz"
+      ],
+      "Occurrences previously updated by the organizer will be kept, but some of your answers will be lost.": [
+        "Düzenleyici tarafından daha önce güncellenen etkinlikler tutulacak, ancak bazı yanıtlarınız kaybolacak."
+      ],
+      "Occurrences previously updated by the organizer will be kept.": [
+        "Düzenleyici tarafından daha önce güncellenen etkinlikler tutulacak."
+      ],
+      "One or more of your trusted keys were marked \"compromised\" by their owner. We recommend that you \"untrust\" these keys.": [
+        "Güvenilir anahtarlarınızın bir ya da birkaçı sahipleri tarafından \"ele geçirilmiş\" olarak işaretlenmiş. Bu anahtarla \"güvenmemeniz\" önerilir."
+      ],
+      "Only change these settings if you are using PGP with non-${ BRAND_NAME } recipients.": [
+        "Bu ayarları yalnızca ${ BRAND_NAME } dışındaki alıcılar ile PGP kullanıyorsanız değiştirin."
+      ],
+      "Other options": [
+        "Diğer seçenekler"
+      ],
+      "PGP/Inline is only compatible with Plain Text format. Please note that ${ MAIL_APP_NAME } always signs encrypted messages.": [
+        "PGP/Inline yalnızca düz metin biçimiyle uyumludur. Lütfen ${ MAIL_APP_NAME } uygulamasının şifrelenmiş iletileri her zaman imzaladığını unutmayın."
+      ],
+      "PGP/MIME automatically sends the message using the current composer mode. Please note that ${ MAIL_APP_NAME } always signs encrypted messages": [
+        "PGP/MIME, geçerli oluşturucu kipini kullanarak iletiyi otomatik olarak gönderir. Lütfen şifrelenmiş iletilerin her zaman ${ MAIL_APP_NAME } tarafından imzalandığını unutmayın"
+      ],
+      "Please note that addresses assigned to this group will NOT be deleted.": [
+        "Lütfen bu gruba atanan adreslerin SİLİNEMEYECEĞİNİ unutmayın."
+      ],
+      "Please note that this process may take some time depending on the size of your address book.": [
+        "Bu işlemin kişi listenizin boyutuna bağlı olarak uzun sürebileceğini unutmayın."
+      ],
+      "Please remove the duplicates and try again.": [
+        "Lütfen çift kayıtları kaldırıp yeniden deneyin."
+      ],
+      "Please select the folders you would like to import:": [
+        "Lütfen içe aktarmak istediğiniz klasörleri seçin:"
+      ],
+      "Please select which email address or addresses to add to ${ groupCount } group.": [
+        "Lütfen ${ groupCount } gruba eklenecek e-posta adresini ya da adreslerini seçin.",
+        "Lütfen ${ groupCount } gruba eklenecek e-posta adresini ya da adreslerini seçin."
+      ],
+      "Please select which email address or addresses to add to ${ groupName }.": [
+        "Lütfen ${ groupName } grubuna eklenecek e-posta adresini ya da adreslerini seçin."
+      ],
+      "Please wait while we look for contacts that can be re-signed with the primary encryption key.": [
+        "Lütfen birincil şifreleme anahtarıyla yeniden imzalanabilecek kişiler aranırken bekleyin."
+      ],
+      "Please wait while we look for contacts that contain data encrypted with the inactive key.": [
+        "Lütfen etkin olmayan anahtarla şifrelenmiş verileri olan kişiler aranırken bekleyin."
+      ],
+      "Previous modifications on this series will be lost.": [
+        "Bu dizide daha önce yapılmış değişiklikler kaybolacak."
+      ],
+      "Primary": [
+        "Birincil"
+      ],
+      "Priority support": [
+        "Öncelikli destek"
+      ],
+      "Refreshing the page or ${ link } will automatically resolve most issues.": [
+        "Sayfayı yenilemek ya da ${ link } çoğu sorunu otomatik olarak çözer."
+      ],
+      "Removed participants will be notified.": [
+        "Çıkarılan katılımcılara bildirilecek."
+      ],
+      "Select the email format you want to be used by default when sending an email to this email address.": [
+        "Bu adrese, e-posta gönderirken varsayılan olarak kullanılmasını istediğiniz bir e-posta adresi seçin."
+      ],
+      "Select what you want to move from Google.": [
+        "Select what you want to import from Google."
+      ],
+      "Select which calendars to import. A new calendar will be created for each imported calendar up to the 20 calendars limit.": [
+        "İçe aktarılacak takvimleri seçin. En fazla 20 tane olmak üzere içe aktarılan her takvim için yeni bir takvim oluşturulur."
+      ],
+      "Servers are unreachable. Please try again in a few minutes": [
+        "Sunuculara erişilemiyor. Lütfen birkaç dakika sonra yeniden deneyin"
+      ],
+      "Session timed out": [
+        "Oturum zaman aşımına uğradı"
+      ],
+      "Setting up PGP allows you to send end-to-end encrypted emails with a non-${ BRAND_NAME } user that uses a PGP compatible service.": [
+        "PGP kurarak, PGP uyumlu bir hizmet kullanan ancak ${ BRAND_NAME } kullanmayan bir kullanıcıya uçtan uca şifrelenmiş e-postalar gönderebilirsiniz."
+      ],
+      "Some of your answers to occurrences previously updated by the organizer will be lost.": [
+        "Düzenleyici tarafından daha önce güncellenmiş etkinliklere verdiğiniz yanıtlardan bazıları kaybolacak."
+      ],
+      "Storage space is shared across ${ MAIL_APP_NAME }, ${ CALENDAR_APP_NAME }, and ${ DRIVE_APP_NAME }.": [
+        "Depolama alanı ${ MAIL_APP_NAME }, ${ CALENDAR_APP_NAME } ve ${ DRIVE_APP_NAME } arasında paylaşılır."
+      ],
+      "Support for 1 custom email domain": [
+        "1 özel e-posta etki alanı desteği"
+      ],
+      "support team": [
+        "destek ekibi"
+      ],
+      "The application needs to locally decrypt your contacts before they can be exported. At the end of the process, a VCF file will be generated and you will be able to download it.": [
+        "Dışa aktarmadan önce bu uygulama kişilerinin şifresi yerel olarak çözülmeli. İşlemin sonunda, indirebileceğiniz bir VCF dosyası oluşturulacak."
+      ],
+      "The following participants cannot be notified about your changes:": [
+        "Şu katılımcılar değişiklikleriniz hakkında bilgilendirilemez:"
+      ],
+      "The organizer cannot be notified that you decline the invitation:": [
+        "Düzenleyiciye daveti reddettiğiniz bildirilemez:"
+      ],
+      "The organizer cannot be notified that you want to change your answer:": [
+        "Düzenleyiciye yanıtınızı değiştirmek istediğiniz bildirilemez:"
+      ],
+      "The organizer could not be notified that you changed your answer:": [
+        "Düzenleyiciye yanıtınızı değiştirdiğiniz bildirilemez:"
+      ],
+      "The organizer has updated some of the events in this series. Changing the calendar is not supported yet for this type of recurring events.": [
+        "Düzenleyici bu dizideki bazı etkinlikleri güncelledi. Bu tür yinelenen etkinliklerde takvim değişikliği henüz desteklenmiyor."
+      ],
+      "The organizer of this event will be notified that you decline the invitation. Would you like to delete this event?": [
+        "Bu etkinliğin düzenleyicisine daveti reddettiğiniz bildirilecek. Bu etkinliği silmek ister misiniz?"
+      ],
+      "The organizer of this event will not be notified that you decline the invitation as you can't send emails from the invited address. Would you like to delete this event anyway?": [
+        "Davet edilen adresten e-posta gönderemeyeceğiniz için bu etkinliğin düzenleyicisine daveti reddettiğiniz bildirilemeyecek. Yine de bu etkinliği silmek ister misiniz?"
+      ],
+      "The organizer of this series of events will be notified that you decline the invitation. Would you like to delete all the events in this series?": [
+        "Bu etkinlik dizisinin düzenleyicisine, daveti reddettiğiniz bildirilecek. Dizideki tüm etkinlikleri silmek ister misiniz?"
+      ],
+      "The organizer of this series of events will not be notified that you decline the invitation as you can't send emails from the invited address. Would you like to delete all the events in this series anyway?": [
+        "Davet edilen adresten e-posta gönderemeyeceğiniz için bu etkinlik dizisinin düzenleyicisine daveti reddettiğiniz bildirilemeyecek. Yine de dizideki tüm etkinlikleri silmek ister misiniz?"
+      ],
+      "This account has been suspended due to a potential policy violation.": [
+        "Bu hesap, olası bir ilke ihlali nedeniyle askıya alındı."
+      ],
+      "This address is disabled. To be able to send to this address, the owner must first enable the address.": [
+        "Bu adres devre dışı. Bu adrese e-posta gönderebilmek için önce sahibi adresi etkinleştirmelidir."
+      ],
+      "This event has been updated by the organizer. Would you like to change your answer only for this occurrence in this series?": [
+        "Bu etkinlik düzenleyici tarafından güncellendi. Yanıtınızı yalnızca bu dizideki bu etkinlik için değiştirmek ister misiniz?"
+      ],
+      "This event has been updated by the organizer. Would you like to delete this event?": [
+        "Bu etkinlik düzenleyici tarafından güncellendi. Bu etkinliği silmek ister misiniz?"
+      ],
+      "This event has been updated. The organizer will be notified that you decline the invitation. Would you like to delete this event?": [
+        "Bu etkinlik güncellendi. Düzenleyiciye, daveti reddettiğiniz bildirilecek. Bu etkinliği silmek ister misiniz?"
+      ],
+      "This event has been updated. The organizer will not be notified that you decline the invitation as you can't send emails from the invited address. Would you like to delete this event anyway?": [
+        "Bu etkinlik güncellendi. Davet edilen adresten e-posta gönderemeyeceğiniz için bu etkinliğin düzenleyicisine daveti reddettiğiniz bildirilemeyecek. Yine de bu etkinliği silmek ister misiniz?"
+      ],
+      "This link leads to a website that might be trying to steal your information, such as passwords and credit card details.": [
+        "Bu bağlantı, parola ve kredi kartı gibi bilgilerinizi çalmayı deneyen bir web sitesine gidiyor olabilir."
+      ],
+      "This link may be a homograph attack and cannot be opened by Internet Explorer and Edge browsers. If you are certain the link is legitimate, please use a different browser to open it.": [
+        "Bu bağlantı göründüğü gibi olmayan bir sahtecilik girişimi olabilir ve Internet Explorer ya da Edge tarayıcıları ile açılamaz. Bağlantının göründüğü gibi olduğundan eminseniz, açmak için farklı bir web tarayıcısı kullanın."
+      ],
+      "This link may be a homograph attack. Please verify this is the link you wish to visit, or don't open it.": [
+        "Bu bağlantı bir eşyazım saldırısı olabilir. Lütfen bunun ziyaret etmek istediğiniz bağlantı olduğunu doğrulayarak açın ya da açmayın."
+      ],
+      "To fight spam and abuse, please verify you are human.": [
+        "Spam ve kötüye kullanıma karşı lütfen insan olduğunuzu doğrulayın."
+      ],
+      "To re-sign your contacts, we need to check every contact against the list of encryption keys available in your account. If no match is found, your contact will be re-signed with the primary encryption key.": [
+        "Kişilerinizi yeniden imzalamak için, her kişiyi hesabınızda bulunan şifreleme anahtarı listesiyle kontrol etmemiz gerekir. Herhangi bir eşleşme bulunamazsa, kişiniz birincil şifreleme anahtarıyla yeniden imzalanır."
+      ],
+      "To recover your data, you need to re-activate the contact encryption key used at the time when the data was created. This will require you to remember the password used when the key was generated.": [
+        "Verilerinizi kurtarmak için, verilerin oluşturulduğu sırada kullanılan kişi şifreleme anahtarını yeniden etkinleştirmelisiniz. Bunun için anahtar oluşturulurken kullanılan parolayı bilmeniz gerekir."
+      ],
+      "To use Address Verification, you must trust one or more available public keys, including the one you want to use for sending. This prevents the encryption keys from being faked.": [
+        "Adres doğrulamasını kullanabilmek için, gönderirken kullanmak istediğinizle birlikte bir veya daha fazla kullanılabilecek herkese açık anahtara güvenmeniz gerekir. Güvenme işlemi, şifreleme anahtarlarının sahte olmasını önler."
+      ],
+      "Unlimited folders, labels, and filters": [
+        "Sınırsız klasör, etiket, süzgeç"
+      ],
+      "Unlimited messages": [
+        "Sınırsız ileti"
+      ],
+      "Update recurring event": [
+        "Yinelenen etkinliği güncelle"
+      ],
+      "Upgrade today to avoid losing the following ${ planName } benefits.": [
+        "${ planName } avantajlarını kaybetmemek için tarifenizi bugün yükseltin."
+      ],
+      "We'll notify you when the import is done.": [
+        "İçe aktarım tamamlandığında sizi bilgilendireceğiz."
+      ],
+      "We'll send a new verification code to ${ strong }": [
+        "${ strong } alıcısına yeni bir doğrulama kodu göndereceğiz"
+      ],
+      "We're moving! Join us at our new site: ${ link }.": [
+        "Taşınıyoruz! Bizimle yeni sitemizde buluşun: ${ link }."
+      ],
+      "Week": [
+        "Hafta"
+      ],
+      "Which event would you like to delete?": [
+        "Hangi etkinliği silmek istiyorsunuz?"
+      ],
+      "Which event would you like to update?": [
+        "Hangi etkinliği güncellemek istiyorsunuz?"
+      ],
+      "Would you like to change your answer for all the events in this series?": [
+        "Bu dizideki tüm etkinlikler için yanıtınızı değiştirmek ister misiniz?"
+      ],
+      "Would you like to continue anyway?": [
+        "Yine de devam etmek ister misiniz?"
+      ],
+      "Would you like to delete all the events in this series?": [
+        "Bu dizideki tüm etkinlikleri silmek ister misiniz?"
+      ],
+      "Would you like to delete the event anyway?": [
+        "Yine de etkinliği silmek ister misiniz?"
+      ],
+      "Would you like to delete this event?": [
+        "Bu etkinliği silmek ister misiniz?"
+      ],
+      "Would you like to receive a new verification code or use an alternative verification method?": [
+        "Yeni bir doğrulama kodu almak ya da alternatif bir doğrulama yöntemi kullanmak ister misiniz?"
+      ],
+      "Would you like to receive a new verification code?": [
+        "Yeni bir doğrulama kodu almak ister misiniz?"
+      ],
+      "Would you like to update all events in this series?": [
+        "Bu dizideki tüm etkinlikleri güncellemek ister misiniz?"
+      ],
+      "Would you like to update this event?": [
+        "Bu etkinliği güncellemek ister misiniz?"
+      ],
+      "Yearly": [
+        "Yıllık"
+      ],
+      "You are about to open another browser tab and visit:": [
+        "Şu adresi ziyaret etmek için başka bir tarayıcı sekmesi açmak üzeresiniz:"
+      ],
+      "You are currently signed in as ${ user.Name } (${ user.Email }).": [
+        "Şu anda ${ user.Name } (${ user.Email }) olarak oturum açmış durumdasınız."
+      ],
+      "You can also merge imported calendars with existing Proton calendars.": [
+        "Ayrıca içe aktarılan takvimleri var olan Proton takvimleriyle birleştirebilirsiniz."
+      ],
+      "You can check the progress ${ importProgressLink }.": [
+        "${ importProgressLink } ilerlemesine bakabilirsiniz."
+      ],
+      "You can only modify personal event properties as you can't send emails from the organizer address.": [
+        "Düzenleyici adresinden e-posta gönderemeyeceğiniz için yalnızca kişisel etkinlik özelliklerini değiştirebilirsiniz."
+      ],
+      "You can turn on notifications to get alerts when new email messages arrive in this folder.": [
+        "Bu klasöre yeni e-posta iletileri geldiğinde uyarı almak için bildirimleri açabilirsiniz."
+      ],
+      "You have reactivated your keys and events linked to the following calendars can now be decrypted.": [
+        "Anahtarlarınızı yeniden etkinleştirdiniz ve şu takvimlere bağlı etkinliklerin şifresi artık çözülebilir."
+      ],
+      "You have reset your password and events linked to the following calendars couldn't be decrypted.\nAny shared calendar links you created previously will no longer work.\nAny active subscribed calendars will synchronize again after a few minutes.": [
+        "Parolanızı sıfırladınız ve şu takvimlere bağlı etkinliklerin şifresi çözülemedi.\nÖnceden oluşturduğunuz paylaşılan takvim bağlantıları artık kullanılamayacak.\nAbone olunmuş etkin takvimler birkaç dakika sonra yeniden eşitlenecek."
+      ],
+      "You reached ${ spaceDisplayed }% of your storage capacity. ${ freeUpMessage } ${ upgradeLink }": [
+        "Depolama kapasitenizi %${ spaceDisplayed } oranında kullanıyorsunuz. ${ freeUpMessage } ${ upgradeLink }"
+      ],
+      "You reached 100% of your storage capacity. You cannot send or receive new emails. ${ freeUpMessage } ${ upgradeLink }": [
+        "Depolama kapasitenizi %100 oranında kullanıyorsunuz. Yeni e-postalar gönderemez veya alamazsınız. ${ freeUpMessage } ${ upgradeLink }"
+      ],
+      "You will lose all unsaved changes.": [
+        "Kaydedilmemiş tüm değişiklikleri kaybedeceksiniz."
+      ],
+      "You will update all the events in this series. Added and removed participants will be notified.": [
+        "Bu dizideki tüm etkinlikleri güncelleyeceksiniz. Değişiklikler eklenen ve çıkarılan katılımcılara bildirilecek."
+      ],
+      "You will update all the events in this series. An invitation will be sent to the event participants.": [
+        "Bu dizideki tüm etkinlikleri güncelleyeceksiniz. Etkinlik katılımcılarına bir davet gönderilecek."
+      ],
+      "You will update all the events in this series. Existent and added participants will be notified.": [
+        "Bu dizideki tüm etkinlikleri güncelleyeceksiniz. Değişiklikler var olan ve eklenen katılımcılara bildirilecek."
+      ],
+      "You will update all the events in this series. Existent and removed participants will be notified.": [
+        "Bu dizideki tüm etkinlikleri güncelleyeceksiniz. Değişiklikler var olan ve çıkarılmış katılımcılara bildirilecek."
+      ],
+      "You will update all the events in this series. Existent, added and removed participants will be notified.": [
+        "Bu dizideki tüm etkinlikleri güncelleyeceksiniz. Değişiklikler var olan, eklenen ve çıkarılan katılımcılara bildirilecek."
+      ],
+      "You will update all the events in this series. Removed participants will be notified.": [
+        "Bu dizideki tüm etkinlikleri güncelleyeceksiniz. Değişiklikler çıkarılmış katılımcılara bildirilecek."
+      ],
+      "Your account has at least one overdue invoice. Your access has been restricted. ${ payInvoiceLink }": [
+        "Hesabınızda zamanında ödenmemiş en az bir fatura var. Erişiminiz kısıtlandı. ${ payInvoiceLink }"
+      ],
+      "Your account has at least one overdue invoice. Your access will soon get restricted. ${ payInvoiceLink }": [
+        "Hesabınızda zamanında ödenmemiş en az bir fatura var. Erişiminiz yakında kısıtlanacak. ${ payInvoiceLink }"
+      ],
+      "Your address is disabled. A cancellation email cannot be sent to the event participants. Would you like to delete all events in this series anyway?": [
+        "Adresiniz devre dışı bırakılmış. Etkinlik katılımcılarına bir iptal bilgilendirmesi e-postası gönderilemeyecek. Yine de bu dizideki tüm etkinlikleri silmek ister misiniz?"
+      ],
+      "Your address is disabled. A cancellation email cannot be sent to the event participants. Would you like to delete this event anyway?": [
+        "Adresiniz devre dışı bırakılmış. Etkinlik katılımcılarına bir iptal bilgilendirmesi e-postası gönderilemeyecek. Yine de bu etkinliği silmek ister misiniz?"
+      ],
+      "Your data is ready to import from ${ importedEmailAddressStrong } to your Proton account.": [
+        "Verileriniz ${ importedEmailAddressStrong } üzerinden Proton hesabınız içine aktarılmaya hazır."
+      ],
+      "Your email will only be used for this one-time verification.": [
+        "E-posta adresiniz yalnızca bu tek seferlik doğrulama için kullanılacak."
+      ],
+      "Your events will be encrypted and then saved.": [
+        "Etkinlikleriniz şifrelendikten sonra kaydedilecek."
+      ],
+      "Your phone number will only be used for this one-time verification.": [
+        "Telefon numaranız yalnızca bu tek seferlik doğrulama için kullanılacak."
+      ],
+      "Your Proton account is currently on hold. To continue using your account, please pay any overdue invoices.": [
+        "Proton hesabınız şu anda askıda. Hesabınızı kullanmayı sürdürmek için, lütfen ödenmemiş faturalarınızı ödeyin."
+      ],
+      "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
+        "Sistem saat diliminiz ${ timezone } olarak değişmiş gibi görünüyor. Saat dilimi tercihinizi güncellemek ister misiniz?"
+      ]
+    },
+    "Info on errors": {
+      "Click for details": [
+        "Ayrıntılar için tıklayın"
+      ]
+    },
+    "Info, no need for singular": {
+      "Multiple contacts look identical. ${ mergeAction }": [
+        "Birden fazla kişi aynı görünüyor. ${ mergeAction }"
+      ]
+    },
+    "Key badge": {
+      "Compromised": [
+        "Ele geçirilmiş"
+      ],
+      "Expired": [
+        "Süresi geçmiş"
+      ],
+      "Obsolete": [
+        "Eskimiş"
+      ],
+      "Primary": [
+        "Birincil"
+      ],
+      "Revoked": [
+        "Geçersiz kılınmış"
+      ],
+      "Trusted": [
+        "Güvenilir"
+      ],
+      "WKD": [
+        "WKD"
+      ]
+    },
+    "Label": {
+      "(Temporarily unavailable. Please check back later.)": [
+        "(Geçici olarak kullanılamıyor. Lütfen bir süre sonra yeniden bakın.)"
+      ],
+      "0 - Not likely": [
+        "0 - Önermem"
+      ],
+      "10 - Extremely likely": [
+        "10 - Kesinlikle öneririm"
+      ],
+      "Add email address": [
+        "E-posta adresi ekle"
+      ],
+      "Add image URL": [
+        "Adresten görsel ekle"
+      ],
+      "Add to group": [
+        "Gruba ekle"
+      ],
+      "All day": [
+        "Tüm gün"
+      ],
+      "Attach screenshot(s)": [
+        "Ekran görüntüsü ekle"
+      ],
+      "Automatically save contacts": [
+        "Kişileri otomatik olarak kaydet"
+      ],
+      "Browser": [
+        "Tarayıcı"
+      ],
+      "Browser version": [
+        "Tarayıcı sürümü"
+      ],
+      "Calendar": [
+        "Takvim"
+      ],
+      "Calendars": [
+        "Takvimler"
+      ],
+      "Category": [
+        "Kategori"
+      ],
+      "City": [
+        "İl"
+      ],
+      "Code is 6 digits without spaces": [
+        "Doğrulama kodu boşluk içermeyen 6 rakamdan oluşur"
+      ],
+      "Color": [
+        "Renk"
+      ],
+      "Contacts": [
+        "Kişiler"
+      ],
+      "Copy": [
+        "Kopyala"
+      ],
+      "Country": [
+        "Ülke"
+      ],
+      "Date and time": [
+        "Tarih ve saat"
+      ],
+      "Default email address": [
+        "Varsayılan e-posta adresi"
+      ],
+      "Default event duration": [
+        "Varsayılan etkinlik süresi"
+      ],
+      "Default full day notifications": [
+        "Varsayılan tüm gün bildirimleri"
+      ],
+      "Default notifications": [
+        "Varsayılan bildirimler"
+      ],
+      "Delete": [
+        "Sil"
+      ],
+      "Description": [
+        "Açıklama"
+      ],
+      "Display": [
+        "Görüntülensin"
+      ],
+      "Do not ask again": [
+        "Bir daha sorma"
+      ],
+      "Email address": [
+        "E-posta adresi"
+      ],
+      "Email format": [
+        "E-posta biçimi"
+      ],
+      "Emails": [
+        "E-postalar"
+      ],
+      "Enable Beta Access": [
+        "Beta erişimini etkinleştir"
+      ],
+      "Encrypt emails": [
+        "E-postaları şifrele"
+      ],
+      "Ends": [
+        "Bitiş"
+      ],
+      "Event title": [
+        "Etkinlik başlığı"
+      ],
+      "Export contacts": [
+        "Kişileri dışa aktar"
+      ],
+      "Extended address": [
+        "Açık adres"
+      ],
+      "Folder location": [
+        "Klasör konumu"
+      ],
+      "Frequency": [
+        "Yinelenme"
+      ],
+      "From: ${ importedEmail }": [
+        "Nereden: ${ importedEmail }"
+      ],
+      "Hide password": [
+        "Parolayı gizle"
+      ],
+      "How likely are you to recommend ${ calendarAppName } to a friend or colleague?": [
+        "${ calendarAppName } uygulamasını bir arkadaşınıza veya iş arkadaşınıza önerme olasılığınız nedir?"
+      ],
+      "I understand the risk": [
+        "Riski anladım"
+      ],
+      "Import all messages": [
+        "Tüm iletileri içe aktar"
+      ],
+      "Import contacts": [
+        "Kişileri içe aktar"
+      ],
+      "Import interval": [
+        "İçe aktarma aralığı"
+      ],
+      "Import to email address": [
+        "E-posta adresi içine aktar"
+      ],
+      "Import to:": [
+        "Şunun içine aktar:"
+      ],
+      "Label messages as": [
+        "İletiler şu şekilde etiketlensin"
+      ],
+      "Last 12 months only": [
+        "Yalnızca son 12 ay"
+      ],
+      "Last 3 months only": [
+        "Yalnızca son 3 ay"
+      ],
+      "Last month only": [
+        "Yalnızca son bir ay"
+      ],
+      "Location": [
+        "Konum"
+      ],
+      "Mailbox password": [
+        "Posta kutusu parolası"
+      ],
+      "Manage folders": [
+        "Klasör yönetimi"
+      ],
+      "Manage labels": [
+        "Etiket yönetimi"
+      ],
+      "Name": [
+        "Ad"
+      ],
+      "Notification": [
+        "Bildirim"
+      ],
+      "Notifications": [
+        "Bildirimler"
+      ],
+      "Operating system": [
+        "İşletim istemi"
+      ],
+      "Operating system version": [
+        "İşletim sistemi sürümü"
+      ],
+      "Optional": [
+        "İsteğe bağlı"
+      ],
+      "Organizer": [
+        "Düzenleyici"
+      ],
+      "participant": [
+        "katılımcı",
+        "katılımcı"
+      ],
+      "Participants": [
+        "Katılımcılar"
+      ],
+      "Password": [
+        "Parola"
+      ],
+      "PGP scheme": [
+        "PGP şeması"
+      ],
+      "Phone number": [
+        "Telefon numarası"
+      ],
+      "Post office box": [
+        "Posta kutusu"
+      ],
+      "Postal code": [
+        "Posta kodu"
+      ],
+      "Proton username": [
+        "Proton kullanıcı adı"
+      ],
+      "Public keys": [
+        "Herkese açık anahtarlar"
+      ],
+      "Region": [
+        "Bölge"
+      ],
+      "Repeat every": [
+        "Yinelenme sıklığı"
+      ],
+      "Repeat on": [
+        "Yinelenme zamanı"
+      ],
+      "Reveal password": [
+        "Parolayı göster"
+      ],
+      "Sign emails": [
+        "E-postaları imzala"
+      ],
+      "Street address": [
+        "Sokak adresi"
+      ],
+      "System information": [
+        "Sistem bilgileri"
+      ],
+      "To: ${ emailAddress }": [
+        "Nereye: ${ emailAddress }"
+      ],
+      "Two-factor authentication code": [
+        "İki aşamalı kimlik doğrulama kodu"
+      ],
+      "Upload picture": [
+        "Görsel yükle"
+      ],
+      "URL": [
+        "İnternet adresi"
+      ],
+      "Username or ${ MAIL_APP_NAME } address": [
+        "Kullanıcı adı ya da ${ MAIL_APP_NAME } adresi"
+      ],
+      "Verification code": [
+        "Doğrulama kodu"
+      ],
+      "What happened?": [
+        "Ne oldu?"
+      ]
+    },
+    "Label for contact group color": {
+      "Color": [
+        "Renk"
+      ]
+    },
+    "Label for contact group name": {
+      "Name": [
+        "Ad"
+      ]
+    },
+    "Label/folder modal": {
+      "Create folder": [
+        "Klasör oluştur"
+      ],
+      "Create label": [
+        "Etiket oluştur"
+      ],
+      "Edit folder": [
+        "Klasörü düzenle"
+      ],
+      "Edit label": [
+        "Etiketi düzenle"
+      ]
+    },
+    "label/folder notification": {
+      "${ Label.Name } created": [
+        "${ Label.Name } oluşturuldu"
+      ]
+    },
+    "Link": {
+      "Calendars": [
+        "Takvimler"
+      ],
+      "clearing your browser cache": [
+        "web tarayıcınızın ön belleğini temizlemek"
+      ],
+      "Go to subscription plans": [
+        "Abonelik tarifelerine git"
+      ],
+      "Learn more": [
+        "Ayrıntılı bilgi alın"
+      ],
+      "My calendars": [
+        "Takvimlerim"
+      ],
+      "Pay invoice": [
+        "Fatura ödeme"
+      ],
+      "Request an invite": [
+        "Davet isteği yap"
+      ],
+      "Subscribed calendars": [
+        "Abone olunmuş takvimler"
+      ],
+      "Upgrade": [
+        "Yükselt"
+      ],
+      "Upgrade account": [
+        "Hesabı yüksek tarifeye geçir"
+      ]
+    },
+    "Loading info": {
+      "Almost there": [
+        "Neredeyse tamam"
+      ],
+      "Amount of calendars created: ${ createdCalendars } out of ${ calendarsToBeCreated }": [
+        "Oluşturulan takvim sayısı: ${ createdCalendars } / ${ calendarsToBeCreated }"
+      ],
+      "Creating new calendars": [
+        "Yeni takvimler oluşturuluyor"
+      ],
+      "Gathering your data": [
+        "Verileriniz toplanıyor"
+      ],
+      "We're gathering your data from your provider": [
+        "Hizmet sağlayıcınızdan verilerinizi topluyoruz"
+      ],
+      "Your import is starting": [
+        "İçe aktarma işleminize başlanıyor"
+      ]
+    },
+    "Mail import summary": {
+      "Import all messages from ${ selectedLabelsCount } out of ${ totalLabelsCount } label since ${ periodFragment } and label them as ${ LABEL_MARKUP_PLACEHOLDER }": [
+        "${ periodFragment } öncesinden başlayarak ${ selectedLabelsCount }/${ totalLabelsCount } etiket içindeki tüm iletileri içe aktar ve ${ LABEL_MARKUP_PLACEHOLDER } olarak etiketle",
+        "${ periodFragment } öncesinden başlayarak ${ selectedLabelsCount }/${ totalLabelsCount } etiket içindeki tüm iletileri içe aktar ve ${ LABEL_MARKUP_PLACEHOLDER } olarak etiketle"
+      ],
+      "Import all messages from ${ totalLabelsCount } label since ${ periodFragment } and label them as ${ LABEL_MARKUP_PLACEHOLDER }": [
+        "${ periodFragment } öncesinden başlayarak ${ totalLabelsCount } etiket içindeki tüm iletileri içe aktar ve ${ LABEL_MARKUP_PLACEHOLDER } olarak etiketle",
+        "${ periodFragment } öncesinden başlayarak ${ totalLabelsCount } etiket içindeki tüm iletileri içe aktar ve ${ LABEL_MARKUP_PLACEHOLDER } olarak etiketle"
+      ]
+    },
+    "Message": {
+      "Fw:": [
+        "İlt:"
+      ],
+      "Re:": [
+        "Ynt:"
+      ],
+      "Your free trial has ended. Access to your account will soon be disabled. ${ action }": [
+        "Ücretsiz deneme süreniz doldu. Hesap erişiminiz yakında devre dışı bırakılacak. ${ action }"
+      ]
+    },
+    "Message display when a new app version is available": {
+      "A new version of ${ appName } is available. ${ reloadButton }.": [
+        "${ appName } uygulamasının yeni bir sürümü yayınlanmış. ${ reloadButton }."
+      ]
+    },
+    "MIME type": {
+      "Automatic": [
+        "Otomatik"
+      ],
+      "Plain text": [
+        "Düz metin"
+      ]
+    },
+    "Modal action": {
+      "Close": [
+        "Kapat"
+      ],
+      "Manage calendars": [
+        "Takvim yönetimi"
+      ]
+    },
+    "Modal title": {
+      "Time zone changed": [
+        "Saat dilimi değişti"
+      ],
+      "Unable to add more calendars": [
+        "Başka takvim eklenemez"
+      ]
+    },
+    "Modal title and action": {
+      "Add calendar": [
+        "Takvim ekle"
+      ]
+    },
+    "Monthly recurring event, frequency": {
+      "Every ${ interval } month ${ onDayString }": [
+        "${ interval } ayda bir ${ onDayString }",
+        "${ interval } ayda bir ${ onDayString }"
+      ],
+      "Every ${ interval } month ${ onDayString }, ${ timesString }": [
+        "${ interval } ayda bir ${ onDayString }, ${ timesString }",
+        "${ interval } ayda bir ${ onDayString }, ${ timesString }"
+      ],
+      "Every ${ interval } month ${ onDayString }, ${ untilString }": [
+        "${ interval } ayda bir ${ onDayString }, ${ untilString }",
+        "${ interval } ayda bir ${ onDayString }, ${ untilString }"
+      ],
+      "Monthly ${ onDayString }": [
+        "Ayda bir ${ onDayString }"
+      ],
+      "Monthly ${ onDayString }, ${ timesString }": [
+        "Ayda bir ${ onDayString }, ${ timesString }"
+      ],
+      "Monthly ${ onDayString }, ${ untilString }": [
+        "Ayda bir ${ onDayString }, ${ untilString }"
+      ]
+    },
+    "Monthly recurring event, repeats on": {
+      "on day ${ dayOfMonth }": [
+        "${ dayOfMonth }. günü"
+      ],
+      "on the first Friday": [
+        "ilk Cuma günü"
+      ],
+      "on the first Monday": [
+        "ilk Pazartesi günü"
+      ],
+      "on the first Saturday": [
+        "ilk Cumartesi günü"
+      ],
+      "on the first Sunday": [
+        "ilk Pazar günü"
+      ],
+      "on the first Thursday": [
+        "ilk Perşembe günü"
+      ],
+      "on the first Tuesday": [
+        "ilk Salı günü"
+      ],
+      "on the first Wednesday": [
+        "ilk Çarşamba günü"
+      ],
+      "on the fourth Friday": [
+        "dördüncü Cuma günü"
+      ],
+      "on the fourth Monday": [
+        "dördüncü Pazartesi günü"
+      ],
+      "on the fourth Saturday": [
+        "dördüncü Cumartesi"
+      ],
+      "on the fourth Sunday": [
+        "dördüncü Pazar günü"
+      ],
+      "on the fourth Thursday": [
+        "dördüncü Perşembe günü"
+      ],
+      "on the fourth Tuesday": [
+        "dördüncü Salı günü"
+      ],
+      "on the fourth Wednesday": [
+        "dördüncü Çarşamba günü"
+      ],
+      "on the last Friday": [
+        "son Cuma günü"
+      ],
+      "on the last Monday": [
+        "son Pazartesi günü"
+      ],
+      "on the last Saturday": [
+        "son Cumartesi günü"
+      ],
+      "on the last Sunday": [
+        "son Pazar günü"
+      ],
+      "on the last Thursday": [
+        "son Perşembe günü"
+      ],
+      "on the last Tuesday": [
+        "son Salı günü"
+      ],
+      "on the last Wednesday": [
+        "son Çarşamba günü"
+      ],
+      "on the second Friday": [
+        "ikinci Cuma günü"
+      ],
+      "on the second Monday": [
+        "ikinci Pazartesi günü"
+      ],
+      "on the second Saturday": [
+        "ikinci Cumartesi günü"
+      ],
+      "on the second Sunday": [
+        "ikinci Pazar günü"
+      ],
+      "on the second Thursday": [
+        "ikinci Perşembe günü"
+      ],
+      "on the second Tuesday": [
+        "ikinci Salı günü"
+      ],
+      "on the second Wednesday": [
+        "ikinci Çarşamba günü"
+      ],
+      "on the third Friday": [
+        "üçüncü Cuma günü"
+      ],
+      "on the third Monday": [
+        "üçüncü Pazartesi günü"
+      ],
+      "on the third Saturday": [
+        "üçüncü Cumartesi günü"
+      ],
+      "on the third Sunday": [
+        "üçüncü Pazar günü"
+      ],
+      "on the third Thursday": [
+        "üçüncü Perşembe günü"
+      ],
+      "on the third Tuesday": [
+        "üçüncü Salı günü"
+      ],
+      "on the third Wednesday": [
+        "üçüncü Çarşamba günü"
+      ]
+    },
+    "New Label form": {
+      "Color": [
+        "Renk"
+      ],
+      "Folder name": [
+        "Klasör adı"
+      ],
+      "Label name": [
+        "Etiket adı"
+      ]
+    },
+    "new_plans: action": {
+      "Switch or add account": [
+        "Hesap değiştirin ya da ekleyin"
+      ]
+    },
+    "new_plans: info": {
+      "Introducing Proton’s refreshed look.${ br } Many services, one mission. Welcome to an internet where privacy is the default.": [
+        "Yenilenmiş Proton böyle görünüyor.${ br }Birçok hizmet, tek amaç. Kişisel gizliliğin doğal sayıldığı internet fikrine hoş geldiniz."
+      ]
+    },
+    "new_plans: label": {
+      "Tell us about your experience (Optional)": [
+        "Bize deneyimlerinizi anlatın (isteğe bağlı)"
+      ]
+    },
+    "new_plans: placeholder": {
+      "Feedback": [
+        "Geri bildirim"
+      ]
+    },
+    "new_plans: title": {
+      "Give feedback": [
+        "Geri bildirim verin"
+      ],
+      "Updated Proton, unified protection": [
+        "Güncellenmiş Proton, birleşik koruma"
+      ]
+    },
+    "Notification": {
+      "Contact group created": [
+        "Kişi grubu oluşturuldu"
+      ],
+      "Contact group updated": [
+        "Kişi grubu güncellendi"
+      ]
+    },
+    "Notification suffix": {
+      "by email": [
+        "e-posta ile"
+      ]
+    },
+    "Notification time input": {
+      "at": [
+        "tarih"
+      ]
+    },
+    "Notification type": {
+      "email": [
+        "e-posta"
+      ],
+      "notification": [
+        "Bildirim"
+      ]
+    },
+    "Notification when": {
+      "at time of event": [
+        "etkinlik saatinde"
+      ],
+      "day before": [
+        "gün önce",
+        "gün önce"
+      ],
+      "hour before": [
+        "saat önce",
+        "saat önce"
+      ],
+      "minute before": [
+        "dakika önce",
+        "dakika önce"
+      ],
+      "on the same day": [
+        "aynı gün"
+      ],
+      "week before": [
+        "hafta önce",
+        "hafta önce"
+      ]
+    },
+    "Notifications": {
+      "${ value } day after": [
+        "${ value } gün sonra",
+        "${ value } gün sonra"
+      ],
+      "${ value } day after at ${ time }": [
+        "${ value } gün sonra ${ time } saatinde",
+        "${ value } gün sonra ${ time } saatinde"
+      ],
+      "${ value } day before": [
+        "${ value } gün önce",
+        "${ value } gün önce"
+      ],
+      "${ value } day before at ${ time }": [
+        "${ value } gün önce ${ time } saatinde",
+        "${ value } gün önce ${ time } saatinde"
+      ],
+      "${ value } hour after": [
+        "${ value } saat sonra",
+        "${ value } saat sonra"
+      ],
+      "${ value } hour after at ${ time }": [
+        "${ value } saat sonra ${ time } saatinde",
+        "${ value } saat sonra ${ time } saatinde"
+      ],
+      "${ value } hour before": [
+        "${ value } saat önce",
+        "${ value } saat önce"
+      ],
+      "${ value } hour before at ${ time }": [
+        "${ value } saat önce ${ time } saatinde",
+        "${ value } saat önce ${ time } saatinde"
+      ],
+      "${ value } minute after": [
+        "${ value } dakika sonra",
+        "${ value } dakika sonra"
+      ],
+      "${ value } minute after at ${ time }": [
+        "${ value } dakika sonra ${ time } saatinde",
+        "${ value } dakika sonra ${ time } saatinde"
+      ],
+      "${ value } minute before": [
+        "${ value } dakika önce",
+        "${ value } dakika önce"
+      ],
+      "${ value } minute before at ${ time }": [
+        "${ value } dakika önce ${ time } saatinde",
+        "${ value } dakika önce ${ time } saatinde"
+      ],
+      "${ value } week after": [
+        "${ value } hafta sonra",
+        "${ value } hafta sonra"
+      ],
+      "${ value } week after at ${ time }": [
+        "${ value } hafta sonra ${ time } saatinde",
+        "${ value } hafta sonra ${ time } saatinde"
+      ],
+      "${ value } week before": [
+        "${ value } hafta önce",
+        "${ value } hafta önce"
+      ],
+      "${ value } week before at ${ time }": [
+        "${ value } hafta önce ${ time } saatinde",
+        "${ value } hafta önce ${ time } saatinde"
+      ],
+      "At time of event": [
+        "Etkinlik saatinde"
+      ],
+      "On the same day at ${ time }": [
+        "Aynı gün ${ time } saatinde"
+      ],
+      "Unknown": [
+        "Bilinmiyor"
+      ]
+    },
+    "Oauth instructions": {
+      "Next you'll need to sign in to your Google account and grant Proton access to your data.": [
+        "Ardından, Google hesabınızda oturum açmanız ve verilerinize Proton tarafından erişilmesine izin vermeniz gerekecek."
+      ]
+    },
+    "Oauth instructions video": {
+      "For the import to work, you must select all requested items as shown in the GIF.": [
+        "İçe aktarma işleminin yapılabilmesi için, görseldeki gibi gerekli tüm ögeleri seçmelisiniz."
+      ]
+    },
+    "Onboarding": {
+      "Welcome to ${ appName }": [
+        "${ appName } hoş geldiniz"
+      ],
+      "Where you can take control of your time and your data.": [
+        "Zamanınızı ve verilerinizi kontrol altına aldığınız yer."
+      ]
+    },
+    "Onboarding Action": {
+      "Next": [
+        "Sonraki"
+      ],
+      "Start using ${ appName }": [
+        "${ appName } kullanmaya başlayın"
+      ]
+    },
+    "Onboarding Proton": {
+      "Configure your organization, link your domain name, and create accounts to ensure all members of your organization are protected.": [
+        "Kuruluşunuzun tüm üyelerinin korunduğundan emin olmak için kuruluşunuzu yapılandırın, etki alanı adınızı bağlayın ve hesaplar oluşturun."
+      ],
+      "Discover all Proton services": [
+        "Tüm Proton hizmetlerini keşfedin"
+      ],
+      "Select a theme": [
+        "Bir tema seçin"
+      ],
+      "Set up your organization": [
+        "Kuruluş ayarlarınızı yapın"
+      ],
+      "Use the app selector in the top left to access other Proton services, including VPN, Calendar and Drive.": [
+        "VPN, Calendar ve Drive gibi diğer Proton hizmetlerine erişmek için sol üstteki uygulama seçiciyi kullanın."
+      ],
+      "You can change this anytime in your settings.": [
+        "Bunu istediğiniz zaman ayarlarınızdan değiştirebilirsiniz."
+      ]
+    },
+    "Option": {
+      "Add to existing group": [
+        "Var olan gruba ekle"
+      ],
+      "All events": [
+        "Tüm etkinlikler"
+      ],
+      "Create new group": [
+        "Yeni grup oluştur"
+      ],
+      "Custom": [
+        "Özel"
+      ],
+      "Day": [
+        "Gün",
+        "Gün"
+      ],
+      "Does not repeat": [
+        "Yinelenmiyor"
+      ],
+      "Every day": [
+        "Her gün"
+      ],
+      "Every month": [
+        "Her ay"
+      ],
+      "Every week": [
+        "Her hafta"
+      ],
+      "Every year": [
+        "Her yıl"
+      ],
+      "Ignore group": [
+        "Grubu yok say"
+      ],
+      "Month": [
+        "Ay",
+        "Ay"
+      ],
+      "No parent folder": [
+        "Üst klasör yok"
+      ],
+      "This and future events": [
+        "Bu ve gelecekteki etkinlikler"
+      ],
+      "This event": [
+        "Bu etkinlik"
+      ],
+      "Week": [
+        "Hafta",
+        "Hafta"
+      ],
+      "Year": [
+        "Yıl",
+        "Yıl"
+      ]
+    },
+    "Option group label": {
+      "Create new calendar": [
+        "Yeni takvim oluştur"
+      ],
+      "Merge with calendar": [
+        "Takvim ile birleştir"
+      ]
+    },
+    "Participant name": {
+      "You": [
+        "Siz"
+      ]
+    },
+    "Participants expand button label": {
+      "Collapse participants list": [
+        "Katılımcı listesini daralt"
+      ],
+      "Expand participants list": [
+        "Katılımcı listesini genişlet"
+      ]
+    },
+    "Personal calendar limit reached modal body": {
+      "Unable to create more calendars. You have reached the maximum of personal calendars within your plan.": [
+        "Daha fazla takvim oluşturulamıyor. Tarifenizin en fazla kişisel takvim sayısına ulaştınız."
+      ]
+    },
+    "PGP key encryption warning": {
+      "Key cannot be used for encryption": [
+        "Anahtar şifreleme için kullanılamaz"
+      ]
+    },
+    "PGP Key info": {
+      "${ emailAddress } has marked this key as compromised. This key cannot be used neither for encryption nor for signature verification.": [
+        "${ emailAddress } kullanıcısı bu anahtarı ele geçirilmiş olarak işaretlemiş. Bu anahtar şifreleme ya da imza doğrulaması için kullanılamaz."
+      ],
+      "${ emailAddress } has marked this key as obsolete. This key can only be used for signature verification.": [
+        "${ emailAddress } kullanıcısı bu anahtarı eskimiş olarak işaretlemiş. Bu anahtar yalnızca imza doğrulaması için kullanılabilir."
+      ],
+      "We recommend that you \"untrust\" this key.": [
+        "Bu anahtara \"güvenmemeniz\" önerilir."
+      ]
+    },
+    "PGP key warning": {
+      "Email address not found among user ids defined in sending key (${ keyUserIds })": [
+        "E-posta adresi, gönderme anahtarında tanımlanmış kullanıcı kimlikleri arasında bulunamadı (${ keyUserIds })"
+      ]
+    },
+    "Placeholder": {
+      "A way to contact you": [
+        "Sizinle iletişim kurmanın bir yolu"
+      ],
+      "Add a calendar description": [
+        "Bir takvim açıklaması ekleyin"
+      ],
+      "Add a calendar name": [
+        "Bir takvim adı ekleyin"
+      ],
+      "Add description": [
+        "Açıklama ekle"
+      ],
+      "Add location": [
+        "Konum ekleyin"
+      ],
+      "Add participants": [
+        "Katılımcı ekleyin"
+      ],
+      "Add title": [
+        "Başlık ekleyin"
+      ],
+      "E.g., ": [
+        "Örnek: "
+      ],
+      "Filter groups": [
+        "Grupları süz"
+      ],
+      "Image URL": [
+        "Görsel adresi"
+      ],
+      "Mailbox password": [
+        "Posta kutusu parolası"
+      ],
+      "Name": [
+        "Ad"
+      ],
+      "Password": [
+        "Parola"
+      ],
+      "Please describe the problem and include any error messages": [
+        "Lütfen sorunu açıklayın ve varsa hata iletisini ekleyin"
+      ],
+      "Search for group name": [
+        "Grup adı ile arayın"
+      ],
+      "Search for name or email": [
+        "Ad veya e-posta adresi ile arayın"
+      ],
+      "Select": [
+        "Seçin"
+      ],
+      "Start typing an email address": [
+        "Bir e-posta adresi yazmaya başlayın"
+      ]
+    },
+    "Placeholder for contact group name": {
+      "Name": [
+        "Ad"
+      ]
+    },
+    "Placeholder for contact with no name": {
+      "(No name)": [
+        "(Adsız)"
+      ]
+    },
+    "Progress bar description": {
+      "${ contactsExported.length } out of ${ countContacts } contacts successfully exported.": [
+        "${ contactsExported.length }/${ countContacts } kişi dışa aktarıldı."
+      ],
+      "${ model.deleted.length } out of ${ totalBeDeleted } contact successfully deleted.": [
+        "${ totalBeDeleted } / ${ model.deleted.length } kişi silindi.",
+        "${ totalBeDeleted } / ${ model.deleted.length } kişi silindi."
+      ],
+      "${ model.submitted.length } out of ${ totalBeMerged } contact successfully merged.": [
+        "${ totalBeMerged } / ${ model.submitted.length } kişi birleştirildi.",
+        "${ totalBeMerged } / ${ model.submitted.length } kişi birleştirildi."
+      ],
+      "No contacts exported.": [
+        "Dışa herhangi bir kişi aktarılmadı."
+      ],
+      "No contacts merged.": [
+        "Herhangi bir kişi birleştirilmedi."
+      ],
+      "Progress: ${ combinedProgress }%": [
+        "İlerleme: %${ combinedProgress }"
+      ]
+    },
+    "Property type": {
+      "Address": [
+        "Adres"
+      ],
+      "Email": [
+        "E-posta"
+      ],
+      "Fax": [
+        "Faks"
+      ],
+      "Home": [
+        "Ev"
+      ],
+      "Main": [
+        "Ana"
+      ],
+      "Mobile": [
+        "Cep telefonu"
+      ],
+      "Other": [
+        "Diğer"
+      ],
+      "Pager": [
+        "Çağrı cihazı"
+      ],
+      "Phone": [
+        "Telefon"
+      ],
+      "Work": [
+        "İş"
+      ]
+    },
+    "Refresh on apply warning": {
+      "Note: the service will reload after you click the Apply button.": [
+        "Not: Uygula düğmesine tıkladıktan sonra hizmet yeniden yüklenir."
+      ]
+    },
+    "Select files": {
+      "Upload": [
+        "Yükle"
+      ]
+    },
+    "Select search results": {
+      "No results found": [
+        "Herhangi bir sonuç bulunamadı"
+      ]
+    },
+    "Settings update growler warning": {
+      "Failed to update settings": [
+        "Ayarlar güncellenmedi"
+      ]
+    },
+    "Sidebar calendar edit tooltip": {
+      "Manage calendar": [
+        "Takvim yönetimi"
+      ]
+    },
+    "Spotlight": {
+      "Get up to 18 months of ${ planName } for free": [
+        "18 aya kadar ücretsiz ${ planName } kazanın"
+      ],
+      "Invite friends and earn rewards!": [
+        "Arkadaşlarınızı davet edin ve ödül kazanın!"
+      ],
+      "No more missed appointments": [
+        "Zamanı geçmiş başka bir etkinlik yok"
+      ],
+      "With email notifications, you decide which events to be notified about and when.": [
+        "E-posta bildirimleri ile hangi etkinliklerin ne zaman bildirileceğini belirleyebilirsiniz."
+      ]
+    },
+    "Storage": {
+      "Release notes": [
+        "Sürüm notları"
+      ],
+      "Upgrade storage": [
+        "Depolama alanını artırın"
+      ],
+      "Your current storage:": [
+        "Geçerli depolama alanınız:"
+      ]
+    },
+    "Subscribe to calendar modal": {
+      "Calendar URL": [
+        "Takvim adresi"
+      ],
+      "To subscribe to an external or public calendar and its updates, enter the URL. A read-only version of the calendar will be added to your Subscribed calendars.\n${ kbLink }": [
+        "Takvime ve güncellemelerine abone olmak istediğiniz dış ya da herkese açık takvimin adresini yazın. Bu takvim salt okunur şekilde abone olduğunuz takvimler arasına eklenir.\n${ kbLink }"
+      ]
+    },
+    "Subscribe to calendar modal description": {
+      "Learn how to get a private calendar link.": [
+        "Kişisel takvim bağlantısını nasıl edineceğinizi öğrenin."
+      ]
+    },
+    "Subscribed calendar extension warning": {
+      "By using this link, Google will make the calendar you are subscribing to public": [
+        "Bu bağlantıyı kullandığınızda Google, abone olduğunuz takvimi herkese açık yapacak"
+      ],
+      "This link might be wrong": [
+        "Bu bağlantı yanlış olabilir"
+      ]
+    },
+    "Subscribed calendar feature unavailable error": {
+      "Subscribing to a calendar is unavailable at the moment": [
+        "Şu anda bir takvime abone olunamıyor"
+      ]
+    },
+    "Subscribed calendar limit reached modal body": {
+      "Unable to add more calendars. You have reached the maximum of subscribed calendars within your plan.": [
+        "Daha fazla takvim oluşturulamıyor. Tarifenizdeki en fazla abone olunabilecek takvim sayısına ulaştınız."
+      ]
+    },
+    "Subscribed calendar URL length warning": {
+      "URL is too long": [
+        "Adres çok uzun"
+      ]
+    },
+    "Success": {
+      "A cancellation email will be sent to removed participants for all the events in this series.": [
+        "Çıkarılan katılımcılara bu dizideki tüm etkinlikler için bir iptal bilgilendirmesi gönderilecek."
+      ],
+      "Address copied to clipboard": [
+        "Adres panoya kopyalandı"
+      ],
+      "All events deleted": [
+        "Tüm etkinlikler silindi"
+      ],
+      "All events updated": [
+        "Tüm etkinlikler güncellendi"
+      ],
+      "An invitation will be sent to added participants for all the events in this series.": [
+        "Eklenen katılımcılara bu dizideki tüm etkinlikler için bir davetiye gönderilecek."
+      ],
+      "Answer sent and all events deleted": [
+        "Yanıt gönderildi ve tüm etkinlikler silindi"
+      ],
+      "Answer sent and event deleted": [
+        "Yanıt gönderildi ve etkinlik silindi"
+      ],
+      "Bug reported": [
+        "Hata bildirildi"
+      ],
+      "Calendar added. It might take a few minutes to sync.": [
+        "Takvim eklendi. Eşitlenmesi birkaç dakika sürebilir."
+      ],
+      "Calendar created": [
+        "Takvim oluşturuldu"
+      ],
+      "Calendar updated": [
+        "Takvim güncellendi"
+      ],
+      "Cancellation sent and all events deleted": [
+        "İptal bilgilendirmesi gönderildi ve tüm etkinlikler silindi"
+      ],
+      "Cancellation sent and event deleted": [
+        "İptal bilgilendirmesi gönderildi ve etkinlik silindi"
+      ],
+      "Cancellation sent and participants removed": [
+        "İptal bilgilendirmesi gönderildi ve katılımcılar çıkarıldı"
+      ],
+      "Cancellation sent and participants removed from all events": [
+        "İptal bilgilendirmesi gönderildi ve katılımcılar tüm etkinlliklerden çıkarıldı"
+      ],
+      "Code sent to ${ methodTo }": [
+        "Kod ${ methodTo } ile gönderildi"
+      ],
+      "Contact deleted": [
+        "Kişi silindi",
+        "Kişiler silindi"
+      ],
+      "Contact group deleted": [
+        "Kişi grubu silindi",
+        "Kişi grupları silindi"
+      ],
+      "Contact saved": [
+        "Kişi kaydedildi"
+      ],
+      "Contacts deleted": [
+        "Kişiler silindi"
+      ],
+      "Email address copied to clipboard": [
+        "E-posta adresi panoya kopyalandı"
+      ],
+      "Event created": [
+        "Etkinlik oluşturuldu"
+      ],
+      "Event deleted": [
+        "Etkinlik silindi"
+      ],
+      "Event updated": [
+        "Etkinlik güncellendi"
+      ],
+      "Events created": [
+        "Etkinlikler oluşturuldu"
+      ],
+      "Fingerprint copied to clipboard": [
+        "Parmak izi panoya kopyalandı"
+      ],
+      "Future events deleted": [
+        "Gelecekteki etkinlikler silindi"
+      ],
+      "Future events updated": [
+        "Gelecekteki etkinlikler güncellendi"
+      ],
+      "Invitation sent and all events updated": [
+        "Davet gönderildi ve tüm etkinlikler güncellendi"
+      ],
+      "Invitation sent and event created": [
+        "Davet gönderildi ve etkinlik oluşturuldu"
+      ],
+      "Invitation sent and events created": [
+        "Davet gönderildi ve etkinlikler oluşturuldu"
+      ],
+      "Invitation sent and participants added": [
+        "Davet gönderildi ve katılımcılar eklendi"
+      ],
+      "Invitation sent and participants added to all events": [
+        "Davet gönderildi ve katılımcılar tüm etkinliklere eklendi"
+      ],
+      "Participants notified and all events updated": [
+        "Katılımcılar bilgilendirildi ve tüm etkinlikler güncellendi"
+      ],
+      "Participants notified and changes saved": [
+        "Katılımcılar bilgilendirildi ve değişiklikler kaydedildi"
+      ],
+      "Participants notified and event updated": [
+        "Katılımcılar bilgilendirildi ve etkinlik güncellendi"
+      ],
+      "Participation status updated": [
+        "Katılım durumu güncellendi"
+      ],
+      "Participation status updated for all events": [
+        "Tüm etkinlikler için katılım durumu güncellendi"
+      ],
+      "Phone number copied to clipboard": [
+        "Telefon numarası panoya kopyalandı"
+      ],
+      "Preference saved": [
+        "Tercih kaydedildi"
+      ],
+      "Preferences saved": [
+        "Tercihler kaydedildi"
+      ],
+      "Verification successful": [
+        "Doğrulandı"
+      ]
+    },
+    "Success notification when user send feedback": {
+      "Feedback sent": [
+        "Geri bildirim gönderildi"
+      ]
+    },
+    "Suffix for price": {
+      "/month": [
+        "/ay"
+      ]
+    },
+    "Table header": {
+      "Action": [
+        "İşlem"
+      ],
+      "Actions": [
+        "İşlemler"
+      ],
+      "Address": [
+        "Adres"
+      ],
+      "Created": [
+        "Oluşturulma"
+      ],
+      "Expires": [
+        "Geçerlilik sonu"
+      ],
+      "Fingerprint": [
+        "Parmak izi"
+      ],
+      "Name": [
+        "Ad"
+      ],
+      "Status": [
+        "Durum"
+      ],
+      "Type": [
+        "Tür"
+      ]
+    },
+    "TableHeader": {
+      "Actions": [
+        "İşlemler"
+      ],
+      "Address": [
+        "Adres"
+      ],
+      "CSV field": [
+        "CSV alanı"
+      ],
+      "Import": [
+        "İçe aktar"
+      ],
+      "Name": [
+        "Ad"
+      ],
+      "Values": [
+        "Değerler"
+      ],
+      "vCard field": [
+        "vCard alanı"
+      ]
+    },
+    "Text": {
+      "Introducing the updated Proton.": [
+        "Güncellenmiş Proton ile tanışın."
+      ],
+      "More services, one privacy mission.": [
+        "Daha fazla hizmet, tek kişisel gizlilik amacı."
+      ],
+      "Settings": [
+        "Ayarlar"
+      ]
+    },
+    "Time period": {
+      "account creation date": [
+        "hesap oluşturma tarihi"
+      ],
+      "the last 12 months": [
+        "son 12 ay"
+      ],
+      "the last 3 months": [
+        "son 3 ay"
+      ],
+      "the last month": [
+        "son bir ay"
+      ]
+    },
+    "Time unit": {
+      "${ hours } hour": [
+        "${ hours } saat",
+        "${ hours } saat"
+      ],
+      "${ minutes } minute": [
+        "${ minutes } dakika",
+        "${ minutes } dakika"
+      ]
+    },
+    "Timezone search placeholder": {
+      "Search timezones": [
+        "Saat dilimleri ara"
+      ]
+    },
+    "Title": {
+      "${ emailsCount } member": [
+        "${ emailsCount } üye",
+        "${ emailsCount } üye"
+      ],
+      "Account suspended": [
+        "Hesap askıya alındı"
+      ],
+      "Add another notification to remind you of this event": [
+        "Bu etkinliği hatırlatacak başka bir bildirim ekleyin"
+      ],
+      "Add contact group name": [
+        "Kişi grubu adı ekle"
+      ],
+      "Add event location": [
+        "Etkinlik konumunu ekleyin"
+      ],
+      "Add event title": [
+        "Etkinlik başlığını ekleyin"
+      ],
+      "Add more information related to this event": [
+        "Bu etkinlikle ilgili daha fazla bilgi ekleyin"
+      ],
+      "Add participants": [
+        "Katılımcı ekle"
+      ],
+      "Add to ${ groupCount } group": [
+        "${ groupCount } gruba ekle",
+        "${ groupCount } gruba ekle"
+      ],
+      "Add to ${ groupName }": [
+        "${ groupName } grubuna ekle"
+      ],
+      "Addresses": [
+        "Adresler"
+      ],
+      "Back": [
+        "Geri"
+      ],
+      "Beta Access": [
+        "Beta erişimi"
+      ],
+      "Calendar": [
+        "Takvim"
+      ],
+      "Calendar alarm": [
+        "Takvim alarmı"
+      ],
+      "Change my answer": [
+        "Yanıtımı değiştir"
+      ],
+      "Choose how many times this event will repeat": [
+        "Bu etkinliğin sona ermeden önce kaç kez yineleneceğini seçin"
+      ],
+      "Choose how often this event repeats": [
+        "Bu etkinliğin yinelenme sıklığını seçin"
+      ],
+      "Clearing data": [
+        "Veriler temizleniyor"
+      ],
+      "Contact details": [
+        "Kişi ayrıntıları"
+      ],
+      "Contact Details": [
+        "Kişi ayrıntıları"
+      ],
+      "Contact group": [
+        "Kişi grubu"
+      ],
+      "Contacts": [
+        "Kişiler"
+      ],
+      "Continue with partial import?": [
+        "Kısmi içe aktarmayla devam edilsin mi?"
+      ],
+      "Create calendar": [
+        "Takvim oluştur"
+      ],
+      "Create contact": [
+        "Kişi oluştur"
+      ],
+      "Create new group": [
+        "Yeni grup oluştur"
+      ],
+      "Currency": [
+        "Para birimi"
+      ],
+      "Customize and confirm": [
+        "Özelleştir ve onayla"
+      ],
+      "Customize calendar import": [
+        "Takvim içe aktarma işlemini özelleştirin"
+      ],
+      "Customize your mail import": [
+        "Posta içe aktarma işleminizi özelleştirin"
+      ],
+      "Delete ${ count } contact": [
+        "${ count } kişiyi sil",
+        "${ count } kişiyi sil"
+      ],
+      "Delete ${ count } contact group": [
+        "${ count } kişi grubunu sil",
+        "${ count } kişi grubunu sil"
+      ],
+      "Delete ${ Name }": [
+        "${ Name } kişisini sil"
+      ],
+      "Delete event": [
+        "Etkinliği sil"
+      ],
+      "Delete recurring event": [
+        "Yinelenen etkinliği sil"
+      ],
+      "Deleting contacts": [
+        "Kişileri silme"
+      ],
+      "Drop to upload": [
+        "Yüklemek için bırakın"
+      ],
+      "Edit calendar": [
+        "Takvimi düzenle"
+      ],
+      "Edit contact": [
+        "Kişiyi düzenle"
+      ],
+      "Edit contact group": [
+        "Kişi grubunu düzenle"
+      ],
+      "Edit image": [
+        "Görseli düzenle"
+      ],
+      "Email addresses": [
+        "E-posta adresleri"
+      ],
+      "Email settings": [
+        "E-posta ayarları"
+      ],
+      "Email settings (${ emailAddress })": [
+        "E-posta ayarları (${ emailAddress })"
+      ],
+      "Enter your password": [
+        "Parolanızı yazın"
+      ],
+      "Enter your username or ${ MAIL_APP_NAME } email address": [
+        "Kullanıcı adınızı ya da ${ MAIL_APP_NAME } e-posta adresinizi yazın"
+      ],
+      "Error": [
+        "Hata"
+      ],
+      "Event is happening all day": [
+        "Etkinlik tüm gün sürecekse işaretleyin"
+      ],
+      "Event is happening on defined time slot": [
+        "Etkinlik belirlenmiş zaman aralığında gerçekleşecekse işaretleyin"
+      ],
+      "Exporting contacts": [
+        "Kişileri dışa aktarma"
+      ],
+      "Feedback": [
+        "Geri bildirim"
+      ],
+      "Groups": [
+        "Gruplar"
+      ],
+      "Hide time zones for event start and end times": [
+        "Etkinlik başlangıç ve bitiş saatlerinin saat dilimlerini gizler"
+      ],
+      "Human verification": [
+        "İnsan olduğunuzu doğrulayın"
+      ],
+      "Import as simple event?": [
+        "İçe basit etkinlik olarak aktarılsın mı?",
+        "İçe basit etkinlik olarak aktarılsın mı?"
+      ],
+      "Import contacts": [
+        "Kişileri içe aktarma"
+      ],
+      "Import events": [
+        "Etkinlikleri içe aktar"
+      ],
+      "Import failed": [
+        "İçe aktarılamadı"
+      ],
+      "Import groups": [
+        "Grupları içe aktarma"
+      ],
+      "Invalid verification code": [
+        "Doğrulama kodu geçersiz"
+      ],
+      "Link confirmation": [
+        "Bağlantı onayı"
+      ],
+      "Merge contacts": [
+        "Kişileri birleştir"
+      ],
+      "Merging contacts": [
+        "Kişileri birleştirme"
+      ],
+      "Open actions dropdown": [
+        "İşlemler menüsünü aç"
+      ],
+      "Open help menu": [
+        "Yardım menüsünü aç"
+      ],
+      "Open settings menu": [
+        "Ayarlar menüsünü aç"
+      ],
+      "Organizer cannot be notified": [
+        "Düzenleyiciye bildirim gönderilemedi"
+      ],
+      "Other information": [
+        "Diğer bilgiler"
+      ],
+      "Other names": [
+        "Diğer adlar"
+      ],
+      "Participants cannot be notified": [
+        "Katılımcılara bildirim gönderilemedi"
+      ],
+      "Phone numbers": [
+        "Telefon numaraları"
+      ],
+      "Re-sign all contacts": [
+        "Tüm kişileri yeniden imzala"
+      ],
+      "Re-signing contacts": [
+        "Kişiler yeniden imzalanıyor"
+      ],
+      "Reactivate calendar keys": [
+        "Takvim anahtarlarını yeniden etkinleştir"
+      ],
+      "Recover data": [
+        "Verileri kurtar"
+      ],
+      "Remove participants": [
+        "Katılımcıları kaldır"
+      ],
+      "Report a problem": [
+        "Sorun bildir"
+      ],
+      "Request new code": [
+        "Yeni kod iste"
+      ],
+      "Reset calendar keys": [
+        "Takvim anahtarlarını sıfırla"
+      ],
+      "Save changes": [
+        "Değişiklikleri kaydet"
+      ],
+      "Select a day in the month": [
+        "Ayın bir gününü seçin"
+      ],
+      "Select a theme": [
+        "Bir tema seçin"
+      ],
+      "Select action to take on contact group": [
+        "Kişi grubunda yapılacak işlemi seçin"
+      ],
+      "Select contact group": [
+        "Kişi grubunu seç"
+      ],
+      "Select event end date": [
+        "Etkinlik bitiş tarihini seçin"
+      ],
+      "Select event end time": [
+        "Etkinlik bitiş saatini seçin"
+      ],
+      "Select event frequency": [
+        "Etkinlik sıklığını seçin"
+      ],
+      "Select event frequency interval": [
+        "Etkinliğin yinelenme aralığını seçin"
+      ],
+      "Select event start date": [
+        "Etkinlik başlangıç tarihini seçin"
+      ],
+      "Select event start time": [
+        "Etkinlik başlangıç saatini seçin"
+      ],
+      "Select event's last date": [
+        "Etkinliğin yinelenmesinin sona ereceği günü seçin"
+      ],
+      "Select the time to send this notification": [
+        "Bu bildirimin gönderileceği zamanı seçin"
+      ],
+      "Select the time zone for the event end time": [
+        "Etkinlik bitiş zamanının saat dilimini seçin"
+      ],
+      "Select the time zone for the event start time": [
+        "Etkinlik başlangıç zamanının saat dilimini seçin"
+      ],
+      "Select the way to send this notification": [
+        "Bu bildirimin iletilme yöntemini seçin"
+      ],
+      "Select when this event will stop happening": [
+        "Bu etkinlik yinelemesinin ne zaman durdurulacağını seçin"
+      ],
+      "Select when you want this notification to be sent": [
+        "Bu bildirimin gönderilmesini istediğiniz zamanı seçin"
+      ],
+      "Select which calendar to add this event to": [
+        "Bu etkinliğin hangi takvime ekleneceğini seçin"
+      ],
+      "Send feedback": [
+        "Geri bildirim gönder"
+      ],
+      "Send invitation": [
+        "Davet gönder"
+      ],
+      "Settings": [
+        "Ayarlar"
+      ],
+      "Show time zones for event start and end times": [
+        "Etkinlik başlangıç ve bitiş saatlerinin saat dilimlerini gösterir"
+      ],
+      "Sign in again to continue": [
+        "Devam etmek için yeniden oturum açın"
+      ],
+      "Sign in and grant access": [
+        "Oturum açın ve erişim izni verin"
+      ],
+      "Update event": [
+        "Etkinliği güncelle"
+      ],
+      "Update recurring event": [
+        "Yinelenen etkinliği güncelle"
+      ],
+      "Upgrade required": [
+        "Yükseltme gerekli"
+      ],
+      "View contacts": [
+        "Kişileri görüntüle"
+      ],
+      "Warning": [
+        "Uyarı"
+      ],
+      "Warning: suspected fake website": [
+        "Uyarı: Şüpheli sahte web sitesi"
+      ],
+      "What would you like to import?": [
+        "Neyi içe aktarmak istersiniz?"
+      ],
+      "What's new": [
+        "Yenilikler"
+      ],
+      "You have invited participants with equivalent emails": [
+        "Katılımcıları eşdeğer e-postalarla davet ettiniz"
+      ],
+      "Your free trial ends soon, on ${ formattedEndDate }": [
+        "Ücretsiz denemeniz yakında ${ formattedEndDate } tarihinde sona erecek"
+      ]
+    },
+    "Title (number of minutes/hours/days/weeks)": {
+      "Choose a number": [
+        "Bir sayı seçin"
+      ]
+    },
+    "Today icon tooltip in mini calendar": {
+      "Today": [
+        "Bugün"
+      ]
+    },
+    "Tooltip": {
+      "Automatic indicates that the format in the composer is used to send to this user. Plain text indicates that the message will always be converted to plain text on send.": [
+        "Otomatik, bu kullanıcıya gönderim için oluşturucudaki biçimin kullanılacağını belirtir. Düz metin, iletinin gönderim sırasında her zaman düz metne dönüştürüleceğini belirtir."
+      ],
+      "Digitally signing emails helps authenticating that messages are sent by you": [
+        "E-postaları dijital olarak imzalamak, iletilerin sizin tarafınızdan gönderildiğinin doğrulanmasını sağlar"
+      ],
+      "Each imported email will have this label": [
+        "İçe aktarılan her e-postaya bu etiket atanacak"
+      ],
+      "Email encryption forces email signature to help authenticate your sent messages": [
+        "E-posta şifrelemesi, gönderilen iletilerinizin kimliğinin doğrulanmasını sağlamak için e-posta imzası kullanılmasını zorunlu kılar"
+      ],
+      "Encrypted data": [
+        "Şifrelenmiş veri"
+      ],
+      "Encrypted data with verified digital signature": [
+        "Doğrulanmış dijital imza ile şifrelenmiş veri"
+      ],
+      "Select the PGP scheme to be used when signing or encrypting to a user. Note that PGP/Inline forces plain text messages": [
+        "Bir kullanıcı için imzalama veya şifreleme sırasında kullanılacak PGP şemasını seçin. PGP/Inline için iletilerin düz metin biçiminde olması gerektiğini unutmayın"
+      ],
+      "System subfolders will show up as separate folders in ${ MAIL_APP_NAME }": [
+        "Sistem alt klasörleri ${ MAIL_APP_NAME } üzerinde ayrı klasörler olarak görünecek"
+      ],
+      "The import will start with the most recent messages.": [
+        "İçe aktarma yeni iletilerden eski iletilere doğru yapılacak."
+      ],
+      "Upload a public key to enable sending end-to-end encrypted emails to this email": [
+        "Bu e-posta adresine uçtan uca şifrelenmiş e-postalar göndermek için bir herkese açık anahtar yükleyin"
+      ],
+      "You do not have any contacts to export": [
+        "Dışa aktarılacak bir kişi kaydınız yok"
+      ]
+    },
+    "Validation": {
+      "Password must contain at least ${ length } character": [
+        "Parola en az ${ length } karakter uzunluğunda olmalıdır",
+        "Parola en az ${ length } karakter uzunluğunda olmalıdır"
+      ]
+    },
+    "Video control": {
+      "Click to replay the video": [
+        "Görüntüyü yeniden oynatmak için tıklayın"
+      ],
+      "Replay video": [
+        "Görüntüyü yeniden oynat"
+      ]
+    },
+    "Warning": {
+      "Are you sure you want to permanently delete ${ count } contact group?": [
+        "${ count } kişi grubunu kalıcı olarak silmek istediğinize emin misiniz?",
+        "${ count } kişi grubunu kalıcı olarak silmek istediğinize emin misiniz?"
+      ],
+      "Are you sure you want to permanently delete ${ count } contact?": [
+        "${ count } kişiyi kalıcı olarak silmek istediğinize emin misiniz?",
+        "${ count } kişiyi kalıcı olarak silmek istediğinize emin misiniz?"
+      ],
+      "Are you sure you want to permanently delete this contact group?": [
+        "Bu kişi grubunu kalıcı olarak silmek istediğinize emin misiniz?"
+      ],
+      "Are you sure you want to permanently delete this contact?": [
+        "Bu kişiyi kalıcı olarak silmek istediğinize emin misiniz?"
+      ],
+      "Contacts could not be merged": [
+        "Kişiler birleştirilemedi"
+      ],
+      "If you don’t remember your password, it is impossible to re-activate your key. We can help you dismiss the alert banner but in the process you will permanently lose access to all the data encrypted with that key.": [
+        "Parolanızı hatırlamıyorsanız, anahtarınız yeniden etkinleştirilemez. Bu uyarıyı kapatmanıza yardımcı olabiliriz. Ancak bu süreçte bu anahtarla şifrelenmiş tüm verilere erişimi kalıcı olarak kaybedeceksiniz."
+      ],
+      "Live chat is a premium feature available only to those with paid ${ VPN_APP_NAME } plans. Please open a ticket instead.": [
+        "Canlı sohbet yalnızca ücretli ${ VPN_APP_NAME } tarifelerindeki kullanıcıların yararlanabildiği bir özelliktir. Lütfen bunun yerine bir destek kaydı açın."
+      ],
+      "Proton will merge all folders with the same name. To avoid this, change the names before import.": [
+        "Proton aynı adlı tüm klasörleri birleştirecek. Bunu istemiyorsanız, içe aktarmadan önce klasör adlarını değiştirin."
+      ],
+      "Reports are not end-to-end encrypted, please do not send any sensitive information.": [
+        "Bildirimler uçtan uca şifrelenmez. Lütfen herhangi bir hassas bilgi göndermeyin."
+      ],
+      "Some of the contacts to be merged display errors. Please review them individually": [
+        "Birleştirilecek kişilerin bazılarında hatalar görüntüleniyor. Lütfen bunları tek tek inceleyin"
+      ],
+      "The contact data is corrupted and cannot be displayed.": [
+        "Kişi verileri bozulmuş olduğundan görüntülenemiyor."
+      ],
+      "The contact failed to load.": [
+        "Kişi yüklenemedi."
+      ],
+      "The date and time settings on your device are out of sync. ${ learnMore }": [
+        "Aygıtınızın tarih ve saat ayarları eşit değil. ${ learnMore }"
+      ],
+      "The decryption of the encrypted content failed.": [
+        "Şifrelenmiş içeriğin şifresi çözülemedi."
+      ],
+      "The verification of the contact details' signature failed.": [
+        "Kişi ayrıntıları imzası doğrulanamadı."
+      ],
+      "This action is irreversible. Please enter the word ${ boldDanger } in the field to proceed.": [
+        "Bu işlem geri alınamaz. Devam etmek için lütfen kutuya ${ boldDanger } sözcüğünü yazın."
+      ],
+      "This feature requires a paid Proton account": [
+        "Bu özellik ücretli bir Proton hesabında kullanılabilir"
+      ],
+      "Unfortunately, we’re not online at the moment. Please complete the form below to describe your issue, and we will look into it and be in touch when we’re back online.": [
+        "Ne yazık ki, şu anda çevrimiçi değiliz. Lütfen sorununuzu aktarmak için aşağıdaki formu doldurun. Yeniden çevrimiçi olduğumuzda inceleyip size geri döneceğiz."
+      ],
+      "You will lose any customization you made so far.": [
+        "Şu ana kadar yaptığınız tüm özelleştirmeler silinecek."
+      ],
+      "Your free trial ends on ${ textDate }. ${ action }": [
+        "Ücretsiz denemeniz ${ textDate } tarihinde sona erecek. ${ action }"
+      ]
+    },
+    "Weekly recurring event, frequency": {
+      "Every ${ interval } week on ${ multipleDaysString }": [
+        "${ interval } haftada bir ${ multipleDaysString }",
+        "${ interval } haftada bir ${ multipleDaysString }"
+      ],
+      "Every ${ interval } week on ${ multipleDaysString }, ${ timesString }": [
+        "${ interval } haftada bir ${ multipleDaysString }, ${ timesString }",
+        "${ interval } haftada bir ${ multipleDaysString }, ${ timesString }"
+      ],
+      "Every ${ interval } week on ${ multipleDaysString }, ${ untilString }": [
+        "${ interval } haftada bir ${ multipleDaysString }, ${ untilString }",
+        "${ interval } haftada bir ${ multipleDaysString }, ${ untilString }"
+      ],
+      "Every ${ interval } week on all days": [
+        "${ interval } haftada bir her gün",
+        "${ interval } haftada bir her gün"
+      ],
+      "Every ${ interval } week on all days, ${ timesString }": [
+        "${ interval } haftada bir her gün, ${ timesString }",
+        "${ interval } haftada bir her gün, ${ timesString }"
+      ],
+      "Every ${ interval } week on all days, ${ untilString }": [
+        "${ interval } haftada bir her gün, ${ untilString }",
+        "${ interval } haftada bir her gün, ${ untilString }"
+      ],
+      "Every ${ interval } week on Friday": [
+        "${ interval } haftada bir Cuma günü",
+        "${ interval } haftada bir Cuma günü"
+      ],
+      "Every ${ interval } week on Friday, ${ timesString }": [
+        "${ interval } haftada bir Cuma günü, ${ timesString }",
+        "${ interval } haftada bir Cuma günü, ${ timesString }"
+      ],
+      "Every ${ interval } week on Friday, ${ untilString }": [
+        "${ interval } haftada bir Cuma günü, ${ untilString }",
+        "${ interval } haftada bir Cuma günü, ${ untilString }"
+      ],
+      "Every ${ interval } week on Monday": [
+        "${ interval } haftada bir Pazartesi günü",
+        "${ interval } haftada bir Pazartesi günü"
+      ],
+      "Every ${ interval } week on Monday, ${ timesString }": [
+        "${ interval } haftada bir Pazartesi günü, ${ timesString }",
+        "${ interval } haftada bir Pazartesi günü, ${ timesString }"
+      ],
+      "Every ${ interval } week on Monday, ${ untilString }": [
+        "${ interval } haftada bir Pazartesi günü, ${ untilString }",
+        "${ interval } haftada bir Pazartesi günü, ${ untilString }"
+      ],
+      "Every ${ interval } week on Saturday": [
+        "${ interval } haftada bir Cumartesi günü",
+        "${ interval } haftada bir Cumartesi günü"
+      ],
+      "Every ${ interval } week on Saturday, ${ timesString }": [
+        "${ interval } haftada bir Cumartesi günü, ${ timesString }",
+        "${ interval } haftada bir Cumartesi günü, ${ timesString }"
+      ],
+      "Every ${ interval } week on Saturday, ${ untilString }": [
+        "${ interval } haftada bir Cumartesi günü, ${ untilString }",
+        "${ interval } haftada bir Cumartesi günü, ${ untilString }"
+      ],
+      "Every ${ interval } week on Sunday": [
+        "${ interval } haftada bir Pazar günü",
+        "${ interval } haftada bir Pazar günü"
+      ],
+      "Every ${ interval } week on Sunday, ${ timesString }": [
+        "${ interval } haftada bir Pazar günü, ${ timesString }",
+        "${ interval } haftada bir Pazar günü, ${ timesString }"
+      ],
+      "Every ${ interval } week on Sunday, ${ untilString }": [
+        "${ interval } haftada bir Pazar günü, ${ untilString }",
+        "${ interval } haftada bir Pazar günü, ${ untilString }"
+      ],
+      "Every ${ interval } week on Thursday": [
+        "${ interval } haftada bir Perşembe günü",
+        "${ interval } haftada bir Perşembe günü"
+      ],
+      "Every ${ interval } week on Thursday, ${ timesString }": [
+        "${ interval } haftada bir Perşembe günü, ${ timesString }",
+        "${ interval } haftada bir Perşembe günü, ${ timesString }"
+      ],
+      "Every ${ interval } week on Thursday, ${ untilString }": [
+        "${ interval } haftada bir Perşembe günü, ${ untilString }",
+        "${ interval } haftada bir Perşembe günü, ${ untilString }"
+      ],
+      "Every ${ interval } week on Tuesday": [
+        "${ interval } haftada bir Salı günü",
+        "${ interval } haftada bir Salı günü"
+      ],
+      "Every ${ interval } week on Tuesday, ${ timesString }": [
+        "${ interval } haftada bir Salı günü, ${ timesString }",
+        "${ interval } haftada bir Salı günü, ${ timesString }"
+      ],
+      "Every ${ interval } week on Tuesday, ${ untilString }": [
+        "${ interval } haftada bir Salı günü, ${ untilString }",
+        "${ interval } haftada bir Salı günü, ${ untilString }"
+      ],
+      "Every ${ interval } week on Wednesday": [
+        "${ interval } haftada bir Çarşamba günü",
+        "${ interval } haftada bir Çarşamba günü"
+      ],
+      "Every ${ interval } week on Wednesday, ${ timesString }": [
+        "${ interval } haftada bir Çarşamba günü, ${ timesString }",
+        "${ interval } haftada bir Çarşamba günü, ${ timesString }"
+      ],
+      "Every ${ interval } week on Wednesday, ${ untilString }": [
+        "${ interval } haftada bir Çarşamba günü, ${ untilString }",
+        "${ interval } haftada bir Çarşamba günü, ${ untilString }"
+      ],
+      "Weekly on ${ multipleDaysString }": [
+        "Haftada bir ${ multipleDaysString }"
+      ],
+      "Weekly on ${ multipleDaysString }, ${ timesString }": [
+        "Haftada bir ${ multipleDaysString }, ${ timesString }"
+      ],
+      "Weekly on ${ multipleDaysString }, ${ untilString }": [
+        "Haftada bir ${ multipleDaysString }, ${ untilString }"
+      ],
+      "Weekly on all days": [
+        "Haftada bir her gün"
+      ],
+      "Weekly on all days, ${ timesString }": [
+        "Haftada bir her gün, ${ timesString }"
+      ],
+      "Weekly on all days, ${ untilString }": [
+        "Haftada bir her gün, ${ untilString }"
+      ],
+      "Weekly on Friday": [
+        "Haftada bir Cuma günü"
+      ],
+      "Weekly on Friday, ${ timesString }": [
+        "Haftada bir Cuma günü, ${ timesString }"
+      ],
+      "Weekly on Friday, ${ untilString }": [
+        "Haftada bir Cuma günü, ${ untilString }"
+      ],
+      "Weekly on Monday": [
+        "Haftada bir Pazartesi günü"
+      ],
+      "Weekly on Monday, ${ timesString }": [
+        "Haftada bir Pazartesi günü, ${ timesString }"
+      ],
+      "Weekly on Monday, ${ untilString }": [
+        "Haftada bir Pazartesi günü, ${ untilString }"
+      ],
+      "Weekly on Saturday": [
+        "Haftada bir Cumartesi günü"
+      ],
+      "Weekly on Saturday, ${ timesString }": [
+        "Haftada bir Cumartesi günü, ${ timesString }"
+      ],
+      "Weekly on Saturday, ${ untilString }": [
+        "Haftada bir Cumartesi günü, ${ untilString }"
+      ],
+      "Weekly on Sunday": [
+        "Haftada bir Pazar günü"
+      ],
+      "Weekly on Sunday, ${ timesString }": [
+        "Haftada bir Pazar günü, ${ timesString }"
+      ],
+      "Weekly on Sunday, ${ untilString }": [
+        "Haftada bir Pazar günü, ${ untilString }"
+      ],
+      "Weekly on Thursday": [
+        "Haftada bir Perşembe günü"
+      ],
+      "Weekly on Thursday, ${ timesString }": [
+        "Haftada bir Perşembe günü, ${ timesString }"
+      ],
+      "Weekly on Thursday, ${ untilString }": [
+        "Haftada bir Perşembe günü, ${ untilString }"
+      ],
+      "Weekly on Tuesday": [
+        "Haftada bir Salı günü"
+      ],
+      "Weekly on Tuesday, ${ timesString }": [
+        "Haftada bir Salı günü, ${ timesString }"
+      ],
+      "Weekly on Tuesday, ${ untilString }": [
+        "Haftada bir Salı günü, ${ untilString }"
+      ],
+      "Weekly on Wednesday": [
+        "Haftada bir Çarşamba günü"
+      ],
+      "Weekly on Wednesday, ${ timesString }": [
+        "Haftada bir Çarşamba günü, ${ timesString }"
+      ],
+      "Weekly on Wednesday, ${ untilString }": [
+        "Haftada bir Çarşamba günü, ${ untilString }"
+      ]
+    },
+    "Weekly recurring event, repeats on (multiple days), frequency": {
+      "Friday": [
+        "Cuma"
+      ],
+      "Monday": [
+        "Pazartesi"
+      ],
+      "Saturday": [
+        "Cumartesi"
+      ],
+      "Sunday": [
+        "Pazar"
+      ],
+      "Thursday": [
+        "Perşembe"
+      ],
+      "Tuesday": [
+        "Salı"
+      ],
+      "Wednesday": [
+        "Çarşamba"
+      ]
+    },
+    "Yearly recurring event, frequency": {
+      "Every ${ interval } year": [
+        "${ interval } yılda bir",
+        "${ interval } yılda bir"
+      ],
+      "Every ${ interval } year, ${ timesString }": [
+        "${ interval } yılda bir, ${ timesString }",
+        "${ interval } yılda bir, ${ timesString }"
+      ],
+      "Every ${ interval } year, ${ untilString }": [
+        "${ interval } yılda bir, ${ untilString }",
+        "${ interval } yılda bir, ${ untilString }"
+      ],
+      "Yearly": [
+        "Yıllık"
+      ],
+      "Yearly, ${ timesString }": [
+        "Yılda bir, ${ timesString }"
+      ],
+      "Yearly, ${ untilString }": [
+        "Yılda bir, ${ untilString }"
+      ]
+    }
+  }
+}

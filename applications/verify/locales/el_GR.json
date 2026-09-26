@@ -1,0 +1,1013 @@
+{
+  "headers": {
+    "plural-forms": "nplurals=2; plural=(n != 1);",
+    "language": "el_GR"
+  },
+  "contexts": {
+    "Action": {
+      "Cancel": [
+        "Ακύρωση"
+      ],
+      "Close": [
+        "Κλείσιμο"
+      ],
+      "Close modal": [
+        "Κλείσιμο παραθύρου"
+      ],
+      "Didn't receive the code?": [
+        "Δεν λάβατε τον κωδικό;"
+      ],
+      "Edit email address": [
+        "Επεξεργασία ηλ. διεύθυνσης"
+      ],
+      "Edit phone number": [
+        "Επεξεργασία αριθμού τηλεφώνου"
+      ],
+      "Edit sign-in details": [
+        "Επεξεργασία στοιχείων εισόδου"
+      ],
+      "Get verification code": [
+        "Λήψη κωδικού επαλήθευσης"
+      ],
+      "refresh the page": [
+        "ανανεώστε τη σελίδα"
+      ],
+      "Request new code": [
+        "Αίτηση νέου κωδικού"
+      ],
+      "Submit": [
+        "Υποβολή"
+      ],
+      "Try another method": [
+        "Δοκιμάστε μια άλλη μέθοδο"
+      ],
+      "Verify": [
+        "Επαλήθευση"
+      ],
+      "Verify account": [
+        "Επαλήθευση λογαριασμού"
+      ],
+      "Verify email": [
+        "Επαλήθευση ηλ. διεύθυνσης"
+      ],
+      "View invoice": [
+        "Προβολή τιμολογίου"
+      ]
+    },
+    "Country name": {
+      "Abkhazia": [
+        "Αμπχαζία"
+      ],
+      "Afghanistan": [
+        "Αφγανιστάν"
+      ],
+      "Albania": [
+        "Αλβανία"
+      ],
+      "Algeria": [
+        "Αλγερία"
+      ],
+      "American Samoa": [
+        ""
+      ],
+      "Andorra": [
+        "Ανδόρα"
+      ],
+      "Angola": [
+        "Αγκόλα"
+      ],
+      "Anguilla": [
+        ""
+      ],
+      "Antarctica": [
+        "Ανταρκτική"
+      ],
+      "Antigua and Barbuda": [
+        ""
+      ],
+      "Argentina": [
+        "Αργεντινή"
+      ],
+      "Armenia": [
+        "Αρμενία"
+      ],
+      "Aruba": [
+        "Αρούμπα"
+      ],
+      "Ascension Island": [
+        ""
+      ],
+      "Australia": [
+        "Αυστραλία"
+      ],
+      "Austria": [
+        "Αυστρία"
+      ],
+      "Azerbaijan": [
+        "Αζερμπαϊτζάν"
+      ],
+      "Bahamas": [
+        "Μπαχάμες"
+      ],
+      "Bahrain": [
+        "Μπαχρέιν"
+      ],
+      "Bangladesh": [
+        ""
+      ],
+      "Barbados": [
+        "Μπαρμπάντος"
+      ],
+      "Belarus": [
+        "Λευκορωσία"
+      ],
+      "Belgium": [
+        "Βέλγιο"
+      ],
+      "Belize": [
+        ""
+      ],
+      "Benin": [
+        "Μπενίν"
+      ],
+      "Bermuda": [
+        "Βερμούδες"
+      ],
+      "Bhutan": [
+        "Μπουτάν"
+      ],
+      "Bolivia": [
+        "Βολιβία"
+      ],
+      "Bonaire, Sint Eustatius and Saba": [
+        ""
+      ],
+      "Bosnia and Herzegovina": [
+        "Βοσνία Ερζεγοβίνη"
+      ],
+      "Botswana": [
+        "Μποτσουάνα"
+      ],
+      "Bouvet Island": [
+        ""
+      ],
+      "Brazil": [
+        "Βραζιλία"
+      ],
+      "British Indian Ocean Territory": [
+        ""
+      ],
+      "Brunei Darussalam": [
+        ""
+      ],
+      "Bulgaria": [
+        "Βουλγαρία"
+      ],
+      "Burkina Faso": [
+        "Μπουρκίνα Φάσο"
+      ],
+      "Burma": [
+        "Βιρμανία"
+      ],
+      "Burundi": [
+        "Μπουρούντι"
+      ],
+      "Cambodia": [
+        "Καμπότζη"
+      ],
+      "Cameroon": [
+        "Καμερούν"
+      ],
+      "Canada": [
+        "Καναδάς"
+      ],
+      "Cape Verde": [
+        ""
+      ],
+      "Cayman Islands": [
+        ""
+      ],
+      "Central African Republic": [
+        "Κεντρική Αφρικανική Δημοκρατία"
+      ],
+      "Chad": [
+        "Τσαντ"
+      ],
+      "Chile": [
+        "Χιλή"
+      ],
+      "China": [
+        "Κίνα"
+      ],
+      "Christmas Island": [
+        ""
+      ],
+      "Cocos (Keeling) Islands": [
+        ""
+      ],
+      "Colombia": [
+        "Κολομβία"
+      ],
+      "Comoros": [
+        "Κομόρες"
+      ],
+      "Congo": [
+        ""
+      ],
+      "Congo, Democratic Republic of the": [
+        ""
+      ],
+      "Cook Islands": [
+        ""
+      ],
+      "Costa Rica": [
+        "Κόστα Ρίκα"
+      ],
+      "Cote d'Ivoire\"": [
+        "Cote d'Ivoire"
+      ],
+      "Croatia": [
+        "Κροατία"
+      ],
+      "Cuba": [
+        "Κούβα"
+      ],
+      "Curaçao": [
+        ""
+      ],
+      "Cyprus": [
+        "Κύπρος"
+      ],
+      "Czech Republic": [
+        "Τσεχία"
+      ],
+      "Denmark": [
+        "Δανία"
+      ],
+      "Djibouti": [
+        "Τζιμπουτί"
+      ],
+      "Dominica": [
+        "Δομίνικος"
+      ],
+      "Dominican Republic": [
+        ""
+      ],
+      "Ecuador": [
+        "Ισημερινός"
+      ],
+      "Egypt": [
+        "Αίγυπτος"
+      ],
+      "El Salvador": [
+        "Ελ Σαλβαδόρ"
+      ],
+      "Equatorial Guinea": [
+        "Ισημερινή Γουινέα"
+      ],
+      "Eritrea": [
+        "Ερυθραία"
+      ],
+      "Estonia": [
+        "Εσθονία"
+      ],
+      "Ethiopia": [
+        "Αιθιοπία"
+      ],
+      "Falkland Islands": [
+        ""
+      ],
+      "Faroe Islands": [
+        ""
+      ],
+      "Federated States of Micronesia": [
+        ""
+      ],
+      "Fiji": [
+        "Φίτζι"
+      ],
+      "Finland": [
+        "Φινλανδία"
+      ],
+      "France": [
+        "Γαλλία"
+      ],
+      "French Guiana": [
+        "Γαλλική Γουϊάνα"
+      ],
+      "French Polynesia": [
+        "Γαλλική Πολυνησία"
+      ],
+      "French Southern Territories": [
+        ""
+      ],
+      "Gabon": [
+        ""
+      ],
+      "Gambia": [
+        "Γκάμπια"
+      ],
+      "Georgia": [
+        "Γεωργία"
+      ],
+      "Germany": [
+        "Γερμανία"
+      ],
+      "Ghana": [
+        "Γκάνα"
+      ],
+      "Gibraltar": [
+        "Γιβραλτάρ"
+      ],
+      "Greece": [
+        "Ελλάδα"
+      ],
+      "Greenland": [
+        "Γριλανδία"
+      ],
+      "Grenada": [
+        "Γρενάδα"
+      ],
+      "Guadeloupe": [
+        "Γουαδελούπη"
+      ],
+      "Guam": [
+        "Γκουάμ"
+      ],
+      "Guatemala": [
+        "Γουατεμάλα"
+      ],
+      "Guernsey": [
+        ""
+      ],
+      "Guinea": [
+        "Γουϊνέα"
+      ],
+      "Guinea-Bissau": [
+        "Γουινέα-Μπισάου"
+      ],
+      "Guyana": [
+        "Γουϊάνα"
+      ],
+      "Haiti": [
+        "Αϊτή"
+      ],
+      "Heard Island and McDonald Islands": [
+        ""
+      ],
+      "Holy See (Vatican City State)": [
+        "Βατικανό"
+      ],
+      "Honduras": [
+        "Ονδούρα"
+      ],
+      "Hong Kong": [
+        "Χονγκ Κονγκ"
+      ],
+      "Hungary": [
+        "Ουγγαρία"
+      ],
+      "Iceland": [
+        "Ισλανδία"
+      ],
+      "India": [
+        "Ινδία"
+      ],
+      "Indonesia": [
+        "Ινδονησία"
+      ],
+      "International": [
+        ""
+      ],
+      "Iran": [
+        "Ιράν"
+      ],
+      "Iraq": [
+        "Ιράκ"
+      ],
+      "Ireland": [
+        "Ιρλανδία"
+      ],
+      "Isle of Man": [
+        ""
+      ],
+      "Israel": [
+        "Ισραήλ"
+      ],
+      "Italy": [
+        "Ιταλία"
+      ],
+      "Jamaica": [
+        "Τζαμάικα"
+      ],
+      "Japan": [
+        "Ιαπωνία"
+      ],
+      "Jersey": [
+        ""
+      ],
+      "Jordan": [
+        "Ιορδανία"
+      ],
+      "Kazakhstan": [
+        "Καζακστάν"
+      ],
+      "Kenya": [
+        "Κένυα"
+      ],
+      "Kiribati": [
+        "Κιριμπάτι"
+      ],
+      "Kosovo": [
+        "Κόσοβο"
+      ],
+      "Kuwait": [
+        "Κουβέιτ"
+      ],
+      "Kyrgyzstan": [
+        "Κιργιστάν"
+      ],
+      "Laos": [
+        "Λάος"
+      ],
+      "Latvia": [
+        ""
+      ],
+      "Lebanon": [
+        "Λίβανος"
+      ],
+      "Lesotho": [
+        "Λεσότο"
+      ],
+      "Liberia": [
+        "Λιβερία"
+      ],
+      "Libya": [
+        "Λιβύη"
+      ],
+      "Liechtenstein": [
+        "Λιχτενστάιν"
+      ],
+      "Lithuania": [
+        "Λιθουανία"
+      ],
+      "Luxembourg": [
+        "Λουξεμβούργο"
+      ],
+      "Macao": [
+        "Μακάο"
+      ],
+      "Madagascar": [
+        "Μαδαγασκάρη"
+      ],
+      "Malawi": [
+        "Μαλάουι"
+      ],
+      "Malaysia": [
+        "Μαλαισία"
+      ],
+      "Maldives": [
+        "Μαλδίβες"
+      ],
+      "Mali": [
+        "Μάλι"
+      ],
+      "Malta": [
+        "Μάλτα"
+      ],
+      "Marshall Islands": [
+        ""
+      ],
+      "Martinique": [
+        ""
+      ],
+      "Mauritania": [
+        "Μαυριτανία"
+      ],
+      "Mauritius": [
+        "Μαυρίκιος"
+      ],
+      "Mayotte": [
+        ""
+      ],
+      "Mexico": [
+        "Μεξικό"
+      ],
+      "Moldova": [
+        "Μολδαβία"
+      ],
+      "Monaco": [
+        "Μονακό"
+      ],
+      "Mongolia": [
+        "Μογγολία"
+      ],
+      "Montenegro": [
+        "Μαυροβούνιο"
+      ],
+      "Montserrat": [
+        ""
+      ],
+      "Morocco": [
+        "Μαρόκο"
+      ],
+      "Mozambique": [
+        "Μοζαμβίκη"
+      ],
+      "Namibia": [
+        "Ναμίμπια"
+      ],
+      "Nauru": [
+        ""
+      ],
+      "Nepal": [
+        "Νεπάλ"
+      ],
+      "Netherlands": [
+        "Ολλανδία"
+      ],
+      "New Caledonia": [
+        "Νέα Καληδονία"
+      ],
+      "New Zealand": [
+        "Νέα Ζηλανδία"
+      ],
+      "Nicaragua": [
+        "Νικαράγουα"
+      ],
+      "Niger": [
+        "Νίγηρας"
+      ],
+      "Nigeria": [
+        "Νιγηρία"
+      ],
+      "Niue": [
+        ""
+      ],
+      "Norfolk Island": [
+        ""
+      ],
+      "North Korea": [
+        "Βόρεια Κορέα"
+      ],
+      "North Macedonia": [
+        "Σκόπια"
+      ],
+      "Northern Mariana Islands": [
+        ""
+      ],
+      "Norway": [
+        "Νορβηγία"
+      ],
+      "Oman": [
+        "Ομάν"
+      ],
+      "Pakistan": [
+        "Πακιστάν"
+      ],
+      "Palau": [
+        ""
+      ],
+      "Palestine": [
+        "Παλαιστίνη"
+      ],
+      "Panama": [
+        "Παναμάς"
+      ],
+      "Papua New Guinea": [
+        "Παπούα Νέα Γουινέα"
+      ],
+      "Paraguay": [
+        "Παραγουάη"
+      ],
+      "Peru": [
+        "Περού"
+      ],
+      "Philippines": [
+        "Φιλιππίνες"
+      ],
+      "Pitcairn": [
+        ""
+      ],
+      "Poland": [
+        "Πολωνία"
+      ],
+      "Portugal": [
+        "Πορτογαλία"
+      ],
+      "Puerto Rico": [
+        "Πουέρτο Ρίκο"
+      ],
+      "Qatar": [
+        "Κατάρ"
+      ],
+      "Reunion": [
+        ""
+      ],
+      "Romania": [
+        "Ρουμανία"
+      ],
+      "Russia": [
+        "Ρωσία"
+      ],
+      "Rwanda": [
+        "Ρουάντα"
+      ],
+      "Saint Barthélemy": [
+        "Άγιος Βαρθολομαίος"
+      ],
+      "Saint Helena": [
+        ""
+      ],
+      "Saint Kitts and Nevis": [
+        ""
+      ],
+      "Saint Lucia": [
+        ""
+      ],
+      "Saint Martin (French Part)": [
+        ""
+      ],
+      "Saint Pierre and Miquelon": [
+        ""
+      ],
+      "Saint Vincent and the Grenadines": [
+        "Άγιος Βικέντιος και Γρεναδίνες"
+      ],
+      "Samoa": [
+        "Σαμόα"
+      ],
+      "San Marino": [
+        "Σαν Μαρίνο"
+      ],
+      "Sao Tome and Principe": [
+        ""
+      ],
+      "Saudi Arabia": [
+        "Σαουδική Αραβία"
+      ],
+      "Senegal": [
+        "Σενεγάλη"
+      ],
+      "Serbia": [
+        "Σερβία"
+      ],
+      "Seychelles": [
+        "Σεϊχέλες"
+      ],
+      "Sierra Leone": [
+        "Σιέρα Λεόνε"
+      ],
+      "Singapore": [
+        "Σιγκαπούρη"
+      ],
+      "Sint Maarten": [
+        ""
+      ],
+      "Slovakia": [
+        "Σλοβακία"
+      ],
+      "Slovenia": [
+        "Σλοβενία"
+      ],
+      "Solomon Islands": [
+        "Νησιά Σολομώντα"
+      ],
+      "Somalia": [
+        "Σομαλία"
+      ],
+      "South Africa": [
+        "Νότια Αφρική"
+      ],
+      "South Georgia and the South Sandwich Islands": [
+        ""
+      ],
+      "South Korea": [
+        "Νότια Κορέα"
+      ],
+      "South Ossetia": [
+        "Νότια Οσετία"
+      ],
+      "South Sudan": [
+        "Νότιο Σουδάν"
+      ],
+      "Spain": [
+        "Ισπανία"
+      ],
+      "Sri Lanka": [
+        "Σρι Λάνκα"
+      ],
+      "Sudan": [
+        "Σουδάν"
+      ],
+      "Suriname": [
+        "Σουρινάμ"
+      ],
+      "Svalbard and Jan Mayen": [
+        ""
+      ],
+      "Swaziland": [
+        "Σουαζιλάνδη"
+      ],
+      "Sweden": [
+        "Σουηδία"
+      ],
+      "Switzerland": [
+        "Ελβετία"
+      ],
+      "Syria": [
+        "Συρία"
+      ],
+      "Taiwan": [
+        "Ταϊβάν"
+      ],
+      "Tajikistan": [
+        "Τατζικιστάν"
+      ],
+      "Tanzania": [
+        "Τανζανία"
+      ],
+      "Thailand": [
+        "Ταϊλάνδη"
+      ],
+      "Timor-Leste": [
+        ""
+      ],
+      "Togo": [
+        "Τόγκο"
+      ],
+      "Tokelau": [
+        ""
+      ],
+      "Tonga": [
+        ""
+      ],
+      "Trinidad and Tobago": [
+        "Τρινιδάδ και Τομπάγκο"
+      ],
+      "Tristan da Cunha": [
+        ""
+      ],
+      "Tunisia": [
+        "Τυνησία"
+      ],
+      "Turkey": [
+        "Τουρκία"
+      ],
+      "Turkmenistan": [
+        "Τουρκμενιστάν"
+      ],
+      "Turks and Caicos Islands": [
+        ""
+      ],
+      "Tuvalu": [
+        "Τουβαλού"
+      ],
+      "Uganda": [
+        "Ουγκάντα"
+      ],
+      "Ukraine": [
+        "Ουκρανία"
+      ],
+      "United Arab Emirates": [
+        "Ηνωμένα Αραβικά Εμιράτα"
+      ],
+      "United Kingdom": [
+        "Ηνωμένο Βασίλειο"
+      ],
+      "United States": [
+        "Ηνωμένες Πολιτείες"
+      ],
+      "United States Minor Outlying Islands": [
+        ""
+      ],
+      "Uruguay": [
+        "Ουρουγουάη"
+      ],
+      "Uzbekistan": [
+        "Ουζμπεκιστάν"
+      ],
+      "Vanuatu": [
+        "Βανουάτου"
+      ],
+      "Venezuela": [
+        "Βενεζουέλα"
+      ],
+      "Vietnam": [
+        "Βιετνάμ"
+      ],
+      "Virgin Islands, British": [
+        ""
+      ],
+      "Virgin Islands, U.S.": [
+        ""
+      ],
+      "Wallis and Futuna": [
+        ""
+      ],
+      "Western Sahara": [
+        "Δυτική Σαχάρα"
+      ],
+      "Yemen": [
+        "Υεμένη"
+      ],
+      "Zambia": [
+        "Ζάμπια"
+      ],
+      "Zimbabwe": [
+        "Ζιμπάμπουε"
+      ],
+      "Åland Islands": [
+        ""
+      ]
+    },
+    "Delinquent modal title": {
+      "Overdue invoice": [
+        "Εκπρόθεσμο τιμολόγιο"
+      ]
+    },
+    "Error": {
+      "Email is not valid": [
+        "Μη έγκυρη ηλ. διεύθυνση"
+      ],
+      "Enter 6 digits": [
+        "Εισάγετε 6 ψηφία"
+      ],
+      "Invalid verification code": [
+        "Μη έγκυρος κωδικός επαλήθευσης"
+      ],
+      "Not a valid number": [
+        "Μη έγκυρος αριθμός"
+      ],
+      "Passwords do not match": [
+        "Οι κωδικοί πρόσβασης δεν ταυτίζονται"
+      ],
+      "Request timed out": [
+        "Λήξη χρονικού ορίου αιτήματος"
+      ],
+      "This field is required": [
+        "Αυτό το πεδίο είναι υποχρεωτικό"
+      ],
+      "This field requires a minimum of ${ minimumLength } characters.": [
+        "Αυτό το πεδίο απαιτεί τουλάχιστον ${ minimumLength } χαρακτήρες."
+      ],
+      "Unknown error": [
+        "Άγνωστο σφάλμα"
+      ]
+    },
+    "Error message": {
+      "Brace yourself till we get the error fixed.": [
+        "Κρατηθείτε μέχρι να διορθώσουμε το λάθος."
+      ],
+      "Error: ${ errorMessage }": [
+        "Σφάλμα: ${ errorMessage }"
+      ],
+      "Oops, something went wrong": [
+        "Κάτι πήγε στραβά"
+      ],
+      "Please ${ refresh } or check your connection.": [
+        "Παρακαλούμε ${ refresh } ή ελέγξτε τη σύνδεσή σας."
+      ],
+      "There was a problem connecting to Proton.": [
+        "Παρουσιάστηκε ένα πρόβλημα κατά τη σύνδεση στο Proton."
+      ],
+      "You may also ${ refresh } or try again later.": [
+        "Μπορείτε επίσης να ${ refresh } ή να δοκιμάσετε ξανά αργότερα."
+      ]
+    },
+    "Human verification method": {
+      "CAPTCHA": [
+        "CAPTCHA"
+      ],
+      "Email": [
+        "Email"
+      ],
+      "Manual": [
+        "Χειροκίνητα"
+      ],
+      "No verification method available": [
+        "Δεν υπάρχει διαθέσιμη μέθοδος επαλήθευσης"
+      ],
+      "SMS": [
+        "SMS"
+      ]
+    },
+    "Info": {
+      "Before requesting a new verification code, check your spam folder and check that ${ strong } is the correct address.": [
+        "Πριν αιτηθείτε νέο κωδικό επαλήθευσης, ελέγξτε τον φάκελό σας Ενοχλητικά και ότι η ${ strong } είναι η σωστή διεύθυνση."
+      ],
+      "Click \"Request new code\" to have a new verification code sent to ${ strong }. If this phone number is incorrect, click \"Edit\" to correct it.": [
+        "Κάντε κλικ στην επιλογή \"Αίτηση νέου κωδικού\" για να σταλεί ένας νέος κωδικός επαλήθευσης στο ${ strong }. Εάν αυτό το τηλέφωνο είναι εσφαλμένο, κάντε κλικ στο κουμπί \"Επεξεργασία\" για να το διορθώσετε."
+      ],
+      "Enter the verification code that was sent to ${ destinationText }.": [
+        "Εισάγετε τον κωδικό επαλήθευσης στον οποίο εστάλη ${ destinationText }."
+      ],
+      "If you are having trouble creating your account, please request an invitation and we will respond within one business day.": [
+        "Αν αντιμετωπίζετε προβλήματα με τη δημιουργία του λογαριασμού σας, ζητήστε μια πρόσκληση και θα απαντήσουμε εντός μίας εργάσιμης ημέρας."
+      ],
+      "If you don't find the email in your inbox, please check your spam folder.": [
+        "Εάν δεν βρείτε το email στα εισερχόμενα σας, ελέγξτε το φάκελο ανεπιθύμητων."
+      ],
+      "Internet connection lost": [
+        "Απώλεια σύνδεσης στο διαδίκτυο"
+      ],
+      "Loading": [
+        "Φόρτωση"
+      ],
+      "No results found": [
+        "Δεν βρέθηκαν αποτελέσματα"
+      ],
+      "Servers are unreachable. Please try again in a few minutes": [
+        "Οι διακομιστές είναι απρόσιτοι. Παρακαλούμε δοκιμάστε ξανά σε λίγα λεπτά"
+      ],
+      "Session timed out": [
+        "Λήξη χρόνου συνεδρίας"
+      ],
+      "To fight spam and abuse, please verify you are human.": [
+        "Για την καταπολέμηση των ανεπιθύμητων μηνυμάτων και της κατάχρησης, επαληθεύστε ότι είστε άνθρωποι."
+      ],
+      "We'll send a new verification code to ${ strong }": [
+        "Θα στείλουμε νέο κωδικό επαλήθευσης στο ${ strong }"
+      ],
+      "Would you like to receive a new verification code or use an alternative verification method?": [
+        "Θέλετε να λάβετε έναν νέο κωδικό επαλήθευσης ή να χρησιμοποιήσετε μια εναλλακτική μέθοδο επαλήθευσης;"
+      ],
+      "Would you like to receive a new verification code?": [
+        "Θα θέλατε να λάβετε νέο κωδικό επαλήθευσης;"
+      ],
+      "Your email will only be used for this one-time verification.": [
+        "Το email σας θα χρησιμοποιηθεί μόνο για αυτή την εφάπαξ επαλήθευση."
+      ],
+      "Your phone number will only be used for this one-time verification.": [
+        "Ο αριθμός τηλεφώνου σας θα χρησιμοποιηθεί μόνο για αυτή την εφάπαξ επαλήθευση."
+      ],
+      "Your Proton account is currently on hold. To continue using your account, please pay any overdue invoices.": [
+        "Ο λογαριασμός Proton βρίσκεται σε αναμονή. Για να συνεχίσετε να χρησιμοποιείτε το λογαριασμό σας, παρακαλούμε να πληρώσετε τυχόν εκπρόθεσμα τιμολόγια."
+      ]
+    },
+    "Label": {
+      "Code is 6 digits without spaces": [
+        "Ο κωδικός είναι 6 ψηφία χωρίς κενά"
+      ],
+      "Email address": [
+        "Διεύθυνση email"
+      ],
+      "Hide password": [
+        "Απόκρυψη κωδικού πρόσβασης"
+      ],
+      "Password": [
+        "Κωδικός πρόσβασης"
+      ],
+      "Phone number": [
+        "Αριθμός τηλεφώνου"
+      ],
+      "Reveal password": [
+        "Εμφάνιση κωδικού πρόσβασης"
+      ],
+      "Verification code": [
+        "Κωδικός επαλήθευσης"
+      ]
+    },
+    "Link": {
+      "Learn more": [
+        "Μάθετε περισσότερα"
+      ],
+      "Request an invite": [
+        "Αίτηση πρόσκλησης"
+      ]
+    },
+    "Placeholder": {
+      "Password": [
+        "Κωδικός πρόσβασης"
+      ]
+    },
+    "Success": {
+      "Code sent to ${ methodTo }": [
+        "Ο κωδικός στάλθηκε στο ${ methodTo }"
+      ],
+      "Verification successful": [
+        "Επιτυχής επαλήθευση"
+      ]
+    },
+    "Title": {
+      "Human verification": [
+        "Επαλήθευση ανθρώπου"
+      ],
+      "Invalid verification code": [
+        "Μη έγκυρος κωδικός επαλήθευσης"
+      ],
+      "Request new code": [
+        "Αίτηση νέου κωδικού"
+      ],
+      "Sign in again to continue": [
+        "Εισέλθετε ξανά για να συνεχίσετε"
+      ]
+    },
+    "Validation": {
+      "Password must contain at least ${ length } character": [
+        "Ο κωδικός πρόσβασης πρέπει να περιέχει τουλάχιστον ${ length } χαρακτήρα",
+        "Ο κωδικός πρόσβασης πρέπει να περιέχει τουλάχιστον ${ length } χαρακτήρες"
+      ]
+    }
+  }
+}
