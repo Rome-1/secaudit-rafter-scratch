@@ -1,0 +1,12 @@
+@import '~@proton/styles/scss/config';
+
+.settings-layout-right {
+	min-inline-size: em(240);
+
+	&-fixed-size {
+		max-inline-size: em(240);
+		@include media('<=small') {
+			max-inline-size: 100%;
+		}
+	}
+}

@@ -1,0 +1,87 @@
+@import '~@proton/styles/scss/config';
+
+html body {
+	overflow: auto;
+}
+
+body.embedded {
+	font-size: 1em;
+	background: none;
+
+	@include media('<=small') {
+		.dropdown {
+			background: none;
+			padding: 10%;
+		}
+
+		.modal-overlay {
+			background: none;
+		}
+	}
+}
+
+.hv {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-color: var(--background-norm);
+
+	@include media('<=small') {
+		padding-inline: 1em;
+	}
+
+	@include media('>xsmall') {
+		background: top center / cover no-repeat #f7f5ff;
+	}
+
+	/*
+		 * Here we are optimizing the loading of the big background image
+		 * depending on viewport width and orientation
+		 */
+
+	@include media('landscape', '>xsmall', '<=small') {
+		background-image: url(~@proton/styles/assets/img/backgrounds/proton-wave-680-landscape.jpg);
+	}
+
+	@include media('portrait', '>xsmall', '<=small') {
+		background-image: url(~@proton/styles/assets/img/backgrounds/proton-wave-680-portrait.jpg);
+	}
+
+	@include media('landscape', '>small', '<=medium') {
+		background-image: url(~@proton/styles/assets/img/backgrounds/proton-wave-910-landscape.jpg);
+	}
+
+	@include media('portrait', '>small', '<=medium') {
+		background-image: url(~@proton/styles/assets/img/backgrounds/proton-wave-910-portrait.jpg);
+	}
+
+	@include media('landscape', '>medium', '<=large') {
+		background-image: url(~@proton/styles/assets/img/backgrounds/proton-wave-1100-landscape.jpg);
+	}
+
+	@include media('portrait', '>medium', '<=large') {
+		background-image: url(~@proton/styles/assets/img/backgrounds/proton-wave-1100-portrait.jpg);
+	}
+
+	@include media('>large', '<=xlarge') {
+		background-image: url(~@proton/styles/assets/img/backgrounds/proton-wave-1500.jpg);
+	}
+
+	@include media('>xlarge') {
+		background-image: url(~@proton/styles/assets/img/backgrounds/proton-wave-2000.jpg);
+	}
+}
+
+.hv-container {
+	padding-inline: em(44);
+	padding-block: 2em 2.5em;
+	border-radius: var(--border-radius-lg);
+
+	@include media('<=small') {
+		padding-inline: em(20);
+	}
+
+	@include media('<=xsmall') {
+		padding-inline: 2px;
+	}
+}

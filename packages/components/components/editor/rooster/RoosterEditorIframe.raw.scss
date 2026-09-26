@@ -1,0 +1,209 @@
+@import '~@proton/styles/scss/config';
+
+// custom scroll
+body:not(.isDarkMode) {
+	--scrollbar-thumb-color: rgb(0 0 0 / 0.35);
+	--scrollbar-thumb-hover-color: rgb(0 0 0 / 0.5);
+}
+
+body.isDarkMode {
+	--scrollbar-thumb-color: rgb(255 255 255 / 0.2);
+	--scrollbar-thumb-hover-color: rgb(255 255 255 / 0.5);
+}
+
+* {
+	scrollbar-width: thin;
+	scrollbar-color: var(--scrollbar-thumb-color) transparent;
+}
+
+*::-webkit-scrollbar {
+	inline-size: 0.625rem; /* 10px */
+	block-size: 0.625rem;
+}
+
+*::-webkit-scrollbar-thumb {
+	border: 0.125rem solid transparent; /* 2px */
+	background-clip: padding-box;
+	border-radius: 0.313rem; /* 5px */
+	background-color: var(--scrollbar-thumb-color, rgb(0 0 0 / 0.35));
+}
+
+*::-webkit-scrollbar-track {
+	background-color: transparent;
+}
+
+*::-webkit-scrollbar-thumb:horizontal:hover,
+*::-webkit-scrollbar-thumb:vertical:hover {
+	background-color: var(--scrollbar-thumb-hover-color, rgb(0 0 0 / 0.5));
+}
+
+*::-webkit-scrollbar-corner {
+	visibility: hidden;
+}
+
+html {
+	block-size: 100%;
+	font-size: 100%;
+	cursor: text;
+}
+
+body {
+	box-sizing: border-box;
+	font-family: system-ui, sans-serif;
+	font-size: 0.875rem; /* 14 */
+	line-height: 1.5; // Need to be bigger so that we don't have jumps when adding emojis
+	color: black;
+	background: white;
+
+	/* to fix, CSS var are not passing through the iframe */
+	word-wrap: break-word;
+	margin: 0;
+}
+
+body a {
+	// force blue even for :visited
+	color: blue;
+}
+
+#proton-editor-container {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	block-size: 100%;
+}
+
+#rooster-editor-wrapper {
+	flex-grow: 1;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+#rooster-editor {
+	flex: 1;
+	outline: none;
+	padding: 0.5rem;
+}
+
+#proton-editor-toggle-container {
+	flex-shrink: 0;
+}
+
+blockquote {
+	padding-block: 0;
+	padding-inline: 1rem 0;
+	margin: 0;
+	border-inline-start: 4px solid #e5e5e5;
+}
+
+blockquote blockquote blockquote {
+	padding-inline-start: 0;
+	margin-inline-start: 0;
+	border: none;
+}
+
+.proton-hidden {
+	display: none;
+}
+
+.proton-sr-only {
+	border: 0;
+	clip: rect(0 0 0 0);
+	block-size: 1px;
+	margin: -1px;
+	overflow: hidden;
+	padding: 0;
+	position: absolute;
+	inline-size: 1px;
+	inset-block-start: 0; // needed for Safari dumb and 💩 behaviour
+}
+
+.icon-14p {
+	inline-size: 14px;
+	block-size: 14px;
+}
+
+.proton-toggle-button {
+	display: inline-block;
+	padding-block: rem(4);
+	padding-inline: rem(8);
+	margin: 1em;
+	margin-inline-start: 0.5em;
+	box-shadow: inset 0 0 0 1px silver;
+	border: none;
+	border-radius: 8px;
+	outline: none;
+	background-color: transparent;
+	text-align: center;
+	transition: 0.15s cubic-bezier(0.22, 1, 0.36, 1), background-position 0s;
+
+	&:hover,
+	&:focus,
+	&:focus-within &.is-hover &:active,
+	&.is-active,
+	&[aria-expanded='true']:not([aria-controls]) {
+		text-decoration: none;
+		box-shadow: inset 0 0 0 2px silver;
+		background-color: transparent;
+	}
+}
+
+@supports selector(:focus-visible) {
+	.proton-toggle-button {
+		outline: unset;
+	}
+}
+
+.proton-embedded:not([src]) {
+	position: relative;
+	min-block-size: 38px;
+	border: 1px solid;
+	border-color: #444 #ccc #ccc #444;
+}
+
+.proton-embedded:not([src], [alt]) {
+	background-position-x: 50%;
+}
+
+.proton-embedded[alt]:not([src])::after {
+	position: absolute;
+	inset: 0;
+	content: ' ' attr(alt);
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	padding-block: 10px 0;
+	padding-inline: 20px 0;
+	color: rgb(0 0 0 / 0.5);
+}
+
+/* see embedded.scss rules */
+.proton-embedded:not([width], [style*='width']) {
+	max-inline-size: 100%;
+	min-inline-size: 38px;
+}
+
+.protonmail_quote {
+	position: relative;
+}
+
+ul,
+ol {
+	/**
+	 * Overrides app reset in order to get back to native browser spacing
+	 * Fix issue when ordered list has more than 10 items
+	 */
+	padding-inline-start: em(40);
+	margin-block: 0;
+}
+
+li {
+	list-style-position: outside;
+}
+
+// Handle outlook https://github.com/ProtonMail/Angular/issues/6711
+p.MsoNormal,
+li.MsoNormal,
+div.MsoNormal {
+	margin: 0;
+}

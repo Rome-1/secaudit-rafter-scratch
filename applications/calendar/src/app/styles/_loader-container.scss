@@ -1,0 +1,17 @@
+.calendar-loader-container {
+	@extend .notifications-container;
+
+	position: absolute;
+	z-index: $layer-upper;
+	inset-block-start: em(160);
+	inset-block-end: unset;
+	inset-inline-start: 50%;
+
+	@include media('>small') {
+		inset-block-start: em(140);
+	}
+
+	.notification {
+		--top-custom: 0;
+	}
+}
