@@ -1,0 +1,30 @@
+import { c } from 'ttag';
+
+import { Icon, ToolbarButton } from '@proton/components';
+
+import { DecryptedLink } from '../../../store';
+import useOpenModal from '../../useOpenModal';
+import { isMultiSelect, noSelection } from './utils';
+
+interface Props {
+    selectedLinks: DecryptedLink[];
+}
+
+const RenameButton = ({ selectedLinks }: Props) => {
+    const { openRename } = useOpenModal();
+
+    if (noSelection(selectedLinks) || isMultiSelect(selectedLinks)) {
+        return null;
+    }
+
+    return (
+        <ToolbarButton
+            title={c('Action').t`Rename`}
+            icon={<Icon name="pen-square" />}
+            onClick={() => openRename(selectedLinks[0].rootShareId, selectedLinks[0])}
+            data-testid="toolbar-rename"
+        />
+    );
+};
+
+export default RenameButton;
