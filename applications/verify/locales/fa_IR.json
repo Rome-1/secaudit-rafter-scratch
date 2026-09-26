@@ -1,0 +1,1068 @@
+{
+  "headers": {
+    "plural-forms": "nplurals=2; plural=(n > 1);",
+    "language": "fa_IR"
+  },
+  "contexts": {
+    "Action": {
+      "Authenticate": [
+        "احراز هویت"
+      ],
+      "Back": [
+        "بازگشت"
+      ],
+      "Cancel": [
+        "انصراف"
+      ],
+      "Close": [
+        "بستن"
+      ],
+      "Continue": [
+        "ادامه"
+      ],
+      "Edit email address": [
+        "ویرایش رایانشانی"
+      ],
+      "Edit phone number": [
+        "ویرایش شماره تلفن"
+      ],
+      "Edit sign-in details": [
+        "ویرایش جزئیات ورود"
+      ],
+      "Get verification code": [
+        "دریافت کد تایید"
+      ],
+      "More info: ${ safeTitle }": [
+        "اطلاعات بیشتر: ${ safeTitle }"
+      ],
+      "refresh the page": [
+        "بازخوانی صفحه"
+      ],
+      "Request new code": [
+        "درخواست کد جدید"
+      ],
+      "Search countries": [
+        "جستجوی کشورها"
+      ],
+      "Submit": [
+        "ثبت"
+      ],
+      "Try another method": [
+        "روش دیگری بیازمایید"
+      ],
+      "Use authentication code": [
+        "از کد تایید استفاده نمایید"
+      ],
+      "Use recovery code": [
+        "از کد بازیابی استفاده کنید"
+      ],
+      "Verify": [
+        "تایید"
+      ],
+      "Verify account": [
+        "تأييد حساب"
+      ],
+      "View invoice": [
+        "مشاهده صورت‌حساب"
+      ]
+    },
+    "Country name": {
+      "Abkhazia": [
+        "آبخازیا"
+      ],
+      "Afghanistan": [
+        "افغانستان"
+      ],
+      "Albania": [
+        "آلبانی"
+      ],
+      "Algeria": [
+        "الجزایر"
+      ],
+      "American Samoa": [
+        "ساموآی آمریکا"
+      ],
+      "Andorra": [
+        "آندورا"
+      ],
+      "Angola": [
+        "آنگولا"
+      ],
+      "Anguilla": [
+        "آنگویلا"
+      ],
+      "Antarctica": [
+        "آنتارکتیکا"
+      ],
+      "Antigua and Barbuda": [
+        "آنتیگوا و باربودا"
+      ],
+      "Argentina": [
+        "آرژانتین"
+      ],
+      "Armenia": [
+        "ارمنستان"
+      ],
+      "Aruba": [
+        "آروبا"
+      ],
+      "Ascension Island": [
+        "جزیرهٔ اسنشن"
+      ],
+      "Australia": [
+        "استرالیا"
+      ],
+      "Austria": [
+        "اتریش"
+      ],
+      "Azerbaijan": [
+        "آذربایجان"
+      ],
+      "Bahamas": [
+        "باهاما"
+      ],
+      "Bahrain": [
+        "بحرین"
+      ],
+      "Bangladesh": [
+        "بنگلادش"
+      ],
+      "Barbados": [
+        "باربادوس"
+      ],
+      "Belarus": [
+        "بلاروس"
+      ],
+      "Belgium": [
+        "بلژیک"
+      ],
+      "Belize": [
+        "بلیز"
+      ],
+      "Benin": [
+        "بنین"
+      ],
+      "Bermuda": [
+        "برمودا"
+      ],
+      "Bhutan": [
+        "بوتان"
+      ],
+      "Bolivia": [
+        "بولیوی"
+      ],
+      "Bonaire, Sint Eustatius and Saba": [
+        "بونیر ، سینت اوستاتیوس و صبا"
+      ],
+      "Bosnia and Herzegovina": [
+        "بوسنی و هرزگووین"
+      ],
+      "Botswana": [
+        "بوتسوانا"
+      ],
+      "Bouvet Island": [
+        "جزیره بووه"
+      ],
+      "Brazil": [
+        "برزیل"
+      ],
+      "British Indian Ocean Territory": [
+        "مستعمرات انگلیسی اقیانوس هند"
+      ],
+      "Brunei Darussalam": [
+        "برونئی دارالسلام"
+      ],
+      "Bulgaria": [
+        "بلغارستان"
+      ],
+      "Burkina Faso": [
+        "برکینافاسو"
+      ],
+      "Burundi": [
+        "بوروندی"
+      ],
+      "Cambodia": [
+        "کامبوج"
+      ],
+      "Cameroon": [
+        "کامرون"
+      ],
+      "Canada": [
+        "کانادا"
+      ],
+      "Cape Verde": [
+        "کیپ ورد"
+      ],
+      "Cayman Islands": [
+        "جزایر کیمن"
+      ],
+      "Central African Republic": [
+        "جمهوری آفریقای مرکزی"
+      ],
+      "Chad": [
+        "چاد"
+      ],
+      "Chile": [
+        "شیلی"
+      ],
+      "China": [
+        "چین"
+      ],
+      "Christmas Island": [
+        "جزیره کریسمس"
+      ],
+      "Cocos (Keeling) Islands": [
+        "جزایر (کیلینگ) کوکو"
+      ],
+      "Colombia": [
+        "کلمبیا"
+      ],
+      "Comoros": [
+        "کومور"
+      ],
+      "Congo": [
+        "کنگو"
+      ],
+      "Congo, Democratic Republic of the": [
+        "جمهوری دموکراتیک کنگو"
+      ],
+      "Cook Islands": [
+        "جزایر کوک"
+      ],
+      "Costa Rica": [
+        "کاستاریکا"
+      ],
+      "Croatia": [
+        "کرواسی"
+      ],
+      "Cuba": [
+        "کوبا"
+      ],
+      "Curaçao": [
+        "کوراسائو"
+      ],
+      "Cyprus": [
+        "قبرس"
+      ],
+      "Czech Republic": [
+        "جمهوری چک"
+      ],
+      "Côte d'Ivoire": [
+        "ساحل عاج"
+      ],
+      "Denmark": [
+        "دانمارک"
+      ],
+      "Djibouti": [
+        "جیبوتی"
+      ],
+      "Dominica": [
+        "دومینیکا"
+      ],
+      "Dominican Republic": [
+        "جمهوری دومینیکن"
+      ],
+      "Ecuador": [
+        "اکوادور"
+      ],
+      "Egypt": [
+        "مصر"
+      ],
+      "El Salvador": [
+        "ال سالوادور"
+      ],
+      "Equatorial Guinea": [
+        "گینه استوایی"
+      ],
+      "Eritrea": [
+        "اریتره"
+      ],
+      "Estonia": [
+        "استونی"
+      ],
+      "Eswatini": [
+        "سوازیلند"
+      ],
+      "Ethiopia": [
+        "اتیوپی"
+      ],
+      "Falkland Islands": [
+        "جزایر فالکلند"
+      ],
+      "Faroe Islands": [
+        "جزایر فارو"
+      ],
+      "Federated States of Micronesia": [
+        "ایالات فدرال میکرونزی"
+      ],
+      "Fiji": [
+        "فیجی"
+      ],
+      "Finland": [
+        "فنلاند"
+      ],
+      "France": [
+        "فرانسه"
+      ],
+      "French Guiana": [
+        "گویان فرانسه"
+      ],
+      "French Polynesia": [
+        "پلینزی فرانسوی"
+      ],
+      "French Southern Territories": [
+        "سرزمین های جنوبی فرانسه"
+      ],
+      "Gabon": [
+        "گابن"
+      ],
+      "Gambia": [
+        "گامبیا"
+      ],
+      "Georgia": [
+        "گرجستان"
+      ],
+      "Germany": [
+        "آلمان"
+      ],
+      "Ghana": [
+        "غنا"
+      ],
+      "Gibraltar": [
+        "جبل الطارق"
+      ],
+      "Greece": [
+        "یونان"
+      ],
+      "Greenland": [
+        "گرینلند"
+      ],
+      "Grenada": [
+        "گراندا"
+      ],
+      "Guadeloupe": [
+        "گوادلوپ"
+      ],
+      "Guam": [
+        "گوام"
+      ],
+      "Guatemala": [
+        "گواتمالا"
+      ],
+      "Guernsey": [
+        "گورنسی"
+      ],
+      "Guinea": [
+        "گینه"
+      ],
+      "Guinea-Bissau": [
+        "گینه بیسائو"
+      ],
+      "Guyana": [
+        "گویان"
+      ],
+      "Haiti": [
+        "هائیتی"
+      ],
+      "Heard Island and McDonald Islands": [
+        "جزیره هرد و جزایر مک دونالد"
+      ],
+      "Holy See (Vatican City State)": [
+        "سریر مقدس (دولت‌شهر واتیکان)"
+      ],
+      "Honduras": [
+        "هندوراس"
+      ],
+      "Hong Kong": [
+        "هنگ کنگ"
+      ],
+      "Hungary": [
+        "مجارستان"
+      ],
+      "Iceland": [
+        "ایسلند"
+      ],
+      "India": [
+        "هند"
+      ],
+      "Indonesia": [
+        "اندونزی"
+      ],
+      "International": [
+        "بین‌المللی"
+      ],
+      "Iran": [
+        "ایران"
+      ],
+      "Iraq": [
+        "عراق"
+      ],
+      "Ireland": [
+        "ایرلند"
+      ],
+      "Isle of Man": [
+        "جزیره من"
+      ],
+      "Israel": [
+        "اسرائیل"
+      ],
+      "Italy": [
+        "ایتالیا"
+      ],
+      "Jamaica": [
+        "جامائیکا"
+      ],
+      "Japan": [
+        "ژاپن"
+      ],
+      "Jersey": [
+        "جرسی"
+      ],
+      "Jordan": [
+        "اردن"
+      ],
+      "Kazakhstan": [
+        "قزاقستان"
+      ],
+      "Kenya": [
+        "کنیا"
+      ],
+      "Kiribati": [
+        "کیریباتی"
+      ],
+      "Kosovo": [
+        "کوزوو"
+      ],
+      "Kuwait": [
+        "کویت"
+      ],
+      "Kyrgyzstan": [
+        "قرقیزستان"
+      ],
+      "Laos": [
+        "لائوس"
+      ],
+      "Latvia": [
+        "لتونی"
+      ],
+      "Lebanon": [
+        "لبنان"
+      ],
+      "Lesotho": [
+        "لسوتو"
+      ],
+      "Liberia": [
+        "لیبریا"
+      ],
+      "Libya": [
+        "لیبی"
+      ],
+      "Liechtenstein": [
+        "لیختن اشتاین"
+      ],
+      "Lithuania": [
+        "لیتوانی"
+      ],
+      "Luxembourg": [
+        "لوکزامبورگ"
+      ],
+      "Macao": [
+        "ماکائو"
+      ],
+      "Madagascar": [
+        "ماداگاسکار"
+      ],
+      "Malawi": [
+        "مالاوی"
+      ],
+      "Malaysia": [
+        "مالزی"
+      ],
+      "Maldives": [
+        "مالدیو"
+      ],
+      "Mali": [
+        "مالی"
+      ],
+      "Malta": [
+        "مالت"
+      ],
+      "Marshall Islands": [
+        "جزایر مارشال"
+      ],
+      "Martinique": [
+        "مارتینیک"
+      ],
+      "Mauritania": [
+        "موریتانی"
+      ],
+      "Mauritius": [
+        "موریس"
+      ],
+      "Mayotte": [
+        "مایوت"
+      ],
+      "Mexico": [
+        "مکزیک"
+      ],
+      "Moldova": [
+        "مولداوی"
+      ],
+      "Monaco": [
+        "موناکو"
+      ],
+      "Mongolia": [
+        "مغولستان"
+      ],
+      "Montenegro": [
+        "مونته‌نگرو"
+      ],
+      "Montserrat": [
+        "مونتسرات"
+      ],
+      "Morocco": [
+        "مراکش"
+      ],
+      "Mozambique": [
+        "موزامبیک"
+      ],
+      "Myanmar": [
+        "میانمار"
+      ],
+      "Namibia": [
+        "نامیبی"
+      ],
+      "Nauru": [
+        "نائورو"
+      ],
+      "Nepal": [
+        "نپال"
+      ],
+      "Netherlands": [
+        "هلند"
+      ],
+      "New Caledonia": [
+        "کالدونیای جدید"
+      ],
+      "New Zealand": [
+        "نيوزلند"
+      ],
+      "Nicaragua": [
+        "نیکاراگوئه"
+      ],
+      "Niger": [
+        "نیجر"
+      ],
+      "Nigeria": [
+        "نیجریه"
+      ],
+      "Niue": [
+        "نیوئه"
+      ],
+      "Norfolk Island": [
+        "جزیره نورفولک"
+      ],
+      "North Korea": [
+        "کره شمالی"
+      ],
+      "North Macedonia": [
+        "مقدونیه شمالی"
+      ],
+      "Northern Mariana Islands": [
+        "جزایر ماریانای شمالی"
+      ],
+      "Norway": [
+        "نروژ"
+      ],
+      "Oman": [
+        "عمان"
+      ],
+      "Pakistan": [
+        "پاکستان"
+      ],
+      "Palau": [
+        "پالائو"
+      ],
+      "Palestine": [
+        "فلسطین"
+      ],
+      "Panama": [
+        "پاناما"
+      ],
+      "Papua New Guinea": [
+        "گینه نو پوپوآ"
+      ],
+      "Paraguay": [
+        "پاراگوئه"
+      ],
+      "Peru": [
+        "پرو"
+      ],
+      "Philippines": [
+        "فیلیپین"
+      ],
+      "Pitcairn": [
+        "پیتکارین"
+      ],
+      "Poland": [
+        "لهستان"
+      ],
+      "Portugal": [
+        "پرتقال"
+      ],
+      "Puerto Rico": [
+        "پورتوریکو"
+      ],
+      "Qatar": [
+        "قطر"
+      ],
+      "Reunion": [
+        "رئونیون"
+      ],
+      "Romania": [
+        "روماني"
+      ],
+      "Russia": [
+        "روسیه"
+      ],
+      "Rwanda": [
+        "رواندا"
+      ],
+      "Saint Barthélemy": [
+        "سنت بارتلی"
+      ],
+      "Saint Helena": [
+        "سن هلن"
+      ],
+      "Saint Kitts and Nevis": [
+        "سنت کیتس و نویس"
+      ],
+      "Saint Lucia": [
+        "سنت لوسیا"
+      ],
+      "Saint Martin (French Part)": [
+        "سن مارتین (فرانسه)"
+      ],
+      "Saint Pierre and Miquelon": [
+        "سنت پیر و ماژلان"
+      ],
+      "Saint Vincent and the Grenadines": [
+        "سنت وینسنت و گرنادین"
+      ],
+      "Samoa": [
+        "ساموآ"
+      ],
+      "San Marino": [
+        "سان مارینو"
+      ],
+      "Sao Tome and Principe": [
+        "سائوتومه و پرنسیپ"
+      ],
+      "Saudi Arabia": [
+        "عربستان سعودی"
+      ],
+      "Senegal": [
+        "سنگال"
+      ],
+      "Serbia": [
+        "صربستان"
+      ],
+      "Seychelles": [
+        "سیشل"
+      ],
+      "Sierra Leone": [
+        "سیرالئون"
+      ],
+      "Singapore": [
+        "سنگاپور"
+      ],
+      "Sint Maarten": [
+        "سن مارتن"
+      ],
+      "Slovakia": [
+        "اسلواکی"
+      ],
+      "Slovenia": [
+        "اسلوانی"
+      ],
+      "Solomon Islands": [
+        "جزایر سلیمان"
+      ],
+      "Somalia": [
+        "سومالی"
+      ],
+      "South Africa": [
+        "آفریقای جنوبی"
+      ],
+      "South Georgia and the South Sandwich Islands": [
+        "گرجستان جنوبی و جزایر ساندویچ جنوبی"
+      ],
+      "South Korea": [
+        "کرهٔ جنوبی"
+      ],
+      "South Ossetia": [
+        "اوستیای جنوبی"
+      ],
+      "South Sudan": [
+        "سودان جنوبی"
+      ],
+      "Spain": [
+        "اسپانیا"
+      ],
+      "Sri Lanka": [
+        "سریلانکا"
+      ],
+      "Sudan": [
+        "سودان"
+      ],
+      "Suriname": [
+        "سورینام"
+      ],
+      "Svalbard and Jan Mayen": [
+        "اسوالبارد و جان ماین"
+      ],
+      "Sweden": [
+        "سوئد"
+      ],
+      "Switzerland": [
+        "سوئیس"
+      ],
+      "Syria": [
+        "سوریه"
+      ],
+      "Taiwan": [
+        "تایوان"
+      ],
+      "Tajikistan": [
+        "تاجیکستان"
+      ],
+      "Tanzania": [
+        "تانزانیا"
+      ],
+      "Thailand": [
+        "تایلند"
+      ],
+      "Timor-Leste": [
+        "تیمور لسته"
+      ],
+      "Togo": [
+        "توگو"
+      ],
+      "Tokelau": [
+        "توکلائو"
+      ],
+      "Tonga": [
+        "تونگا"
+      ],
+      "Trinidad and Tobago": [
+        "ترینیداد و تباگو"
+      ],
+      "Tristan da Cunha": [
+        "تریستان دا کونا"
+      ],
+      "Tunisia": [
+        "تونس"
+      ],
+      "Turkey": [
+        "ترکیه"
+      ],
+      "Turkmenistan": [
+        "ترکمنستان"
+      ],
+      "Turks and Caicos Islands": [
+        "جزایر تورکس و کایکوس"
+      ],
+      "Tuvalu": [
+        "تووالو"
+      ],
+      "Uganda": [
+        "اوگاندا"
+      ],
+      "Ukraine": [
+        "اوکراین"
+      ],
+      "United Arab Emirates": [
+        "امارات متحده عربی"
+      ],
+      "United Kingdom": [
+        "انگلستان"
+      ],
+      "United States": [
+        "آمریکا، ایالات متحده"
+      ],
+      "United States Minor Outlying Islands": [
+        "جزایر کوچک حاشیه ای ایالات متحده"
+      ],
+      "Uruguay": [
+        "اروگوئه"
+      ],
+      "Uzbekistan": [
+        "ازبکستان"
+      ],
+      "Vanuatu": [
+        "وانواتو"
+      ],
+      "Venezuela": [
+        "ونزوئلا"
+      ],
+      "Vietnam": [
+        "ویتنام"
+      ],
+      "Virgin Islands, British": [
+        "جزایر ویرجین انگلیس"
+      ],
+      "Virgin Islands, U.S.": [
+        "جزایر ویرجین آمریکا"
+      ],
+      "Wallis and Futuna": [
+        "والیس و فوتونا"
+      ],
+      "Western Sahara": [
+        "صحرای غربی"
+      ],
+      "Yemen": [
+        "یمن"
+      ],
+      "Zambia": [
+        "زامبیا"
+      ],
+      "Zimbabwe": [
+        "زیمباوه"
+      ],
+      "Åland Islands": [
+        "جزایر الند"
+      ]
+    },
+    "Delinquent modal title": {
+      "Overdue invoice": [
+        "صورت‌حساب‌ واگذاشته"
+      ]
+    },
+    "Error": {
+      "Email is not valid": [
+        "رایانامه معتبر نیست"
+      ],
+      "Enter 6 digits": [
+        "6 رقم وارد کنید"
+      ],
+      "Invalid verification code": [
+        "کد تایید نامعتبر است"
+      ],
+      "Not a valid number": [
+        "عدد معتبری نیست"
+      ],
+      "Passwords do not match": [
+        "گذرواژه‌ها مطابقت ندارند"
+      ],
+      "Request timed out": [
+        "مهلت درخواست تمام شد"
+      ],
+      "This field is required": [
+        "این قسمت الزامی است"
+      ],
+      "This field requires a minimum of ${ minimumLength } characters.": [
+        "این قسمت حداقل به ${ minimumLength } نویسه نیاز دارد."
+      ],
+      "Try using only letters, numerals, and _.-": [
+        "تنها با استفاده از حروف، اعداد و ـ.- امتحان کنید"
+      ],
+      "Unknown error": [
+        "خطای ناشناخته"
+      ]
+    },
+    "Error message": {
+      "Error: ${ errorMessage }": [
+        "خطا: ${ errorMessage }"
+      ],
+      "Oops, something went wrong": [
+        "آه، مشکلی پیش آمد"
+      ],
+      "Please ${ refresh } or check your connection.": [
+        "لطفا ${ refresh } کرده یا اتصال‌تان را بررسی کنید."
+      ],
+      "Something went wrong. Please refresh the page or try again later.": [
+        "مشکلی پیش آمد. لطفا صفحه را تازه سازی کنید یا بعدا تلاش کنید."
+      ],
+      "You may also ${ refresh } or try again later.": [
+        "همچنین می‌توانید ${ refresh } کرده یا بعدا دوباره امتحان کنید."
+      ]
+    },
+    "fido2: Error": {
+      "Something went wrong authenticating with your security key. Please try again.": [
+        "مشکلی در صحت سنجی کلید امنیتی شما پیش آمد. لطفا دوباره امتحان کنید."
+      ]
+    },
+    "fido2: Info": {
+      "Insert a security key linked to your ${ BRAND_NAME } Account.": [
+        "کلید امنیتی مرتبط با اکانت ${ BRAND_NAME } خودتان را وارد کنید."
+      ],
+      "Security key": [
+        "کلید امنیتی"
+      ]
+    },
+    "fido2: Label": {
+      "Security key": [
+        "کلید امنیتی"
+      ]
+    },
+    "Human verification method": {
+      "CAPTCHA": [
+        "کپچا"
+      ],
+      "Email": [
+        "رایانامه"
+      ],
+      "Manual": [
+        "دستی"
+      ],
+      "No verification method available": [
+        "هیچ شیوه تاییدی در دسترس نیست"
+      ],
+      "SMS": [
+        "پیامک"
+      ]
+    },
+    "Info": {
+      "Before requesting a new verification code, check your spam folder and check that ${ strong } is the correct address.": [
+        "قبل از درخواست کد تایید جدید، لطفا پوشه هرزنامه خود را برسسی کنید و مطمئن شوید آدرس ${ strong } صحیح است."
+      ],
+      "Click \"Request new code\" to have a new verification code sent to ${ strong }. If this phone number is incorrect, click \"Edit\" to correct it.": [
+        "روی \"درخواست کد جدید\" کلیک کنید تا یک کد تایید جدید به ${ strong } ارسال شود. اگر این شماره تلفن نادرست است، جهت اصلاح آن روی \"ویرایش\" کلیک نمایید."
+      ],
+      "Each code can only be used once": [
+        "هر کد تنها یک بار می‌تواند استفاده شود"
+      ],
+      "Enter the code from your authenticator app": [
+        "کد سامانه تایید کننده را وارد نمایید"
+      ],
+      "Enter the verification code that was sent to ${ destinationText }.": [
+        "کد تاییدی که به ${ destinationText } ارسال شد را وارد نمایید."
+      ],
+      "Enter your own password (as organization admin).": [
+        "گذرواژه خود را وارد نمایید (به عنوان مدیر سازمان)."
+      ],
+      "If you are having trouble creating your account, please request an invitation and we will respond within one business day.": [
+        "اگر در ایجاد حساب کاربری خود مشکلی دارید، لطفا یک دعوت‌ نامه درخواست کنید و ما ظرف یک روز کاری پاسخ خواهیم داد."
+      ],
+      "If you don't find the email in your inbox, please check your spam folder.": [
+        "اگر رایانامه در صندوق ورودی نمی‌بینید، لطفا پوشه هرزنامه را بررسی کنید."
+      ],
+      "Internet connection lost": [
+        "اتصال اینترنت قطع شد"
+      ],
+      "Learn more": [
+        "بیشتر بدانید"
+      ],
+      "Loading": [
+        "در حال بارگذاری"
+      ],
+      "No results found": [
+        "نتیجه‌ای یافت نشد"
+      ],
+      "Servers are unreachable. Please try again in a few minutes": [
+        "دسترسی به سرورها امکان‌پذیر نیست. لطفاً چند دقیقهٔ دیگر دوباره تلاش کنید"
+      ],
+      "Session timed out": [
+        "زمان نشست پایان یافت"
+      ],
+      "To fight spam and abuse, please verify you are human.": [
+        "برای نبرد با هرزنامه و سوء استفاده، لطفا تایید کنید که شما انسان هستید."
+      ],
+      "We'll send a new verification code to ${ strong }": [
+        "یک کد تأیید جدید به ${ strong } ارسال خواهیم کرد"
+      ],
+      "When you set up two-factor authentication, we provide recovery codes which you can use to sign in if you lose access to your authenticator app.": [
+        "زمانی که شما اصالت‌سنجی دو-عاملی را فعال کنید، ما به شما کد بازیابی میدهیم که در صورت عدم دسترسی به برنامه اصالت‌سنجی خود، میتوانید از این کدها برای ورود به حساب استفاده کنید."
+      ],
+      "Would you like to receive a new verification code or use an alternative verification method?": [
+        "آیا می‌خواهید یک کد تایید جدید دریافت نمایید یا از یک روش تایید جایگزین استفاده کنید؟"
+      ],
+      "Would you like to receive a new verification code?": [
+        "آیا می‌خواهید یک کد تأیید جدید دریافت کنید؟"
+      ],
+      "Your email will only be used for this one-time verification.": [
+        "از رایانامه شما فقط برای این تایید یکبار مصرف استفاده خواهد شد."
+      ],
+      "Your phone number will only be used for this one-time verification.": [
+        "از شماره تلفن شما فقط برای این تایید یکبار مصرف استفاده خواهد شد."
+      ]
+    },
+    "Label": {
+      "Authenticator app": [
+        "برنامه اصالت سنجی"
+      ],
+      "Code is 6 digits without spaces": [
+        "کد ۶ رقمی بدون فاصله می‌باشد"
+      ],
+      "Email address": [
+        "رایانشانی"
+      ],
+      "Hide password": [
+        "پنهان‌سازی گذرواژه"
+      ],
+      "Password": [
+        "گذرواژه"
+      ],
+      "Phone number": [
+        "شماره تلفن"
+      ],
+      "Reveal password": [
+        "افشای گذرواژه"
+      ],
+      "Verification code": [
+        "کد تایید"
+      ],
+      "Your password (admin)": [
+        "گذرواژه شما (مدیر)"
+      ]
+    },
+    "Link": {
+      "Learn more": [
+        "بیشتر بدانید"
+      ],
+      "Request an invite": [
+        "درخواست دعوت‌نامه"
+      ]
+    },
+    "Placeholder": {
+      "Password": [
+        "گذرواژه"
+      ]
+    },
+    "Success": {
+      "Code sent to ${ methodTo }": [
+        "کد به ${ methodTo } ارسال شد"
+      ],
+      "Verification successful": [
+        "تایید با موفقیت بود"
+      ]
+    },
+    "Title": {
+      "Enter your password": [
+        "گذرواژه خود را وارد کنید"
+      ],
+      "Human verification": [
+        "تشخیص انسان"
+      ],
+      "Invalid verification code": [
+        "کد تایید نامعتبر است"
+      ],
+      "Request new code": [
+        "درخواست کد جدید"
+      ],
+      "Two-factor authentication": [
+        "احراز هویت دو مرحله‌ای"
+      ]
+    },
+    "Validation": {
+      "Password must contain at least ${ length } character": [
+        "گذرواژه باید حداقل ${ length } نویسه داشته باشد",
+        "گذرواژه باید حداقل ${ length } نویسه داشته باشد"
+      ],
+      "Try a shorter username (${ n } character max)": [
+        "یک نام کاربری کوتاه تر انتخاب کنید (حداکثر ${ n } کارکتر)",
+        "یک نام کاربری کوتاه تر انتخاب کنید (حداکثر ${ n } کارکتر)"
+      ]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+.grid-align-icon {
+	display: grid;
+	grid-template-columns: auto 1fr;
+}
+
+.grid-align-icon-center {
+	@extend .grid-align-icon;
+
+	align-items: center;
+}
+
+.grid-align-icon > *:not(svg, .keep-left) {
+	grid-column-start: 2;
+}
