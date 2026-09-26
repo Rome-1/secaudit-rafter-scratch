@@ -1,0 +1,8 @@
+@import '~@proton/styles/scss/lib';
+
+.sub-settings-section {
+	&-anchor {
+		inset-inline-start: rem(-22);
+		padding-inline-end: rem(6); // Cover the title to avoid it disappearing and reappearing when hovering
+	}
+}

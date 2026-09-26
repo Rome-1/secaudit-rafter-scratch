@@ -1,0 +1,32 @@
+import { EasyTrans } from '@proton/activation/src/helpers/easyTrans';
+import { MailImportPayloadError } from '@proton/activation/src/interface';
+import { Icon, Tooltip } from '@proton/components';
+
+interface Props {
+    checked: boolean;
+    errors: MailImportPayloadError[];
+}
+
+const ManageFoldersRowLabelErrors = ({ checked, errors }: Props) => {
+    const trans = EasyTrans.get(true);
+    const tooLong = errors.includes(MailImportPayloadError.LABEL_NAMES_TOO_LONG);
+    const alreadyUsed = errors.includes(MailImportPayloadError.UNAVAILABLE_NAMES);
+
+    return checked ? (
+        <div className="shrink-0 inline-flex self-center shrink-0 ml-4">
+            {tooLong && (
+                <Tooltip title={trans.errorNameTooLong()} type="error">
+                    <Icon tabIndex={-1} name="info-circle" className="color-danger" />
+                </Tooltip>
+            )}
+
+            {alreadyUsed && !tooLong && (
+                <Tooltip title={trans.errorNameAlreadyExists()} type="error">
+                    <Icon tabIndex={-1} name="info-circle" className="color-danger" />
+                </Tooltip>
+            )}
+        </div>
+    ) : null;
+};
+
+export default ManageFoldersRowLabelErrors;
