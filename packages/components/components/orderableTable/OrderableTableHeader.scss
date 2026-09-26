@@ -1,0 +1,7 @@
+@import '~@proton/styles/scss/config';
+
+.orderableTableHeader {
+	th:first-child {
+		inline-size: rem(35);
+	}
+}

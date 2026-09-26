@@ -1,0 +1,12 @@
+@import '~@proton/styles/scss/proton-drive';
+@import '~@proton/styles/scss/specifics/placeholder-loading';
+@import '~@proton/styles/scss/specifics/list';
+
+@import './components/FileBrowser/FileBrowser.scss';
+@import './components/TransferManager/TransferManager.scss';
+@import './components/uploads/UploadDragDrop/UploadDragDrop.scss';
+@import './components/FolderTree/FolderTree.scss';
+@import './components/ShareLinkModal/ShareLinkModal.scss';
+@import './components/layout/DriveSidebar/DriveSidebar.scss';
+@import './components/sections/sections.scss';
+@import './components/DownloadShared/DownloadShared.scss';
