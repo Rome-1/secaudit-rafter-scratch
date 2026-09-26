@@ -1,0 +1,18 @@
+/app/src/utils/exportUtils/HtmlExport.tsx:    public getEventTile(mxEv: MatrixEvent, continuation: boolean): JSX.Element {
+/app/src/utils/exportUtils/HtmlExport.tsx:    protected async getEventTileMarkup(mxEv: MatrixEvent, continuation: boolean, filePath?: string): Promise<string> {
+/app/src/utils/exportUtils/HtmlExport.tsx:        const EventTile = this.getEventTile(mxEv, continuation);
+/app/src/utils/exportUtils/HtmlExport.tsx:                            eventTile = await this.getEventTileMarkup(
+/app/src/utils/exportUtils/HtmlExport.tsx:                            eventTile = await this.getEventTileMarkup(mxEv, joined, filePath);
+/app/src/utils/exportUtils/HtmlExport.tsx:                        eventTile = await this.getEventTileMarkup(
+/app/src/utils/exportUtils/HtmlExport.tsx:                    eventTile = await this.getEventTileMarkup(
+/app/src/utils/exportUtils/HtmlExport.tsx:                eventTile = await this.getEventTileMarkup(mxEv, joined);
+/app/src/utils/exportUtils/HtmlExport.tsx:            eventTile = await this.getEventTileMarkup(
+/app/src/components/views/rooms/EventTile.tsx:    getEventTileOps?(): IEventTileOps;
+/app/src/components/views/rooms/EventTile.tsx:        const eventTileOps = tile?.getEventTileOps ? tile.getEventTileOps() : undefined;
+/app/src/components/views/messages/MessageActionBar.tsx:                eventTileOps={tile && tile.getEventTileOps ? tile.getEventTileOps() : undefined}
+/app/src/components/views/messages/MessageEvent.tsx:    getEventTileOps(): IEventTileOps | null;
+/app/src/components/views/messages/MessageEvent.tsx:    public getEventTileOps = (): IEventTileOps | null => {
+/app/src/components/views/messages/MessageEvent.tsx:        return (this.body.current as IOperableEventTile)?.getEventTileOps?.() || null;
+/app/src/components/views/messages/TextualBody.tsx:    public getEventTileOps = (): IEventTileOps => ({
+/app/src/components/structures/MessagePanel.tsx:    private getEventTiles(): ReactNode[] {
+/app/src/components/structures/MessagePanel.tsx:                    {this.getEventTiles()}
