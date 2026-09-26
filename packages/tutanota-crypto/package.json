@@ -1,0 +1,28 @@
+{
+	"name": "@tutao/tutanota-crypto",
+	"version": "3.116.8",
+	"license": "GPL-3.0",
+	"main": "./dist/index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/tutao/tutanota.git",
+		"directory": "packages/tutanota-crypto"
+	},
+	"scripts": {
+		"prepublishOnly": "npm run build",
+		"build": "tsc -b",
+		"test": "tsc -b test && cd build && node test/Suite.js"
+	},
+	"type": "module",
+	"files": [
+		"dist/*",
+		"README.md",
+		"LICENSE.txt",
+		"tsconfig.json"
+	],
+	"devDependencies": {
+		"typescript": "5.0.3",
+		"@tutao/tutanota-utils": "3.116.8",
+		"@tutao/otest": "3.116.8"
+	}
+}
